@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97096,
+  "num_followers": 97100,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABGfYDzW1+gPoXpHn52f1TS",
+  "snapshot_id": "aQqTgAAAAACwzd2J0PN421NpqsmOEi5r",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1n Bello Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/5oRGES0ivZDuRuBSPdbSpN"
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 211589,
-      "name": "Cu\u00e1n Bello Es El Se\u00f1or",
-      "url": "https://open.spotify.com/track/5JDoXnmDmAFmZbkwQSBaCD"
+      "duration_ms": 358086,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+        "name": "Cu\u00e1n Bello Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/5oRGES0ivZDuRuBSPdbSpN"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 358086,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
+      "duration_ms": 211589,
+      "name": "Cu\u00e1n Bello Es El Se\u00f1or",
+      "url": "https://open.spotify.com/track/5JDoXnmDmAFmZbkwQSBaCD"
     },
     {
       "added_at": null,

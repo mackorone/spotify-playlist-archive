@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
 336 songs - 1 day 5 hr 19 min
 
@@ -30,7 +30,7 @@
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/1YKdd2qGWbHTlUPICTZ9b8) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuấn Vũ \- Tuyệt Phẩm Để Đời](https://open.spotify.com/album/7dXRbsTyd3zxiA931DSi6k) | 5:49 | 2023-10-06 | 2023-10-13 |
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/6UD98g4tbiLzjas9m81jpo) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/5e8L4OFh0PSEKzWYKY9uAK) | 5:31 | 2022-03-11 | 2022-07-28 |
 | [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 | 2024-05-27 |  |
-| [Chuyen Tinh Nguoi Dan Ao](https://open.spotify.com/track/4ySMmjCyJvFt3eMbIjFyv7) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:01 | 2025-06-03 |  |
+| [Chuyen Tinh Nguoi Dan Ao](https://open.spotify.com/track/4ySMmjCyJvFt3eMbIjFyv7) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:01 | 2025-06-03 | 2025-11-07 |
 | [Chuyến tàu hoàng hôn](https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Thương Về Miền Trung](https://open.spotify.com/album/3N6nwHtcPzuxlnwWFj4jYA) | 5:36 | 2022-03-11 |  |
 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 4:55 | 2022-03-11 |  |
 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/0Lk9vVQXX2lgzUHQUorp2T) | [Nghệ sĩ Thụy Mười](https://open.spotify.com/artist/3HmGUdPh4IOzv9WXoFkHgJ) | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/album/18x2bES32ZumNCvQQnssB8) | 6:17 | 2023-05-24 | 2024-02-22 |
@@ -83,7 +83,7 @@
 | [Hai Mua Mua](https://open.spotify.com/track/1BhDgPwf1ocaXzFWIfzZFN) | [Mỹ Huyền](https://open.spotify.com/artist/49XaufENFxa27swhjCgZdB) | [Dong Nhac Anh Bang: Mai Toi Di](https://open.spotify.com/album/3rD0IYBCTswvgRgCklLpeX) | 3:03 | 2025-02-06 | 2025-04-14 |
 | [Hai Sac Hoa Tigon](https://open.spotify.com/track/7su2RDJv3bxCxcHdml8Nds) | [Nhật Trường](https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA) | [Hai Sac Hoa Tigon](https://open.spotify.com/album/0Oxk0Dp5elEE2tHw44B9Vu) | 5:19 | 2024-03-11 | 2024-05-10 |
 | [Hai Vi Sao Lac](https://open.spotify.com/track/6qXIRHWkzCtEPERZGXO5C2) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:13 | 2024-05-27 | 2025-06-12 |
-| [Hai Vì Sao Lạc](https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 4:45 | 2025-06-03 | 2025-11-05 |
+| [Hai Vì Sao Lạc](https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 4:45 | 2025-06-03 |  |
 | [Hai Đứa Giận Nhau](https://open.spotify.com/track/5C8bpJ6lF7uUN6m7eH4OqB) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Hoa Sứ Nhà Nàng](https://open.spotify.com/album/5yqR0lOWsbgXwzRAyIPXVv) | 5:14 | 2024-03-11 | 2024-04-19 |
 | [Han Tinh](https://open.spotify.com/track/1iArXR3sWYHMASBzVtFdNx) | [Thiên Trang](https://open.spotify.com/artist/7zR1RF6IqZwR9CgCC3rXOl) | [Doi Bong](https://open.spotify.com/album/01uJIC5dLS9vKmquKHn5of) | 4:39 | 2025-05-02 | 2025-05-24 |
 | [Hoa Lòng Anh Vẫn Tím](https://open.spotify.com/track/1Oza0WjJTZarmRU1nfpyQ1) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Hoa Lòng Anh Vẫn Tím](https://open.spotify.com/album/01FKRYpfJ2QQKu8bQFe9f9) | 5:39 | 2022-03-11 | 2024-05-19 |

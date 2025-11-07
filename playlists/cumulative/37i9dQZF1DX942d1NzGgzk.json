@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B in the UK. Cover: Ama Louise",
+  "description": "The latest of R&B in the UK. Cover: TYLER LEWIS",
   "name": "R&B UK",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 131166,
       "name": "amnesia",
       "url": "https://open.spotify.com/track/5vikELAxB9FqmLjnvPErxr"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 164122,
       "name": "Butter",
       "url": "https://open.spotify.com/track/31lLLLXf3rF27j0jY4d2Xf"
@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/4GcNMrejFGtQtlv5P23raK"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Dowsson",
+          "url": "https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204615,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/5gHKTj0OrjyQz8KTwVTuMx"
+    },
+    {
+      "album": {
         "name": "Company (feat. Mereba)",
         "url": "https://open.spotify.com/album/1nAlbsN18gs5usD43mb6BC"
       },
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175698,
       "name": "Diamonds & Flowers",
       "url": "https://open.spotify.com/track/6043obWnw1f8z343NzVVVU"
@@ -2236,6 +2254,24 @@
       "duration_ms": 271360,
       "name": "Dreamer Too",
       "url": "https://open.spotify.com/track/2RmS9jVUAVRH5dm02SYsVk"
+    },
+    {
+      "album": {
+        "name": "Drive Me Crazy",
+        "url": "https://open.spotify.com/album/3PKrp0nvg2v8Fs9zIgbgMF"
+      },
+      "artists": [
+        {
+          "name": "MADEINPARRIS",
+          "url": "https://open.spotify.com/artist/2UiZpyNlTfTf1TX5pQ0cnU"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181475,
+      "name": "Drive Me Crazy",
+      "url": "https://open.spotify.com/track/02moFsWJxRYeZbBD2pLzUa"
     },
     {
       "album": {
@@ -3645,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "hella jealous",
+        "url": "https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz"
+      },
+      "artists": [
+        {
+          "name": "TYLER LEWIS",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189401,
+      "name": "hella jealous",
+      "url": "https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj"
+    },
+    {
+      "album": {
         "name": "Help Me Fight a Losing Battle",
         "url": "https://open.spotify.com/album/6kBvVJERDoMx7Ec7L3BjOT"
       },
@@ -4216,7 +4270,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 152698,
       "name": "Impulses",
       "url": "https://open.spotify.com/track/1pyyZmEYPKY0r7cUMIT1gt"
@@ -6465,6 +6519,24 @@
     },
     {
       "album": {
+        "name": "Old Me",
+        "url": "https://open.spotify.com/album/5WfbbIDRiUQOBQ2E6Sqi8g"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217524,
+      "name": "Old Me",
+      "url": "https://open.spotify.com/track/6cuJsVA2GrUZDHP2cYnD1f"
+    },
+    {
+      "album": {
         "name": "Fool Me Once",
         "url": "https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl"
       },
@@ -6870,6 +6942,24 @@
       "duration_ms": 192733,
       "name": "Over You",
       "url": "https://open.spotify.com/track/1Ndba1dqYEiS2KvIG9M2Fr"
+    },
+    {
+      "album": {
+        "name": "Over&Over",
+        "url": "https://open.spotify.com/album/7oKRQr8QTTu8RUl9Ro7igX"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125647,
+      "name": "Over&Over",
+      "url": "https://open.spotify.com/track/74IbMdoHT58UPiIszgUCuM"
     },
     {
       "album": {
@@ -7730,7 +7820,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 97959,
       "name": "shouldn't have",
       "url": "https://open.spotify.com/track/1Wxoo2ouIIn3UfSszx7BT5"
@@ -9039,6 +9129,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/2ZXstywlOq3OrFDhxXGHyo"
+    },
+    {
+      "album": {
         "name": "Tried To Fly .",
         "url": "https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA"
       },
@@ -10006,7 +10114,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 160959,
       "name": "Your Aura",
       "url": "https://open.spotify.com/track/4tGTQN1OpWoVV34xVcYsGk"

@@ -11021,6 +11021,24 @@
     },
     {
       "album": {
+        "name": "Whiskey River",
+        "url": "https://open.spotify.com/album/0jBh8fTaj1ih73onffOfgJ"
+      },
+      "artists": [
+        {
+          "name": "Grayson Hamm",
+          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/2ccCZk3DGQ6nm8sNH2ck4F"
+    },
+    {
+      "album": {
         "name": "Metronomy Forever",
         "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
       },

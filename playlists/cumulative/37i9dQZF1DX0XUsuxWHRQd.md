@@ -4,7 +4,7 @@
 
 > New music from Tyler, The Creator.
 
-2,547 songs - 5 day 12 hr 9 min
+2,548 songs - 5 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [Catch Fire](https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Catch Fire](https://open.spotify.com/album/6VPisLb36V8VxxQhs0RyDH) | 1:59 | 2024-11-01 | 2024-11-16 |
 | [Catch The Sun \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/7kex0hl1dCvv6UqqZKGi1t) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/6MI7UpFxq0mOdOeDnfa2eg) | 3:02 | 2019-11-15 | 2019-11-29 |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-01-10 | 2025-03-08 |
+| [Cell Therapy](https://open.spotify.com/track/5wvxRlpUTSX9CE52yFZsIY) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Soul Food](https://open.spotify.com/album/6cKgDS8oVcCNw9EjQf66er) | 4:37 | 2025-11-06 |  |
 | [Certified \(feat\. Gunna\)](https://open.spotify.com/track/31xA2Iti4kb3aMiX75e8Y5) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Shiesty Season: Certified](https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE) | 2:29 | 2022-04-29 | 2022-07-30 |
 | [Chains & Whips](https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:03 | 2025-07-12 | 2025-10-18 |
 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-13 | 2025-09-06 |

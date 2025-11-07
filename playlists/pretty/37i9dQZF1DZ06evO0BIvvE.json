@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACoChVD0K5IsFevD/PzZxaI",
+  "snapshot_id": "aQqTgAAAAACUhkVbuGWEL2DbAYlkVSMC",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "Bring the Family Back",
-      "url": "https://open.spotify.com/track/2p1SZrBaJS6yHK0OdPfo1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 430586,
       "name": "Let's Make a Baby",
       "url": "https://open.spotify.com/track/2nUdP86O3XTrrsz4KItvQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "Bring the Family Back",
+      "url": "https://open.spotify.com/track/2p1SZrBaJS6yHK0OdPfo1x"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 329106,
-      "name": "July, July, July, July",
-      "url": "https://open.spotify.com/track/2SHMTYTsis20SNBwH6kxSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 298800,
       "name": "Let the Dollar Circulate",
       "url": "https://open.spotify.com/track/3ihmJ6AKx2BC6vWhx25eaH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 329106,
+      "name": "July, July, July, July",
+      "url": "https://open.spotify.com/track/2SHMTYTsis20SNBwH6kxSA"
     },
     {
       "added_at": null,
@@ -403,54 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Billy's Back Home",
-      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Love Buddies",
-      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Love Is New",
-        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 329013,
-      "name": "When Love Is New",
-      "url": "https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me and Mrs. Jones (1895 Jazz Remix)",
         "url": "https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs"
       },
@@ -471,6 +423,54 @@
       "duration_ms": 308103,
       "name": "Me and Mrs. Jones (1895 Jazz Remix)",
       "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Billy's Back Home",
+      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Love Is New",
+        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 329013,
+      "name": "When Love Is New",
+      "url": "https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Love Buddies",
+      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 255053,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 287160,
       "name": "The Whole Town's Talking",
       "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ebony Woman",
-        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 230440,
-      "name": "Let's Fall In Love All Over Again",
-      "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+        "name": "Ebony Woman",
+        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+      "duration_ms": 230440,
+      "name": "Let's Fall In Love All Over Again",
+      "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ebony Woman",
-        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 232186,
-      "name": "Ebony Woman",
-      "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
+      "duration_ms": 260866,
+      "name": "What A Way To Love",
+      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+        "name": "Ebony Woman",
+        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
       },
       "artists": [
         {
@@ -704,9 +704,25 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 260866,
-      "name": "What A Way To Love",
-      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
+      "duration_ms": 232186,
+      "name": "Ebony Woman",
+      "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feelin' Good at the Cadillac Club",
+        "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 321013,
       "name": "America (We Need the Light)",
       "url": "https://open.spotify.com/track/3rCSyRKxjdX7l6QtIQmGhi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feelin' Good at the Cadillac Club",
-        "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 155760,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 387426,
-      "name": "East",
-      "url": "https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 414080,
       "name": "Peace Holy Peace",
       "url": "https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 387426,
+      "name": "East",
+      "url": "https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37"
     }
   ],
   "unique_name": "This Is Billy Paul",

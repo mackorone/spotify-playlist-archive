@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1383095,
+  "num_followers": 1383293,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABoL0JpVGnpT+Hmzf+2vBkE",
+  "snapshot_id": "aQqTgAAAAAA8NGhH6PdnTwe7UD4zYm/6",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagros",
-        "url": "https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagros",
+        "url": "https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
     },
     {
       "added_at": null,
@@ -488,7 +488,7 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 226093,
+      "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
     },

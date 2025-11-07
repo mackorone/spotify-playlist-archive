@@ -1,12 +1,12 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/this-year-the-fall-season-is-in-bloom\">October newsletter w/ Audrey Hobert is live \ud83e\udebf</a> Cover: Oklou",
-  "num_followers": 1187338,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/this-year-the-fall-season-is-in-bloom\">October newsletter w/ Audrey Hobert is live \ud83e\udebf</a> Cover: underscores",
+  "num_followers": 1187328,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZnfezO5f4JeAHPtG6nV/x8qj1F",
+  "snapshot_id": "AAAAADyP/ym12C0pAQeqsr6JGsUjw/al",
   "tracks": [
     {
       "added_at": "2025-11-05 21:42:50",
@@ -49,44 +49,88 @@
       "url": "https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx"
     },
     {
-      "added_at": "2025-10-28 00:47:55",
+      "added_at": "2025-11-07 03:15:20",
       "album": {
-        "name": "Berghain",
-        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+        "name": "Beck n Call",
+        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Beck n Call",
+      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
+    },
+    {
+      "added_at": "2025-11-07 03:15:20",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 178853,
-      "name": "Berghain",
-      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "added_at": "2025-11-07 03:15:20",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Stranger to love",
+      "url": "https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy"
+    },
+    {
+      "added_at": "2025-11-07 03:15:20",
+      "album": {
+        "name": "Time Time Time (I'm in the Palm of Your Hand)",
+        "url": "https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "You Know I Hate it (How The World Moves On)",
+      "url": "https://open.spotify.com/track/0d7Gjq2qwvcaoXpeLWFtnf"
     },
     {
       "added_at": "2025-10-31 04:00:41",
       "album": {
-        "name": "choke enough (Deluxe)",
-        "url": "https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO"
+        "name": "CY",
+        "url": "https://open.spotify.com/album/16UbcoUWBK6nwzPfCnO1R2"
       },
       "artists": [
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
         }
       ],
-      "duration_ms": 203818,
-      "name": "what's good",
-      "url": "https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P"
+      "duration_ms": 270080,
+      "name": "CY",
+      "url": "https://open.spotify.com/track/3qKYZAvIbxsxMtBLDucDz6"
     },
     {
       "added_at": "2025-11-05 22:17:58",
@@ -103,6 +147,42 @@
       "duration_ms": 226283,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
+    },
+    {
+      "added_at": "2025-11-07 03:15:20",
+      "album": {
+        "name": "Big city life EDITS",
+        "url": "https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        },
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "A thousand lies - Fine EDIT",
+      "url": "https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS"
+    },
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "choke enough (Deluxe)",
+        "url": "https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 203818,
+      "name": "what's good",
+      "url": "https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P"
     },
     {
       "added_at": "2025-10-31 04:00:41",
@@ -173,6 +253,22 @@
       "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
     },
     {
+      "added_at": "2025-10-17 04:01:01",
+      "album": {
+        "name": "Time Time Time (I'm in the Palm of Your Hand)",
+        "url": "https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "Time Time Time (I'm in the Palm of Your Hand)",
+      "url": "https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD"
+    },
+    {
       "added_at": "2025-10-31 04:00:41",
       "album": {
         "name": "The Provocateur",
@@ -189,36 +285,28 @@
       "url": "https://open.spotify.com/track/6ao9HoZWocOyi2KvWW7g8L"
     },
     {
-      "added_at": "2025-10-31 04:00:41",
+      "added_at": "2025-10-28 00:47:55",
       "album": {
-        "name": "CY",
-        "url": "https://open.spotify.com/album/16UbcoUWBK6nwzPfCnO1R2"
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
       "artists": [
         {
-          "name": "Mother Soki",
-          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "CY",
-      "url": "https://open.spotify.com/track/3qKYZAvIbxsxMtBLDucDz6"
-    },
-    {
-      "added_at": "2025-10-17 04:01:01",
-      "album": {
-        "name": "Time Time Time (I'm in the Palm of Your Hand)",
-        "url": "https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG"
-      },
-      "artists": [
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
         {
-          "name": "Yndling",
-          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 210400,
-      "name": "Time Time Time (I'm in the Palm of Your Hand)",
-      "url": "https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD"
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
     },
     {
       "added_at": "2025-10-31 04:00:41",
@@ -267,6 +355,22 @@
       "duration_ms": 193046,
       "name": "Normal Today",
       "url": "https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk"
+    },
+    {
+      "added_at": "2025-11-06 04:31:08",
+      "album": {
+        "name": "The Singer and the Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 100746,
+      "name": "Bless the Telephone",
+      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
     },
     {
       "added_at": "2025-10-24 04:00:31",
@@ -409,6 +513,22 @@
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
     },
     {
+      "added_at": "2025-10-17 04:01:01",
+      "album": {
+        "name": "Sleeping Away My Prime",
+        "url": "https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "duration_ms": 153802,
+      "name": "Sleeping Away My Prime",
+      "url": "https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn"
+    },
+    {
       "added_at": "2025-09-26 04:00:24",
       "album": {
         "name": "hang on the wall what you kill",
@@ -491,22 +611,6 @@
     {
       "added_at": "2025-10-17 04:01:01",
       "album": {
-        "name": "Sleeping Away My Prime",
-        "url": "https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK"
-      },
-      "artists": [
-        {
-          "name": "DellaXOZ",
-          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
-        }
-      ],
-      "duration_ms": 153802,
-      "name": "Sleeping Away My Prime",
-      "url": "https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn"
-    },
-    {
-      "added_at": "2025-10-17 04:01:01",
-      "album": {
         "name": "Name the Band",
         "url": "https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ"
       },
@@ -519,6 +623,22 @@
       "duration_ms": 92883,
       "name": "Name the Band",
       "url": "https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN"
+    },
+    {
+      "added_at": "2025-09-26 04:00:24",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
     },
     {
       "added_at": "2025-10-24 04:00:31",
@@ -651,22 +771,6 @@
       "duration_ms": 191368,
       "name": "Love by November",
       "url": "https://open.spotify.com/track/01jAWYp7hyHRZjg2c7rvf0"
-    },
-    {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
     },
     {
       "added_at": "2025-10-17 04:01:01",
@@ -1569,38 +1673,6 @@
       "url": "https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG"
     },
     {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o"
-      },
-      "artists": [
-        {
-          "name": "Witch Post",
-          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
-        }
-      ],
-      "duration_ms": 168551,
-      "name": "Chill Out",
-      "url": "https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
-        "name": "Closing In",
-        "url": "https://open.spotify.com/album/1royFvTqc7dMBe0vFRobGX"
-      },
-      "artists": [
-        {
-          "name": "Ray Bull",
-          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
-        }
-      ],
-      "duration_ms": 268725,
-      "name": "Closing In",
-      "url": "https://open.spotify.com/track/0zOMy6GcTK1CWltATkKTU1"
-    },
-    {
       "added_at": "2025-08-01 04:00:40",
       "album": {
         "name": "jones",
@@ -1713,22 +1785,6 @@
       "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
     },
     {
-      "added_at": "2025-08-08 04:02:53",
-      "album": {
-        "name": "Willoughby Tucker, I'll Always Love You",
-        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 300125,
-      "name": "Janie",
-      "url": "https://open.spotify.com/track/1ZPct0Fm4bWqtdfmf1Cspt"
-    },
-    {
       "added_at": "2025-07-02 04:00:05",
       "album": {
         "name": "starburn",
@@ -1795,6 +1851,22 @@
       "duration_ms": 172666,
       "name": "Post Break Up Beauty",
       "url": "https://open.spotify.com/track/2sHayl1gSu80Y4nDcRrEfT"
+    },
+    {
+      "added_at": "2025-07-24 16:56:47",
+      "album": {
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
     },
     {
       "added_at": "2025-08-08 04:02:53",
@@ -1879,22 +1951,6 @@
     {
       "added_at": "2025-08-01 04:00:40",
       "album": {
-        "name": "Zissou",
-        "url": "https://open.spotify.com/album/2YfVmYOLAEtZnLyyd84loI"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 175710,
-      "name": "Zissou",
-      "url": "https://open.spotify.com/track/327LcFKBfKSB1jEbCiX0zF"
-    },
-    {
-      "added_at": "2025-08-01 04:00:40",
-      "album": {
         "name": "Hotel TV",
         "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
       },
@@ -1943,22 +1999,6 @@
       "duration_ms": 162321,
       "name": "Enjoy Yourself - very cool tutorials Remix",
       "url": "https://open.spotify.com/track/7MVgoiNaYhQaQmkEfzdGU6"
-    },
-    {
-      "added_at": "2025-07-24 16:56:47",
-      "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
     },
     {
       "added_at": "2025-08-08 04:02:53",
@@ -2131,38 +2171,6 @@
       "duration_ms": 156952,
       "name": "midsummer pipe dream",
       "url": "https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV"
-    },
-    {
-      "added_at": "2025-07-22 23:48:15",
-      "album": {
-        "name": "one thing",
-        "url": "https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 282916,
-      "name": "one thing",
-      "url": "https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli"
-    },
-    {
-      "added_at": "2025-07-28 16:31:28",
-      "album": {
-        "name": "bug",
-        "url": "https://open.spotify.com/album/10vU2bLQSLXs0HJfMHQIkg"
-      },
-      "artists": [
-        {
-          "name": "emory",
-          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "bug",
-      "url": "https://open.spotify.com/track/7jPhUp1P0AcX3pQA3N5jI7"
     },
     {
       "added_at": "2025-07-17 18:21:08",
@@ -2387,22 +2395,6 @@
       "duration_ms": 364800,
       "name": "Fuck Me Eyes",
       "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
-    },
-    {
-      "added_at": "2025-06-21 01:13:28",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/0XFMxuZD5kbRlBSP5UZI8h"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7"
     },
     {
       "added_at": "2025-06-11 21:27:21",

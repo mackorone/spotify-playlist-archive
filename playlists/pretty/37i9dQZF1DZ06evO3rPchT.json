@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 83490,
+  "num_followers": 83506,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAFfC4P6e4ODmsXmvKyjZCI",
+  "snapshot_id": "aQqTgAAAAAAGO8Hoxm0DU+PSTZsE0yxw",
   "tracks": [
     {
       "added_at": null,
@@ -175,30 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beers On Me",
-        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Beers On Me",
-      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -223,6 +199,30 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/2tev2oEdAUyNtR1U8gQ8c4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beers On Me",
+        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Beers On Me",
+      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 212685,
-      "name": "Good Ole Boy",
-      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 220479,
       "name": "Hide My Gun (Feat. HARDY)",
       "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 212685,
+      "name": "Good Ole Boy",
+      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217270,
-      "name": "Take The Country And Run",
-      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quit!!",
         "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 194341,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217270,
+      "name": "Take The Country And Run",
+      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 193397,
+      "name": "WHYBMWL",
+      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COUNTRY! COUNTRY!",
         "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 218471,
       "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
       "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193397,
-      "name": "WHYBMWL",
-      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 204910,
-      "name": "Country In Me",
-      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dog Years",
         "url": "https://open.spotify.com/album/7pPNAH85dZ7ISCOtk8MvDI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 256627,
       "name": "Dog Years",
       "url": "https://open.spotify.com/track/3WH2Z2ZoUv0RB0NBV13YY9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 204910,
+      "name": "Country In Me",
+      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Luckiest Man Alive",
-      "url": "https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "s\u00f8n of dad (deluxe)",
         "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 272712,
       "name": "Father\u2019s S\u00f8n - Acoustic",
       "url": "https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "Luckiest Man Alive",
+      "url": "https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "Gun To My Head",
-      "url": "https://open.spotify.com/track/3VVIWGnCANZczMUaMMqhWG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COUNTRY!",
         "url": "https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 184281,
       "name": "Buck On The Wall",
       "url": "https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 228759,
+      "name": "Gun To My Head",
+      "url": "https://open.spotify.com/track/3VVIWGnCANZczMUaMMqhWG"
     },
     {
       "added_at": null,
@@ -855,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bro Country",
-        "url": "https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f"
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         },
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 285884,
-      "name": "Bro Country (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z"
+      "duration_ms": 195236,
+      "name": "The Better Me",
+      "url": "https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9"
     },
     {
       "added_at": null,
@@ -891,22 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+        "name": "Bro Country",
+        "url": "https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        },
-        {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
         }
       ],
-      "duration_ms": 195236,
-      "name": "The Better Me",
-      "url": "https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9"
+      "duration_ms": 285884,
+      "name": "Bro Country (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z"
     },
     {
       "added_at": null,

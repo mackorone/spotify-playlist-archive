@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 117 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 35 | [Still Around](https://open.spotify.com/track/0Hq59Tzh4STCnCdokgbqJb) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Still Around](https://open.spotify.com/album/4NEFNu7aGFVM6ASDHmbacA) | 2:55 |
 | 36 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
 | 37 | [Safe Place](https://open.spotify.com/track/26zJD97craL4pSO9L0G3jz) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Safe Place](https://open.spotify.com/album/5Fbr4tGS73s5V7siAm3hPj) | 3:43 |
-| 38 | [Ruin](https://open.spotify.com/track/2xCY38WpqpCijxPksvgw0f) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ruin](https://open.spotify.com/album/2m4DXXAkbWklfr8in5BAuZ) | 3:57 |
-| 39 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 |
+| 38 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 |
+| 39 | [Ruin](https://open.spotify.com/track/2xCY38WpqpCijxPksvgw0f) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ruin](https://open.spotify.com/album/2m4DXXAkbWklfr8in5BAuZ) | 3:57 |
 | 40 | [Wilder Days](https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Wilder Days EP](https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3) | 3:37 |
 | 41 | [Me and My Mind](https://open.spotify.com/track/6kaGNf9iNyoXgdF6kA0KX3) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/0YRokH3GpJj5bhbgbb4Kn9) | 3:04 |
 | 42 | [Black Soul Ceremony](https://open.spotify.com/track/4mXVIokibUvTrf0XPCpfJe) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Black Soul Ceremony](https://open.spotify.com/album/2Y95VVr68GKBNl0x9KEtTw) | 2:54 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 116 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 117 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcAzpgAAAABiHfa0hE93QOETqv7dicg0`
+Snapshot ID: `AcA5KAAAAACGm2cbrhIKNqmRBshxlpML`

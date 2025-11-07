@@ -3167,6 +3167,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "In The Dark (with Stray Kids)",
+      "url": "https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c"
+    },
+    {
+      "album": {
         "name": "SKZ2021",
         "url": "https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e"
       },

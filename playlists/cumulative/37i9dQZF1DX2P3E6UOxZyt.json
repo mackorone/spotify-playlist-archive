@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u6176\u795d RADAR \u97f3\u6a02\u4eba\u7a81\u7834 1000 \u4f4d\uff01\u91cd\u6eab RADAR \u65b0\u52e2\u529b\u6b77\u4f86\u6700\u53d7\u6b61\u8fce\u6b4c\u624b\u4f5c\u54c1\uff01Cover: \u738bADEN",
+  "description": "\u6176\u795d RADAR \u97f3\u6a02\u4eba\u7a81\u7834 1000 \u4f4d\uff01\u91cd\u6eab RADAR \u65b0\u52e2\u529b\u6b77\u4f86\u6700\u53d7\u6b61\u8fce\u6b4c\u624b\u4f5c\u54c1\uff01Cover: \u9ec3\u744b\u6615 (Haezee)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 209655,
       "name": "10ft",
       "url": "https://open.spotify.com/track/6IWdGMpcqJO3s9WVQx0Qnv"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 140201,
       "name": "EXX",
       "url": "https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3"
@@ -4012,7 +4012,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 160053,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/3osKz5Ht9SamWHjleU9WSb"
@@ -4126,7 +4126,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 161739,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3wkfFsCQzsxGBbLISJUGHV"
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165138,
       "name": "Spida",
       "url": "https://open.spotify.com/track/2l4y3zGp90AkpJUNEE8VkN"
@@ -4642,7 +4642,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 191538,
       "name": "SUPA HERO (feat. BG8LOCC)",
       "url": "https://open.spotify.com/track/0FbQzSm6pHy98Dse2VQXZA"
@@ -5176,6 +5176,28 @@
       "duration_ms": 176774,
       "name": "Wait",
       "url": "https://open.spotify.com/track/5AttPzujnaHLNbZXgShNVs"
+    },
+    {
+      "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/3C5vFNvPNY86KQO7deNC3m"
+      },
+      "artists": [
+        {
+          "name": "\u6c6a\u5b9a\u4e2d DEW",
+          "url": "https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk"
+        },
+        {
+          "name": "\u963f\u862d AC",
+          "url": "https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204117,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/2HBUXuh9PBnkg6Q97HnMLj"
     },
     {
       "album": {
@@ -5840,7 +5862,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 227538,
       "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
       "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
@@ -7022,7 +7044,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 246572,
       "name": "\u5076\u8d85\u7d1a\u5b87\u5b99\u7121\u6575\u9739\u9742\u611b\u5c3c",
       "url": "https://open.spotify.com/track/2jXiwmniYqBQFuL5yku3Qk"
@@ -7396,7 +7418,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 212110,
       "name": "\u5269\u4e0b\u6211\u7684\u6642\u5019",
       "url": "https://open.spotify.com/track/1eyjhqtEKCxSyZ95zum0wJ"
@@ -7436,7 +7458,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 265285,
       "name": "\u5341\u5b57\u8def\u53e3\u21920 (feat. \u963f\u862d AC)",
       "url": "https://open.spotify.com/track/7BsO2u9u2QHdo1bS4Lbk57"
@@ -9630,7 +9652,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 196860,
       "name": "\u611b\u4e0d\u5b9c\u9072 Not Too Late",
       "url": "https://open.spotify.com/track/6XuUa1kXTmQ68DBCi8j9OB"
@@ -9762,6 +9784,24 @@
       "duration_ms": 222500,
       "name": "\u6191\u4ec0\u9ebc - fun cover",
       "url": "https://open.spotify.com/track/6cxcDjtPF0MHUZIYwzftWd"
+    },
+    {
+      "album": {
+        "name": "UNLOCKED",
+        "url": "https://open.spotify.com/album/0hW8LEPCKe0y4HhL2f3NDn"
+      },
+      "artists": [
+        {
+          "name": "Haezee",
+          "url": "https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229143,
+      "name": "\u61c2\u4e8b\u5f97\u53ef\u4ee5",
+      "url": "https://open.spotify.com/track/2hktUEtNzzjFjHOUsHAkr7"
     },
     {
       "album": {
@@ -10764,7 +10804,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 179591,
       "name": "\u661f\u661f\u90fd\u7761\u4e86",
       "url": "https://open.spotify.com/track/6qe6mSJthjFIb9Nln9WzlC"
@@ -11740,7 +11780,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 243118,
       "name": "\u6e34\u671b\u4f60",
       "url": "https://open.spotify.com/track/0W6tav25EnOjhm91IfEKTh"
@@ -12320,6 +12360,28 @@
       "duration_ms": 196642,
       "name": "\u73ca\u8fea",
       "url": "https://open.spotify.com/track/4NRSzG7IKFjxto1nOFv4TM"
+    },
+    {
+      "album": {
+        "name": "\u73e0\u5bf6\u884c",
+        "url": "https://open.spotify.com/album/167sHzAI1pwuvezo5sesIe"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u871c\u8389AMILI",
+          "url": "https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup"
+        },
+        {
+          "name": "Quanzo",
+          "url": "https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204029,
+      "name": "\u73e0\u5bf6\u884c",
+      "url": "https://open.spotify.com/track/0Llg1rG1U7IwAcJewatHLY"
     },
     {
       "album": {
@@ -13352,7 +13414,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 238618,
       "name": "\u84bc\u767d (Netflix \u5f71\u96c6\u300a\u8ab0\u662f\u88ab\u5bb3\u8005\uff1a\u7b2c2\u5b63\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/1yirex810MCm6C0pZn7EP1"
@@ -13688,7 +13750,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 245825,
       "name": "\u8ca0\u6975\u5148\u751f",
       "url": "https://open.spotify.com/track/3gGMlG1KD0QzLYMGDxb0jq"
@@ -14146,7 +14208,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 263076,
       "name": "\u9010\u6f38\u62bd\u96e2\u4f60\u7684\u6163\u6027",
       "url": "https://open.spotify.com/track/19DyUskuoJD9lr5Y9Qhp4n"

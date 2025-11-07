@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24543,
+  "num_followers": 24546,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADa30bI/QC5qo+aX/8xzRk1",
+  "snapshot_id": "aQqTgAAAAADg6jusJONPyA8bue5VSY0O",
   "tracks": [
     {
       "added_at": null,
@@ -200,7 +200,7 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 176457,
+      "duration_ms": 176425,
       "name": "Papillon - Solo Piano Version",
       "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
     },
@@ -312,7 +312,7 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 197877,
+      "duration_ms": 197473,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG"
     },
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 198617,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Karma",
         "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 191445,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "One Look - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ"
     },
     {
       "added_at": null,
@@ -728,7 +728,7 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 182577,
+      "duration_ms": 181952,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
     },
@@ -800,7 +800,7 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 202977,
+      "duration_ms": 202069,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
     },

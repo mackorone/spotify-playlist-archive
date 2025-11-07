@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8\_\-ZdbhLCQ>Dumi Mkokstad</a>"
 
-427 songs - 1 day 21 hr 7 min
+428 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Ukuhlala Kuye](https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI) | [Kea Studios](https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU) | [Ukuhlala Kuye](https://open.spotify.com/album/5lPRiJ1iPpWyguZPZwYzLE) | 4:01 | 2023-07-21 | 2023-09-15 |
 | [Ukuhlala Kuye \- Live](https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Calvary](https://open.spotify.com/album/2DtSSFURqcaYDLMuecNAkO) | 5:09 | 2024-02-23 |  |
 | [Ukunxanela Komoya Wakho](https://open.spotify.com/track/0WeTsHx1DqIdPF51XGbAGa) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ukunxanela Komoya Wakho](https://open.spotify.com/album/566j14AsYwCWJW4GrjUVWi) | 3:50 | 2023-06-09 | 2023-09-15 |
-| [Ukuphila \- Live](https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship In Newness \(Live\)](https://open.spotify.com/album/2KGge9CX8aegzYEq3X8f02) | 6:25 | 2025-03-28 |  |
+| [Ukuphila \- Live](https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship In Newness \(Live\)](https://open.spotify.com/album/2KGge9CX8aegzYEq3X8f02) | 6:25 | 2025-03-28 | 2025-11-07 |
 | [Ukuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 | 2025-05-23 | 2025-07-25 |
 | [Ukwenzile \(Live\)](https://open.spotify.com/track/3FCEpzQkdb0hkhe4v1T31r) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Ukwenzile \(Live\)](https://open.spotify.com/album/727KqRu1ClKY5blwbrMyFh) | 8:48 | 2024-08-30 | 2025-02-14 |
 | [Uloyiko Lwami](https://open.spotify.com/track/0qH2ik4f9kEHSrDzKi6mUP) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz) | [Uloyiko Lwami](https://open.spotify.com/album/68mLFu1sQsSqLvrMOU2B4g) | 8:06 | 2024-04-26 | 2024-06-07 |
@@ -401,6 +401,7 @@
 | [Wash'Umlilo \- Live](https://open.spotify.com/track/3ii6csjSvjYGrQhYkR5YNY) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Wash'Umlilo \(Live\)](https://open.spotify.com/album/7ifRrsq1VTtYskZrnZGXyM) | 6:10 | 2022-09-15 | 2024-04-19 |
 | [Wasithethelela \(Live\)](https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [Sound Of Goshen](https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW) | [Wasithethelela \(Live\)](https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu) | 9:31 | 2023-06-23 | 2024-03-29 |
 | [Watswaneleha](https://open.spotify.com/track/0KNJDyqdICczf4T2TYyQPY) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:22 | 2024-03-29 | 2024-04-05 |
+| [Wayekhona](https://open.spotify.com/track/68V1UG1Jx42cflLoTQ7eAD) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wayekhona](https://open.spotify.com/album/1N6h6jtN6arTTFihVnQofV) | 4:00 | 2025-11-07 |  |
 | [We All Know Jesus Is Coming](https://open.spotify.com/track/0QRvDVRG0MiSdY6eiGCDft) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw), [Masibuyele KuJehova](https://open.spotify.com/artist/3JiqknDWJB6bNjETSrItVX) | [Imvunge Yomusa: The Songs That Led Me To Christ](https://open.spotify.com/album/7C07wVcXDxDLDceOATPmzB) | 6:02 | 2024-12-06 | 2025-03-21 |
 | [We Are Your Children \(Live\)](https://open.spotify.com/track/3qQidBXH8FtZ1MvINgjbwp) | [Bold Art](https://open.spotify.com/artist/7opVa0RrWqKJhz6msSrEpK), [Oncemore Six](https://open.spotify.com/artist/2icQGrZ1CJun49R0CC189X) | [Bold Art, Vol\. 2 \(Live\)](https://open.spotify.com/album/67nXPfdRscUBzXVpF7dbI9) | 7:31 | 2024-03-29 | 2024-04-05 |
 | [We the Forgiven](https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [We the Forgiven](https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5) | 5:54 | 2023-06-30 | 2023-09-15 |

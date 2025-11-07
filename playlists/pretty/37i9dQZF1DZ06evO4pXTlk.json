@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAASYW58psUc5IqotAV+NiZ1",
+  "snapshot_id": "aQqTgAAAAAA2a+Mshzq1kKNM87R9S6mn",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Complicated (feat. Heights)",
+        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "duration_ms": 212399,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ready to Call",
         "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 154626,
       "name": "Slackerpop",
       "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Complicated (feat. Heights)",
-        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        },
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
-        }
-      ],
-      "duration_ms": 212399,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weather Warning",
-        "url": "https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 250203,
-      "name": "Weather Warning",
-      "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So No One Told You Life Was Gonna Be This Way",
         "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 171324,
       "name": "Inbetween Days",
       "url": "https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weather Warning",
+        "url": "https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 250203,
+      "name": "Weather Warning",
+      "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 254106,
-      "name": "He Sinks. He Sleeps",
-      "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
+      "duration_ms": 254106,
+      "name": "He Sinks. He Sleeps",
+      "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
     },
     {
       "added_at": null,

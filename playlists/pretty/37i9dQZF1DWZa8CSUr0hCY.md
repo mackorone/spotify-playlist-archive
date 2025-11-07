@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,341 likes - 150 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,339 likes - 150 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 120 | [Plums](https://open.spotify.com/track/2dnjcx08Wo6ybZOY3umDaF) | [Öster](https://open.spotify.com/artist/41Z9IGCJN6zGScaIplu4Yn), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Plums](https://open.spotify.com/album/4sBapZtliMW2ifXGgNck3V) | 2:02 |
 | 121 | [Who Cares](https://open.spotify.com/track/0DGCK0k88zbCVoA6e3FZfz) | [Aquarius Era](https://open.spotify.com/artist/1St457AtizgBhsmu1NR25n) | [Who Cares](https://open.spotify.com/album/34Yb87vUXRN0QaBejbzyVq) | 2:16 |
 | 122 | [By The Creek](https://open.spotify.com/track/2jDDwJobulNfNZxOJTNjEz) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Diiolme](https://open.spotify.com/artist/29GPUrWlYRtiq1NMNpQiQo) | [By The Creek](https://open.spotify.com/album/34OHpo2d3Xjqyv0mN2zyKz) | 2:39 |
-| 123 | [It's Going Well](https://open.spotify.com/track/2iLyRWc3YDv0CBb7vtAL4y) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Lush Lofi](https://open.spotify.com/artist/5JhRPnuIs99MvULl2ZcFiL), [LiGe 力哥](https://open.spotify.com/artist/4XuX7xOI4bK8Rfpwu0WjV9) | [It's Going Well](https://open.spotify.com/album/7h96TNHvp3cUuYDX1oRS2e) | 2:02 |
+| 123 | [It's Going Well](https://open.spotify.com/track/2iLyRWc3YDv0CBb7vtAL4y) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Lush Lofi](https://open.spotify.com/artist/5JhRPnuIs99MvULl2ZcFiL), [Nii\-chan「兄ちゃん](https://open.spotify.com/artist/4XuX7xOI4bK8Rfpwu0WjV9) | [It's Going Well](https://open.spotify.com/album/7h96TNHvp3cUuYDX1oRS2e) | 2:02 |
 | 124 | [Rewind](https://open.spotify.com/track/5b2KoCrBxm7fQunHH6O2b3) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [Rewind](https://open.spotify.com/album/2tiQl2zizbZF27Joc0PXFh) | 2:18 |
 | 125 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 |
 | 126 | [Building Castles](https://open.spotify.com/track/6XRtSSqhBLX8ooT50BvgWM) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Some Place Else](https://open.spotify.com/artist/1SC2zBKG1R2xvtxpCO7W11) | [Building Castles](https://open.spotify.com/album/6FRrNn04Rtn2YScAU8D0mw) | 2:26 |

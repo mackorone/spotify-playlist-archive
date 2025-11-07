@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoGbayjhEGv.md) - [plain]
 
 > Enjoy music from "FULLMETAL ALCHEMIST"!  ©荒川弘／スクウェアエニックス・毎日放送・アニプレックス・ボンズ・電通 2003 \(C\)HIROMU ARAKAWA / SQUARE ENIX, MBS, ANX, BONES, dentsu 2004
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,293 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,310 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [メリッサ](https://open.spotify.com/track/3JGJOXvMzZTITB9W93sVDV) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [メリッサ](https://open.spotify.com/album/0nrKCOi3lM2MvkabpiQxhQ) | 4:33 |
 | 2 | [READY STEADY GO](https://open.spotify.com/track/7vRqCFq7MWBKHCdDUnpgRP) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [READY STEADY GO](https://open.spotify.com/album/28o2hU7rRKgzOT9YW7H8m2) | 3:49 |
 | 3 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
-| 4 | [消せない罪](https://open.spotify.com/track/4CSzOVFQeBV9AdJw0QaIA2) | [Nana Kitade](https://open.spotify.com/artist/1hxuFHEocjer6VyONPagUz) | [消せない罪 / 月華\-tsukihana\- BESTタッグ](https://open.spotify.com/album/4JARVpqVrXs3iYzq5OkUWR) | 4:14 |
+| 4 | [消せない罪](https://open.spotify.com/track/4CSzOVFQeBV9AdJw0QaIA2) | [Nana Kitade](https://open.spotify.com/artist/1hxuFHEocjer6VyONPagUz) | [消せない罪 / 月華\-tsukihana\- BESTタッグ](https://open.spotify.com/album/4JARVpqVrXs3iYzq5OkUWR) | 4:15 |
 | 5 | [扉の向こうへ](https://open.spotify.com/track/1KwEuKMSMyHOLySJbHjBtv) | [YeLLOW Generation](https://open.spotify.com/artist/12gxozvsHyIrtWaF4c3MjT) | [扉の向こうへ](https://open.spotify.com/album/7KJ7gcsy8rWDZJxcHd3Tbm) | 4:50 |
 | 6 | [Motherland](https://open.spotify.com/track/67c8RY1nzKPHg8E1JwLBBE) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Motherland](https://open.spotify.com/album/4JitQKcyIkwQJ6PLtVeOUS) | 4:31 |
 | 7 | [I Will](https://open.spotify.com/track/0OWLVHtnTKK1q1XCYQnZNg) | [Sowelu](https://open.spotify.com/artist/5otWa5lHZm7e1EHPMhITW1) | [I Will](https://open.spotify.com/album/26i2kwDCQQi3uBDFwm1QhH) | 4:15 |

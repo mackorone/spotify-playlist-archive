@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits 2025](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro  Shakira, and more!!! Cover: Shakira
+> The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro  Shakira, and more!!! Cover: Santana &amp; Carin Leon
 
-928 songs - 2 day 1 hr 22 min
+929 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,6 +884,7 @@
 | [Vapor](https://open.spotify.com/track/4yXBfJAPsDZjpjMEp9NyjT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:28 | 2022-10-26 | 2023-05-26 |
 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 | 2024-06-28 | 2025-09-12 |
 | [Veinte Años](https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Veinte Años](https://open.spotify.com/album/6Nr6WLOt5R1nh1VcxAIA1B) | 3:24 | 2024-04-05 | 2024-07-03 |
+| [Velas](https://open.spotify.com/track/30XtLd1cxbWxzodM8lXrIS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Velas](https://open.spotify.com/album/26R4zzccMTLiD6PXKkPjti) | 3:03 | 2025-11-07 |  |
 | [VERANO](https://open.spotify.com/track/5PVTI870AxdKFFglwCY7m0) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [VERANO](https://open.spotify.com/album/0HYqe8GG5tpXxiF2DQJpaI) | 2:56 | 2023-09-01 | 2024-07-03 |
 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 | 2025-02-07 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-13 | 2023-05-26 |

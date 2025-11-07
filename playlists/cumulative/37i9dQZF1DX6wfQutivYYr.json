@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Taylor Swift sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "KPop Demon Hunters sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 212125,
       "name": "Attacchi di panico",
       "url": "https://open.spotify.com/track/6kcW7rUXA5zL4RlnrwJp0P"
@@ -2933,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
@@ -4466,7 +4484,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 167362,
       "name": "Sto bene al mare (feat. Sayf & Rkomi)",
       "url": "https://open.spotify.com/track/7bozAK8PtroF5owUL01coy"
@@ -5092,6 +5110,24 @@
       "duration_ms": 180863,
       "name": "VVS CARTIER",
       "url": "https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR"
+    },
+    {
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "album": {

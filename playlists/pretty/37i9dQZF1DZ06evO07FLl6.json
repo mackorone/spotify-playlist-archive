@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 244370,
+  "num_followers": 244382,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAI1PtK+WnPe5HqQZhnNiIW",
+  "snapshot_id": "aQqTgAAAAADsLcIEXaMt4yp6Wu+gPO+2",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sketches of Spain",
+        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 236992,
+      "name": "The Pan Piper",
+      "url": "https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bags' Groove (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 299680,
       "name": "Airegin - RVG Remaster",
       "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sketches of Spain",
-        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
-      },
-      "artists": [
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 236992,
-      "name": "The Pan Piper",
-      "url": "https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Day In Paris",
+        "url": "https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "What's New",
+      "url": "https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bags' Groove (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -1039,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Day In Paris",
-        "url": "https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU"
+        "name": "The Only One and Fantastic... Miles Davis (Remastered)",
+        "url": "https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6"
       },
       "artists": [
         {
@@ -1048,29 +1064,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 219640,
-      "name": "What's New",
-      "url": "https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zu & Co.",
-        "url": "https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 344506,
-      "name": "Dune Mosse",
-      "url": "https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6"
+      "duration_ms": 357947,
+      "name": "My Funny Valentine - Remastered",
+      "url": "https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj"
     }
   ],
   "unique_name": "This Is Miles Davis",

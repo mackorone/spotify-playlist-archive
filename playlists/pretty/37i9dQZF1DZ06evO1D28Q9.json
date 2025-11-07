@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 164,
+  "num_followers": 165,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAASLJei50ZjSXnGI4FP8jMd",
+  "snapshot_id": "aQqTgAAAAAC6hEx/nifjys0R9ecEg5H5",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
+        "name": "Muita Calma",
+        "url": "https://open.spotify.com/album/6pqhOGkkDJkSCSwF4ylGQj"
       },
       "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
         }
       ],
-      "duration_ms": 223146,
-      "name": "Rio Nilo",
-      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
+      "duration_ms": 210982,
+      "name": "Muita Calma",
+      "url": "https://open.spotify.com/track/6GtFum9gSK5ig4tmZa1kVR"
     },
     {
       "added_at": null,
@@ -339,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muita Calma",
-        "url": "https://open.spotify.com/album/6pqhOGkkDJkSCSwF4ylGQj"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
-        }
-      ],
-      "duration_ms": 210982,
-      "name": "Muita Calma",
-      "url": "https://open.spotify.com/track/6GtFum9gSK5ig4tmZa1kVR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pelos Meus Amores",
         "url": "https://open.spotify.com/album/3VafRcbvbzqwP9hPeXpPak"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 227377,
       "name": "Pelos Meus Amores",
       "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Rio Nilo",
+      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
     },
     {
       "added_at": null,
@@ -539,34 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 366409,
-      "name": "Pelo Meus Amores",
-      "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Rap \u00e9 PRETO! pt. 2",
         "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
       },
@@ -591,6 +563,34 @@
       "duration_ms": 247745,
       "name": "O Rap \u00e9 PRETO! pt. 2",
       "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 348314,
+      "name": "Raio De Sol",
+      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
     },
     {
       "added_at": null,
@@ -659,34 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348314,
-      "name": "Raio De Sol",
-      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rimas & Melodias",
         "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
       },
@@ -727,6 +699,34 @@
       "duration_ms": 458496,
       "name": "Origens",
       "url": "https://open.spotify.com/track/4m761r02qZI0mIZiTfuz9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 366409,
+      "name": "Pelo Meus Amores",
+      "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
     },
     {
       "added_at": null,
@@ -791,34 +791,6 @@
       "duration_ms": 196813,
       "name": "Bota pra Andar",
       "url": "https://open.spotify.com/track/35MAJN9iJrYvNATaa9bzp5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coroa de Flores",
-        "url": "https://open.spotify.com/album/3f7dUQ3DMZj7716gOuMXhm"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 258656,
-      "name": "Coroa de Flores",
-      "url": "https://open.spotify.com/track/4gC1q2s1k9PveA0EebXLzP"
     },
     {
       "added_at": null,
@@ -899,6 +871,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coroa de Flores",
+        "url": "https://open.spotify.com/album/3f7dUQ3DMZj7716gOuMXhm"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 258656,
+      "name": "Coroa de Flores",
+      "url": "https://open.spotify.com/track/4gC1q2s1k9PveA0EebXLzP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reencontro",
         "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
       },
@@ -915,42 +915,6 @@
       "duration_ms": 219753,
       "name": "Reencontro",
       "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mensagem",
-        "url": "https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9"
-      },
-      "artists": [
-        {
-          "name": "Jam\u00e9s Ventura",
-          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "ManoWill",
-          "url": "https://open.spotify.com/artist/5nWuBeOezTGIWBvssEnXdY"
-        },
-        {
-          "name": "Dj Novset",
-          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
-        },
-        {
-          "name": "DJ Luciano Rocha",
-          "url": "https://open.spotify.com/artist/75a6pcxdMuGwaN5VUK3stP"
-        },
-        {
-          "name": "DJ RM Brasil",
-          "url": "https://open.spotify.com/artist/7BpyfiIScZTN4lsdG0ia0G"
-        }
-      ],
-      "duration_ms": 382450,
-      "name": "N\u00f3s Somos Pesados",
-      "url": "https://open.spotify.com/track/3MWnRLlZM2P7YqUF8Xva7q"
     },
     {
       "added_at": null,
@@ -995,6 +959,42 @@
       "duration_ms": 219402,
       "name": "Paradoxo",
       "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mensagem",
+        "url": "https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9"
+      },
+      "artists": [
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "ManoWill",
+          "url": "https://open.spotify.com/artist/5nWuBeOezTGIWBvssEnXdY"
+        },
+        {
+          "name": "Dj Novset",
+          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
+        },
+        {
+          "name": "DJ Luciano Rocha",
+          "url": "https://open.spotify.com/artist/75a6pcxdMuGwaN5VUK3stP"
+        },
+        {
+          "name": "DJ RM Brasil",
+          "url": "https://open.spotify.com/artist/7BpyfiIScZTN4lsdG0ia0G"
+        }
+      ],
+      "duration_ms": 382450,
+      "name": "N\u00f3s Somos Pesados",
+      "url": "https://open.spotify.com/track/3MWnRLlZM2P7YqUF8Xva7q"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rimas & Melodias",
+        "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
+      },
+      "artists": [
+        {
+          "name": "Rimas e Melodias",
+          "url": "https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
+        },
+        {
+          "name": "Karol de Souza",
+          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Mayra Maldjian",
+          "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
+        }
+      ],
+      "duration_ms": 310105,
+      "name": "Coroa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3Ki2TWueyb1AsyK7Rfv5Kw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
+        "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Indee",
+          "url": "https://open.spotify.com/artist/0A0owYhwabaVE440FurVAg"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Ladies In tha House",
+      "url": "https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chato",
         "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
       },
@@ -1059,6 +1127,26 @@
       "duration_ms": 187634,
       "name": "Chato",
       "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
+        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 206524,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
     },
     {
       "added_at": null,
@@ -1107,26 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
-        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
-      },
-      "artists": [
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Rima N\u00e3o Para",
         "url": "https://open.spotify.com/album/4O4w0TyToNeUq9uchdlRfm"
       },
@@ -1151,74 +1219,6 @@
       "duration_ms": 262400,
       "name": "Fofoqueiro",
       "url": "https://open.spotify.com/track/1L32CFDyMZXNiJQg82t9rD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
-        "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
-      },
-      "artists": [
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        },
-        {
-          "name": "Indee",
-          "url": "https://open.spotify.com/artist/0A0owYhwabaVE440FurVAg"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Ladies In tha House",
-      "url": "https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rimas & Melodias",
-        "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
-      },
-      "artists": [
-        {
-          "name": "Rimas e Melodias",
-          "url": "https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
-        },
-        {
-          "name": "Karol de Souza",
-          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Mayra Maldjian",
-          "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
-        }
-      ],
-      "duration_ms": 310105,
-      "name": "Coroa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3Ki2TWueyb1AsyK7Rfv5Kw"
     },
     {
       "added_at": null,

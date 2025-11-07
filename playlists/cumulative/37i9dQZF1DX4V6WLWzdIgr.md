@@ -4,7 +4,7 @@
 
 > "Aku pancen ora sempurna, gampang terluka..." 💔
 
-139 songs - 11 hr 32 min
+140 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cerito Loro](https://open.spotify.com/track/57egBaCTBOuAs7ErKxyYjN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/46KkX8tvr0ANum32q8SX8F) | 6:17 | 2021-09-08 | 2024-04-19 |
 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 | 2024-04-04 |  |
 | [Cerito Manis Gawe Tangis](https://open.spotify.com/track/7BBC3HQTJX5WOutky9bE1Q) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Cerito Manis Gawe Tangis](https://open.spotify.com/album/78rtOM7mm9lwAu1ZqPcqXt) | 5:26 | 2025-10-23 |  |
+| [Cidera Serius](https://open.spotify.com/track/3tscYJp7QSy5aY9tRT01MZ) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Nadeo Winata](https://open.spotify.com/artist/64n4uFYJKNUVys6cTUsWKH) | [Cidera Serius](https://open.spotify.com/album/7mv8x1RvTr9el8C021oLOA) | 4:07 | 2025-11-06 |  |
 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 | 2021-09-08 | 2025-08-04 |
 | [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 | 2023-02-03 | 2025-10-18 |
 | [Cintamu Sepahit Topi Miring](https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD) | [Jogja Hip Hop Foundation](https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27) | [Semar Mesem Romo Mendem](https://open.spotify.com/album/7nC7NZkREbTAIWuknYkWlP) | 4:54 | 2023-02-03 |  |

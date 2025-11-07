@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Feels Like a Man",
+        "url": "https://open.spotify.com/album/40vbSlfKQuirQV4eSsXwCa"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "Feels Like a Man",
+      "url": "https://open.spotify.com/track/5ERafLj5JlAOIIKhPJaLEI"
+    },
+    {
+      "album": {
         "name": "Friends That Break Your Heart",
         "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
       },
@@ -1785,7 +1803,7 @@
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181453,
+      "duration_ms": 181447,
       "name": "Wish",
       "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
     },
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 279040,
       "name": "Younger & Dumber",
       "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"

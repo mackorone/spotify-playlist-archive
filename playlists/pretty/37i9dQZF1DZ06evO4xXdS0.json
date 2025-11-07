@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 503496,
+  "num_followers": 503493,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAA9RNXzChIMtpiiB7mnrfbu",
+  "snapshot_id": "aQqTgAAAAACCNL9FfJYW0mRgwlSUjnwO",
   "tracks": [
     {
       "added_at": null,
@@ -371,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+        "name": "Verve Remixed 2",
+        "url": "https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje"
       },
       "artists": [
         {
           "name": "Nina Simone",
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Jaffa",
+          "url": "https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt"
         }
       ],
-      "duration_ms": 149330,
-      "name": "He Needs Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
+      "duration_ms": 297920,
+      "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
+      "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
     },
     {
       "added_at": null,
@@ -403,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verve Remixed 2",
-        "url": "https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje"
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
       },
       "artists": [
         {
           "name": "Nina Simone",
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Jaffa",
-          "url": "https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt"
         }
       ],
-      "duration_ms": 297920,
-      "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
-      "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
+      "duration_ms": 149330,
+      "name": "He Needs Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 228104,
-      "name": "Plain Gold Ring (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS"
+      "duration_ms": 257624,
+      "name": "Little Girl Blue (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 257624,
-      "name": "Little Girl Blue (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE"
+      "duration_ms": 228104,
+      "name": "Plain Gold Ring (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS"
     },
     {
       "added_at": null,

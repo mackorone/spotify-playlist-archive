@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-423 songs - 23 hr 11 min
+425 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-04-18 | 2024-08-23 |
 | [Calling Your Name](https://open.spotify.com/track/2Ga4ATsihCKFz3ge6UGeBl) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 1:56 | 2024-02-22 | 2025-05-30 |
 | [Calling Your Name](https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Calling Your Name](https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6) | 1:56 | 2023-09-28 | 2023-12-22 |
+| [Can Feel It](https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Can Feel It](https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn) | 2:33 | 2025-11-06 |  |
 | [Can't Be Bothered](https://open.spotify.com/track/4sreGeUOTW90DXLh4rwtK8) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [HAVE A NICE DAY!](https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL) | 2:35 | 2023-11-23 | 2024-03-15 |
 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 | 2025-01-09 | 2025-04-18 |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-24 | 2025-03-28 |
@@ -124,7 +125,7 @@
 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 | 2025-04-24 | 2025-09-05 |
 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 | 2023-10-12 | 2023-12-01 |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-19 | 2024-11-22 |
-| [Gasoline](https://open.spotify.com/track/4fQ8T6FrEKDCcKULjCyE9t) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:39 | 2025-06-27 |  |
+| [Gasoline](https://open.spotify.com/track/4fQ8T6FrEKDCcKULjCyE9t) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:39 | 2025-06-27 | 2025-11-07 |
 | [Get Ready](https://open.spotify.com/track/5DhIBpQpEMyrVa95R7AGSc) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Get Ready](https://open.spotify.com/album/3SnHhdCpWinISvVLHjFgHM) | 3:29 | 2024-06-27 | 2024-10-25 |
 | [Girl at the Station](https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Girl at the Station \(feat\. Jeremy Passion\)](https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK) | 2:25 | 2025-05-01 | 2025-07-18 |
 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 | 2025-10-23 |  |
@@ -348,7 +349,7 @@
 | [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 | 2024-05-02 | 2024-09-20 |
 | [Sober Up](https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Lunch EP](https://open.spotify.com/album/64InF946FZ8kReuvMx8qn2) | 2:49 | 2024-09-19 | 2025-01-17 |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-23 |  |
-| [Stand Back For You](https://open.spotify.com/track/0QPAliTY1pzXMn4flw3t9t) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Stand Back For You](https://open.spotify.com/album/5LtepWAuEjgO0N9VHQA6iT) | 3:43 | 2025-07-17 |  |
+| [Stand Back For You](https://open.spotify.com/track/0QPAliTY1pzXMn4flw3t9t) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Stand Back For You](https://open.spotify.com/album/5LtepWAuEjgO0N9VHQA6iT) | 3:43 | 2025-07-17 | 2025-11-07 |
 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-04-10 | 2025-07-25 |
 | [Stay Golden](https://open.spotify.com/track/45OEuZMTUGnI03JnjuLs7x) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Stay Golden](https://open.spotify.com/album/4dC2p95PixzWkTym8R9Z25) | 2:53 | 2024-08-22 | 2024-12-13 |
 | [STEP BY STEP](https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [STEP BY STEP](https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal) | 3:29 | 2024-02-15 | 2024-03-08 |
@@ -405,6 +406,7 @@
 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 | 2023-09-28 | 2023-10-06 |
 | [Unbelievable](https://open.spotify.com/track/4NVyvRuKdJXqC7vnJycVjb) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Unbelievable](https://open.spotify.com/album/7uBzED8vXwazMC9Q3MHY0q) | 3:23 | 2024-07-18 | 2024-09-27 |
 | [Under Water / In Air](https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Under Water / In Air](https://open.spotify.com/album/3XvwFrw03TCLjWLeBonhDy) | 3:09 | 2024-02-01 | 2024-04-19 |
+| [Unoriginal](https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unoriginal / Black\-Eyed Susan Climb](https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO) | 2:58 | 2025-11-06 |  |
 | [Venus](https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Rock Machine](https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI) | 3:02 | 2024-10-10 | 2025-01-10 |
 | [viens on part](https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb) | [lili](https://open.spotify.com/artist/3CKIyHaaQL4vE7BQxvck9e) | [viens on part](https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp) | 2:45 | 2025-10-16 |  |
 | [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 | 2024-09-13 |

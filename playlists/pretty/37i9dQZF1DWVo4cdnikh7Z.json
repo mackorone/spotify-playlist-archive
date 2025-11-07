@@ -1,13 +1,41 @@
 {
-  "description": "New Music from Kollywood.\nCover : Dude",
-  "num_followers": 726545,
+  "description": "New Music from Kollywood.\nCover : Parasakthi",
+  "num_followers": 726673,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP2RglsPXsvoGUhrk724utHnn7kg",
+  "snapshot_id": "AAAAAC+96Re8XkoImYkGug5DU2ckoEvA",
   "tracks": [
+    {
+      "added_at": "2025-11-06 12:18:33",
+      "album": {
+        "name": "Adi Alaye (From \"Parasakthi\") (Tamil)",
+        "url": "https://open.spotify.com/album/39QRwJQRzgaOYuu1B7ovTg"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Ekadesi",
+          "url": "https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c"
+        }
+      ],
+      "duration_ms": 250212,
+      "name": "Adi Alaye (From \"Parasakthi\") (Tamil)",
+      "url": "https://open.spotify.com/track/5aFDCFvAGRBB1m0bQmaT5U"
+    },
     {
       "added_at": "2025-11-03 06:31:09",
       "album": {
@@ -225,6 +253,34 @@
       "url": "https://open.spotify.com/track/2hteOxqdsRMm0NuGjxDZAw"
     },
     {
+      "added_at": "2025-11-06 07:36:46",
+      "album": {
+        "name": "Eppadi Vandhaayo (From \"Aaromaley\")",
+        "url": "https://open.spotify.com/album/4l74b0eaGLDzXi10VzE4RJ"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Eppadi Vandhaayo (From \"Aaromaley\")",
+      "url": "https://open.spotify.com/track/2A0JZsrJ1Nor5wtoOr9OOR"
+    },
+    {
       "added_at": "2025-09-16 14:37:44",
       "album": {
         "name": "Rekka Rekka (From \"Bison Kaalamaadan\")",
@@ -268,10 +324,6 @@
           "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
         },
         {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
           "name": "Vivek",
           "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
@@ -279,6 +331,34 @@
       "duration_ms": 236071,
       "name": "Nallaru Po - From \"Dude\"",
       "url": "https://open.spotify.com/track/3Nt5m3MOIrNt1sf8v14GPM"
+    },
+    {
+      "added_at": "2025-11-06 07:12:57",
+      "album": {
+        "name": "Yaavalo (From \"Indian Penal Law (IPL)\")",
+        "url": "https://open.spotify.com/album/2Mowf7UlvKpUX6wG6LAV1K"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Vinayagamoorthy",
+          "url": "https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h"
+        },
+        {
+          "name": "Shivam Mahadevan",
+          "url": "https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Yaavalo (From \"Indian Penal Law (IPL)\")",
+      "url": "https://open.spotify.com/track/58M2Sj7JGLoQkIOSTlxO6L"
     },
     {
       "added_at": "2025-11-03 14:35:24",
@@ -405,6 +485,26 @@
       "url": "https://open.spotify.com/track/2W0rC9WPKkyqa6pRvlUv3k"
     },
     {
+      "added_at": "2025-11-06 14:59:12",
+      "album": {
+        "name": "Aararo (From \"Arivaan\")",
+        "url": "https://open.spotify.com/album/34JilltT60dvx4tGoUF3IA"
+      },
+      "artists": [
+        {
+          "name": "ERA",
+          "url": "https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p"
+        },
+        {
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
+        }
+      ],
+      "duration_ms": 211548,
+      "name": "Aararo - From \"Arivaan\"",
+      "url": "https://open.spotify.com/track/6yt0tSSZakR0bfFrMRTJyx"
+    },
+    {
       "added_at": "2025-11-03 10:42:50",
       "album": {
         "name": "Thalaivan Oruvan | Coke Studio Bharat",
@@ -459,6 +559,30 @@
       "duration_ms": 217324,
       "name": "Vediya Podu - From \"Acacia\"",
       "url": "https://open.spotify.com/track/4ctA3jm02d9XXW8llIfXsM"
+    },
+    {
+      "added_at": "2025-11-06 07:16:38",
+      "album": {
+        "name": "Yeno Indru (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/6AUBZzoyT95nF9qWJCxj0P"
+      },
+      "artists": [
+        {
+          "name": "Rakhooo",
+          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
+        },
+        {
+          "name": "Anand Kashinath",
+          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Yeno Indru - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/40xVepzK7qT60Jl3BHjRj7"
     },
     {
       "added_at": "2025-11-03 14:36:27",
@@ -895,30 +1019,6 @@
       "duration_ms": 222857,
       "name": "Appo Ippo (From \"Indian Penal Law (IPL)\")",
       "url": "https://open.spotify.com/track/6nt67WUTnO9bfXsIa62b54"
-    },
-    {
-      "added_at": "2025-10-23 10:56:39",
-      "album": {
-        "name": "Mannaru Vandhaaru (From \"Aaromaley\")",
-        "url": "https://open.spotify.com/album/5BZWXWPbJRqUMytc1lt4FJ"
-      },
-      "artists": [
-        {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        },
-        {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Mannaru Vandhaaru (From \"Aaromaley\")",
-      "url": "https://open.spotify.com/track/6z0bwD6qjjyk9fl1IVjbbB"
     },
     {
       "added_at": "2025-09-10 13:03:15",
@@ -1518,46 +1618,6 @@
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 222445,
-      "name": "Kaleesha",
-      "url": "https://open.spotify.com/track/1x0Jfn08Bpz1pZATAW4BbT"
-    },
-    {
-      "added_at": "2025-08-02 11:45:29",
-      "album": {
-        "name": "Coolie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "T. Rajendar",
-          "url": "https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 216081,
-      "name": "Chikitu",
-      "url": "https://open.spotify.com/track/268QzVxQvBG6neINWb8lJz"
-    },
-    {
-      "added_at": "2025-09-10 13:03:15",
-      "album": {
-        "name": "Coolie (Original Background Score)",
-        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
           "name": "Lalo Salamanca",
@@ -1619,30 +1679,6 @@
       "duration_ms": 204247,
       "name": "Adiye Alangaari",
       "url": "https://open.spotify.com/track/2wEPaB9Cu2SV54t6dRiU5c"
-    },
-    {
-      "added_at": "2025-09-18 13:12:41",
-      "album": {
-        "name": "Varukuratha Porikuratha",
-        "url": "https://open.spotify.com/album/3zSX6HBZoVmJTsrUkuFDbN"
-      },
-      "artists": [
-        {
-          "name": "Dharan Kumar",
-          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
-        },
-        {
-          "name": "Pooja Shankar",
-          "url": "https://open.spotify.com/artist/6lKt1bvFBfsA29HZI31os0"
-        },
-        {
-          "name": "Junior Nithya",
-          "url": "https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3"
-        }
-      ],
-      "duration_ms": 199050,
-      "name": "Varukuratha Porikuratha",
-      "url": "https://open.spotify.com/track/42NjfRy9wHsiFuMIGXIVSA"
     },
     {
       "added_at": "2025-09-15 11:02:40",
@@ -1763,30 +1799,6 @@
       "duration_ms": 240309,
       "name": "Firestorm (From \"They Call Him OG (Tamil)\")",
       "url": "https://open.spotify.com/track/2tUKbpKAzK35sZqJ2CljUv"
-    },
-    {
-      "added_at": "2025-08-25 13:16:17",
-      "album": {
-        "name": "Mute Love Story (From \"Oh God Beautiful\")",
-        "url": "https://open.spotify.com/album/7yAjRqZFphho89naJQb6n5"
-      },
-      "artists": [
-        {
-          "name": "JC Joe",
-          "url": "https://open.spotify.com/artist/5HyqWvR8oIkQb3ZZHSRbGQ"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Uma Devi",
-          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
-        }
-      ],
-      "duration_ms": 190928,
-      "name": "Mute Love Story (From \"Oh God Beautiful\")",
-      "url": "https://open.spotify.com/track/4WlAPxUGdIrx8qOmdsJoUc"
     },
     {
       "added_at": "2025-08-04 05:46:59",

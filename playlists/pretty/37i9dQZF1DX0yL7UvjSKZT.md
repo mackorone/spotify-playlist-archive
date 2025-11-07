@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: The Creekers
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,171 likes - 131 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,152 likes - 131 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

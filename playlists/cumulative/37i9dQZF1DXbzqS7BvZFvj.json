@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Polo G",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Kodak Black",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 210000,
       "name": "Against The World",
       "url": "https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 182401,
       "name": "Big Poe (feat. Sk8brd)",
       "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
@@ -3416,6 +3416,28 @@
       "duration_ms": 192000,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "album": {
+        "name": "BLIND (feat. MIKE)",
+        "url": "https://open.spotify.com/album/2Qp7te73iOGObKLnGURuGC"
+      },
+      "artists": [
+        {
+          "name": "12k Gotti",
+          "url": "https://open.spotify.com/artist/2tXGUIXdUyzhdcD5UcuJuH"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205609,
+      "name": "BLIND - feat. MIKE",
+      "url": "https://open.spotify.com/track/10s6BMgQDsPRPXiOxRLR9N"
     },
     {
       "album": {
@@ -4596,6 +4618,24 @@
       "duration_ms": 202920,
       "name": "Cake",
       "url": "https://open.spotify.com/track/3wq0hE8rIDzypOSvEx4EQn"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/5lPxQ6iqaoXUpf1IZlI4Gu"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191078,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5Q5Ejr1O1FPgQ29QqY5LpG"
     },
     {
       "album": {
@@ -5918,7 +5958,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 153127,
       "name": "Daddy\u2019s Little Girl",
       "url": "https://open.spotify.com/track/2sBVHAVBUrfeeLkDLMWobS"
@@ -7184,7 +7224,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 186053,
       "name": "Drip BBQ",
       "url": "https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o"
@@ -9370,6 +9410,24 @@
     {
       "album": {
         "name": "Girls Gone Wild",
+        "url": "https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207443,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y"
+    },
+    {
+      "album": {
+        "name": "Girls Gone Wild",
         "url": "https://open.spotify.com/album/6As7lrex6rWK9Drjj88pAJ"
       },
       "artists": [
@@ -11391,6 +11449,24 @@
     },
     {
       "album": {
+        "name": "Hungry For It",
+        "url": "https://open.spotify.com/album/5CnoiHaX9lhhP11B89xtyi"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176357,
+      "name": "Hungry For It",
+      "url": "https://open.spotify.com/track/5M7fm8Sad9IpX87y3SE74g"
+    },
+    {
+      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0"
       },
@@ -11516,7 +11592,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 215031,
       "name": "I Don't Care...",
       "url": "https://open.spotify.com/track/5RRIO4JSQyAEdiivATnXUq"
@@ -16319,6 +16395,24 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA +",
+        "url": "https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280790,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM"
+    },
+    {
+      "album": {
         "name": "Motion (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/7tpEGkrQn7roe8BPqSkt3u"
       },
@@ -16528,6 +16622,28 @@
       "duration_ms": 121536,
       "name": "MULTIMILLIONAIRE (w/ Trippie Redd & Odetari)",
       "url": "https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI"
+    },
+    {
+      "album": {
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111042,
+      "name": "Mumble Rap (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/1SiWLP96MsOaY8lLq2vX0X"
     },
     {
       "album": {
@@ -17634,7 +17750,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 211717,
       "name": "No Sharing (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
@@ -19108,6 +19224,32 @@
       "duration_ms": 207386,
       "name": "Paradise II (feat. Norah Jones) - Single Version",
       "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
+    },
+    {
+      "album": {
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/1lnS2hv86cnNfL001WuxFL"
+      },
+      "artists": [
+        {
+          "name": "me-mai",
+          "url": "https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS"
+        },
+        {
+          "name": "Queenie",
+          "url": "https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO"
+        },
+        {
+          "name": "me2",
+          "url": "https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139850,
+      "name": "Paranormal",
+      "url": "https://open.spotify.com/track/5SC9k7CyYSOXoe1v8koXX9"
     },
     {
       "album": {
@@ -20678,7 +20820,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 157611,
       "name": "PUT IT ONG",
       "url": "https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze"
@@ -22008,6 +22150,24 @@
       "duration_ms": 208317,
       "name": "Saturday Night Special (feat. Rick Ross & Fat Joe)",
       "url": "https://open.spotify.com/track/6a14IKtBVWXO0FTOmZNgfI"
+    },
+    {
+      "album": {
+        "name": "THERE\u2019S A GHOST IN MY HOUSE.",
+        "url": "https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148646,
+      "name": "SAY IT TO ME.",
+      "url": "https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg"
     },
     {
       "album": {
@@ -24110,7 +24270,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 206117,
       "name": "STILL (feat. Ab-Soul & Rapsody)",
       "url": "https://open.spotify.com/track/5TLjEHlPV8jpxQTVTmQYY3"
@@ -24768,7 +24928,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 162826,
       "name": "Take Me Thru Dere",
       "url": "https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db"
@@ -27148,7 +27308,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 198333,
       "name": "VICE CITY",
       "url": "https://open.spotify.com/track/0AUoWq5xvZL6vW7u4dZmJO"

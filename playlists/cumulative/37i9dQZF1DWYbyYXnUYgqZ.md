@@ -2,7 +2,7 @@
 
 ### [K\-Pop Gaming](https://open.spotify.com/playlist/37i9dQZF1DWYbyYXnUYgqZ)
 
-> Enjoy fantastic gameplay with k\-pop music! \(Cover: aespa\)
+> Enjoy fantastic gameplay with k\-pop music! \(Cover: NMIXX\)
 
 314 songs - 16 hr 2 min
 

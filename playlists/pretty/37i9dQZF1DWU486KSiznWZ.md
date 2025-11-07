@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > أفضل الأغاني الخليجية\. الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,177 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,228 likes - 35 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [دور عذر](https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [دور عذر](https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja) | 3:24 |
 | 2 | [Janant Galbi](https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Janant Galbi](https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw) | 4:47 |
-| 3 | [Ya Nadmanah](https://open.spotify.com/track/43U6XTwaYlxPHy5n9FpV9o) | [Zayed Al Saleh](https://open.spotify.com/artist/1l5hkQZj28djsCJWtN62wm) | [Songs 2014](https://open.spotify.com/album/5s2OWfuwCojCAzUHj1XOlN) | 6:00 |
+| 3 | [Qalb Alwaraq Nersam](https://open.spotify.com/track/2LMNbL6QJCCrvRHH75Firl) | [Mohamed Abdul Jabbar](https://open.spotify.com/artist/3KbHfGyoCoOALz8Ms340Xp), [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Qalb Alwaraq Nersam](https://open.spotify.com/album/7xmWTBfYQ9LKFEvx40bhyd) | 4:07 |
 | 4 | [Ya Teeby](https://open.spotify.com/track/5VEyLrrmsz5m4qw09EFTLY) | [Nabeel Shuail](https://open.spotify.com/artist/4nZsv9MFbvSrHrNupU4Ttu) | [Ya Teeby](https://open.spotify.com/album/5cRh6dR6POLV2wUyP5uVLc) | 3:37 |
 | 5 | [Qeiam](https://open.spotify.com/track/6gHhZKa9F7WqCVXkj29Qss) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Marhaba](https://open.spotify.com/album/0SwI39bKzHkorStj3SHDV8) | 4:04 |
 | 6 | [Ya Jannat El Dinia](https://open.spotify.com/track/47P2kGqDQtyVXAzg1ywjmr) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Mohammed Abdo 2024](https://open.spotify.com/album/0CgRFv0sKpaGZxa6Jh10DO) | 3:53 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 34 | [Nadak Qalbi](https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Nadak Qalbi](https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR) | 3:50 |
 | 35 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 
-Snapshot ID: `AAAAACdjlbYXTtX5RZUBE3hpT6h7N8/4`
+Snapshot ID: `AAAAAM7gttnzMQi4+0j73VOWrQXtnHFv`

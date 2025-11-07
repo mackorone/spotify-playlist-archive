@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Repion.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: San Tosielo.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "recuerda que vas a morir",
+        "url": "https://open.spotify.com/album/4nXVU4gQxZIVB3Csq4qha6"
+      },
+      "artists": [
+        {
+          "name": "tarchi",
+          "url": "https://open.spotify.com/artist/3hQ7aT3GTzf9jNYh80UBo3"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "angelito",
+      "url": "https://open.spotify.com/track/19Qv79nXtWfMDIMgFUREpS"
+    },
+    {
+      "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/1U6lF9IVUl1XtPRuGBdtgj"
       },
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 164538,
       "name": "Capacidad",
       "url": "https://open.spotify.com/track/3a05DEOKql1GI1dqLXHzJf"
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 183750,
       "name": "Corona de Flores",
       "url": "https://open.spotify.com/track/6lGBzb01rZIOZvtg7PEMAF"
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175840,
       "name": "C\u00f3mo Ser\u00e1 Vivir en el Campo",
       "url": "https://open.spotify.com/track/6D87OewwdEhhSUWij4jUKp"
@@ -2433,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "DELUSION",
+        "url": "https://open.spotify.com/album/1gauzomcj7uSxFXAG66QJ5"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Amores",
+          "url": "https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "DELUSION",
+      "url": "https://open.spotify.com/track/05W4ZgXrmuu6kV06LJHUrV"
+    },
+    {
+      "album": {
         "name": "HIMNOS DE GUERRA",
         "url": "https://open.spotify.com/album/3yzgOyDvJiXYYUpxztRHaF"
       },
@@ -2506,7 +2542,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 173332,
       "name": "Desde el amor",
       "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
@@ -3030,7 +3066,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 168674,
       "name": "El Fantasma de la Transici\u00f3n",
       "url": "https://open.spotify.com/track/5tjxs3zmc8IH5UVt8oNd8U"
@@ -3458,6 +3494,28 @@
       "duration_ms": 168888,
       "name": "En memoria de las cicatrices",
       "url": "https://open.spotify.com/track/5lP1pNkWObsnmBsRY7qT1W"
+    },
+    {
+      "album": {
+        "name": "en vd nose si todo sto te importa",
+        "url": "https://open.spotify.com/album/6eydbQsYTLrlUkwFOMQbPi"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120888,
+      "name": "en vd nose si todo sto te importa",
+      "url": "https://open.spotify.com/track/1PCuam9Qriz6pali3F42Dz"
     },
     {
       "album": {
@@ -3958,7 +4016,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 185687,
       "name": "FIESTAS DE PUEBLO",
       "url": "https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh"
@@ -4438,6 +4496,24 @@
       "duration_ms": 306920,
       "name": "He ido m\u00e1s all\u00e1",
       "url": "https://open.spotify.com/track/5kiROZugRspoz3k4EwF75e"
+    },
+    {
+      "album": {
+        "name": "He so\u00f1ado que tocaba en Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/3IsNvmHEnKDcgCCm07PgVk"
+      },
+      "artists": [
+        {
+          "name": "Rufus T. Firefly",
+          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267786,
+      "name": "He so\u00f1ado que tocaba en Tri\u00e1ngulo de Amor Bizarro",
+      "url": "https://open.spotify.com/track/413CQteE6gAiIg1XbwRArs"
     },
     {
       "album": {
@@ -8493,6 +8569,28 @@
     },
     {
       "album": {
+        "name": "PERRA AVENTURERA (with Fiah)",
+        "url": "https://open.spotify.com/album/6yzqdsvbPv8PwXj1r2SVIN"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        },
+        {
+          "name": "Fiah",
+          "url": "https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "PERRA AVENTURERA (with Fiah)",
+      "url": "https://open.spotify.com/track/3OBBs8QGypNM4AzSxC1mFK"
+    },
+    {
+      "album": {
         "name": "Lun\u00e1tico",
         "url": "https://open.spotify.com/album/3aNXQJIjlsR7D0sDnPsw0I"
       },
@@ -9184,6 +9282,10 @@
         {
           "name": "Sanguijuelas del Guadiana",
           "url": "https://open.spotify.com/artist/1myJQ6hUJMP6cfvwSdjw01"
+        },
+        {
+          "name": "Celia Romero",
+          "url": "https://open.spotify.com/artist/1pWTMI3wKgToqLKd2CfV0z"
         }
       ],
       "date_added": "2025-05-15",
@@ -9828,6 +9930,24 @@
       "duration_ms": 184689,
       "name": "SOPHIA",
       "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
+    },
+    {
+      "album": {
+        "name": "Soy un avi\u00f3n",
+        "url": "https://open.spotify.com/album/2XrTvh8wXfdLs2ZaMiuY2k"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248928,
+      "name": "Soy un avi\u00f3n",
+      "url": "https://open.spotify.com/track/0HuMsGcFrztItXtd2YczBE"
     },
     {
       "album": {
@@ -10712,7 +10832,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 162730,
       "name": "Ultra Dante",
       "url": "https://open.spotify.com/track/69qmmFFBTvX7gY7m52jh7f"
@@ -11242,6 +11362,24 @@
     {
       "album": {
         "name": "Volando",
+        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190761,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
+    },
+    {
+      "album": {
+        "name": "Volando",
         "url": "https://open.spotify.com/album/2hvnHM8vVvUnLQbBTjW2Lr"
       },
       "artists": [
@@ -11310,7 +11448,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 182325,
       "name": "volver a ti",
       "url": "https://open.spotify.com/track/6XRfyxbzqAwwdeGVE3wk0f"
@@ -11672,6 +11810,28 @@
       "duration_ms": 193423,
       "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
       "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
+    },
+    {
+      "album": {
+        "name": "\u00bfTodo esto para qu\u00e9?",
+        "url": "https://open.spotify.com/album/4iv52ufl7nHmxJD2rSrnlZ"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "Alberdi",
+          "url": "https://open.spotify.com/artist/0zO7bdIGAHVCPq2rjQKhoK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185316,
+      "name": "\u00bfTodo esto para qu\u00e9?",
+      "url": "https://open.spotify.com/track/5hpLys2nnIiYN8Xe6cUoqg"
     },
     {
       "album": {

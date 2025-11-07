@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-124 songs - 5 hr 37 min
+125 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 | 2024-06-28 | 2025-06-28 |
 | [7 DAYS](https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [STREET ANTHEM / 7 DAYS](https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg) | 2:34 | 2024-06-28 |  |
 | [A1 PERICO \(feat\. Nasty C and Mizzle\)](https://open.spotify.com/track/7M0dCEkncviZNTqb4yZMXx) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 3:29 | 2024-06-28 | 2024-07-27 |
+| [Acct Number \(Omalicha\)](https://open.spotify.com/track/70rXBzhbteWhbc1Ra5xb6r) | [Izztopik](https://open.spotify.com/artist/3xV6vHDr8Ca4GHDZT0JSRt), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Acct Number \(Omalicha\)](https://open.spotify.com/album/1oQJNH7DtXfgyuURTDP74s) | 3:42 | 2025-11-07 |  |
 | [Apapa](https://open.spotify.com/track/67K9m0tdDtJFrynVmVIbGn) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [The Efeleme Pack](https://open.spotify.com/album/1cbTJMZRqKSwxU77jPEhCh) | 2:44 | 2024-06-28 | 2025-08-01 |
 | [Ayufili Nah](https://open.spotify.com/track/6xy3DFVNV2qYdZ2vJrQLMk) | [AyTraQ](https://open.spotify.com/artist/0Yk4FK3u27GslPyZhbVQ3G), [Cee 2](https://open.spotify.com/artist/0UD0az0aCNW1TLX3vEkc9l) | [Ayufili Nah](https://open.spotify.com/album/3episDCiB4JjV1VuNTBF6E) | 2:18 | 2024-11-08 | 2025-05-17 |
 | [Bando Diaries](https://open.spotify.com/track/3T27JFvKbp3btufldaKOUU) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:38 | 2024-06-28 |  |
@@ -41,7 +42,7 @@
 | [Gbege](https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Confirm Parole](https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6) | 3:29 | 2024-10-25 |  |
 | [George Bush](https://open.spotify.com/track/5KhUuRQw3vVmDsuE2yLwQe) | [Harteez](https://open.spotify.com/artist/2se2oKPcft73QsOEyKwfSn), [Kabex](https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU) | [Destruction, Pt\. 3](https://open.spotify.com/album/2cndtWIoeZdndD1GKzXdjW) | 3:06 | 2025-05-30 | 2025-08-30 |
 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 | 2025-03-31 |  |
-| [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2024-06-28 |  |
+| [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2024-06-28 | 2025-11-07 |
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2024-06-28 |  |
 | [Healers Chapel](https://open.spotify.com/track/1toGWaj2vdYFyoJCgoan24) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Healers Chapel](https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN) | 2:59 | 2025-09-05 |  |
 | [Heaven](https://open.spotify.com/track/0kNyR0PXqgaKmtJV7Y9Zvp) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Heaven](https://open.spotify.com/album/4agMiPmznVVvOWd3JhvAcb) | 2:30 | 2024-06-28 | 2024-09-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655 likes - 247 songs - 12 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 657 likes - 247 songs - 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,9 +189,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 179 | [Party Trick](https://open.spotify.com/track/1IVf3ltB6zHIxMGBWpRnFn) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/7b0YvwnCJ456w3KWpmxlpi) | 3:26 |
 | 180 | [Whistle](https://open.spotify.com/track/5xeMp4R5G3oj959064Hfai) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [FIYM](https://open.spotify.com/album/1FCFRUbloFByK8ycXyXvYc) | 2:56 |
 | 181 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 |
-| 182 | [Catalina](https://open.spotify.com/track/1YPUJa5odVAIJLZ1CnE9jS) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Kaleidoscope Eyes](https://open.spotify.com/album/06n6A4hjeslmQ60FEHUFiZ) | 3:39 |
-| 183 | [Sorry That I Miss You](https://open.spotify.com/track/1TvvEJ8uFTCZJYGjGNha3M) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:36 |
-| 184 | [ooo](https://open.spotify.com/track/3oZai2D2PYlXgUTNurlCmU) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:58 |
+| 182 | [ooo](https://open.spotify.com/track/3oZai2D2PYlXgUTNurlCmU) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:58 |
+| 183 | [Catalina](https://open.spotify.com/track/1YPUJa5odVAIJLZ1CnE9jS) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Kaleidoscope Eyes](https://open.spotify.com/album/06n6A4hjeslmQ60FEHUFiZ) | 3:39 |
+| 184 | [Sorry That I Miss You](https://open.spotify.com/track/1TvvEJ8uFTCZJYGjGNha3M) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:36 |
 | 185 | [Is That a Thing?](https://open.spotify.com/track/6KqjmAUPLX2pCNEY0l6Tmi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [DestroyDestroyDestroyDestroy](https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb) | 2:49 |
 | 186 | [History Repeats](https://open.spotify.com/track/7dFsoGLprht6qoV6Y2Gnxr) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [History Repeats](https://open.spotify.com/album/3Ysi1w1iJIABWUiIachiNv) | 3:46 |
 | 187 | [How Can I Ever Get Over You?](https://open.spotify.com/track/69xgSicH4XO1MqEUyHjGyp) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [How Can I Ever Get Over You?](https://open.spotify.com/album/2oi54SD01JIVD2Y6Ml0J5k) | 2:59 |
@@ -256,4 +256,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 246 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 247 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AcAzpgAAAACcqNH/eg4f5etCRUvFMvic`
+Snapshot ID: `AcA5RgAAAACep9s7FpzP3Wn/SYuxV9JL`

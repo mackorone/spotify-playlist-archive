@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Yuridia",
-  "num_followers": 81516,
+  "num_followers": 81521,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-09-26 08:06:33",
       "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
-    },
-    {
-      "added_at": "2025-09-26 08:06:33",
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 210000,
       "name": "Sin Miedo - En Vivo",
       "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2025-09-26 08:06:33",
+      "album": {
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2025-09-26 08:06:33",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-09-26 08:06:33",
       "album": {
-        "name": "La Changa (En Vivo)",
-        "url": "https://open.spotify.com/album/5WZr7lEggiE3BO5RgpCTU7"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 344978,
-      "name": "La Changa (En Vivo)",
-      "url": "https://open.spotify.com/track/1K0q2ll2ks3yeHIiURO0x9"
-    },
-    {
-      "added_at": "2025-09-26 08:06:33",
-      "album": {
         "name": "Don Chon (En Vivo)",
         "url": "https://open.spotify.com/album/1cBOY27IgwTFe342hIpGpX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 226500,
       "name": "Don Chon (En Vivo)",
       "url": "https://open.spotify.com/track/0OeX94j6rMIBHX7DGlOGzB"
+    },
+    {
+      "added_at": "2025-09-26 08:06:33",
+      "album": {
+        "name": "La Changa (En Vivo)",
+        "url": "https://open.spotify.com/album/5WZr7lEggiE3BO5RgpCTU7"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 344978,
+      "name": "La Changa (En Vivo)",
+      "url": "https://open.spotify.com/track/1K0q2ll2ks3yeHIiURO0x9"
     },
     {
       "added_at": "2025-09-26 08:06:33",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2025-09-26 08:06:33",
       "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
+    },
+    {
+      "added_at": "2025-09-26 08:06:33",
+      "album": {
         "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
         "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 149986,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
-    },
-    {
-      "added_at": "2025-09-26 08:06:33",
-      "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": "2025-09-26 08:06:33",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2025-09-26 08:06:33",
       "album": {
+        "name": "Yakifest Oasis Vol. 5 (En Vivo)",
+        "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 262597,
+      "name": "C\u00f3mo Este Loco (En Vivo)",
+      "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
+    },
+    {
+      "added_at": "2025-09-26 08:06:33",
+      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael (En Vivo)",
         "url": "https://open.spotify.com/album/762prAk1zCDNgHV03q2Wgt"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 198493,
       "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
       "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
-    },
-    {
-      "added_at": "2025-09-26 08:06:33",
-      "album": {
-        "name": "Yakifest Oasis Vol. 5 (En Vivo)",
-        "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 262597,
-      "name": "C\u00f3mo Este Loco (En Vivo)",
-      "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
     },
     {
       "added_at": "2025-09-26 08:06:33",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-09-26 08:06:33",
       "album": {
+        "name": "Chingo A Mi Madre (En Vivo)",
+        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Chingo A Mi Madre - En Vivo",
+      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
+    },
+    {
+      "added_at": "2025-09-26 08:06:33",
+      "album": {
         "name": "El Corrido Del Piyi (LDLG)",
         "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
-    },
-    {
-      "added_at": "2025-09-26 08:06:33",
-      "album": {
-        "name": "Chingo A Mi Madre (En Vivo)",
-        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Chingo A Mi Madre - En Vivo",
-      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
     },
     {
       "added_at": "2025-09-26 08:06:33",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2025-09-26 08:06:33",
       "album": {
-        "name": "\u201cV1V0\u201d EN VIVO",
-        "url": "https://open.spotify.com/album/2f7QrCkWsLVqxVFuCZEHcz"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 218634,
-      "name": "DE SOBREMANERA - EN VIVO",
-      "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
+      "duration_ms": 233106,
+      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
+      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

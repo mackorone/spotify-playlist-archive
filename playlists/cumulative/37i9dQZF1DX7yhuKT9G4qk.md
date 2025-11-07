@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-150 songs - 8 hr 34 min
+152 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dog Left In The Rain](https://open.spotify.com/track/0yJTsYsFOrL9KFjMQBPnTN) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Dog Left In The Rain](https://open.spotify.com/album/1kh7Dv3aXucqDO4clqMBsK) | 2:41 | 2025-07-16 |  |
 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 | 2025-10-01 |  |
 | [DØN'T WANNA FALL](https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [DØN'T WANNA FALL](https://open.spotify.com/album/1osD1Kt3ka13mjTN7auXBg) | 4:10 | 2025-08-08 |  |
+| [Either Way](https://open.spotify.com/track/4pyg7pmXXbG10fv10rBGE9) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Either Way](https://open.spotify.com/album/3BI21PVblsUMdyNPvfjxiv) | 3:47 | 2025-11-06 |  |
 | [End Of Me](https://open.spotify.com/track/2n6LotLcjjyG9NjNiypuxA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [End Of Me](https://open.spotify.com/album/48HxShceUcdOOEWzX1uQBy) | 3:52 | 2025-10-17 |  |
 | [Exile](https://open.spotify.com/track/5uVQDpZ8QBy5gBAxXTufHN) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Exile](https://open.spotify.com/album/41gsdwJILd5NLUgFvhjXl5) | 4:33 | 2025-07-16 | 2025-09-16 |
 | [Faith](https://open.spotify.com/track/2E4ImcUM9GrVevTrs3AqXI) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [Faith](https://open.spotify.com/album/6mUtkNsbNHsMszmKpCoCZU) | 2:28 | 2025-07-16 | 2025-10-22 |
@@ -110,7 +111,7 @@
 | [Praying To A God](https://open.spotify.com/track/3NWCPJllg1v12ElS4eQMKV) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Praying To A God](https://open.spotify.com/album/5vFbPJNwiERWPvxQDw37zq) | 3:40 | 2025-07-16 | 2025-09-16 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2025-07-16 |  |
 | [Remedy](https://open.spotify.com/track/5f8l9ldrzFoxYwkgq3G6S9) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/6FmGwYkTYZmcmSi7YMvkvs) | 2:44 | 2025-09-18 |  |
-| [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 | 2025-07-16 |  |
+| [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 | 2025-07-16 | 2025-11-07 |
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2025-07-16 |  |
 | [Say The Word](https://open.spotify.com/track/0c26nvNqCEA2l1ez41KzkK) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Say The Word](https://open.spotify.com/album/5Ei5Z8c8mA8th5fgSoZSRr) | 2:48 | 2025-07-16 |  |
 | [Shine](https://open.spotify.com/track/0pD0ZDgjAMHLdFNov4sRta) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Shine](https://open.spotify.com/album/0NWWNpxBOkggyzp829Fudt) | 3:14 | 2025-07-16 |  |
@@ -134,7 +135,7 @@
 | [The Way](https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [The Way](https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ) | 3:01 | 2025-07-16 |  |
 | [The Way](https://open.spotify.com/track/7oHXs1fPp1oRHsmMZ2uGk7) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [The Way](https://open.spotify.com/album/0vUSt4xH41aj4mzNLUqZFr) | 3:38 | 2025-07-16 |  |
 | [The Weatherman](https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Weatherman](https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm) | 3:30 | 2025-10-09 |  |
-| [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 | 2025-07-16 |  |
+| [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 | 2025-07-16 | 2025-11-07 |
 | [This One's On The House](https://open.spotify.com/track/0rtgKV8GI1SBTDhBxh2jkg) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/5BsfvWMM9xq24X92OwOhNX) | 3:37 | 2025-07-16 |  |
 | [Through The Echoes](https://open.spotify.com/track/11mmSxrDMiOV1nGakvDoOq) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Shine A Light](https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA) | 3:41 | 2025-07-16 | 2025-10-22 |
 | [To Tomorrow](https://open.spotify.com/track/5jaXe7XBdv63xbyYUeZQ6k) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [To Tomorrow](https://open.spotify.com/album/2LmcsPdZ4hXQ9kNUoLLvJh) | 3:24 | 2025-07-16 | 2025-10-03 |
@@ -151,6 +152,7 @@
 | [What Do You Believe In? \- Acoustic](https://open.spotify.com/track/6lHxTSPaWZy7fIQQ5r9QlU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Acoustic\)](https://open.spotify.com/album/27m7ht0g0U5uep16bOyAtI) | 3:08 | 2025-07-16 | 2025-10-10 |
 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2025-07-16 | 2025-10-10 |
 | [Where/When](https://open.spotify.com/track/44J2PcpgCePXPB13CUsitY) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Where/When](https://open.spotify.com/album/2v2XQa8yperg0wnP4TYHNv) | 2:56 | 2025-07-16 |  |
+| [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 | 2025-11-06 |  |
 | [White Gold](https://open.spotify.com/track/1xcRp6hYnL53V9qYv42uia) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [White Gold](https://open.spotify.com/album/2ZZpn5kiOjcDigcgthY4WQ) | 4:18 | 2025-07-16 |  |
 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/3ndUqqoVEMQHOlh4sRiXyN) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/38k7lGHmy8LyVpkXLVnZSj) | 3:15 | 2025-07-16 | 2025-10-02 |
 | [With You](https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [With You](https://open.spotify.com/album/1Ca9JdekdlYxnlCMCtVsdR) | 2:34 | 2025-07-16 | 2025-08-29 |

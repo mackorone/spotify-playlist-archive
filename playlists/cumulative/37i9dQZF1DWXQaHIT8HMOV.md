@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan gems in one playlist\. Cover: Pallaso
 
-491 songs - 1 day 1 hr 7 min
+492 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 | 2023-04-27 | 2023-05-27 |
 | [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 | 2023-01-20 | 2023-05-01 |
 | [NANA \- Remix](https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [NANA \(feat\. Joeboy, King Promise & BIEN\) \[Remix\]](https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0) | 3:19 | 2023-05-26 | 2024-05-04 |
-| [Nayise Naye](https://open.spotify.com/track/17cGrdYdYQE7Hhtc7at60i) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Nayise Naye](https://open.spotify.com/album/7rw4wOZtKfq0NICWU3uMOU) | 2:16 | 2025-07-24 |  |
+| [Nayise Naye](https://open.spotify.com/track/17cGrdYdYQE7Hhtc7at60i) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Nayise Naye](https://open.spotify.com/album/7rw4wOZtKfq0NICWU3uMOU) | 2:16 | 2025-07-24 | 2025-11-07 |
 | [Ndi Bibyo](https://open.spotify.com/track/26HAQIyUkP8SWOOH3nikni) | [Green Daddy](https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU) | [Ndi Bibyo](https://open.spotify.com/album/00uHNA73GHUXIWoYQxcDMC) | 2:55 | 2024-10-18 | 2025-03-28 |
 | [Ndibyange](https://open.spotify.com/track/5T5drObETBplasLya0qCOZ) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0), [King Toppa](https://open.spotify.com/artist/0R70tgeUv5WB6GWxAUawO3) | [Ndibyange](https://open.spotify.com/album/0ZIqLyzQhVCAYjHAk3RPVe) | 3:03 | 2024-11-22 | 2025-04-12 |
 | [Ndiwulira](https://open.spotify.com/track/4ShPmVlVHK9cMjEDTF37wc) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Ndiwulira](https://open.spotify.com/album/68uMOVhD1mQatQth4rZ9gw) | 2:47 | 2025-02-07 | 2025-09-20 |
@@ -398,6 +398,7 @@
 | [Secret](https://open.spotify.com/track/4cZrIxJbomwqVYx3dDMgex) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [Teasin'](https://open.spotify.com/album/28f5KCRxUeYsOEegevfKrj) | 2:47 | 2025-07-24 | 2025-09-26 |
 | [Secret Island](https://open.spotify.com/track/73YcIIseQ43Z2yiGjqTXIe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Secret Island](https://open.spotify.com/album/0pk2St2lhedWK1wxvzPOzY) | 3:30 | 2025-09-11 |  |
 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 | 2022-11-25 | 2024-02-03 |
+| [Setting](https://open.spotify.com/track/1KlO3pDb3AS2Vi0SYMIB8L) | [KAPEKE](https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Setting](https://open.spotify.com/album/4qx633m4zSy8Z6q1BSDbtX) | 2:04 | 2025-11-06 |  |
 | [Shabada](https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1) | [Mudra D Viral](https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR), [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE) | [Shabada](https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs) | 3:16 | 2023-04-21 | 2024-05-04 |
 | [SHE WAAN](https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [SHE WAAN](https://open.spotify.com/album/3bA2DgGpky4EeSr6VnOPhh) | 3:50 | 2023-11-30 | 2024-05-04 |
 | [Shuu \(Remix\)](https://open.spotify.com/track/30hWSRl6bhLdPMlhYrytf6) | [KAPEKE](https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Shuu \(Remix\)](https://open.spotify.com/album/0BUSD1SZ5ok8qN8I3zSLjU) | 2:33 | 2024-07-04 | 2025-05-30 |

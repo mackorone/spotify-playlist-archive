@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 8634,
+  "num_followers": 8650,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACuQYXo6nCnsV/7083jZdpF",
+  "snapshot_id": "aQqTgAAAAAD72C0Vg+dOxuT2G9dTG1Lv",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Fire",
+        "url": "https://open.spotify.com/album/1rCVy3ZJyrAN6APLu2PiHH"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 153935,
+      "name": "City On Fire (feat. Odeal)",
+      "url": "https://open.spotify.com/track/6QdyHBkpt484d9Ld3FJjUc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHOSDAT",
         "url": "https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv"
       },
@@ -435,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Fire",
-        "url": "https://open.spotify.com/album/1rCVy3ZJyrAN6APLu2PiHH"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 153935,
-      "name": "City On Fire (feat. Odeal)",
-      "url": "https://open.spotify.com/track/6QdyHBkpt484d9Ld3FJjUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 176121,
-      "name": "Temptress",
-      "url": "https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 205846,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "HBTS (Haven't Been The Same)",
-      "url": "https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Thing",
         "url": "https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 162230,
       "name": "Last Thing",
       "url": "https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "HBTS (Haven't Been The Same)",
+      "url": "https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 151489,
-      "name": "Modern Day Suicide",
-      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OVMBR: Roses",
         "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 161211,
       "name": "24/48",
       "url": "https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 151489,
+      "name": "Modern Day Suicide",
+      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
       "duration_ms": 225760,
       "name": "Nothing On You",
       "url": "https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 107223,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 209538,
       "name": "Azure",
       "url": "https://open.spotify.com/track/4M2LTxfMSZnyT51TsuTTF9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 107223,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c"
     },
     {
       "added_at": null,

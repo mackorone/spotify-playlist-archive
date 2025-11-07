@@ -2,7 +2,7 @@
 
 ### [Hit Repeat](https://open.spotify.com/playlist/37i9dQZF1DX574gardB2et)
 
-> The hits you just keep coming back to\. Cover: Troye Sivan, Dua Lipa
+> The hits you just keep coming back to\. Cover: Taylor Swift
 
 172 songs - 9 hr 34 min
 

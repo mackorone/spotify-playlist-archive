@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 406850,
+  "num_followers": 407169,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
+      "added_at": "2024-07-29 19:50:25",
+      "album": {
+        "name": "Live at KEXP!",
+        "url": "https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 300480,
+      "name": "Move on Up - Live",
+      "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
+    },
+    {
       "added_at": "2023-10-24 02:03:26",
       "album": {
         "name": "Carrossel Do Tempo",
@@ -571,22 +587,6 @@
       "duration_ms": 297440,
       "name": "Carrossel Do Tempo",
       "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
-    },
-    {
-      "added_at": "2024-07-29 19:50:25",
-      "album": {
-        "name": "Live at KEXP!",
-        "url": "https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 300480,
-      "name": "Move on Up - Live",
-      "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
     },
     {
       "added_at": "2022-09-02 05:59:31",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
-      "added_at": "2022-08-11 18:18:05",
-      "album": {
-        "name": "French Samba",
-        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
-      },
-      "artists": [
-        {
-          "name": "ASHA",
-          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "French Samba",
-      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Heavenly Sweetness Sampler #3",
@@ -939,6 +923,22 @@
       "duration_ms": 184750,
       "name": "Acapulco, dos de la tard",
       "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
+    },
+    {
+      "added_at": "2022-08-11 18:18:05",
+      "album": {
+        "name": "French Samba",
+        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "French Samba",
+      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 262996,
+      "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3VZszH38QS6BWiKEWeZIw8"
+    },
+    {
       "added_at": "2022-07-13 15:46:50",
       "album": {
         "name": "Siempre Sim\u00f3n y Nunca Nel",
@@ -1087,22 +1103,6 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i"
-      },
-      "artists": [
-        {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 262996,
-      "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3VZszH38QS6BWiKEWeZIw8"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1181,26 +1181,6 @@
       "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
     },
     {
-      "added_at": "2023-03-31 18:14:20",
-      "album": {
-        "name": "Dubby Sunday",
-        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 348662,
-      "name": "Dubby Sunday",
-      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Mirla",
@@ -1219,6 +1199,26 @@
       "duration_ms": 264066,
       "name": "Mirla",
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
+    },
+    {
+      "added_at": "2023-03-31 18:14:20",
+      "album": {
+        "name": "Dubby Sunday",
+        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 348662,
+      "name": "Dubby Sunday",
+      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
       "added_at": "2024-01-11 03:44:06",

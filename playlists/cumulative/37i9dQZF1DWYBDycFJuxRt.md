@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Billyrrom \*👉 <a href="https://spice.eplus.jp/articles/341877">連動記事</a>をSPICEでチェック!
 
-12,597 songs - 33 day 0 hr 59 min
+12,598 songs - 33 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7414,6 +7414,7 @@
 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 | 2023-02-01 | 2023-02-08 |
 | [Third Summer of Love](https://open.spotify.com/track/1TymUgaexEf5hiZKvSwFIi) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [あのち](https://open.spotify.com/album/4BrADJvd35XV47vZhc4jUi) | 5:05 | 2023-01-31 | 2023-02-02 |
 | [Thirsty](https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Thirsty](https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3) | 2:44 | 2024-09-24 | 2024-10-02 |
+| [This Christmas I'm Coming Home](https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [This Christmas I'm Coming Home](https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2) | 3:00 | 2025-11-05 |  |
 | [This Conversation is Missing Your Voice](https://open.spotify.com/track/2RdS9Z3WqmQnIOXDIzVfa5) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [This Conversation Is Missing Your Voice](https://open.spotify.com/album/0TGh9rsH1I0Hhs1RBTqmjM) | 3:54 | 2025-03-11 | 2025-03-19 |
 | [This Door \(feat\. TWIGY\)](https://open.spotify.com/track/5vRcIEdPYm8TIg2MDOsxcu) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [TWIGY](https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v) | [BIS4](https://open.spotify.com/album/1Mw585sD68qutjKyrQw7P5) | 3:50 | 2025-04-08 | 2025-04-16 |
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-16 | 2024-04-24 |
@@ -10441,7 +10442,7 @@
 | [不幸中の幸い](https://open.spotify.com/track/3Dnzk4qIp457OtCfrD0S8S) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [U\-LEE](https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf) | [不幸中の幸い](https://open.spotify.com/album/59BYR80OfcuZfHvJQnF076) | 4:16 | 2024-05-14 | 2024-05-22 |
 | [不思議](https://open.spotify.com/track/2Y0W2QugBh3vF8ujbxJpwk) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [不思議](https://open.spotify.com/album/23YkQBiYh91YlYqC4kGtUp) | 2:49 | 2024-03-05 | 2024-03-13 |
 | [不意に](https://open.spotify.com/track/7a25rqzTE2WMsKazzrkmqZ) | [SACOYANS](https://open.spotify.com/artist/0wTERYV74C8OkJRQnNbrDn) | [SUN](https://open.spotify.com/album/4chFM2dpu6dCB0hXLItQkW) | 4:34 | 2024-11-13 | 2024-11-20 |
-| [不感症](https://open.spotify.com/track/4aVc2n7b6UwdZR5iFPAaE7) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [不感症](https://open.spotify.com/album/7LG2WjVZXC1YkGol9mtR4B) | 3:33 | 2025-11-04 |  |
+| [不感症](https://open.spotify.com/track/4aVc2n7b6UwdZR5iFPAaE7) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [不感症](https://open.spotify.com/album/7LG2WjVZXC1YkGol9mtR4B) | 3:36 | 2025-11-04 |  |
 | [不時着](https://open.spotify.com/track/4LKqg41maUaTkGxK0rPdid) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [不時着](https://open.spotify.com/album/3UtMmtIuT4hP2Z4o18KYVA) | 4:10 | 2023-09-26 | 2023-10-04 |
 | [不気味ちゃん \- reinterpretation ver.](https://open.spotify.com/track/1rRldzk4WYCZMv40NWQ68D) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [不気味ちゃん \(reinterpretation ver.\)](https://open.spotify.com/album/5CM5umdHKimsYj9C9wpUkU) | 5:46 | 2025-09-09 | 2025-09-17 |
 | [不法侵入](https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [不法侵入](https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp) | 4:20 | 2023-05-16 | 2023-05-24 |

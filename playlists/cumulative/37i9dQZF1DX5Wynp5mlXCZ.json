@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: ROSAL\u00cdA",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: KLER",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 209300,
       "name": "Earth (Dradada)",
       "url": "https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX"
@@ -1380,6 +1380,24 @@
       "duration_ms": 216471,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "album": {
+        "name": "Golden Tears",
+        "url": "https://open.spotify.com/album/3bCkwJ4T9TbvHU6ooA2RKG"
+      },
+      "artists": [
+        {
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180350,
+      "name": "Golden Tears",
+      "url": "https://open.spotify.com/track/4tfMSLesv7YgWZ1Oy0i4NG"
     },
     {
       "album": {
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 267961,
       "name": "Shovkovytsya",
       "url": "https://open.spotify.com/track/4P1ku5d7i5XAIBznNaywLz"
@@ -3386,7 +3404,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 280800,
       "name": "Smoking Cherry",
       "url": "https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY"
@@ -4540,7 +4558,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
@@ -6492,7 +6510,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 220000,
       "name": "\u041c\u0456\u0441\u0442\u043e \u0434\u043e\u0449\u0456\u0432",
       "url": "https://open.spotify.com/track/1ooD9MR661uyCOryH4fRWI"
@@ -6510,7 +6528,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 213625,
       "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
       "url": "https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh"
@@ -6644,7 +6662,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 169870,
       "name": "\u041d\u0430\u043c\u0438\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/7ieSNET9yuS7u9zinIGwVs"

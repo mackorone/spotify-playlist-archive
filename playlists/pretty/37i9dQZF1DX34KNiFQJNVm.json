@@ -1,6 +1,6 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Felipe Ara\u00fajo com Simone Mendes, P\u00e9ricles com Ferrugem, Henry Freitas e muito mais!",
-  "num_followers": 2195247,
+  "num_followers": 2195315,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
+        "name": "Minha Delicadeza",
+        "url": "https://open.spotify.com/album/0BH4YrCMuvs5V4qI4iLCvy"
+      },
+      "artists": [
+        {
+          "name": "Juarez",
+          "url": "https://open.spotify.com/artist/3cRalLtHPXkW7pm6N3DazS"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 190021,
+      "name": "Minha Delicadeza",
+      "url": "https://open.spotify.com/track/6rmlL3zd7AVCJEv01z6j62"
+    },
+    {
+      "added_at": "2025-10-31 13:32:05",
+      "album": {
         "name": "NOVOS H\u00c1BITOS+",
         "url": "https://open.spotify.com/album/2zGxNqnoAwTQZqnj5wtyFw"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 124310,
       "name": "NOVOS H\u00c1BITOS (ADULTO IDEAL)",
       "url": "https://open.spotify.com/track/1Cb7HSaBug4HLjiakvxMfI"
-    },
-    {
-      "added_at": "2025-10-31 13:32:05",
-      "album": {
-        "name": "Minha Delicadeza",
-        "url": "https://open.spotify.com/album/0BH4YrCMuvs5V4qI4iLCvy"
-      },
-      "artists": [
-        {
-          "name": "Juarez",
-          "url": "https://open.spotify.com/artist/3cRalLtHPXkW7pm6N3DazS"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 190021,
-      "name": "Minha Delicadeza",
-      "url": "https://open.spotify.com/track/6rmlL3zd7AVCJEv01z6j62"
     },
     {
       "added_at": "2025-10-31 13:32:05",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
-        "name": "Devolve Tudo",
-        "url": "https://open.spotify.com/album/5UsQslDk3Oz3ZE3I8sNfgG"
-      },
-      "artists": [
-        {
-          "name": "Sem Reznha",
-          "url": "https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd"
-        }
-      ],
-      "duration_ms": 163972,
-      "name": "Devolve Tudo",
-      "url": "https://open.spotify.com/track/3z77FM7yjJvksGAkCYWkPM"
-    },
-    {
-      "added_at": "2025-10-31 13:32:05",
-      "album": {
         "name": "Vagabundo Nato",
         "url": "https://open.spotify.com/album/7F4PR72VpCS8FUauitIz2s"
       },
@@ -507,34 +491,18 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
-        "name": "Papel de Homem",
-        "url": "https://open.spotify.com/album/0FM48JINxhg6nVKfF24t9z"
+        "name": "Devolve Tudo",
+        "url": "https://open.spotify.com/album/5UsQslDk3Oz3ZE3I8sNfgG"
       },
       "artists": [
         {
-          "name": "Edson & Hudson",
-          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+          "name": "Sem Reznha",
+          "url": "https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd"
         }
       ],
-      "duration_ms": 204766,
-      "name": "Papel de Homem",
-      "url": "https://open.spotify.com/track/4nH3S8pEC21Pi6zpxEwvnv"
-    },
-    {
-      "added_at": "2025-10-31 13:32:05",
-      "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI"
-      },
-      "artists": [
-        {
-          "name": "Vivi",
-          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
-        }
-      ],
-      "duration_ms": 136197,
-      "name": "Pobre Menina Rica (Cita\u00e7\u00e3o: Al\u00f4! Al\u00f4! Marciano)",
-      "url": "https://open.spotify.com/track/74wR75AEPtP7rCtsrvZrTl"
+      "duration_ms": 163972,
+      "name": "Devolve Tudo",
+      "url": "https://open.spotify.com/track/3z77FM7yjJvksGAkCYWkPM"
     },
     {
       "added_at": "2025-10-31 13:32:05",
@@ -571,6 +539,38 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
+        "name": "Papel de Homem",
+        "url": "https://open.spotify.com/album/0FM48JINxhg6nVKfF24t9z"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "duration_ms": 204766,
+      "name": "Papel de Homem",
+      "url": "https://open.spotify.com/track/4nH3S8pEC21Pi6zpxEwvnv"
+    },
+    {
+      "added_at": "2025-10-31 13:32:05",
+      "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI"
+      },
+      "artists": [
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+        }
+      ],
+      "duration_ms": 136197,
+      "name": "Pobre Menina Rica (Cita\u00e7\u00e3o: Al\u00f4! Al\u00f4! Marciano)",
+      "url": "https://open.spotify.com/track/74wR75AEPtP7rCtsrvZrTl"
+    },
+    {
+      "added_at": "2025-10-31 13:32:05",
+      "album": {
         "name": "Vir\u00e1",
         "url": "https://open.spotify.com/album/6YF9dLezXott7Cpol6pgwC"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
+        "name": "Potinho de Veneno",
+        "url": "https://open.spotify.com/album/0FEy7NRnyMSxHF0GSl1Ifw"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Potinho de Veneno",
+      "url": "https://open.spotify.com/track/3smgMtxQbgUXzNCVxWaIeX"
+    },
+    {
+      "added_at": "2025-10-31 13:32:05",
+      "album": {
         "name": "\u00c9 Sal",
         "url": "https://open.spotify.com/album/4PdkuykG6mFBLhF8qs9V1t"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
-        "name": "Potinho de Veneno",
-        "url": "https://open.spotify.com/album/0FEy7NRnyMSxHF0GSl1Ifw"
+        "name": "\u00daltimo Aviso",
+        "url": "https://open.spotify.com/album/2XOkvXAEN2YBr7UFXofetM"
       },
       "artists": [
         {
-          "name": "Detonautas",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+          "name": "Puro Clima",
+          "url": "https://open.spotify.com/artist/0tqBQWnmKCi741dnOHbVkq"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Potinho de Veneno",
-      "url": "https://open.spotify.com/track/3smgMtxQbgUXzNCVxWaIeX"
+      "duration_ms": 198842,
+      "name": "\u00daltimo Aviso",
+      "url": "https://open.spotify.com/track/3xLvFwpeSSmj0BouBeCiSE"
     },
     {
       "added_at": "2025-10-31 13:32:05",
@@ -643,6 +659,14 @@
         "url": "https://open.spotify.com/album/0jfiS4XIfcD6laJU3wMIim"
       },
       "artists": [
+        {
+          "name": "MC Deri",
+          "url": "https://open.spotify.com/artist/2zyXjT9Mb5CBy5avCA0D5k"
+        },
+        {
+          "name": "Mc Felipe JC",
+          "url": "https://open.spotify.com/artist/1gQ8PWw7pF2nn0H48NYKe7"
+        },
         {
           "name": "MC Kainho",
           "url": "https://open.spotify.com/artist/39gsNhsA3t2uo3RUBjRFWK"
@@ -656,20 +680,12 @@
           "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
         },
         {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "MC Deri",
-          "url": "https://open.spotify.com/artist/2zyXjT9Mb5CBy5avCA0D5k"
-        },
-        {
-          "name": "Mc Felipe JC",
-          "url": "https://open.spotify.com/artist/1gQ8PWw7pF2nn0H48NYKe7"
-        },
-        {
           "name": "Marchi Oficial",
           "url": "https://open.spotify.com/artist/1i5wZkWKMjKmIDIvuzbw9l"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
         },
         {
           "name": "Oldilla",
@@ -683,18 +699,22 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
-        "name": "\u00daltimo Aviso",
-        "url": "https://open.spotify.com/album/2XOkvXAEN2YBr7UFXofetM"
+        "name": "Uma Beb\u00ea Dessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45jQynRey5pl5dxrr9SLow"
       },
       "artists": [
         {
-          "name": "Puro Clima",
-          "url": "https://open.spotify.com/artist/0tqBQWnmKCi741dnOHbVkq"
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 198842,
-      "name": "\u00daltimo Aviso",
-      "url": "https://open.spotify.com/track/3xLvFwpeSSmj0BouBeCiSE"
+      "duration_ms": 181989,
+      "name": "Uma Beb\u00ea Dessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5IppPM8fRGfhfd2lraFPcM"
     },
     {
       "added_at": "2025-10-31 13:32:05",
@@ -723,26 +743,6 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
-        "name": "Uma Beb\u00ea Dessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/45jQynRey5pl5dxrr9SLow"
-      },
-      "artists": [
-        {
-          "name": "Suel",
-          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 181989,
-      "name": "Uma Beb\u00ea Dessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5IppPM8fRGfhfd2lraFPcM"
-    },
-    {
-      "added_at": "2025-10-31 13:32:05",
-      "album": {
         "name": "bye bye bahia",
         "url": "https://open.spotify.com/album/4wRSBFCUQHjmgFG8nPWgjx"
       },
@@ -755,26 +755,6 @@
       "duration_ms": 185999,
       "name": "bye bye bahia",
       "url": "https://open.spotify.com/track/7GLkMGtpCndks5qelr3U3d"
-    },
-    {
-      "added_at": "2025-10-31 13:32:05",
-      "album": {
-        "name": "Improv\u00e1vel",
-        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 176862,
-      "name": "Improv\u00e1vel",
-      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
     },
     {
       "added_at": "2025-10-31 13:32:05",
@@ -795,6 +775,26 @@
       "duration_ms": 167926,
       "name": "A Balada Perde",
       "url": "https://open.spotify.com/track/1Sa9NgQVlWHUvqMl1YeFRV"
+    },
+    {
+      "added_at": "2025-10-31 13:32:05",
+      "album": {
+        "name": "Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 176862,
+      "name": "Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
     },
     {
       "added_at": "2025-10-31 13:32:05",
@@ -959,26 +959,6 @@
     {
       "added_at": "2025-10-31 13:32:05",
       "album": {
-        "name": "Noites em Miami",
-        "url": "https://open.spotify.com/album/2SZSWOS2PEGD3oDAuasFRp"
-      },
-      "artists": [
-        {
-          "name": "Vivi",
-          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 183032,
-      "name": "Noites em Miami",
-      "url": "https://open.spotify.com/track/50xLIBwr4F0g9gXbzSLXQ8"
-    },
-    {
-      "added_at": "2025-10-31 13:32:05",
-      "album": {
         "name": "Ontem Minha M\u00e3e Ligou",
         "url": "https://open.spotify.com/album/4Zzj44iGMsPdvSMBCY1cZC"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 232087,
       "name": "Ontem Minha M\u00e3e Ligou",
       "url": "https://open.spotify.com/track/09N9XfKfMcHpWwnPLemCBD"
+    },
+    {
+      "added_at": "2025-10-31 13:32:05",
+      "album": {
+        "name": "Noites em Miami",
+        "url": "https://open.spotify.com/album/2SZSWOS2PEGD3oDAuasFRp"
+      },
+      "artists": [
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 183032,
+      "name": "Noites em Miami",
+      "url": "https://open.spotify.com/track/50xLIBwr4F0g9gXbzSLXQ8"
     },
     {
       "added_at": "2025-10-31 13:32:05",
@@ -1194,6 +1194,14 @@
         {
           "name": "L\u00e9o Kobayashi",
           "url": "https://open.spotify.com/artist/7FkOAfTSJpyVxb7YSgxFqr"
+        },
+        {
+          "name": "Petroceli",
+          "url": "https://open.spotify.com/artist/0wKVGvwlZH6lKsx8csqhmf"
+        },
+        {
+          "name": "calli.",
+          "url": "https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo"
         }
       ],
       "duration_ms": 144000,

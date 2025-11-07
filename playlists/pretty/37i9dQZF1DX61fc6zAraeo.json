@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 105379,
+  "num_followers": 105393,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -391,30 +391,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 187298,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Focus (feat. CLOVES) [Alok Remix]",
         "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 207761,
       "name": "Focus (feat. CLOVES) - Alok Remix",
       "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 187298,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -743,6 +743,30 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Freaking You Out",
+        "url": "https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "duration_ms": 182968,
+      "name": "Freaking You Out",
+      "url": "https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Freaking You Out",
-        "url": "https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
-        }
-      ],
-      "duration_ms": 182968,
-      "name": "Freaking You Out",
-      "url": "https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 151904,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Elektro",
-        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "Elektro",
-      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
     },
     {
       "added_at": "2025-10-30 23:00:21",

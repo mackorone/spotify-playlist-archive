@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6wQUgoZzUc.md) - [plain]
 
 > Un perreito en la pared...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,261 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,775 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6wQUgoZzUc.md) - [plain]
 | 70 | [Baja Pa' Acá](https://open.spotify.com/track/3HCcfBsa4TdiC0so0fPnRi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:20 |
 | 71 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 |
 | 72 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
-| 73 | [Forni](https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z) | [Los Ballers](https://open.spotify.com/artist/5P6cHh4NtlZIaRKDHji2fY), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Forni](https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj) | 3:23 |
-| 74 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 |
+| 73 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 |
+| 74 | [Forni](https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z) | [Los Ballers](https://open.spotify.com/artist/5P6cHh4NtlZIaRKDHji2fY), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Forni](https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj) | 3:23 |
 | 75 | [Todavía](https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:23 |
 | 76 | [Ella Quiere Hmm..\. Haa..\. Hmm..\. \- DJ Yayo Remix Yayo Remix](https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH) | [Leka el Poeta](https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV), [Mishelle Master Boys](https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG), [DJ Yayo](https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh) | [Ella Quiere Hmm..\. Haa..\. Hmm...](https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5) | 3:32 |
 | 77 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 |

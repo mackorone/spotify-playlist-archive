@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Tyla
 
-191 songs - 9 hr 2 min
+193 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 | 2025-07-18 |  |
 | [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-04 | 2025-07-18 |
 | [iSizwe](https://open.spotify.com/track/75JT334u8Lx25FOMrJWDfQ) | [Thalie MaMbooica](https://open.spotify.com/artist/4QDUrDd9oDGPYb7Rgl8fy7) | [Ntinga Ntaka](https://open.spotify.com/album/6LGuH784qLJaTf03VPcj9s) | 2:30 | 2025-06-13 | 2025-07-05 |
+| [Jamzy Vibe](https://open.spotify.com/track/3QsKvy5KtKrtx5QkkGTtVv) | [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Jamzy Vibe](https://open.spotify.com/album/4PFeRdNEbdUXgLeIRlRkMa) | 2:18 | 2025-11-07 |  |
 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 | 2024-12-16 | 2025-10-25 |
 | [Journey](https://open.spotify.com/track/5ReWZfDl0ZaFdhUi617FVp) | [PholaPreye](https://open.spotify.com/artist/1SrQsw28qIWqVzZc3G2EkE) | [Journey](https://open.spotify.com/album/20r4mfuM8UzBn25OnbIogd) | 3:14 | 2025-05-16 | 2025-07-05 |
 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2024-11-29 | 2025-09-20 |
@@ -121,7 +122,7 @@
 | [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 | 2024-11-29 | 2025-05-30 |
 | [MOVE](https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ) | [Rita Kamale](https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOVE](https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla) | 3:06 | 2024-11-29 | 2025-07-05 |
 | [Ms Spender](https://open.spotify.com/track/4IYOmlcwhmWMyFN5DE2Dio) | [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Ms Spender](https://open.spotify.com/album/67xLcdLseC4qphYx865KeB) | 1:54 | 2024-11-29 | 2025-01-18 |
-| [Muhibu](https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Muhibu](https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ) | 3:13 | 2024-11-29 |  |
+| [Muhibu](https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Muhibu](https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ) | 3:13 | 2024-11-29 | 2025-11-07 |
 | [Murda](https://open.spotify.com/track/0gxt0HVcwztpRHgwKHtjg7) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Murda](https://open.spotify.com/album/0U3lIx96r3jaV0PGe8W9cE) | 2:49 | 2024-11-29 |  |
 | [My Head](https://open.spotify.com/track/5v9ZWzBcBZozh2Xy5D02Jp) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9) | [My Head](https://open.spotify.com/album/2Zbvg74iS66Au0WLHrDbfn) | 3:05 | 2025-01-17 | 2025-10-25 |
 | [My Padi](https://open.spotify.com/track/4v3r8Qo2urOchL0HVZbBQn) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [My Padi](https://open.spotify.com/album/1EH9dIlkJeLraZsLBx2oWw) | 2:34 | 2025-06-20 | 2025-09-05 |
@@ -176,7 +177,8 @@
 | [Superwoman](https://open.spotify.com/track/0pim1RV3QzkZQWo8QmKoCh) | [Blanche Bailly](https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Superwoman](https://open.spotify.com/album/4QEfxuq5zIDoY7kumRDLA5) | 3:01 | 2024-11-29 | 2024-12-21 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-11-29 | 2025-07-05 |
 | [Talking Too Much](https://open.spotify.com/track/7944xUFsCEivN3zFMZXmTt) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 3:14 | 2024-11-29 | 2025-05-16 |
-| [Temperature \(E Dey Hot\)](https://open.spotify.com/track/0o2Hm5xDGCjsboek8TOFDC) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Temperature \(E Dey Hot\)](https://open.spotify.com/album/1rsNVVWjJEUf6CPEggHgDv) | 2:37 | 2025-10-24 |  |
+| [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 | 2025-11-07 |  |
+| [Temperature \(E Dey Hot\)](https://open.spotify.com/track/0o2Hm5xDGCjsboek8TOFDC) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Temperature \(E Dey Hot\)](https://open.spotify.com/album/1rsNVVWjJEUf6CPEggHgDv) | 2:37 | 2025-10-24 | 2025-11-07 |
 | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/album/4EmugwIjX1qX68hUfAT8Oz) | 3:34 | 2024-12-06 | 2024-12-17 |
 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 | 2024-11-29 | 2025-01-18 |
 | [Tonic No Lime \- Remix](https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Tonic No Lime \(Remix\)](https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5) | 3:03 | 2024-11-29 | 2025-05-30 |

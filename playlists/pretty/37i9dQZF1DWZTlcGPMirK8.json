@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 72173,
+  "num_followers": 72178,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Youngblood (Deluxe)",
         "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Changa",
-        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Kira Divine",
-          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
-        }
-      ],
-      "duration_ms": 198020,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Birds Of Tokyo",
         "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 217106,
       "name": "Mysterious Girl - Radio Edit",
       "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Changa",
+        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kira Divine",
+          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
+        }
+      ],
+      "duration_ms": 198020,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Watching Angels Mend",
-        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
-      },
-      "artists": [
-        {
-          "name": "Alex Lloyd",
-          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "In The Summertime",
         "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 228560,
       "name": "In the Summertime - Single Version",
       "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Watching Angels Mend",
+        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
+      },
+      "artists": [
+        {
+          "name": "Alex Lloyd",
+          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Blue Planet Eyes",
-        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
-      },
-      "artists": [
-        {
-          "name": "The Preatures",
-          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Is This How You Feel?",
-      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Love Monster",
         "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Reflector",
-        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+        "name": "Blue Planet Eyes",
+        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
       },
       "artists": [
         {
-          "name": "Killing Heidi",
-          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+          "name": "The Preatures",
+          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Weir",
-      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
+      "duration_ms": 214093,
+      "name": "Is This How You Feel?",
+      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -903,6 +887,22 @@
       "duration_ms": 213333,
       "name": "Two Strong Hearts",
       "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+      },
+      "artists": [
+        {
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Weir",
+      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Sneaky Sound System",
-        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
-      },
-      "artists": [
-        {
-          "name": "Sneaky Sound System",
-          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Thirty One",
         "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 234866,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Sneaky Sound System",
+        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
+      },
+      "artists": [
+        {
+          "name": "Sneaky Sound System",
+          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
     },
     {
       "added_at": "2024-08-05 06:00:58",

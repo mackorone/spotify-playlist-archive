@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Digital Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,293 likes - 91 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,351 likes - 91 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Beyond Oblivion](https://open.spotify.com/track/5eQp2oQ0v1x3BPPn5W4B68) | [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv) | [Beyond Oblivion](https://open.spotify.com/album/2hHPMlHeI0u7DCMQIRAq3c) | 4:00 |
-| 2 | [RUNAWAY](https://open.spotify.com/track/6s8UaJxhkAl06ZbQ3yBtFU) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [RUNAWAY](https://open.spotify.com/album/380wgMwmLKpQrQQhknOeH3) | 2:58 |
-| 3 | [Only One](https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Only One](https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA) | 3:11 |
-| 4 | [Forever Lost](https://open.spotify.com/track/6gf2L7fOQOfc9MYJlCPmKi) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Forever Lost](https://open.spotify.com/album/3ljB96kx2Z0YMEB7qbfuCz) | 3:05 |
-| 5 | [Touch My Body](https://open.spotify.com/track/2DTnNxfb69aYYMll16F21t) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [TwinTigerz](https://open.spotify.com/artist/0pEKh68H0lmNrnAwV2aU4B) | [Touch My Body](https://open.spotify.com/album/5nAzY0bQlWRXVJXPAQ3bb4) | 3:56 |
-| 6 | [Outro](https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Outro](https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA) | 2:24 |
+| 1 | [Touch My Body](https://open.spotify.com/track/2DTnNxfb69aYYMll16F21t) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [TwinTigerz](https://open.spotify.com/artist/0pEKh68H0lmNrnAwV2aU4B) | [Touch My Body](https://open.spotify.com/album/5nAzY0bQlWRXVJXPAQ3bb4) | 3:56 |
+| 2 | [Outro](https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Outro](https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA) | 2:24 |
+| 3 | [Beyond Oblivion](https://open.spotify.com/track/5eQp2oQ0v1x3BPPn5W4B68) | [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv) | [Beyond Oblivion](https://open.spotify.com/album/2hHPMlHeI0u7DCMQIRAq3c) | 4:00 |
+| 4 | [RUNAWAY](https://open.spotify.com/track/6s8UaJxhkAl06ZbQ3yBtFU) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [RUNAWAY](https://open.spotify.com/album/380wgMwmLKpQrQQhknOeH3) | 2:58 |
+| 5 | [Only One](https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Only One](https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA) | 3:11 |
+| 6 | [Forever Lost](https://open.spotify.com/track/6gf2L7fOQOfc9MYJlCPmKi) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Forever Lost](https://open.spotify.com/album/3ljB96kx2Z0YMEB7qbfuCz) | 3:05 |
 | 7 | [Live Forever](https://open.spotify.com/track/7f1zQQn2zgR6Lix5NtJcS9) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Live Forever](https://open.spotify.com/album/6aSk55aNBCKjrVjcj9Epks) | 2:35 |
 | 8 | [The Dream Where I Never Died](https://open.spotify.com/track/6d1pgN8XwwB6ylIVnDl7NW) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Open Heart Surgery](https://open.spotify.com/album/0819GXlOhMJJYUvMqdpYdl) | 2:30 |
 | 9 | [Highway To Heaven](https://open.spotify.com/track/41UL3OFdkQnF4rZmbCMoF3) | [Cyber](https://open.spotify.com/artist/303olBIixVXirStn7yhOZX) | [Highway To Heaven](https://open.spotify.com/album/18p0dJ6wie43IRxdUjbJre) | 3:09 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 90 | [CHAOS](https://open.spotify.com/track/3OS6AGUpWX2z5NQhKVnBHf) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [CHAOS](https://open.spotify.com/album/3jftWMxRJPCZDk14US1H2b) | 3:14 |
 | 91 | [PATIENT ZERO](https://open.spotify.com/track/789rdb2uJ6BmrO73upVDGP) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [PATIENT ZERO](https://open.spotify.com/album/15pDRuSHVMkCkZvoplbzc7) | 2:58 |
 
-Snapshot ID: `AAAAAGDmKPyo7ZbyLhWmmfrCxzYLeSXJ`
+Snapshot ID: `AAAAACsThYsjC1iu/q9Fjv5gSLbARCCa`

@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 49257,
+  "num_followers": 49263,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACm0VMTtrpUzMVpxqltNNdP",
+  "snapshot_id": "aQqTgAAAAADDHG4wttt8dTrzwTjBKtAv",
   "tracks": [
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 389946,
-      "name": "La Nube De Tu Gloria",
-      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Amor No Tiene Fin",
         "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 301466,
       "name": "Danzando",
       "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 389946,
+      "name": "La Nube De Tu Gloria",
+      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
     },
     {
       "added_at": null,

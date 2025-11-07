@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 882 songs - 2 day 21 hr 5 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 885 songs - 2 day 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -890,5 +890,8 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 880 | [Ancora, ancora, ancora \- Radio Edit \(Mark Ronson Remix\)](https://open.spotify.com/track/0uBZ6Yk2k7QFkTEKdkqrKB) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ancora, ancora, ancora \(Mark Ronson Remix\)](https://open.spotify.com/album/42JwuEeoDbsMeHXZFEoic5) | 4:16 |
 | 881 | [Woza](https://open.spotify.com/track/1ctFPcxav6iUH8gMYJY4Ez) | [Moskito](https://open.spotify.com/artist/4hPl23nJcNmFMEabNKAoJY) | [Idolar](https://open.spotify.com/album/3SjuOfwmyEqqOo8K5zcUdh) | 4:17 |
 | 882 | [Maitá](https://open.spotify.com/track/0rqZWIhGrMaPSDlE31Ret1) | [Doris Monteiro](https://open.spotify.com/artist/5bQiwDxCWfLPAXOAshBFCa) | [Doris Monteiro Agora](https://open.spotify.com/album/7GegUpqaiQCDwjjgTH9sph) | 2:52 |
+| 883 | [Un homme et une femme](https://open.spotify.com/track/7pLCx72zQyAu2x0l59bsTM) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Love Is Blue](https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa) | 2:23 |
+| 884 | [L'amour est bleu](https://open.spotify.com/track/7pcLsOMObk21x0E96vxGek) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [I Will Follow Him](https://open.spotify.com/album/21r1oT32FM8tvhFM5Mx4Zj) | 2:33 |
+| 885 | [Alech](https://open.spotify.com/track/6OJo63o4YdJmvrgzrNQSX7) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother \(Habibi Funk 001\)](https://open.spotify.com/album/1HBY3Vv9JYAR2ZiquvOV63) | 3:36 |
 
-Snapshot ID: `AAAD44WsVOFIxadgFZGHBSLl7W/xSu1y`
+Snapshot ID: `AAAD52nom3cyZyYzj4Wbb0wwHmspME9X`

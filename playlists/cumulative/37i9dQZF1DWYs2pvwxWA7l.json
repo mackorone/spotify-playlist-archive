@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "A Lot (with Victony)",
+      "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
+    },
+    {
+      "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
       },
@@ -4854,7 +4876,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 168461,
       "name": "forever",
       "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
@@ -6072,6 +6094,24 @@
       "duration_ms": 153946,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "album": {
+        "name": "I'm Available",
+        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196530,
+      "name": "I'm Available",
+      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
     },
     {
       "album": {
@@ -14686,7 +14726,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"

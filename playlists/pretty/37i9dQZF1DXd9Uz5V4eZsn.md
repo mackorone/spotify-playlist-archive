@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,734 likes - 61 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,739 likes - 61 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 60 | [Surrender to the Supreme](https://open.spotify.com/track/6thuYcDe02vdRQIIuY4g3g) | [Vamanan](https://open.spotify.com/artist/50D5QNIcqU50fStd2PrZ7y) | [Meditation Music](https://open.spotify.com/album/4XUESTVzfg5sEj7DjPCuZL) | 17:22 |
 | 61 | [Earth in Space](https://open.spotify.com/track/3d4lrPfdFxvtONXc0fbRec) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax) | [Healing \(Vol 1\)](https://open.spotify.com/album/49vsK5SdsNgFzg73orXx7Z) | 10:17 |
 
-Snapshot ID: `AAAAABfr8tmaCH5A3vn8R5TJBMiBu/y7`
+Snapshot ID: `AAAAAAmMasE0J5Q7Suid9f7M0kpHf2AH`

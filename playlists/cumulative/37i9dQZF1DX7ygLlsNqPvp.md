@@ -2,9 +2,9 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  O'Kenneth
+> The most intense local drill music firing up the continent\. Cover:  Ko\-Jo Cue
 
-264 songs - 13 hr 13 min
+266 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-29 | 2024-01-05 |
 | [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 | 2025-09-19 |  |
 | [Balling](https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt) | [Balling](https://open.spotify.com/album/2FqS1rete3J3Viej1Du06g) | 2:46 | 2024-05-17 | 2024-06-01 |
+| [Bantama Blues 3](https://open.spotify.com/track/7DShkziVjQFprsI5MuFM03) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [KANI: A Bantama Story](https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE) | 3:41 | 2025-11-07 |  |
 | [BASELINE](https://open.spotify.com/track/4jWFICufHHnaCDrtCeUGyV) | [Damy](https://open.spotify.com/artist/6Rd7l8PLs9gpbqEQ9hSpmP), [YokeeGilla](https://open.spotify.com/artist/3Y54NinYYRIlsNUzu39We4) | [BASELINE](https://open.spotify.com/album/5GUeHyG26KMyh1kKEejzcZ) | 3:13 | 2022-11-04 | 2022-12-09 |
 | [Bebe](https://open.spotify.com/track/04qKXcYDIIWVLdCTZCdUQm) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Bebe](https://open.spotify.com/album/1rFjsoBsPodLHBYQG8S8H6) | 2:07 | 2022-06-16 |  |
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2022-06-09 | 2024-01-19 |
@@ -227,6 +228,7 @@
 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 | 2022-06-09 | 2024-03-15 |
 | [Spade](https://open.spotify.com/track/5gQHk0Mk9yKhyXp7DnGhcB) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Spade](https://open.spotify.com/album/4T1vG1IBZcOSwfRQ5MsVqS) | 2:25 | 2025-01-31 | 2025-02-14 |
 | [Stand Firm](https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Stand Firm](https://open.spotify.com/album/3sr8Z6gGLvnzOKXnejZs3r) | 2:12 | 2022-06-09 |  |
+| [Stop Dey Worry Me](https://open.spotify.com/track/29BZWfMU9LfD50wJ5jxkre) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Stop Dey Worry Me](https://open.spotify.com/album/369QLSNsmpKNI6x4Hj1RsV) | 2:58 | 2025-11-07 |  |
 | [Streets Ayeshi](https://open.spotify.com/track/0wPU1eNyf9rT9oPnOUdVad) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Bigg Homie Flee](https://open.spotify.com/artist/24OjXcA2zXunU4i5RgzZQa), [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV), [QV](https://open.spotify.com/artist/50CBRvn7AKdKTErB76P7dv), [Abdoulaye Diope](https://open.spotify.com/artist/5B7uXAP6dAICj1MahqaPSy) | [Trenches Babies](https://open.spotify.com/album/3IP9LuMkbM7Ka57uxuyiWd) | 4:16 | 2022-09-01 | 2023-11-17 |
 | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp) | 2:54 | 2022-11-25 | 2023-04-21 |
 | [Sweet](https://open.spotify.com/track/15ePvDHYnntIuwzXIbZ2tz) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Sweet](https://open.spotify.com/album/4fmeXWHITW7ezwMEqPbNjr) | 2:03 | 2022-06-09 |  |

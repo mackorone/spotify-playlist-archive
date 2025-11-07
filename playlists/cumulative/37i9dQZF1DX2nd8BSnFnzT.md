@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Indigans
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Capital Inicial
 
-568 songs - 1 day 7 hr 43 min
+569 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Gentrificação](https://open.spotify.com/track/3EJj7xV5GiO8O0ZXoxxttG) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [Gentrificação](https://open.spotify.com/album/6S6dBEwv7ovsCUBBCxbxUw) | 3:24 | 2023-07-07 | 2023-08-12 |
 | [Geração Fofa \(Ogros Do Século Passado\)](https://open.spotify.com/track/0RFEHwa6kSpURfDNSLyu5h) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Geração Fofa \(Ogros Do Século Passado\)](https://open.spotify.com/album/1B8hQz806ueoAI0NwMKXTe) | 3:31 | 2025-05-23 |  |
 | [Gigante](https://open.spotify.com/track/41T7H4623zni8AgZ37dIif) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/5lngOd9ckmPOL4xwcbkotM) | 3:57 | 2023-08-25 | 2024-04-19 |
-| [Gigante](https://open.spotify.com/track/50RIHpnMyCjRLrFXoVbvsM) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/6JiDLzuNVsMHO7qoePgoRZ) | 3:57 | 2023-07-21 |  |
+| [Gigante](https://open.spotify.com/track/50RIHpnMyCjRLrFXoVbvsM) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/6JiDLzuNVsMHO7qoePgoRZ) | 3:57 | 2023-07-21 | 2025-11-07 |
 | [Grunge Caiçara](https://open.spotify.com/track/66Y4zeFBo2RPPcihswE3zo) | [DZROCK](https://open.spotify.com/artist/6RkWnqZp8mJrhibzHvEJTw) | [Grunge Caiçara](https://open.spotify.com/album/7oETN7c5gzKpJFAuN7S4Ec) | 2:45 | 2024-05-10 | 2024-06-22 |
 | [Grão](https://open.spotify.com/track/6Q9qlZBRJlBEEaZkbDwsDa) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp) | [Aponte para o Amor](https://open.spotify.com/album/6L57HZXTfINznVAuKzC9DQ) | 3:15 | 2022-07-15 | 2023-07-08 |
 | [HardCore e Festa](https://open.spotify.com/track/4PHrcMAJ81ePbgOevZKaOR) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [HardCore e Festa](https://open.spotify.com/album/6GnrYHjaIgRwyxBKWtEsZl) | 1:40 | 2023-07-14 | 2023-11-04 |
@@ -563,6 +563,7 @@
 | [Virar O Jogo](https://open.spotify.com/track/40yDQNMltSs9LJjbmuzXR8) | [LA GANG](https://open.spotify.com/artist/5RreoTuWQBJSW7pHhl3yjR) | [Virar O Jogo](https://open.spotify.com/album/2dP4vn2pC3S90ogOcw4HMT) | 2:20 | 2024-05-10 | 2024-11-23 |
 | [Vital E Sua Moto 2024](https://open.spotify.com/track/24JnBtwF07WzODgJtTYyKN) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Vital E Sua Moto 2024](https://open.spotify.com/album/1ivFEPEPpN10pc2JQlMZay) | 3:25 | 2024-06-21 |  |
 | [Vitória](https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt.3](https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh) | 3:20 | 2022-08-12 | 2023-03-11 |
+| [Você Me Ama de Verdade?](https://open.spotify.com/track/0QjmlcG6AoFfh8mC2tgtlp) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Você Me Ama de Verdade?](https://open.spotify.com/album/68OcBJKbDJrAi2pOgUl8l8) | 3:25 | 2025-11-07 |  |
 | [Você Tem O Que Merece Ter](https://open.spotify.com/track/60hp4U6TBZoNJGuh3a3qZh) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Você Tem O Que Merece Ter](https://open.spotify.com/album/3AD2RdswWSsmBCm29FYOdC) | 2:48 | 2025-08-15 |  |
 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 | 2023-07-14 | 2024-07-06 |
 | [Voe](https://open.spotify.com/track/4auuWHV7lGdaYLRrCACoeT) | [Abel Capella](https://open.spotify.com/artist/6sC9qbOTdfboHJIWQF3lkw) | [Voe](https://open.spotify.com/album/7fdN4LLQLWYveuG4Mrcalp) | 3:41 | 2022-01-14 | 2022-11-19 |

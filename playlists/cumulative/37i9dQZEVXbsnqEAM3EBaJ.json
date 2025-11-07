@@ -13733,6 +13733,32 @@
     },
     {
       "album": {
+        "name": "Healing Touch",
+        "url": "https://open.spotify.com/album/5y4WFV1E46i1TGWiVOevbc"
+      },
+      "artists": [
+        {
+          "name": "Spa Me Up",
+          "url": "https://open.spotify.com/artist/7v6Dgrvmuy2eassQJjr1yl"
+        },
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "Echoes of Tomorrow",
+      "url": "https://open.spotify.com/track/5jdL3PSXjNig8TJRwytFil"
+    },
+    {
+      "album": {
         "name": "Melod\u00edas De Aves Binaurales: Ecos De Meditaci\u00f3n - 92 96 Hz",
         "url": "https://open.spotify.com/album/0DVS8shBwx7bW2wf63mZWe"
       },
@@ -20314,7 +20340,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 240000,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1L7govHKhECvhB1sg6QxGx"

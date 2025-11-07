@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: dezydery
 
-636 songs - 1 day 7 hr 8 min
+637 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [sama ze sobą!](https://open.spotify.com/track/2ZFBhH8U98Y9T0YJoH81TQ) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [sama ze sobą!](https://open.spotify.com/album/4hXKWDP9q7APH8diHyfGiR) | 1:57 | 2025-10-07 |  |
 | [Sangria](https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu) | [MILI JACK](https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO) | [Sangria](https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03) | 2:40 | 2024-06-28 | 2024-10-05 |
 | [Sansewierie](https://open.spotify.com/track/5CWSpK1cmWWEgYod64Wlrf) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Sansewierie](https://open.spotify.com/album/3lA9ppkbEyLkGhMYjdGSQF) | 3:24 | 2024-08-30 | 2025-01-24 |
+| [Sauvage](https://open.spotify.com/track/7BW8g0m4b1KN7iecTNBuJX) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Sauvage](https://open.spotify.com/album/1PAAUFg41yRgsmgfqrJS2B) | 2:26 | 2025-11-04 |  |
 | [Seans](https://open.spotify.com/track/3jKOZJ66h9OtMMK9peLtbT) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Seans](https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir) | 3:39 | 2025-07-31 | 2025-09-24 |
 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 | 2025-09-30 |  |
 | [Sedno](https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [Sedno](https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75) | 2:21 | 2025-09-30 |  |
@@ -585,7 +586,7 @@
 | [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 | 2025-01-23 | 2025-02-23 |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-30 | 2025-04-25 |
 | [Why she's better](https://open.spotify.com/track/6JvAJgRYNpMG53GjPThcE1) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Czy to nadal ja?](https://open.spotify.com/album/6ZxCc5LCfmblibKjhuUMyv) | 2:39 | 2024-06-28 | 2024-07-12 |
-| [Wiem co z nami będzie](https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wiem co z nami będzie](https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V) | 3:20 | 2025-08-19 |  |
+| [Wiem co z nami będzie](https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wiem co z nami będzie](https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V) | 3:20 | 2025-08-19 | 2025-11-07 |
 | [Wiem, że ci ciężko](https://open.spotify.com/track/6fdsYxLiiqBQBEdZh7lkL4) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Wiem, że ci ciężko](https://open.spotify.com/album/0CNDOPFX4ucmlpji8KAonu) | 3:31 | 2024-06-28 | 2024-07-05 |
 | [wifey material](https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN) | [Milky.wav](https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP) | [wifey material](https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5) | 2:02 | 2025-09-16 |  |
 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 | 2025-02-06 | 2025-02-21 |

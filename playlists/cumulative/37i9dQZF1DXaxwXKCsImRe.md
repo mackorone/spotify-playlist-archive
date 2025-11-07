@@ -4,7 +4,7 @@
 
 > We introduce new and exciting artists\. New RADAR BNLX\-artist: <a href="spotify:artist:7a5xPqxWpIHk4tcdv7bDc6">MICHA</a>
 
-225 songs - 12 hr 3 min
+226 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-05-09 | 2023-09-15 |
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2024-11-07 |  |
 | [Before Your Birth](https://open.spotify.com/track/5TsRbdH1kqK7wjVITG2j1k) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Talk the Talk](https://open.spotify.com/album/7bXOx5DSCaBsWvNpX4FoRo) | 3:37 | 2024-09-26 | 2024-11-08 |
+| [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 | 2025-11-06 |  |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-12-10 | 2022-08-26 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-12-10 | 2023-04-07 |
 | [Blijven Rijden](https://open.spotify.com/track/0mQJSaRQzKClGZXyORNy6U) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Blijven Rijden](https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV) | 2:56 | 2022-09-08 | 2023-01-28 |
@@ -62,7 +63,7 @@
 | [Ding Dong](https://open.spotify.com/track/2Wb0VFETsGsf5HUpt3lNsZ) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:16 | 2024-11-07 |  |
 | [Dingen Die Ik Doe](https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:27 | 2023-09-14 | 2024-01-19 |
 | [Divide \(feat\. Promis3\)](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide \(feat\. Promis3\)](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 | 2022-01-24 | 2022-08-26 |
-| [Do Me like You Do](https://open.spotify.com/track/1PLByZErRRCVmHWZm0DTsv) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Dead End Of A Dream](https://open.spotify.com/album/2D5G56419QjsWtt2pf8b7w) | 3:02 | 2025-11-03 |  |
+| [Do Me like You Do](https://open.spotify.com/track/1PLByZErRRCVmHWZm0DTsv) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Dead End Of A Dream](https://open.spotify.com/album/2D5G56419QjsWtt2pf8b7w) | 3:02 | 2025-11-03 | 2025-11-07 |
 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 | 2025-03-27 | 2025-08-15 |
 | [Droom Het Donker Weg](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 | 2023-09-14 |  |
 | [Droom Sinds Klein](https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg](https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK) | 3:39 | 2024-05-09 |  |

@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161129,
+      "name": "Bambal\u00f3",
+      "url": "https://open.spotify.com/track/4L9jtOQTElzgINEtLaZKlY"
+    },
+    {
+      "album": {
         "name": "Bambal\u00f3",
         "url": "https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL"
       },
@@ -92,7 +114,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 161129,
       "name": "Bambal\u00f3",
       "url": "https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE"
@@ -662,7 +684,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 239996,
       "name": "Islandus: Streymir",
       "url": "https://open.spotify.com/track/1GT6MSZpVOgZVn8O8iCqPm"
@@ -1432,7 +1454,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 183240,
       "name": "V\u00edsa",
       "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"

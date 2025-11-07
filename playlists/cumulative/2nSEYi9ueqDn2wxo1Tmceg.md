@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,569 songs - 4 day 10 hr 5 min
+1,570 songs - 4 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Bang](https://open.spotify.com/track/5XmfmJl6z8B5bvVzhk5vUg) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/2ekIzRVrvwVtjRiK7vrhhU) | 5:10 | 2023-06-28 | 2023-08-03 |
 | [Bazo Banga](https://open.spotify.com/track/5yBUgAS3Faka0vvHMjw6bw) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [BUTU](https://open.spotify.com/album/35C8dWXbfHydmhsnD5bzax) | 4:34 | 2024-07-24 | 2024-09-05 |
 | [Be a Man](https://open.spotify.com/track/2CDSRNLnEaDLHr1PFNeTuk) | [Demise Of Love](https://open.spotify.com/artist/1NXsFjzcDPUKz6fuB9Qq6R), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Be a Man](https://open.spotify.com/album/5LFOUzcpGSV45eXcQszJzs) | 3:12 | 2025-04-16 | 2025-06-05 |
+| [Be Free](https://open.spotify.com/track/4LO5lzQZM94mXCqDjTreuZ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Be Free](https://open.spotify.com/album/22EzpDu4EgPaPuPiUtHZLw) | 2:30 | 2025-11-06 |  |
 | [Be Kind](https://open.spotify.com/track/4vMODrGkcrI0SIHVAMWbX5) | [The Male Gays](https://open.spotify.com/artist/6GaiQHJPnehNkQwBXkKdbd) | [Be Kind](https://open.spotify.com/album/1W5hohzdyfWmDuQWBtAMfT) | 2:42 | 2024-06-12 | 2024-07-25 |
 | [Be My Best](https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [Be My Best](https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB) | 4:11 | 2024-01-17 | 2024-03-01 |
 | [Be Strong](https://open.spotify.com/track/2wdLugV4zmXr8DOZPVn9mr) | [One True Pairing](https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K) | [Be Strong](https://open.spotify.com/album/2aaywPSyPyNfV4FcD6rHUx) | 3:07 | 2024-06-20 | 2024-08-08 |

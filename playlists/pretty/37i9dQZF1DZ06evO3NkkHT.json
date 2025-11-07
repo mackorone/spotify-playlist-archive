@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 69198,
+  "num_followers": 69267,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACi5wJYpf1tNMV/V0Zsk1gm",
+  "snapshot_id": "aQqTgAAAAAD169jL3SSFKcyUD61cx/Et",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Home (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 241335,
       "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
       "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Home (feat. Shaboozey)",
-      "url": "https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Long Nights (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Someone: Texas Population",
         "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 165114,
       "name": "TexUS - Intro",
       "url": "https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Long Nights (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-308 songs - 15 hr 47 min
+309 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Freedom \- Acoustic](https://open.spotify.com/track/2Sta4O12D55ZhfhBzKMdQZ) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Freedom \(Acoustic\)](https://open.spotify.com/album/408UMBuS3W1kHMpJJssUBl) | 3:07 | 2023-01-20 | 2024-01-13 |
 | [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ) | 2:20 | 2022-06-26 | 2023-02-11 |
 | [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/6Cg3fTIhncrGDUQllTj03U) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6wEyDHkvqmDqhgngJm2Xqn) | 2:33 | 2021-05-21 | 2024-04-13 |
+| [Glory of Love](https://open.spotify.com/track/2iPOVHVwpJolLjh3VZKRoi) | [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Glory of Love](https://open.spotify.com/album/00t4GVWQGiaxPGhQW67MVY) | 3:55 | 2025-11-06 |  |
 | [Go Your Own Way \(Acoustic\)](https://open.spotify.com/track/5nQtUF2gQhSvGk8ENAFAr5) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Pop Acoustic Chill Out](https://open.spotify.com/album/1oPwxUkOSJPfD7mXPWKC1v) | 3:11 | 2023-05-09 | 2024-03-04 |
 | [Go Your Own Way \- Acoustic](https://open.spotify.com/track/7xwjFFd7k4SbDktySZRfLy) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Go Your Own Way \(Acoustic\)](https://open.spotify.com/album/2tQwErCmn4sCP9pm1A41CM) | 3:01 | 2023-01-06 |  |
 | [Green Green Grass \- Acoustic](https://open.spotify.com/track/672lv9gFJeWGQhmfLVOTnO) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Green Green Grass \(Acoustic\)](https://open.spotify.com/album/3yB0O9r2ZlbizS47IRbKyq) | 2:12 | 2023-01-27 | 2024-05-11 |

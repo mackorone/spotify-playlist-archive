@@ -1,33 +1,13 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 106451,
+  "num_followers": 106454,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACqFTIlRgfu7o22AGErMDXk",
+  "snapshot_id": "aQqTgAAAAADk4gHlFch4cXnjr0kPizDW",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celia & Johnny (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 299708,
-      "name": "Tengo el Idde - Remastered 2024",
-      "url": "https://open.spotify.com/track/5KwCiXmmJHw3hMxBzGviuN"
-    },
     {
       "added_at": null,
       "album": {
@@ -175,22 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+        "name": "Celia & Johnny (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+      "duration_ms": 291377,
+      "name": "Quimbara - Remastered 2024",
+      "url": "https://open.spotify.com/track/6jGyB2FnwlsobRMsp9mvUG"
     },
     {
       "added_at": null,
@@ -227,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 'Brillante' Best",
-        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
       },
@@ -263,6 +223,26 @@
       "duration_ms": 153400,
       "name": "Dile Que Por M\u00ed No Tema",
       "url": "https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 'Brillante' Best",
+        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
     },
     {
       "added_at": null,
@@ -447,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Celia's Oye Como Va (Oye Como Va)",
-      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -479,6 +443,22 @@
       "duration_ms": 327466,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Celia's Oye Como Va (Oye Como Va)",
+      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
     },
     {
       "added_at": null,
@@ -527,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -543,22 +539,6 @@
       "duration_ms": 342173,
       "name": "Toro Mata",
       "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Grandes Damas",
-        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "El Yerberito Moderno",
-      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
     },
     {
       "added_at": null,
@@ -851,42 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 299133,
-      "name": "Tres D\u00edas De Carnaval",
-      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva la Reina de la Salsa",
-        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -907,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Etc. Etc. Etc.",
-        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
       "artists": [
         {
@@ -916,9 +860,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 180207,
-      "name": "Az\u00facar, Az\u00facar",
-      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV"
     },
     {
       "added_at": null,
@@ -936,9 +880,45 @@
           "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 308933,
-      "name": "La Sopa En Botella",
-      "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
+      "duration_ms": 299133,
+      "name": "Tres D\u00edas De Carnaval",
+      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Etc. Etc. Etc.",
+        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 180207,
+      "name": "Az\u00facar, Az\u00facar",
+      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Guarachas De La Guarachera",
+        "url": "https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Juancito Trucupey",
+      "url": "https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP"
     },
     {
       "added_at": null,
@@ -963,22 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Guarachas De La Guarachera",
-        "url": "https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB"
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Juancito Trucupey",
-      "url": "https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP"
+      "duration_ms": 308933,
+      "name": "La Sopa En Botella",
+      "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
     },
     {
       "added_at": null,
@@ -1039,6 +1019,22 @@
       "duration_ms": 272251,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Az\u00facar Negra",
+        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 289146,
+      "name": "Saz\u00f3n",
+      "url": "https://open.spotify.com/track/1hZ0AcMDdOv4C7lpgBfmpE"
     },
     {
       "added_at": null,

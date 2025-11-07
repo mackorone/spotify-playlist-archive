@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcb6 Kannessa M//O.",
+  "description": "\ud83d\udcaf Suomi.  Kannessa Senya.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -786,6 +786,28 @@
       "duration_ms": 160177,
       "name": "Ainutlaatuinen",
       "url": "https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4"
+    },
+    {
+      "album": {
+        "name": "AIT (feat. Celly)",
+        "url": "https://open.spotify.com/album/7fARB8m7C3ZpP22Ond83Zd"
+      },
+      "artists": [
+        {
+          "name": "T\u00f6\u00f6l\u00f6n Ketter\u00e4",
+          "url": "https://open.spotify.com/artist/33ncZPx0ToD6WQaiZaTggr"
+        },
+        {
+          "name": "Celly",
+          "url": "https://open.spotify.com/artist/0b6OBYtFkwuvJmmtUv6Ysj"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "AIT (feat. Celly)",
+      "url": "https://open.spotify.com/track/7mKsblBSQW24gKV9ou1dnR"
     },
     {
       "album": {
@@ -5746,7 +5768,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190828,
       "name": "Itsest\u00e4\u00e4nselv\u00e4\u00e4",
       "url": "https://open.spotify.com/track/7r2VVUEfLus5vl1u4bzWGc"
@@ -7228,7 +7250,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 146982,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/5r908WOiKW8TvT3CnZVuHJ"
@@ -11770,7 +11792,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 149098,
       "name": "Mun Type",
       "url": "https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA"
@@ -17085,6 +17107,24 @@
     },
     {
       "album": {
+        "name": "In Memoriam",
+        "url": "https://open.spotify.com/album/5r8DPQsZq9pMH9Vgo0ZO2R"
+      },
+      "artists": [
+        {
+          "name": "Are",
+          "url": "https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167965,
+      "name": "Sut on n\u00e4hty",
+      "url": "https://open.spotify.com/track/6Pwg1zysC2ErRmjJoNy3yN"
+    },
+    {
+      "album": {
         "name": "Suutari",
         "url": "https://open.spotify.com/album/6QNA9ZipDiYdZIeBgiLs8i"
       },
@@ -20744,6 +20784,28 @@
       "duration_ms": 212122,
       "name": "Yksin taas",
       "url": "https://open.spotify.com/track/3NMKI8QS2lyP49BeODKEYR"
+    },
+    {
+      "album": {
+        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
     },
     {
       "album": {

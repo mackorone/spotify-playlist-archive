@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-427 songs - 1 day 5 hr 20 min
+430 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [شسوي لي](https://open.spotify.com/track/60qhwVunSyTH1HjIWkw4CM) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [شسوي لي](https://open.spotify.com/album/4r2L12xyazKM27S6I9OOJr) | 3:50 | 2023-03-14 | 2023-05-16 |
 | [شوفلك احد](https://open.spotify.com/track/6nNy3ACYBEag8BIqOotcr8) | [Salah Al Zadjali](https://open.spotify.com/artist/2zrCAcIqROY4WLtgtLzbwh) | [شوفلك احد](https://open.spotify.com/album/1HhiRCWFmdQZ2jNUfEmPPx) | 4:02 | 2025-04-07 | 2025-07-01 |
 | [صاحي إنت](https://open.spotify.com/track/5k3lV9HQgXaH7UhWFaNGf1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [صاحي إنت](https://open.spotify.com/album/75oqfhopGFZ5thgCAqzxYd) | 3:44 | 2025-05-23 | 2025-07-01 |
+| [صباح الخير](https://open.spotify.com/track/0hbXM5XVlf3WDMPALubBvz) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [صباح الخير](https://open.spotify.com/album/7aereiI6s6wKGHdMW6sQnn) | 3:40 | 2025-11-06 |  |
 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 | 2023-12-09 | 2024-04-19 |
 | [ضعت منك](https://open.spotify.com/track/5KKjRWEIqWQ1nygHT9lf3j) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [ضعت منك](https://open.spotify.com/album/6nAqcqeaZWMW29hldi7dta) | 3:56 | 2024-09-18 | 2025-07-01 |
 | [عشق سيده](https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63) | [عبدالله مبارك](https://open.spotify.com/artist/4n96Q1BZ2AAOwob61UfgWx), [شيخة العسلاوي](https://open.spotify.com/artist/70sogpOUuPnVGPGPA9m6gY), [محمد شايع](https://open.spotify.com/artist/6DtYDF0YfObTa33SQYi7Re) | [عشق سيده](https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4) | 3:32 | 2023-05-02 | 2023-11-24 |
@@ -403,6 +404,8 @@
 | [كل ما حاولت](https://open.spotify.com/track/5VvGnhgCaBzRcZDGRRdQSB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما حاولت](https://open.spotify.com/album/0v25kgJ3D5upB1ryeET1VT) | 3:36 | 2025-10-17 |  |
 | [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 | 2023-06-30 | 2024-02-01 |
 | [ليلة وصالك](https://open.spotify.com/track/6BCDeCmDw39YPG2L4T1nGM) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [ليلة وصالك](https://open.spotify.com/album/5j5SPlaI0ERnjeQdu0EzMZ) | 5:40 | 2024-02-21 | 2024-04-19 |
+| [ليه تسأل](https://open.spotify.com/track/2bTIVLvuEcirWIcrRy3RqU) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [ليه تسأل](https://open.spotify.com/album/1kaKgMDwbbPNJy7Iy3Ugsv) | 4:29 | 2025-11-06 |  |
+| [ما طرا لك](https://open.spotify.com/track/7mCgHEktGmzif4F4gZbhM4) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [ما طرا لك](https://open.spotify.com/album/0y6IIvasAsbnqt84FzEDzX) | 3:53 | 2025-11-06 |  |
 | [ما عاد](https://open.spotify.com/track/3Q9oZAr2wdgKsLcjGoOh95) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [سيّد الغِيَّاب](https://open.spotify.com/album/6s52Skp6kp1DGVumkwm9lb) | 5:31 | 2025-02-18 | 2025-07-01 |
 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 | 2023-03-01 | 2023-09-30 |
 | [ماكنا حبايب](https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ماكنا حبايب](https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1) | 4:11 | 2025-01-31 | 2025-02-14 |

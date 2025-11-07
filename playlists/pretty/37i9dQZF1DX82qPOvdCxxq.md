@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Rachael Nemiroff
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,113 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,123 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [The Word](https://open.spotify.com/track/0uaifgh2S7fWK7xeX8wS2X) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Speed Dial](https://open.spotify.com/album/1FJkEcLOuChsThdTRJ0Fo1) | 2:52 |
 | 100 | [Choose You](https://open.spotify.com/track/1VDcMnVUVs6UHwDAVDku63) | [Elijah Thomas](https://open.spotify.com/artist/5BqcwDlPPGX7XmIOcUgFfU) | [Choose You](https://open.spotify.com/album/0vtNpbpcNPfhYnrHCszzbu) | 4:52 |
 
-Snapshot ID: `AAAAANU5NieAq6Ku9YQjmj/s+wRCgUC6`
+Snapshot ID: `AAAAAKlZgd3XXW+3Z+OR4CF/aLo6yQmW`

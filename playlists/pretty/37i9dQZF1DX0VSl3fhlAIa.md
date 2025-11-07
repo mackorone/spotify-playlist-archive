@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,605 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 47 | [GET UP!](https://open.spotify.com/track/6BNAZp8Q2EcAQioytug0mg) | [SOULHEAD](https://open.spotify.com/artist/23XPnlp8nAIDjGf7S9ap3I) | [BRAIDED](https://open.spotify.com/album/1JybQHCd0xADI7rG8QlqgH) | 4:14 |
 | 48 | [ENERGY](https://open.spotify.com/track/26rDgXiR1lkieexQ2hkBXk) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [KTST](https://open.spotify.com/album/18Nw6tolNXkQ8s9m4x7d4a) | 2:47 |
 | 49 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 |
-| 50 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 |
+| 50 | [Is it a crime?](https://open.spotify.com/track/2hy9onH96hRqGOAW50W3Iq) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Is it a crime?](https://open.spotify.com/album/1fiAF9KstmdCFtcog112Wx) | 3:14 |
 
 Snapshot ID: `AAAAABX6e0ZR/qubZ/MC3TYdYQrRoqL6`

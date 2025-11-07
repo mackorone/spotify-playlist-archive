@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,108 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,115 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 46 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
 | 47 | [Mor Tor \(feat\. Rikki Jai\)](https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN) | 4:34 |
 | 48 | [Radica](https://open.spotify.com/track/2IiLuq9XbkC2JzbZM4QO22) | [Kenneth Salick](https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6) | [Soca Gold 2009](https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra) | 4:21 |
-| 49 | [Mohan Bina Gowna](https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 5:00 |
+| 49 | [Chutney](https://open.spotify.com/track/6ipW3uRbbsH672TQZZWwMF) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Drupatee Ramgoonai](https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz) | 5:10 |
 | 50 | [Caroni Gyul](https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Dance Party King](https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03) | 3:00 |
 
 Snapshot ID: `AAAAAEKAB6BJrI8+YzomdPsWgTt0N8IV`

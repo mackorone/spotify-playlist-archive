@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2v295z585SM68pluEKXKSM">Kayah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,748 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,760 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 36 | [Tańczę](https://open.spotify.com/track/1nGEJZRxEb2PdS0YBUsPwi) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [ptakova](https://open.spotify.com/artist/6qHcB06FV47cRkAt5QbVwk) | [Tańczę](https://open.spotify.com/album/07CtRwsD5y3zNLKP2BHpi4) | 3:42 |
 | 37 | [Boję się](https://open.spotify.com/track/1HHAiUsSQb9n5ApE1ynzTR) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Boję się](https://open.spotify.com/album/1KHHLqfvqyj8cv8j6q0hgW) | 3:35 |
 | 38 | [Jeden dzień \(podaruj\)](https://open.spotify.com/track/0LSIMLQIlnB3gHCQShV9RY) | [Dominika Kwiatkowska](https://open.spotify.com/artist/7psv9gndJ8VqYGr33wvNdZ), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Jeden dzień \(podaruj\)](https://open.spotify.com/album/6NEy9e469Ekau3vwzmCnMb) | 2:56 |
-| 39 | [Co jest cenne?](https://open.spotify.com/track/7bVOWEroXIJpYQJXEazsnj) | [Kara](https://open.spotify.com/artist/3BirXmy3kNcWZZkbpjeP2C), [Kize](https://open.spotify.com/artist/3mP3CJSpoVIc3zyxtIvggQ) | [Co jest cenne?](https://open.spotify.com/album/5xZSWAxme9ItUYwBLGZsLG) | 3:02 |
+| 39 | [Co jest cenne?](https://open.spotify.com/track/7bVOWEroXIJpYQJXEazsnj) | [Kara](https://open.spotify.com/artist/3BirXmy3kNcWZZkbpjeP2C), [Kize](https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S) | [Co jest cenne?](https://open.spotify.com/album/5xZSWAxme9ItUYwBLGZsLG) | 3:02 |
 | 40 | [Upaja](https://open.spotify.com/track/1DLCYuW02Bji89Ylslhp83) | [Karolina Charko](https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q) | [Upaja](https://open.spotify.com/album/4TZNDbvXFbWCR4jYGJcwOn) | 3:23 |
 | 41 | [co tylko mi dasz](https://open.spotify.com/track/5RI4Xkn6WylNXpmmFgzWVu) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU), [Filip Solen](https://open.spotify.com/artist/5aQRaG3AJ08Htrqgr4SKJ5) | [co tylko mi dasz](https://open.spotify.com/album/31WBG8dCs9AoOCPtC9zqb3) | 3:32 |
 | 42 | [Kantyczka wołania pełna](https://open.spotify.com/track/3Ve1H32jLtjIirtKrJKU1F) | [Natalia Niemen](https://open.spotify.com/artist/4yHyX92zR38oIVSBkRJYvi) | [Kantyczka wołania pełna](https://open.spotify.com/album/6vQnAonFbBcSMQlB2wgYSk) | 4:06 |

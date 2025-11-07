@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546142,
+  "num_followers": 546134,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Capricorn",
-        "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
-      },
-      "artists": [
-        {
-          "name": "Orchid",
-          "url": "https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH"
-        }
-      ],
-      "duration_ms": 433706,
-      "name": "Eyes Behind the Wall",
-      "url": "https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dopesmoker",
         "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 505196,
       "name": "Hot Lava Man",
       "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Capricorn",
+        "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH"
+        }
+      ],
+      "duration_ms": 433706,
+      "name": "Eyes Behind the Wall",
+      "url": "https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Cabin Fever",
-        "url": "https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s"
-      },
-      "artists": [
-        {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
-        }
-      ],
-      "duration_ms": 317033,
-      "name": "Cabin Fever",
-      "url": "https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Please Don't",
         "url": "https://open.spotify.com/album/0YpWK0W5pxI0CBLbyqeHZG"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/61KgmwEi0rH5MD1SP20Ura"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Cabin Fever",
+        "url": "https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s"
+      },
+      "artists": [
+        {
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+        }
+      ],
+      "duration_ms": 317033,
+      "name": "Cabin Fever",
+      "url": "https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi"
     },
     {
       "added_at": "2024-07-19 04:00:00",

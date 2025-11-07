@@ -2,9 +2,9 @@
 
 ### [AfroBae](https://open.spotify.com/playlist/37i9dQZF1DX2bIhTmfM3ln)
 
-> Single people dey suffer
+> love is in the air...breathe in
 
-872 songs - 1 day 18 hr 13 min
+874 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [I No Fit Die](https://open.spotify.com/track/1pyPBjAUwnmCu3cROJ6ROL) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [I No Fit Die](https://open.spotify.com/album/1weqTKVEn5JeREhe6vFlv4) | 2:17 | 2024-10-04 | 2024-10-26 |
 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 |  |
 | [i Wey 5000](https://open.spotify.com/track/1M5dFODSjNXQvi374tJt64) | [Uche B](https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v), [Frontback](https://open.spotify.com/artist/4uuYNKIR4DjaMJCerKYcCD), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [i Wey 5000](https://open.spotify.com/album/4XAUgTFVSRhZALLqYIXoNA) | 2:57 | 2023-04-20 | 2023-05-12 |
+| [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 | 2025-11-07 |  |
 | [I'm Late](https://open.spotify.com/track/1CKF1IRTQ6IpguGRWVuYJ7) | [Loyz](https://open.spotify.com/artist/0talF2YGN6GCxULc9faVSq) | [I'm Late](https://open.spotify.com/album/0uaRB2AQwTbVW5cLaKCZOs) | 2:33 | 2024-01-26 | 2024-02-03 |
 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 | 2022-08-25 | 2022-10-14 |
 | [iDey](https://open.spotify.com/track/0gqLCoeOQh7ItaLTZtdojy) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [iDey](https://open.spotify.com/album/67Hc4et6UWnbKKAIw5FqbQ) | 2:54 | 2025-04-11 | 2025-06-04 |
@@ -432,7 +433,7 @@
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-28 | 2024-01-04 |
 | [Lately \(feat\. Ruger\)](https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Lately \(feat\. Ruger\)](https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF) | 2:51 | 2024-09-06 | 2025-03-08 |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 |  |
-| [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 | 2024-10-25 |  |
+| [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 | 2024-10-25 | 2025-11-07 |
 | [LEMON & ICE](https://open.spotify.com/track/2RjMbn9t2htoGo0lBYhV49) | [Shauna Shadae](https://open.spotify.com/artist/3emXVifDxKaDkNSJ3MX0wr), [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [LEMON & ICE](https://open.spotify.com/album/0qFb7xbQHzcazJuVXikU4Y) | 2:57 | 2024-09-20 | 2024-09-28 |
 | [Let Me Be](https://open.spotify.com/track/3u8OeLttFqulCrcb3odEps) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Christer](https://open.spotify.com/artist/2vemjAzrRomX77RflYLqbU), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Moments After](https://open.spotify.com/album/1LkeXOTB9ErcgYzQF6EYMV) | 2:33 | 2025-05-30 | 2025-07-05 |
 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 | 2024-09-20 | 2025-03-08 |
@@ -845,7 +846,7 @@
 | [Why](https://open.spotify.com/track/1zpXHc5Re0JE3BEYnXeeXW) | [Asomacy](https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX) | [Why](https://open.spotify.com/album/4uwoMHbb4RaDxWwxOg1IWq) | 2:17 | 2024-06-28 | 2024-07-27 |
 | [Why](https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm) | 2:45 | 2023-03-17 | 2023-04-21 |
 | [Why?](https://open.spotify.com/track/0znm2JL9roSYKV6e4CUo87) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Why?](https://open.spotify.com/album/0fgWT4cXG1JsVF9suHlU0M) | 3:04 | 2023-09-14 | 2023-09-29 |
-| [Wife Material](https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Wife Material](https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G) | 2:57 | 2025-09-19 |  |
+| [Wife Material](https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Wife Material](https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G) | 2:57 | 2025-09-19 | 2025-11-07 |
 | [Wifey](https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [LCV3: Sweet Surrender.](https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M) | 3:44 | 2025-02-14 | 2025-10-09 |
 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 | 2024-08-25 | 2024-11-24 |
 | [Winner](https://open.spotify.com/track/0VNpGyvGm4x4G78K2htr5Y) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Winner](https://open.spotify.com/album/5qHcpK4aGNBpAXkxk3XBd0) | 2:53 | 2022-11-04 | 2022-11-12 |
@@ -874,6 +875,7 @@
 | [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 | 2024-09-27 | 2025-10-17 |
 | [You](https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [You](https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos) | 2:32 | 2025-09-19 |  |
 | [YOU AND ME](https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv) | [PapaRaZzle](https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL) | [YOU AND ME](https://open.spotify.com/album/2Lx9x55fGEtryAOZhXorMF) | 2:41 | 2025-05-23 | 2025-08-26 |
+| [You Are](https://open.spotify.com/track/6jI9XYNr5wSkULVVPSHzvP) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [KANI: A Bantama Story](https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE) | 3:47 | 2025-11-07 |  |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-13 |
 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 | 2023-08-10 | 2023-09-15 |
 | [Your Love \- Mogbe](https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Afro Nation](https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Your Love \(Mogbe\)](https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV) | 2:40 | 2022-02-11 | 2022-08-07 |

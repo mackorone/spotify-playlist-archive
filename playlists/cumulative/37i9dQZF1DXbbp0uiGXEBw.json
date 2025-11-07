@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: Orange",
+  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: Ph\u00f9ng Kh\u00e1nh Linh",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 221625,
       "name": "ALIVE NOW",
       "url": "https://open.spotify.com/track/4wnSCKdM9gaZqS9iVhM92j"
@@ -170,7 +170,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175182,
       "name": "Always U",
       "url": "https://open.spotify.com/track/4zU94woKSgQsYLFT2m5AsG"
@@ -192,7 +192,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 268236,
       "name": "An \u1ee6i Em \u0110\u01b0\u1ee3c Kh\u00f4ng",
       "url": "https://open.spotify.com/track/1mN4HvOcu3JU5BmPfsvaIJ"
@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Anh L\u00e0 Ai",
+        "url": "https://open.spotify.com/album/5eBM2paNwRsdBnw9LmSkQb"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Ly",
+          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257013,
+      "name": "Anh L\u00e0 Ai",
+      "url": "https://open.spotify.com/track/3gLRyMbg5nWLcuKD46Uz72"
+    },
+    {
+      "album": {
         "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
         "url": "https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2"
       },
@@ -304,6 +322,24 @@
       "duration_ms": 188108,
       "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
       "url": "https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP"
+    },
+    {
+      "album": {
+        "name": "GI\u1eeeA M\u1ed8T V\u1ea0N NG\u01af\u1edcI",
+        "url": "https://open.spotify.com/album/74mqLtK9JQryMAJXt5Bcas"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200035,
+      "name": "ANH L\u00c0 TH\u1eb0NG T\u1ed2I",
+      "url": "https://open.spotify.com/track/6GPcbZOX4h9MWert6xWpYw"
     },
     {
       "album": {
@@ -641,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00fac Ph\u00fac",
+        "url": "https://open.spotify.com/album/6whYpNQrxL0kRqMyH9yZbT"
+      },
+      "artists": [
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231891,
+      "name": "Ch\u00fac Ph\u00fac",
+      "url": "https://open.spotify.com/track/4H2Tp0m4qVHdMc70g2Wf8J"
+    },
+    {
+      "album": {
         "name": "Ch\u00fang Ta Kh\u00f4ng C\u00f2n Ch\u00fang Ta",
         "url": "https://open.spotify.com/album/0RsPSzRrGy8j7Qd1QSk2yB"
       },
@@ -746,6 +800,32 @@
       "duration_ms": 259245,
       "name": "Ch\u1eafc N\u00ean Th\u00f4i",
       "url": "https://open.spotify.com/track/0uaZKqtQxvVXoCCV4hAbBN"
+    },
+    {
+      "album": {
+        "name": "Dear Min",
+        "url": "https://open.spotify.com/album/1ArFYNJ0eKeFWqnvdDivvv"
+      },
+      "artists": [
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "antransax",
+          "url": "https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283333,
+      "name": "ch\u1eb3ng ph\u1ea3i t\u00ecnh \u0111\u1ea7u sao \u0111au \u0111\u1ebfn th\u1ebf",
+      "url": "https://open.spotify.com/track/3T7XHOdRcyhKU3QCB6kZG3"
     },
     {
       "album": {
@@ -1422,7 +1502,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 201000,
       "name": "Don't Pick Up Your Phone",
       "url": "https://open.spotify.com/track/4HC20jMvTnTYmlA1FzprAF"
@@ -1541,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Em Kh\u00f4ng C\u1ea7n",
+        "url": "https://open.spotify.com/album/4b319VI4xcHsxbXZVQmRgy"
+      },
+      "artists": [
+        {
+          "name": "Hannie",
+          "url": "https://open.spotify.com/artist/7tRkypqswDC2uWg9g9H0Vs"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Em Kh\u00f4ng C\u1ea7n",
+      "url": "https://open.spotify.com/track/3M8XPtbFW7xWyz2JmuDcce"
+    },
+    {
+      "album": {
         "name": "Em Kh\u00f4ng Hi\u1ec3u",
         "url": "https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn"
       },
@@ -1560,6 +1658,24 @@
       "duration_ms": 237419,
       "name": "Em Kh\u00f4ng Hi\u1ec3u",
       "url": "https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY"
+    },
+    {
+      "album": {
+        "name": "Em L\u00e0 B\u00f4ng Hoa C\u1ee7a Ai",
+        "url": "https://open.spotify.com/album/0Mshz1KpsO3gtVZx5vQPQo"
+      },
+      "artists": [
+        {
+          "name": "Olew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265431,
+      "name": "Em L\u00e0 B\u00f4ng Hoa C\u1ee7a Ai",
+      "url": "https://open.spotify.com/track/7I3xiEyT3CzBYu3aSFPmeq"
     },
     {
       "album": {
@@ -1824,7 +1940,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 211019,
       "name": "gentle, baby",
       "url": "https://open.spotify.com/track/6PW5zvbS8vBsEmDVqYyIfW"
@@ -1956,6 +2072,24 @@
       "duration_ms": 296202,
       "name": "Gi\u00e3 T\u1eeb D\u0129 V\u00e3ng & B\u1ed7ng D\u01b0ng Mu\u1ed1n Kh\u00f3c (K\u00fd \u1ee8c Part 1)",
       "url": "https://open.spotify.com/track/0Ic9k0A0lH9uMeYMCl1wvw"
+    },
+    {
+      "album": {
+        "name": "Burning Blue",
+        "url": "https://open.spotify.com/album/7hS4OPT1ms6pJ9X7uHuBGb"
+      },
+      "artists": [
+        {
+          "name": "M\u1ef9 M\u1ef9",
+          "url": "https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Gi\u1ea3n H\u1ea1 Thu\u1ef7",
+      "url": "https://open.spotify.com/track/20Njl4876DOJSFGgth2dH2"
     },
     {
       "album": {
@@ -2978,7 +3112,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 167111,
       "name": "Lie Lie Lie",
       "url": "https://open.spotify.com/track/3ms0lr71cb4PVbqoUHdYXy"
@@ -3288,6 +3422,24 @@
       "duration_ms": 156500,
       "name": "l\u1eeda g\u1ea7n r\u01a1m l\u00e2u ng\u00e0y c\u0169ng b\u00e9n",
       "url": "https://open.spotify.com/track/1Xmoej3kUKCFl9tvLsVe6U"
+    },
+    {
+      "album": {
+        "name": "MAH BOI",
+        "url": "https://open.spotify.com/album/1oNmNNxznrGkG8kfJV8jMM"
+      },
+      "artists": [
+        {
+          "name": "Saabirose",
+          "url": "https://open.spotify.com/artist/3IMLi0C3EgNuwDiksTxiS5"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174410,
+      "name": "MAH BOI",
+      "url": "https://open.spotify.com/track/2IJdzEsu4QUpNefl6r1ILJ"
     },
     {
       "album": {
@@ -3786,7 +3938,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 208608,
       "name": "M\u1ed9t C\u00fa L\u1eeba",
       "url": "https://open.spotify.com/track/0d6x6469lyfnzbZp259vqS"
@@ -3862,7 +4014,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 257647,
       "name": "M\u1ed9t Ng\u01b0\u1eddi \u0110\u00e1nh M\u1ea5t M\u1ed9t Ng\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/00be0bf1yiRaJB8PMXG9uj"
@@ -3996,6 +4148,28 @@
       "duration_ms": 147475,
       "name": "ng\u01b0\u1eddi \u0111i\u00ean",
       "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
+    },
+    {
+      "album": {
+        "name": "Ng\u01b0\u1eddi \u0110\u1ea7u Ti\u00ean",
+        "url": "https://open.spotify.com/album/785BxPJDvSZKiduXG0P1Cq"
+      },
+      "artists": [
+        {
+          "name": "Juky San",
+          "url": "https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn"
+        },
+        {
+          "name": "buitruonglinh",
+          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215901,
+      "name": "Ng\u01b0\u1eddi \u0110\u1ea7u Ti\u00ean",
+      "url": "https://open.spotify.com/track/5DB1UwivnS4gmcZ27TiYnE"
     },
     {
       "album": {
@@ -5321,6 +5495,24 @@
     },
     {
       "album": {
+        "name": "Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/0uzJPbCh0luZoWx0WXSkW9"
+      },
+      "artists": [
+        {
+          "name": "B\u00edch Ph\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/64R6c49ljNaTEl7sGZxQ00"
+    },
+    {
+      "album": {
         "name": "yesteryear",
         "url": "https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4"
       },
@@ -5372,10 +5564,28 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 196000,
       "name": "Trao V\u1ec1 Anh",
       "url": "https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S"
+    },
+    {
+      "album": {
+        "name": "Thinker Tell",
+        "url": "https://open.spotify.com/album/55tvUQPvAa7p3iExGN3FqF"
+      },
+      "artists": [
+        {
+          "name": "Chi X\u00ea",
+          "url": "https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220130,
+      "name": "Tr\u00e0 V\u00e0 C\u00e0 Ph\u00ea",
+      "url": "https://open.spotify.com/track/2jI2eny6tiU4s9wS7aCegq"
     },
     {
       "album": {
@@ -5804,7 +6014,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 209523,
       "name": "USO",
       "url": "https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7"
@@ -6686,7 +6896,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 205360,
       "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
       "url": "https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2"

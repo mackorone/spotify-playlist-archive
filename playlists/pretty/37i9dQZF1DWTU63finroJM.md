@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,630 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,635 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 3 | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ) | 3:55 |
 | 4 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
 | 5 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
-| 6 | [Heer](https://open.spotify.com/track/4AyKPZ1b7lUlsAOb3aG6tC) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Heer](https://open.spotify.com/album/3YiqeB6tWyEr8vHveTita7) | 3:16 |
-| 7 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/6RAxgUG90f39dVSGUr4qOd) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:17 |
+| 6 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/6RAxgUG90f39dVSGUr4qOd) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:17 |
+| 7 | [Heer](https://open.spotify.com/track/4AyKPZ1b7lUlsAOb3aG6tC) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Heer](https://open.spotify.com/album/3YiqeB6tWyEr8vHveTita7) | 3:16 |
 | 8 | [Nachtschicht \(feat\. Ikkimel\)](https://open.spotify.com/track/7kpLzn6HWyrX33zBwDcnpi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [orange](https://open.spotify.com/album/6VFOVZBKDgTdHOsisSe8Me) | 2:14 |
 | 9 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
 | 10 | [Sana](https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Sana](https://open.spotify.com/album/2zdv3fWQ8jcd2Jfwd0E5px) | 2:42 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 29 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 |
 | 30 | [慢慢](https://open.spotify.com/track/0pKhbPvQeyOGRSiyg38gLs) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [慢慢](https://open.spotify.com/album/6vrcjiC4jPf4AaqsvkBgX6) | 3:18 |
 | 31 | [No One Like Us](https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 3:22 |
-| 32 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
-| 33 | [Yalla Siir](https://open.spotify.com/track/1WxsQ1hr3iji5V8WYslkjf) | [Ahlam Bakkali](https://open.spotify.com/artist/49qdu9NtlQQC1gzLxbvIht) | [Yalla Siir](https://open.spotify.com/album/6wR81KGNCqN2eBXgwoAemu) | 3:18 |
+| 32 | [Yalla Siir](https://open.spotify.com/track/1WxsQ1hr3iji5V8WYslkjf) | [Ahlam Bakkali](https://open.spotify.com/artist/49qdu9NtlQQC1gzLxbvIht) | [Yalla Siir](https://open.spotify.com/album/6wR81KGNCqN2eBXgwoAemu) | 3:18 |
+| 33 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
 | 34 | [Dendam](https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Dendam](https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn) | 3:39 |
 | 35 | [Amigo de un Amigo](https://open.spotify.com/track/4I47jsUZpToiwevqcVgWGK) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Amigo de un Amigo](https://open.spotify.com/album/7gSMKECyx73ZGFjMwunHCf) | 3:16 |
 | 36 | [Cardio](https://open.spotify.com/track/5Hjw83KgaBg0WGjG77ZOD7) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:37 |

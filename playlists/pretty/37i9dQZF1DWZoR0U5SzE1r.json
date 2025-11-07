@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Darlene Zschech",
-  "num_followers": 381023,
+  "num_followers": 381245,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -483,42 +483,6 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Nobody (feat. Matthew West)",
-      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Our God",
-      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
         "name": "Firm Foundation (He Won't)",
         "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
       },
@@ -539,6 +503,42 @@
       "duration_ms": 524757,
       "name": "Firm Foundation (He Won't)",
       "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Our God",
+      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Nobody (feat. Matthew West)",
+      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
     },
     {
       "added_at": "2025-09-14 09:40:07",
@@ -715,26 +715,6 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
         "name": "Bright Faith Bold Future",
         "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 250626,
       "name": "At The Cross (Love Ran Red)",
       "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "added_at": "2025-09-14 09:40:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 251155,
-      "name": "That's My King",
-      "url": "https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
         "name": "If We're Honest (Deluxe Version)",
         "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 302577,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 251155,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x"
     },
     {
       "added_at": "2025-09-14 09:40:07",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 242401,
       "name": "Famous For (I Believe)",
       "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2025-09-14 09:40:07",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "We Believe",
+      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
         "name": "All Of The Above",
         "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 258626,
       "name": "Lead Me To The Cross",
       "url": "https://open.spotify.com/track/7i2ZmmyLzE7NcFAJl30mKY"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "We Believe",
-      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
     },
     {
       "added_at": "2025-09-14 09:40:07",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Glorious Day (Living He Loved Me)",
+      "url": "https://open.spotify.com/track/0co8dS1eYzTanYw3N5BEvM"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
         "name": "All Of The Above",
         "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 330360,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
-        "name": "Until The Whole World Hears",
-        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Glorious Day (Living He Loved Me)",
-      "url": "https://open.spotify.com/track/0co8dS1eYzTanYw3N5BEvM"
     },
     {
       "added_at": "2025-09-14 09:40:07",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
-        "name": "I Am Loved",
-        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 432640,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 326613,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
+        "name": "I Am Loved",
+        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 432640,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
     },
     {
       "added_at": "2025-09-14 09:40:07",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
-        "name": "United We Stand (Live)",
-        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        }
-      ],
-      "duration_ms": 378986,
-      "name": "From The Inside Out - Live",
-      "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
         "name": "Death Of Death",
         "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 331297,
       "name": "Yet Not I but Through Christ in Me",
       "url": "https://open.spotify.com/track/7sxPwx9sBZVD6LR4oEwnc6"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
+        "name": "United We Stand (Live)",
+        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "duration_ms": 378986,
+      "name": "From The Inside Out - Live",
+      "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
     },
     {
       "added_at": "2025-09-14 09:40:07",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-09-14 09:40:07",
       "album": {
-        "name": "Cutting Edge 1 & 2",
-        "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
-      },
-      "artists": [
-        {
-          "name": "Delirious?",
-          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
-        }
-      ],
-      "duration_ms": 370360,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1yowMNvS59dTccbZosir2o"
-    },
-    {
-      "added_at": "2025-09-14 09:40:07",
-      "album": {
         "name": "HUMAN (Live)",
         "url": "https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 318874,
       "name": "Fountain (I Am Good) - Live",
       "url": "https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi"
+    },
+    {
+      "added_at": "2025-09-14 09:40:07",
+      "album": {
+        "name": "Cutting Edge 1 & 2",
+        "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
+      },
+      "artists": [
+        {
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+        }
+      ],
+      "duration_ms": 370360,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1yowMNvS59dTccbZosir2o"
     },
     {
       "added_at": "2025-09-14 09:40:07",

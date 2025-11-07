@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,594 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,583 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 60 | [i’m too pretty for this](https://open.spotify.com/track/5GHDLL8nYL4dKing77xBiQ) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [i’m too pretty for this](https://open.spotify.com/album/7wkhOxwlPuKIzZAbonRET7) | 4:01 |
 | 61 | [Faded Polaroids](https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Songs From Faded Polaroids](https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci) | 2:55 |
 | 62 | [Silhouette](https://open.spotify.com/track/1SsL6M9twrTldU3p98mhU3) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Vertigo](https://open.spotify.com/album/5gp3ITvPT0U9jxp3e0sz6R) | 2:37 |
-| 63 | [Sweet Tea](https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Sweet Tea](https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1) | 3:28 |
-| 64 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
+| 63 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
+| 64 | [Sweet Tea](https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Sweet Tea](https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1) | 3:28 |
 | 65 | [In the middle](https://open.spotify.com/track/2wVUvuhjTEBX1UHS15GNJS) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [In the middle](https://open.spotify.com/album/1vsuqdkQj3U6avr1aeqEHL) | 2:49 |
 
 Snapshot ID: `AAAAAHLKWE44ORhz1t78R4gcv5JNUxnx`

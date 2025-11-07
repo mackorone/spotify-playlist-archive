@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  Malte August
+> de skarpeste knive i dansk musik  📸  Rosa På Månen
 
-344 songs - 17 hr 28 min
+348 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [DIE FOR ME](https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [DIE FOR ME \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4) | 2:46 | 2024-06-27 | 2024-09-13 |
 | [Die For You](https://open.spotify.com/track/12ShYQUzYZel1n5f4icThX) | [CARLLO YABOY](https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie) | [Die For You](https://open.spotify.com/album/0fv5gmYtBNyd5yANUN0ASo) | 2:45 | 2025-07-03 | 2025-08-24 |
 | [Din Sang](https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Din Sang](https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD) | 2:56 | 2024-06-27 | 2025-02-11 |
-| [Din Yndlingssang](https://open.spotify.com/track/4cj5jbRFOL0nlQDa4DCwIv) | [Schæfer](https://open.spotify.com/artist/0x4ROTzcloLiDWCeJvYeMo) | [Din Yndlingssang](https://open.spotify.com/album/20YePk1yUX6DEYvlCf6vxR) | 3:44 | 2025-10-30 |  |
+| [Din Yndlingssang](https://open.spotify.com/track/4cj5jbRFOL0nlQDa4DCwIv) | [Schæfer](https://open.spotify.com/artist/0x4ROTzcloLiDWCeJvYeMo) | [Din Yndlingssang](https://open.spotify.com/album/20YePk1yUX6DEYvlCf6vxR) | 3:44 | 2025-10-30 | 2025-11-07 |
 | [Diskosnav](https://open.spotify.com/track/1rc40ngp3eY9POSvsfftYP) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Diskosnav](https://open.spotify.com/album/4NU6Dmiwn4tgGi42FFsakA) | 2:50 | 2025-09-04 | 2025-09-23 |
 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-09-19 | 2024-11-16 |
 | [Don't Go](https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Don't Go](https://open.spotify.com/album/7mSxEwgm8OdwnOjv8urJlD) | 3:09 | 2025-01-30 | 2025-05-02 |
@@ -100,7 +100,9 @@
 | [Fanget I En Drøm](https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Fanget I En Drøm](https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4) | 2:52 | 2025-09-04 | 2025-11-05 |
 | [Feed The Good](https://open.spotify.com/track/1k1o50LNgNIBCHVEZn977a) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [Feed The Good](https://open.spotify.com/album/4uLDoFdGDdFT8UPivo6VYP) | 2:50 | 2025-07-31 | 2025-08-08 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-06-20 |
+| [Finder Du Dig Selv?](https://open.spotify.com/track/4JkxtgmKcYRe2OynLFQPCC) | [Rosa På Månen](https://open.spotify.com/artist/0IEqg7JbD6lmfu11MllHEd) | [Bedst Når Intet Fungerer](https://open.spotify.com/album/2QofjFhzdYwJEe0n9Rwo8l) | 2:48 | 2025-11-06 |  |
 | [Fint Uden Mig](https://open.spotify.com/track/2oyl5wr2KLUwsiJ8o6Vtgw) | [Malou](https://open.spotify.com/artist/3rHfFG3C4laxZQQojPUexc) | [Fint Uden Mig](https://open.spotify.com/album/3OejBbCD4amRjryxFmhaAG) | 3:41 | 2025-08-21 | 2025-08-29 |
+| [fisk i havet](https://open.spotify.com/track/4Tb2FQOqTmsGHuOdN2hKDH) | [Rebekka Ruby](https://open.spotify.com/artist/3M6a4CWJoFU5vzWF2PRBlr) | [fisk i havet](https://open.spotify.com/album/46sdf3VHh7fN08af6blbI3) | 3:05 | 2025-11-06 |  |
 | [Folk Forsvinder](https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr) | [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [Folk Forsvinder](https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc) | 2:53 | 2025-09-18 |  |
 | [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 | 2025-06-07 |
 | [FOR OS](https://open.spotify.com/track/3VwWhdt75AfDVuXaai6PKs) | [BRANDZ](https://open.spotify.com/artist/6uRoBsykra8GXLj9JRMjEf) | [FOR OS](https://open.spotify.com/album/3hhtdqPyvhjsixUSbMfjp8) | 2:08 | 2025-07-24 | 2025-08-01 |
@@ -235,14 +237,14 @@
 | [Overkill](https://open.spotify.com/track/2cKqnOnyn4m5ZCmShQxxzJ) | [MILA](https://open.spotify.com/artist/1kxYcDvkOzwczcvFlEBVwl) | [Overkill](https://open.spotify.com/album/4BZt0a3MXOMR4gpnLhujUM) | 2:44 | 2025-05-22 | 2025-05-30 |
 | [paper plane](https://open.spotify.com/track/0sX4DD5LzSRbyeH5cQ13gp) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [paper plane](https://open.spotify.com/album/2yJABCaws6mVHX1qSdOr7y) | 3:31 | 2025-09-04 | 2025-09-12 |
 | [PAPI](https://open.spotify.com/track/5PrXiCU1agpgbMwzdCCVpe) | [Isaac Kasule](https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh) | [PAPI](https://open.spotify.com/album/77euwhnB4tyjvObh6ag1N7) | 2:15 | 2025-07-10 | 2025-08-07 |
-| [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/track/5UhMx8DBKV8e4nKGNJhAM3) | [Aland Z](https://open.spotify.com/artist/5ac27Tra29pdLsxOZRddjm), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/album/222HR56KflpoDSvJTuDOlC) | 3:00 | 2025-09-25 |  |
+| [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/track/5UhMx8DBKV8e4nKGNJhAM3) | [Aland Z](https://open.spotify.com/artist/5ac27Tra29pdLsxOZRddjm), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/album/222HR56KflpoDSvJTuDOlC) | 3:00 | 2025-09-25 | 2025-11-07 |
 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 | 2025-04-10 |  |
 | [plastikhjerte](https://open.spotify.com/track/503O8kwnrNMP4DfQ3u3hf1) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [plastikhjerte](https://open.spotify.com/album/6tT4IbOXbn9qbvHlUd4J8T) | 3:06 | 2025-01-23 | 2025-06-06 |
 | [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 | 2025-08-07 | 2025-09-28 |
 | [Pretty When I Cry](https://open.spotify.com/track/0NzUJ9Cm11emUvPzP7m0w1) | [Johanne Rosen](https://open.spotify.com/artist/3fDUHxQhNCg1E5pH7o13ph) | [Pretty When I Cry](https://open.spotify.com/album/1DXMET9Q9sSG6FakBVPb3j) | 3:04 | 2025-07-17 | 2025-07-25 |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
-| [PUPILLER](https://open.spotify.com/track/1xoSUw7Ph8zlE1VR526FBB) | [Cano](https://open.spotify.com/artist/2Qd4bMMZa3Wc5Qaawf9Oho), [Salomon Stampe](https://open.spotify.com/artist/75TXnvyqAZUdfmD54jAaKd) | [PUPILLER](https://open.spotify.com/album/7jQF1UbqL3UI2ez2rYhfcZ) | 2:44 | 2025-10-30 |  |
+| [PUPILLER](https://open.spotify.com/track/1xoSUw7Ph8zlE1VR526FBB) | [Cano](https://open.spotify.com/artist/2Qd4bMMZa3Wc5Qaawf9Oho), [Salomon Stampe](https://open.spotify.com/artist/75TXnvyqAZUdfmD54jAaKd) | [PUPILLER](https://open.spotify.com/album/7jQF1UbqL3UI2ez2rYhfcZ) | 2:44 | 2025-10-30 | 2025-11-07 |
 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 | 2025-01-09 | 2025-01-24 |
 | [PÅ TIL DET SAMME](https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [PÅ TIL DET SAMME](https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO) | 1:56 | 2025-10-02 |  |
 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 | 2025-05-15 | 2025-09-12 |
@@ -326,6 +328,8 @@
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2025-01-24 |
 | [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 | 2025-09-11 | 2025-09-13 |
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 |  |
+| [USKARPT](https://open.spotify.com/track/4VyU3KBCCJUjGCqCdzTHeb) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4), [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [USKARPT](https://open.spotify.com/album/49TmWBCTdfEHCohhKdqFNy) | 2:53 | 2025-11-06 |  |
+| [Valmue](https://open.spotify.com/track/1YXNeYRjvVt1mqAA9jH2SR) | [Hvor Er Skygge](https://open.spotify.com/artist/3vQPGdAOoWtCySAOJThDKx) | [Valmue](https://open.spotify.com/album/09jgvziuGfcArOJ8cTbUCH) | 4:21 | 2025-11-06 |  |
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 | 2025-09-05 |
 | [venter venter](https://open.spotify.com/track/3D0gL4WndIjNjETzEumRwZ) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [venter venter](https://open.spotify.com/album/1RHkIVr9rfmw4o3nLPurlJ) | 3:39 | 2025-05-29 | 2025-06-06 |
 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 | 2025-05-01 |  |
@@ -338,7 +342,7 @@
 | [Void](https://open.spotify.com/track/0FnPLGAM2kz47V99T5YskK) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Void](https://open.spotify.com/album/3VZSSQaS4szKE3aq2vNNEW) | 3:16 | 2025-10-23 |  |
 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 |  |
 | [Vågen igen](https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb) | 4:10 | 2024-10-24 | 2025-03-21 |
-| [Vægtløs](https://open.spotify.com/track/1D5t5C40UMsyIVxooccqQX) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/6OMdkRGQXsRaLKAh2qp2FX) | 2:57 | 2025-10-30 |  |
+| [Vægtløs](https://open.spotify.com/track/1D5t5C40UMsyIVxooccqQX) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/6OMdkRGQXsRaLKAh2qp2FX) | 2:57 | 2025-10-30 | 2025-11-07 |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 | 2025-06-19 |  |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 | 2025-09-12 |

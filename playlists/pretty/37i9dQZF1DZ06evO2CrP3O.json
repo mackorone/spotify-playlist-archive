@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139574,
+  "num_followers": 139580,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAJE4SUPgd9heDmz1LykrS1",
+  "snapshot_id": "aQqTgAAAAACWF3yk20+7yYkItPVI+Zpk",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 222600,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
+      "duration_ms": 253631,
+      "name": "Accidents Never Happen",
+      "url": "https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 253631,
-      "name": "Accidents Never Happen",
-      "url": "https://open.spotify.com/track/0HwEzRnnfi4cHqnSu9Q6K6"
+      "duration_ms": 222600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/03SV49CTiBv7llc0s0FqhV"
     },
     {
       "added_at": null,
@@ -584,15 +584,15 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 168360,
-      "name": "Bermuda Triangle Blues - Remastered",
-      "url": "https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu"
+      "duration_ms": 122666,
+      "name": "Contact In Red Square - Remastered",
+      "url": "https://open.spotify.com/track/3CsLJ6hYYgtoUKSSgvvga4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 174639,
-      "name": "Doom or Destiny",
-      "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
+      "duration_ms": 380480,
+      "name": "Ll\u00e1mame (Call Me)",
+      "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
     },
     {
       "added_at": null,
@@ -648,15 +648,15 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 122666,
-      "name": "Contact In Red Square - Remastered",
-      "url": "https://open.spotify.com/track/3CsLJ6hYYgtoUKSSgvvga4"
+      "duration_ms": 168360,
+      "name": "Bermuda Triangle Blues - Remastered",
+      "url": "https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 380480,
-      "name": "Ll\u00e1mame (Call Me)",
-      "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
+      "duration_ms": 174639,
+      "name": "Doom or Destiny",
+      "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
       "duration_ms": 227666,
       "name": "Angels On The Balcony - Remastered 2001",
       "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hot Shot (David Wrench 2025 Mix)",
         "url": "https://open.spotify.com/album/5oHnyR5b3GSt6TxgTr0WkQ"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 217997,
       "name": "Hot Shot - David Wrench 2025 Mix",
       "url": "https://open.spotify.com/track/6W4Z5cIwAPe57XNo1VTvmE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Already Naked",
-      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 249666,
       "name": "Live It Up - Remastered 2001",
       "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Already Naked",
+      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     },
     {
       "added_at": null,

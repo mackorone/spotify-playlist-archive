@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 680918,
+  "num_followers": 680959,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -367,8 +367,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Bout des doigts",
-        "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
+        "name": "Methodrone",
+        "url": "https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
         }
       ],
-      "duration_ms": 426331,
-      "name": "Bout des doigts",
-      "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
+      "duration_ms": 204800,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
     },
     {
       "added_at": "2023-10-19 18:31:49",
@@ -447,8 +447,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Methodrone",
-        "url": "https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka"
+        "name": "Bout des doigts",
+        "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
+      "duration_ms": 426331,
+      "name": "Bout des doigts",
+      "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
-      },
-      "artists": [
-        {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Long Holiday",
-      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dance on the Blacktop",
         "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 237133,
       "name": "Zero Day",
       "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+      },
+      "artists": [
+        {
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Long Holiday",
+      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy (Expanded Version)",
-        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 102333,
-      "name": "Taste of Cindy",
-      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Brickbat",
         "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 269747,
       "name": "Everlastingly Yours",
       "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Psychocandy (Expanded Version)",
+        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 102333,
+      "name": "Taste of Cindy",
+      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Hover",
-        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
-      },
-      "artists": [
-        {
-          "name": "the sleepover disaster",
-          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
-        }
-      ],
-      "duration_ms": 297813,
-      "name": "Dark Star",
-      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Creation",
         "url": "https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 301224,
       "name": "Flood in Heaven",
       "url": "https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
+      },
+      "artists": [
+        {
+          "name": "the sleepover disaster",
+          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
+        }
+      ],
+      "duration_ms": 297813,
+      "name": "Dark Star",
+      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
     },
     {
       "added_at": "2023-01-11 15:25:58",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Dance AM",
-        "url": "https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 272498,
-      "name": "Dance AM",
-      "url": "https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Years Too Late",
         "url": "https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 260346,
       "name": "A Fading Smile",
       "url": "https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dance AM",
+        "url": "https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 272498,
+      "name": "Dance AM",
+      "url": "https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s"
     },
     {
       "added_at": "2021-06-03 02:39:04",

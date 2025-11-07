@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-230 songs - 13 hr 33 min
+231 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Be Somebody](https://open.spotify.com/track/08i4fdRU41VU7tdSlpVb14) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Be Somebody](https://open.spotify.com/album/0PDLin87k6ky44k0lo2Xts) | 2:45 | 2025-08-29 |  |
 | [Beautiful \- Ambient Mix](https://open.spotify.com/track/4UxPC9z8wDFRWFTH2qIYcE) | [Orkidea](https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7) | [Beautiful](https://open.spotify.com/album/20jr0kmwPGbf6QFFK8lb76) | 4:51 | 2025-06-19 |  |
 | [Begin Again](https://open.spotify.com/track/4oB9WMQPDAWPDDhiuwAQcz) | [Soledrifter](https://open.spotify.com/artist/0sJTtqSRef7kNEI8afqDyy), [Tommie Cotton](https://open.spotify.com/artist/6YhRXzCs8JTH2eynvl9Cnv) | [Begin Again](https://open.spotify.com/album/5JoayytHdG1MDFdasMEhXn) | 3:05 | 2025-08-15 |  |
+| [Best Part Of Us](https://open.spotify.com/track/1yFpApiykT4FjcOOgudeNO) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/3JsGft4oeT3b61Xkgy5l0K) | 2:34 | 2025-11-07 |  |
 | [Best Part Of Us \- Acoustic Version](https://open.spotify.com/track/28ddSLt7tvgX0qmcziAq2O) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us \(Acoustic Version\)](https://open.spotify.com/album/772h4Njc5s504JivFhxdK8) | 2:44 | 2025-07-18 |  |
 | [Best Part Of Us \- Instrumental Version](https://open.spotify.com/track/6aZaMOlHngAHWLDixboLPf) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us \(Instrumental Version\)](https://open.spotify.com/album/4T0swBjE7a1W9w47Gj3UTO) | 4:04 | 2025-06-19 |  |
 | [Bittersweet](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bittersweet](https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE) | 3:32 | 2025-06-19 |  |

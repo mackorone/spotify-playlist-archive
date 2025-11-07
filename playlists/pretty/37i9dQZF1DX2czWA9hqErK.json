@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1337898,
+  "num_followers": 1337810,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "I Love You So F***ing Much",
         "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 255636,
       "name": "Show Pony",
       "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "One Door Closes (feat. Breland)",
         "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 187084,
       "name": "One Door Closes (feat. Breland)",
       "url": "https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
-      },
-      "artists": [
-        {
-          "name": "Jol\u00e9",
-          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1249,38 +1249,6 @@
       "url": "https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "How to Win At Solitaire",
-        "url": "https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 268735,
-      "name": "All Seven Seasons",
-      "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Patterns in Repeat",
-        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 200648,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "Be Still",
@@ -1299,18 +1267,34 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "damn, look at the view !",
-        "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
+        "name": "Patterns in Repeat",
+        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
       },
       "artists": [
         {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 217419,
-      "name": "walking on air",
-      "url": "https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU"
+      "duration_ms": 200648,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "How to Win At Solitaire",
+        "url": "https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 268735,
+      "name": "All Seven Seasons",
+      "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1327,6 +1311,22 @@
       "duration_ms": 169934,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "damn, look at the view !",
+        "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "duration_ms": 217419,
+      "name": "walking on air",
+      "url": "https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1497,22 +1497,6 @@
       "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "His Loss",
-        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
-      },
-      "artists": [
-        {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
-        }
-      ],
-      "duration_ms": 150839,
-      "name": "His Loss",
-      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "Running Out Of Time",
@@ -1527,6 +1511,22 @@
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "His Loss",
+        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 150839,
+      "name": "His Loss",
+      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Yours Always",
-        "url": "https://open.spotify.com/album/5yV45bSyW7plb2JtbFKO3K"
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
       },
       "artists": [
         {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
         }
       ],
-      "duration_ms": 158213,
-      "name": "Summer in June",
-      "url": "https://open.spotify.com/track/4LJk7omtHh7tZEMxbNEJHw"
+      "duration_ms": 173000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
     }
   ],
   "unique_name": "Easy",

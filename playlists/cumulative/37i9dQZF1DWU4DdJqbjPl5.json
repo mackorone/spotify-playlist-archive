@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165000,
       "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 158690,
       "name": "Glory",
       "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Il s'appelait Tayc",
+        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220490,
+      "name": "Il s'appelait Tayc",
+      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
+    },
+    {
+      "album": {
         "name": "Tujiangalie - EP",
         "url": "https://open.spotify.com/album/0L6Djo1F3h7l0UPtLdwAJu"
       },
@@ -4730,6 +4748,28 @@
       "duration_ms": 222876,
       "name": "Kiss Me Like I'm Drowning",
       "url": "https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx"
+    },
+    {
+      "album": {
+        "name": "Kouma - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6ile3U8JuYt0T1G9HtOIGZ"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Kouma - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0qRiGLDCvi8zMKZdL5pisV"
     },
     {
       "album": {
@@ -7072,7 +7112,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170997,
       "name": "Progress",
       "url": "https://open.spotify.com/track/78MTRcH2sFDEeX6oNOMR7P"
@@ -8962,6 +9002,24 @@
       "duration_ms": 207200,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x"
     },
     {
       "album": {

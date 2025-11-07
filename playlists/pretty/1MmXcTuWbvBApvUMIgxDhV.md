@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 
 > 
 
-[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 7,396 likes - 88 songs - 5 hr 7 min
+[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 7,397 likes - 88 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 | 12 | [June](https://open.spotify.com/track/3nlE0lXdkLubW5WdsJdbqZ) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [June](https://open.spotify.com/album/7vC9T0W2ltfX60luKrvrkH) | 3:21 |
 | 13 | [You, Dear](https://open.spotify.com/track/7pO8ZYgR52OTF2xmEa22wM) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/6VtxEWVdKRHUyRnrtC3K7r) | 3:07 |
 | 14 | [I Don't Like Sleeping Without You](https://open.spotify.com/track/19GG2n6ATXDTqUfoMpwfUl) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Featherbrained Wealth Motel](https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo) | 2:18 |
-| 15 | [Chariot](https://open.spotify.com/track/7FC9taEfKHkJs3gQdxDvJ0) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Chariot](https://open.spotify.com/album/3CBGNzp1NQxegU8cXSzkiG) | 3:36 |
+| 15 | [Chariot](https://open.spotify.com/track/7FC9taEfKHkJs3gQdxDvJ0) | [MEGA](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Chariot](https://open.spotify.com/album/3CBGNzp1NQxegU8cXSzkiG) | 3:36 |
 | 16 | [Dreaming in Electric Blue](https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:12 |
 | 17 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
 | 18 | [Only Good Will Come of This](https://open.spotify.com/track/0hvtolGCxG6gNMJ2lx7DrZ) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Only Good Will Come of This](https://open.spotify.com/album/32xs2JhqNvv8gWorGiKDwY) | 3:30 |

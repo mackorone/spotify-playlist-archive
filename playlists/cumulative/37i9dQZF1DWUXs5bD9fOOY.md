@@ -4,7 +4,7 @@
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-102 songs - 5 hr 35 min
+104 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Lights](https://open.spotify.com/track/7u2MdjnwZP0R89hFcJYcKX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [Lights](https://open.spotify.com/album/0pHEGZxvppoFycHscsaTwR) | 4:28 | 2023-12-12 | 2024-12-25 |
 | [Love Me Like You \- Christmas Mix](https://open.spotify.com/track/5wTRIbgSw1WKNUufanQSab) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \- Rarities & Remixes](https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ) | 3:29 | 2023-12-12 | 2024-04-19 |
 | [Love Me Like You \- Christmas Mix](https://open.spotify.com/track/7zuqxVAql3uljqHXVDtiGb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Julesange \- Julemusik og julehits til julehyggen, julefrokosten og juleaften](https://open.spotify.com/album/7AqPChbYRYMZocyJIaUDeW) | 3:29 | 2023-12-19 |  |
+| [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2025-11-06 |  |
 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 | 2023-12-12 |  |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2023-12-12 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2023-12-12 |  |
@@ -88,6 +89,7 @@
 | [Thank You Note](https://open.spotify.com/track/67ss3RFo9MIjrdJcyINI0w) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/15XmhSKh6fCVeiRbknWKlT) | 2:36 | 2023-12-12 | 2024-04-19 |
 | [The Christmas Song](https://open.spotify.com/track/333oiwwRSmDGKca100cDyc) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Christmas Song](https://open.spotify.com/album/7gqZqmM5X8j5lEFGsEUX5H) | 2:46 | 2023-12-12 |  |
 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Holiday Deluxe\)](https://open.spotify.com/album/01haNCctw4EUPl8xUHVhdl) | 3:16 | 2023-12-12 |  |
+| [The Man With The Bag](https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Man With The Bag](https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd) | 2:03 | 2025-11-06 |  |
 | [The wish](https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The wish](https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL) | 2:47 | 2024-12-24 |  |
 | [This Christmas](https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:51 | 2023-12-12 |  |
 | [Touch \(Holiday Version\)](https://open.spotify.com/track/1cmh5hGilxnY6VxtkwSmyA) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch \(Holiday Version\)](https://open.spotify.com/album/0RuVX5vjthUQj0eyaPxFWC) | 2:10 | 2024-11-28 |  |

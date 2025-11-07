@@ -4,7 +4,7 @@
 
 > Cozy Christmas piano and a crackling log fire.
 
-97 songs - 4 hr 8 min
+100 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/1K6gIb43loGJGWs3YstidH) | [Ursula Rothschild](https://open.spotify.com/artist/76pBdJnawajPFuWwNzMsg8) | [I'll Be Home For Christmas](https://open.spotify.com/album/2rHsCmeC0USUWff0fcG5kB) | 2:33 | 2023-11-21 | 2025-10-09 |
 | [I'll Be Home for Christmas \(Fireside\)](https://open.spotify.com/track/7FIwfu0P6XfC8LpcPi1eJU) | [Asher Lowell](https://open.spotify.com/artist/5nA4lp6HwDfgZuHey70b3z) | [I'll Be Home for Christmas \(Fireside\)](https://open.spotify.com/album/29pIacxBPwFTFya7VVjipT) | 1:13 | 2025-10-08 |  |
 | [In The Bleak Mid Winter \- Christmas Cosy](https://open.spotify.com/track/1FM8BWcAwIcTw54pS76KNe) | [Samuel Bath](https://open.spotify.com/artist/7lQJm3nfRsMvGs3sDeQudV) | [Christmas Cosy](https://open.spotify.com/album/6zAVrWfpCx1VNcsUrA4pKS) | 2:04 | 2023-11-21 | 2025-09-03 |
-| [In The Bleak Midwinter \(Fireside\)](https://open.spotify.com/track/39jACCi608YmscQIX1SAwC) | [Cyrus Ellwood](https://open.spotify.com/artist/6kUwWrYltraBNZyQ0ey9Gc) | [In The Bleak Midwinter \(Fireside\)](https://open.spotify.com/album/559TKR1ERMa6bPcXnX1xws) | 2:09 | 2025-10-08 |  |
+| [In The Bleak Midwinter](https://open.spotify.com/track/5g7h8AspE2ABa510y4HYLd) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [In The Bleak Midwinter](https://open.spotify.com/album/716GaBDvG2QbrhktZBkXHE) | 2:05 | 2025-11-06 |  |
+| [In The Bleak Midwinter \(Fireside\)](https://open.spotify.com/track/39jACCi608YmscQIX1SAwC) | [Cyrus Ellwood](https://open.spotify.com/artist/6kUwWrYltraBNZyQ0ey9Gc) | [In The Bleak Midwinter \(Fireside\)](https://open.spotify.com/album/559TKR1ERMa6bPcXnX1xws) | 2:09 | 2025-10-08 | 2025-11-07 |
 | [It Came Upon a Midnight Clear \(Fireside\)](https://open.spotify.com/track/2ivyXGyBGz7275DuKNxW4w) | [Etienne Pomme](https://open.spotify.com/artist/5B2iGNGRPzQ8KEWruVmZPC) | [It Came Upon a Midnight Clear \(Fireside\)](https://open.spotify.com/album/71eWnkKIR1WFPLL9tKrvug) | 2:20 | 2024-11-18 |  |
 | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/track/6mYetg3csOzQRS63MmXdjo) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5) | 3:13 | 2023-11-21 |  |
 | [It's the most wonderful time of the year](https://open.spotify.com/track/1eJaI2yRjRGKUApC1ybsES) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Most Wonderful Time](https://open.spotify.com/album/5QuceG3jeimM5cFylithqw) | 2:26 | 2023-11-21 | 2025-09-03 |
@@ -82,6 +83,7 @@
 | [Once In Royal Davids City \- Fireplace](https://open.spotify.com/track/2g4m5doLtTAKa8GdU8VdKi) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 2:51 | 2023-11-21 | 2025-09-03 |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/3he8wjLlp8h6RfC8hGztNZ) | [Karin Eberhardt](https://open.spotify.com/artist/1eatEngbJ6ifKAnPrlij2Q) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/6b7Cwymeb76aWKq7y7iDE3) | 2:55 | 2023-11-21 |  |
 | [Santa Tell Me](https://open.spotify.com/track/2BEwC1vSpl2TLtAjGDnSGs) | [Kacie Forbes](https://open.spotify.com/artist/2oMpD3MpMa55N05W5vatrB) | [Santa Tell Me](https://open.spotify.com/album/5YIUlGeaoRrkj5CBAc74b7) | 2:22 | 2023-11-21 |  |
+| [See Amid the Winter’s Snow](https://open.spotify.com/track/0L25oA9UiGHWDhzcszpGwI) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [See Amid the Winter’s Snow](https://open.spotify.com/album/1ZAf79k7yBYXRJYeFpK4z9) | 1:51 | 2025-11-06 |  |
 | [See Amidst The Winter's Snow \- Fireside](https://open.spotify.com/track/7Bg3eYKTCfjHcdJcUOGVUh) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Fireside Joy Of Christmas](https://open.spotify.com/album/72watuxzgAjvqQkHSgWJgi) | 2:24 | 2023-11-21 | 2025-09-03 |
 | [Seven Joys Of Mary \- Cosy Fireplace](https://open.spotify.com/track/5QzOYBckLu48DnNDjjhNoo) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary \(Cosy Fireplace version\)](https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca) | 2:21 | 2023-11-21 |  |
 | [Silent Night](https://open.spotify.com/track/3rhMXpVLDZAkCtr7v37aIV) | [Ishara](https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q) | [Silent Night](https://open.spotify.com/album/5EuDMAeoizBYVUtkwR9OY7) | 2:16 | 2024-11-12 | 2025-09-03 |
@@ -99,6 +101,7 @@
 | [The First Noel \(Fireside\)](https://open.spotify.com/track/3H4HSuqsm9QRiU132mKQoB) | [Dorian Hale](https://open.spotify.com/artist/7fCEFFvlNk477jNijQ7N8s) | [The First Noel \(Fireside\)](https://open.spotify.com/album/0fCdvH7wtxEaR18yXTzRzQ) | 2:21 | 2025-10-08 |  |
 | [The Holly and the Ivy](https://open.spotify.com/track/4ZZ6DHVvkm5BV6fFG1106x) | [Impi Pasanen](https://open.spotify.com/artist/6aWTceMkjIYTXKrtEPNkIz) | [The Holly and the Ivy](https://open.spotify.com/album/5oYr5TiYW2g8VDUyVrcTqK) | 1:48 | 2023-11-21 | 2025-10-09 |
 | [The Holly and The Ivy \(Fireside\)](https://open.spotify.com/track/0Fww3slJnym75KjhMkfBwv) | [Malachai Rourke](https://open.spotify.com/artist/6hj1rD7WdtFagcZaW8utH2) | [The Holly and The Ivy \(Fireside\)](https://open.spotify.com/album/3OzmpB2nW8bXOEXcyL1wuY) | 1:27 | 2025-10-08 |  |
+| [The Merriest Of Times With You](https://open.spotify.com/track/6CfUV0OPIK4Xn98Tm3K4gc) | [Francesco Rossi](https://open.spotify.com/artist/1G9Qopy7Z3ewAgD2bp86mY) | [The Merriest Of Times With You](https://open.spotify.com/album/2Ey6kMouM2vVb5QWYyYeCt) | 2:18 | 2025-11-06 |  |
 | [Up on a Rooftop \(Fireside\)](https://open.spotify.com/track/0MnlhIpXJeX17ugHmzcjqp) | [Katya Karenenov](https://open.spotify.com/artist/2wazbooFwVj41LSoHtBdzj) | [Up on a Rooftop \(Fireside\)](https://open.spotify.com/album/0XXUzSavzEmS5Ej7qytvOc) | 2:15 | 2024-11-18 | 2025-09-03 |
 | [Walking in a Winter Wonderland](https://open.spotify.com/track/3n3or2ujocN20GzYqgcHLM) | [Karla Debeljak](https://open.spotify.com/artist/5WDw9Se5TtNtU0i2ltnSkN) | [Walking in a Winter Wonderland](https://open.spotify.com/album/0p8oVtr8UkvfR1kXVGIcCw) | 2:42 | 2023-11-21 |  |
 | [We Three Kings](https://open.spotify.com/track/16chvhtLBHS76JNBCUnaA0) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [We Three Kings](https://open.spotify.com/album/7HWAsGktC7Mu0Ns1ejStBi) | 3:18 | 2025-10-08 |  |

@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/22EzpDu4EgPaPuPiUtHZLw"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150238,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/4LO5lzQZM94mXCqDjTreuZ"
+    },
+    {
+      "album": {
         "name": "Be Kind",
         "url": "https://open.spotify.com/album/1W5hohzdyfWmDuQWBtAMfT"
       },

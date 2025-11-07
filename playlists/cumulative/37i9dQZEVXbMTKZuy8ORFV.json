@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "A Pelo",
+        "url": "https://open.spotify.com/album/0ikpuHp86ctN4PRqxO5vRj"
+      },
+      "artists": [
+        {
+          "name": "Tussiwarriors",
+          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178896,
+      "name": "A Pelo",
+      "url": "https://open.spotify.com/track/6lI8bU2Sd8yB5EykQVsydi"
+    },
+    {
+      "album": {
         "name": "A PURO DOLOR",
         "url": "https://open.spotify.com/album/3FQi4Oecz065SbJVuvvJXT"
       },
@@ -7674,7 +7692,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
@@ -14040,7 +14058,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -17528,7 +17546,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 174882,
       "name": "La historia de un amor",
       "url": "https://open.spotify.com/track/4HUxmHBqZ5a6xgBLc18Tpw"
@@ -19576,7 +19594,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 186680,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/2YaOGEaBCoISE521kunnyK"
@@ -24200,6 +24218,28 @@
           "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
         }
       ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89745,
+      "name": "NO BATID\u00c3O",
+      "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
+    },
+    {
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -27934,7 +27974,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 212213,
       "name": "Por qu\u00e9 yo no",
       "url": "https://open.spotify.com/track/4yMSGLeyGjcUOxSS7YumxX"
@@ -31046,7 +31086,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 252192,
       "name": "SEXTO SENTIDO",
       "url": "https://open.spotify.com/track/3jS7jL99vwYIL1YyPOvaPS"
@@ -31988,7 +32028,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 424615,
       "name": "So what we get drunk? - Extended Version",
       "url": "https://open.spotify.com/track/231Crd29pPGdweClh2CoVO"
@@ -37544,7 +37584,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 171344,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
@@ -38838,7 +38878,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -40458,6 +40498,24 @@
       "duration_ms": 99102,
       "name": "\u043d\u0435 \u043f\u043e\u043f\u0430\u043b\u0441\u044f",
       "url": "https://open.spotify.com/track/19exeUo3RlQWbCHZnzvyZQ"
+    },
+    {
+      "album": {
+        "name": "\u043d\u0435 \u043f\u043e\u043f\u0430\u043b\u0441\u044f",
+        "url": "https://open.spotify.com/album/4jxHbTjDQiih8o6e2kS3wO"
+      },
+      "artists": [
+        {
+          "name": "dabbackwood",
+          "url": "https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99102,
+      "name": "\u043d\u0435 \u043f\u043e\u043f\u0430\u043b\u0441\u044f",
+      "url": "https://open.spotify.com/track/7nevVJAagFUVOBmlCrF80H"
     },
     {
       "album": {

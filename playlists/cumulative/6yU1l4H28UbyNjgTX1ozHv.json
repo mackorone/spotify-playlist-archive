@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Glory of Love",
+        "url": "https://open.spotify.com/album/00t4GVWQGiaxPGhQW67MVY"
+      },
+      "artists": [
+        {
+          "name": "Dave Moffatt",
+          "url": "https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235510,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/2iPOVHVwpJolLjh3VZKRoi"
+    },
+    {
+      "album": {
         "name": "Pop Acoustic Chill Out",
         "url": "https://open.spotify.com/album/1oPwxUkOSJPfD7mXPWKC1v"
       },

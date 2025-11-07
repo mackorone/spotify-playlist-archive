@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,497 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,498 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 58 | [Fantasy Flute](https://open.spotify.com/track/1765MCzs77plUXfAPThmtb) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Cafe Fluid](https://open.spotify.com/album/2XyN2O2uJMXULnqJYDtDhm) | 4:56 |
 | 59 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
 | 60 | [Venu](https://open.spotify.com/track/4iNkY671G1WKiFAzEvsT07) | [Martín Asaro](https://open.spotify.com/artist/0V3EGDQyGZgqEOBbWoK5Tk) | [Viajando Con El Viento](https://open.spotify.com/album/4Z2cYIf67ZZUJUTfkl2RpR) | 9:36 |
-| 61 | [Pahadi Dhun](https://open.spotify.com/track/6y6Cx6ZDFA9qerhxbdzMO4) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Pandit Ronu Majumdar: Master of the Indian Bansuri](https://open.spotify.com/album/4fCwRhix5LmrCTnfGhQSyg) | 8:40 |
-| 62 | [Shri Krishna Govind Hare Murari \- Lofi Flute Instrumental](https://open.spotify.com/track/0TsRFgrwobN4mLuUN0NUfR) | [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Shri Krishna Govind Hare Murari \(Lofi Flute Instrumental\)](https://open.spotify.com/album/5RYqFx1NvvDg6FfTO91esu) | 6:44 |
+| 61 | [Shri Krishna Govind Hare Murari \- Lofi Flute Instrumental](https://open.spotify.com/track/0TsRFgrwobN4mLuUN0NUfR) | [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Shri Krishna Govind Hare Murari \(Lofi Flute Instrumental\)](https://open.spotify.com/album/5RYqFx1NvvDg6FfTO91esu) | 6:44 |
+| 62 | [Pahadi Dhun](https://open.spotify.com/track/6y6Cx6ZDFA9qerhxbdzMO4) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Pandit Ronu Majumdar: Master of the Indian Bansuri](https://open.spotify.com/album/4fCwRhix5LmrCTnfGhQSyg) | 8:40 |
 | 63 | [Mohana](https://open.spotify.com/track/63QIf46bybNGLt5sKIfljg) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Fluid \(Flute Grooves by Naveen Kumar\)](https://open.spotify.com/album/0FznvOl4NZqN1J9X2xuFEC) | 6:40 |
 | 64 | [Karunardra Sneham \- Flute](https://open.spotify.com/track/5jzIRp19kymwPoRqijcNYP) | [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Karunardra Sneham \- Single](https://open.spotify.com/album/0F3b5PTSBU9GUkgU593Jh0) | 4:50 |
 | 65 | [Bansuri & Tabla \(Live\)](https://open.spotify.com/track/1OPqzUmJ6cWgmeHrZ27T3s) | [Pandit Atul Shankar](https://open.spotify.com/artist/2BH0PQI32fInzYixUio497), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:18 |

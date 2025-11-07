@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,978 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,010 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 26 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 |
 | 27 | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM) | 1:39 |
 | 28 | [Dizzy Dance](https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:35 |
-| 29 | [Leader Instrumental](https://open.spotify.com/track/4Ts5DWlmFI8DL8bqAY9RwN) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Leader](https://open.spotify.com/album/6QcYjqogMZV4b1SIBAGdMk) | 3:24 |
-| 30 | [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 |
+| 29 | [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 |
+| 30 | [Leader Instrumental](https://open.spotify.com/track/4Ts5DWlmFI8DL8bqAY9RwN) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Leader](https://open.spotify.com/album/6QcYjqogMZV4b1SIBAGdMk) | 3:24 |
 | 31 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 |
 | 32 | [Pushpa To Be Continued](https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:52 |
 | 33 | [Surya's Saturday](https://open.spotify.com/track/1yPKhZYC785EHBuqddCg18) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 1:22 |

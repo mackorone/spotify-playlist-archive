@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 193848,
       "name": "Aetheris",
       "url": "https://open.spotify.com/track/0j1qiClBRZdGFjJkkCqCLS"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 152762,
       "name": "Aethra",
       "url": "https://open.spotify.com/track/5TPQyPKE37FmTyomgoaViY"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165483,
       "name": "Alami Calma",
       "url": "https://open.spotify.com/track/38M52H0WHEnyySoxLObqGy"
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Amethyst",
+        "url": "https://open.spotify.com/album/4UQuwrnHta01hf9yg4mouy"
+      },
+      "artists": [
+        {
+          "name": "Tristan Axvall",
+          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Amethyst",
+      "url": "https://open.spotify.com/track/1gWGkXJD70K2za6joesFA6"
+    },
+    {
+      "album": {
         "name": "Ancient Wisdom",
         "url": "https://open.spotify.com/album/6juMtvRYT4pkcAYMjWJUzq"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 153431,
       "name": "As Sky Unfolds",
       "url": "https://open.spotify.com/track/3BqqJWXx5H0PJshDdwc0cX"
@@ -398,7 +416,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 177142,
       "name": "Astral Space",
       "url": "https://open.spotify.com/track/5PTtyStNehiO1lJ3Y5V17L"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 160000,
       "name": "Blunda",
       "url": "https://open.spotify.com/track/3J8TT5OCUvSLaBZPVA35UE"
@@ -776,7 +794,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 173407,
       "name": "Comprehension",
       "url": "https://open.spotify.com/track/5yQpaTprgLIriEeewGvdGy"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156000,
       "name": "Dreaming of You",
       "url": "https://open.spotify.com/track/4SASETFSjgN34MCo47t01c"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 158000,
       "name": "Driving Home",
       "url": "https://open.spotify.com/track/5lp26YOG0Q9AFQjHycee41"
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 149375,
       "name": "Ecliptico",
       "url": "https://open.spotify.com/track/2mcCIF9cOnLgvzHhwKEnc3"
@@ -1176,6 +1194,24 @@
       "duration_ms": 187718,
       "name": "Elastic",
       "url": "https://open.spotify.com/track/6EftNCIAUnD2eLoHvayt3R"
+    },
+    {
+      "album": {
+        "name": "Elevatio",
+        "url": "https://open.spotify.com/album/4wSEK5OPzDWxIrZw5CFjXR"
+      },
+      "artists": [
+        {
+          "name": "Nebula Somni",
+          "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133580,
+      "name": "Elevatio",
+      "url": "https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q"
     },
     {
       "album": {
@@ -1460,7 +1496,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 161619,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/4Yk5Dw2b44ZJOop8UyRMyw"
@@ -1482,6 +1518,24 @@
       "duration_ms": 148938,
       "name": "Fives",
       "url": "https://open.spotify.com/track/2mNKvRYmYOx7wsDNxYXQQx"
+    },
+    {
+      "album": {
+        "name": "Flowerbed",
+        "url": "https://open.spotify.com/album/31uH88OUfbfWgR5SYpAMuD"
+      },
+      "artists": [
+        {
+          "name": "Rylan Oaks",
+          "url": "https://open.spotify.com/artist/1eRLtWXQiJIHlqHzA4invK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Flowerbed",
+      "url": "https://open.spotify.com/track/2lOmh7I6vs7lDzp76kpntf"
     },
     {
       "album": {
@@ -1701,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/4X0XA2hsLBDti0pIdqkgOb"
+      },
+      "artists": [
+        {
+          "name": "Map Of My Mind",
+          "url": "https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/1CPnGOj9yGlAaG7S57a5w5"
+    },
+    {
+      "album": {
         "name": "Grounding",
         "url": "https://open.spotify.com/album/5Do97UOdHnE2zG1IGsesZ6"
       },
@@ -1820,7 +1892,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 174300,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/4huEuDnPhHvEBta67qe5S0"
@@ -2234,7 +2306,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 180000,
       "name": "Meditations Pt 4",
       "url": "https://open.spotify.com/track/7KerNojT5v12nQjmk9OGbm"
@@ -2385,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Ocalya",
+        "url": "https://open.spotify.com/album/6SMWZ3tSukPsGI26nyLNDL"
+      },
+      "artists": [
+        {
+          "name": "Broadleaf Radio",
+          "url": "https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Ocalya",
+      "url": "https://open.spotify.com/track/4Pqwp0gLxv6XRBBDjBMMfH"
+    },
+    {
+      "album": {
         "name": "Ocean Glow",
         "url": "https://open.spotify.com/album/0L0LkAa1ysATbfqptmtzrC"
       },
@@ -2472,6 +2562,24 @@
       "duration_ms": 152000,
       "name": "paradis",
       "url": "https://open.spotify.com/track/51yXlAu1hbPl8ma3biuTdE"
+    },
+    {
+      "album": {
+        "name": "Pegaso",
+        "url": "https://open.spotify.com/album/5AXqME5HxfyzogzFW56L6D"
+      },
+      "artists": [
+        {
+          "name": "Universo",
+          "url": "https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153638,
+      "name": "Pegaso",
+      "url": "https://open.spotify.com/track/6ljx7b8RnFC9cefESa0LLD"
     },
     {
       "album": {
@@ -2630,7 +2738,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165924,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/0hlrbDOuT4q6U1T3puuATw"
@@ -3087,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "Sleep Horizon",
+        "url": "https://open.spotify.com/album/4tJqFAAs3UrceKhJ2uAUmQ"
+      },
+      "artists": [
+        {
+          "name": "Festooned",
+          "url": "https://open.spotify.com/artist/7BgkbpnZBHX23LPETY44Kc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182101,
+      "name": "Sleep Horizon",
+      "url": "https://open.spotify.com/track/4hI4ACrlmcp0L8bYA0vLIg"
+    },
+    {
+      "album": {
         "name": "Slumber",
         "url": "https://open.spotify.com/album/0aZHpxf80fFvBupHpnZCiF"
       },
@@ -3170,7 +3296,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 162654,
       "name": "Soothe",
       "url": "https://open.spotify.com/track/78g1EvC6Uv76bTnMaL0l35"
@@ -3750,6 +3876,24 @@
       "duration_ms": 186584,
       "name": "Unsorrow",
       "url": "https://open.spotify.com/track/5TiBe90Hq1gTj3AKeL6ncQ"
+    },
+    {
+      "album": {
+        "name": "Until The Stars Fade",
+        "url": "https://open.spotify.com/album/2QSt6CQNprLdq9pVwoUJCw"
+      },
+      "artists": [
+        {
+          "name": "Manny Chu",
+          "url": "https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Until The Stars Fade",
+      "url": "https://open.spotify.com/track/6b22XqyLKv30nsI344Uzdd"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Hype List](https://open.spotify.com/playlist/37i9dQZF1DXe74lXHc7E5A)
 
-> Hip Hop and Rap songs guaranteed to get you hyped\. Cover:  ty dolla sign
+> Hip Hop and Rap songs guaranteed to get you hyped\. Cover:  lil baby
 
-604 songs - 1 day 6 hr 25 min
+606 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-27 | 2023-02-04 |
 | [Mr Chow](https://open.spotify.com/track/4YLizxRQsTqqnvzzYq2VaE) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:57 | 2024-11-08 | 2025-01-31 |
 | [Mrs\. Davis](https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR) | 3:57 | 2022-07-27 | 2023-02-17 |
-| [MSP](https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87) | [MSP](https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo) | 2:33 | 2025-09-05 |  |
+| [MSP](https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87) | [MSP](https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo) | 2:33 | 2025-09-05 | 2025-11-07 |
 | [My Body](https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [My Body](https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32) | 2:00 | 2023-04-27 | 2023-06-03 |
 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 | 2023-01-27 | 2023-02-04 |
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-08 | 2023-12-22 |
@@ -449,6 +449,7 @@
 | [Presha \(with Lil Wayne\)](https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Presha](https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP) | 3:05 | 2023-11-10 | 2023-12-14 |
 | [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [4K & SYDER](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 | 2025-06-20 | 2025-06-28 |
 | [Pressure](https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Pressure](https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1) | 2:44 | 2023-09-29 | 2024-08-02 |
+| [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 | 2025-11-07 |  |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-14 | 2023-06-03 |
 | [Problem No Dey Finish \- Remix](https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem No Dey Finish \(Remix\)](https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd) | 2:01 | 2022-10-13 | 2022-11-04 |
 | [Prosper In Peace \(with Benny The Butcher\)](https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Prosper In Peace](https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m) | 3:32 | 2023-09-08 | 2023-09-19 |
@@ -554,6 +555,7 @@
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-11-09 |
 | [TRICKIN'](https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TRICKIN'](https://open.spotify.com/album/1o8Qeyne1vdIDJtPCwwbvw) | 1:45 | 2023-09-29 | 2023-10-13 |
 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 | 2023-06-09 | 2025-06-20 |
+| [Try To Love](https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Try To Love](https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5) | 2:23 | 2025-11-07 |  |
 | [Turn Up A Notch](https://open.spotify.com/track/72Eo19DM3Vkb7gskEe88gM) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Turn Up A Notch](https://open.spotify.com/album/6r3b30eA6lUEDTkE6nPqNj) | 2:15 | 2024-09-20 | 2024-10-05 |
 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-01-27 | 2023-06-03 |
 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-09-18 | 2025-03-29 |

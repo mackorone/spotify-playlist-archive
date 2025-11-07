@@ -1,29 +1,13 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 33657,
+  "num_followers": 33663,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADCuPSYbTi/LE0luPCUSJAB",
+  "snapshot_id": "aQqTgAAAAACkbSBzx11jlslBTmPLED38",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Kinda Man",
-        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 259022,
-      "name": "What Kinda Man",
-      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 219967,
       "name": "Handle On You",
       "url": "https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Kinda Man",
+        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 259022,
+      "name": "What Kinda Man",
+      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
     },
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 223062,
       "name": "Love (feat. Parker McCollum)",
       "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 233869,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
     },
     {
       "added_at": null,

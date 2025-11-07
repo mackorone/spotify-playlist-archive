@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 173191,
+  "num_followers": 173231,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "David",
+        "url": "https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 284784,
+      "name": "Kanave Kanave",
+      "url": "https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Maari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 195709,
       "name": "Don'u Don'u Don'u - The Don's Romance",
       "url": "https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "David",
-        "url": "https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 284784,
-      "name": "Kanave Kanave",
-      "url": "https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS"
     },
     {
       "added_at": "2021-08-02 09:30:31",

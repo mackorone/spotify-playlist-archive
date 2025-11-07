@@ -4,7 +4,7 @@
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 56 min
+51 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Place Called Home](https://open.spotify.com/track/4QmBs5a3mFFLaLA1QTEVrN) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:42 | 2025-10-28 |  |
 | [Angelene](https://open.spotify.com/track/2PttdezZsumXSdsrf5r5Ea) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:34 | 2025-10-28 |  |
 | [Black Hearted Love](https://open.spotify.com/track/0TYC36fmbYl54IqTxjdmDa) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk) | [A Woman A Man Walked By](https://open.spotify.com/album/6l86pi1CVEjWneYKszncju) | 4:35 | 2025-10-28 |  |
-| [Broken Harp](https://open.spotify.com/track/1eqENjZS8hTmOJWRUb3yp2) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 1:57 | 2025-10-28 |  |
+| [Broken Harp](https://open.spotify.com/track/1eqENjZS8hTmOJWRUb3yp2) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 1:57 | 2025-10-28 | 2025-11-07 |
 | [C'mon Billy](https://open.spotify.com/track/56sWRGGeRFWgFhrMOgOyZC) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 2:47 | 2025-10-28 |  |
 | [Come to Me](https://open.spotify.com/track/7xDeTALyFeNz7241qj3aJS) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 3:45 | 2025-10-28 |  |
 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 | 2025-10-28 |  |
@@ -29,6 +29,7 @@
 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 | 2025-10-28 |  |
 | [Legs](https://open.spotify.com/track/2UVPkh6lrARjYDK42jC6kD) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:40 | 2025-10-28 |  |
 | [Let England Shake](https://open.spotify.com/track/6DST3HT8zF8WpNmg9tHuaa) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 3:09 | 2025-10-28 |  |
+| [Love Will Tear Us Apart](https://open.spotify.com/track/3FYnFqxfRBeAHdBRExnaUZ) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [Tim Phillips](https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h) | [Bad Sisters \(Season 2\) \[Original Series Soundtrack\]](https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj) | 3:01 | 2025-11-07 |  |
 | [Lwonesome Tonight](https://open.spotify.com/track/1YOs9wSUVlmIIJ0GNL1Oiv) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 3:48 | 2025-10-28 |  |
 | [Man\-Size](https://open.spotify.com/track/3X4qUkEhAvGY3qIlpNh1sl) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:16 | 2025-10-28 |  |
 | [Meet Ze Monsta](https://open.spotify.com/track/29A28JjjELDyZL1mUekhkC) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:29 | 2025-10-28 |  |

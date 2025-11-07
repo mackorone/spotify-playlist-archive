@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Oklou \(du titre \#1 au \#6\).
 
-1,747 songs - 3 day 18 hr 52 min
+1,748 songs - 3 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Alabama](https://open.spotify.com/track/0vJxo7x6jnFKbtFgtihMvJ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 3:34 | 2023-11-29 | 2024-03-06 |
 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-08-01 | 2023-09-06 |
 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2025-05-07 | 2025-06-04 |
-| [Alibi \(feat\. Timar\)](https://open.spotify.com/track/28fW7IBzYcLPwMlEtdXExp) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Alibi \(feat\. Timar\)](https://open.spotify.com/album/4Lkg1EuwHR5GHfEpOlnJUt) | 2:21 | 2025-11-04 |  |
+| [Alibi \(feat\. Timar\)](https://open.spotify.com/track/28fW7IBzYcLPwMlEtdXExp) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Alibi \(feat\. Timar\)](https://open.spotify.com/album/4Lkg1EuwHR5GHfEpOlnJUt) | 2:21 | 2025-11-04 | 2025-11-07 |
 | [All about You](https://open.spotify.com/track/4VaHgBmYEJbOjbdUGq2irJ) | [Bonnie Li](https://open.spotify.com/artist/1mswgtBZE0xMQkJU4NhWpH) | [Le Bleu du Rouge](https://open.spotify.com/album/4GhxCRcuL82Y0SOyrhLjB8) | 3:16 | 2022-05-03 | 2022-06-01 |
 | [All I Want](https://open.spotify.com/track/4ULbFe9TkGcHbK8nkDnHL6) | [Roseland](https://open.spotify.com/artist/00D0fRKvSoYVOiyMwCfuZn) | [Unsaid Words](https://open.spotify.com/album/3RP3YVrZNX1aUaJzUttj1O) | 3:55 | 2022-04-05 | 2022-05-04 |
 | [All My Life](https://open.spotify.com/track/6xLQnlTtuRXPvzt2Rx7Zke) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [We're all gonna die anyway,](https://open.spotify.com/album/5l6SN84f1hv6LrboTqcKKj) | 3:57 | 2024-06-04 | 2024-07-03 |
@@ -1176,7 +1176,7 @@
 | [Only one](https://open.spotify.com/track/0eNfLBlOKsDwlmvW9DCjgP) | [Lili Castiglioni](https://open.spotify.com/artist/0FbauK4BpXbSL71RlgD5NU) | [Only one](https://open.spotify.com/album/1RfOLNpTBoUpMUDdyaa5GT) | 2:35 | 2025-07-01 | 2025-08-06 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-07 | 2022-05-04 |
 | [Ordinary](https://open.spotify.com/track/1UjGqPkcwYCJz4siKYoQwu) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 2:09 | 2025-04-02 | 2025-05-07 |
-| [Ordinary](https://open.spotify.com/track/3qC1nrl8bL6hbScTwjMBuS) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:09 | 2025-08-05 | 2025-10-01 |
+| [Ordinary](https://open.spotify.com/track/3qC1nrl8bL6hbScTwjMBuS) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:09 | 2025-08-05 |  |
 | [ORNICAR](https://open.spotify.com/track/3JS2lhRqNTMPPegd74pA3n) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [ORNICAR](https://open.spotify.com/album/1YrYszmykWYrcMZ8RlRNxZ) | 3:12 | 2023-07-04 | 2023-09-06 |
 | [Orézon](https://open.spotify.com/track/27gxyjy1stzbiaYUJP719r) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Le spectacle](https://open.spotify.com/album/6x1v8isXGCmnv7VfwVapnU) | 2:55 | 2023-04-04 | 2023-05-03 |
 | [Ose](https://open.spotify.com/track/2riKhgFKJJqKTKYpd6RDYE) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Ose](https://open.spotify.com/album/6y2r19z4MIODcgArTsrVg4) | 3:22 | 2023-04-04 | 2023-05-03 |
@@ -1214,7 +1214,7 @@
 | [Partout](https://open.spotify.com/track/02sGdgawjvohUO5otZVLJC) | [Loïse](https://open.spotify.com/artist/3nmiCKhHVrYLvdhBs37t4c) | [Partout](https://open.spotify.com/album/17Ame1SOeGU7yk5IO1UDkx) | 2:58 | 2022-03-07 | 2022-04-06 |
 | [PARTOUT OÙ JE VAIS](https://open.spotify.com/track/58cFRhvTGwoVBNsCdDcNAZ) | [Sally](https://open.spotify.com/artist/2rX5le9Bn1XdQwPsXA8aPP) | [PARTOUT OÙ JE VAIS](https://open.spotify.com/album/2sHhSNmscfQC890SMtw4WC) | 2:24 | 2022-03-07 | 2022-04-06 |
 | [Pas banale](https://open.spotify.com/track/6VpQQAEE1RvA1lMrzdMYMM) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Pas banale](https://open.spotify.com/album/7q9chE1LkGztCxEKs5ssA6) | 2:34 | 2025-03-04 | 2025-04-02 |
-| [Pas Jalouse](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 | 2025-09-30 |  |
+| [Pas Jalouse](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 | 2025-09-30 | 2025-11-07 |
 | [Pas le temps](https://open.spotify.com/track/7DqBmgSQZJJrKAYqjyDkFB) | [Dina](https://open.spotify.com/artist/40OywkN721WGbrgf7BCB13) | [Pas le temps](https://open.spotify.com/album/2dtYu9dDymWmkf4OFDYoAv) | 3:09 | 2022-08-02 | 2022-09-07 |
 | [Pas Pareil](https://open.spotify.com/track/6kgPzslcxPM94SR08j2nZ6) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Pas Pareil](https://open.spotify.com/album/2LkLTnCZHBsIjB5dZTTWYs) | 3:41 | 2023-05-02 | 2023-06-07 |
 | [Pas sans toi \- \#UnZoukAvecVous](https://open.spotify.com/track/7gXQpl662hsWEiJQjWJqPF) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Pas sans toi \(\#UnZoukAvecVous\)](https://open.spotify.com/album/3D6XfeDD1DtnjMj2gSg59s) | 3:03 | 2022-09-06 | 2022-10-05 |
@@ -1477,6 +1477,7 @@
 | [Sous ma peau](https://open.spotify.com/track/6rGMKzUlWjsNwkrw3xY1SE) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Sous ma peau](https://open.spotify.com/album/63uyGUdD3XRam7ygRaPKZB) | 2:50 | 2025-11-04 |  |
 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 | 2024-06-04 | 2025-01-08 |
 | [Sparks](https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Eternal Lover](https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX) | 3:42 | 2023-06-06 | 2023-07-05 |
+| [SPLASH](https://open.spotify.com/track/7qtnRed1TS8ZWp3ZZrI4cj) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SPLASH](https://open.spotify.com/album/4Q5CLByGguiRe8bE59IXi8) | 2:34 | 2025-11-06 |  |
 | [SPLEEN](https://open.spotify.com/track/7vyMNaPsO12vwzNIn9qh5n) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [SPLEEN](https://open.spotify.com/album/5SFU1suoQav8iKIBYAOTxw) | 4:16 | 2022-01-05 | 2022-02-02 |
 | [spring](https://open.spotify.com/track/7FJP6mlhCqObXC3Tel4kjk) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [spring](https://open.spotify.com/album/26lL4PeAXe9s4agTyBIb6s) | 2:42 | 2025-07-01 | 2025-09-03 |
 | [Spéciale](https://open.spotify.com/track/25VFwQA7ykqshryZml8NjY) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Spéciale](https://open.spotify.com/album/4ymrxlyOvjC67MDZtMKNm7) | 2:49 | 2023-01-03 | 2023-02-01 |

@@ -353,6 +353,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "A Lot (with Victony)",
+      "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
+    },
+    {
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -3842,7 +3864,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170475,
       "name": "Die It",
       "url": "https://open.spotify.com/track/2tAOGLiRgEIk39MmXxAEeB"
@@ -3918,6 +3940,24 @@
       "duration_ms": 166000,
       "name": "DND",
       "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
+    },
+    {
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162063,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
     },
     {
       "album": {
@@ -4238,7 +4278,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 137625,
       "name": "Eleda",
       "url": "https://open.spotify.com/track/7cGV3swtwLDVG8aSYs3dyM"
@@ -5034,7 +5074,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 191152,
       "name": "Focus",
       "url": "https://open.spotify.com/track/2HlMC4LYx8kPqsOpo74sQC"
@@ -5596,7 +5636,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175690,
       "name": "Glory II (with Fridayy)",
       "url": "https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg"
@@ -6792,7 +6832,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175037,
       "name": "I.N.E.F.A",
       "url": "https://open.spotify.com/track/2BK7UJMV4klF2qZuKpBJSX"
@@ -9055,6 +9095,24 @@
     },
     {
       "album": {
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
+    },
+    {
+      "album": {
         "name": "Many Things",
         "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
       },
@@ -9340,6 +9398,24 @@
       "duration_ms": 177720,
       "name": "mo de ma [by any minz]",
       "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
+    },
+    {
+      "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160080,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2hDS2oAk8SO3nsR49TsShH"
     },
     {
       "album": {
@@ -10060,6 +10136,24 @@
       "duration_ms": 195668,
       "name": "No Days Off",
       "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+    },
+    {
+      "album": {
+        "name": "No Matter the Mood",
+        "url": "https://open.spotify.com/album/2kKrgDp4FT0nvruS3hQ8Ne"
+      },
+      "artists": [
+        {
+          "name": "ORCH",
+          "url": "https://open.spotify.com/artist/1AFgd7pALRI6JUb0CAlt4k"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120072,
+      "name": "No Matter the Mood",
+      "url": "https://open.spotify.com/track/5tDNRu9BCMdr2reYK0rglL"
     },
     {
       "album": {
@@ -11220,7 +11314,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 192000,
       "name": "Oversability",
       "url": "https://open.spotify.com/track/6jbs3IXLOrJupTQGdy888c"
@@ -11390,7 +11484,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 131592,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
@@ -11704,7 +11798,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 212500,
       "name": "Popori",
       "url": "https://open.spotify.com/track/0lQsFsfcmMz7xZjVgiCdJ3"
@@ -14493,6 +14587,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/5zHdXMi4oTkowQvBaKuftu"
+    },
+    {
+      "album": {
         "name": "Trap",
         "url": "https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59"
       },
@@ -14758,6 +14870,24 @@
       "duration_ms": 171428,
       "name": "Under The Canopy",
       "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"
+    },
+    {
+      "album": {
+        "name": "Up and Active",
+        "url": "https://open.spotify.com/album/4Q01XwYG4yWeA7tSl1KDar"
+      },
+      "artists": [
+        {
+          "name": "Olahiman",
+          "url": "https://open.spotify.com/artist/401aSLickqnbze4b70aouW"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141869,
+      "name": "Up and Active",
+      "url": "https://open.spotify.com/track/2jMAfXYAD29fhKPhoIOHuq"
     },
     {
       "album": {

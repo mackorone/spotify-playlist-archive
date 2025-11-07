@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-04",
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Roze Oficial, Max Carra & Valen.",
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Rels B",
   "name": "\u00c9xitos Uruguay",
   "tracks": [
     {
@@ -625,6 +625,28 @@
     },
     {
       "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/13P9Qaty5SUmKgpSvpbOYt"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271435,
+      "name": "Boquitas Pintadas (feat. Nicki Nicole)",
+      "url": "https://open.spotify.com/track/3jaeafKcSsBnhdKQz0R8cK"
+    },
+    {
+      "album": {
         "name": "Bronceado (Remix)",
         "url": "https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2"
       },
@@ -1097,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
+    },
+    {
+      "album": {
         "name": "Dale Mecha",
         "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
       },
@@ -1507,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/13P9Qaty5SUmKgpSvpbOYt"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "El Problema Del Amor",
+      "url": "https://open.spotify.com/track/0qDqdzfkWlI3GxTOKyeV1E"
+    },
+    {
+      "album": {
         "name": "El Pron\u00f3stico",
         "url": "https://open.spotify.com/album/1xYzvFY0GUHYbWx7uAYoTI"
       },
@@ -1656,7 +1718,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 278818,
       "name": "Espl\u00edn",
       "url": "https://open.spotify.com/track/1CjA0TtKx6IMlSmKer9Wyw"
@@ -3098,7 +3160,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -4668,7 +4730,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -4686,7 +4748,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 120012,
       "name": "Tengo Una Cadena",
       "url": "https://open.spotify.com/track/3xdbqyli0ZUKupnyKQfGJp"
@@ -5026,6 +5088,28 @@
       "duration_ms": 221224,
       "name": "TUCHAT",
       "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
+    },
+    {
+      "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/13P9Qaty5SUmKgpSvpbOYt"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        },
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Tus Cosas (feat. Airbag)",
+      "url": "https://open.spotify.com/track/30vXLQ9yPEKdTNGHYik0iR"
     },
     {
       "album": {

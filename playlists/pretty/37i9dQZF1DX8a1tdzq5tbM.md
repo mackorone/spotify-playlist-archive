@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743,659 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,912 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 61 | [The Girl You Lost to Cocaine \- Sander van Doorn Edit](https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost To Cocaine](https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID) | 3:00 |
 | 62 | [Make Your Move \- Radio Edit](https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe) | [Dave Armstrong](https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7) | [Make Your Move](https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV) | 2:51 |
 | 63 | [Baba O'Riley \(Radio Edit\)](https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda) | [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 4:11 |
-| 64 | [The World Is Mine](https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:39 |
-| 65 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5bnTVmuQXiWky1U1Taw58a) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 |
+| 64 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5bnTVmuQXiWky1U1Taw58a) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 |
+| 65 | [The World Is Mine](https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:39 |
 | 66 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
 | 67 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
 | 68 | [Star 69 \- Timo Maas Mix](https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Star 69](https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ) | 6:11 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 96 | [Gone \- Radio Edit](https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Gone](https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ) | 3:00 |
 | 97 | [Halcyon and On and On](https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1T7efw93w96udljrPyL44G) | 9:27 |
 | 98 | [A Tear In The Open](https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 9:22 |
-| 99 | [Deep Inside](https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI) | 6:32 |
-| 100 | [Fire](https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [L.E.F.](https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh) | 4:31 |
+| 99 | [Fire](https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [L.E.F.](https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh) | 4:31 |
+| 100 | [Deep Inside](https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI) | 6:32 |
 | 101 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |
 | 102 | [Another Place \- Radio Edit](https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy) | [Mischa Daniels](https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX), [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc) | [Another Place](https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw) | 3:36 |
 | 103 | [Nyana](https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 6:44 |

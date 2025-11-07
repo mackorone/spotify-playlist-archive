@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Joe Armon-Jones",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Thundercat",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 228880,
       "name": "All Time (feat. Tawiah)",
       "url": "https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 199013,
       "name": "Away (feat. Jeff Parker)",
       "url": "https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 180893,
       "name": "Boom Bapped",
       "url": "https://open.spotify.com/track/3NrL92X3eh3yiRdfvXJhMm"
@@ -3057,6 +3057,32 @@
     },
     {
       "album": {
+        "name": "Techno Logic",
+        "url": "https://open.spotify.com/album/768dTvGf2c479ASY1S0DAu"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        },
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        },
+        {
+          "name": "Ben LaMar Gay",
+          "url": "https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292346,
+      "name": "Gnu Blue",
+      "url": "https://open.spotify.com/track/0ACrjHByr2GzPVTxKbDBix"
+    },
+    {
+      "album": {
         "name": "Asleep Above Creatures",
         "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
       },
@@ -4756,7 +4782,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 282333,
       "name": "Lost Souls",
       "url": "https://open.spotify.com/track/0MaSu2qUbdaP52OsRCKPyK"
@@ -8260,6 +8286,24 @@
       "duration_ms": 238053,
       "name": "Unwind [Feat. Melanie Charles]",
       "url": "https://open.spotify.com/track/0nK4auk3sF7wrRWNMEaw2b"
+    },
+    {
+      "album": {
+        "name": "Upside Down (Candy Crush)",
+        "url": "https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209866,
+      "name": "Upside Down (Candy Crush)",
+      "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"
     },
     {
       "album": {

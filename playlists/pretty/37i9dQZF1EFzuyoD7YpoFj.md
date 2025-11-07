@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483 likes - 391 songs - 20 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 391 songs - 20 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 146 | [Rap Tap on Wood](https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:39 |
 | 147 | [Cherry Pies Ought to Be You \(with Rosemary Clooney\)](https://open.spotify.com/track/6eNRJ9yrEg4o6ZxWVhAz8a) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:21 |
 | 148 | [Only Another Boy And Girl](https://open.spotify.com/track/2h9JNdBkcpqA4FOO1Wb8cG) | [Benny Goodman](https://open.spotify.com/artist/6jrpiwzsuxDlBQwrwdjQPI) | [Grandes del Jazz](https://open.spotify.com/album/6BOf6MCKDP2ZmjU7SuVndm) | 2:59 |
-| 149 | [Be A Clown](https://open.spotify.com/track/6NbXDlKG67qnAkkFWaqkbC) | [Roy Castle](https://open.spotify.com/artist/324xt1Bk9XVPyKcdPp6Fvw) | [Singin' in the Rain \(Original Cast Recording\)](https://open.spotify.com/album/0gkUILRS323Or4XhOPHMhn) | 2:23 |
-| 150 | [Main Titles](https://open.spotify.com/track/0EC669zWXQlHL4Sa6GR1Qh) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:56 |
+| 149 | [Main Titles](https://open.spotify.com/track/0EC669zWXQlHL4Sa6GR1Qh) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:56 |
+| 150 | [Be A Clown](https://open.spotify.com/track/6NbXDlKG67qnAkkFWaqkbC) | [Roy Castle](https://open.spotify.com/artist/324xt1Bk9XVPyKcdPp6Fvw) | [Singin' in the Rain \(Original Cast Recording\)](https://open.spotify.com/album/0gkUILRS323Or4XhOPHMhn) | 2:23 |
 | 151 | [Queen Of Terre Haute/you've Got That Thing/you Don't Know Paris/you Do Something To Me](https://open.spotify.com/track/11em19Uiy6JeRxWj2r7t7a) | [Julie Wilson](https://open.spotify.com/artist/1fhAvBp1YOYqUG4ArrvRil) | [Cole Porter Songbook](https://open.spotify.com/album/7gKapxvZW2RTjpTcWamiTS) | 6:05 |
 | 152 | [Everybodee Who's Anybodee \(2023 Remastered\)](https://open.spotify.com/track/5tyh8O3H5Jkvfs6vkQwGpW) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:28 |
 | 153 | [Allez\-Vous\-En](https://open.spotify.com/track/7sknEj9q99PrdxoonlAniZ) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv) | 2:29 |
@@ -225,8 +225,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 215 | [Du hast mich ganz in der Hand \(I've Got You Under My Skin\)](https://open.spotify.com/track/61IzE2msyKWuVmbrFhz9Sb) | [Harald Juhnke](https://open.spotify.com/artist/7bny6ijof5zpSXItB4GOJa) | [Juhnke singt Sinatra](https://open.spotify.com/album/2mQDPrwiQcwNhmVLeUSKk4) | 3:32 |
 | 216 | [Please Don't Monkey with Broadway \- Live](https://open.spotify.com/track/0TbZpSsxAG9ZMGXtSPyboJ) | [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944) | [Don't Monkey with Broadway](https://open.spotify.com/album/1eVafW9rQalPNTEx5E6UAL) | 4:20 |
 | 217 | [Hot\-House Rose](https://open.spotify.com/track/5qnEOitJEK4iIOsY1NUlOF) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [A Ghost of a Chance](https://open.spotify.com/album/0Z6PwRMIfCvdxGSESU3ejc) | 2:51 |
-| 218 | [Where Would You Get your Coat?](https://open.spotify.com/track/70KYvjr7X2pqjmdoQXkPmo) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [James Burton](https://open.spotify.com/artist/1EvUzSfe6ugdolKPfGNWsq) | [The Cole Porter Songbook](https://open.spotify.com/album/6PNkhsKP6u3qreme9ZFPGJ) | 3:04 |
-| 219 | [Let's Not Talk About Love](https://open.spotify.com/track/1XBi1XTuFppw1N8B8pirIs) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:39 |
+| 218 | [Let's Not Talk About Love](https://open.spotify.com/track/1XBi1XTuFppw1N8B8pirIs) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:39 |
+| 219 | [Where Would You Get your Coat?](https://open.spotify.com/track/70KYvjr7X2pqjmdoQXkPmo) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [James Burton](https://open.spotify.com/artist/1EvUzSfe6ugdolKPfGNWsq) | [The Cole Porter Songbook](https://open.spotify.com/album/6PNkhsKP6u3qreme9ZFPGJ) | 3:04 |
 | 220 | [From Alpha to Omega](https://open.spotify.com/track/0gUWRzwRKeerxnDx3wL3KO) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 3:44 |
 | 221 | [If You Could Love Me \(Featuring Carol Sloane\)](https://open.spotify.com/track/28h6egoNyIIKaZFmhN6tOY) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [We'll Meet Again](https://open.spotify.com/album/3vu9tCv3cuJZAeDth8BVZU) | 2:37 |
 | 222 | [Katie Went to Haiti](https://open.spotify.com/track/6Xs8K243Bssx5oRk6KLFQ9) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 4:39 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 390 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 391 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcAzpgAAAABpkJtHM4xqwGbbBE0FJX+O`
+Snapshot ID: `AcA5KAAAAABSPCbSkiAj418HTCR/fdr0`

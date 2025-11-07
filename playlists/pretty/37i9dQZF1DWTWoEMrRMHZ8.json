@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberto Menescal, Cris Delanno",
-  "num_followers": 353510,
+  "num_followers": 353534,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Pra Ningu\u00e9m",
-        "url": "https://open.spotify.com/album/480L86noYW4ujrmM0l4IDD"
-      },
-      "artists": [
-        {
-          "name": "Nai\u00e1 Camargo",
-          "url": "https://open.spotify.com/artist/5fJGbyksodtu1gwpmQq5cC"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 194408,
-      "name": "Pra Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/6Ss8ip2es8NcUyl2EPZjbg"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "JV30 Tour, Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
       },
@@ -387,22 +367,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "V\u00eanus ou Urano",
-        "url": "https://open.spotify.com/album/0ssQblTZnokL6My66du4bc"
-      },
-      "artists": [
-        {
-          "name": "Tom Ribeira",
-          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "V\u00eanus ou Urano",
-      "url": "https://open.spotify.com/track/2HAc5gtooAY2DszxIEQMC8"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Olho D'\u00c1gua",
         "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
@@ -415,6 +379,42 @@
       "duration_ms": 188064,
       "name": "Deleita",
       "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Pra Ningu\u00e9m",
+        "url": "https://open.spotify.com/album/480L86noYW4ujrmM0l4IDD"
+      },
+      "artists": [
+        {
+          "name": "Nai\u00e1 Camargo",
+          "url": "https://open.spotify.com/artist/5fJGbyksodtu1gwpmQq5cC"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 194408,
+      "name": "Pra Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/6Ss8ip2es8NcUyl2EPZjbg"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "V\u00eanus ou Urano",
+        "url": "https://open.spotify.com/album/0ssQblTZnokL6My66du4bc"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "V\u00eanus ou Urano",
+      "url": "https://open.spotify.com/track/2HAc5gtooAY2DszxIEQMC8"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Botucatu",
-        "url": "https://open.spotify.com/album/5M1oyuqRTjRFppGZ9pfLyH"
-      },
-      "artists": [
-        {
-          "name": "Tom Ribeira",
-          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Botucatu",
-      "url": "https://open.spotify.com/track/3C94btpZ1mmmVY9oBFQflj"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
         "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 266302,
       "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
       "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Botucatu",
+        "url": "https://open.spotify.com/album/5M1oyuqRTjRFppGZ9pfLyH"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Botucatu",
+      "url": "https://open.spotify.com/track/3C94btpZ1mmmVY9oBFQflj"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "Let It Burn / Deixa Arder",
+        "url": "https://open.spotify.com/album/7yu9tBaLdNgumcDuSE3uc9"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 290986,
+      "name": "Hora H",
+      "url": "https://open.spotify.com/track/2zjX4zxJWkaADRK4sYbYLM"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Todo carnaval tem seu fim",
         "url": "https://open.spotify.com/album/1hpYnot4DYD0jace4qsKnL"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 140100,
       "name": "Todo carnaval tem seu fim",
       "url": "https://open.spotify.com/track/5ggN8QDm492S8wQpb451Ks"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Let It Burn / Deixa Arder",
-        "url": "https://open.spotify.com/album/7yu9tBaLdNgumcDuSE3uc9"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 290986,
-      "name": "Hora H",
-      "url": "https://open.spotify.com/track/2zjX4zxJWkaADRK4sYbYLM"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -999,30 +999,18 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "\u00c2nima",
-        "url": "https://open.spotify.com/album/3MnVyMkVVuIw3oXUGsQCMh"
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
       },
       "artists": [
         {
           "name": "Z\u00e9 Ibarra",
           "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        },
-        {
-          "name": "Dora Morelenbaum",
-          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 191281,
-      "name": "\u00c2nima",
-      "url": "https://open.spotify.com/track/32729XuPuPb5aYlhFgfeje"
+      "duration_ms": 250000,
+      "name": "Infinito em n\u00f3s",
+      "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1119,50 +1107,30 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+        "name": "\u00c2nima",
+        "url": "https://open.spotify.com/album/3MnVyMkVVuIw3oXUGsQCMh"
       },
       "artists": [
         {
           "name": "Z\u00e9 Ibarra",
           "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Infinito em n\u00f3s",
-      "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Confiss\u00f5es (De Amor) vol.1",
-        "url": "https://open.spotify.com/album/6Q7E5DR26dRDmsRpZzq5bN"
-      },
-      "artists": [
+        },
         {
-          "name": "Isabella Taviani",
-          "url": "https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK"
-        }
-      ],
-      "duration_ms": 226076,
-      "name": "Flechas Na Parede",
-      "url": "https://open.spotify.com/track/0WoONZ0VAea84s3D8OV2iD"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
-      },
-      "artists": [
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+      "duration_ms": 191281,
+      "name": "\u00c2nima",
+      "url": "https://open.spotify.com/track/32729XuPuPb5aYlhFgfeje"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1183,6 +1151,38 @@
       "duration_ms": 213377,
       "name": "Bananeira",
       "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Confiss\u00f5es (De Amor) vol.1",
+        "url": "https://open.spotify.com/album/6Q7E5DR26dRDmsRpZzq5bN"
+      },
+      "artists": [
+        {
+          "name": "Isabella Taviani",
+          "url": "https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK"
+        }
+      ],
+      "duration_ms": 226076,
+      "name": "Flechas Na Parede",
+      "url": "https://open.spotify.com/track/0WoONZ0VAea84s3D8OV2iD"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Universo de Paix\u00e3o",
-        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
-      },
-      "artists": [
-        {
-          "name": "Natascha Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Melhor Assim",
-      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Baianidade Nag\u00f4",
         "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 222000,
       "name": "Baianidade Nag\u00f4",
       "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+      },
+      "artists": [
+        {
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Fico a Fim",
-        "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        },
-        {
-          "name": "Milton Guedes",
-          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Fico a Fim",
-      "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Alma Turva",
         "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
       },
@@ -1527,38 +1507,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Ponteio",
-        "url": "https://open.spotify.com/album/1QikW9TjtBP3uRLbuoiK7V"
+        "name": "Fico a Fim",
+        "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
       },
       "artists": [
         {
-          "name": "Chico Lobo",
-          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
-        }
-      ],
-      "duration_ms": 222877,
-      "name": "Ponteio",
-      "url": "https://open.spotify.com/track/1Wd3Pm0uPJQjsAqAQP6fWy"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Branco",
-        "url": "https://open.spotify.com/album/2FQBFjNRtYj8CvBxtAgwil"
-      },
-      "artists": [
-        {
-          "name": "Douglas Germano",
-          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
         },
         {
-          "name": "Henrique Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/60boj7zwzhQFeEazW1hDjl"
+          "name": "Milton Guedes",
+          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
         }
       ],
-      "duration_ms": 217840,
-      "name": "Na Ronda",
-      "url": "https://open.spotify.com/track/0VpM9cCo1I1lQMm8acFzUt"
+      "duration_ms": 190000,
+      "name": "Fico a Fim",
+      "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1583,6 +1547,42 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "Branco",
+        "url": "https://open.spotify.com/album/2FQBFjNRtYj8CvBxtAgwil"
+      },
+      "artists": [
+        {
+          "name": "Douglas Germano",
+          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
+        },
+        {
+          "name": "Henrique Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/60boj7zwzhQFeEazW1hDjl"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Na Ronda",
+      "url": "https://open.spotify.com/track/0VpM9cCo1I1lQMm8acFzUt"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Ponteio",
+        "url": "https://open.spotify.com/album/1QikW9TjtBP3uRLbuoiK7V"
+      },
+      "artists": [
+        {
+          "name": "Chico Lobo",
+          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
+        }
+      ],
+      "duration_ms": 222877,
+      "name": "Ponteio",
+      "url": "https://open.spotify.com/track/1Wd3Pm0uPJQjsAqAQP6fWy"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "50 (Ao Vivo)",
         "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
       },
@@ -1595,26 +1595,6 @@
       "duration_ms": 263014,
       "name": "Divina Com\u00e9dia Humana - Ao Vivo",
       "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Donatural (Ao Vivo)",
-        "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1yKaNMUreBaOTlGMjGS1na"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Balan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1635,6 +1615,26 @@
       "duration_ms": 211000,
       "name": "Samba e Amor",
       "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Donatural (Ao Vivo)",
+        "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1yKaNMUreBaOTlGMjGS1na"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Balan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
     },
     {
       "added_at": "2025-10-25 00:51:33",

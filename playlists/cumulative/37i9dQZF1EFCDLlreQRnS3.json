@@ -614,6 +614,28 @@
     {
       "album": {
         "name": "Erase",
+        "url": "https://open.spotify.com/album/4VC1vcqYAFhRJnc1v4wLML"
+      },
+      "artists": [
+        {
+          "name": "POOLCLVB",
+          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
+        },
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239506,
+      "name": "Erase",
+      "url": "https://open.spotify.com/track/4Ak5fQbKiNLFoi4MHGIi0Y"
+    },
+    {
+      "album": {
+        "name": "Erase",
         "url": "https://open.spotify.com/album/3OsfKrXEwpqJxgTJgjKHJx"
       },
       "artists": [
@@ -628,7 +650,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 239506,
       "name": "Erase",
       "url": "https://open.spotify.com/track/7FTB3muFoceoKXcWAfcPaS"
@@ -851,7 +873,7 @@
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160946,
+      "duration_ms": 161133,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/0NE5S84TrFAf22XCzd4dxb"
     },

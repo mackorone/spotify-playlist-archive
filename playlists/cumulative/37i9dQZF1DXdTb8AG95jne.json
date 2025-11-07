@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: RIO) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc0ac\ubb88 (Samui)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 163320,
       "name": "0405 (Four Five)",
       "url": "https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl"
+    },
+    {
+      "album": {
+        "name": "The Myth Of Sisyphus",
+        "url": "https://open.spotify.com/album/5IjWMwBYlFaRoPKh4aFdX4"
+      },
+      "artists": [
+        {
+          "name": "Whys Young",
+          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "1 Chance",
+      "url": "https://open.spotify.com/track/7hAbuARJpMuAnLeg9ORbwy"
     },
     {
       "album": {
@@ -4850,7 +4868,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 192462,
       "name": "End of the maze",
       "url": "https://open.spotify.com/track/7uy8kmkYUIUPmlqLwS9FgG"
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 260235,
       "name": "I\u2019m right here",
       "url": "https://open.spotify.com/track/6yTCMjFfKAb4HzoF7DGow6"
@@ -9566,7 +9584,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 200540,
       "name": "Jennie2",
       "url": "https://open.spotify.com/track/1pA9VPhiqspHAyEfe3v81W"
@@ -11686,6 +11704,28 @@
       "duration_ms": 188000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di"
+    },
+    {
+      "album": {
+        "name": "Mirror Love (Feat. NIve)",
+        "url": "https://open.spotify.com/album/0LYqX9fGYTTCJvMg6ehcVq"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        },
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Mirror Love (Feat. NIve)",
+      "url": "https://open.spotify.com/track/3i6tUg0L5wVklyUfZ1igji"
     },
     {
       "album": {
@@ -14120,6 +14160,24 @@
       "duration_ms": 190000,
       "name": "Proof of the Night (with the orchard)",
       "url": "https://open.spotify.com/track/4DgXufcByc7zrjx5H6P8ug"
+    },
+    {
+      "album": {
+        "name": "Yang",
+        "url": "https://open.spotify.com/album/01dMbBdzAQ1IGQiYiIRghw"
+      },
+      "artists": [
+        {
+          "name": "Samui",
+          "url": "https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210125,
+      "name": "Propose",
+      "url": "https://open.spotify.com/track/3KwlazkaekeKfyvDsrsrYd"
     },
     {
       "album": {

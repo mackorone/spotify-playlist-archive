@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Mago de Tarso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,934 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,933 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 7 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 | 8 | [Feito pra Voar](https://open.spotify.com/track/3QdLjFAZXYLTyZ202ltwdL) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [WR No Beat](https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Feito pra Voar](https://open.spotify.com/album/1f21dFwHjSBBddRAqoQmRl) | 2:17 |
 | 9 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 |
-| 10 | [Ta Tarde](https://open.spotify.com/track/4xLQfmGJM8UZ0Wagq3lRew) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Ta Tarde](https://open.spotify.com/album/1ERd6vDyYKNNBNcDm4HVJX) | 3:16 |
+| 10 | [Ta Tarde](https://open.spotify.com/track/4xLQfmGJM8UZ0Wagq3lRew) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Murillo e LT no Beat](https://open.spotify.com/artist/2daSsJrluv633KatAC6N2X), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq), [Fepache](https://open.spotify.com/artist/3I8Rx93ARcokQtWbVacZXX) | [Ta Tarde](https://open.spotify.com/album/1ERd6vDyYKNNBNcDm4HVJX) | 3:16 |
 | 11 | [Hoje a Noite](https://open.spotify.com/track/60uInSA1hgMBzCKg2RmyhJ) | [C.Magrão](https://open.spotify.com/artist/3B8mqc90ow6DdNdbpUZLwL), [West Reis](https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp) | [Hoje a Noite](https://open.spotify.com/album/699SLl5SBG3iJVhGaQMcPj) | 2:21 |
 | 12 | [MODO AVIÃO](https://open.spotify.com/track/3LKP3brZxhVX7dGRtMxVCN) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [3X](https://open.spotify.com/artist/46VTErrP5GnZwq602AEVLp) | [MODO AVIÃO](https://open.spotify.com/album/27syc5bsESn9o3hSu2L2z9) | 3:07 |
 | 13 | [Carolina](https://open.spotify.com/track/4QDvm5ELYUTPXEDQpMQkGS) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8) | [Carolina](https://open.spotify.com/album/0xxoQzJK8XEpWJFukN7J9E) | 2:50 |

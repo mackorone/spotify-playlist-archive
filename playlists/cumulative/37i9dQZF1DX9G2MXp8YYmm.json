@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Melis Fis",
+  "description": "Pop'un sevilen isimleri. Kapak: Ege Balkiz",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 219260,
       "name": "Kal",
       "url": "https://open.spotify.com/track/3kSt07STpxkueWtyxpmNgn"
@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 206613,
       "name": "Karal\u0131m",
       "url": "https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H"
@@ -4877,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187678,
+      "name": "Mutlu Bir Son",
+      "url": "https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq"
+    },
+    {
+      "album": {
         "name": "M\u00fcdavim",
         "url": "https://open.spotify.com/album/1nnTqKDTO9fQjkFyzxnv5j"
       },
@@ -5218,6 +5236,24 @@
       "duration_ms": 151391,
       "name": "NOLDUYSA OLDU",
       "url": "https://open.spotify.com/track/4JygvKkVjhgA2v5MNFqeEP"
+    },
+    {
+      "album": {
+        "name": "O Kap\u0131 Kapand\u0131",
+        "url": "https://open.spotify.com/album/4eCD2ParWU9MPOsmspFXoy"
+      },
+      "artists": [
+        {
+          "name": "Ege Balkiz",
+          "url": "https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172608,
+      "name": "O Kap\u0131 Kapand\u0131",
+      "url": "https://open.spotify.com/track/6pvgDOs4Ekl7UiF76yXEek"
     },
     {
       "album": {
@@ -6764,7 +6800,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 145719,
       "name": "Yan Ulan Yan",
       "url": "https://open.spotify.com/track/4keyTjLtympG8GMGH2ITUM"
@@ -7460,6 +7496,24 @@
       "duration_ms": 176190,
       "name": "Y\u0131kamazlar Beni",
       "url": "https://open.spotify.com/track/2VPE8auYaA569dbW3P96N0"
+    },
+    {
+      "album": {
+        "name": "Y\u0131k\u0131lana Kadar",
+        "url": "https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Y\u0131k\u0131lana Kadar",
+      "url": "https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss"
     },
     {
       "album": {

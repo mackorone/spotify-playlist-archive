@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non servium",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Calero LDN.",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 105545,
       "name": "Al Alba",
       "url": "https://open.spotify.com/track/15G1DnvFXxAt5mYwIISc1x"
@@ -2701,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Genocidio Americano",
+        "url": "https://open.spotify.com/album/1bM54OIZ0RxzErF3PX96XA"
+      },
+      "artists": [
+        {
+          "name": "LeySkaPunk",
+          "url": "https://open.spotify.com/artist/27eCuqP70VYBrZaXdhcayF"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184759,
+      "name": "Genocidio Americano",
+      "url": "https://open.spotify.com/track/69iw5zcO16zp05jdSrzcAu"
+    },
+    {
+      "album": {
         "name": "Gente de Bien",
         "url": "https://open.spotify.com/album/33sSPx1izCb8SVgK3fQhmA"
       },
@@ -2788,6 +2806,24 @@
       "duration_ms": 125769,
       "name": "Habitamos el vertedero",
       "url": "https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO"
+    },
+    {
+      "album": {
+        "name": "Hacienda somos todos",
+        "url": "https://open.spotify.com/album/3rCYf0aZazThKezJzR52AB"
+      },
+      "artists": [
+        {
+          "name": "Inteligente Artificial",
+          "url": "https://open.spotify.com/artist/25Cw8B1Pap84pzY0n3JvXn"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212159,
+      "name": "Hacienda somos todos",
+      "url": "https://open.spotify.com/track/4TG90FYw3XmALA06STlLGb"
     },
     {
       "album": {
@@ -3273,6 +3309,28 @@
     },
     {
       "album": {
+        "name": "Juegos Peligrosos",
+        "url": "https://open.spotify.com/album/6wuPnBSpfHLM6N8HEQ9Kwz"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        },
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195593,
+      "name": "Juegos Peligrosos",
+      "url": "https://open.spotify.com/track/3gzL8KzTAFtWcrCo9pWWiQ"
+    },
+    {
+      "album": {
         "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
         "url": "https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx"
       },
@@ -3660,7 +3718,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 157280,
       "name": "Las 13:12",
       "url": "https://open.spotify.com/track/5O6D1ZUqffHMLgzlQsVbJC"
@@ -4206,6 +4264,28 @@
       "duration_ms": 161290,
       "name": "Mi Vida sin Mi",
       "url": "https://open.spotify.com/track/2b32BQjjd7SJ2z3Y0LggLr"
+    },
+    {
+      "album": {
+        "name": "Mi \u00fanica salida",
+        "url": "https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy"
+      },
+      "artists": [
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        },
+        {
+          "name": "Endemia",
+          "url": "https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200168,
+      "name": "Mi \u00fanica salida",
+      "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
     },
     {
       "album": {
@@ -4900,7 +4980,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 214475,
       "name": "Nuestro Barrio",
       "url": "https://open.spotify.com/track/2XvTRuy9b96cMtO96fvF3w"
@@ -5332,7 +5412,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 163757,
       "name": "Por ti",
       "url": "https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV"
@@ -5520,7 +5600,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 125142,
       "name": "Psiqui\u00e1trico",
       "url": "https://open.spotify.com/track/2zjzLeLtlfaWp1ALnLGxUN"
@@ -5729,6 +5809,24 @@
     },
     {
       "album": {
+        "name": "Revi\u00e9ntales",
+        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
+      },
+      "artists": [
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Revi\u00e9ntales",
+      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
+    },
+    {
+      "album": {
         "name": "Rico deprimido (XX5)",
         "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
       },
@@ -5910,7 +6008,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 216250,
       "name": "Ser Libre",
       "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
@@ -6696,7 +6794,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 186200,
       "name": "Vaya semanita",
       "url": "https://open.spotify.com/track/4w8TbXB3frLjrHgUT7gmDI"
@@ -6847,6 +6945,28 @@
     },
     {
       "album": {
+        "name": "Vuelvo",
+        "url": "https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf"
+      },
+      "artists": [
+        {
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+        },
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176481,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0"
+    },
+    {
+      "album": {
         "name": "Y las que quedar\u00e1n",
         "url": "https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09"
       },
@@ -6938,7 +7058,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 132939,
       "name": "Ya Estoy Muerto",
       "url": "https://open.spotify.com/track/6jDOGFu4JAwSAR70L8fssV"

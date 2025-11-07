@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en Volkspop. Cover: Danny Froger",
+  "description": "Wekelijkse update met Hollands en Volkspop. Cover: Jari Hellegers & Monique Smit",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -676,7 +676,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 169804,
       "name": "Au Revoir (Het Is Klaar)",
       "url": "https://open.spotify.com/track/6Kn5izs39jLiPV09wVWBjH"
@@ -863,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Ben Je Verliefd?",
+        "url": "https://open.spotify.com/album/52bg2ZQ67d6TXMVg6Tg2uh"
+      },
+      "artists": [
+        {
+          "name": "Jari Hellegers",
+          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
+        },
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Ben Je Verliefd?",
+      "url": "https://open.spotify.com/track/0cvs1LuaTEAHmyayUg06Fy"
+    },
+    {
+      "album": {
         "name": "Beter Af Alleen",
         "url": "https://open.spotify.com/album/5nW6DK4CfTp6Z5vUj8TQKp"
       },
@@ -918,7 +940,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 133333,
       "name": "Bij Jou Zijn",
       "url": "https://open.spotify.com/track/2U1eZ2q36yoKktda6NIqrH"
@@ -1168,7 +1190,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 166010,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1"
@@ -2645,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Goud",
+        "url": "https://open.spotify.com/album/4gaHOqxgETRFxWS0g2EX8Q"
+      },
+      "artists": [
+        {
+          "name": "Guus Doggen",
+          "url": "https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156423,
+      "name": "Goud",
+      "url": "https://open.spotify.com/track/2gf4tNTtfDh8FoREZGc1aS"
+    },
+    {
+      "album": {
         "name": "Had Jij Gedacht",
         "url": "https://open.spotify.com/album/2mdwwCCw0szjoRbywp3szc"
       },
@@ -2710,7 +2750,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 160000,
       "name": "Hart Gestolen",
       "url": "https://open.spotify.com/track/4EcPj0BCuBeO3u4PmKBuSM"
@@ -2808,6 +2848,24 @@
       "duration_ms": 178826,
       "name": "Het Draaiorgel",
       "url": "https://open.spotify.com/track/3xo1gJy3MTlha5H57XjEQI"
+    },
+    {
+      "album": {
+        "name": "Het Feest",
+        "url": "https://open.spotify.com/album/3XY4O3FnxstNDyrzM6vJDp"
+      },
+      "artists": [
+        {
+          "name": "Marco de Hollander",
+          "url": "https://open.spotify.com/artist/4nwhnw1lPCR31e95U4Blir"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146116,
+      "name": "Het Feest",
+      "url": "https://open.spotify.com/track/5YW2uONKggKShivKoFMJBh"
     },
     {
       "album": {
@@ -3201,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Ik ben liever bij jou",
+        "url": "https://open.spotify.com/album/1j5Zul6E4rz66WDyIkRyMN"
+      },
+      "artists": [
+        {
+          "name": "Danny Heden",
+          "url": "https://open.spotify.com/artist/4ke8NL9UYjeuye1E3tAsEQ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "Ik ben liever bij jou",
+      "url": "https://open.spotify.com/track/4QeIOmYFxV3meRgJjiZM2f"
+    },
+    {
+      "album": {
         "name": "Ik Bewonder Jou",
         "url": "https://open.spotify.com/album/6pXXpLRnCANGGxoVzfNSMJ"
       },
@@ -3396,7 +3472,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 187619,
       "name": "Ik Laat Je Gaan",
       "url": "https://open.spotify.com/track/1RYEThhNFj7e6xquNvLVkS"
@@ -4808,7 +4884,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 213779,
       "name": "Lasso",
       "url": "https://open.spotify.com/track/5lihKgTFTQiG2j1EdqsSQc"
@@ -5484,7 +5560,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 139047,
       "name": "Muchos Licores",
       "url": "https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU"
@@ -5550,7 +5626,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 192029,
       "name": "Neem Er Nog Een",
       "url": "https://open.spotify.com/track/6aE8Z4kbnbHq16WvnYAYNo"
@@ -6154,7 +6230,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 155538,
       "name": "Parttime Verliefd",
       "url": "https://open.spotify.com/track/43ZFVTFlOJXTDQstfgB0wF"
@@ -6544,7 +6620,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 152109,
       "name": "Single Lady",
       "url": "https://open.spotify.com/track/1GGZ3uro6OnTFlOpH7OQGe"
@@ -6918,6 +6994,24 @@
       "duration_ms": 209034,
       "name": "Toen De Euro Nog Een Gulden Was",
       "url": "https://open.spotify.com/track/1DhO6d9nwWQRMM2wvH1NaG"
+    },
+    {
+      "album": {
+        "name": "Toen Ik Je Zag",
+        "url": "https://open.spotify.com/album/6IfFIgqJOuIcsJ82PBYIVt"
+      },
+      "artists": [
+        {
+          "name": "Marco Kraats",
+          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166086,
+      "name": "Toen Ik Je Zag",
+      "url": "https://open.spotify.com/track/5YAtYsrpeO9bz4ffrhrFSP"
     },
     {
       "album": {
@@ -8462,7 +8556,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 163309,
       "name": "Zeg me wat er overblijft",
       "url": "https://open.spotify.com/track/2qL7aeqirqV3aZwBNB8h1z"
@@ -8550,6 +8644,28 @@
       "duration_ms": 145866,
       "name": "Zij Is Van Mij",
       "url": "https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId"
+    },
+    {
+      "album": {
+        "name": "Zij komt van het kamp",
+        "url": "https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148806,
+      "name": "Zij komt van het kamp",
+      "url": "https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5"
     },
     {
       "album": {

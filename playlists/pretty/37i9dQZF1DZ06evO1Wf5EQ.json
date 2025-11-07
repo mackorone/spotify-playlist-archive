@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 774,
+  "num_followers": 775,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADZCCDAcyE9Yry/QluHzTJr",
+  "snapshot_id": "aQqTgAAAAABsjfrLOeKQY35gIFJ3Lneb",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
+      "duration_ms": 135493,
+      "name": "Welcome To LaBelle",
+      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 135493,
-      "name": "Welcome To LaBelle",
-      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

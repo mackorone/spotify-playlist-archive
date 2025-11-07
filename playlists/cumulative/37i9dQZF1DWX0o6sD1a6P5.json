@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Tyla",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: KeBlack x Franglish",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 164151,
       "name": "Baby (Is it a Crime)",
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 200458,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 174000,
       "name": "Cristalline",
       "url": "https://open.spotify.com/track/14AX5JL3aJjzwZB7HGqp4Q"
@@ -5910,7 +5910,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 184988,
       "name": "FASHION DESIGNA",
       "url": "https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz"
@@ -6704,6 +6704,28 @@
       "duration_ms": 137437,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
+    },
+    {
+      "album": {
+        "name": "Masta D\u00e9g\u00e2t",
+        "url": "https://open.spotify.com/album/6nYK0U8HOFENSCgntdKSFs"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Gili Gili",
+      "url": "https://open.spotify.com/track/5NLTu65fiIbo6BadXjyIYB"
     },
     {
       "album": {
@@ -10453,6 +10475,24 @@
     },
     {
       "album": {
+        "name": "mieux en mieux",
+        "url": "https://open.spotify.com/album/2O4x7UD7LHPIys6mlCJQqp"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "mieux en mieux",
+      "url": "https://open.spotify.com/track/296ihu9ccdjOhiE2igeHjZ"
+    },
+    {
+      "album": {
         "name": "MIMI",
         "url": "https://open.spotify.com/album/08XMCq1m9XS3Arnss6PwRD"
       },
@@ -10636,6 +10676,24 @@
       "duration_ms": 102840,
       "name": "Moi Aussi",
       "url": "https://open.spotify.com/track/6DAgaiDktAm2A54mViMkKs"
+    },
+    {
+      "album": {
+        "name": "MEGA BBL",
+        "url": "https://open.spotify.com/album/7DLHAP2iOziLeyJbgjLXUf"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143751,
+      "name": "MON B\u00c9B\u00c9 - Free kitty version",
+      "url": "https://open.spotify.com/track/2EQ0kb9tS2RGh30CGs3rdo"
     },
     {
       "album": {
@@ -12587,6 +12645,28 @@
     },
     {
       "album": {
+        "name": "Pas de d\u00e9tails",
+        "url": "https://open.spotify.com/album/3BhsXvgBlgl8HmHwFCRmn3"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133239,
+      "name": "Pas de d\u00e9tails",
+      "url": "https://open.spotify.com/track/52BeYE5LGLQd6bvCmes7Mw"
+    },
+    {
+      "album": {
         "name": "Peace Be Unto You (PBUY)",
         "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
       },
@@ -13321,6 +13401,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155973,
+      "name": "Pression",
+      "url": "https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS"
+    },
+    {
+      "album": {
         "name": "Pretty Girls",
         "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
       },
@@ -13624,6 +13726,24 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "album": {
+        "name": "Rebanav 126bpm",
+        "url": "https://open.spotify.com/album/1pHOXBLIMAns5o6IZl4t9M"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126106,
+      "name": "Rebanav 126bpm",
+      "url": "https://open.spotify.com/track/0zJ73feFCS8807usUclLWo"
     },
     {
       "album": {
@@ -16662,7 +16782,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 131428,
       "name": "T\u2019en fais pas",
       "url": "https://open.spotify.com/track/3RREuOcfhBFerg5EOvEG3D"
@@ -17646,7 +17766,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 142640,
       "name": "Zota (feat. Tayc)",
       "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"

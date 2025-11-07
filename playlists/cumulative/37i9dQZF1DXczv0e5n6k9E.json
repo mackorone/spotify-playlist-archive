@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Stavento, RACK",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: HermesHermes",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 209393,
       "name": "5G",
       "url": "https://open.spotify.com/track/1zFopnWXPb0lWocBU5eSnw"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 127179,
       "name": "AJO",
       "url": "https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B"
@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Lost Tapes",
+        "url": "https://open.spotify.com/album/5JwJYIEWqj4rWlvxFNutuy"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254327,
+      "name": "Bussdown UP",
+      "url": "https://open.spotify.com/track/77zAjBa4i0LeGSWGz13FvF"
+    },
+    {
+      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/4yRuE4CoGMP55QPMALlJkY"
       },
@@ -2156,6 +2174,28 @@
       "duration_ms": 151875,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/3tCqzvc2ta86sjHBDWzQsj"
+    },
+    {
+      "album": {
+        "name": "CHALGA",
+        "url": "https://open.spotify.com/album/1fJ1fRPWqkqaxk88SftC50"
+      },
+      "artists": [
+        {
+          "name": "Mpelafon",
+          "url": "https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F"
+        },
+        {
+          "name": "Aeon",
+          "url": "https://open.spotify.com/artist/5zWF4nQXb3UtlFtG7bHwRu"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "CHALGA",
+      "url": "https://open.spotify.com/track/1d65j1b6uR8SXJo6R9mM9p"
     },
     {
       "album": {
@@ -5590,7 +5630,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 186947,
       "name": "KAKO",
       "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
@@ -7454,7 +7494,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165307,
       "name": "MYSTIKO",
       "url": "https://open.spotify.com/track/3dmu95RKqKkOZbzhqVWuPk"
@@ -7944,6 +7984,28 @@
       "duration_ms": 178153,
       "name": "OE",
       "url": "https://open.spotify.com/track/6ieUZ3iDm1hlFF7TOeytTL"
+    },
+    {
+      "album": {
+        "name": "OFF LIMITS FREESTYLE",
+        "url": "https://open.spotify.com/album/1FH5JJ5521zUBuLAi8FEMG"
+      },
+      "artists": [
+        {
+          "name": "ATC Coco",
+          "url": "https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq"
+        },
+        {
+          "name": "triablo",
+          "url": "https://open.spotify.com/artist/7lbowexgD4KYoAZbttTGnr"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175199,
+      "name": "OFF LIMITS FREESTYLE",
+      "url": "https://open.spotify.com/track/7oRfyMzJ4WckCKGhJAlZyf"
     },
     {
       "album": {
@@ -11356,6 +11418,28 @@
       "duration_ms": 161235,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5cJBsrt5DhzfWdTCOpCvXK"
+    },
+    {
+      "album": {
+        "name": "TRAMPA",
+        "url": "https://open.spotify.com/album/4QF5W2vAEIbbC1tnlpudBg"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133818,
+      "name": "TRAMPA",
+      "url": "https://open.spotify.com/track/6lJ9cyqgo2xyAu12qEvYVW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,031 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,036 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 32 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
 | 33 | [Niks Te Laat](https://open.spotify.com/track/441g3bc9gbGl60UFyZdePp) | [R.M.R Music](https://open.spotify.com/artist/3QzXOzRO97jRlp2CS8giA2) | [Niks Te Laat](https://open.spotify.com/album/5WUyk7e2lVJ2bXdnQsJOag) | 2:22 |
 | 34 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
-| 35 | [Dala](https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Dala](https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ) | 2:14 |
-| 36 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
-| 37 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
+| 35 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
+| 36 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
+| 37 | [Dala](https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Dala](https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ) | 2:14 |
 | 38 | [Gun Shots](https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Gun Shots](https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff) | 2:38 |
 | 39 | [Op My Kant](https://open.spotify.com/track/2L9OtaOBouuhjveWwvXTY7) | [Lyht Skin Native](https://open.spotify.com/artist/37IbZiNUGaNzPa8Iln2mp8) | [Op My Kant](https://open.spotify.com/album/1ZWr4PND5ALJdU4HMsguPV) | 2:49 |
 | 40 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |

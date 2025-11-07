@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 226745,
       "name": "Backspegeln - Radio Edit",
       "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
@@ -13519,6 +13519,28 @@
     },
     {
       "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "album": {
         "name": "Tid & Tro",
         "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
       },
@@ -16552,7 +16574,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 187842,
       "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ"
@@ -19566,6 +19588,24 @@
       "duration_ms": 139100,
       "name": "\u00c4lskar & Hatar \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/5W2S0ISDrUGubkzo0Nja24"
+    },
+    {
+      "album": {
+        "name": "\u00c4lvsj\u00f6 Macken",
+        "url": "https://open.spotify.com/album/6tO48qyabUnpR3FFJEz3sR"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125581,
+      "name": "\u00c4lvsj\u00f6 Macken",
+      "url": "https://open.spotify.com/track/2XqUjJ0wYTDENHanyngt5T"
     },
     {
       "album": {

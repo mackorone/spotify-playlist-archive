@@ -4,7 +4,7 @@
 
 > All of it
 
-1,040 songs - 2 day 15 hr 56 min
+1,043 songs - 2 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 2:29 | 2025-06-02 |  |
 | [Clay Pigeons](https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3) | [True That](https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5) | 3:06 | 2025-06-02 |  |
 | [Clint Eastwood](https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 5:40 | 2025-09-28 |  |
+| [Cloud5](https://open.spotify.com/track/5VTmExuxOViJJJiDfecr0n) | [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Jan 14 \(Improvisations\)](https://open.spotify.com/album/71TU73D09SdHKEtW5Z91He) | 2:19 | 2025-11-06 |  |
 | [Cocaine Blues \- Live at Folsom State Prison, Folsom, CA \(1st Show\) \- January 1968](https://open.spotify.com/track/6i8SZ4NIrYeyrbBOoRSC9z) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison \(Legacy Edition\)](https://open.spotify.com/album/6wZ6UMWSAmDOCZ4ErWlqPa) | 2:49 | 2025-06-02 |  |
 | [COCAINE NOSE](https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:31 | 2025-06-10 |  |
 | [Coffin](https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Boat 3.5](https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo) | 1:29 | 2025-06-02 |  |
@@ -184,6 +185,7 @@
 | [Count to Five](https://open.spotify.com/track/4ynqq6nbZUPI0fsD5ooALh) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Stray](https://open.spotify.com/album/2cB3JYraRPrxqIODugyL6M) | 3:04 | 2025-06-02 |  |
 | [Coup de Grace](https://open.spotify.com/track/0F4qfsJvnRkqYRu51di03k) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Call of Duty: Modern Warfare 2 \(Original Game Score\)](https://open.spotify.com/album/6MLrVz0HyVkRUd9jnhagKc) | 3:21 | 2025-06-02 |  |
 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO) | 2:59 | 2025-06-02 |  |
+| [CRANK](https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:27 | 2025-11-06 |  |
 | [Crazier](https://open.spotify.com/track/3druZC9WrM7UUv82PX0SfA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:58 | 2025-06-02 |  |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2025-06-02 |  |
 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 | 2025-06-02 |  |
@@ -1039,6 +1041,7 @@
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2025-06-02 |  |
 | [『82.99 F.M』](https://open.spotify.com/track/76YGvWy36ftupwff9SCl7J) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [A Millions Miles Away](https://open.spotify.com/album/5IrjPvqdC4Wxse4oKSwaQe) | 2:30 | 2025-06-02 |  |
 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-10-25 |  |
+| [めにしゅき♡ラッシュっしゅ！](https://open.spotify.com/track/6VlS13fWMZ1i3LSh7jczs8) | [カレンチャン \(CV\. 篠原 侑\)](https://open.spotify.com/artist/08sk9MedQdXW2VdKQudWN5), [スティルインラブ \(CV\. 宮下早紀\)](https://open.spotify.com/artist/7GGUQ2SYhGeEyHmmpE7Ke0), [フサイチパンドラ \(CV\. 佳原萌枝\)](https://open.spotify.com/artist/70lCiexGldBFP1n5Y0SyeK), [アドマイヤグルーヴ \(CV\. 鈴木日菜\)](https://open.spotify.com/artist/7ABHGwOjnyUSA4HJweyBqU), [ラッキーライラック \(CV\. 中島由貴\)](https://open.spotify.com/artist/2dZ9wJnskzGHIuRqiLwmZ5), [ラヴズオンリーユー \(CV\. 久保田未夢\)](https://open.spotify.com/artist/26OO93RbesL5b0MWWhn38K), [ステイゴールド \(CV\. 松田颯水\)](https://open.spotify.com/artist/1Sxd0rOFUWr9bXtiBNFEVe) | [めにしゅき♡ラッシュっしゅ！](https://open.spotify.com/album/099PC9ZNX7cy7P2kPuQLSx) | 3:57 | 2025-11-07 |  |
 | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla) | 2:43 | 2025-06-02 |  |
 | [ダンシング・ヒーロー（Eat You Up）](https://open.spotify.com/track/4uedOJajNogY115gktPcvI) | [Yoko Oginome](https://open.spotify.com/artist/6yqXW1ZKNeDm04DguLHoJk) | [ダンシング・ヒーロー \-ALL EAT YOU UP\-](https://open.spotify.com/album/5erkicpBG8mwa3YqMPJcv0) | 3:47 | 2025-06-02 |  |
 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 | 2025-06-13 |  |

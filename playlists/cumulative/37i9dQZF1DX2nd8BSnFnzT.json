@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Indigans",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Capital Inicial",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -4150,7 +4150,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 237366,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/50RIHpnMyCjRLrFXoVbvsM"
@@ -10644,6 +10644,24 @@
       "duration_ms": 200367,
       "name": "Vit\u00f3ria",
       "url": "https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Me Ama de Verdade?",
+        "url": "https://open.spotify.com/album/68OcBJKbDJrAi2pOgUl8l8"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205455,
+      "name": "Voc\u00ea Me Ama de Verdade?",
+      "url": "https://open.spotify.com/track/0QjmlcG6AoFfh8mC2tgtlp"
     },
     {
       "album": {

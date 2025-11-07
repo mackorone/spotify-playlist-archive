@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Musawir Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,865 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,862 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 4 | [Faasle](https://open.spotify.com/track/7gcXo2Gqoy2ETJJGYSe3p1) | [RoseMary](https://open.spotify.com/artist/1ljECzKKofnu9Uj8GoZRmZ) | [Faasle](https://open.spotify.com/album/3iQec3UUZpl8CshjIXy0iD) | 4:28 |
 | 5 | [Fallin](https://open.spotify.com/track/3j3EX88a2NXuH83TmWcUkw) | [Hassaan Shaheer](https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Fallin](https://open.spotify.com/album/2ONK7BNvQAyXjAfySSgy94) | 2:42 |
 | 6 | [Chala Hoon](https://open.spotify.com/track/1Q51lid7u2sTnWy1Ea3Hbh) | [Fakhar Abbas](https://open.spotify.com/artist/7L8VPgAXW4fcZBFgtkAAEb) | [Chala Hoon](https://open.spotify.com/album/1OYWXeErd42tvTJs15KAxB) | 3:16 |
-| 7 | [Yeh Pyar Hai Khata](https://open.spotify.com/track/7mJ42DSVZIqWUXzL0PEh27) | [KHANM](https://open.spotify.com/artist/5vxQdFbSWYF1Zj99jajZU7), [hpluskbeats](https://open.spotify.com/artist/7tY5yo5Tlkx1fGvJswvZ06) | [Yeh Pyar Hai Khata](https://open.spotify.com/album/6gunz0JDoPxelGCLEjoE70) | 2:41 |
+| 7 | [Yeh Pyar Hai Khata](https://open.spotify.com/track/7mJ42DSVZIqWUXzL0PEh27) | [Khanm](https://open.spotify.com/artist/5vxQdFbSWYF1Zj99jajZU7), [hpluskbeats](https://open.spotify.com/artist/7tY5yo5Tlkx1fGvJswvZ06) | [Yeh Pyar Hai Khata](https://open.spotify.com/album/6gunz0JDoPxelGCLEjoE70) | 2:41 |
 | 8 | [Jhuki Jhuki Si Nazar](https://open.spotify.com/track/4emOxgnil4aGBtDtUgQcGf) | [Zouqan](https://open.spotify.com/artist/2IMwndXSonTHhlmMYpAlh6) | [Jhuki Jhuki Si Nazar](https://open.spotify.com/album/7cGVEAODZkCLK6FNd0tnrj) | 4:03 |
 | 9 | [Tor De](https://open.spotify.com/track/1IiwbssV6lyjdlL9RmhbeM) | [Saif Altaf](https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV) | [Tor De](https://open.spotify.com/album/6Tp2xm5aJ3t6LWw69oDww8) | 2:54 |
 | 10 | [Careless](https://open.spotify.com/track/1hOviD7txzq1DtIFskfzfP) | [JaZZy Khan](https://open.spotify.com/artist/77TyYAfI5ulj8zRHN5WHVr) | [Careless](https://open.spotify.com/album/7KLr5kv2tkq9UihNBCDycp) | 2:57 |

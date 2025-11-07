@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235758,
+      "name": "Juntos de Noche",
+      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
+    },
+    {
+      "album": {
         "name": "KHALIFA",
         "url": "https://open.spotify.com/album/1IzpYW7JPQWKu3rGkBfUFt"
       },
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 188133,
       "name": "Ni Angel Ni Demonio",
       "url": "https://open.spotify.com/track/6v0DLxSpccrL2DtemB0b56"

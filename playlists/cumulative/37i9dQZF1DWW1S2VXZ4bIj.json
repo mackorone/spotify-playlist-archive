@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 223716,
       "name": "Dream",
       "url": "https://open.spotify.com/track/78w38QMvXYulFfP6AKFVdk"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 243000,
       "name": "Home",
       "url": "https://open.spotify.com/track/0CKbKhOLeDIbApYJIuxmOf"
@@ -3091,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Salsa No Drama",
+        "url": "https://open.spotify.com/album/3o70t3Tmho35WqgblmwPuv"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Salsa No Drama",
+      "url": "https://open.spotify.com/track/50pfIFByCcalSljlTNIgrB"
+    },
+    {
+      "album": {
         "name": "Sanrio",
         "url": "https://open.spotify.com/album/0o0tRYEe92iUlP6a1LXhSR"
       },
@@ -4265,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "WHAT IF",
+        "url": "https://open.spotify.com/album/0fOn1MBcLaQ0gGusQBirRT"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252777,
+      "name": "WHAT IF",
+      "url": "https://open.spotify.com/track/2bnhi8PyiGiAMuaETsM3Ye"
+    },
+    {
+      "album": {
         "name": "What Was That",
         "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
       },
@@ -5220,6 +5256,24 @@
       "duration_ms": 259125,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e17\u0e35\u0e48\u0e22\u0e31\u0e07\u0e2b\u0e32\u0e22\u0e43\u0e08 (Carousel)",
       "url": "https://open.spotify.com/track/5MA4FJvTzWZONzg3AwjBaw"
+    },
+    {
+      "album": {
+        "name": "MONO / SPECTRUM",
+        "url": "https://open.spotify.com/album/2qOC78skUSP5Z8SmKiLjhM"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280573,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e17\u0e35\u0e48\u0e41\u0e2a\u0e19\u0e14\u0e35 (Afterglow)",
+      "url": "https://open.spotify.com/track/1at4Ge78paOwskzpaMlTHN"
     },
     {
       "album": {
@@ -7348,7 +7402,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 220666,
       "name": "\u0e21\u0e19\u0e15\u0e23\u0e32 (Mantra) Ost.\u0e40\u0e02\u0e21\u0e08\u0e34\u0e23\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e2d\u0e14",
       "url": "https://open.spotify.com/track/0HPMQDDhyiOJsaYiaofwm0"
@@ -7501,6 +7555,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e2b\u0e21 (Stars.)",
+        "url": "https://open.spotify.com/album/02xnOJjfn4ElEWuC5wmuNr"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265468,
+      "name": "\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e2b\u0e21 (Stars.)",
+      "url": "https://open.spotify.com/track/19yPX0xMXRbRVgtGc2MO1l"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
         "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
       },
@@ -7646,6 +7718,24 @@
       "duration_ms": 256178,
       "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
       "url": "https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e2a\u0e0a\u0e32\u0e15\u0e34\u0e0a\u0e35\u0e27\u0e34\u0e15",
+        "url": "https://open.spotify.com/album/716iJevJDc8Pl0nob6n891"
+      },
+      "artists": [
+        {
+          "name": "LITTLE JOHN",
+          "url": "https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "\u0e23\u0e2a\u0e0a\u0e32\u0e15\u0e34\u0e0a\u0e35\u0e27\u0e34\u0e15",
+      "url": "https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M"
     },
     {
       "album": {
@@ -8026,7 +8116,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 225440,
       "name": "\u0e25\u0e30\u0e40\u0e21\u0e2d\u0e14\u0e32\u0e27 (Starry Night)",
       "url": "https://open.spotify.com/track/6JpF08HpTe7I5IYH5nx7Rl"
@@ -9258,6 +9348,24 @@
       "duration_ms": 205434,
       "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 - BYE",
       "url": "https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 (End Of My Turn)",
+        "url": "https://open.spotify.com/album/1sLZJuUH0pNb6tf6gXTZV2"
+      },
+      "artists": [
+        {
+          "name": "guncharlie",
+          "url": "https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277533,
+      "name": "\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19 - End Of My Turn",
+      "url": "https://open.spotify.com/track/6qokdF2ulHUVKntPfgKDsu"
     },
     {
       "album": {

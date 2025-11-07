@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>CAMO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,394 likes - 101 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,523 likes - 101 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 10 | [PARTY PPL \(Feat\. Min Jiwoon\)](https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:45 |
 | 11 | [KrOWN\_pH\-1](https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KrOWN Audio liner](https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz) | 0:02 |
 | 12 | [WE GO UP](https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:06 |
-| 13 | [26](https://open.spotify.com/track/0vPeJCCqKMkkB2pROPL5Ft) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB) | 2:55 |
+| 13 | [26](https://open.spotify.com/track/0vPeJCCqKMkkB2pROPL5Ft) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB) | 2:56 |
 | 14 | [PUT SOME SWAG ON \(feat\. HAON\)](https://open.spotify.com/track/6fSv24noQCQQrGGgwDQkni) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [LUXURY TAPE](https://open.spotify.com/album/117mYi69KZXMx44muSSKwD) | 2:18 |
 | 15 | [EASIER](https://open.spotify.com/track/6pbrXEMrM1OUCRJMN086AB) | [hyeminsong](https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82), [HEO DANIEL](https://open.spotify.com/artist/7rm9HHTVczNfUIXiKdLK8m), [renko](https://open.spotify.com/artist/51V4K79oU8jmIFPfj0iMB0), [YOGI](https://open.spotify.com/artist/5BOOimuycmGF9JZuledmQf) | [\[WAH\]](https://open.spotify.com/album/2aASvtpaiCOjhNazLg4Etb) | 3:27 |
 | 16 | [We Love Hip Hop \(Feat\. The Quiett, Hangzoo, Raphael, Deepflow, KOR KASH, EPTEND, SUPERBEE\)](https://open.spotify.com/track/6Ae9Yf8ncTZy68TAQ4xZmQ) | [KAMBO](https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [Raphael](https://open.spotify.com/artist/5ZmB3eXx6oDmzicmFdcqmr), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [KOR KASH](https://open.spotify.com/artist/6opErDv4ZN3ZgbaovBUStM), [EPTEND](https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [We Love Hip Hop \(Feat\. The Quiett, Hangzoo, Raphael, Deepflow, KOR KASH, EPTEND, SUPERBEE\)](https://open.spotify.com/album/1XDSeD3wJVbh5srP6qJQKn) | 5:45 |

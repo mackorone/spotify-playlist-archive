@@ -4,7 +4,7 @@
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 16 min
+114 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [The Jade Tree Years Were My Best](https://open.spotify.com/track/5mN1F8DxZNByfHuXY11uOP) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 5:04 | 2023-02-05 | 2024-10-18 |
 | [This Side of Brightness](https://open.spotify.com/track/0cNZvYWp9jNe3dDqkKHDVv) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 0:44 | 2024-02-24 | 2024-03-11 |
 | [This Side of Brightness](https://open.spotify.com/track/0u02R9SibsR1umIC9pIH2w) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 0:44 | 2023-05-07 | 2023-05-12 |
+| [This Side of Brightness](https://open.spotify.com/track/3ySqYrMhlOfEYtPoHZaxMT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/0vkbbnIFkRRs71VBVQiKt7) | 0:44 | 2025-11-07 |  |
 | [This Years Most Open Heartbreak](https://open.spotify.com/track/1AZ8CSdziuczeW2ckUPvO2) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 2:42 | 2022-10-25 |  |
 | [To Die Like Mouchette](https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:22 | 2023-03-04 |  |
 | [Travelled](https://open.spotify.com/track/1Yw5PYhJzU3bkozXr6Bfgv) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/17ZHCpvr3faYQpgpPmjHbf) | 2:09 | 2024-11-19 | 2024-11-22 |

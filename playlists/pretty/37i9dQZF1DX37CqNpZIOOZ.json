@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26471,
+  "num_followers": 26473,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -263,30 +263,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "R. Strauss: Symphonische Dichtungen",
-        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Tonk\u00fcnstler-Orchester",
-          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 1065373,
-      "name": "Don Juan, Op. 20, TrV 156",
-      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "R. Strauss & Wagner: Lieder",
         "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
       },
@@ -307,6 +283,30 @@
       "duration_ms": 155560,
       "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3, Einerlei",
       "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "R. Strauss: Symphonische Dichtungen",
+        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Tonk\u00fcnstler-Orchester",
+          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 1065373,
+      "name": "Don Juan, Op. 20, TrV 156",
+      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -675,6 +675,30 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
+        "name": "Momentum [2]: Korngold, Strauss",
+        "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Liya Petrova",
+          "url": "https://open.spotify.com/artist/2qvBeMQglOaY0YMrAmffUh"
+        },
+        {
+          "name": "Alexandre Kantorow",
+          "url": "https://open.spotify.com/artist/1JxFyhCT2TeqHtPlAuOHF7"
+        }
+      ],
+      "duration_ms": 508453,
+      "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
+      "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
         "name": "Verklarte Nacht",
         "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 577160,
       "name": "Strauss: Capriccio, Op. 85: Einleitung",
       "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
-        "name": "Momentum [2]: Korngold, Strauss",
-        "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Liya Petrova",
-          "url": "https://open.spotify.com/artist/2qvBeMQglOaY0YMrAmffUh"
-        },
-        {
-          "name": "Alexandre Kantorow",
-          "url": "https://open.spotify.com/artist/1JxFyhCT2TeqHtPlAuOHF7"
-        }
-      ],
-      "duration_ms": 508453,
-      "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
-      "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
     },
     {
       "added_at": "2025-09-15 14:00:17",

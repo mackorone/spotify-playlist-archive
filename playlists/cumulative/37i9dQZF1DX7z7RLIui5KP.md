@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Proudly Kenyan gems made for the entire family\. Cover: Savara
+> Proudly Kenyan gems made for the entire family\. Cover: Iyaani
 
-62 songs - 3 hr 31 min
+63 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Anyango](https://open.spotify.com/track/0SE8y9q6WAsXagEir0NGZL) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Mbak Ndalo](https://open.spotify.com/album/2UKBLrYqHmrxgS5p3oWXGZ) | 5:53 | 2025-10-23 |  |
 | [Asali Mbichi](https://open.spotify.com/track/322gkQbDgQKstkJBCDIHo8) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Asali Mbichi](https://open.spotify.com/album/62onFHsinkH7RuIfFjkmfy) | 3:34 | 2025-10-23 | 2025-10-31 |
 | [Assurance](https://open.spotify.com/track/0HsFZY1LLvBI20qMtjj9j9) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Assurance](https://open.spotify.com/album/0CxUqb2AxCQTJH3bOce04X) | 4:20 | 2025-10-23 |  |
-| [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 | 2025-10-23 |  |
+| [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 | 2025-10-23 | 2025-11-07 |
 | [Bella](https://open.spotify.com/track/0bWWIJFEb2ISeN8Co41rUu) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Bella](https://open.spotify.com/album/2eGMuxWWgotUG05hPGvf5m) | 3:58 | 2025-10-23 |  |
 | [Catchi Yoh Whine](https://open.spotify.com/track/1H8bWAkucKINTrOaovslR9) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Catchi Yoh Whine](https://open.spotify.com/album/2LzuFCeZ43aPCo37S3lYZ5) | 2:30 | 2025-10-23 |  |
 | [Colors](https://open.spotify.com/track/0KRLUkUZLsIh6k6d7Vp8Ir) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Four Letter Word \(Deluxe\)](https://open.spotify.com/album/2BQcxkODkLjlM9SbwZqQS6) | 3:21 | 2025-10-23 |  |
@@ -24,7 +24,7 @@
 | [Disko](https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8) | [KODONGKLAN](https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ) | [Disko](https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo) | 3:53 | 2025-10-23 |  |
 | [Dnd](https://open.spotify.com/track/3jmXHTXgVb3QxqgVsKYPcD) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN), [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Dnd](https://open.spotify.com/album/19jEeS0wC6Bwl8zfHljd1o) | 3:35 | 2025-10-23 |  |
 | [Donjo Maber](https://open.spotify.com/track/0Qiy6PYDxjkkvB7e5KfHtk) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Dufla](https://open.spotify.com/artist/4GoDK9fd6jIRjetgGZnmnC) | [Donjo Maber](https://open.spotify.com/album/75FCGkhyIFaW0kc6HqLe8y) | 3:13 | 2025-10-23 |  |
-| [DUSH](https://open.spotify.com/track/6pX7sEFPRFSus3FaZW1MCh) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Malosh](https://open.spotify.com/artist/2rHi6os7OipEsjX669Euob) | [DUSH](https://open.spotify.com/album/5qs4q6u0nNP7e9qWSjuFff) | 3:36 | 2025-10-23 |  |
+| [DUSH](https://open.spotify.com/track/6pX7sEFPRFSus3FaZW1MCh) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Malosh](https://open.spotify.com/artist/2rHi6os7OipEsjX669Euob) | [DUSH](https://open.spotify.com/album/5qs4q6u0nNP7e9qWSjuFff) | 3:36 | 2025-10-23 | 2025-11-07 |
 | [Extra Ordinary](https://open.spotify.com/track/0AkMzBiOJXYwRLwip67XJT) | [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL), [Skoko](https://open.spotify.com/artist/5eNY0UgmboPA7FlvfWqXT3) | [Extra Ordinary](https://open.spotify.com/album/0IIH33TfqsIVLIbTQf03Ve) | 3:02 | 2025-10-23 |  |
 | [Extra Pressure](https://open.spotify.com/track/5psM7zuqtSaMnLr9WzI4s5) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [The Party & The After Party](https://open.spotify.com/album/56Kq8ZQ6hr8weMZ39FfkZq) | 2:50 | 2025-10-23 |  |
 | [Find a Feeling](https://open.spotify.com/track/58AQLwW1ig9sLuV0qBn6q6) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Dusk to Dawn](https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A) | 3:06 | 2025-10-23 |  |
@@ -68,6 +68,7 @@
 | [Taya](https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Healing](https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC) | 3:59 | 2025-10-23 |  |
 | [TIKI TAKO](https://open.spotify.com/track/2gJRqeN8Q9Yg5jpx6WKm7h) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [TIKI TAKO](https://open.spotify.com/album/5qBMXffGoDp4pPe9S7niXJ) | 3:52 | 2025-10-23 |  |
 | [TRUE LOVE](https://open.spotify.com/track/7fYxFqeGTfr9IvVBrWAyvO) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [TRUE LOVE](https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0) | 2:32 | 2025-10-23 |  |
+| [URAO](https://open.spotify.com/track/2YkHs2CKstpdS1IMglL3ke) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [URAO](https://open.spotify.com/album/1ukuZwBGNvkleDv2dCoxWk) | 3:17 | 2025-11-06 |  |
 | [Visa](https://open.spotify.com/track/1l68hLsUbeIyDhq80fCH91) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf), [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Juacali](https://open.spotify.com/artist/5EcQLJLOc9AiB2fc6ljaus) | [Visa](https://open.spotify.com/album/0e2VEvBtJCMqRJSFh3Ux5j) | 3:12 | 2025-10-23 |  |
 | [Watu Wazima](https://open.spotify.com/track/5N8eMuyG9y2QZpH7x4CCM8) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Watu Wazima](https://open.spotify.com/album/6P4fADMZCwzrCiwDrGmJw4) | 3:13 | 2025-10-23 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJSD0h3d389.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6?si=ebf55f99cddb44b9">St\. Vincent's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,473 likes - 29 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,495 likes - 29 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

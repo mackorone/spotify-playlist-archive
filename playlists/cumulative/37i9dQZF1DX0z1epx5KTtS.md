@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Team Paiya
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Roseline Layo
 
-258 songs - 14 hr 11 min
+259 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Mozo Dance](https://open.spotify.com/track/0dwgVvBmuaoiJJUOkNS8VX) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [Mozo Dance](https://open.spotify.com/album/4CfE5TqPCpZTJ5YvKAZhVb) | 3:40 | 2023-01-05 | 2023-04-07 |
 | [Médicament de femme](https://open.spotify.com/track/2jMbnufZZ6Ttu6ts4KdBaU) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Médicament de femme](https://open.spotify.com/album/03Eh386Ud0cyoZ4VkBmUUg) | 2:49 | 2024-09-19 | 2024-12-06 |
 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 | 2023-07-13 |  |
-| [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 | 2022-12-08 |  |
+| [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 | 2022-12-08 | 2025-11-07 |
 | [Nanakafra](https://open.spotify.com/track/5xeXI8AUH8HOD67jVqAczp) | [VDA](https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0) | [Nanakafra](https://open.spotify.com/album/5MMCy49BKCbOuale1Pc6Cs) | 4:08 | 2022-11-17 | 2023-01-27 |
 | [Noroyabazin \- La dance du Bazin](https://open.spotify.com/track/0916kwsuNxKSPexm1Q3UvI) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [Noroyabazin \(La dance du Bazin\)](https://open.spotify.com/album/3ytkAXd9dponFamuAexiGi) | 3:30 | 2025-09-04 | 2025-10-24 |
 | [NOVELAS](https://open.spotify.com/track/4SglQfp9apak2FDtRmkEgB) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kedjevaratitude](https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ) | 3:56 | 2024-12-05 | 2025-01-31 |
@@ -258,6 +258,7 @@
 | [X plus](https://open.spotify.com/track/6MxBbEeCOkPv6qKjGMx5SP) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Zagba Le Rekin](https://open.spotify.com/artist/5q0DkEt2KBiQhoEjBVFhwm) | [X plus](https://open.spotify.com/album/40eJ0j3pOoezKyyGK6ZBvV) | 1:25 | 2023-06-15 | 2023-10-20 |
 | [Yiri](https://open.spotify.com/track/4I3c9wYQoNJtihFna5yZes) | [Sly De Sly](https://open.spotify.com/artist/55hvy7lq6Kh8n67VmTXGKe) | [Yiri](https://open.spotify.com/album/6cgZiXODV7Mzj6URW2khZq) | 3:35 | 2023-04-06 | 2023-05-19 |
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2021-12-20 | 2022-02-19 |
+| [YOUGOUBA](https://open.spotify.com/track/5X4mslURBMq0NFMdQwAyY9) | [Aïcha Koné](https://open.spotify.com/artist/5PAmJH8CruQDoydEcCPkbL), [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [YOUGOUBA](https://open.spotify.com/album/4Hzh4YoaH6HYW3PrhF2UUW) | 3:34 | 2025-11-06 |  |
 | [Youroukou Mélangé](https://open.spotify.com/track/4ar6OBUWx8WlYq56Z9U0wD) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Ulrich Jordan](https://open.spotify.com/artist/1ukqKaYicuXndWwwhkkHiy), [Maa Bio](https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb) | [Youroukou Mélangé](https://open.spotify.com/album/49Z04lZjYqvbQRvUSk4X8R) | 4:02 | 2023-11-23 | 2024-05-03 |
 | [Zam Kolobo](https://open.spotify.com/track/4IwaX2p7t2hmafr0xMn7IR) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Zam Kolobo](https://open.spotify.com/album/6OMl0Hxq1SWD2or6216lOo) | 3:23 | 2024-12-05 | 2025-04-18 |
 | [Zambeleman](https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Bonigo](https://open.spotify.com/artist/6haKYR8zgWMWv4VK8TYBME) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 4:29 | 2021-12-20 | 2024-06-01 |

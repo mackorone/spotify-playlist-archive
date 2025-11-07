@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Saran
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,696 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,733 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [กรุงเทพมหานคร](https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:44 |
 | 2 | [สมดุลรัก \(Balance\)](https://open.spotify.com/track/2luYdyxKSSxuC3cSW8N6A0) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [สมดุลรัก \(Balance\)](https://open.spotify.com/album/27NJks9IX9VfAjgvQQRtgk) | 3:17 |
-| 3 | [Mr\. 333](https://open.spotify.com/track/143zbhp7yTYoto0mfEYOj4) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [Mr\. 333](https://open.spotify.com/album/2RBuXEM2GVjIUp4WSA0T7y) | 3:51 |
+| 3 | [Mr\. 333](https://open.spotify.com/track/143zbhp7yTYoto0mfEYOj4) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [Mr\. 333](https://open.spotify.com/album/2RBuXEM2GVjIUp4WSA0T7y) | 3:43 |
 | 4 | [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 |
 | 5 | [อยากจะมีเธอข้างกาย \(I Told My Father\)](https://open.spotify.com/track/6C0O21H2MXs0jKJrajBGa6) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [BLVCKHEART](https://open.spotify.com/album/77umFOUUMlR0gQH7LEU7EM) | 2:24 |
 | 6 | [1 OF 1](https://open.spotify.com/track/5kMl8givhqRWmrDTKauySB) | [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P) | [1 OF 1](https://open.spotify.com/album/4K9YECaZ2GRmWyfYLyNOrk) | 4:21 |

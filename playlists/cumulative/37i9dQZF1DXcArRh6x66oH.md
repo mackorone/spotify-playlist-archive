@@ -4,7 +4,7 @@
 
 > roots run deep
 
-421 songs - 1 day 1 hr 7 min
+422 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Dark Black Coal](https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 4:14 | 2023-05-05 | 2024-08-29 |
 | [Darkness](https://open.spotify.com/track/1fbOuE1vixg4Ig7gLjISKW) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Darkness](https://open.spotify.com/album/2aIJR30gN5P4dU5XT31XVC) | 3:35 | 2023-09-08 | 2024-04-19 |
 | [Darkness](https://open.spotify.com/track/3itjSLPhEeuCV05xkkesrj) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Darkness](https://open.spotify.com/album/3gXaPXe0YwGAWP4atoOWBy) | 3:35 | 2023-05-12 | 2025-06-25 |
+| [Days Are Numbered](https://open.spotify.com/track/1W0sh93nzsMbuQHrSdjYpG) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Days Are Numbered](https://open.spotify.com/album/1iZGf5BKCxiWSnVNViocOt) | 3:46 | 2025-11-06 |  |
 | [Deep Satin](https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:31 | 2023-09-22 |  |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-05-11 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-20 | 2024-04-19 |

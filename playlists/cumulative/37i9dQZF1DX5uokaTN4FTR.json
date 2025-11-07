@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: James Hype",
+  "description": "The UK's biggest dance playlist! Cover: Prospa",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -4317,6 +4317,28 @@
     },
     {
       "album": {
+        "name": "Entwined",
+        "url": "https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Entwined",
+      "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
+    },
+    {
+      "album": {
         "name": "Erase Me",
         "url": "https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX"
       },
@@ -5438,6 +5460,28 @@
       "duration_ms": 220360,
       "name": "Groove Thang",
       "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
+    },
+    {
+      "album": {
+        "name": "Guardian Angel",
+        "url": "https://open.spotify.com/album/5NO5T8NwwbpFCBpL8rFU81"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Guardian Angel",
+      "url": "https://open.spotify.com/track/7JFkL98dEjAzkGnBW8SJid"
     },
     {
       "album": {
@@ -10758,7 +10802,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 161829,
       "name": "Push The Tempo",
       "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
@@ -10970,7 +11014,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 183771,
       "name": "Raving In The Studio - Radio Edit",
       "url": "https://open.spotify.com/track/0PKttmGwwhFkM8ufPksviK"

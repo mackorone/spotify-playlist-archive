@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Mau y Rick, Lu\u00edsa Sonza, Big One",
-  "num_followers": 236648,
+  "num_followers": 236678,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,38 @@
     {
       "added_at": "2025-10-24 23:17:00",
       "album": {
+        "name": "OA",
+        "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "OA",
+      "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
+    },
+    {
+      "added_at": "2025-10-24 23:17:00",
+      "album": {
         "name": "Los del Espacio",
         "url": "https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU"
       },
@@ -623,38 +655,6 @@
       "duration_ms": 338000,
       "name": "Los del Espacio",
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
-    },
-    {
-      "added_at": "2025-10-24 23:17:00",
-      "album": {
-        "name": "OA",
-        "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "OA",
-      "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
     },
     {
       "added_at": "2025-10-24 23:17:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-10-24 23:17:00",
       "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 147482,
-      "name": "U\u00f1as Afiladas",
-      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
-    },
-    {
-      "added_at": "2025-10-24 23:17:00",
-      "album": {
         "name": "Low Key (feat. Humby)",
         "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+    },
+    {
+      "added_at": "2025-10-24 23:17:00",
+      "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 147482,
+      "name": "U\u00f1as Afiladas",
+      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
     },
     {
       "added_at": "2025-10-24 23:17:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-10-24 23:17:00",
       "album": {
+        "name": "ROMEO",
+        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190624,
+      "name": "ROMEO",
+      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
+    },
+    {
+      "added_at": "2025-10-24 23:17:00",
+      "album": {
         "name": "Parado No Bail\u00e3o (Mundial)",
         "url": "https://open.spotify.com/album/4WFcsq2CqMMDyqRn678TXn"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 192727,
       "name": "Parado No Bail\u00e3o - Mundial",
       "url": "https://open.spotify.com/track/7w60587yqlGryxSt9mAoo0"
-    },
-    {
-      "added_at": "2025-10-24 23:17:00",
-      "album": {
-        "name": "ROMEO",
-        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190624,
-      "name": "ROMEO",
-      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
     },
     {
       "added_at": "2025-10-24 23:17:00",

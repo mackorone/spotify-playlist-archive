@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Pihlaja.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa K\u00e4\u00e4rij\u00e4.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 177056,
       "name": "Janne paina kaasua (JPK)",
       "url": "https://open.spotify.com/track/3oCfkdQXRhryVoxWXB3XG2"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 163421,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/4mTMMF9JVZhYavoETEFTH9"
@@ -8026,7 +8026,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 149098,
       "name": "Mun Type",
       "url": "https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA"
@@ -8860,7 +8860,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 176466,
       "name": "Ohi on",
       "url": "https://open.spotify.com/track/0pFOmP152iHYZTzo4xzLlM"
@@ -9636,7 +9636,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 163080,
       "name": "Pasilla on!",
       "url": "https://open.spotify.com/track/3EqhX3YGyVOXp49786Wmj9"
@@ -10067,6 +10067,24 @@
     },
     {
       "album": {
+        "name": "Priimus r\u00e4kis",
+        "url": "https://open.spotify.com/album/1mf3P0xqONFtexsgS0DWkt"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146510,
+      "name": "Priimus r\u00e4kis",
+      "url": "https://open.spotify.com/track/4kZoSGZzIk0GKGugnUh1Cf"
+    },
+    {
+      "album": {
         "name": "Prinsessa (feat. baka\u00ae)",
         "url": "https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii"
       },
@@ -10382,6 +10400,24 @@
       "duration_ms": 184948,
       "name": "Rakasta mua, rakasta mua, rakasta",
       "url": "https://open.spotify.com/track/6bALO8Bm07OPy15XYp6Ojb"
+    },
+    {
+      "album": {
+        "name": "RAKASTA PLIIS",
+        "url": "https://open.spotify.com/album/7n1dE0CPZe4xstw1r5C0NK"
+      },
+      "artists": [
+        {
+          "name": "Nuppu Oinas",
+          "url": "https://open.spotify.com/artist/04EWHXfeAXqrKdqLA7bqxZ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212589,
+      "name": "RAKASTA PLIIS",
+      "url": "https://open.spotify.com/track/3z65J2cRNnbiaPfi9fa0n4"
     },
     {
       "album": {
@@ -12174,6 +12210,24 @@
       "duration_ms": 175453,
       "name": "Surulliset laulut (Karhupuisto)",
       "url": "https://open.spotify.com/track/1MxU3sn0OZKUggbNg6HZH4"
+    },
+    {
+      "album": {
+        "name": "Sururata",
+        "url": "https://open.spotify.com/album/0Pdiw6f5XK6PWItJichBuD"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181226,
+      "name": "Sururata",
+      "url": "https://open.spotify.com/track/57tYLBPHm8RMQ7NSdAhaUf"
     },
     {
       "album": {
@@ -15283,6 +15337,28 @@
     },
     {
       "album": {
+        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
+    },
+    {
+      "album": {
         "name": "Ykskaks",
         "url": "https://open.spotify.com/album/4SjCBFoMWnUVeiKhhs7stc"
       },
@@ -15566,6 +15642,24 @@
       "duration_ms": 143538,
       "name": "\u00c4l\u00e4 Lopeta",
       "url": "https://open.spotify.com/track/4jEKDWQ8dVGLhr1ryA9cbl"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Kulta",
+          "url": "https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172924,
+      "name": "\u00c4l\u00e4 pyyd\u00e4 mua p\u00e4\u00e4tt\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-309 songs - 17 hr 49 min
+311 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Big Star](https://open.spotify.com/track/1OYm550Z5CXhmVCyBv8GmK) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Big Star](https://open.spotify.com/album/1XyeYWuGlyLuUiHQoqF3j3) | 3:42 | 2024-08-15 | 2024-11-08 |
 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 | 2024-05-20 | 2025-01-31 |
 | [BITE BACK](https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [BITE BACK](https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr) | 3:45 | 2025-04-17 |  |
-| [Blister](https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Blister](https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi) | 2:59 | 2025-05-29 |  |
+| [Blister](https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Blister](https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi) | 2:59 | 2025-05-29 | 2025-11-07 |
 | [Blue Eyed Māori](https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R) | 3:16 | 2024-05-20 |  |
 | [Body](https://open.spotify.com/track/1fl7OiMREgGebEZtqXi17j) | [Isla Noon](https://open.spotify.com/artist/14DaqRFdDOsSnbpw4cNhku) | [Body](https://open.spotify.com/album/5oonGFobUjrE4zPb1a8TFV) | 3:16 | 2024-05-20 | 2024-08-16 |
 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 | 2024-05-20 |  |
@@ -65,7 +65,7 @@
 | [Cotton Mouth](https://open.spotify.com/track/0bL1roUjcKiJH3ReN9s6e8) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Cotton Mouth](https://open.spotify.com/album/5QdUJQ0MYLiuIJDQnzJitj) | 4:08 | 2025-03-20 | 2025-03-28 |
 | [Country Plaines](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 | 2024-08-15 | 2025-01-24 |
 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 | 2024-12-12 |  |
-| [Cross My Heart and Hope to Die](https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Cross My Heart and Hope to Die](https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO) | 3:14 | 2025-07-24 |  |
+| [Cross My Heart and Hope to Die](https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Cross My Heart and Hope to Die](https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO) | 3:14 | 2025-07-24 | 2025-11-07 |
 | [Crush](https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Kyla Imani](https://open.spotify.com/artist/6FKeUu8U16w2fzH1vLxPkg) | [Crush](https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok) | 2:52 | 2024-09-12 | 2024-12-12 |
 | [Damage](https://open.spotify.com/track/0vA9qHaTdCScEdroJiwHh3) | [Josh Mac](https://open.spotify.com/artist/4ZCUxlob32idKOM4mIP76L) | [Damage](https://open.spotify.com/album/6C7IFGbtla4IIQChPZHn8n) | 2:53 | 2024-05-20 | 2024-11-08 |
 | [Dangerous Day To Be A Cold One](https://open.spotify.com/track/6TC34kpjqTVezIgQuEnJnG) | [DARTZ](https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi) | [Dangerous Day To Be A Cold One](https://open.spotify.com/album/1frHY9qLRKhJTYhxrsilJi) | 2:59 | 2024-05-20 | 2024-11-08 |
@@ -86,6 +86,7 @@
 | [Don't Wait for Me to Be What You Want Me to Be](https://open.spotify.com/track/5YxYUGOFCEykntX1AYYqK4) | [Tablefox](https://open.spotify.com/artist/6CqjVdTvys0JpDoWs7FsBo) | [Don't Wait for Me to Be What You Want Me to Be](https://open.spotify.com/album/2HbSx1TVZbDgRCZsFNByMA) | 3:16 | 2024-05-20 | 2024-11-08 |
 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 | 2024-09-19 | 2025-06-01 |
 | [Done Did It \- Revival 2.0](https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Done Did It \(Revival 2.0\)](https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR) | 3:39 | 2025-10-09 |  |
+| [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 | 2025-11-06 |  |
 | [Driftwood](https://open.spotify.com/track/6wRGndiL768o93yms0HdL8) | [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi) | [Driftwood](https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX) | 4:28 | 2024-05-20 | 2024-11-14 |
 | [Drinking In The Morning](https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu) | [Home Brew](https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH) | [Run It Back](https://open.spotify.com/album/58XdVll8nynryYv4602rua) | 3:53 | 2024-05-20 | 2024-11-28 |
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-05-20 | 2024-11-08 |
@@ -228,6 +229,7 @@
 | [Poster Child](https://open.spotify.com/track/4sDjLipNP96jVxQHUcHUdy) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Poster Child](https://open.spotify.com/album/5IFuUoLgYyVAWR9BJp7Ytn) | 3:22 | 2024-09-19 | 2024-11-08 |
 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 | 2024-08-15 | 2025-04-16 |
 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 | 2024-05-20 |  |
+| [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [](https://open.spotify.com/album/null) | 2:49 | 2025-11-06 |  |
 | [Problem](https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [AP](https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm) | [Problem](https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97) | 3:12 | 2024-10-24 | 2025-01-14 |
 | [Problem](https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Problem](https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD) | 3:58 | 2025-01-30 |  |
 | [Read Receipts](https://open.spotify.com/track/4vNtMNmb1bMVWQ29sSzMEb) | [Ella Minehan](https://open.spotify.com/artist/73WeJhBBrjJ8MhWBz0jtDU) | [Read Receipts](https://open.spotify.com/album/0ev9T3dsXGzWvvZt4hToyn) | 2:41 | 2024-05-20 | 2024-11-08 |

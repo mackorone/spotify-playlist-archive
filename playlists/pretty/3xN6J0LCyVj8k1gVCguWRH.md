@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,841 likes - 183 songs - 10 hr 50 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,826 likes - 183 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

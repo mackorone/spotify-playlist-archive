@@ -4,10 +4,11 @@
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer, Bennett Coast, and Pegassi.
 
-808 songs - 1 day 21 hr 54 min
+808 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/49kWy3eczIlRPkmuSGKbFx) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Heavens](https://open.spotify.com/album/1MckKvOc9ljn03AgK7CuMT) | 0:00 | 2025-04-25 |  |
 | [\#19](https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#19](https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss) | 10:14 | 2024-06-22 | 2024-11-28 |
 | [\#PURRR](https://open.spotify.com/track/7l2uFr3nx6AIMaumhzhD3v) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C), [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o) | [\#STILLSWAGGIN](https://open.spotify.com/album/5eFp0ddIuHk037ATF3I0Uj) | 2:45 | 2024-11-27 | 2025-01-26 |
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-06-03 | 2022-08-06 |
@@ -324,7 +325,6 @@
 | [Heatstroke](https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Heatstroke](https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ) | 2:46 | 2024-06-07 | 2025-02-15 |
 | [Heaven in Your Head](https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Nuclear Daisies](https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF) | 3:14 | 2025-01-25 | 2025-07-25 |
 | [Heaven or Not \- AMÉMÉ Remix](https://open.spotify.com/track/1X1DOR4j3Ztmad5nEPgfEz) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Heaven or Not \(AMÉMÉ Remix\)](https://open.spotify.com/album/5EFiIqfdukR7UWW3QWmLfB) | 2:57 | 2024-07-19 | 2025-01-26 |
-| [Heavens](https://open.spotify.com/track/49kWy3eczIlRPkmuSGKbFx) | [Goner](https://open.spotify.com/artist/2zubb88j9raZCaoyXih0iT) | [Heavens](https://open.spotify.com/album/1MckKvOc9ljn03AgK7CuMT) | 1:37 | 2025-04-25 |  |
 | [Heavy On My Heart](https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced, Pt\. 2](https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p) | 2:42 | 2024-06-07 | 2024-11-16 |
 | [Hello There \- VIP](https://open.spotify.com/track/1UTXMYlaH5yZZksc9xKZEq) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Very Important Music](https://open.spotify.com/album/1hSyRaCKfMvbiTXXtlHW46) | 2:39 | 2022-06-03 | 2022-08-06 |
 | [Hi Hater Maino](https://open.spotify.com/track/0xWfbItbiAX3gFQPW9M99u) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [Grey Sky London](https://open.spotify.com/album/4ByJxSEqBj5myVIGbqiNuI) | 2:06 | 2024-12-18 | 2025-10-30 |

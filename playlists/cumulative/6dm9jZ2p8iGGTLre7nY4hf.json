@@ -3401,24 +3401,6 @@
     },
     {
       "album": {
-        "name": "Hopelessly hopeless",
-        "url": "https://open.spotify.com/album/47GMfYxS0DzitLq9BiWjOU"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "date_added": "2023-09-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204311,
-      "name": "Hopelessly hopeless",
-      "url": "https://open.spotify.com/track/3dFjXh41qqEUyp45yfY26b"
-    },
-    {
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6H6uDM9YdkVdXDUzDpO0wZ"
       },
@@ -3434,6 +3416,24 @@
       "duration_ms": 204479,
       "name": "Hopelessly hopeless",
       "url": "https://open.spotify.com/track/64qDMtMORccb6NRgvtCYR0"
+    },
+    {
+      "album": {
+        "name": "Hopelessly hopeless",
+        "url": "https://open.spotify.com/album/47GMfYxS0DzitLq9BiWjOU"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205191,
+      "name": "Hopelessly hopeless",
+      "url": "https://open.spotify.com/track/3dFjXh41qqEUyp45yfY26b"
     },
     {
       "album": {

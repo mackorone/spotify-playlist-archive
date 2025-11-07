@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-447 songs - 1 day 2 hr 43 min
+448 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [SWTH](https://open.spotify.com/track/5ruMKE615XscqaRJsdfgdo) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [SWTH](https://open.spotify.com/album/5z01oX1fk4jBWIAhLkLc5Y) | 2:13 | 2023-05-19 | 2025-03-28 |
 | [Take My Heart](https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Josef Scott](https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS) | [Take My Heart](https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS) | 2:47 | 2025-06-06 |  |
 | [Take Time](https://open.spotify.com/track/5afQbpUjA9O6TGutLmWu1T) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Take Time](https://open.spotify.com/album/2uP1o5pKpHBqvra8grlvqW) | 3:56 | 2024-03-07 | 2025-08-15 |
+| [Taste](https://open.spotify.com/track/1zYBjrDSq2aahfQyOdL0NB) | [Alannah Chapman](https://open.spotify.com/artist/0eiHbBXXBUIcn2b34Wmx9V) | [Taste](https://open.spotify.com/album/4z672AUDrtwAGo3xNRIe7A) | 2:07 | 2025-11-06 |  |
 | [Tasty Jam](https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:10 | 2022-09-09 | 2022-09-16 |
 | [Tell Nobody](https://open.spotify.com/track/0QmsZHM9Pq98NB3IU9iQl8) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Tell Nobody](https://open.spotify.com/album/67qo0exWX8kCr2vnqPnp7d) | 1:43 | 2022-10-14 | 2025-02-07 |
 | [Temptation](https://open.spotify.com/track/4P0xXQt5mEux8WoQzo1OFS) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Temptation](https://open.spotify.com/album/6WIuLR5FOfspWPXL4P7RUj) | 3:42 | 2025-06-26 |  |

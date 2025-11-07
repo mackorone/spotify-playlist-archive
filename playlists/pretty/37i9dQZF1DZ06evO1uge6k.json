@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 258744,
+  "num_followers": 258752,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACkmpBJNznNnVwg9VVLSFLg",
+  "snapshot_id": "aQqTgAAAAADxXhuwGTjcurIiRuzxHTGy",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deguello",
         "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 204133,
       "name": "I Thank You",
       "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 144813,
-      "name": "Heard It on the X (2005 Remaster)",
-      "url": "https://open.spotify.com/track/1zYDw55mtTWD6kGOlFxIz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 221626,
       "name": "Delirious",
       "url": "https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 144813,
+      "name": "Heard It on the X (2005 Remaster)",
+      "url": "https://open.spotify.com/track/1zYDw55mtTWD6kGOlFxIz8"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Balinese (2005 Remaster)",
-      "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 213600,
       "name": "Francine",
       "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Balinese (2005 Remaster)",
+      "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
     },
     {
       "added_at": null,

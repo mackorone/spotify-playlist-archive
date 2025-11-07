@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Dude",
+  "description": "New Music from Kollywood.\nCover : Parasakthi",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -810,6 +810,28 @@
       "duration_ms": 278140,
       "name": "Aararaari Raaro",
       "url": "https://open.spotify.com/track/7bBKg5cabA2SLKVYA5oQZt"
+    },
+    {
+      "album": {
+        "name": "Aararo (From \"Arivaan\")",
+        "url": "https://open.spotify.com/album/34JilltT60dvx4tGoUF3IA"
+      },
+      "artists": [
+        {
+          "name": "ERA",
+          "url": "https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p"
+        },
+        {
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211548,
+      "name": "Aararo - From \"Arivaan\"",
+      "url": "https://open.spotify.com/track/6yt0tSSZakR0bfFrMRTJyx"
     },
     {
       "album": {
@@ -1860,6 +1882,36 @@
       "duration_ms": 248400,
       "name": "Adi Aathi",
       "url": "https://open.spotify.com/track/2KQuipQMeOPHKNMJaiUcIx"
+    },
+    {
+      "album": {
+        "name": "Adi Alaye (From \"Parasakthi\") (Tamil)",
+        "url": "https://open.spotify.com/album/39QRwJQRzgaOYuu1B7ovTg"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Ekadesi",
+          "url": "https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250212,
+      "name": "Adi Alaye (From \"Parasakthi\") (Tamil)",
+      "url": "https://open.spotify.com/track/5aFDCFvAGRBB1m0bQmaT5U"
     },
     {
       "album": {
@@ -7574,7 +7626,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 216081,
       "name": "Chikitu",
       "url": "https://open.spotify.com/track/268QzVxQvBG6neINWb8lJz"
@@ -11952,7 +12004,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 169200,
       "name": "Eppadi Vandhaayo (From \"Aaromaley\")",
       "url": "https://open.spotify.com/track/2A0JZsrJ1Nor5wtoOr9OOR"
@@ -18582,7 +18634,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 222445,
       "name": "Kaleesha",
       "url": "https://open.spotify.com/track/1x0Jfn08Bpz1pZATAW4BbT"
@@ -25028,7 +25080,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 157000,
       "name": "Mannaru Vandhaaru (From \"Aaromaley\")",
       "url": "https://open.spotify.com/track/6z0bwD6qjjyk9fl1IVjbbB"
@@ -27350,7 +27402,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190928,
       "name": "Mute Love Story (From \"Oh God Beautiful\")",
       "url": "https://open.spotify.com/track/4WlAPxUGdIrx8qOmdsJoUc"
@@ -28570,10 +28622,6 @@
         {
           "name": "Tippu",
           "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
         },
         {
           "name": "Vivek",
@@ -48578,7 +48626,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 199050,
       "name": "Varukuratha Porikuratha",
       "url": "https://open.spotify.com/track/42NjfRy9wHsiFuMIGXIVSA"
@@ -51023,6 +51071,36 @@
     },
     {
       "album": {
+        "name": "Yaavalo (From \"Indian Penal Law (IPL)\")",
+        "url": "https://open.spotify.com/album/2Mowf7UlvKpUX6wG6LAV1K"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Vinayagamoorthy",
+          "url": "https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h"
+        },
+        {
+          "name": "Shivam Mahadevan",
+          "url": "https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Yaavalo (From \"Indian Penal Law (IPL)\")",
+      "url": "https://open.spotify.com/track/58M2Sj7JGLoQkIOSTlxO6L"
+    },
+    {
+      "album": {
         "name": "Modern Love (Chennai) [Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3YdrTcu1YnQAcjJwnNeYgI"
       },
@@ -51710,6 +51788,32 @@
       "duration_ms": 228792,
       "name": "Yennai Izhukkuthadi (From \"Kadhalikka Neramillai\")",
       "url": "https://open.spotify.com/track/7qw72jXJNBeqIMsqzvBft5"
+    },
+    {
+      "album": {
+        "name": "Yeno Indru (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/6AUBZzoyT95nF9qWJCxj0P"
+      },
+      "artists": [
+        {
+          "name": "Rakhooo",
+          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
+        },
+        {
+          "name": "Anand Kashinath",
+          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Yeno Indru - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/40xVepzK7qT60Jl3BHjRj7"
     },
     {
       "album": {

@@ -2115,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "Qalb Alwaraq Nersam",
+        "url": "https://open.spotify.com/album/7xmWTBfYQ9LKFEvx40bhyd"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Abdul Jabbar",
+          "url": "https://open.spotify.com/artist/3KbHfGyoCoOALz8Ms340Xp"
+        },
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Qalb Alwaraq Nersam",
+      "url": "https://open.spotify.com/track/2LMNbL6QJCCrvRHH75Firl"
+    },
+    {
+      "album": {
         "name": "Qalt Habiby",
         "url": "https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG"
       },
@@ -2776,7 +2798,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 360720,
       "name": "Ya Nadmanah",
       "url": "https://open.spotify.com/track/43U6XTwaYlxPHy5n9FpV9o"

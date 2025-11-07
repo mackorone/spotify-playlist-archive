@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Vicious Delicious",
+        "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR"
+    },
+    {
+      "album": {
         "name": "Al\u0113",
         "url": "https://open.spotify.com/album/4BtZO261sAsq1ntXksWh5M"
       },
@@ -328,6 +346,24 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228920,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK"
     },
     {
       "album": {
@@ -574,6 +610,24 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
+    },
+    {
+      "album": {
+        "name": "Delay",
+        "url": "https://open.spotify.com/album/4u5PEdBoOdNSQo1KhlYSWw"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "Delay",
+      "url": "https://open.spotify.com/track/4S8ClIfm6X0ddX7YaDjx1o"
     },
     {
       "album": {
@@ -992,7 +1046,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 238223,
       "name": "In My Pocket",
       "url": "https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb"
@@ -1502,7 +1556,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 221810,
       "name": "Moonlit",
       "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
@@ -1538,7 +1592,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 292571,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS"
@@ -1574,7 +1628,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 278238,
       "name": "My Melody",
       "url": "https://open.spotify.com/track/4ktm7sS9TapvBBbYv8PrtP"
@@ -1940,7 +1994,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 201896,
       "name": "Silver Screens",
       "url": "https://open.spotify.com/track/4RVhYp02rWNYn6N35yXzxH"

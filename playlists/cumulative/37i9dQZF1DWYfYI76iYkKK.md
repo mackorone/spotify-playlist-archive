@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-566 songs - 1 day 13 hr 2 min
+569 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,12 +29,13 @@
 | [First Line Of The Poem \- Drama "Gold Leaf" Interlude Song](https://open.spotify.com/track/3c4wRhdKdqz9JVohaxtlrJ) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [First Line Of The Poem \(Drama "Gold Leaf" Interlude Song\)](https://open.spotify.com/album/1DFsZyg7tE097RWIRnmMJK) | 3:24 | 2022-06-30 | 2022-07-18 |
 | [floaty shit](https://open.spotify.com/track/3UEETfeyusWAR18Ezx9XtW) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [floaty shit](https://open.spotify.com/album/3KG2Ff8KlXORaMfz8GjrGk) | 3:00 | 2022-06-16 | 2022-06-18 |
 | [fly\-電影「少年的你」片尾曲](https://open.spotify.com/track/0hkVJLQyaFdcNf5qP9WPH1) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [fly\-電影「少年的你」片尾曲](https://open.spotify.com/album/75sHDtjuwNapWz36SqpFO8) | 3:52 | 2022-06-27 | 2022-07-13 |
+| [for angels...](https://open.spotify.com/track/5WWU0XmMNNSmtX1RA551NM) | [安雨晨](https://open.spotify.com/artist/29XVyDZjOx2IPG5AeLt7sn) | [for angels...](https://open.spotify.com/album/5tvsWenl57rbMaELgyHnqA) | 3:07 | 2025-11-06 |  |
 | [Forest \- Acoustic Version](https://open.spotify.com/track/6grcrwlyM6whOQw6lLO99e) | [元宇炘 XINA](https://open.spotify.com/artist/1gBd8Lykf7k3FfVxmUvMpb) | [Forest \(Acoustic Version\)](https://open.spotify.com/album/7v7yxaKTPGvCCSYkoT0sBa) | 3:46 | 2023-07-10 | 2023-07-21 |
 | [Friend Zone \- Acoustic Live in Brussels](https://open.spotify.com/track/0asyT3Ww3pEsNAcpYThIZV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Friend Zone \(Acoustic Live in Brussels\)](https://open.spotify.com/album/3592Y9m3MLvtYtVtPeTD8j) | 3:17 | 2022-12-15 | 2022-12-24 |
 | [goodbye](https://open.spotify.com/track/5QjpAskUdjM9WlWxFIRw2R) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [Love Always](https://open.spotify.com/album/1E9fwpS7NOI7vgZdLNUQ2u) | 3:20 | 2023-05-18 | 2023-06-02 |
 | [Goodbye](https://open.spotify.com/track/6T5q14efHAPW2OmRb5GBGk) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [HIDEOUT](https://open.spotify.com/album/7HEDhuRGJSCRS6oJ50i72L) | 4:00 | 2023-07-20 | 2023-08-11 |
 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 | 2022-07-28 |  |
-| [Hopeless Romantic](https://open.spotify.com/track/5KrIEQd14DaKAwzB8IHCPU) | [JEANTONIC](https://open.spotify.com/artist/7qCy3fmej0SUb1DJ5wOsXp) | [Mind The Gap](https://open.spotify.com/album/79mmqhJf93Fhs3EJi1Qnaj) | 3:21 | 2025-10-30 |  |
+| [Hopeless Romantic](https://open.spotify.com/track/5KrIEQd14DaKAwzB8IHCPU) | [JEANTONIC](https://open.spotify.com/artist/7qCy3fmej0SUb1DJ5wOsXp) | [Mind The Gap](https://open.spotify.com/album/79mmqhJf93Fhs3EJi1Qnaj) | 3:21 | 2025-10-30 | 2025-11-07 |
 | [How Are You Now](https://open.spotify.com/track/78DpzUFJxXDenJg5YCztaA) | [黃號](https://open.spotify.com/artist/6qtpMdYXlctoS7te9gBcdG) | [How Are You Now](https://open.spotify.com/album/32oXNyLRHjA62SOvlxzy6j) | 2:14 | 2022-10-06 | 2022-10-18 |
 | [I Know You Know \- 電視劇《我的真朋友》主題曲](https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK) | [李治廷](https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd) | [I Know You Know\-電視劇《我的真朋友》主題曲](https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ) | 4:04 | 2022-06-02 | 2023-05-14 |
 | [I LOVE US \(feat\. 魏如萱\)](https://open.spotify.com/track/5Hx70gaTOskx491BGtZoNR) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 3:34 | 2024-12-13 | 2025-03-12 |
@@ -42,6 +43,7 @@
 | [infinity 永遠永遠](https://open.spotify.com/track/7LAp8srCLbQdUOpP9w8T2Z) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [黃偉晉](https://open.spotify.com/artist/1LfGS4Ko1gqgvZ8f1hAG7D) | [infinity 永遠永遠](https://open.spotify.com/album/7Lhga1KzTYFXOwQ65wUHfP) | 3:18 | 2025-04-17 | 2025-08-06 |
 | [Insane](https://open.spotify.com/track/6dE6ffN7EnvlMoEqFM4GpF) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [Insane](https://open.spotify.com/album/0FxBqUHKHIjEt1WFwiNJy9) | 3:36 | 2023-05-18 | 2023-06-14 |
 | [It's alright \- Acoustic Version](https://open.spotify.com/track/78Ex6jtdumfA1dMjQsNjqw) | [Tamu 湯姆](https://open.spotify.com/artist/65BLUkx28ZqwImaUNRK7Wx) | [It's alright \(Acoustic Version\)](https://open.spotify.com/album/5ylsQxDeW4Alu3EUeMmP0k) | 2:52 | 2023-06-15 | 2023-07-11 |
+| [IT'S ALRIGHT!](https://open.spotify.com/track/3KUpQ6AmmLHkUBX6GQ16HT) | [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [IT'S ALRIGHT!](https://open.spotify.com/album/4zVHWcQfF0SiK9AItLT5dm) | 3:28 | 2025-11-06 |  |
 | [It's Time \- 影集《2049》插曲](https://open.spotify.com/track/7JNR8qb7kaTnutgjnZntOY) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [It's Time \(影集《2049》插曲\)](https://open.spotify.com/album/64n8dIEZz7Wy94nkT3rxIe) | 3:19 | 2022-06-10 | 2022-07-27 |
 | [Let Me Go](https://open.spotify.com/track/3mPXXU0e6toyDqBB2ZFuRs) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [A](https://open.spotify.com/album/2IkSsvBy5uMOfxhOSQQcul) | 4:18 | 2023-11-09 | 2023-11-24 |
 | [Let Me Tell You](https://open.spotify.com/track/2jTrgeZe6B8Fbx52ECTc7x) | [NEOSO](https://open.spotify.com/artist/7zAyW4IBReORwCaBXxQfNd) | [Let Me Tell You](https://open.spotify.com/album/7E2CZqo3O0RVeKK1gm7Lld) | 3:24 | 2023-05-25 | 2023-06-09 |
@@ -342,6 +344,7 @@
 | [我願意從日出陪你到日落](https://open.spotify.com/track/0BUGSFuwJPfohrdP3i4HPl) | [Potato馬鈴薯小弟](https://open.spotify.com/artist/0riRJxCMWZWKHfFcLpkpGq) | [我願意從日出陪你到日落](https://open.spotify.com/album/4or2rg2B0OkskHORnQmyEb) | 3:02 | 2024-03-14 | 2024-03-22 |
 | [或許我只需要妳](https://open.spotify.com/track/6Zag2KsCU0CDns1UpMhdtc) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [on&off](https://open.spotify.com/album/2IcRwL1HY8aZLZ567oH1YF) | 3:03 | 2023-08-03 | 2023-08-18 |
 | [房間](https://open.spotify.com/track/3WJyxHcSKh7Pd2hrp3qCn1) | [王立言](https://open.spotify.com/artist/2PS4tKSfg9pbYKXwgeD7rc) | [房間](https://open.spotify.com/album/2VkSfYSqdjyAViQtRc2gMI) | 4:47 | 2023-07-20 | 2023-08-04 |
+| [承認吧](https://open.spotify.com/track/0K43XmgRdBvhEoDUw1U45B) | [RÖRO](https://open.spotify.com/artist/6Vpl6ZfmhdyWCxwv6JTyoR) | [承認吧](https://open.spotify.com/album/2l7nyIbARPhWXKu5ZxqWpi) | 3:25 | 2025-11-06 |  |
 | [抵達之謎](https://open.spotify.com/track/2sd9LSgHVnLpfw1ZNNb3nH) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [抵達之謎](https://open.spotify.com/album/2LZlbhC0iWGxb5GXeIZSou) | 5:04 | 2023-11-23 | 2023-12-23 |
 | [拜托爱上我](https://open.spotify.com/track/3kd4yxVxMKlrjQnnNIS2FV) | [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [外南街1982](https://open.spotify.com/album/5YwEslhuCquUrP6TtSHue4) | 3:26 | 2023-03-23 | 2023-04-07 |
 | [拥抱 \- 电视剧《1234567我的朋友在这里 S2》主题曲1](https://open.spotify.com/track/2IAfD3300FjnRVMetOcgTK) | [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [拥抱 \(电视剧《1234567我的朋友在这里 S2》主题曲1\)](https://open.spotify.com/album/41hUwb6wu7XJ3hC13Z53b4) | 3:21 | 2023-08-17 | 2023-09-01 |
@@ -433,7 +436,7 @@
 | [狂風化成巨浪](https://open.spotify.com/track/0q9RHJtf1nuGx08dlCCOqy) | [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [狂風化成巨浪](https://open.spotify.com/album/7H4NcrBdY1n3pgn062ogif) | 3:56 | 2025-02-20 | 2025-02-28 |
 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 | 2022-06-02 | 2024-08-19 |
 | [理想生活](https://open.spotify.com/track/6d3IqshqaStY9Wywyvr7vZ) | [田颖](https://open.spotify.com/artist/4F4IvEpWiQnK0iFxsk8A2h) | [理想生活](https://open.spotify.com/album/0O4POduHVP0UO92U4y06Do) | 4:03 | 2024-08-08 | 2024-08-16 |
-| [理所當然的幸福 \- 影集《黑白原來是真的》主題曲](https://open.spotify.com/track/4LvObLQD0X8YHApUCl54U0) | [葛兆恩Kodii](https://open.spotify.com/artist/5kzQJzYCsjWL2Pkz8wlovS) | [理所當然的幸福 \(影集《黑白原來是真的》主題曲\)](https://open.spotify.com/album/1H7HlldLXkrcTPdpA1FDdT) | 3:31 | 2025-10-30 |  |
+| [理所當然的幸福 \- 影集《黑白原來是真的》主題曲](https://open.spotify.com/track/4LvObLQD0X8YHApUCl54U0) | [葛兆恩Kodii](https://open.spotify.com/artist/5kzQJzYCsjWL2Pkz8wlovS) | [理所當然的幸福 \(影集《黑白原來是真的》主題曲\)](https://open.spotify.com/album/1H7HlldLXkrcTPdpA1FDdT) | 3:31 | 2025-10-30 | 2025-11-07 |
 | [甘阿內 Really? \- 不插電雙女聲版](https://open.spotify.com/track/392mQWSAruZOLaeUWnpkWh) | [葉柔](https://open.spotify.com/artist/3kCo5hH1MFJ4EgXARlmWb0), [烏日高娃](https://open.spotify.com/artist/2MeJvXSc1T8gSjSj0VVNjE) | [甘阿內 Really? \(不插電雙女聲版\)](https://open.spotify.com/album/0FPfHaQm23dpvvaPt3XtNv) | 2:20 | 2023-09-28 | 2023-10-13 |
 | [生命的關於](https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0) | [觀己](https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs) | 4:08 | 2025-01-02 | 2025-01-10 |
 | [生日快乐](https://open.spotify.com/track/6XrYTSFTArO15cBUHWgPYE) | [房东的猫](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [生日快乐](https://open.spotify.com/album/5LBtkZCuAlDf44QDz52ac9) | 4:32 | 2022-12-15 | 2022-12-24 |
@@ -453,7 +456,7 @@
 | [禱文 \- OT：言不由衷](https://open.spotify.com/track/1rmOhrRj8cFpb7KEDqtdVc) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我偷的故事](https://open.spotify.com/album/0OGS09WUGC1WubJhoSAUYJ) | 3:09 | 2025-06-19 | 2025-09-21 |
 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 | 2023-10-26 | 2025-10-22 |
 | [空拍 \(Pause ll\)](https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [空拍 / 米蟲 \(Pause ll / Bugtato\)](https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3) | 4:26 | 2025-07-03 | 2025-09-15 |
-| [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 | 2022-06-02 |  |
+| [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 | 2022-06-02 | 2025-11-07 |
 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 | 2023-05-11 | 2024-04-19 |
 | [第一個清晨](https://open.spotify.com/track/4FOcKtu7mXOrnifIaif0L3) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF) | 4:46 | 2022-07-28 | 2023-04-30 |
 | [第一個清晨](https://open.spotify.com/track/7G4inajDPplF7oT27awRq5) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/2AxYgFIFbtVfCOnlPPnpPJ) | 4:46 | 2022-06-02 | 2022-07-29 |

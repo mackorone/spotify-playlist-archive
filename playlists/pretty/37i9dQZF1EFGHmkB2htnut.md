@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226 likes - 116 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 225 likes - 115 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,22 +107,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 97 | [The Sound of Being Alone](https://open.spotify.com/track/7BtLqIGu2oP1UQMggGSoeL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:36 |
 | 98 | [Blondie](https://open.spotify.com/track/0EPjScjJ9NO030XA0Etzi8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:13 |
 | 99 | [WHAT I THINK I WANT](https://open.spotify.com/track/2hqAeji1pyK2xcFK1afU4q) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:05 |
-| 100 | [magic](https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [magic](https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO) | 3:09 |
+| 100 | [magic](https://open.spotify.com/track/5sKOusTK8cOTX26ued359I) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [the love myself collection](https://open.spotify.com/album/3bCpWVnEKSaGWcEBblSzBC) | 3:09 |
 | 101 | [BLOODRUNSOUT](https://open.spotify.com/track/1f1MIRIxCGK4pYMqBk4N9t) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:43 |
 | 102 | [Teenage Boys](https://open.spotify.com/track/3t1b1SpzqIqOY60nXGHB90) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 5:17 |
-| 103 | [Paradise](https://open.spotify.com/track/5wip4kUG4ZNaiuQNMA7Bi1) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Paradise](https://open.spotify.com/album/7hwYfu5C47eUo94ybeuxVc) | 2:51 |
-| 104 | [Unfinished](https://open.spotify.com/track/6Iai60gkfj1Zj6J8GE9jcp) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [The Medicine EP](https://open.spotify.com/album/6ur7nfL407XF6cgdhzLDFz) | 3:17 |
-| 105 | [Atoms](https://open.spotify.com/track/4pwcV7gAfkM7F6Yu1YBLvJ) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:48 |
-| 106 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
-| 107 | [Swim](https://open.spotify.com/track/4eSGI45RAwuRGtKxg0IYSz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:22 |
-| 108 | [Paradise \(with will hyde\)](https://open.spotify.com/track/02GWxnELAR1fX56wUhDXgY) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl), [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Paradise \(with will hyde\)](https://open.spotify.com/album/70vurhysvs82MKdtczzUBX) | 3:08 |
-| 109 | [Spirits](https://open.spotify.com/track/7IG441XUq2Ci8e25ldND7y) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Spirits / Don’t Come to LA](https://open.spotify.com/album/2UU7XKlKhu0xvyj3Hvxzkt) | 2:47 |
-| 110 | [Quiet Games](https://open.spotify.com/track/0ZdMzT9HCbCyaNc20glcWY) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Quiet Games](https://open.spotify.com/album/5OfVx1fLaU0MpxnKic9HOf) | 3:08 |
-| 111 | [Hollywood Blvd](https://open.spotify.com/track/7uPT70qnevznWJPDyagERP) | [Celine del Carmen](https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3) | [Hollywood Blvd](https://open.spotify.com/album/6UY6KsTCaBaqZctMgSDggD) | 2:40 |
-| 112 | [Rollercoaster](https://open.spotify.com/track/0zfSnoHAtnVw4k8OfL0h8P) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Rollercoaster](https://open.spotify.com/album/5xlEdoNb8infZZohPde7IB) | 3:12 |
-| 113 | [Body](https://open.spotify.com/track/6TxdL7j5jWhXYCDlutG8gm) | [Paige Howell](https://open.spotify.com/artist/07mNuM3dompkJvQog0f8n1) | [Body](https://open.spotify.com/album/3OAXcAosWkfGQSlZpNuy3z) | 3:06 |
-| 114 | [Hey Seventeen](https://open.spotify.com/track/2kgyTEylub11rjvxOUjdhX) | [Henry Patterson](https://open.spotify.com/artist/7ag9fFv8ZHKcjh4w5J4p6P) | [The Heavy Kinda Feeling EP](https://open.spotify.com/album/09aNITIqqQVM6WDtLq1UPA) | 2:56 |
-| 115 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
-| 116 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
+| 103 | [Unfinished](https://open.spotify.com/track/6Iai60gkfj1Zj6J8GE9jcp) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [The Medicine EP](https://open.spotify.com/album/6ur7nfL407XF6cgdhzLDFz) | 3:17 |
+| 104 | [Atoms](https://open.spotify.com/track/4pwcV7gAfkM7F6Yu1YBLvJ) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:48 |
+| 105 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
+| 106 | [Swim](https://open.spotify.com/track/4eSGI45RAwuRGtKxg0IYSz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:22 |
+| 107 | [Paradise \(with will hyde\)](https://open.spotify.com/track/02GWxnELAR1fX56wUhDXgY) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl), [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Paradise \(with will hyde\)](https://open.spotify.com/album/70vurhysvs82MKdtczzUBX) | 3:08 |
+| 108 | [Spirits](https://open.spotify.com/track/7IG441XUq2Ci8e25ldND7y) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Spirits / Don’t Come to LA](https://open.spotify.com/album/2UU7XKlKhu0xvyj3Hvxzkt) | 2:47 |
+| 109 | [Quiet Games](https://open.spotify.com/track/0ZdMzT9HCbCyaNc20glcWY) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Quiet Games](https://open.spotify.com/album/5OfVx1fLaU0MpxnKic9HOf) | 3:08 |
+| 110 | [Hollywood Blvd](https://open.spotify.com/track/7uPT70qnevznWJPDyagERP) | [Celine del Carmen](https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3) | [Hollywood Blvd](https://open.spotify.com/album/6UY6KsTCaBaqZctMgSDggD) | 2:40 |
+| 111 | [Rollercoaster](https://open.spotify.com/track/0zfSnoHAtnVw4k8OfL0h8P) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Rollercoaster](https://open.spotify.com/album/5xlEdoNb8infZZohPde7IB) | 3:12 |
+| 112 | [Body](https://open.spotify.com/track/6TxdL7j5jWhXYCDlutG8gm) | [Paige Howell](https://open.spotify.com/artist/07mNuM3dompkJvQog0f8n1) | [Body](https://open.spotify.com/album/3OAXcAosWkfGQSlZpNuy3z) | 3:06 |
+| 113 | [Hey Seventeen](https://open.spotify.com/track/2kgyTEylub11rjvxOUjdhX) | [Henry Patterson](https://open.spotify.com/artist/7ag9fFv8ZHKcjh4w5J4p6P) | [The Heavy Kinda Feeling EP](https://open.spotify.com/album/09aNITIqqQVM6WDtLq1UPA) | 2:56 |
+| 114 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
+| 115 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `AcAzpgAAAABV32W8P1JUDdqvXkr0T0vE`
+Snapshot ID: `AcA5KAAAAAAA7mZCrQJPGel7yd5j5qdD`

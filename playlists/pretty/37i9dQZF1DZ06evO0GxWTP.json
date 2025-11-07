@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADoKj36OQY2Zz8e2s/8f9N9",
+  "snapshot_id": "aQqTgAAAAAC3bh/vB9FCLs1eqmfsTYvd",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 129433,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huisfeestje",
         "url": "https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 149732,
       "name": "Huisfeestje",
       "url": "https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entourage",
-        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 129433,
-      "name": "Entourage",
-      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
       "added_at": null,

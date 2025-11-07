@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Girls Gone Wild",
+        "url": "https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207443,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y"
+    },
+    {
+      "album": {
         "name": "Girls in the Hood",
         "url": "https://open.spotify.com/album/0pcFMWHPMVHE25NiT1U6Bc"
       },

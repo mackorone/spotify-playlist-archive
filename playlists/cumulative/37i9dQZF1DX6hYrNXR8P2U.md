@@ -2,9 +2,9 @@
 
 ### [piola](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> porque sí.<br/>📷 tatool y Trueno
+> porque sí.<br/>📷 Juan Ingaramo
 
-557 songs - 1 day 5 hr 9 min
+558 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 | 2024-01-19 | 2024-04-13 |
 | [Andá a la Cancha](https://open.spotify.com/track/0eaXo33CSngwxqJWrhDWen) | [This Lexia](https://open.spotify.com/artist/4x1BbPxJRLrUfKzzucRE3A) | [Andá a la Cancha](https://open.spotify.com/album/4vTIaOZic3YTcvXKhmqttx) | 2:57 | 2024-10-25 | 2024-12-07 |
 | [Animales](https://open.spotify.com/track/46qmXhh1swc3Nu2t03xaGf) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V), [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [Animales](https://open.spotify.com/album/1TRa9aFlvjPxXDeB87XGwH) | 3:03 | 2023-10-13 | 2024-03-30 |
+| [Antiguo y moderno](https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [El Verdadero](https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt) | 2:43 | 2025-11-07 |  |
 | [Arde](https://open.spotify.com/track/4p1jsL9Cx44gpmk6MvXog5) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Arde](https://open.spotify.com/album/6cz3WTr4CYyQ7Y4yos5DmT) | 3:57 | 2024-11-29 | 2025-03-01 |
 | [Arruinarse](https://open.spotify.com/track/39sttgETErQLwfc8SougBO) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Canciones del Huracan + Wonderful Noches](https://open.spotify.com/album/4h5EtTpKEa9ba7f2Ea1buJ) | 4:08 | 2024-03-22 | 2024-11-09 |
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-10-13 | 2024-02-17 |
@@ -424,7 +425,7 @@
 | [Quieto](https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5) | [Farol](https://open.spotify.com/artist/3kBISQeVHtMyOH3Va7UXqu), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf), [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [Quieto](https://open.spotify.com/album/2dqfvBw8Vgw98JL6CpqS41) | 3:03 | 2024-10-25 | 2025-09-02 |
 | [quitate las BAPE](https://open.spotify.com/track/4CWDezkT4hk8wwOOYMn1C7) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 2:01 | 2025-08-18 |  |
 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 | 2023-10-13 | 2023-11-25 |
-| [Reconquista](https://open.spotify.com/track/4toaCw2wYBZCWRTHYBkAls) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [La Gran Mañana](https://open.spotify.com/album/153GVkgZQGAAkRne4JRv6a) | 2:17 | 2025-10-10 |  |
+| [Reconquista](https://open.spotify.com/track/4toaCw2wYBZCWRTHYBkAls) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [La Gran Mañana](https://open.spotify.com/album/153GVkgZQGAAkRne4JRv6a) | 2:17 | 2025-10-10 | 2025-11-07 |
 | [Regalada](https://open.spotify.com/track/5prdR5PFc0EstPBt3C7Hzm) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Regalada](https://open.spotify.com/album/3mzdid3nobtHrId0itbfEo) | 3:30 | 2025-10-17 |  |
 | [RETIRADA](https://open.spotify.com/track/2m7Ev5rPlckRrn6HT2coGI) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:51 | 2025-02-14 |  |
 | [Revelación II](https://open.spotify.com/track/3wQ7k5JnWMGBaYtQUKP1Kg) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Revelación II](https://open.spotify.com/album/028zg81OZTtl4ZlaFOA5PA) | 3:42 | 2025-04-04 | 2025-07-05 |

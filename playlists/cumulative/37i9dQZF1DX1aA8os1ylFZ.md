@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-677 songs - 1 day 10 hr 49 min
+678 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Intentional](https://open.spotify.com/track/38jhsyeLF4zr4P5I6dMeSq) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Intentional](https://open.spotify.com/album/1Q9sstiNguU45sRy8I8iXa) | 3:14 | 2023-08-31 | 2023-09-08 |
 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 | 2023-01-12 | 2023-09-22 |
 | [It Ain't Easy](https://open.spotify.com/track/70NUQKxZwOxjp03dJOlRGH) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Lost](https://open.spotify.com/album/2pQtPvWVGYTIOuRdtcv7iw) | 2:49 | 2023-09-21 | 2023-11-10 |
-| [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP) | 4:31 | 2025-08-07 |  |
+| [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP) | 4:31 | 2025-08-07 | 2025-11-07 |
 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 | 2025-10-16 |  |
 | [It Was You](https://open.spotify.com/track/4XlUA0Yt5IN4aXccRzIB6a) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [It Was You](https://open.spotify.com/album/0KzV7YEXAJ2yOyQiXezdWC) | 2:51 | 2022-03-25 | 2022-04-22 |
 | [It's All There \(Secrets\)](https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Truth Be Told](https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg) | 3:20 | 2024-08-29 | 2025-03-08 |
@@ -575,6 +575,7 @@
 | [Take It Slow](https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:32 | 2023-01-12 | 2023-09-15 |
 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 | 2022-07-22 | 2023-01-13 |
 | [Take Mine](https://open.spotify.com/track/3xSYzg9q5ffAiYx8L9yqPd) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [Take Mine](https://open.spotify.com/album/3g1nIwPP5IssjCmr0SZQjt) | 3:05 | 2021-12-16 | 2022-07-29 |
+| [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 | 2025-11-06 |  |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 | 2023-03-01 | 2023-04-04 |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-17 |  |
 | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/track/1qA9TnEJ2sUub9QkN9K3Mv) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/album/29K1jMNI9pOIzCG3rtzm0p) | 3:19 | 2023-01-12 | 2023-03-23 |
@@ -673,7 +674,7 @@
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-09-21 | 2024-01-26 |
 | [YES IT IS](https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:48 | 2024-10-17 | 2025-06-28 |
 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-20 |  |
-| [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 | 2024-10-24 |  |
+| [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 | 2024-10-24 | 2025-11-07 |
 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 | 2025-04-01 |  |
 | [YOU](https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [TWIN FLAME](https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm) | 2:16 | 2024-11-21 |  |
 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 | 2024-03-21 | 2025-02-06 |

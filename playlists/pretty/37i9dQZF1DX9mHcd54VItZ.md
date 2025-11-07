@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Sophia Frank & Erin Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,328 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,338 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 36 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 37 | [Risk It All](https://open.spotify.com/track/6YqIL8y2yetofQGOKbaDJ6) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Risk It All](https://open.spotify.com/album/74lzPSkK7N52JYJwOcT9rq) | 3:12 |
 | 38 | [Hou Weer Moed](https://open.spotify.com/track/34pyJmYIP3R26RuFvZ0ISo) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Emile Swiegers](https://open.spotify.com/artist/1QgprmdltHPfJ6FjdXvz2i) | [Hou Weer Moed](https://open.spotify.com/album/6UJ9O5EIWbwqHDsDy9Ck8N) | 4:06 |
-| 39 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
+| 39 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 40 | [Sy Weet](https://open.spotify.com/track/2wyEESxO5fiFq5AgtJQojU) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Sy Weet](https://open.spotify.com/album/4PDJBtjCopCcMIDJhRb2r3) | 3:15 |
 | 41 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
 | 42 | [How's That Working out for You?](https://open.spotify.com/track/3rVENAsjLvnB1sR9mtjhwT) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk), [The Aviary](https://open.spotify.com/artist/0f6sCqzH0RvuY4t9TBGZnQ) | [Bird Brain](https://open.spotify.com/album/0MHpWE7p6du861PcpLNBSs) | 3:34 |
-| 43 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
-| 44 | [Doen Cool Shit](https://open.spotify.com/track/6DjQ7xUb6uofL8X7gUum8P) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Doen Cool Shit](https://open.spotify.com/album/3En5F5P3LFrHDfosi7GliO) | 3:13 |
+| 43 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
+| 44 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 45 | [Good Behaviour](https://open.spotify.com/track/3E1dODn9dYGLkpb7y3zeep) | [Cara Knox](https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR) | [Good Behaviour](https://open.spotify.com/album/40BvqT6gWkmH7YEnyYOYpf) | 3:28 |
-| 46 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
+| 46 | [Doen Cool Shit](https://open.spotify.com/track/6DjQ7xUb6uofL8X7gUum8P) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Doen Cool Shit](https://open.spotify.com/album/3En5F5P3LFrHDfosi7GliO) | 3:13 |
 | 47 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 48 | [High Roller](https://open.spotify.com/track/4UOYQpDkGR2mdU5X2WUOog) | [RICKY](https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj) | [High Roller](https://open.spotify.com/album/4RtnRoYPCKGyV2vvgLxOil) | 3:04 |
 | 49 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
-| 50 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 50 | [death\~](https://open.spotify.com/track/5PwUH6sqXKupgL1pXshfuo) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [death\~](https://open.spotify.com/album/7bjMoDctYIAITjylNYNRY2) | 1:52 |
 
 Snapshot ID: `AAAAAMuI5cica8NWtZECQkMxQ+MRi/yH`

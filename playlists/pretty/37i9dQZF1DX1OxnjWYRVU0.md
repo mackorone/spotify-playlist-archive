@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,216 likes - 370 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,204 likes - 370 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 173 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/7otY635QKBb1K4S7zA7wdu) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/2szu90gZIfigP6gL7q7TTf) | 2:16 |
 | 174 | [Be My Lover](https://open.spotify.com/track/0mQNFiamtlZF5i6DGYckTv) | [Owen Norton](https://open.spotify.com/artist/4ZjJmxiWDURUeXl9erCsE5), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Be My Lover](https://open.spotify.com/album/5xgCcYdOayE3o51kFNrEo5) | 2:30 |
 | 175 | [Daddy Cool](https://open.spotify.com/track/50rcUhHimavzT1qq6QrgMG) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Daddy Cool](https://open.spotify.com/album/7fXtm0TpLRIJhxobKDjxRp) | 2:34 |
-| 176 | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/track/4M9HS9CMxVtQ7xK1MTHTFc) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/album/7oExHqAK6BIj0gtwCRPU9K) | 2:26 |
+| 176 | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/track/4M9HS9CMxVtQ7xK1MTHTFc) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/album/7oExHqAK6BIj0gtwCRPU9K) | 2:27 |
 | 177 | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB) | 2:32 |
 | 178 | [7 rings](https://open.spotify.com/track/0YplKJH6w8wbsNt9dvNgxG) | [JOZUA](https://open.spotify.com/artist/3EkGRCAQ0KI05WeNPwUWaU), [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [7 rings](https://open.spotify.com/album/0DxMTRUbJ2xl5yeQik3J9c) | 2:25 |
 | 179 | [Calabria](https://open.spotify.com/track/1evWpIlEfSZnXtHtpILB6b) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Calabria](https://open.spotify.com/album/06nZjbZb9OdCAxkIqdNx7z) | 2:08 |

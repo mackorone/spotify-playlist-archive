@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 37 | [Instant Gratification \- Nu Aspect Remix](https://open.spotify.com/track/39dv4IPJ5amId6CCE5hvNC) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Instant Gratification \(Remixes\)](https://open.spotify.com/album/1XAZ1GKGLXdlDkLI3oYkhI) | 3:30 |
 | 38 | [Through To You](https://open.spotify.com/track/6NbawlEK1oiHcqA6rJUZuD) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [To Love You](https://open.spotify.com/album/2jo2Qi8zG7pT7sjgq9jf3k) | 3:26 |
 | 39 | [Only When You're Close](https://open.spotify.com/track/7BhxxlLcCCfvixzy8KExZv) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:44 |
-| 40 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
-| 41 | [Cheat Code](https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Cheat Code](https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW) | 2:29 |
+| 40 | [Cheat Code](https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Cheat Code](https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW) | 2:29 |
+| 41 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
 | 42 | [SHOW ME THE WAY](https://open.spotify.com/track/30Naxz6cEyiqGcv5MSVnuY) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Zadie Smith](https://open.spotify.com/artist/7N0diSByEc14gBuIstYSHB) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:40 |
 | 43 | [Mean Girls](https://open.spotify.com/track/3VJ18D4rUe0KCACLWU8gtB) | [Rachel Crow](https://open.spotify.com/artist/4TIHghOOQ0f8sxHvaV5LOx) | [Rachel Crow](https://open.spotify.com/album/3WnBI3PHFuP3iFWy6CnOUH) | 3:09 |
 | 44 | [Daybreak \(feat\. The Knocks\)](https://open.spotify.com/track/38GELrQkVj6WskiF0VrNQu) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Holiday87](https://open.spotify.com/album/2kVT1AQsUshZlMZv0w2bN0) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 99 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 100 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcAzpgAAAAC9OR6nG3kolA3z4pVqHgCE`
+Snapshot ID: `AcA5RgAAAAAiTEwgIH8Xjf576jn7g/2S`

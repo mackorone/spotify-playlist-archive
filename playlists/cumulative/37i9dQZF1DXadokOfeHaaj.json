@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "The best new electronic indie music. Cover: Me Blue",
+  "description": "The best new electronic indie music. Cover: Leon Vynehall",
   "name": "Indie Electronic ",
   "tracks": [
     {
@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 195254,
       "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 279067,
       "name": "Cruel Love",
       "url": "https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM"
@@ -2693,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Curve +1",
+        "url": "https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Handsup",
+      "url": "https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz"
+    },
+    {
+      "album": {
         "name": "Hannah (the sun)",
         "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
       },
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190733,
       "name": "Hot Like Sahara",
       "url": "https://open.spotify.com/track/5PprR3iwYeoXszUh8CLToL"
@@ -3708,6 +3726,24 @@
       "duration_ms": 419074,
       "name": "Lifetime - Planningtorock 'Let It Happen' Remix",
       "url": "https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212066,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
     },
     {
       "album": {
@@ -5103,6 +5139,28 @@
     },
     {
       "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/2wH2XtlNwmJ7PXhkS95046"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/3AR9Sugs4aT9ySDW0HxCE1"
+    },
+    {
+      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/7CKm52JVypwpu4AZUNDcCL"
       },
@@ -6036,6 +6094,28 @@
       "duration_ms": 271415,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
+    },
+    {
+      "album": {
+        "name": "Sound of You (ft TEED)",
+        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236528,
+      "name": "Sound of You (ft TEED)",
+      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
       "album": {
@@ -7660,7 +7740,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 220990,
       "name": "\u2060The Ghost of Her Smile",
       "url": "https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG"

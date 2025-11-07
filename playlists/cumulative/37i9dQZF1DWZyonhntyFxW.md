@@ -4,7 +4,7 @@
 
 > أقوى تراكات الهيب هوب في مصر غلاف: عفروتو
 
-437 songs - 21 hr 19 min
+439 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [AFREQYA W AMREKA](https://open.spotify.com/track/3h7TsXMuf0UrSWBmzmFC6Y) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:17 | 2023-05-11 | 2023-09-07 |
 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 | 2023-05-25 | 2023-07-27 |
 | [Afterparty](https://open.spotify.com/track/4WbE5qrmw9H4RVpjCns7oR) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 4:04 | 2025-08-30 |  |
+| [AGBHA](https://open.spotify.com/track/32dRw90vVNSP6gnBlqBhIE) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [AGBHA](https://open.spotify.com/album/4hMLvzASFdpJO6kNXwQ1zq) | 3:08 | 2025-11-06 |  |
 | [AHMED FALTA](https://open.spotify.com/track/4wOXh7A1amzMsHHP5Gym0T) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [FALTA](https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr) | 2:30 | 2024-09-04 | 2024-12-12 |
 | [Ahmed Santa](https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santa El Gded](https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a) | 2:31 | 2022-08-23 | 2024-02-23 |
 | [AHWAGY](https://open.spotify.com/track/37EWbHlj1GLBqC2pFT0XXh) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:21 | 2022-08-08 | 2022-11-08 |
@@ -54,6 +55,7 @@
 | [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 | 2023-10-05 | 2023-12-23 |
 | [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-05-10 | 2023-05-26 |
 | [Amar](https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:12 | 2023-07-10 | 2023-08-18 |
+| [Amen](https://open.spotify.com/track/01gp9Dm70W7nJdQcZNDYwG) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [AMEN](https://open.spotify.com/album/5ypDqZ0Gv2DROegZUqTdBS) | 1:58 | 2025-11-06 |  |
 | [AMOT ANA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:45 | 2024-08-05 | 2024-08-16 |
 | [AMTAR](https://open.spotify.com/track/5AGeNYpstVBpFn8IW2KqS7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba Bonus](https://open.spotify.com/album/1J3NZMlu9mW7W1Pjvo0jrC) | 2:48 | 2022-10-10 | 2023-03-23 |
 | [ANA DEAL](https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [ANA DEAL](https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL) | 3:15 | 2022-09-13 | 2023-06-16 |
@@ -155,7 +157,7 @@
 | [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-03 | 2024-04-15 |
 | [Freestyle](https://open.spotify.com/track/28I6S4VxP42TMjgMYszHu7) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Freestyle](https://open.spotify.com/album/33Z8BT35ZwgYBRREcKiwCg) | 2:29 | 2022-12-22 | 2023-03-07 |
 | [Freska](https://open.spotify.com/track/4FhQTFKjtl4wAxmN8Mw5Mr) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Freska](https://open.spotify.com/album/3VZtMMJcdfXYwMtonjM534) | 2:12 | 2022-12-22 | 2023-09-10 |
-| [GABOLNA HKOMA](https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:03 | 2024-05-24 |  |
+| [GABOLNA HKOMA](https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:03 | 2024-05-24 | 2025-11-07 |
 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 | 2024-02-28 | 2024-09-13 |
 | [GAZAR](https://open.spotify.com/track/7u5HkKhLRlnbPIE2N2WbTE) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Motherfunkers](https://open.spotify.com/artist/5BdvZsl7YVwq7m0shqTmq7) | [عم الناس](https://open.spotify.com/album/3Z8DIw39pBCt0FtDMNrR9Z) | 2:09 | 2023-08-21 | 2023-08-25 |
 | [GEB EL CHEQUE](https://open.spotify.com/track/0w8FmWvxtH08elVQIRLfC8) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [SOT](https://open.spotify.com/album/1FpRKcheVPvCuejL0Ge3ri) | 1:52 | 2025-05-19 | 2025-08-01 |

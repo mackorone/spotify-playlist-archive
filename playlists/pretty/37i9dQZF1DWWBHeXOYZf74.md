@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,181 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,092 likes - 99 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

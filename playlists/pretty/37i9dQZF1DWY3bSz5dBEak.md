@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3bSz5dBEak.md) - [plain]
 
 > Beethoven's famous works for piano, from wistful sonatas to ghostly trios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,654 likes - 48 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,660 likes - 48 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

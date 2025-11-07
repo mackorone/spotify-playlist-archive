@@ -5027,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "\u84b2\u516c\u82f1",
+        "url": "https://open.spotify.com/album/7dKHoxpKBtF1uzrE4Gulki"
+      },
+      "artists": [
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "\u84b2\u516c\u82f1",
+      "url": "https://open.spotify.com/track/2S0sJRxltYnCSTy0KSg13U"
+    },
+    {
+      "album": {
         "name": "\u689f",
         "url": "https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls"
       },

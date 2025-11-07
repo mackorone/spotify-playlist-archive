@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2785,
+  "num_followers": 2786,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABclla/MKAy8jIJjGEU6mf9",
+  "snapshot_id": "aQqTgAAAAACY9h7Tlo9Y37nF8oBJ3ijU",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Erindi",
+        "url": "https://open.spotify.com/album/5loTsXG2CmW9EYxAVfCNIA"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Erindi",
+      "url": "https://open.spotify.com/track/4hn2efCvUbsiAvB0aaVnnC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -123,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erindi",
-        "url": "https://open.spotify.com/album/5loTsXG2CmW9EYxAVfCNIA"
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
       },
       "artists": [
         {
@@ -132,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 169026,
-      "name": "Erindi",
-      "url": "https://open.spotify.com/track/4hn2efCvUbsiAvB0aaVnnC"
+      "duration_ms": 184180,
+      "name": "Melody of Not Knowing",
+      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
     },
     {
       "added_at": null,
@@ -171,22 +187,6 @@
       "duration_ms": 159266,
       "name": "Defeated Clown",
       "url": "https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 184180,
-      "name": "Melody of Not Knowing",
-      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Over There",
+      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Without Sinking",
         "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 230719,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/7rRPPNIKGnHzJ57IlJ1Oip"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 137146,
-      "name": "Til baka",
-      "url": "https://open.spotify.com/track/5NagPBovCGxXDOOciGlYOd"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 137146,
+      "name": "Til baka",
+      "url": "https://open.spotify.com/track/5NagPBovCGxXDOOciGlYOd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 284052,
       "name": "Bridge of Death",
       "url": "https://open.spotify.com/track/5VwxuwHdpY19gZvyA7TlyU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Over There",
-      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 237625,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/0UkQr84fdJe4npWVE4RTSc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saman",
         "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
       },
@@ -387,6 +403,34 @@
       "duration_ms": 288800,
       "name": "Call Me Joker",
       "url": "https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ser\u00eda II",
+        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
+      },
+      "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
+        },
+        {
+          "name": "Eyvind Kang",
+          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "M\u00f3\u00f0ir",
+      "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
     },
     {
       "added_at": null,
@@ -423,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 163157,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
@@ -455,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 163157,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where to From",
         "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
       },
@@ -464,37 +508,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 237625,
-      "name": "All Along",
-      "url": "https://open.spotify.com/track/0UkQr84fdJe4npWVE4RTSc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ser\u00eda II",
-        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
-      },
-      "artists": [
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "Anthony Burr",
-          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
-        },
-        {
-          "name": "Eyvind Kang",
-          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "M\u00f3\u00f0ir",
-      "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
+      "duration_ms": 243624,
+      "name": "I Hold Close",
+      "url": "https://open.spotify.com/track/0GjLDvXAbAnDptvJORbUJl"
     },
     {
       "added_at": null,
@@ -528,25 +544,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 243624,
-      "name": "I Hold Close",
-      "url": "https://open.spotify.com/track/0GjLDvXAbAnDptvJORbUJl"
+      "duration_ms": 121813,
+      "name": "Young Penny",
+      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
       },
       "artists": [
         {
@@ -576,9 +576,25 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 82800,
-      "name": "Fr\u00e1",
-      "url": "https://open.spotify.com/track/2x8UMSNqldUMSMYdqGIc8i"
+      "duration_ms": 272585,
+      "name": "Stimm",
+      "url": "https://open.spotify.com/track/0sTXdnT053vWA8CRQ6BkXh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hedda (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/68tED2DtnZvDSnHbEX8UFn"
     },
     {
       "added_at": null,
@@ -592,15 +608,15 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 121813,
-      "name": "Young Penny",
-      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
+      "duration_ms": 84760,
+      "name": "Hoyt's Office",
+      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
       },
       "artists": [
         {
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 272585,
-      "name": "Stimm",
-      "url": "https://open.spotify.com/track/0sTXdnT053vWA8CRQ6BkXh"
+      "duration_ms": 82800,
+      "name": "Fr\u00e1",
+      "url": "https://open.spotify.com/track/2x8UMSNqldUMSMYdqGIc8i"
     },
     {
       "added_at": null,
@@ -644,25 +660,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 168180,
-      "name": "L\u00ed\u00f0ur - Chernobyl Version",
-      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hedda (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/68tED2DtnZvDSnHbEX8UFn"
+      "duration_ms": 114647,
+      "name": "Dealing With Destruction",
+      "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "David Wiebe",
+          "url": "https://open.spotify.com/artist/64S6C03quUseqyfpkQDw4Z"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Heyr Himnasmi\u00f0ur",
+      "url": "https://open.spotify.com/track/05CkMXd8poyR5x8hyHGyrY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -712,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 114647,
-      "name": "Dealing With Destruction",
-      "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
+      "duration_ms": 168180,
+      "name": "L\u00ed\u00f0ur - Chernobyl Version",
+      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
     },
     {
       "added_at": null,
@@ -747,26 +767,6 @@
       "duration_ms": 155374,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "David Wiebe",
-          "url": "https://open.spotify.com/artist/64S6C03quUseqyfpkQDw4Z"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Heyr Himnasmi\u00f0ur",
-      "url": "https://open.spotify.com/track/05CkMXd8poyR5x8hyHGyrY"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Rennur Upp",
+      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -835,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+        "name": "Hedda (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
       },
       "artists": [
         {
@@ -844,9 +860,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Rennur Upp",
-      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
+      "duration_ms": 149782,
+      "name": "Allegretto - Glass",
+      "url": "https://open.spotify.com/track/62ThxZVQU7svGuJ2zfzJwy"
     },
     {
       "added_at": null,
@@ -867,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hedda (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
       "artists": [
         {
@@ -876,9 +892,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 149782,
-      "name": "Allegretto - Glass",
-      "url": "https://open.spotify.com/track/62ThxZVQU7svGuJ2zfzJwy"
+      "duration_ms": 282732,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 282732,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trapped (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
@@ -959,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ser\u00eda",
-        "url": "https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ"
+        "name": "Ser\u00eda II",
+        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
       "artists": [
         {
@@ -968,29 +968,25 @@
           "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
         },
         {
-          "name": "\u00d3l\u00f6f Arnalds",
-          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
-        },
-        {
-          "name": "Amedeo Pace",
-          "url": "https://open.spotify.com/artist/0hdlEDPDfsgpg0CuicRpzi"
-        },
-        {
-          "name": "Peter Scherer",
-          "url": "https://open.spotify.com/artist/2zP1W5f5sJb2zSxjzS3u41"
-        },
-        {
           "name": "Anthony Burr",
           "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
         },
         {
+          "name": "Amedeo",
+          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
+        },
+        {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "David Thor",
+          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
         }
       ],
-      "duration_ms": 215520,
-      "name": "Ser\u00eda",
-      "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
+      "duration_ms": 185000,
+      "name": "Without Memory",
+      "url": "https://open.spotify.com/track/38Bp7BIwyGfJBOkN5AlUoR"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

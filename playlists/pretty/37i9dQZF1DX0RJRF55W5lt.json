@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 611281,
+  "num_followers": 611348,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "It's the Way '99",
+        "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
+      },
+      "artists": [
+        {
+          "name": "Future Underground Nation",
+          "url": "https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws"
+        }
+      ],
+      "duration_ms": 303606,
+      "name": "It's the Way '99",
+      "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Wookie (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 300500,
       "name": "Battle",
       "url": "https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "It's the Way '99",
-        "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
-      },
-      "artists": [
-        {
-          "name": "Future Underground Nation",
-          "url": "https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws"
-        }
-      ],
-      "duration_ms": 303606,
-      "name": "It's the Way '99",
-      "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
     },
     {
       "added_at": "2024-10-06 08:09:55",

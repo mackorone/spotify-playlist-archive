@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,438 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,440 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 72 | [Boss Battle](https://open.spotify.com/track/4E14gq0mqxeNUJ4ydNQRaV) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 3:23 |
 | 73 | [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 |
 | 74 | [Historia Crux](https://open.spotify.com/track/3Z5a9ViXNRzMpTYB2flARR) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:28 |
-| 75 | [Calling for Rain](https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L) | [Neo Liu](https://open.spotify.com/artist/3tRSexEXQcKCP2GPWM0fl6), [Tu Hua Bing](https://open.spotify.com/artist/69utIloWXaEb6Aq03q0bYo) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 3:40 |
+| 75 | [Gustaberg](https://open.spotify.com/track/7rlBWutBNvmMhEL0CToKY6) | [Kumi Tanioka](https://open.spotify.com/artist/5HL9S0Mswux7fri8YVxz3B) | [FINAL FANTASY XI Original Soundtrack](https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR) | 4:12 |
 
 Snapshot ID: `AAAAAMSrp4XGKcb/HzT4d1UC+iCUKL+U`

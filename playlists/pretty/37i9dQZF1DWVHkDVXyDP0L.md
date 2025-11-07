@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Psychedelic Porn Crumpets
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,416 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,427 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [No Such Time](https://open.spotify.com/track/2IrrF2MzBtghfx3UVyYw44) | [The Southern River Band](https://open.spotify.com/artist/77giZvm3lPMYiI79FmmS31) | [No Such Time](https://open.spotify.com/album/5p390P7RWk3PZ9C5u9E8BU) | 3:22 |
 | 100 | [My Light](https://open.spotify.com/track/1dxzxRdZYBn0YWSwOrKjQq) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [My Light](https://open.spotify.com/album/7McNdhFOwo5XtWTVZ8mUaB) | 3:50 |
 
-Snapshot ID: `AAAAAKpKl4Hr1554UPSiEvYAzyP4AlWi`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

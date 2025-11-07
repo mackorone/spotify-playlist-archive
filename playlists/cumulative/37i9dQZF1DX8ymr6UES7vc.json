@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Canopy Rain",
+        "url": "https://open.spotify.com/album/6TvD50Pze90eqfleZFNq6h"
+      },
+      "artists": [
+        {
+          "name": "Verdelume",
+          "url": "https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Canopy Rain",
+      "url": "https://open.spotify.com/track/2h9g4A7QBMoW4MblHgwaDv"
+    },
+    {
+      "album": {
         "name": "Chasing Rain",
         "url": "https://open.spotify.com/album/6u3snLx1jBzwTpL02dcsq2"
       },
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 194445,
       "name": "Foggy Morning Rain",
       "url": "https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Switzerland's biggest hits right now. Cover: Tkandz",
+  "description": "Switzerland's biggest hits right now. Cover: ROSAL\u00cdA",
   "name": "Hot Hits Switzerland",
   "tracks": [
     {
@@ -88,6 +88,28 @@
       "duration_ms": 197200,
       "name": "02:00",
       "url": "https://open.spotify.com/track/3p0Y3ewrClI2TtrRoVkbBB"
+    },
+    {
+      "album": {
+        "name": "Unzensiert",
+        "url": "https://open.spotify.com/album/2e8rOyMcK9LsUwZp6Wt5W0"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222767,
+      "name": "069",
+      "url": "https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b"
     },
     {
       "album": {
@@ -561,6 +583,28 @@
     },
     {
       "album": {
+        "name": "Ate dite",
+        "url": "https://open.spotify.com/album/4xmuaXPi23HxrqpeLg86f1"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        },
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196840,
+      "name": "Ate dite",
+      "url": "https://open.spotify.com/track/3i1ySkILXibxXQNga1Lfui"
+    },
+    {
+      "album": {
         "name": "Atrevida",
         "url": "https://open.spotify.com/album/2SswfCbWKnAAkGf9SUqlpM"
       },
@@ -964,6 +1008,32 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
+    },
+    {
+      "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
     },
     {
       "album": {
@@ -1374,7 +1444,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
@@ -5718,7 +5788,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 155965,
       "name": "Un monde \u00e0 l'autre",
       "url": "https://open.spotify.com/track/0DAhk47iSMkfPKm5MDW17x"
@@ -5834,7 +5904,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 111764,
       "name": "VIANO",
       "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"

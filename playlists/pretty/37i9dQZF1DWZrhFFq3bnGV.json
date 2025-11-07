@@ -1,13 +1,29 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Clara Riva",
-  "num_followers": 113237,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Deredia",
+  "num_followers": 113242,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLp0ihaSIDBMT8eZdwd29G/9Ril",
+  "snapshot_id": "AAAAAFRcQgwlDdYT9I7KJev7TutZPNF4",
   "tracks": [
+    {
+      "added_at": "2025-11-06 17:30:34",
+      "album": {
+        "name": "Pernah Muda",
+        "url": "https://open.spotify.com/album/5ws56GVot5fiNNHtS2TvzR"
+      },
+      "artists": [
+        {
+          "name": "Deredia",
+          "url": "https://open.spotify.com/artist/2suoGMN4uGe4gCBFwfkfoz"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Pernah Muda",
+      "url": "https://open.spotify.com/track/5Mi1HrLmE9tAz8VhTFhsCm"
+    },
     {
       "added_at": "2025-10-23 17:00:26",
       "album": {
@@ -23,6 +39,46 @@
       "duration_ms": 231636,
       "name": "Iya Iya Iya",
       "url": "https://open.spotify.com/track/5p62NfCoX4smo7XvCb74Rh"
+    },
+    {
+      "added_at": "2025-11-06 17:30:34",
+      "album": {
+        "name": "Aku Merindu",
+        "url": "https://open.spotify.com/album/2j12LBVG0kDE3RB4NZR1WK"
+      },
+      "artists": [
+        {
+          "name": "Tya Subiakto",
+          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
+        },
+        {
+          "name": "Alex Kuple",
+          "url": "https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Aku Merindu",
+      "url": "https://open.spotify.com/track/5QrHazWlVxp2Raf4DRGYKf"
+    },
+    {
+      "added_at": "2025-10-09 21:43:29",
+      "album": {
+        "name": "Belum Boleh Pulang",
+        "url": "https://open.spotify.com/album/7DoQfDYmtTcYGRggIrfCHT"
+      },
+      "artists": [
+        {
+          "name": "Boy Warongan & The Palmeiros",
+          "url": "https://open.spotify.com/artist/4xvwA3TjOcTtzsqgBaZdb2"
+        },
+        {
+          "name": "Gabriella Fernaldi",
+          "url": "https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Belum Boleh Pulang",
+      "url": "https://open.spotify.com/track/3lBOSflCf0zyZK3NHZ3dfk"
     },
     {
       "added_at": "2025-10-23 17:00:26",
@@ -69,6 +125,30 @@
       "url": "https://open.spotify.com/track/4nNsggh8grTMfylhkPLHbz"
     },
     {
+      "added_at": "2025-10-09 17:00:21",
+      "album": {
+        "name": "Penyakit Hati 2",
+        "url": "https://open.spotify.com/album/03lqRrpM5eYm03MJ12QKE7"
+      },
+      "artists": [
+        {
+          "name": "Tarrarin",
+          "url": "https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f"
+        },
+        {
+          "name": "Bagja",
+          "url": "https://open.spotify.com/artist/4jAImWkqUpo1ILMq2Tc1G5"
+        },
+        {
+          "name": "Rosmawar",
+          "url": "https://open.spotify.com/artist/6hlYgOhUeTivxVJtWcRSf5"
+        }
+      ],
+      "duration_ms": 176448,
+      "name": "Penyakit Hati 2",
+      "url": "https://open.spotify.com/track/67gYinyuAcSE8PGwJNdxZz"
+    },
+    {
       "added_at": "2025-10-23 17:00:26",
       "album": {
         "name": "Something in the Air",
@@ -91,6 +171,22 @@
       "duration_ms": 232619,
       "name": "Something in the Air",
       "url": "https://open.spotify.com/track/4VC6CGs0rt7qmgdV4OIF6w"
+    },
+    {
+      "added_at": "2025-10-09 17:00:21",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/7jiLRF1NvlGC2Acr3d7okL"
+      },
+      "artists": [
+        {
+          "name": "The Skuy",
+          "url": "https://open.spotify.com/artist/2SunSofBVWqLykk0g7aQ1z"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI"
     },
     {
       "added_at": "2025-10-16 17:00:27",
@@ -117,22 +213,6 @@
       "url": "https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo"
     },
     {
-      "added_at": "2025-10-09 17:00:21",
-      "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/7jiLRF1NvlGC2Acr3d7okL"
-      },
-      "artists": [
-        {
-          "name": "The Skuy",
-          "url": "https://open.spotify.com/artist/2SunSofBVWqLykk0g7aQ1z"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI"
-    },
-    {
       "added_at": "2025-10-10 03:51:13",
       "album": {
         "name": "Fearless",
@@ -147,50 +227,6 @@
       "duration_ms": 221877,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/2ioFniiBnm3HeMji8iHBx7"
-    },
-    {
-      "added_at": "2025-10-09 17:00:21",
-      "album": {
-        "name": "Penyakit Hati 2",
-        "url": "https://open.spotify.com/album/03lqRrpM5eYm03MJ12QKE7"
-      },
-      "artists": [
-        {
-          "name": "Tarrarin",
-          "url": "https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f"
-        },
-        {
-          "name": "Bagja",
-          "url": "https://open.spotify.com/artist/4jAImWkqUpo1ILMq2Tc1G5"
-        },
-        {
-          "name": "Rosmawar",
-          "url": "https://open.spotify.com/artist/6hlYgOhUeTivxVJtWcRSf5"
-        }
-      ],
-      "duration_ms": 176448,
-      "name": "Penyakit Hati 2",
-      "url": "https://open.spotify.com/track/67gYinyuAcSE8PGwJNdxZz"
-    },
-    {
-      "added_at": "2025-10-09 21:43:29",
-      "album": {
-        "name": "Belum Boleh Pulang",
-        "url": "https://open.spotify.com/album/7DoQfDYmtTcYGRggIrfCHT"
-      },
-      "artists": [
-        {
-          "name": "Boy Warongan & The Palmeiros",
-          "url": "https://open.spotify.com/artist/4xvwA3TjOcTtzsqgBaZdb2"
-        },
-        {
-          "name": "Gabriella Fernaldi",
-          "url": "https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Belum Boleh Pulang",
-      "url": "https://open.spotify.com/track/3lBOSflCf0zyZK3NHZ3dfk"
     },
     {
       "added_at": "2025-10-09 17:00:21",
@@ -415,26 +451,6 @@
       "duration_ms": 300999,
       "name": "World : Against, Changed, Educate",
       "url": "https://open.spotify.com/track/6B1tdAqKADoEdn9Y4q9ulj"
-    },
-    {
-      "added_at": "2025-08-14 19:00:04",
-      "album": {
-        "name": "Hanya Dia",
-        "url": "https://open.spotify.com/album/40ZH20Iiju1MZTnglsmyQK"
-      },
-      "artists": [
-        {
-          "name": "Tya Subiakto",
-          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
-        },
-        {
-          "name": "Alex Kuple",
-          "url": "https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Hanya Dia",
-      "url": "https://open.spotify.com/track/2ZiWWRqWPeksTDWOuL36mW"
     },
     {
       "added_at": "2025-07-17 17:28:37",

@@ -3373,6 +3373,32 @@
     },
     {
       "album": {
+        "name": "Jhoom Sharaabi (From \"De De Pyaar De 2\")",
+        "url": "https://open.spotify.com/album/746v4e1nhmFJP7GqSjsjHY"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Athar Hayat",
+          "url": "https://open.spotify.com/artist/5FOKSGBwQ4fb94HhIWLJUB"
+        },
+        {
+          "name": "Sameer Hayat",
+          "url": "https://open.spotify.com/artist/79dv1DTNHHM6EfW8ORtMP2"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254214,
+      "name": "Jhoom Sharaabi (From \"De De Pyaar De 2\")",
+      "url": "https://open.spotify.com/track/0jP7XLpEweluxyRWpEqAY6"
+    },
+    {
+      "album": {
         "name": "Ji Huzoor",
         "url": "https://open.spotify.com/album/3PFgdRRFP4QjH7LX7XrUah"
       },
@@ -4882,7 +4908,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 183944,
       "name": "MOON",
       "url": "https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ"

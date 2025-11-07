@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,487 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,490 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 10 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 |
 | 11 | [Save Your Kisses For Me](https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Greatest 70's Hits Best Ever](https://open.spotify.com/album/0oAJXGROv1EuMhrT0p5zcc) | 3:02 |
 | 12 | [Beg, Steal Or Borrow](https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [The Albums 1970\-73](https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj) | 2:47 |
-| 13 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
-| 14 | [Disco Tango](https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj) | [Tommy Seebach](https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz) | [Disco Tango \[Remastered\]](https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY) | 2:50 |
+| 13 | [Disco Tango](https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj) | [Tommy Seebach](https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz) | [Disco Tango \[Remastered\]](https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY) | 2:50 |
+| 14 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
 | 15 | [Bailemos un Vals](https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj) | [José Velez](https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm) | [Lo Mejor de José Velez](https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8) | 3:07 |
 | 16 | [Occhi di ragazza](https://open.spotify.com/track/1w7ID6DNVqWTkFigG5bHgE) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/0Bp1XMvxKay4gZrEkMXn6w) | 2:52 |
 | 17 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 41 | [Su Canción](https://open.spotify.com/track/2YDMHFV05yjkhAbh2gDm6B) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Lo Mejor de Betty Missiego](https://open.spotify.com/album/1JvPV0pEYkITh1BRze9Ufi) | 3:03 |
 | 42 | [Uno Per Tutte](https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk) | [Emilio Pericoli](https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ) | [Solino](https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb) | 2:58 |
 | 43 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
-| 44 | [Wunder gibt es immer wieder](https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Wunder gibt es immer wieder](https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw) | 3:32 |
-| 45 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
+| 44 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
+| 45 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
 | 46 | [Merci Chérie](https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Alle Macht den Gefühlen](https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI) | 2:46 |
-| 47 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
+| 47 | [Wunder gibt es immer wieder](https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Wunder gibt es immer wieder](https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw) | 3:32 |
 | 48 | [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 |
 | 49 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
 | 50 | [Nur die Liebe lässt uns leben \- Neuaufnahme](https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY) | [Mary Roos](https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn) | [Herzen zu verschenken](https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB) | 3:13 |

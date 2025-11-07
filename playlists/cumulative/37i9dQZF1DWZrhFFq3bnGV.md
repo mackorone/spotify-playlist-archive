@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Clara Riva
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Deredia
 
-275 songs - 19 hr 7 min
+277 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Against The World](https://open.spotify.com/track/6xdE66P9m2ybnbRqWduLVF) | [Aditya Ong Trio](https://open.spotify.com/artist/4kkP9EmggHO2TIDcSOOZI4), [Alfado Jacob](https://open.spotify.com/artist/5SYx8g5qg29QfBZHj455XT) | [32](https://open.spotify.com/album/1VW732WmXOw1xSGZoI77Jr) | 10:24 | 2023-07-18 | 2025-02-07 |
 | [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 | 2022-11-25 |
 | [Ah Pusing!](https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Mari Bahagia](https://open.spotify.com/album/7FJlmFABalYgok0ws9aEyS) | 3:12 | 2022-09-22 | 2022-11-13 |
+| [Aku Merindu](https://open.spotify.com/track/5QrHazWlVxp2Raf4DRGYKf) | [Tya Subiakto](https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo), [Alex Kuple](https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9) | [Aku Merindu](https://open.spotify.com/album/2j12LBVG0kDE3RB4NZR1WK) | 3:12 | 2025-11-06 |  |
 | [Aliens](https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Aliens](https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr) | 3:05 | 2025-02-06 | 2025-10-17 |
 | [As Falsas](https://open.spotify.com/track/0qPLO41igft7jd9NzSFOKd) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt), [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i) | [As Falsas](https://open.spotify.com/album/1wXWG6BuyyS9oQMHMvSg9t) | 3:57 | 2025-07-17 |  |
 | [As We Talk](https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Leca Percussion](https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Scars Souvenir](https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0) | 2:59 | 2023-03-09 | 2025-09-12 |
@@ -112,7 +113,7 @@
 | [Goyang Berdendang](https://open.spotify.com/track/2jXATlKZ8YTj1ohVxYNafK) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Goyang Berdendang](https://open.spotify.com/album/2kFbzEY9Ex4lGWNClq9RLO) | 3:54 | 2024-07-08 |  |
 | [Gratitude](https://open.spotify.com/track/68sQC8sj18Ty36mbreDHot) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Gratitude](https://open.spotify.com/album/5d1ORdMsk0WXPZkViftyNs) | 5:03 | 2022-09-02 | 2023-08-18 |
 | [GYMNASIUM](https://open.spotify.com/track/3gXpHM1ZcUKF5Kn3CtuT0q) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np), [JOY](https://open.spotify.com/artist/2hiaJ5v1B9HiftMeHcDmht) | [GYMNASIUM](https://open.spotify.com/album/04hDXHNlGH50mEs2aSI0D2) | 3:49 | 2023-07-13 | 2024-08-02 |
-| [Hanya Dia](https://open.spotify.com/track/2ZiWWRqWPeksTDWOuL36mW) | [Tya Subiakto](https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo), [Alex Kuple](https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9) | [Hanya Dia](https://open.spotify.com/album/40ZH20Iiju1MZTnglsmyQK) | 4:30 | 2025-08-14 |  |
+| [Hanya Dia](https://open.spotify.com/track/2ZiWWRqWPeksTDWOuL36mW) | [Tya Subiakto](https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo), [Alex Kuple](https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9) | [Hanya Dia](https://open.spotify.com/album/40ZH20Iiju1MZTnglsmyQK) | 4:30 | 2025-08-14 | 2025-11-07 |
 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 | 2022-09-02 | 2023-08-18 |
 | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/track/3XPVJWfWP1DH1Ly3EX8xbw) | [Nathania Jualim](https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK), [Desmond Amos](https://open.spotify.com/artist/6tDcNMe4ou6JkX6TtaPabI) | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/album/2wtfL0DRsq1rp5tzL7nSHO) | 3:11 | 2025-03-20 |  |
 | [Harus Bahagia](https://open.spotify.com/track/6xBoEKjMILuiVWaNX7pmel) | [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Harus Bahagia](https://open.spotify.com/album/733Hrl429wfieKxjF6Dclk) | 2:48 | 2025-06-05 |  |
@@ -214,6 +215,7 @@
 | [Penyakit Hati 2](https://open.spotify.com/track/67gYinyuAcSE8PGwJNdxZz) | [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f), [Bagja](https://open.spotify.com/artist/4jAImWkqUpo1ILMq2Tc1G5), [Rosmawar](https://open.spotify.com/artist/6hlYgOhUeTivxVJtWcRSf5) | [Penyakit Hati 2](https://open.spotify.com/album/03lqRrpM5eYm03MJ12QKE7) | 2:56 | 2025-10-09 |  |
 | [Perjalanan](https://open.spotify.com/track/2Xzzv1HLYnxLkeGwMeQyC3) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp) | [Perjalanan](https://open.spotify.com/album/12e9PBz29sAkDK3SuBCX3j) | 4:56 | 2023-03-03 | 2023-08-25 |
 | [Perjumpaan Kita](https://open.spotify.com/track/0XrhqWIImjM7MlImOZUXZX) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Dian Sastrowardoyo](https://open.spotify.com/artist/2z03bPWIFofruoPDCNj7GG) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 4:45 | 2022-09-02 | 2023-07-14 |
+| [Pernah Muda](https://open.spotify.com/track/5Mi1HrLmE9tAz8VhTFhsCm) | [Deredia](https://open.spotify.com/artist/2suoGMN4uGe4gCBFwfkfoz) | [Pernah Muda](https://open.spotify.com/album/5ws56GVot5fiNNHtS2TvzR) | 3:30 | 2025-11-06 |  |
 | [Piccadilly](https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Two of a Kind](https://open.spotify.com/album/5Wv1AZE2RhdRLhKmrL1jtm) | 4:36 | 2022-09-02 | 2025-02-07 |
 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-06-06 |  |
 | [Promesa](https://open.spotify.com/track/1smsqbB2XigojjpaWhbrZA) | [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ) | [Baciare / To Kiss](https://open.spotify.com/album/1I6kZIPX729gCglmRUG78h) | 3:52 | 2023-03-03 | 2023-08-18 |

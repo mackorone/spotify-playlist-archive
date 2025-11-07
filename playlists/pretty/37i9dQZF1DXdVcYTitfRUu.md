@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,633 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,645 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 5 | [TIME CAPSULE](https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [TIME CAPSULE](https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2) | 4:12 |
 | 6 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 |
 | 7 | [Beautiful fact](https://open.spotify.com/track/19KheJUp8m8rTsnfheQ0Zc) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Beautiful fact](https://open.spotify.com/album/4uq8r8o4xUy4YrDkD4VJVq) | 3:40 |
-| 8 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 |
+| 8 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
 | 9 | [Long trip](https://open.spotify.com/track/1tKNzLT0SRoK6wpZKz6S9r) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Long trip](https://open.spotify.com/album/0YVX3c7Q05ZkBZSw8IwA20) | 3:14 |
-| 10 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
+| 10 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 |
 | 11 | [I will be your flower](https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [I will be your flower](https://open.spotify.com/album/39OFidEKg7M3yOm9rsTmrJ) | 3:47 |
 | 12 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 |
 | 13 | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/album/7jUJbL40ru1ZIiCtimtHlR) | 4:27 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 74 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 75 | [Destiny \(2025\)](https://open.spotify.com/track/0LLd9oghk9adWYmou7YQnV) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Lee Yi Kyung](https://open.spotify.com/artist/3VNRGqfUpv4TSkcJjnt9qd) | [Monday Kiz's Footprints Vol.1 With Lee Yi Kyung](https://open.spotify.com/album/6tdMpoiWbTxx6otgWj2bmF) | 4:18 |
 | 76 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 |
-| 77 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
-| 78 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 |
-| 79 | [First Step](https://open.spotify.com/track/2dBb7nKOJdVbv4Bib5w1DP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Check in Hanyang \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1ertivhrcJ58ZCX3THYUbT) | 3:48 |
-| 80 | [Because I Don't Love You](https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Because I Don't Love You](https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU) | 3:43 |
+| 77 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 |
+| 78 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
+| 79 | [Because I Don't Love You](https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Because I Don't Love You](https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU) | 3:43 |
+| 80 | [First Step](https://open.spotify.com/track/2dBb7nKOJdVbv4Bib5w1DP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Check in Hanyang \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1ertivhrcJ58ZCX3THYUbT) | 3:48 |
 
 Snapshot ID: `AAAAAI45LWMANE7GZWg1sNAaQ/sVv4E6`

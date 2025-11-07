@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Florence + The Machine",
+  "description": "All the new indie tracks worth knowing about. Cover: Stella Donnelly",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 193131,
       "name": "Ashamed",
       "url": "https://open.spotify.com/track/3iOzk7TaakDYIusBfwIjjj"
@@ -3224,7 +3224,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 145426,
       "name": "Camouflage",
       "url": "https://open.spotify.com/track/2a8mqTYjErkuGZXvyu4wYV"
@@ -3300,6 +3300,24 @@
       "duration_ms": 292620,
       "name": "Can't Stand To Lose",
       "url": "https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs"
+    },
+    {
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/7mMmN1nphb2jlee4pYZLh2"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186463,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/66447TJUyw3jjyePECdqJY"
     },
     {
       "album": {
@@ -3534,7 +3552,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 181393,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/2bQcgUJSzCV48MJwPTnqFN"
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 272803,
       "name": "Dancing2",
       "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
@@ -4793,6 +4811,24 @@
     },
     {
       "album": {
+        "name": "Deep (love)",
+        "url": "https://open.spotify.com/album/1zsvcEQUBmTeb0xm6Jqbwx"
+      },
+      "artists": [
+        {
+          "name": "ctrl + me",
+          "url": "https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190589,
+      "name": "Deep (love)",
+      "url": "https://open.spotify.com/track/511SfFqSwZu4EzASbYSk39"
+    },
+    {
+      "album": {
         "name": "American Hero",
         "url": "https://open.spotify.com/album/21HMENCxfw31djGv60lk88"
       },
@@ -4826,6 +4862,24 @@
       "duration_ms": 242544,
       "name": "Deeply Still In Love",
       "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
+    },
+    {
+      "album": {
+        "name": "Deer In The Headlights",
+        "url": "https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2"
+      },
+      "artists": [
+        {
+          "name": "Twine",
+          "url": "https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "Deer In The Headlights",
+      "url": "https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b"
     },
     {
       "album": {
@@ -5890,6 +5944,24 @@
       "duration_ms": 221412,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
+    },
+    {
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/2uGAnU3lDDpLKaa8vSw9Jm"
+      },
+      "artists": [
+        {
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141307,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/6dZveJk4t5MazzX1HW2x65"
     },
     {
       "album": {
@@ -7530,7 +7602,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 167322,
       "name": "Gimme Luv",
       "url": "https://open.spotify.com/track/2pmdsAV0Dt8f0Hukikea1C"
@@ -7866,7 +7938,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 222106,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
@@ -10523,6 +10595,28 @@
     },
     {
       "album": {
+        "name": "Keep Me Alive",
+        "url": "https://open.spotify.com/album/3vNlMPoSWc3WepLh2zHiXo"
+      },
+      "artists": [
+        {
+          "name": "Addison Dean",
+          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
+        },
+        {
+          "name": "Jaylin Rahjon",
+          "url": "https://open.spotify.com/artist/7GZv334spln2zHFg0sJi5S"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Keep Me Alive",
+      "url": "https://open.spotify.com/track/7c0jiXS8GsVEONVTwvK8xI"
+    },
+    {
+      "album": {
         "name": "Keep Me Satisfied",
         "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
       },
@@ -10748,6 +10842,24 @@
       "duration_ms": 215693,
       "name": "Late To The Party (feat. Declan McKenna)",
       "url": "https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0"
+    },
+    {
+      "album": {
+        "name": "Love and Fortune",
+        "url": "https://open.spotify.com/album/7qEZ2vRPu9ojHwkCWMRrOB"
+      },
+      "artists": [
+        {
+          "name": "Stella Donnelly",
+          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210617,
+      "name": "Laying Low",
+      "url": "https://open.spotify.com/track/68LCrRHSHTVagcSFf0OjUH"
     },
     {
       "album": {
@@ -12811,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180803,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp"
+    },
+    {
+      "album": {
         "name": "moody",
         "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
       },
@@ -12880,7 +13010,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 274443,
       "name": "Mothers of Riches",
       "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
@@ -14565,6 +14695,24 @@
     },
     {
       "album": {
+        "name": "Phoebe's Song",
+        "url": "https://open.spotify.com/album/40wmLOiUiOIz1lRqKqC4KV"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239986,
+      "name": "Phoebe's Song",
+      "url": "https://open.spotify.com/track/2TYVG6dKbHGb2nA3H7Mlqa"
+    },
+    {
+      "album": {
         "name": "Physical Medicine",
         "url": "https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO"
       },
@@ -14666,7 +14814,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 174799,
       "name": "PIRATE RADIO",
       "url": "https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy"
@@ -15609,6 +15757,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG"
+    },
+    {
+      "album": {
         "name": "Sail The Seas",
         "url": "https://open.spotify.com/album/3VZTcaDEBpn0txSOdkCYaw"
       },
@@ -15880,7 +16046,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 210480,
       "name": "See You in Everyone",
       "url": "https://open.spotify.com/track/6eunHrBuu3ftWdWIntSfvF"
@@ -16320,6 +16486,24 @@
       "duration_ms": 155318,
       "name": "slut era",
       "url": "https://open.spotify.com/track/7r3ivjllaf9eJeeYbjpfKf"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231499,
+      "name": "Small Town Joan of Arc",
+      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
     },
     {
       "album": {
@@ -18305,6 +18489,24 @@
     },
     {
       "album": {
+        "name": "THE DEEP",
+        "url": "https://open.spotify.com/album/4ukZMvcU8hSNMVBbcTOaqu"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "THE DEEP - Single Version",
+      "url": "https://open.spotify.com/track/27fABCnOF2h2I5BOrCx24G"
+    },
+    {
+      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/5oEUCJUYJoJv4QvDG36tFj"
       },
@@ -18426,6 +18628,28 @@
       "duration_ms": 269720,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm"
+    },
+    {
+      "album": {
+        "name": "The God Of Lying (feat. IDLES)",
+        "url": "https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189021,
+      "name": "The God of Lying (feat. IDLES)",
+      "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
     },
     {
       "album": {
@@ -19058,7 +19282,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 181002,
       "name": "Til The Morning Comes",
       "url": "https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV"
@@ -19484,7 +19708,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 293020,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk"
@@ -19932,7 +20156,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170506,
       "name": "Wax & Wane",
       "url": "https://open.spotify.com/track/7lnvXRhn9hfyNEo1Pjp2C3"
@@ -20600,7 +20824,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 173426,
       "name": "who\u2019s your boyfriend",
       "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
@@ -20784,6 +21008,24 @@
       "duration_ms": 164583,
       "name": "Woman Lake",
       "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/1XCxwBhOgN3o8E6YSkWZk2"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202702,
+      "name": "WONDERFUL",
+      "url": "https://open.spotify.com/track/2KlnNibs8vbh1ulZ7124vI"
     },
     {
       "album": {

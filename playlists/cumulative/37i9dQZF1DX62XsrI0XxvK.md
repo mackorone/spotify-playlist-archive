@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Jinan Laetitia
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Wizzy, Fangtatis
 
-178 songs - 10 hr 37 min
+181 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Damn, Gurl](https://open.spotify.com/track/6g3VcGmYGlg0UzFSFknCyI) | [Budie Tanzania](https://open.spotify.com/artist/3jog7FNtrSNeZ5SEVk2Gvr) | [Damn, Gurl](https://open.spotify.com/album/2NjkcPqxOgwK7qnCKL8hnY) | 3:12 | 2025-02-06 | 2025-07-18 |
 | [Dekat](https://open.spotify.com/track/3kRRSjfw1yiRvMIQ7ofGBg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Dekat](https://open.spotify.com/album/15hJ6liZuJPpbWw3BrpqfC) | 4:27 | 2025-05-29 |  |
 | [Delusional](https://open.spotify.com/track/2V5NrnoZajhUP5pVZZVjs9) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Romansa](https://open.spotify.com/album/65KdItMclPJytUzzNuI8eJ) | 3:31 | 2025-05-08 | 2025-08-29 |
+| [Denganmu](https://open.spotify.com/track/1iLAa3zLXL64rHdqKHsWDo) | [Amabel Odelia](https://open.spotify.com/artist/4PUkvkks3jURfv02pD0FKU) | [A Little Bit Dramatic](https://open.spotify.com/album/0CH6kIXtMB46QJ3H4akna3) | 3:27 | 2025-11-06 |  |
 | [DERAU](https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2) | [Jugo Djarot](https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3) | [DERAU](https://open.spotify.com/album/71TCJStstSDqdgQxwItoXN) | 3:12 | 2025-10-02 |  |
 | [DESTINY](https://open.spotify.com/track/4JyewXavoNDSkLdX1A2cjI) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [DESTINY](https://open.spotify.com/album/6hKFay0QfMNYhM6P4TI0SA) | 3:16 | 2025-01-16 | 2025-05-30 |
 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 | 2024-10-03 | 2025-10-10 |
@@ -67,6 +68,7 @@
 | [Game For Two](https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Game For Two](https://open.spotify.com/album/5KYHeW8EoSYqFXji9DuV4c) | 3:38 | 2025-03-20 | 2025-08-01 |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-10-03 | 2025-05-02 |
 | [Glow](https://open.spotify.com/track/6xWfKqMv4ebAIVGYbvo7o4) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls) | [Glow](https://open.spotify.com/album/05rZ3AQMXe6OwkU53QoCPy) | 3:00 | 2025-08-07 |  |
+| [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY) | [](https://open.spotify.com/album/null) | 2:54 | 2025-11-06 |  |
 | [Hanya Harapku](https://open.spotify.com/track/4CXS1Bnuk0xzPd3zP7Jmsb) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Hanya Harapku](https://open.spotify.com/album/6pLzF6GCDzqmFIpi4GZuGw) | 3:30 | 2024-11-15 | 2025-07-18 |
 | [Hanya Ingin](https://open.spotify.com/track/1UykQjY4mcTp66AqJ2kLvt) | [R2 Rhythm](https://open.spotify.com/artist/1NMndAY1nq64GSsGuccTrM) | [Hanya Ingin](https://open.spotify.com/album/2cEMBuXaGurxFImXVwOFWC) | 3:09 | 2024-11-21 | 2025-05-09 |
 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 | 2025-05-01 |  |
@@ -116,6 +118,7 @@
 | [Mulai](https://open.spotify.com/track/2gfuoYUfvZwcolvIcpV0ic) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Mulai](https://open.spotify.com/album/2YKI1MqW9OCXphZCF7qWc4) | 3:26 | 2025-10-16 |  |
 | [My Bad](https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [CTRL+N](https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc) | 3:09 | 2025-06-12 | 2025-10-03 |
 | [NONA](https://open.spotify.com/track/0PcA63FVAapebTvMoqHf2R) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A) | [NONA](https://open.spotify.com/album/44v4gUnWzb9N6qyzI3ou6V) | 2:08 | 2025-04-16 |  |
+| [Nona Manise](https://open.spotify.com/track/1Dy5Jx3Wqr44Po44mF6ePG) | [Pretty Rico](https://open.spotify.com/artist/4x0FfUwA06azGJXX8Kc59U) | [Nona Manise](https://open.spotify.com/album/5wYPstAbsv2TXDl3UgZe2K) | 2:47 | 2025-11-06 |  |
 | [Nuansa Biru](https://open.spotify.com/track/30ITGq0XWFoa8lq7vCThBO) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Nuansa Biru](https://open.spotify.com/album/75SF4HGHWxSx6tBc9T8fde) | 3:35 | 2025-04-24 | 2025-10-03 |
 | [Nuansa Romansa](https://open.spotify.com/track/5IlUsmKzmLDcjfC64huD43) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/0FbED58kWNrEd41ZGh4X9T) | 4:38 | 2025-05-08 | 2025-10-24 |
 | [Obsesi](https://open.spotify.com/track/5O3mCKnCxlqrb5yDjZigxK) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Obsesi](https://open.spotify.com/album/7vx3ePtu8rpg2XfJvVnYXq) | 2:44 | 2024-11-28 |  |

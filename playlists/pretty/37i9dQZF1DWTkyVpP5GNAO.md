@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Karen Espinosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,402 likes - 80 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,484 likes - 80 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 49 | [Él Está Aquí](https://open.spotify.com/track/4EabNLm20lusvgnrgksH7M) | [Priscila Matiesco](https://open.spotify.com/artist/1wdCbEqpZ64lJTjXbqnD8M), [Selah Worship](https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA), [La Catedral](https://open.spotify.com/artist/028xpD94ojZ0WraOcCTkEe), [Brian Orellana](https://open.spotify.com/artist/3quJe8K2N4s5S3uxzyXrDP) | [Él Está Aquí](https://open.spotify.com/album/5pGHgOVlqjhqjXE9hymicj) | 6:35 |
 | 50 | [Sal 22 / Te Amo](https://open.spotify.com/track/4DwySFpj8jUX4a5srbPCqi) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Sal 22 / Te Amo](https://open.spotify.com/album/4R52HFBigLI6sLbw4yIxyg) | 6:17 |
 | 51 | [El Mejor Regalo](https://open.spotify.com/track/2HeEVexdEXKnik3cNytBP5) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Delfina Vázquez](https://open.spotify.com/artist/6tLbhyKRRyfRRW91tw1ixG) | [El Mejor Regalo](https://open.spotify.com/album/24dlkt8IetDux0selq8e1k) | 4:27 |
-| 52 | [Jesús Te Anhelo](https://open.spotify.com/track/0dUsTXyeii4bGeDOv9UHjT) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Jesús Te Anhelo](https://open.spotify.com/album/5iLvPKwH8p4Ans52xsK3na) | 8:47 |
+| 52 | [Jesús Te Anhelo \- En Vivo](https://open.spotify.com/track/0dUsTXyeii4bGeDOv9UHjT) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Jesús Te Anhelo](https://open.spotify.com/album/5iLvPKwH8p4Ans52xsK3na) | 8:47 |
 | 53 | [Amado Mio](https://open.spotify.com/track/66gGb2crhwOB0YALkRF8PQ) | [Dianette Mendez](https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL) | [Amado Mio](https://open.spotify.com/album/3eZWPz1JVRPsMTQb4tdx73) | 7:28 |
 | 54 | [Sólo Hay Uno](https://open.spotify.com/track/4AB2Ek7uOKheppnUBlz9o6) | [Job González](https://open.spotify.com/artist/1W3alM5B0pfEeiVnT9XmBO), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Sólo Hay Uno](https://open.spotify.com/album/4eeg72pKMcuqVZqqo6fTvX) | 7:28 |
 | 55 | [El Gran Yo Soy](https://open.spotify.com/track/6O3dQWh8Hm2e824yOizPN9) | [LUISFER](https://open.spotify.com/artist/3UDUwxXkYG6a6drtZm4CUN), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [El Gran Yo Soy](https://open.spotify.com/album/0Uy3yk6og0RGLLBpj5Dcpz) | 4:58 |

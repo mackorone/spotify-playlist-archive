@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 309473,
+  "num_followers": 309780,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Matamoros Querido",
+      "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Nuevamente! Salsas y Cumbias",
         "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 252000,
       "name": "El Negro Jos\u00e9",
       "url": "https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Matamoros Querido",
-      "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Eva Mar\u00eda",
         "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 161520,
       "name": "Amor De Unas Horas",
       "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
-      },
-      "artists": [
-        {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Cozumel",
-      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "17 Aniversario",
         "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 188943,
       "name": "Adolescente y Bonita",
       "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+      },
+      "artists": [
+        {
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Cozumel",
+      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Paloma Mensajera",
-      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 180012,
       "name": "Cumbia Barulera",
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Paloma Mensajera",
+      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "El Sonido Joven De La Cumbia",
+        "url": "https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr"
+      },
+      "artists": [
+        {
+          "name": "Arturo Jaimes Y Los Cantantes",
+          "url": "https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Fue En Diciembre",
+      "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "\u00c9xitos los Corraleros de Majagual",
         "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 158515,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "El Sonido Joven De La Cumbia",
-        "url": "https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr"
-      },
-      "artists": [
-        {
-          "name": "Arturo Jaimes Y Los Cantantes",
-          "url": "https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Fue En Diciembre",
-      "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
-        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
-      },
-      "artists": [
-        {
-          "name": "Joe Rodriguez Y Su Grupo Latino",
-          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
-        }
-      ],
-      "duration_ms": 199447,
-      "name": "Cumbia de los Pobres",
-      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 247920,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/3LfPiuzPyCoa3Ja3QrJIZv"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+      },
+      "artists": [
+        {
+          "name": "Joe Rodriguez Y Su Grupo Latino",
+          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
+        }
+      ],
+      "duration_ms": 199447,
+      "name": "Cumbia de los Pobres",
+      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
-        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 147945,
-      "name": "Cumbia Soleada",
-      "url": "https://open.spotify.com/track/1aa5ena6tJpwD0wdGfelcX"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Tequendama de Oro, Vol. 4",
         "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 221835,
       "name": "El Aguajal",
       "url": "https://open.spotify.com/track/2D9qZLgia46dk5BqOuulnL"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 147945,
+      "name": "Cumbia Soleada",
+      "url": "https://open.spotify.com/track/1aa5ena6tJpwD0wdGfelcX"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1712,13 +1712,13 @@
       },
       "artists": [
         {
-          "name": "Ritmos del Litoral",
-          "url": "https://open.spotify.com/artist/5gvQN8WZWpHTg1ODVx9770"
+          "name": "Tita Duval",
+          "url": "https://open.spotify.com/artist/5FRe02qXpl9w66bkZqjRVv"
         }
       ],
-      "duration_ms": 164062,
-      "name": "Madre Cumbia",
-      "url": "https://open.spotify.com/track/2668O3R4bP55uqLDdT19mu"
+      "duration_ms": 161769,
+      "name": "Oye Mi Cumbia",
+      "url": "https://open.spotify.com/track/7nbmyLb5Bszd24P4pKKDjk"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1728,13 +1728,13 @@
       },
       "artists": [
         {
-          "name": "Tita Duval",
-          "url": "https://open.spotify.com/artist/5FRe02qXpl9w66bkZqjRVv"
+          "name": "Ritmos del Litoral",
+          "url": "https://open.spotify.com/artist/5gvQN8WZWpHTg1ODVx9770"
         }
       ],
-      "duration_ms": 161769,
-      "name": "Oye Mi Cumbia",
-      "url": "https://open.spotify.com/track/7nbmyLb5Bszd24P4pKKDjk"
+      "duration_ms": 164062,
+      "name": "Madre Cumbia",
+      "url": "https://open.spotify.com/track/2668O3R4bP55uqLDdT19mu"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 264186,
       "name": "Paisaje",
       "url": "https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "No Te Voy A Perdonar, Volumen 4",
-        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 232756,
-      "name": "No Te Voy A Perdonar",
-      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
     },
     {
       "added_at": "2025-08-13 19:19:00",

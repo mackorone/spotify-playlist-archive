@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Bernadya
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Iwan Fals, Ebiet G\. Ade
 
-527 songs - 1 day 10 hr 19 min
+531 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Berpayung Tuhan](https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:57 | 2024-01-26 | 2024-02-02 |
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2024-01-26 | 2024-05-03 |
 | [Bersenja Gurau](https://open.spotify.com/track/5ANZKRT3WuY4DgEnCcfHVa) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Bersenja Gurau](https://open.spotify.com/album/4mtL1Qs2EYD05CUW6nx7b6) | 3:14 | 2024-03-07 | 2024-05-24 |
+| [Bertemu 5000 Detik](https://open.spotify.com/track/5k8r824ONOtPpsCG9o9jE2) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Thomas Djorghi](https://open.spotify.com/artist/1PgpMO3k0MFsIbKT3sQFkI) | [Bertemu 5000 Detik](https://open.spotify.com/album/4GyXj4a6jegDiK7oyeWBZQ) | 4:05 | 2025-11-06 |  |
 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 | 2024-08-08 | 2025-02-14 |
 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 | 2025-01-09 |  |
 | [Bintang 5](https://open.spotify.com/track/0HoWTALX2BktSIrSmflWSP) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Puting Beliung](https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K) | 4:06 | 2025-08-28 |  |
@@ -140,6 +141,7 @@
 | [Durasi](https://open.spotify.com/track/0OuVSjnPMcTjwIZUcrT6r4) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Kapal Udara](https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f) | [Durasi](https://open.spotify.com/album/0iGH07DqyKm8emcyCj6FZ4) | 5:33 | 2024-08-29 | 2024-10-25 |
 | [Dursila \- From "Malang Si Puteri"](https://open.spotify.com/track/1zv2N0vnJF37CJZ27MA1cH) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Dursila \(From "Malang Si Puteri"\)](https://open.spotify.com/album/3Epscc9nKLxHYfzZnXnSL3) | 4:06 | 2024-02-23 | 2024-03-29 |
 | [Ego](https://open.spotify.com/track/5s8W7GGcTubPJHpFOo4Sjf) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Ego](https://open.spotify.com/album/5PKuRgxDEG48qVxQbD9nL0) | 4:34 | 2024-01-26 | 2024-03-22 |
+| [Ego](https://open.spotify.com/track/39B12Su7R0fIDcQPykPwkc) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Ego](https://open.spotify.com/album/1R9tlrCSbbO1rUmQZ1a8r6) | 5:24 | 2025-11-06 |  |
 | [Ego \- Live Version](https://open.spotify.com/track/25Lal5T01WHDBjW7WEbM8X) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Tujuh Belas](https://open.spotify.com/album/5LMiSpyLeOxZBpYZmu0Uiu) | 4:20 | 2025-07-03 | 2025-08-21 |
 | [Elu\-elukan](https://open.spotify.com/track/7LQ9yw8sSdjmckKCK4CHSo) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Elu\-elukan](https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm) | 4:03 | 2025-10-16 |  |
 | [Engga Ngerti](https://open.spotify.com/track/67CTTGTfgRhs33BXhbqDqa) | [Vanessa Zee](https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Engga Ngerti](https://open.spotify.com/album/22T1vhAbJGoKk3gL0lKswt) | 4:20 | 2025-06-05 | 2025-08-22 |
@@ -182,6 +184,7 @@
 | [I Don’t Wanna Go Back Home](https://open.spotify.com/track/7zChtXZTVVkabuBCJWlD0h) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [I Don’t Wanna Go Back Home](https://open.spotify.com/album/1yiw1YFdwvGrIuNjJ8uFMu) | 4:24 | 2024-01-26 | 2024-04-12 |
 | [I Don’t Wanna Hate the World](https://open.spotify.com/track/3l3djcnaZrqsfQTWXcofY7) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [I Don’t Wanna Hate the World](https://open.spotify.com/album/6Dqo1Hw8LpEhH7KtSIL9Kg) | 3:31 | 2025-10-30 |  |
 | [I'm on My Way](https://open.spotify.com/track/3XvgSDedqSOqJVW7vnbo8P) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [I'm on My Way](https://open.spotify.com/album/3K8KlJNK2SOgM8NyDWMrre) | 4:14 | 2025-10-16 |  |
+| [Ibu](https://open.spotify.com/track/7703o7Xvt7e5qxzjCEZJUy) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX), [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA) | [Ibu](https://open.spotify.com/album/5kEHqV6mLQ2JSrJ34hQLlu) | 2:52 | 2025-11-06 |  |
 | [Iman Tak Restui](https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 3:51 | 2025-09-25 |  |
 | [Indah Apa Adanya](https://open.spotify.com/track/2RCDHvNUaoXKC9JsgtsGi4) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 3:45 | 2025-06-12 | 2025-07-18 |
 | [Ingatkah?](https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Ingatkah?](https://open.spotify.com/album/4RXz1bccwbZLdHaK0krhLb) | 4:23 | 2025-02-20 |  |
@@ -490,6 +493,7 @@
 | [Tatap Mata](https://open.spotify.com/track/70zHRaP6g351dQktpUq6Bo) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI) | [Tatap Mata](https://open.spotify.com/album/2Vy7gULsfkdO1EwjfwtyNS) | 3:21 | 2025-10-16 |  |
 | [Tawamu](https://open.spotify.com/track/6tzEXuVPbxdaXHiiTFwzbO) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tawamu](https://open.spotify.com/album/1YxNskiSGfDcWVDyyWdcPW) | 3:27 | 2025-02-20 | 2025-06-06 |
 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 | 2024-01-26 | 2024-03-22 |
+| [Teganya Kau](https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Teganya Kau](https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE) | 3:27 | 2025-11-06 |  |
 | [Tegar](https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM), [Sita Nursanti](https://open.spotify.com/artist/0pafVQFBPn1LXwdpTMSqJM) | [Tegar](https://open.spotify.com/album/14h1mJ5zYP7AuzXxRAs16A) | 3:18 | 2025-07-24 | 2025-09-26 |
 | [Tenang](https://open.spotify.com/track/1TMvBhqekWmWJSxpmUMgFz) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Tenang](https://open.spotify.com/album/0AjNJcgo36wOxQzmvra3Zi) | 4:57 | 2025-08-21 | 2025-10-31 |
 | [Terakhir Kali](https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Terakhir Kali](https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB) | 4:54 | 2025-01-09 |  |

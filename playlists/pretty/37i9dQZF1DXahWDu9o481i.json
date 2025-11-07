@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KETTAMA",
-  "num_followers": 48770,
+  "num_followers": 48845,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
         "name": "Pretty Idea",
         "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
-        "name": "VETIVER Y AMARETTO",
-        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "VETIVER Y AMARETTO",
-      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 127830,
-      "name": "Noises + JT",
-      "url": "https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Entwined",
         "url": "https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 220689,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 127830,
+      "name": "Noises + JT",
+      "url": "https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
+        "name": "Cherry Valley",
+        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
         "name": "TYCOON",
         "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
       },
@@ -351,38 +367,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Cherry Valley",
-        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "No Voy A Cambiar",
         "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 165865,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
+        "name": "HOT POT!",
+        "url": "https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "ego of a man",
+      "url": "https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
         "name": "Trist\u00e1n, Ahora Con Reloj",
         "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 173200,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
-        "name": "HOT POT!",
-        "url": "https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "ego of a man",
-      "url": "https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias",
-        "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 283370,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 157027,
       "name": "Another World",
       "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 283370,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -579,22 +579,18 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Trist\u00e1n, Ahora Con Reloj",
-        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
+        "name": "Favorite Place",
+        "url": "https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6"
       },
       "artists": [
         {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 200906,
-      "name": "Estoy Am\u00e1ndote Tan Fuerte",
-      "url": "https://open.spotify.com/track/5PlYq2BQAdoCvfPaMnqjXg"
+      "duration_ms": 196415,
+      "name": "Favorite Place",
+      "url": "https://open.spotify.com/track/523GiEoDg0ulav50HZItuF"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -635,6 +631,26 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
+        "name": "Trist\u00e1n, Ahora Con Reloj",
+        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Estoy Am\u00e1ndote Tan Fuerte",
+      "url": "https://open.spotify.com/track/5PlYq2BQAdoCvfPaMnqjXg"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
         "name": "Hypersilent",
         "url": "https://open.spotify.com/album/0dUwtvMnpFyiUq7CO5hWBb"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 354461,
       "name": "Hypersilent",
       "url": "https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
-        "name": "Favorite Place",
-        "url": "https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 196415,
-      "name": "Favorite Place",
-      "url": "https://open.spotify.com/track/523GiEoDg0ulav50HZItuF"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "A BUG'S LIFE",
-        "url": "https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "A BUG'S LIFE",
-      "url": "https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Wishing For Wounds",
         "url": "https://open.spotify.com/album/6t730CtJHxx2ykmDTwvZfy"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 259626,
       "name": "Wishing For Wounds",
       "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "A BUG'S LIFE",
+        "url": "https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "A BUG'S LIFE",
+      "url": "https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY"
     },
     {
       "added_at": "2025-11-04 21:00:27",

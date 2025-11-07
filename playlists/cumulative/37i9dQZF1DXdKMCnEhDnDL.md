@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Hannah Mae
+> De beste Nederlandse liedjes\. Cover: BLØF & Racoon
 
 425 songs - 21 hr 43 min
 

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-576 songs - 1 day 8 hr 46 min
+578 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Kanna Muche Kaade Goode](https://open.spotify.com/track/4YAsBEAp5yV4AAtlKnsjXh) | [SIDWIN](https://open.spotify.com/artist/6rWRYMJoiSYkmRHxg9YWin) | [Kanna Muche Kaade Goode](https://open.spotify.com/album/3TF3D2bEEkwEl1Z5KQNUm6) | 3:22 | 2024-01-03 | 2024-06-11 |
 | [Kannada Balso](https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG) | [Vibe Guru](https://open.spotify.com/artist/7bd8H4hvMWUY8v6I54DCvi) | [Kannada Balso](https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO) | 2:46 | 2023-10-26 | 2024-04-06 |
 | [Kannale Kannale](https://open.spotify.com/track/3mUmrWPnrpshZevuRfv3PN) | [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s) | [Kannale Kannale](https://open.spotify.com/album/3LHwIXnFFhFrmMDXOGwAkC) | 2:59 | 2025-06-13 |  |
+| [Kannali Nettaru](https://open.spotify.com/track/01qOW2cYhwQGdPNMw50JlF) | [Irfan Qureshi](https://open.spotify.com/artist/2tdPLV4fYx001QLlXimTBf) | [Kannali Nettaru](https://open.spotify.com/album/50XWWZzkekGWQCYj9ahz2r) | 3:25 | 2025-11-06 |  |
 | [Kannalle](https://open.spotify.com/track/4V8RNKh9RTAdGMnZOSlrpp) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [Kannalle](https://open.spotify.com/album/3w0f7cvKqi5sQ8wWxJJTAV) | 1:11 | 2023-09-04 | 2024-04-02 |
 | [Karedaaga Ninna](https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/7ec96HDzbEIgAuIMrq6a3G) | 2:09 | 2023-12-11 | 2024-06-29 |
 | [Karedaaga Ninna](https://open.spotify.com/track/1QsjxwZlmNea67Js4XAiNg) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/4xv9R4Z0Y3oMYhruPheWne) | 2:09 | 2023-12-11 | 2024-04-19 |
@@ -421,6 +422,7 @@
 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 | 2023-05-09 | 2024-01-09 |
 | [Ninna Noduta](https://open.spotify.com/track/5baFUoZRasKY4kY9mfvBXj) | [Vishwas V Mathad](https://open.spotify.com/artist/7baUdCAhXJrptpQORiFozW), [Meghana Pramod](https://open.spotify.com/artist/7q8wxbNtA07ytbGBH6KGnF), [Chetan Argungi](https://open.spotify.com/artist/7aLguQeD2WV6jUH3wNoMwY) | [Ninna Noduta](https://open.spotify.com/album/2IaJzPfIu3AOdG3A31UQ9Y) | 3:20 | 2024-06-17 | 2024-12-10 |
 | [Ninna Preethi](https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ninna Preethi](https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll) | 3:58 | 2023-11-06 | 2024-02-17 |
+| [Ninnale Kaledodenaa](https://open.spotify.com/track/76qkjYTaUP0Y2OmzKmAT1h) | [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Bharat Jain](https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d) | [Ninnale Kaledodenaa](https://open.spotify.com/album/5yWTnUa6Ilvj3H6Xmq8BJJ) | 2:34 | 2025-11-06 |  |
 | [Ninnallu](https://open.spotify.com/track/3Zx9hISruAC8bvHdeRP2Pw) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Ninnallu](https://open.spotify.com/album/5vk1jTeYLm1G8gg4W3LU1c) | 2:58 | 2025-05-30 |  |
 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 | 2023-03-03 | 2023-12-09 |
 | [Ninnindale](https://open.spotify.com/track/3mL8ySikFxmXJeoh5epDAF) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Shashank shetty](https://open.spotify.com/artist/022NSbvjt2BPMhkVffP9CA) | [Ninnindale](https://open.spotify.com/album/0d6Tg4unwqjwxFKP4RkXw8) | 3:45 | 2024-11-08 | 2025-02-19 |

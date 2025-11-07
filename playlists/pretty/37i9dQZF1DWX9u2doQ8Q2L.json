@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394787,
+  "num_followers": 394780,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
+        "name": "BE:ST",
+        "url": "https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
         "name": "IS THIS LOVE",
         "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "\u304a\u3084\u3059\u307fTaxi",
-        "url": "https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe"
-      },
-      "artists": [
-        {
-          "name": "MON7A",
-          "url": "https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "\u304a\u3084\u3059\u307fTaxi",
-      "url": "https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "Prema",
         "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "99 Steps",
         "url": "https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
+        "name": "\u304a\u3084\u3059\u307fTaxi",
+        "url": "https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe"
+      },
+      "artists": [
+        {
+          "name": "MON7A",
+          "url": "https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "\u304a\u3084\u3059\u307fTaxi",
+      "url": "https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
         "name": "\u7768\u3081\u3063\u5a18",
         "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 159000,
       "name": "\u7768\u3081\u3063\u5a18",
       "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
-        "name": "BE:ST",
-        "url": "https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "The 1",
-        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 191717,
-      "name": "The 1",
-      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "MASCARA",
         "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 215040,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "The 1",
+        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 191717,
+      "name": "The 1",
+      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "by my side",
-        "url": "https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6"
+        "name": "I JUST",
+        "url": "https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v"
       },
       "artists": [
         {
-          "name": "SUTEZENI",
-          "url": "https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt"
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
         }
       ],
-      "duration_ms": 289713,
-      "name": "by my side",
-      "url": "https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu"
+      "duration_ms": 170557,
+      "name": "I JUST",
+      "url": "https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "I JUST",
-        "url": "https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v"
+        "name": "by my side",
+        "url": "https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6"
       },
       "artists": [
         {
-          "name": "swetty",
-          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
-        },
-        {
-          "name": "Elle Teresa",
-          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+          "name": "SUTEZENI",
+          "url": "https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt"
         }
       ],
-      "duration_ms": 170557,
-      "name": "I JUST",
-      "url": "https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX"
+      "duration_ms": 289713,
+      "name": "by my side",
+      "url": "https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "\u6d77\u99ac\u6210\u9577\u75db",
-        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "\u6d77\u99ac\u6210\u9577\u75db",
-      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
         "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 169620,
       "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
       "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "\u6d77\u99ac\u6210\u9577\u75db",
+        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "\u6d77\u99ac\u6210\u9577\u75db",
+      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202181,
-      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "Cult.",
         "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 268203,
       "name": "Cult.",
       "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202181,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "\u660e\u308b\u3044\u90e8\u5c4b",
         "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 161066,
       "name": "THRIFTED",
       "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2025-11-05 02:33:29",

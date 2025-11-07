@@ -1,13 +1,29 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 28371,
+  "num_followers": 28389,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACSNLuJ9j89AGLh4XE33G0M",
+  "snapshot_id": "aQqTgAAAAADJtu729tuONpUu32te3eVk",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv"
+    },
     {
       "added_at": null,
       "album": {

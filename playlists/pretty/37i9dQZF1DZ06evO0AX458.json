@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4524,
+  "num_followers": 4525,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADicl+LS5Yte+pNwW8tyUwB",
+  "snapshot_id": "aQqTgAAAAADn141/fc56WyVI3efpt/r3",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+      "duration_ms": 168225,
+      "name": "Feign",
+      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
@@ -380,9 +396,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 168225,
-      "name": "Feign",
-      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
+      "duration_ms": 176242,
+      "name": "Savoring",
+      "url": "https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV"
     },
     {
       "added_at": null,
@@ -435,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
       },
       "artists": [
         {
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 176242,
-      "name": "Savoring",
-      "url": "https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV"
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
     },
     {
       "added_at": null,
@@ -499,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching For A Pulse/The Worth Of The World",
-        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+        "name": "The Apollo Programme Was A Hoax",
+        "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
       },
       "artists": [
         {
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 103520,
-      "name": "I'll Deserve Just That",
-      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+      "duration_ms": 191400,
+      "name": "The Apollo Programme Was A Hoax",
+      "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
       "duration_ms": 92976,
       "name": "History Reshits Itself",
       "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Apollo Programme Was A Hoax",
-        "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "The Apollo Programme Was A Hoax",
-      "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
     },
     {
       "added_at": null,

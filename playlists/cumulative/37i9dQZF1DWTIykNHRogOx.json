@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Clara Luciani",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 196587,
       "name": "Ami Amour",
       "url": "https://open.spotify.com/track/72IpO8YdavUCpqTsqh0FRM"
+    },
+    {
+      "album": {
+        "name": "Amn\u00e9sie",
+        "url": "https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211986,
+      "name": "Amn\u00e9sie",
+      "url": "https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi"
     },
     {
       "album": {
@@ -656,7 +674,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 199666,
       "name": "D'autres vies que la tienne",
       "url": "https://open.spotify.com/track/2GZRdXYNhK1SbqOVu9DdIn"
@@ -804,7 +822,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156497,
       "name": "Devant nous",
       "url": "https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4"
@@ -2193,6 +2211,36 @@
     },
     {
       "album": {
+        "name": "Le mur",
+        "url": "https://open.spotify.com/album/6hX4mrDGnUdsJZfooN4heG"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        },
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Le mur",
+      "url": "https://open.spotify.com/track/2DwiaiLvMLp7KqQZEwRxGT"
+    },
+    {
+      "album": {
         "name": "Le nom des fleurs",
         "url": "https://open.spotify.com/album/2HsikV99a1wKHnzWrObeSm"
       },
@@ -3240,7 +3288,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 220666,
       "name": "Paris Amour",
       "url": "https://open.spotify.com/track/3uJvgK0JVKNVbOHQe0RPfR"
@@ -3482,6 +3530,24 @@
       "duration_ms": 191160,
       "name": "Promis jur\u00e9",
       "url": "https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r"
+    },
+    {
+      "album": {
+        "name": "Paris Amour",
+        "url": "https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "Que la vie est belle",
+      "url": "https://open.spotify.com/track/0QDrItLjyI726Im83QR66W"
     },
     {
       "album": {

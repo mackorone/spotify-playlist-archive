@@ -1,29 +1,13 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 85058,
+  "num_followers": 85076,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAV2pklTr3lQKCEPdZb19MJ",
+  "snapshot_id": "aQqTgAAAAABAG2vk8pKZylBnbcRmkrMX",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Everything Ends",
-      "url": "https://open.spotify.com/track/3yC1soClolbb2jFH7XIPqd"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 244364,
       "name": "Animals",
       "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Everything Ends",
+      "url": "https://open.spotify.com/track/3yC1soClolbb2jFH7XIPqd"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 231161,
       "name": "Black Lungs",
       "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 220575,
-      "name": "Seeing Red",
-      "url": "https://open.spotify.com/track/65qBr6ToDUjTD1RiE1H4Gl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 242356,
       "name": "Impermanence",
       "url": "https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 220575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/65qBr6ToDUjTD1RiE1H4Gl"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/6DLaYITCfzaNEAj0ZyGRad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 241034,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/6DLaYITCfzaNEAj0ZyGRad"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 226166,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 212063,
       "name": "Giving Blood",
       "url": "https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 226166,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 215566,
-      "name": "Elegy",
-      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 242407,
       "name": "Dead Butterflies",
       "url": "https://open.spotify.com/track/2XdcUAsMCuNMaWLmXIhdjW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 215566,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
     },
     {
       "added_at": null,

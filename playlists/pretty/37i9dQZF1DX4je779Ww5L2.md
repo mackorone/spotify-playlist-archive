@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,878 likes - 77 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,868 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 4 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
 | 5 | [Every Dawn's a Mountain](https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 4:07 |
 | 6 | [Touching God \(Feat\. Yebba & Blood Orange\)](https://open.spotify.com/track/2GjW83G2ZUF7pLpcUKuP9Y) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 4:41 |
-| 7 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 |
-| 8 | [Wither](https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Wither](https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM) | 3:00 |
+| 7 | [Wither](https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Wither](https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM) | 3:00 |
+| 8 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 |
 | 9 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 10 | [4am](https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [4am](https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox) | 3:30 |
 | 11 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 14 | [Leap Year](https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Leap Year](https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO) | 5:45 |
 | 15 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 |
 | 16 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 |
-| 17 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 |
-| 18 | [The Sun Will Rise](https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [The Sun Will Rise](https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ) | 3:03 |
+| 17 | [The Sun Will Rise](https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [The Sun Will Rise](https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ) | 3:03 |
+| 18 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 |
 | 19 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 |
 | 20 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 |
 | 21 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 |
 | 22 | [Biotope](https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Biotope](https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd) | 2:48 |
-| 23 | [Vacuum](https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Arrow, Four](https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz) | 3:35 |
-| 24 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 |
+| 23 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 |
+| 24 | [Vacuum](https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Arrow, Four](https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz) | 3:35 |
 | 25 | [Stonewall Riots Forever](https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Stonewall Riots Forever](https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P) | 3:58 |
 | 26 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
 | 27 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 |
@@ -77,13 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 67 | [The Distance](https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2) | [Prize Collect](https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr) | [The Distance](https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud) | 3:04 |
 | 68 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
 | 69 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 |
-| 70 | [Where's The Fun In That?](https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Where's The Fun In That?](https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg) | 2:28 |
-| 71 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 |
+| 70 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 |
+| 71 | [Where's The Fun In That?](https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Where's The Fun In That?](https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg) | 2:28 |
 | 72 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
 | 73 | [Realize \(Essence\)](https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [A Passage Between](https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL) | 4:12 |
 | 74 | [When Everything Was Right](https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [The Seasons: Winter](https://open.spotify.com/album/1Ky0DgdzRVJmFdYA4cuuVf) | 3:18 |
 | 75 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
 | 76 | [Growing Pains](https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Growing Pains](https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2) | 2:53 |
-| 77 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 |
+| 77 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
+| 78 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 |
 
-Snapshot ID: `AAAAAEpdwwJ8+14MsyzDJjNOwVT7DHLg`
+Snapshot ID: `AAAAACObeD5rAGodO84AU8PjIQ60imY2`

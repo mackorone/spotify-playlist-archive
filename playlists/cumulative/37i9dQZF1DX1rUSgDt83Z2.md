@@ -2,9 +2,9 @@
 
 ### [Helemaal NL](https://open.spotify.com/playlist/37i9dQZF1DX1rUSgDt83Z2)
 
-> Mooi van eigen bodem 🇳🇱
+> Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-184 songs - 9 hr 31 min
+188 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [All We Need](https://open.spotify.com/track/6M7IyHyAWnRIVIjqcnjhAO) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [All We Need](https://open.spotify.com/album/1cxwHJeUhCpJP7MLDY1Pw3) | 3:03 | 2024-06-24 | 2024-09-20 |
 | [Alle sterke mensen](https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI) | [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Alle sterke mensen](https://open.spotify.com/album/7CWmjZX0RujBqmDn6EpmuQ) | 2:49 | 2024-06-27 | 2024-09-20 |
 | [Alleen Maar Jou](https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Alleen Maar Jou](https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0) | 3:13 | 2025-06-19 |  |
-| [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 | 2025-02-27 |  |
+| [Alles Of Niets \- Akoestisch](https://open.spotify.com/track/5IZQPARgIn4XsSGhCfzFZQ) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [De Exalto Sessies](https://open.spotify.com/album/5DIBCPGyaBpaKIC0IFFa5f) | 4:51 | 2025-11-06 |  |
+| [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 | 2025-02-27 | 2025-11-07 |
 | [Allez! Touché!](https://open.spotify.com/track/13s86KfJggu0QBQW4HoYDh) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Parler Français](https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2) | 3:07 | 2025-02-20 | 2025-05-09 |
 | [Als je dat maar weet](https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als je dat maar weet](https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1) | 2:35 | 2025-01-10 | 2025-06-05 |
 | [Als Je Gaat](https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS) | 2:58 | 2025-02-20 |  |
@@ -46,9 +47,10 @@
 | [Dit Is Zo'n Dag](https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Dit Is Zo'n Dag](https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H) | 3:27 | 2025-04-16 | 2025-05-16 |
 | [Door En Door](https://open.spotify.com/track/7cATx9Gorgj9VCl97NCWRe) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Door En Door](https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h) | 3:13 | 2025-03-06 | 2025-04-16 |
 | [Droom Een Beetje Meer](https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Droom Een Beetje Meer](https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt) | 3:25 | 2025-04-10 |  |
-| [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 | 2025-06-04 |  |
+| [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 | 2025-06-04 | 2025-11-07 |
 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 | 2024-11-07 |  |
 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 | 2025-04-03 | 2025-05-09 |
+| [Eén keer achterom](https://open.spotify.com/track/0Dacq628mf81r6ZGFGMio5) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Eén keer achterom](https://open.spotify.com/album/0TlIHAMKFWelmt9DKUxTBz) | 3:45 | 2025-11-06 |  |
 | [Fiasco](https://open.spotify.com/track/7i5x2DcnSzZaysnT9TIlFu) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Fiasco](https://open.spotify.com/album/4OXuvQj5PiA5nwTyDvhBK2) | 2:22 | 2024-09-19 | 2024-10-25 |
 | [Ga Maar Gauw](https://open.spotify.com/track/7BqgNKFlthSF7kF0bjqg3N) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Ga Maar Gauw](https://open.spotify.com/album/2eOt2P8J0vvlS7tR1Mw7CH) | 3:07 | 2025-05-08 | 2025-10-23 |
 | [Garden of Eden](https://open.spotify.com/track/2u109kLlyAdp5Kidcwi8HP) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [By My Side](https://open.spotify.com/album/7LWtW6KBmbvFd9V6EVuvjq) | 3:06 | 2024-06-24 | 2024-12-03 |
@@ -65,10 +67,12 @@
 | [Het Zou Maar Eenzaam Zijn](https://open.spotify.com/track/3cL3CM89GEtdm4JsnMVkJH) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Tempo Giusto](https://open.spotify.com/album/51hBNht7uljss0tqH7btFk) | 3:21 | 2025-04-16 | 2025-04-25 |
 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 | 2024-08-29 | 2025-03-14 |
 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 | 2025-07-09 |  |
+| [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 | 2025-11-06 |  |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-09-19 |  |
 | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B) | 3:11 | 2024-07-22 | 2024-12-13 |
 | [Huil maar niet om mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 | 2024-06-24 | 2024-10-04 |
-| [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 | 2025-07-09 |  |
+| [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 | 2025-07-09 | 2025-11-07 |
+| [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 | 2025-11-06 |  |
 | [Huisje, Boompje, Feestje](https://open.spotify.com/track/16XZUM3T4NcDPgRre4dHDp) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Huisje, Boompje, Feestje](https://open.spotify.com/album/4J9Wc64l9Wr0xdyUKoGtRo) | 3:24 | 2025-02-20 | 2025-05-16 |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-06-24 | 2024-09-13 |
 | [I Will Go There](https://open.spotify.com/track/4k7HwknBn8gSBRgqgIMvba) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [I Will Go There](https://open.spotify.com/album/6rmoINRdaMiAsPKrAeJMlt) | 3:25 | 2024-06-24 | 2024-08-30 |
@@ -170,7 +174,7 @@
 | [Vandaag Is Nu](https://open.spotify.com/track/6sCXsp7SYDzrMz68DRgnkF) | [RENEE](https://open.spotify.com/artist/3zN2vtM9L8hRcG1W3cWSsr) | [Vandaag Is Nu](https://open.spotify.com/album/0nF5huhjNM8JmLfYU5FpmD) | 2:33 | 2025-01-08 | 2025-02-11 |
 | [Verbonden](https://open.spotify.com/track/6E8c8jeXEiGBosTfXuiq2H) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Verbonden](https://open.spotify.com/album/0WXUWk23Vy0tMhP7v0I3a9) | 3:00 | 2024-06-24 | 2024-08-30 |
 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 | 2025-06-16 |  |
-| [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 | 2025-02-27 |  |
+| [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 | 2025-02-27 | 2025-11-07 |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2024-06-24 |  |
 | [Vroeger Of Later](https://open.spotify.com/track/75y3NXrnUyx5ihHYQkz0PO) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI) | [Vroeger Of Later](https://open.spotify.com/album/2FG9W0IT03bXxpHaP1kuTx) | 3:15 | 2024-06-24 | 2024-07-23 |
 | [Wat Als Ik Wat Mis](https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Wat Als Ik Wat Mis](https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ) | 2:45 | 2025-02-27 |  |

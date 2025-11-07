@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 186207,
       "name": "2020",
       "url": "https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 208240,
       "name": "A Primera Vista - En Vivo",
       "url": "https://open.spotify.com/track/5ILO4muNGt6OcH0sEQjyTG"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 168500,
       "name": "Amor Roto - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
@@ -436,6 +436,28 @@
       "duration_ms": 150859,
       "name": "Am\u00e1ndote",
       "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+    },
+    {
+      "album": {
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
     },
     {
       "album": {
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 166541,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/57ghtDy5WJewLL0ggGG8E4"
@@ -2646,7 +2668,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 157220,
       "name": "Nunca Para Siempre (Live Session)",
       "url": "https://open.spotify.com/track/6Pt2BTuBlWiNhrNVXthBw6"
@@ -3452,7 +3474,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 77890,
       "name": "Timba",
       "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
@@ -3976,7 +3998,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 165503,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Depresi\u00f3n Sonora.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -244,6 +244,24 @@
       "duration_ms": 208862,
       "name": "agosto",
       "url": "https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX"
+    },
+    {
+      "album": {
+        "name": "AGUA DE LOS COCOS",
+        "url": "https://open.spotify.com/album/19SdnBojHwQbpOdtN3heQi"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171101,
+      "name": "AGUA DE LOS COCOS",
+      "url": "https://open.spotify.com/track/6A6hsVU78cJq6SL3PQ0Od2"
     },
     {
       "album": {
@@ -512,6 +530,42 @@
       "duration_ms": 304693,
       "name": "Angel Genetics",
       "url": "https://open.spotify.com/track/27JBVGR4cIeWEzU39zIRJl"
+    },
+    {
+      "album": {
+        "name": "Solo es un preliminar",
+        "url": "https://open.spotify.com/album/7tYZS1c8o7NdP1XCKOnhdr"
+      },
+      "artists": [
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124158,
+      "name": "Angie la ladrona",
+      "url": "https://open.spotify.com/track/7q6RvZZTrGbdO4digmkQFM"
+    },
+    {
+      "album": {
+        "name": "Ansiedad Social",
+        "url": "https://open.spotify.com/album/2mirnr7ex2EUk3xXjNz5dn"
+      },
+      "artists": [
+        {
+          "name": "Sugarcrush",
+          "url": "https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167701,
+      "name": "Ansiedad Social",
+      "url": "https://open.spotify.com/track/0uf3yBVaoyMthJiiu2dZez"
     },
     {
       "album": {
@@ -1408,7 +1462,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 173263,
       "name": "Club Zed",
       "url": "https://open.spotify.com/track/0bPubbhnFrRDbib5TZ0s3b"
@@ -2217,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "D\u00eda de verano",
+        "url": "https://open.spotify.com/album/5dATK3E5r8R7vkZQ6KFTC2"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Bravos",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235547,
+      "name": "D\u00eda de verano",
+      "url": "https://open.spotify.com/track/1hSw1XM3NZdNxP6JTXfPwj"
+    },
+    {
+      "album": {
         "name": "D\u00eda tripolar",
         "url": "https://open.spotify.com/album/7xCEEXJNQMM0pj2opLbMa6"
       },
@@ -2517,6 +2589,28 @@
     },
     {
       "album": {
+        "name": "EL PILLA PILLA",
+        "url": "https://open.spotify.com/album/1WlLfujpP2dowFVMtGCjGL"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        },
+        {
+          "name": "Che Gabbana",
+          "url": "https://open.spotify.com/artist/2wte2oYgiyRnCDcBsrq8md"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "EL PILLA PILLA",
+      "url": "https://open.spotify.com/track/3u17dIDqW6O4yvXFveIHIQ"
+    },
+    {
+      "album": {
         "name": "EL RARO DE CLASE",
         "url": "https://open.spotify.com/album/4cpl2UEREyv1Rrzz60wevS"
       },
@@ -2528,7 +2622,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175462,
       "name": "EL RARO DE CLASE",
       "url": "https://open.spotify.com/track/01pDXbyBkRPf3WuTGllkjL"
@@ -4806,7 +4900,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 167303,
       "name": "Mao Enamorado Pilotando Un Mecha",
       "url": "https://open.spotify.com/track/2gd5JjjE0H0CWXeIUEhoJW"
@@ -5612,7 +5706,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156988,
       "name": "Nena, no est\u00e1s",
       "url": "https://open.spotify.com/track/0008pgN5Z0F4pXYYsbb2mm"
@@ -5952,7 +6046,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 192320,
       "name": "No veo una salida",
       "url": "https://open.spotify.com/track/4y9eXCqePXQUSfQYzymJ6X"
@@ -6955,6 +7049,24 @@
     },
     {
       "album": {
+        "name": "PROBLEMAS",
+        "url": "https://open.spotify.com/album/5va9scm2bmjZZnwvoigQZ3"
+      },
+      "artists": [
+        {
+          "name": "Nepal Nepal",
+          "url": "https://open.spotify.com/artist/5IgKw66ky3FmSx4GZftWvc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274204,
+      "name": "Quinto Asalto",
+      "url": "https://open.spotify.com/track/2PN3S1ZJxkwXvWRZxrdycO"
+    },
+    {
+      "album": {
         "name": "NUEVA SINFON\u00cdA SOBRE EL CAOS",
         "url": "https://open.spotify.com/album/2tdYBjtWsaCnIjAHn37A3A"
       },
@@ -7374,7 +7486,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 169558,
       "name": "Segunda capa",
       "url": "https://open.spotify.com/track/5JjSgY4uGoujvGj984FdGv"
@@ -7670,6 +7782,24 @@
       "duration_ms": 149142,
       "name": "Somos tan malos cada dos por tres",
       "url": "https://open.spotify.com/track/52k8fBbw1k22kx5zpf6ff7"
+    },
+    {
+      "album": {
+        "name": "Soy adicto",
+        "url": "https://open.spotify.com/album/4AI158XdZWF4oCH8X5bvEI"
+      },
+      "artists": [
+        {
+          "name": "Tigre y Diamante",
+          "url": "https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149674,
+      "name": "Soy adicto",
+      "url": "https://open.spotify.com/track/11kGIr2kn8ocBFd6XiUqJY"
     },
     {
       "album": {
@@ -9386,7 +9516,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 206099,
       "name": "Yo pensaba que me hab\u00eda tocado Dios",
       "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"

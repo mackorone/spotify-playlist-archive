@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > The hottest hits in Morocco\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,655 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,647 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 12 | [Tsswirtek](https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tsswirtek](https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO) | 2:27 |
 | 13 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 |
 | 14 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 |
-| 15 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
-| 16 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
-| 17 | [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 |
-| 18 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
-| 19 | [NGHAMER](https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [NGHAMER](https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX) | 2:59 |
-| 20 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
-| 21 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
-| 22 | [S2al](https://open.spotify.com/track/3WsIrbUbS5L2ONXIfs1k1a) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [S2al](https://open.spotify.com/album/33QTv64kKcqfqAP8cxB2TY) | 3:48 |
-| 23 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
-| 24 | [SONGI SONGI \- ARABIC REMIX](https://open.spotify.com/track/103iHzuUptY8rjReB2i9rj) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [SONGI SONGI \(ARABIC REMIX\)](https://open.spotify.com/album/10YKG6MVhJJPZeRKZqbIA9) | 3:14 |
+| 15 | [SONGI SONGI \- ARABIC REMIX](https://open.spotify.com/track/103iHzuUptY8rjReB2i9rj) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [SONGI SONGI \(ARABIC REMIX\)](https://open.spotify.com/album/10YKG6MVhJJPZeRKZqbIA9) | 3:14 |
+| 16 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
+| 17 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 18 | [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 |
+| 19 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
+| 20 | [NGHAMER](https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [NGHAMER](https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX) | 2:59 |
+| 21 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
+| 22 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
+| 23 | [S2al](https://open.spotify.com/track/3WsIrbUbS5L2ONXIfs1k1a) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [S2al](https://open.spotify.com/album/33QTv64kKcqfqAP8cxB2TY) | 3:48 |
+| 24 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
 | 25 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 |
 | 26 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 27 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
 | 50 | [Zina Zina](https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Zina Zina](https://open.spotify.com/album/0M2SI231gHU8QtA31csehN) | 3:07 |
 
-Snapshot ID: `AAAAAHceKc9Ixwbk3BlXKZPBatYOt3MQ`
+Snapshot ID: `AAAAAA0PYl+nVTunl+2X1LeDBBI7d8Ia`

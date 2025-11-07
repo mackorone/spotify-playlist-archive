@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,414 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,379 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 52 | [Que Mal](https://open.spotify.com/track/2GsYGKhQu8zqbIX3ke2ku8) | [Giovanni Vázquez](https://open.spotify.com/artist/4uwo70JDuIt4LDWDUb1WlT) | [Que Mal](https://open.spotify.com/album/2MgfNo9Aajfa3LyXidLTUU) | 3:38 |
 | 53 | [CLEOPATRA](https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [CLEOPATRA](https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag) | 3:25 |
 | 54 | [Lejos Estamos Mejor](https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Lejos Estamos Mejor](https://open.spotify.com/album/6iDt1S8DkyOAa7sOZ4oWM0) | 2:58 |
-| 55 | [Quisiera Detener el Tiempo](https://open.spotify.com/track/0xNg6Hw1P7nOVJ0HIXatxf) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Jalense la Greña](https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc) | 3:40 |
+| 55 | [Quisiera Detener el Tiempo](https://open.spotify.com/track/0xNg6Hw1P7nOVJ0HIXatxf) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [JR](https://open.spotify.com/artist/5lVrLnOGxIY3q8TTqDd5m2) | [Jalense la Greña](https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc) | 3:40 |
 | 56 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
 | 57 | [Recuerdos](https://open.spotify.com/track/1RsnpWuoSoLeApFoIUXbRC) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO), [D\. PHANTØM](https://open.spotify.com/artist/24ElwyRXmzeJZCtsAR84Yh) | [Recuerdos](https://open.spotify.com/album/3IcJ6UuwJEAPzZQW1fIoDd) | 3:29 |
 | 58 | [WISCACHOS](https://open.spotify.com/track/2rApWcTGUQuq4iDuB8n763) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 2:58 |

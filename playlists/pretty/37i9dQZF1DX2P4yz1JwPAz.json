@@ -1,6 +1,6 @@
 {
   "description": "808s & Melodies. Cover: Blanco",
-  "num_followers": 27358,
+  "num_followers": 27355,
   "original_name": "R&D",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-05-30 12:44:25",
       "album": {
+        "name": "25/8",
+        "url": "https://open.spotify.com/album/17RR2AT87P8UELwlelwM7b"
+      },
+      "artists": [
+        {
+          "name": "Brandz",
+          "url": "https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl"
+        },
+        {
+          "name": "Zion Foster",
+          "url": "https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4eJsS3MQMHUgkGLOJONyN7"
+    },
+    {
+      "added_at": "2025-05-30 12:44:25",
+      "album": {
         "name": "Good Morning Gorgeous",
         "url": "https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 167431,
       "name": "On Top (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/71G3ce3FWwJOlpZRksXmfX"
-    },
-    {
-      "added_at": "2025-05-30 12:44:25",
-      "album": {
-        "name": "25/8",
-        "url": "https://open.spotify.com/album/17RR2AT87P8UELwlelwM7b"
-      },
-      "artists": [
-        {
-          "name": "Brandz",
-          "url": "https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl"
-        },
-        {
-          "name": "Zion Foster",
-          "url": "https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4eJsS3MQMHUgkGLOJONyN7"
     },
     {
       "added_at": "2025-05-30 12:44:25",

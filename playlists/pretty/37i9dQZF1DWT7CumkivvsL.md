@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 
 > Will love prove stronger than resentment? Listen to the official playlist for Culpa Mia, Culpa Tuya , and Culpa Nuestra, now streaming on Prime Video
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,092 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,160 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 | 39 | [Dynamite](https://open.spotify.com/track/6e7Eudq88wcygOphhtQnrN) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:51 |
 | 40 | [Ahora Que Puedo \(from the Prime Video Original Movie CULPA MIA\)](https://open.spotify.com/track/77wog1cw1fHfhE2iBRkahN) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Ahora Que Puedo \(from the Prime Video Original Movie CULPA MIA\)](https://open.spotify.com/album/0E3qYoHJbpR5CAEQ0RpoS1) | 4:28 |
 | 41 | [Me quiero ir](https://open.spotify.com/track/4DlHu6t9JZVvbvYtEoe6PN) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 3:05 |
-| 42 | [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 |
+| 42 | [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:40 |
 | 43 | [Strange Effect \(Killing Eve\)](https://open.spotify.com/track/2jiozkiIJZvTYEz58j6UFh) | [Unloved](https://open.spotify.com/artist/5SOsxafkLy6a7mUyPp0ETK), [Raven Violet](https://open.spotify.com/artist/2BxiZQw7FwvA6xYVBhPZun) | [Strange Effect \(Killing Eve\)](https://open.spotify.com/album/7mG466vIvXA7CtGMi8Z6Rh) | 2:41 |
 | 44 | [Sacúdete](https://open.spotify.com/track/4GsmrjLdnfsgkbV8pmRgdw) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Sacúdete](https://open.spotify.com/album/2OakpM5ZzFtokfU9xH8gzm) | 2:02 |
 | 45 | [CHIBI](https://open.spotify.com/track/4wKzb4OXeXiuqzyuU2PqaB) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:08 |

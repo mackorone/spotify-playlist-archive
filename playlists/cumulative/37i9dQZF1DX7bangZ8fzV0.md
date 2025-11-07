@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Die Heuwels Fantasties
+> Net die beste Afrikaanse musiek! Omslag: Eloff
 
-338 songs - 18 hr 40 min
+340 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Chocolate Sigarette](https://open.spotify.com/track/0185cQUYmXRbiVDJiGAXHU) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Chocolate Sigarette](https://open.spotify.com/album/3mC8IJz4TXi2iEMMYNytOU) | 3:18 | 2023-05-18 | 2023-06-16 |
 | [Coco Pops en Kaas](https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Coco Pops en Kaas](https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1) | 4:02 | 2023-03-30 | 2023-05-12 |
 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 | 2023-12-14 |  |
+| [Country Probeer](https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Country Probeer](https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p) | 3:52 | 2025-11-06 |  |
 | [Dagdrome in Suburbia](https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/7HUBQlGEE0eQ77zIT6Yz40) | 3:11 | 2023-03-09 | 2023-04-14 |
 | [Dans Die Vlamme Dood](https://open.spotify.com/track/1rw7TMwVcioAaSbrHXPQjl) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Dans Die Vlamme Dood](https://open.spotify.com/album/5ZrGwrSdrxN36ySRx5ye76) | 2:53 | 2025-06-13 | 2025-08-30 |
 | [Dans Kwagga](https://open.spotify.com/track/5rqe4RmTztq10pipi4b0DA) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Dans Kwagga](https://open.spotify.com/album/6EUKAwUr11udwqsy8Fxvd7) | 3:48 | 2024-05-02 | 2024-06-07 |
@@ -84,7 +85,7 @@
 | [Dogter](https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dogter](https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i) | 4:03 | 2022-11-17 | 2023-02-03 |
 | [Drink](https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa) | [Frikkie Braaibroodjie](https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL) | [Drink](https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx) | 3:18 | 2022-12-01 | 2023-02-10 |
 | [EEN TWEE](https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [EEN TWEE](https://open.spotify.com/album/3MO3xOBykVnnbqOCXzg1JB) | 2:25 | 2022-07-14 | 2022-10-14 |
-| [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 | 2025-02-20 |  |
+| [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 | 2025-02-20 | 2025-11-07 |
 | [Ek Kannie](https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Ek Kannie](https://open.spotify.com/album/3a1UyyczCmUfkeXObfdnkn) | 3:18 | 2025-08-28 |  |
 | [Ek Like Jou](https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Ek Like Jou](https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp) | 3:24 | 2022-09-14 | 2024-10-11 |
 | [Ek Ly Aan](https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Ek Ly Aan](https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8) | 3:17 | 2023-02-09 | 2023-07-21 |
@@ -177,7 +178,7 @@
 | [Kommie Kommie](https://open.spotify.com/track/2grGYpbOv0e7Mig0pHIPIk) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Kommie Kommie](https://open.spotify.com/album/3ngluFUYvZS2pPVa4GaZ01) | 3:06 | 2025-05-29 | 2025-06-01 |
 | [Koos Wye Voete](https://open.spotify.com/track/0fXZzePp4nG3t34VziBTYh) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Koos Wye Voete](https://open.spotify.com/album/27PyNOkOLh3yaFkz7wugZX) | 3:16 | 2024-10-31 | 2024-12-13 |
 | [Kortbroek](https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Kortbroek](https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH) | 2:56 | 2023-04-27 | 2023-08-25 |
-| [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 | 2023-05-11 |  |
+| [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 | 2023-05-11 | 2025-11-07 |
 | [Koue Pizza](https://open.spotify.com/track/1fEZOVHd17gcqv0ND1fpcV) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Koue Pizza](https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439) | 3:01 | 2022-10-20 | 2022-11-11 |
 | [Kwaai](https://open.spotify.com/track/5C34K01X7SH8IK19GhnLKG) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kwaai](https://open.spotify.com/album/2bNCNkYpsXSzHObC5t6woq) | 2:48 | 2025-09-04 |  |
 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 | 2024-11-01 |
@@ -215,6 +216,7 @@
 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 | 2024-07-11 |  |
 | [Meisies Soos Jy](https://open.spotify.com/track/67N0nsJvvBnvDYzh9ajNWF) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Meisies Soos Jy](https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla) | 4:10 | 2022-04-22 | 2022-11-25 |
 | [Memories Maak](https://open.spotify.com/track/3Iue15EbnjaD5dfgYCw7mf) | [Ariana Venus](https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe) | [Memories Maak](https://open.spotify.com/album/28qOth6mq7ANU4Pgrb5KK9) | 3:36 | 2025-06-19 | 2025-08-01 |
+| [Mia](https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Piesangskille](https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC) | 4:06 | 2025-11-06 |  |
 | [Moegdans](https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Moegdans](https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq) | 3:21 | 2023-09-21 | 2025-09-03 |
 | [Mooier As Mens](https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Mooier As Mens](https://open.spotify.com/album/6icQRVPzVaFuFForSooh0L) | 3:31 | 2025-05-15 | 2025-09-19 |
 | [Morsig](https://open.spotify.com/track/2PM1iKRKIz73N0r5wRfl5e) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Morsig](https://open.spotify.com/album/4apOG7LWrQ140OaSwLtWNs) | 3:14 | 2024-09-27 | 2025-06-07 |

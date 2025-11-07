@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 
 > Start your morning right with this collection of songs! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_GoodMorning\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,450 likes - 80 songs - 4 hr 25 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,448 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 | 79 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 80 | [Dancing In A Dream](https://open.spotify.com/track/0cuT0PRfkUNgSefAiy19FG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Dancing In A Dream](https://open.spotify.com/album/0sj1PJTkUkIA3V2a98whYB) | 2:38 |
 
-Snapshot ID: `AAAdfWLgxRAzuFruXJccRA1j1xUM0sEa`
+Snapshot ID: `AAAdfzmKZc6Xao5zq85nmZg01Nn+dvIz`

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,031 songs - 1 day 16 hr 59 min
+2,032 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Amazed](https://open.spotify.com/track/6siDWFWn9fraG7H9nISmyp) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Amazed](https://open.spotify.com/album/0wSJbV547KRXqKJ0OKZWyy) | 1:00 | 2025-01-21 |  |
 | [Amber Glow](https://open.spotify.com/track/38hLgo0rxdDwwD5WV9v5Pb) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ambient Piano Preludes](https://open.spotify.com/album/0SsjsjgsbPhlAceWmMc01P) | 1:14 | 2022-01-12 |  |
 | [Amber Glow \- Cello Version](https://open.spotify.com/track/6zHmriRgXCFqXgW3tjk3ro) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Ambient Preludes, Vol\. 2 \(Cello Version\)](https://open.spotify.com/album/17PzB2hpgvNhS4nIPMaGHr) | 1:06 | 2024-02-09 | 2024-02-13 |
+| [Amber Reflection](https://open.spotify.com/track/0oTJFYaGlIdnuUsqE37jle) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Amber Reflection](https://open.spotify.com/album/6yGOtUKDe0ywBK1UjNdWjk) | 1:00 | 2025-11-06 |  |
 | [Ambient Wishes](https://open.spotify.com/track/6j3ybZMe4JpsBgzProzadj) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sublime Peace](https://open.spotify.com/album/7tSYyxx3MVNrafguhlTTMB) | 1:03 | 2022-03-24 |  |
 | [Ambros](https://open.spotify.com/track/5ds2ei9DMnwNsySpTz4lRJ) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Ambros](https://open.spotify.com/album/5E9ukQDuEYBMHC5lNr7Dp0) | 2:15 | 2022-01-12 | 2024-01-30 |
 | [Amore](https://open.spotify.com/track/10ac5eb1d5iwLmKQmHGff8) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC), [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Amore](https://open.spotify.com/album/7pyUBZoopjbuKXrwl4I0gg) | 1:39 | 2022-01-12 | 2024-02-13 |

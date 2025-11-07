@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. El Rabbanito en portada.",
-  "num_followers": 223292,
+  "num_followers": 223358,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 205901,
-      "name": "El Due\u00f1o Del Palenque (En Vivo)",
-      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "El R2",
         "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 189075,
       "name": "La Capi",
       "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 205901,
+      "name": "El Due\u00f1o Del Palenque (En Vivo)",
+      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -499,6 +499,26 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Rugrats",
         "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 235875,
       "name": "Rugrats",
       "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -595,6 +595,26 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/5lVrLnOGxIY3q8TTqDd5m2"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "El Gerry",
+      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Desde Topo Hasta La Sierra (En vivo)",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -611,22 +631,6 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra - En vivo",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "Jalense la Gre\u00f1a",
-        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "El Gerry",
-      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1231,22 +1235,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "Comandante 09",
-        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 236342,
-      "name": "Comandante 09",
-      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "El R\u00e1pido (En vivo)",
         "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
       },
@@ -1267,6 +1255,22 @@
       "duration_ms": 208405,
       "name": "El R\u00e1pido - En vivo",
       "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "Comandante 09",
+        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 236342,
+      "name": "Comandante 09",
+      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1643,26 +1647,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "El Hombre De Las 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/0hGC6GQVpdIZlZqLVQ610L"
-      },
-      "artists": [
-        {
-          "name": "Martin Castillo",
-          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
-        },
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 184261,
-      "name": "El Compa 1",
-      "url": "https://open.spotify.com/track/4X51ot2ZvuPIVRbbPwoLBv"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -1679,6 +1663,26 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "El Hombre De Las 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/0hGC6GQVpdIZlZqLVQ610L"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 184261,
+      "name": "El Compa 1",
+      "url": "https://open.spotify.com/track/4X51ot2ZvuPIVRbbPwoLBv"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1715,6 +1719,26 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "Nos Gusto La Mafia \"EXOTIC\u00d3N 2.0\"",
+        "url": "https://open.spotify.com/album/4V6dAxy3fxZSWnQsiLETSj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 165242,
+      "name": "Nos Gusto La Mafia \"EXOTIC\u00d3N 2.0\"",
+      "url": "https://open.spotify.com/track/34ivsTSHJiSlnQ3ROqDLpg"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -1735,26 +1759,6 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "Nos Gusto La Mafia \"EXOTIC\u00d3N 2.0\"",
-        "url": "https://open.spotify.com/album/4V6dAxy3fxZSWnQsiLETSj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 165242,
-      "name": "Nos Gusto La Mafia \"EXOTIC\u00d3N 2.0\"",
-      "url": "https://open.spotify.com/track/34ivsTSHJiSlnQ3ROqDLpg"
     },
     {
       "added_at": "2025-08-15 06:00:35",

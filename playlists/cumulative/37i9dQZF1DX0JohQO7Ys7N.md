@@ -2,14 +2,14 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Xenia Manasseh
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ukweli & Xenia Manasseh
 
-291 songs - 16 hr 21 min
+293 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-01-12 | 2023-10-27 |
-| [Afraid, Pt\. 2 \- feat\. Xenia Manasseh](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2 \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 | 2025-03-14 |  |
+| [Afraid, Pt\. 2 \- feat\. Xenia Manasseh](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2 \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 | 2025-03-14 | 2025-11-07 |
 | [Aheri](https://open.spotify.com/track/5vEmN5ml5878eDF1vJI1Uc) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Kuwe](https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY) | 4:35 | 2021-12-28 | 2023-11-25 |
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-24 | 2025-02-14 |
 | [Aibu \(feat\. Bien\)](https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu \(feat\. Bien\)](https://open.spotify.com/album/6W4ZbKDYOh7ZPB4KGm5iZ0) | 2:17 | 2024-03-07 | 2025-02-21 |
@@ -107,6 +107,7 @@
 | [Hypnotize](https://open.spotify.com/track/5nOcqh0xXY6ckhXIqvnNyJ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word](https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF) | 2:46 | 2025-02-13 | 2025-02-21 |
 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 | 2025-02-13 | 2025-02-21 |
 | [I Got You](https://open.spotify.com/track/5gsRgQ0dYdKhxjo2QGFNIV) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wendy Kay](https://open.spotify.com/artist/12iY7rpJm4nczAeo4kyw7u), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Soul'd Duets](https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6) | 3:35 | 2024-05-16 | 2025-09-12 |
+| [I HATED YOUR RELATIONSHIP](https://open.spotify.com/track/7fl8eAcXmlSiKH0fsaKglK) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [](https://open.spotify.com/album/null) | 1:42 | 2025-11-06 |  |
 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-02-23 | 2023-10-13 |
 | [I Like It](https://open.spotify.com/track/4HkWmhTPcL1SUex6Phpg5N) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [The Sweetest Time](https://open.spotify.com/album/0kHP5lmMGgaPNS4tI8mwxX) | 3:20 | 2025-09-11 |  |
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |
@@ -272,8 +273,9 @@
 | [Tonight](https://open.spotify.com/track/3pmtkeRPl7UNK389EC8lvS) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Tonight](https://open.spotify.com/album/6orgHTkhJhUseTwtujjvmz) | 1:40 | 2024-08-15 |  |
 | [Tosheka](https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP) | 4:02 | 2021-12-28 | 2022-08-14 |
 | [Tosheka](https://open.spotify.com/track/5g1YeZeEGyPOMwnz0TpGeO) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/7nuk7Wcfcv8UyMDfRimD4I) | 4:02 | 2021-12-28 | 2023-03-25 |
+| [Track 1](https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [True Love](https://open.spotify.com/track/688o7mJuRk2PabPvprhoeF) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 2:50 | 2025-02-13 | 2025-02-21 |
-| [truth](https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [truth](https://open.spotify.com/album/3UKFqVZGA0X7bFBVM6bXy8) | 2:32 | 2024-05-16 |  |
+| [truth](https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [truth](https://open.spotify.com/album/3UKFqVZGA0X7bFBVM6bXy8) | 2:32 | 2024-05-16 | 2025-11-07 |
 | [Turn It Off](https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [TURN IT OFF](https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS) | 3:42 | 2022-10-21 | 2023-04-28 |
 | [Tuwe Pamoja](https://open.spotify.com/track/0OWLsy79RwA9oU8HXOabwv) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 3:12 | 2024-05-16 |  |
 | [Ukimwona](https://open.spotify.com/track/77DPPsj43UAUoncZaJ5478) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Made in the Streets](https://open.spotify.com/album/0qlw8vU7ftNMYyuJ00Ka3D) | 3:52 | 2025-02-13 | 2025-02-21 |

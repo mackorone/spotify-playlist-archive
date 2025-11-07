@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 61766,
+  "num_followers": 61765,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAARCsExScIo885QkKnlb9ptwAIRGNu4",
+  "snapshot_id": "AAARDKMIzHqWEcv6gLFABnkKWDTlMbsX",
   "tracks": [
+    {
+      "added_at": "2025-11-06 17:01:43",
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/22EzpDu4EgPaPuPiUtHZLw"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 150238,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/4LO5lzQZM94mXCqDjTreuZ"
+    },
     {
       "added_at": "2025-11-05 13:03:50",
       "album": {

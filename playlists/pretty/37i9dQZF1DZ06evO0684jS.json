@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 892277,
+  "num_followers": 892284,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADrdOGpSPc3fCV7KY+VfEI6",
+  "snapshot_id": "aQqTgAAAAACevmNHbRXDCTH69NyS36oh",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 268493,
+      "name": "Beez In The Trap",
+      "url": "https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Gang (Deluxe Version)",
         "url": "https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 284586,
       "name": "Tapout",
       "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 268493,
-      "name": "Beez In The Trap",
-      "url": "https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC"
     },
     {
       "added_at": null,

@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 | 17 | [A Mi Me Vale](https://open.spotify.com/track/66d3HONkgvO06vvIpYh4us) | [Techy Fatule](https://open.spotify.com/artist/6qpTu1AzEuiBommRAqk3Xe) | [Sie7e](https://open.spotify.com/album/3MWypGfaEAZZ6gOOayxPsG) | 2:44 |
 | 18 | [The Sweetest Death is Loving You](https://open.spotify.com/track/5pEqp6Ob9ZNvYB4zboPUNU) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [The Sweetest Death is Loving You](https://open.spotify.com/album/7qcXa7Z5KFsdKvqEqiYSzN) | 2:52 |
 | 19 | [Oculto](https://open.spotify.com/track/2zqri1dvhNPY5iTzMSKSUu) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Oculto](https://open.spotify.com/album/7LFNyhOzuy3ko12HHhyEDo) | 3:19 |
-| 20 | [Camaleónica](https://open.spotify.com/track/2qrEKeXpkwcXvOq7Iop76S) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 2:25 |
-| 21 | [Lo Bailado](https://open.spotify.com/track/3c8xmrdiZWujRxKRmhuf11) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Para Darte Cuenta, Vol\. I](https://open.spotify.com/album/4BKl3gBA8Jkl918h0Z9C54) | 3:03 |
+| 20 | [Lo Bailado](https://open.spotify.com/track/3c8xmrdiZWujRxKRmhuf11) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Para Darte Cuenta, Vol\. I](https://open.spotify.com/album/4BKl3gBA8Jkl918h0Z9C54) | 3:03 |
+| 21 | [Camaleónica](https://open.spotify.com/track/2qrEKeXpkwcXvOq7Iop76S) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 2:25 |
 | 22 | [Follow Me](https://open.spotify.com/track/4SOm4a0BExe8h4zrc90JnF) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Follow Me](https://open.spotify.com/album/0wvAhcJV4rHO76DZ92mXZk) | 3:03 |
 | 23 | [El Lado Oscuro](https://open.spotify.com/track/3GaeHPMA1eVmRt7hVWpq30) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv), [Sam I Am](https://open.spotify.com/artist/5kRSUlNT8iaNOlWMA8QZZ4) | [Sexto Sentido](https://open.spotify.com/album/2i1KFGoNAsZCNmCvZBEGzw) | 3:20 |
 | 24 | [Perpetua](https://open.spotify.com/track/5pRkdwyAJKkArVytMSIY8E) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 4:19 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 | 77 | [Sálvese Quien Pueda](https://open.spotify.com/track/63cyzAm47XoWmI80RapQ9B) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv), [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47) | [Sálvese Quien Pueda](https://open.spotify.com/album/0wGSBnHW3QjMmuJotJNXxV) | 2:42 |
 | 78 | [Metamorfosis](https://open.spotify.com/track/2cdcT3GVdDJoRNf4xZ1Kd5) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Sexto Sentido](https://open.spotify.com/album/2i1KFGoNAsZCNmCvZBEGzw) | 0:15 |
 
-Snapshot ID: `AcAzkgAAAACjFPx1xITC0sjB/hU5GIUk`
+Snapshot ID: `AcA5UAAAAADNJYrnymUKpWeUEJA4+x5b`

@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 10445,
+  "num_followers": 10446,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAvUfJwdZwLh8sysftH7kR8",
+  "snapshot_id": "aQqTgAAAAAD30KuW5pu+pYvV1njjmJfA",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festival Vallenato",
-        "url": "https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Esa",
-      "url": "https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera De Serie",
         "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 291898,
       "name": "Lleno de Ti",
       "url": "https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Festival Vallenato",
+        "url": "https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Esa",
+      "url": "https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Qu\u00e9 Sera de M\u00ed",
-      "url": "https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 281800,
       "name": "Recorriendo a Venezuela",
       "url": "https://open.spotify.com/track/1GWFbLT7z2Cr9tbxjpH3Vm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Qu\u00e9 Sera de M\u00ed",
+      "url": "https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 254955,
-      "name": "Quise Manchar Tu Alma",
-      "url": "https://open.spotify.com/track/7vhO3vAmpiSNECd97UlT1j"
+      "duration_ms": 237540,
+      "name": "Hab\u00edamos Terminado",
+      "url": "https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 237540,
-      "name": "Hab\u00edamos Terminado",
-      "url": "https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE"
+      "duration_ms": 254955,
+      "name": "Quise Manchar Tu Alma",
+      "url": "https://open.spotify.com/track/7vhO3vAmpiSNECd97UlT1j"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Elegidos",
-        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Campana",
-      "url": "https://open.spotify.com/track/1lgSdPP75qkN4CUZvbZILI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos: Rafael Orozco",
         "url": "https://open.spotify.com/album/6UsTetmSj6XUraFvepURzu"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 231131,
       "name": "Reconozco Que Te Amo",
       "url": "https://open.spotify.com/track/6UWxacchH4Cp35ModegMM4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Campana",
+      "url": "https://open.spotify.com/track/1lgSdPP75qkN4CUZvbZILI"
     },
     {
       "added_at": null,

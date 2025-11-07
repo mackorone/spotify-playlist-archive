@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-470 songs - 1 day 1 hr 23 min
+471 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Empty love](https://open.spotify.com/track/2cBR3mLD9GnhyMSydDz6Go) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Empty Love](https://open.spotify.com/album/3FGRYomaxqKCqrVmCr80db) | 3:30 | 2023-03-09 | 2023-10-28 |
 | [End of Beginning](https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2) | [Mellow Boo](https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp) | [End of Beginning](https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup) | 2:36 | 2025-10-14 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2023-06-09 | 2023-12-15 |
-| [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 | 2023-05-12 |  |
+| [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 | 2023-05-12 | 2025-11-07 |
 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\] \- Acoustic](https://open.spotify.com/track/4D09e1TfOMbuMadTLcl1P6) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\] \[Acoustic\]](https://open.spotify.com/album/4GReJagRcBTMq97kYMU7Zy) | 2:53 | 2021-03-11 | 2022-12-02 |
 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 | 2023-06-09 | 2023-12-15 |
 | [Faking In Love \- Acoustic](https://open.spotify.com/track/3vTdv1S138Sv6Xhxf5QcfT) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Faking In Love \(Acoustic\)](https://open.spotify.com/album/58EDYIG41utSilQlQXw2uL) | 3:16 | 2021-03-11 | 2022-10-15 |
@@ -347,6 +347,7 @@
 | [Pumped Up Kicks](https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Pumped Up Kicks](https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf) | 2:09 | 2023-03-31 | 2024-01-12 |
 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 | 2023-10-27 | 2025-07-25 |
 | [Ransom](https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Ransom](https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb) | 2:46 | 2021-03-11 | 2024-02-13 |
+| [Rather Be](https://open.spotify.com/track/4GzWkFRu28CRKRx9qgsdu1) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Rather Be](https://open.spotify.com/album/7ehZkB2gEJwJzMcLrZ237o) | 3:25 | 2025-10-14 |  |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-03-11 | 2022-11-26 |
 | [REACT \- Acoustic](https://open.spotify.com/track/0ID6ZyuiJG8PfXs6xhDbJj) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [REACT \(Acoustic\)](https://open.spotify.com/album/2ZTNuevIFDNxse1tlUBmSt) | 3:06 | 2023-03-31 | 2023-10-28 |
 | [Real Life \- Acoustic](https://open.spotify.com/track/2ytXqUZv6ArPUjoGXOCJKU) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Real Life \(Acoustic\)](https://open.spotify.com/album/1zAb5Kc43sgT9fBERtmQKO) | 3:14 | 2021-03-11 | 2022-11-12 |

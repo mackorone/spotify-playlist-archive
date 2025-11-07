@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Xenia Manasseh",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Ukweli & Xenia Manasseh",
   "name": "NairoBae",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 180000,
       "name": "Afraid, Pt. 2 - feat. Xenia Manasseh",
       "url": "https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV"
@@ -1988,6 +1988,24 @@
       "duration_ms": 215481,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/5gsRgQ0dYdKhxjo2QGFNIV"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102584,
+      "name": "I HATED YOUR RELATIONSHIP",
+      "url": "https://open.spotify.com/track/7fl8eAcXmlSiKH0fsaKglK"
     },
     {
       "album": {
@@ -5213,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x"
+    },
+    {
+      "album": {
         "name": "Alusa Why Are You Topless?",
         "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
       },
@@ -5242,7 +5278,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 152551,
       "name": "truth",
       "url": "https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW"

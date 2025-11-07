@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 401285,
+  "num_followers": 401277,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 273933,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 274040,
-      "name": "Moondance - 2013 Remaster",
-      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
+      "duration_ms": 217240,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -843,6 +827,22 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Moondance - 2013 Remaster",
+      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Currency Of Man",
-        "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 305265,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Currency Of Man",
+        "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305265,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Entre Dos Aguas",
-        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 362093,
-      "name": "Entre Dos Aguas",
-      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Peggy Lee",
         "url": "https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 202506,
       "name": "Fever",
       "url": "https://open.spotify.com/track/6eCsRg7OBi1zT2CEKKyoXN"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1387,34 +1387,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Hang on Little Tomato",
-        "url": "https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        },
-        {
-          "name": "China Forbes",
-          "url": "https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A"
-        },
-        {
-          "name": "Thomas M. Lauderdale",
-          "url": "https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O"
-        },
-        {
-          "name": "Patrick Abbey",
-          "url": "https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Hang on Little Tomato",
-      "url": "https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Get Lucky (Acoustic)",
         "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
       },
@@ -1447,6 +1419,34 @@
       "duration_ms": 292146,
       "name": "C\u2019est Magnifique",
       "url": "https://open.spotify.com/track/1pd6iv2ZyzhdCdwvkLbjMM"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Hang on Little Tomato",
+        "url": "https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        },
+        {
+          "name": "China Forbes",
+          "url": "https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A"
+        },
+        {
+          "name": "Thomas M. Lauderdale",
+          "url": "https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O"
+        },
+        {
+          "name": "Patrick Abbey",
+          "url": "https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Hang on Little Tomato",
+      "url": "https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd"
     },
     {
       "added_at": "2025-07-02 08:57:18",

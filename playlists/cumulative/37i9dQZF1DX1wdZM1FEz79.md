@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Darin\(다린\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장수빈\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-630 songs - 1 day 13 hr 7 min
+631 songs - 1 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Hide and Seek](https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE) | [Park Seo Ryoung](https://open.spotify.com/artist/3feVktwro8QoXPKQqe20gy) | [Hide and Seek](https://open.spotify.com/album/1QgeqdZEcBZXSUqykXvyDZ) | 3:06 | 2022-05-03 | 2022-06-19 |
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-31 | 2022-04-16 |
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-03-31 | 2022-04-18 |
-| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 | 2025-11-05 |
+| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 |  |
 | [HOME](https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H) | [HANUM](https://open.spotify.com/artist/6VniDsTqx9dE63GYUWM5AH) | [HOME](https://open.spotify.com/album/4iXVWGwbnDMI78HAx5WRT0) | 2:53 | 2022-12-20 | 2023-01-11 |
 | [home town](https://open.spotify.com/track/0UM7QmLlgoMOgwohLPtXbB) | [iseo](https://open.spotify.com/artist/1sJcgK5qmEdJzFtw7EGKHy) | [hometown](https://open.spotify.com/album/251GBeMnMBt09acRMBsOKb) | 3:01 | 2025-06-09 | 2025-06-25 |
 | [hometown](https://open.spotify.com/track/7MOMJntlnsDH95Q9KBbpGh) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [hometown](https://open.spotify.com/album/2OQOLKNqzQJAaRgEsQC3z3) | 3:13 | 2022-03-31 | 2022-04-20 |
@@ -323,6 +323,7 @@
 | [Meet you at the Laundromat](https://open.spotify.com/track/0CuAnh471BDS8me2OJDFU4) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Meet you at the Laundromat](https://open.spotify.com/album/1wTrc2Hv2t8weAcxjeO75o) | 3:28 | 2022-05-11 | 2022-06-10 |
 | [Memory 여기](https://open.spotify.com/track/5zfJyDPk9BV8d7iy6Hh8Bb) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Memory 여기](https://open.spotify.com/album/5HpInJwEnXIf3hnGKmKdWz) | 4:28 | 2022-03-31 | 2022-04-21 |
 | [Mini Stewardess](https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Mini Stewardess](https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab) | 3:22 | 2021-12-10 | 2022-07-14 |
+| [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/track/3i6tUg0L5wVklyUfZ1igji) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/album/0LYqX9fGYTTCJvMg6ehcVq) | 3:59 | 2025-11-06 |  |
 | [Missing You](https://open.spotify.com/track/1euacZfEZhuUcGleQFLJSS) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/55pitdWiMC7ADRWJUOo6VP) | 3:54 | 2022-11-20 | 2022-12-13 |
 | [Monologue \(Acoustic Version\)](https://open.spotify.com/track/7pTxVFyoJq4jv2kCdxhj68) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [CLICHÉ](https://open.spotify.com/album/7piEh9immnLWa85U4uh5Gz) | 4:15 | 2024-10-30 | 2024-11-21 |
 | [Moving](https://open.spotify.com/track/35L4lqHZI0mJhL3jteE0QQ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [2526](https://open.spotify.com/album/6SlXEsi7mF3mvoz5yBxxDo) | 3:05 | 2022-01-13 | 2022-04-06 |
@@ -502,7 +503,7 @@
 | [The song I loved](https://open.spotify.com/track/6xws4sUjz31jER0OusRzQh) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [The song I loved](https://open.spotify.com/album/2UslwgipRYxtXWqZOtdfuD) | 3:56 | 2022-08-12 | 2022-08-26 |
 | [The Sound Of Rain \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [The Acoustic Forest](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 | 2021-12-10 | 2022-04-18 |
 | [The Trace 흔적](https://open.spotify.com/track/1I0RITCAFgFS5EJXU7WPEU) | [KIM DONG EUN 김동은](https://open.spotify.com/artist/0XP7AmvKXYVFsTx7CtCK0b) | [The Trace 흔적](https://open.spotify.com/album/1o9Es6i5BIIpQgiFQCuE8X) | 4:34 | 2022-03-31 | 2022-04-19 |
-| [These memories are like a movie \(2025\)](https://open.spotify.com/track/18igOz3pxDmwz9TPRkTNeG) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [These memories are like a movie \(2025\)](https://open.spotify.com/album/3doGgB8CupneS8US4D3EVH) | 5:06 | 2025-10-17 |  |
+| [These memories are like a movie \(2025\)](https://open.spotify.com/track/18igOz3pxDmwz9TPRkTNeG) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [These memories are like a movie \(2025\)](https://open.spotify.com/album/3doGgB8CupneS8US4D3EVH) | 5:06 | 2025-10-17 | 2025-11-07 |
 | [These Walls](https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [These Walls](https://open.spotify.com/album/2m4ekwYIbphT3mENFLouhK) | 3:40 | 2021-12-10 | 2022-07-29 |
 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-16 | 2024-08-06 |
 | [They're Gonna Say We're Right \(@leekangseung111\)](https://open.spotify.com/track/4o79zBj46P7i3cqWudJ4v0) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Remake 1.0](https://open.spotify.com/album/6VKe4jcpcrCpBWGVTwiK2J) | 3:29 | 2023-02-07 | 2025-03-10 |
@@ -566,7 +567,7 @@
 | [Where Are We Now \- Acoustic Version](https://open.spotify.com/track/3NZn88t5LgPZBwbyJ4giZz) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Where Are We Now \(Acoustic Version\)](https://open.spotify.com/album/5t9eXUyQ0SSFMqf7Bfcqk9) | 3:35 | 2022-03-31 | 2022-04-09 |
 | [Where are you?](https://open.spotify.com/track/7eDhlnVZiPzlNHjJEVCXJv) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [My first love OST Part.2](https://open.spotify.com/album/6T7PZRVu0p5keqNzbqtPSC) | 3:04 | 2022-04-12 | 2022-04-19 |
 | [Where sorrow has passed​](https://open.spotify.com/track/5h7Ld6izDn1kWQ1I6fd6ts) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Where sorrow has passed​](https://open.spotify.com/album/5BhXBiqABWj3rqtVD0qqs5) | 4:07 | 2022-12-20 | 2023-01-04 |
-| [Where the Love Has Gone](https://open.spotify.com/track/3h3Lt6G1VehgObtEZd0XnE) | [Voicemail](https://open.spotify.com/artist/1in7SSSVuAOa0DaVBRWnXc) | [Where the Love Has Gone](https://open.spotify.com/album/58MOtVJbjtbjaNk6aVmqxc) | 4:34 | 2025-10-10 |  |
+| [Where the Love Has Gone](https://open.spotify.com/track/3h3Lt6G1VehgObtEZd0XnE) | [Voicemail](https://open.spotify.com/artist/1in7SSSVuAOa0DaVBRWnXc) | [Where the Love Has Gone](https://open.spotify.com/album/58MOtVJbjtbjaNk6aVmqxc) | 4:34 | 2025-10-10 | 2025-11-07 |
 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 | 2022-06-09 | 2022-06-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/4AGgXEtNPFPAMUoDEgjvwX) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/4pPg8mMEDja315sNthkACE) | 3:13 | 2022-03-31 | 2022-04-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2022-07-08 | 2024-04-19 |

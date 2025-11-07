@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,088 likes - 78 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,260 likes - 78 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 56 | [Adagio](https://open.spotify.com/track/1nKTvd5PQrvh9OJ2UuSfMB) | [Laura Bretan](https://open.spotify.com/artist/0Y6f7SArenwsTGRonkDGj0) | [World I See](https://open.spotify.com/album/0CMAg8EvRIOtvSJKZEKFlQ) | 4:08 |
 | 57 | [Slow Down](https://open.spotify.com/track/0fTIXF5GCFMAu44u3aRBTQ) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5) | [Slow Down](https://open.spotify.com/album/5iRyoCBGxBbuyq69F44uAI) | 5:08 |
 | 58 | [I Hate You Then I Love You \(Duet with Luciano Pavarotti\)](https://open.spotify.com/track/3GeU6SjrKEjCRpXCCFthaG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:42 |
-| 59 | [One Look \(feat\. Leona Lewis\)](https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Jon Maguire](https://open.spotify.com/artist/0jtmq8S688CWhpB64fSGKx), [Taylor Cousins](https://open.spotify.com/artist/1Jv9jk9YcvOA9T1H4KGAqx) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:18 |
+| 59 | [One Look \(feat\. Leona Lewis\)](https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:18 |
 | 60 | [What a Wonderful World](https://open.spotify.com/track/6ZcTsXUmJcCtVtgbxVIzPn) | [Lexi Walker](https://open.spotify.com/artist/6C2Jmyv6fdiRAbcadxmNtS), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Inspire](https://open.spotify.com/album/1Uh9wfpuVzpoVoAFrTV6x2) | 4:28 |
 | 61 | [Tell Me It's Not True](https://open.spotify.com/track/3qV6M1cI4McX7xSLzLQa3H) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 4:30 |
 | 62 | [Your Love \- from "Once Upon A Time In The West"](https://open.spotify.com/track/799SQZx5kNatDCrEOvReAM) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Your Love \(from "Once Upon A Time In The West"\)](https://open.spotify.com/album/5uxs5lrUUWiQcDtnXDtIIl) | 4:11 |

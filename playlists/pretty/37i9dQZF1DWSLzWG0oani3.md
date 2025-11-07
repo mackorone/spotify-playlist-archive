@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: L\-Gante
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,958 likes - 72 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,959 likes - 72 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 13 | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/track/0HghA8NwsiFcgROYKFjX3W) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/album/4cQBFUMTxNTejT7TVZv958) | 3:04 |
 | 14 | [DJ ALEX, EL NOBA \- TEKA \| E6](https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [DJ ALEX, EL NOBA \- TEKA \| E6](https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay) | 2:17 |
 | 15 | [El Mas Que Tose](https://open.spotify.com/track/3iU3iJipsY8v5oZLiCV5CQ) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Mas Que Tose](https://open.spotify.com/album/38H3YlYq6BSauDCi2NgftH) | 1:40 |
-| 16 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 |
+| 16 | [L\-Gante: Bzrp Music Sessions, Vol\. 38/66](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38/66](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 |
 | 17 | [Finochetto](https://open.spotify.com/track/4ykXVIVKVtuaqhRh3RKNHD) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Finochetto](https://open.spotify.com/album/7bm07KeXWVh2tlZfF5ekR8) | 2:25 |
 | 18 | [Remake](https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Remake](https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U) | 5:32 |
 | 19 | [Rin Tin Tin](https://open.spotify.com/track/5yJsDz8c16INrVtoN9hdyW) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Rin Tin Tin](https://open.spotify.com/album/2xbjaXObO74HQU530db1bX) | 2:49 |

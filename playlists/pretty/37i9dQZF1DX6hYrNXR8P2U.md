@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 ### [piola](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> porque sí.<br/>📷 tatool y Trueno
+> porque sí.<br/>📷 Juan Ingaramo
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,295 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,290 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Reconquista](https://open.spotify.com/track/4toaCw2wYBZCWRTHYBkAls) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [La Gran Mañana](https://open.spotify.com/album/153GVkgZQGAAkRne4JRv6a) | 2:17 |
+| 1 | [Antiguo y moderno](https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [El Verdadero](https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt) | 2:43 |
 | 2 | [No Puedo Dejar](https://open.spotify.com/track/6JNz7Rr9ODlANqDiNv2QH1) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [No Puedo Dejar](https://open.spotify.com/album/3g1pWn4BL93vvIAmGnzKl4) | 2:29 |
 | 3 | [lo que pase](https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase](https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO) | 2:32 |
 | 4 | [No me quiero ver](https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [No me quiero ver](https://open.spotify.com/album/4GZA9S2CSDq0i0yCS6vc2a) | 1:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Rodeado](https://open.spotify.com/track/10Vc0WOeTQtaJzVQhsvDtQ) | [Panta](https://open.spotify.com/artist/2LisI0c79oHAvJ80FoxT0S), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Rodeado](https://open.spotify.com/album/55N6ecVIZiwyUs4u6zUJb6) | 3:26 |
 | 100 | [Amor Roto](https://open.spotify.com/track/08blsoYLX7Kx9MwwiFDkNe) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [QSTLB](https://open.spotify.com/album/1T8zyPUsGrAIu1bqkfUQ7n) | 2:02 |
 
-Snapshot ID: `AAAAAEJXXDK+LJN9P3Mz37hX1WQrArwX`
+Snapshot ID: `AAAAAAWYihu4xiKJU8qe3ugt3MHGNtiZ`

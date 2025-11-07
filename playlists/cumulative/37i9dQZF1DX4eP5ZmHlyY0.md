@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-781 songs - 1 day 18 hr 52 min
+782 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Cloud\_Six](https://open.spotify.com/track/0DbDZcemoeTvVEOaQh6U75) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Cloud\_Six \(Essential\)](https://open.spotify.com/album/1HlQYDo4FI63sc6SCj0myu) | 2:57 | 2025-05-02 | 2025-05-05 |
 | [Clutch](https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/4ZRuszFQ1iBgRrgsOoMKmz) | 3:21 | 2023-12-12 | 2024-01-14 |
 | [Clutch](https://open.spotify.com/track/5JGhgaH8Cf0OsGJhmtgrNC) | [いれいす](https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu) | [Clutch](https://open.spotify.com/album/7a3bJzOr4Mq2B74YIXsoHO) | 3:21 | 2023-12-12 | 2023-12-14 |
-| [COLOR](https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [COLOR \- The 3rd Mini Album](https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0) | 3:00 | 2025-09-01 |  |
+| [COLOR](https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [COLOR \- The 3rd Mini Album](https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0) | 3:00 | 2025-09-01 | 2025-11-07 |
 | [Come Alive](https://open.spotify.com/track/4yl2H7Dh1ppXvZHFVDHkgA) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Come Alive](https://open.spotify.com/album/50yJa8hh5iKiLnqpDkK4Dh) | 3:33 | 2023-11-23 | 2024-02-21 |
 | [Confidence](https://open.spotify.com/track/2RCUFR6B5EBeclhSSrIW0m) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Confidence](https://open.spotify.com/album/2xOcWwEpjMzDYg3aCePFQy) | 2:24 | 2025-06-24 | 2025-09-10 |
 | [Count To Love](https://open.spotify.com/track/1JcrxF5NysDqpik9nZ1Sa4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [BOYLIFE](https://open.spotify.com/album/5tjXMOy3wo9R6Y5YUMF1cj) | 2:38 | 2025-08-18 |  |
@@ -176,6 +176,7 @@
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-15 | 2025-10-21 |
 | [Downforce](https://open.spotify.com/track/5JdT5kFwFoM3SSYSwRT9d3) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Downforce](https://open.spotify.com/album/0FBtOBWbZ8leLwZLjgkslc) | 3:27 | 2024-09-10 | 2024-10-02 |
 | [DRAW+ing](https://open.spotify.com/track/4gcGVSVzZPnCeBt3Be1bmQ) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [DRAW+ing](https://open.spotify.com/album/54O5v1GtPDAeGMTw3lCG82) | 3:24 | 2024-06-04 | 2024-07-10 |
+| [Dreamcatcher](https://open.spotify.com/track/3TmMreqrdEeKajCI4c03X9) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Dreamcatcher](https://open.spotify.com/album/6bWs8Z5U7wtyhsKLrB0CbA) | 2:58 | 2025-11-06 |  |
 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 | 2023-11-23 | 2024-06-05 |
 | [DSTM](https://open.spotify.com/track/6h6y3m83xvAOoCW3JZpzzf) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [DSTM](https://open.spotify.com/album/7db93AxaM3DpA75ZC5Uijr) | 2:56 | 2025-03-19 | 2025-06-13 |
 | [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 | 2025-05-08 | 2025-08-05 |
@@ -306,7 +307,7 @@
 | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/track/2cXkFKFgEW5Myc0yNy6CqL) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm), [RYUKI](https://open.spotify.com/artist/5uqXBEdoZzQXLRd8L77GoL), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/album/2aI04mIDKNeBLfZHxKEF9Q) | 3:32 | 2025-03-06 | 2025-03-10 |
 | [IDOLIC](https://open.spotify.com/track/6KLZBODqWczsc4fXRUuYWM) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOLIC](https://open.spotify.com/album/4g5PqnMKgixcNPECzAG545) | 2:57 | 2025-09-30 |  |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-03-06 | 2025-05-20 |
-| [If You Wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 | 2025-11-02 |  |
+| [if you wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 | 2025-11-02 |  |
 | [IKUK](https://open.spotify.com/track/1CjaEVRcMcHJs6K6JcsBg4) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Dear.M](https://open.spotify.com/album/47FAjLG2fBhDBgb4mRHMQT) | 2:48 | 2025-03-06 | 2025-04-09 |
 | [Imagination](https://open.spotify.com/track/3KpNOsT8D9pU5qKDPG1IKo) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Imagination](https://open.spotify.com/album/1TeZi1NtgcETvxImnvTNpB) | 2:52 | 2024-04-30 | 2024-05-29 |
 | [In My Head](https://open.spotify.com/track/14fYNWLL13lnpV8pdJmREV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [In My Head](https://open.spotify.com/album/1xJb2W3tod9ecek8mAl2Bf) | 3:20 | 2024-02-20 | 2024-02-22 |

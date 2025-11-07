@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 48505,
+  "num_followers": 48510,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACWDrlGVmGR4qmiEwtqKTCL",
+  "snapshot_id": "aQqTgAAAAACZdloE+NwR5HFk8UEsZHFh",
   "tracks": [
     {
       "added_at": null,
@@ -300,29 +300,25 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Poetic Tragedy",
-      "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
+      "duration_ms": 200333,
+      "name": "Bulimic",
+      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "Artwork (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
       },
       "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 191414,
-      "name": "toxic energy (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+      "duration_ms": 197866,
+      "name": "Blood on My Hands",
+      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
     },
     {
       "added_at": null,
@@ -368,25 +364,29 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 200333,
-      "name": "Bulimic",
-      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
+      "duration_ms": 224000,
+      "name": "Poetic Tragedy",
+      "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Artwork (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 197866,
-      "name": "Blood on My Hands",
-      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
+      "duration_ms": 191414,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 157489,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 252453,
       "name": "Sold My Soul",
       "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 157489,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Slit Your Own Throat",
+      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 168891,
       "name": "I Hate Everybody",
       "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Slit Your Own Throat",
-      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
     },
     {
       "added_at": null,
@@ -839,18 +839,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+        "name": "NEED",
+        "url": "https://open.spotify.com/album/1aMzqU6B4mJ78P6YBGYkaN"
       },
       "artists": [
         {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
+        {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
         }
       ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
+      "duration_ms": 148642,
+      "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/5Ay2ZYlRNc9KUlhPeJmse4"
     }
   ],
   "unique_name": "This Is The Used",

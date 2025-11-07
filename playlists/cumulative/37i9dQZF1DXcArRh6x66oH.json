@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Days Are Numbered",
+        "url": "https://open.spotify.com/album/1iZGf5BKCxiWSnVNViocOt"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226465,
+      "name": "Days Are Numbered",
+      "url": "https://open.spotify.com/track/1W0sh93nzsMbuQHrSdjYpG"
+    },
+    {
+      "album": {
         "name": "Boys Of Faith",
         "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
       },

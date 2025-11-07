@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Bienvenue",
+        "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Bienvenue",
+      "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
+    },
+    {
+      "album": {
         "name": "Certified Loner (No Competition)",
         "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
       },
@@ -392,7 +414,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 164705,
       "name": "Likor (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
@@ -480,6 +502,28 @@
       "duration_ms": 140000,
       "name": "MY SOUL",
       "url": "https://open.spotify.com/track/2Fef2S4viehsoIRRsGFZvu"
+    },
+    {
+      "album": {
+        "name": "No Issues",
+        "url": "https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201369,
+      "name": "No Issues",
+      "url": "https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF"
     },
     {
       "album": {
@@ -874,7 +918,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 124864,
       "name": "Taliban",
       "url": "https://open.spotify.com/track/0tD7qefvHLOLc9Em9tcohZ"

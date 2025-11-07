@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,782 likes - 52 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,799 likes - 52 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 51 | [Shri Ranjani\- Play of Consciousness](https://open.spotify.com/track/38W6cHZcyVGXRJxkBKEtCM) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 7:46 |
 | 52 | [Raag Jan Sammohini](https://open.spotify.com/track/0Xb7MrsfOwRuzFgCdtlLzp) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/0l9wdltn8tTcrmFMFhFBtK) | 10:10 |
 
-Snapshot ID: `AAAAALb+Y6LjKJXzROZZT0HNwEqWDLfz`
+Snapshot ID: `AAAAAGQPvJ8aaclqeOCZxD/9442HVwN5`

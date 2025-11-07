@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Rush Hour Traffic",
+        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264346,
+      "name": "Rush Hour Traffic",
+      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+    },
+    {
+      "album": {
         "name": "A Soundtrack to a Never-Ending Story",
         "url": "https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp"
       },

@@ -1519,24 +1519,6 @@
     },
     {
       "album": {
-        "name": "El Amor Que Merecemos",
-        "url": "https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "date_added": "2023-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181680,
-      "name": "DPM (De Pxta Madre)",
-      "url": "https://open.spotify.com/track/4wJXlFV0oh88ktxE54uqKE"
-    },
-    {
-      "album": {
         "name": "DPM (De Pxta Madre)",
         "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
       },
@@ -1552,6 +1534,24 @@
       "duration_ms": 181684,
       "name": "DPM (De Pxta Madre)",
       "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
+    },
+    {
+      "album": {
+        "name": "El Amor Que Merecemos",
+        "url": "https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181684,
+      "name": "DPM (De Pxta Madre)",
+      "url": "https://open.spotify.com/track/4wJXlFV0oh88ktxE54uqKE"
     },
     {
       "album": {

@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Can Feel It",
+        "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153520,
+      "name": "Can Feel It",
+      "url": "https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE"
+    },
+    {
+      "album": {
         "name": "HAVE A NICE DAY!",
         "url": "https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL"
       },
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 219415,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/4fQ8T6FrEKDCcKULjCyE9t"
@@ -6580,7 +6598,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 223854,
       "name": "Stand Back For You",
       "url": "https://open.spotify.com/track/0QPAliTY1pzXMn4flw3t9t"
@@ -7648,6 +7666,24 @@
       "duration_ms": 189163,
       "name": "Under Water / In Air",
       "url": "https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF"
+    },
+    {
+      "album": {
+        "name": "Unoriginal / Black-Eyed Susan Climb",
+        "url": "https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "Unoriginal",
+      "url": "https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk"
     },
     {
       "album": {

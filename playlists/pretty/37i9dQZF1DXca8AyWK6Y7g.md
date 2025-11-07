@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Chloe Qisha is always in the hot tub at a party
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569,213 likes - 105 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,569,042 likes - 105 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

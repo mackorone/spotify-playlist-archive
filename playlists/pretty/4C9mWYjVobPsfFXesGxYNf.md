@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4C9mWYjVobPsfFXesGxYNf.md) - [plain]
 
 > Alleen de grootste hits allertijden vindt je hier\. \| <a href="spotify:user:digsternl">Meer playlists</a>.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 11,896 likes - 90 songs - 6 hr 3 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 11,895 likes - 90 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

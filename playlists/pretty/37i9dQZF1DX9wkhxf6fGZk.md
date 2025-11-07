@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wkhxf6fGZk.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/daniebb3/">Danielle Brooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,842 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,855 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wkhxf6fGZk.md) - [plain]
 | 14 | [This Year](https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 3:14 |
 | 15 | [Crown Royal](https://open.spotify.com/track/2mX2iJ6rw3ja90OPzHrmHT) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [The Real Thing \- Words & Sounds, Vol\. 3](https://open.spotify.com/album/3OUq3A9AOpYzd0qPSGU2hQ) | 1:48 |
 | 16 | [What You Wanna Try](https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 2:39 |
-| 17 | [Chariot](https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Chariot](https://open.spotify.com/album/4WJwUq7DPoEgmfsR2fAQXl) | 3:36 |
+| 17 | [Chariot](https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN) | [MEGA](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Chariot](https://open.spotify.com/album/4WJwUq7DPoEgmfsR2fAQXl) | 3:36 |
 | 18 | [Black Woman](https://open.spotify.com/track/2UEW1Uoq4LcUCa4mam9BxB) | [Danielle Brooks](https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE) | [Four](https://open.spotify.com/album/3u22dfrDKIicxT3S165n26) | 4:09 |
 | 19 | [Misty](https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:54 |
 | 20 | [Trouble Ain't](https://open.spotify.com/track/5nRlExy2TyoI7puAWn8JuM) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Incredible](https://open.spotify.com/album/3o4t5Eh80lGQhnSSZjINxf) | 4:01 |

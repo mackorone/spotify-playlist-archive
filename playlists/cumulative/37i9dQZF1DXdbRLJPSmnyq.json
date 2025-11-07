@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: Vaundy",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: Billyrrom",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "LOST AND FOUND",
+        "url": "https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        },
+        {
+          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
+          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231107,
+      "name": "CRYSTAL",
+      "url": "https://open.spotify.com/track/64bR2sgtk2RsxfvuiTGJVM"
+    },
+    {
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/3iBELbeLc9pRmmauovD5rI"
       },
@@ -828,7 +850,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 327554,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/0g1RQtrvfQI0zPsrHqVolq"
@@ -976,7 +998,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 208333,
       "name": "FLY OUT",
       "url": "https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF"
@@ -1470,7 +1492,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 169400,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/735mGGdbUzNDUg9IHPaVaV"
@@ -1822,6 +1844,24 @@
       "duration_ms": 207166,
       "name": "LADY",
       "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
+    },
+    {
+      "album": {
+        "name": "Little Bouquet",
+        "url": "https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251578,
+      "name": "Little Bouquet",
+      "url": "https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami"
     },
     {
       "album": {
@@ -2298,7 +2338,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 203296,
       "name": "My Body",
       "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"
@@ -2803,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/1AHEZh8SyRQzT2AAFMMZoS"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216571,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4XdqhvEAFjRKCpHIZ9LFB2"
+    },
+    {
+      "album": {
         "name": "kidnapping / rendez-vous",
         "url": "https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP"
       },
@@ -3124,7 +3182,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 239520,
       "name": "SO BAD",
       "url": "https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU"
@@ -3250,7 +3308,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 197853,
       "name": "Stare In Wonder",
       "url": "https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM"
@@ -3312,6 +3370,24 @@
       "duration_ms": 305509,
       "name": "Subtitle",
       "url": "https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB"
+    },
+    {
+      "album": {
+        "name": "Success is",
+        "url": "https://open.spotify.com/album/1EFZ3Z43Pdf0jko8P77TYo"
+      },
+      "artists": [
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "Success is",
+      "url": "https://open.spotify.com/track/1gFD8ve86nYUsYFGlcuNRd"
     },
     {
       "album": {
@@ -3651,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "Jupiter=",
+        "url": "https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256297,
+      "name": "Unknown Island",
+      "url": "https://open.spotify.com/track/73r8oPLdOs4IzFpzoNyCVB"
+    },
+    {
+      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/2K4hFMFLmMUeLujQAZnNPx"
       },
@@ -3684,7 +3778,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 273213,
       "name": "Vibrato - Live Ver.",
       "url": "https://open.spotify.com/track/0WsprMCRa6H1DS2USsSIUT"
@@ -3772,7 +3866,7 @@
           "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         },
         {
-          "name": "\u51a8\u5ca1 \u611b",
+          "name": "TOMIOKA AI",
           "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
         }
       ],
@@ -3998,6 +4092,24 @@
       "duration_ms": 254506,
       "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
       "url": "https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
+        "url": "https://open.spotify.com/album/7sXFcyqLpDJiLs4awycwQk"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213757,
+      "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
+      "url": "https://open.spotify.com/track/3lhSoYrMfyX9Mg24Fdp0eo"
     },
     {
       "album": {
@@ -6488,6 +6600,24 @@
       "duration_ms": 228506,
       "name": "\u6761\u53f8",
       "url": "https://open.spotify.com/track/1GPJ7qT0APz9GqZyotCMhu"
+    },
+    {
+      "album": {
+        "name": "\u6b4c\u3063\u3066\u3054\u3081\u3093",
+        "url": "https://open.spotify.com/album/2vFgQB5FWwOfuw9gaf93X6"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187287,
+      "name": "\u6b4c\u3063\u3066\u3054\u3081\u3093",
+      "url": "https://open.spotify.com/track/7KXcqP1iTesNPwp6Vgm0G2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-883 songs - 2 day 21 hr 22 min
+886 songs - 2 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Alabina \- Original 1996](https://open.spotify.com/track/4c9PMOg5YtNzU7o8CYTOmb) | [Alabina](https://open.spotify.com/artist/7w3PQ5symjpCqshjaLvFzA), [Los Niños De Sara](https://open.spotify.com/artist/70LUNBh99F83a19w4RqrY2) | [The Album of Alabina & Los Niños de Sara](https://open.spotify.com/album/6jbglpqUvShgcW5wOE7W7v) | 3:45 | 2020-01-12 |  |
 | [Alasidi](https://open.spotify.com/track/5RhFZ82NnuUrRxQOWphUI3) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Alkibar](https://open.spotify.com/album/2iYA7xvN6sFDWgwFYvOInV) | 4:34 | 2019-12-12 |  |
 | [Aldeia De Ogum](https://open.spotify.com/track/1tp6x58PYYCcOyDaX9436B) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Gilson Peranzzetta](https://open.spotify.com/artist/3sXiozVfzUa8NLisEvzJZm) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 4:34 | 2021-01-11 |  |
+| [Alech](https://open.spotify.com/track/6OJo63o4YdJmvrgzrNQSX7) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother \(Habibi Funk 001\)](https://open.spotify.com/album/1HBY3Vv9JYAR2ZiquvOV63) | 3:36 | 2025-11-06 |  |
 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 | 2022-02-17 |  |
 | [Alger la blanche](https://open.spotify.com/track/2cu3X3pbKbHdmRzCDkKTsO) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC) | [Au service de la France](https://open.spotify.com/album/5YzTAHQK9iYORWevQrS3q5) | 3:47 | 2019-08-19 |  |
 | [All You Want Is More](https://open.spotify.com/track/0o7d1jmkZlwWGwsKQAhlLI) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Out On My Own](https://open.spotify.com/album/5QsrculEaYllEV6y7UGfWb) | 4:18 | 2024-04-11 |  |
@@ -387,6 +388,7 @@
 | [Kyenkyen Bi Adi M'awu](https://open.spotify.com/track/2iomWDpUomxZI0MYh4SKXM) | [K\. Frimpong](https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr) | [Afro\-Rock Vol\. 1](https://open.spotify.com/album/3xeW7a1YY6rTIccohDOHrr) | 6:54 | 2020-06-11 |  |
 | [Köroğlu Dağları](https://open.spotify.com/track/5mETTpAx7Ccmpd6FUwycRb) | [İstanbul Şarkıcıları](https://open.spotify.com/artist/3dAWWhURuoeND0OPcwrOpR) | [Ayva Çiçek Açmış](https://open.spotify.com/album/3ogoUyugtlKcOHTByhOF2b) | 3:43 | 2024-01-21 |  |
 | [L'amore dice Ciao \(Main Titles\) \- Remastered](https://open.spotify.com/track/03KBBkHF2vaeRol4Qt3ccX) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [La Matriarca \- The Libertine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lDkAePwaZMQ6wmNQYLPBJ) | 3:12 | 2024-12-03 |  |
+| [L'amour est bleu](https://open.spotify.com/track/7pcLsOMObk21x0E96vxGek) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [I Will Follow Him](https://open.spotify.com/album/21r1oT32FM8tvhFM5Mx4Zj) | 2:33 | 2025-11-06 |  |
 | [La Canoa Ranchaa](https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [10 De Colección](https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk) | 4:40 | 2020-09-12 |  |
 | [La Carta \(Mi Carta Final\)](https://open.spotify.com/track/0zNmzLkD8WLUvQDzL115I6) | [Tierra Canela](https://open.spotify.com/artist/4UJR3YhhFBlHwUrav8WzPB) | [Tu Recuerdo](https://open.spotify.com/album/2eXcyFcMRLfCwJzUZXEW0W) | 3:42 | 2024-07-20 |  |
 | [La Colegiala](https://open.spotify.com/track/2J4ReM7NFthWBgkuQqaiXa) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Latina Collection](https://open.spotify.com/album/5pMG2HRwDzWd8aCghmb1DM) | 8:39 | 2020-07-29 |  |
@@ -791,6 +793,7 @@
 | [Umi No Ue Kara](https://open.spotify.com/track/4Ee8z8ySuxdqTTPI868NtU) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 8:18 | 2021-07-13 |  |
 | [Un anno d'amore](https://open.spotify.com/track/2rn48d6ACa5rpLLnnowNQ0) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Studio Uno](https://open.spotify.com/album/4kOeOxOX8Jr1wCgEQr7M3C) | 3:13 | 2022-07-08 |  |
 | [Un Ano De Amor](https://open.spotify.com/track/5eIUhOoNHW8zICjotOsmw2) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Talons Aiguilles De Pedro Almodovar](https://open.spotify.com/album/0Vo3Cw2t9UfUVjmuavIkTp) | 3:19 | 2024-01-25 |  |
+| [Un homme et une femme](https://open.spotify.com/track/7pLCx72zQyAu2x0l59bsTM) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Love Is Blue](https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa) | 2:23 | 2025-11-06 |  |
 | [Un Nodo All'Anima \- Long Version](https://open.spotify.com/track/0E4MsASSwbi42ViUaq3l90) | [Pamela Prati](https://open.spotify.com/artist/750TluPjSUUp1ip8KiqdvQ) | [Mare](https://open.spotify.com/album/1Jvxf2ONahvPxaHepZbFAa) | 5:18 | 2023-07-29 |  |
 | [Una Notte Speciale](https://open.spotify.com/track/7K5w3kydDoF2iml9JGUGbT) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 4:16 | 2023-04-03 |  |
 | [Unathi](https://open.spotify.com/track/4ZPv3a0aoAmDty8IKFXB3e) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season](https://open.spotify.com/album/1XRAj74N3EDQ0suMb5qplS) | 3:33 | 2021-04-09 |  |

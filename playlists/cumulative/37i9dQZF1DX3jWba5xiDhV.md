@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-200 songs - 16 hr 34 min
+201 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dammi un'idea](https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Dammi un'idea](https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj) | 3:21 | 2024-03-07 |  |
 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 | 2022-02-11 |  |
 | [Dancin' All The Night \- Original Extended Version](https://open.spotify.com/track/21br0MBSr0o05d073b2ld8) | [Paul Sharada](https://open.spotify.com/artist/6Ka73Uf6EKU9GW8zTTRobK) | [80's Dance Story Original Italo Hits](https://open.spotify.com/album/0rcYpBkTkKMUv5W32JPcaY) | 6:19 | 2022-02-11 | 2022-02-22 |
+| [Dancing in the Dark](https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7) | [Savage](https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW) | [Dancing in the Dark](https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd) | 3:33 | 2025-11-06 |  |
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-04 |  |
 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 | 2022-02-11 |  |
 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 | 2024-04-04 | 2025-09-29 |
@@ -128,7 +129,7 @@
 | [Mirage \(Aka la Luna Aka Stasera la Luna\) \- Original Version](https://open.spotify.com/track/3GbtdNYdHNJZlYDqsyN2iC) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Mirage \(Aka la Luna Aka Stasera la Luna\)](https://open.spotify.com/album/3HV72AZKJEbWm1LEwOvtXF) | 3:54 | 2022-02-11 | 2022-07-14 |
 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/29p3AmDSZvB8huqODQUKj7) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 | 2022-02-11 |  |
 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/2PK6xbvzCXZuhH0CZnLPiV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number \(Club Domani Remix\)](https://open.spotify.com/album/3XGVShMuSAzI0qqjuOEsXo) | 5:17 | 2022-02-11 | 2022-03-22 |
-| [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 | 2022-06-17 |  |
+| [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 | 2022-06-17 | 2025-11-07 |
 | [Neutron Dance](https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Division](https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV) | 6:36 | 2022-02-11 |  |
 | [Okay Okay](https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:18 | 2024-07-16 |  |
 | [One for You, One for Me](https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:34 | 2022-02-11 |  |

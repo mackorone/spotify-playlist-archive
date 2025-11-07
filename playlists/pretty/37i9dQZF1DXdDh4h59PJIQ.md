@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2025!
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,700 likes - 150 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,871 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 88 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 89 | [Children \- Edit Mix](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y) | 4:05 |
 | 90 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 |
-| 91 | [PORQUE TE VAS](https://open.spotify.com/track/6DdABq4yTgh3nRhudbEEGb) | [Audioiko](https://open.spotify.com/artist/5DX6kBsol8H5sx5TYBjOsR), [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [Arely Vega](https://open.spotify.com/artist/2uTF9P7u4OMmFK9NnsEQZm) | [PORQUE TE VAS](https://open.spotify.com/album/7fFCrT7nvjKe2Dvx4JeFi8) | 3:27 |
+| 91 | [PORQUE TE VAS](https://open.spotify.com/track/6DdABq4yTgh3nRhudbEEGb) | [Audioiko](https://open.spotify.com/artist/5DX6kBsol8H5sx5TYBjOsR), [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [Arely Vega](https://open.spotify.com/artist/2uTF9P7u4OMmFK9NnsEQZm) | [PORQUE TE VAS](https://open.spotify.com/album/7fFCrT7nvjKe2Dvx4JeFi8) | 3:28 |
 | 92 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 93 | [Pepas \- David Guetta Remix](https://open.spotify.com/track/75sMhi81W5Tw2AGlOGATuy) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pepas \(David Guetta Remix\)](https://open.spotify.com/album/4ysPBmMc39Kvw2TfRR50tp) | 4:24 |
 | 94 | [Shake It](https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa) | 2:47 |

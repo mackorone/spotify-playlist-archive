@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043 likes - 38 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044 likes - 38 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 3 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
 | 4 | [Casa Lopez](https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Casa Lopez](https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9) | 4:03 |
 | 5 | [My Way](https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:33 |
-| 6 | [Standout](https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [London Class](https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL) | 2:55 |
+| 6 | [Alpha House](https://open.spotify.com/track/6udE9waINs3SYdNoGTotm9) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [ALPHA PLACE](https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ) | 3:01 |
 | 7 | [June's Cry](https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 3:56 |
-| 8 | [Alpha House](https://open.spotify.com/track/6udE9waINs3SYdNoGTotm9) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [ALPHA PLACE](https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ) | 3:01 |
+| 8 | [Standout](https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [London Class](https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL) | 2:55 |
 | 9 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:45 |
 | 10 | ['99](https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
 | 11 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 37 | [Perfect Peace](https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg) | [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ambrosia](https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj) | 3:01 |
 | 38 | [Deeper One](https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:26 |
 
-Snapshot ID: `aQlCAAAAAAALJu+ia8G6hVoGhHsz0FfI`
+Snapshot ID: `aQqTgAAAAACQ+t1Obt4cHhMJ182wPC2j`

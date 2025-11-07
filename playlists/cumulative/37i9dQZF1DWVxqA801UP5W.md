@@ -2,7 +2,7 @@
 
 ### [Massive Pop Remixes](https://open.spotify.com/playlist/37i9dQZF1DWVxqA801UP5W)
 
-> All your favourite pop songs, remixed to perfection\. Cover: LISA
+> All your favourite pop songs, remixed to perfection\. Cover: David Guetta, Teddy Swims, Tones & I
 
 153 songs - 8 hr 9 min
 

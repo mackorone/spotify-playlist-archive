@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Shakira, Ed Sheeran, Be\u00e9le",
+  "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Blessd",
   "name": "\u00c9xitos Colombia",
   "tracks": [
     {
@@ -44,7 +44,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
@@ -88,6 +88,36 @@
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+    },
+    {
+      "album": {
+        "name": "444 (Remix)",
+        "url": "https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299325,
+      "name": "444 - Remix",
+      "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
     },
     {
       "album": {
@@ -672,7 +702,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -812,6 +842,28 @@
       "duration_ms": 120697,
       "name": "BLANQUITA",
       "url": "https://open.spotify.com/track/7MOeU5nxbbgD90VFdpBFmH"
+    },
+    {
+      "album": {
+        "name": "BOBADITA",
+        "url": "https://open.spotify.com/album/5P3zmTUYu5O7NaFXCrRDHX"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244333,
+      "name": "BOBADITA",
+      "url": "https://open.spotify.com/track/52IeC2QBiJqk9jAR5gbe14"
     },
     {
       "album": {
@@ -3582,7 +3634,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -3662,7 +3714,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 210991,
       "name": "JOKER",
       "url": "https://open.spotify.com/track/6WlEftvjTtuXvLNlGXyct5"
@@ -6449,6 +6501,32 @@
     },
     {
       "album": {
+        "name": "Pieza Exhibici\u00f3n",
+        "url": "https://open.spotify.com/album/7p5H5BRUqMenAPNZmLsiuX"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283668,
+      "name": "Pieza Exhibici\u00f3n",
+      "url": "https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp"
+    },
+    {
+      "album": {
         "name": "Poco a Poco",
         "url": "https://open.spotify.com/album/50WDuqdT6FQkjnVTNx9MiE"
       },
@@ -6974,6 +7052,48 @@
       "duration_ms": 128487,
       "name": "Quiero +",
       "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "album": {
+        "name": "EXTRADITABLESSD",
+        "url": "https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        },
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        },
+        {
+          "name": "Young Fatty",
+          "url": "https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303048,
+      "name": "QUITATELOTO (feat. Kris R., Young Fatty, Bad Milk, Tury, GeezyDee, CARABIN3)",
+      "url": "https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M"
     },
     {
       "album": {
@@ -7882,7 +8002,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/0JY2QXSvlpA8DZwgaAYWlY"
@@ -9372,6 +9492,24 @@
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
+    },
+    {
+      "album": {
+        "name": "Crudo Means Raw - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6aL43UMiBePvZrK2aTN6PC"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119369,
+      "name": "X-TRA - Spotify Sessions",
+      "url": "https://open.spotify.com/track/0aQWDp9ppbVjZgRd8pFVFh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Bahamas
 
-280 songs - 16 hr 55 min
+282 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Fly](https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Fly](https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d) | 3:10 | 2025-02-21 |  |
 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-02-02 | 2024-03-02 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-09 |  |
+| [Forever, Like That](https://open.spotify.com/track/4VETG6G9KfFLHZWpEwEUeN) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Good Story](https://open.spotify.com/album/1iVKRAVcjJP4xikLZyLdQU) | 3:33 | 2025-11-06 |  |
 | [Four Chords](https://open.spotify.com/track/63KtMsVNqvjpTh3QmnwB1R) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Being Elsewhere Mix](https://open.spotify.com/album/5KhEthQTYWnsbCcMBBKm5B) | 3:40 | 2024-09-02 | 2024-11-02 |
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2023-11-03 | 2024-06-08 |
 | [Frog In Boiling Water](https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Frog In Boiling Water](https://open.spotify.com/album/27dLHGsqrDSWHCHvvS7m5p) | 3:57 | 2024-04-26 | 2024-09-07 |
@@ -120,6 +121,7 @@
 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 | 2024-11-24 |  |
 | [Heaven](https://open.spotify.com/track/3kmERuY9qxafS6nEGzA0de) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/4mlLSBujzp0u166fIpNgvt) | 5:22 | 2023-11-03 | 2024-01-13 |
 | [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 | 2024-05-17 |  |
+| [Heaven \(Butterflies\)](https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Heaven \(Butterflies\)](https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4) | 4:57 | 2025-11-06 |  |
 | [Heavy Bag](https://open.spotify.com/track/1bLHGMMW3QuUplAamFETCK) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Heavy Bag](https://open.spotify.com/album/1iRs718PyZr1dlAggFEFCe) | 2:50 | 2024-02-02 | 2024-08-03 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-25 |  |
 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-05 | 2025-03-22 |

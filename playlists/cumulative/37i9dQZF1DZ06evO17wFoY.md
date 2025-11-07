@@ -4,11 +4,12 @@
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 43 min
+63 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Variations on "Ah, vous dirai\-je maman", K\. 265: Var\. 1](https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 0:31 | 2025-11-04 |  |
+| [12 Variations on "Ah, vous dirai\-je maman", K\. 265: Var\. 7](https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 0:33 | 2025-11-07 |  |
 | [6 Pieces for Piano, Vol\. 2: No\. 4, La Valse d'Amélie](https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tiersen: 6 Pieces for Piano, Vol\. 2: No\. 4, La valse d'Amélie](https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f) | 2:50 | 2025-10-02 |  |
 | [8 Memories in Watercolour, Op\. 1: No\. 6, Floating Clouds \- Live](https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang \- Live at Carnegie Hall](https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t) | 1:42 | 2025-10-02 |  |
 | [Ave Maria, S\. 558/12](https://open.spotify.com/track/2VM3HhUnmswDIm3aILbrpd) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 6:31 | 2025-10-02 |  |
@@ -67,7 +68,7 @@
 | [Valse lente](https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tailleferre: Valse lente](https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ) | 2:46 | 2025-10-02 |  |
 | [Waltz in A Minor “Found in New York” \- 2024 World Premiere Recording](https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin: Waltz in A Minor “Found in New York” \(2024 World Premiere Recording\)](https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0) | 1:21 | 2025-10-02 |  |
 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \(From "Encanto"\)](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 | 2025-10-02 |  |
-| [Wild Swans Suite: II\. Eliza Aria \(Version for Piano\)](https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 3:10 | 2025-10-02 |  |
+| [Wild Swans Suite: II\. Eliza Aria \(Version for Piano\)](https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 3:10 | 2025-10-02 | 2025-11-07 |
 | [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 | 2025-10-02 |  |
 | [Études, Op\. 25: No\. 1 in A\-Flat Major](https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 2:54 | 2025-10-02 |  |
 

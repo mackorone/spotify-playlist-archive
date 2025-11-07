@@ -1,13 +1,45 @@
 {
   "description": "neler ya\u015fam\u0131\u015f\u0131m ben ya...",
-  "num_followers": 278,
+  "num_followers": 279,
   "original_name": "Works by Mert \u00c7odur ",
   "owner": {
     "name": "Mert \u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAAjbdGgPQyEmwBesKLks/+aCuat3lv",
+  "snapshot_id": "AAAAkYzpa7QAgyO/wL97rCXMhjhym5v3",
   "tracks": [
+    {
+      "added_at": "2025-11-06 21:23:03",
+      "album": {
+        "name": "Y\u0131k\u0131lana Kadar",
+        "url": "https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Y\u0131k\u0131lana Kadar",
+      "url": "https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss"
+    },
+    {
+      "added_at": "2025-11-06 21:22:56",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 187678,
+      "name": "Mutlu Bir Son",
+      "url": "https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq"
+    },
     {
       "added_at": "2025-09-26 00:16:50",
       "album": {

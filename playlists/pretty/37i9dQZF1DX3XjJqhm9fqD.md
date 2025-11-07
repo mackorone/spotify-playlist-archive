@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,195 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,202 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 8 | [1+1](https://open.spotify.com/track/3WID8m6M9eEQ1w1k486vMc) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [1+1](https://open.spotify.com/album/7cP06bf7dmkZN52CEaoz4a) | 3:36 |
 | 9 | [Moun Mwen](https://open.spotify.com/track/4jfE63lTCeD90ZlBhM5trG) | [Mebel Brun](https://open.spotify.com/artist/31Xfnn2aa7WHVFZYJ3Ibcm) | [Moun Mwen](https://open.spotify.com/album/5iRxy8wbqOhyODknptpWPw) | 2:28 |
 | 10 | [Tolere w](https://open.spotify.com/track/2qHYQULQh8bN0bb31JKXeG) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk), [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef) | [Tolere w](https://open.spotify.com/album/5IfNKfgGX5QRWm0mK0CFz3) | 4:39 |
-| 11 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 |
+| 11 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:55 |
 | 12 | [Sos](https://open.spotify.com/track/0NvwdECwRxe8avnKphwO5o) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Sos](https://open.spotify.com/album/7bgThdCTdoXHAIGsOgbmHq) | 3:10 |
 | 13 | [Li Dous](https://open.spotify.com/track/5grDOONmWpfnQf1jdJ9uGS) | [Joseph Zenny Jr](https://open.spotify.com/artist/4QS6sp3hm1ev3WXpPFKunt), [Kreyol La](https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB) | [Li Dous](https://open.spotify.com/album/3oevpqZKmmqEu7493mM52I) | 3:42 |
 | 14 | [6:45](https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [6:45](https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR) | 3:22 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 24 | [Layers \- Live Acoustic](https://open.spotify.com/track/1eOuxbVvNCKXcSeq2lZ2mW) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Layers \(Live Acoustic\)](https://open.spotify.com/album/39MOfURibwGxl4XnEzgve5) | 2:29 |
 | 25 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
 | 26 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 |
-| 27 | [Agua \(with Naïka\)](https://open.spotify.com/track/1lJsmnUnoQ7ylhWrr8HjQb) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Agua \(with Naïka\)](https://open.spotify.com/album/7fDmXJb3LpyezysooxEbpS) | 2:40 |
-| 28 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 |
+| 27 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 |
+| 28 | [Agua \(with Naïka\)](https://open.spotify.com/track/1lJsmnUnoQ7ylhWrr8HjQb) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Agua \(with Naïka\)](https://open.spotify.com/album/7fDmXJb3LpyezysooxEbpS) | 2:40 |
 | 29 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
 | 30 | [I Don't Care](https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB) | [Sweet Micky](https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc) | [I Don't Care](https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX) | 8:32 |
 | 31 | [Magic Gouyad \#6](https://open.spotify.com/track/3hf1hsNVQoOV674dVguPYz) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Magic Gouyad \#6](https://open.spotify.com/album/2wP33sB9KypBSi5V0Bw5Ll) | 3:50 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 52 | [HoneyComb](https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [HoneyComb](https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM) | 2:19 |
 | 53 | [Bwa Kale](https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [T\-Babas](https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb) | [Bwa Kale](https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU) | 3:05 |
 | 54 | [Ke M Pa Sote](https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Vodoo Adjae](https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ) | 9:34 |
-| 55 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
-| 56 | [Tu me touches](https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF) | [Roberto Martino](https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 6:03 |
+| 55 | [Tu me touches](https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF) | [Roberto Martino](https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 6:03 |
+| 56 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
 | 57 | [Ti Kabrit](https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Ti Kabrit](https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK) | 2:41 |
 | 58 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
 | 59 | [Cashapp Cashapp Zelle](https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Cashapp Cashapp Zelle](https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo) | 1:01 |

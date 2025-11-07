@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9250,
+  "num_followers": 9252,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADAavPpTZVVVAqx87PhSzxe",
+  "snapshot_id": "aQqTgAAAAADzRPe/+wOJidEDLnEjZ9YS",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "R-Shitei",
-          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "TEENAGE CITY RIOT",
-      "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 289293,
       "name": "FEELIN' GOOD",
       "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "R-Shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "TEENAGE CITY RIOT",
+      "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 212804,
-      "name": "EL MARIACHI",
-      "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 262506,
       "name": "MOONBEAMS SATELLITE",
       "url": "https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 212804,
+      "name": "EL MARIACHI",
+      "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
     },
     {
       "added_at": null,
@@ -420,7 +420,7 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 209206,
+      "duration_ms": 209200,
       "name": "Dance You, Matilda",
       "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
     },
@@ -571,18 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u306a\u307f\u3061\u3048",
+          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
+        },
+        {
+          "name": "GOMESS",
+          "url": "https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I"
         }
       ],
-      "duration_ms": 220800,
-      "name": "WILD ANGEL",
-      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
+      "duration_ms": 347706,
+      "name": "FAITH",
+      "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
     },
     {
       "added_at": null,
@@ -623,26 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOST IN PARADISE",
-        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u306a\u307f\u3061\u3048",
-          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
-        },
-        {
-          "name": "GOMESS",
-          "url": "https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I"
         }
       ],
-      "duration_ms": 347706,
-      "name": "FAITH",
-      "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
+      "duration_ms": 220800,
+      "name": "WILD ANGEL",
+      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
     },
     {
       "added_at": null,
@@ -696,7 +696,7 @@
           "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 246839,
+      "duration_ms": 246833,
       "name": "Whole Lotta Love",
       "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
     },
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "FOUND BLUE",
-      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
         }
       ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
+      "duration_ms": 289300,
+      "name": "FOUND BLUE",
+      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
     },
     {
       "added_at": null,
@@ -859,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
       },
       "artists": [
         {
@@ -868,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Jungle Love\uff08Instrumental\uff09",
-      "url": "https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A"
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,
@@ -891,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
       "artists": [
         {
@@ -900,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 297200,
-      "name": "TRUE FICTION",
-      "url": "https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7"
+      "duration_ms": 189466,
+      "name": "Jungle Love\uff08Instrumental\uff09",
+      "url": "https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 386933,
       "name": "LONELY LONELY -ULTRA HEAVEN REMIX by ALI\u00d7\u92ed\u5150-",
       "url": "https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 297200,
+      "name": "TRUE FICTION",
+      "url": "https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7"
     }
   ],
   "unique_name": "This Is ALI",

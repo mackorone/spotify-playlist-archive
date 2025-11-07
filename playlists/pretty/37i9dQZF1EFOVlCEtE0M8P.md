@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,397 likes - 268 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398 likes - 268 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 36 | [Truth or Dare](https://open.spotify.com/track/1HbcpRA4XnqOOZZNiN41oi) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Trouble](https://open.spotify.com/album/0tJTJOrLDyLiynoSaWW7lf) | 2:30 |
 | 37 | [Sting](https://open.spotify.com/track/1KA2L49RNYQzMe3LJJs7Tj) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:07 |
 | 38 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
-| 39 | [Problems](https://open.spotify.com/track/51TeC7QD7g4pyDz8FQDXdS) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Problems](https://open.spotify.com/album/6ZU7bZOKWg6qfn2FFaq3K0) | 2:35 |
-| 40 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 |
+| 39 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 |
+| 40 | [Problems](https://open.spotify.com/track/51TeC7QD7g4pyDz8FQDXdS) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Problems](https://open.spotify.com/album/6ZU7bZOKWg6qfn2FFaq3K0) | 2:35 |
 | 41 | [Can I Get Your Number](https://open.spotify.com/track/6jrjTqvniDSdk0jQPrdPIu) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:20 |
 | 42 | [Great Escape](https://open.spotify.com/track/0yApo58nPL6UVpkWfc01j8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI \(Martina Stoessel\) \[Deluxe Edition\]](https://open.spotify.com/album/2pFtQ4nD1Dq1ESF4w7wk3Q) | 4:07 |
 | 43 | [Cry](https://open.spotify.com/track/3xtdJnI5fEMtNB6nDqvwyy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:35 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 144 | [Staring At The Ceiling](https://open.spotify.com/track/2w2iCUjTKbuGJ5OtCSqOS6) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:43 |
 | 145 | [Bleed](https://open.spotify.com/track/73k6CSBwtpNiMNMVagMsUK) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 3:30 |
 | 146 | [Knock Yourself Out](https://open.spotify.com/track/5GyXZ7DiUmJPdZnO0syfVA) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 4:04 |
-| 147 | [Go Baby Go](https://open.spotify.com/track/7caGhEAbbH6WXTjcXJFG3L) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:03 |
-| 148 | [Don’t Tempt Me…](https://open.spotify.com/track/4tD1QB3lIl9BRCBWCneIif) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:55 |
+| 147 | [Don’t Tempt Me…](https://open.spotify.com/track/4tD1QB3lIl9BRCBWCneIif) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:55 |
+| 148 | [Go Baby Go](https://open.spotify.com/track/7caGhEAbbH6WXTjcXJFG3L) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:03 |
 | 149 | [Oh My God](https://open.spotify.com/track/1DJ4xfLYFfJ5FIYVMsyigX) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:44 |
 | 150 | [Dreamland](https://open.spotify.com/track/1umUupybnbrgaNTrkFyxWI) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/3ukgoRejo9Q8pYkjID1M6b) | 5:05 |
 | 151 | [Chaos](https://open.spotify.com/track/5Z9wSJzIPUUHohUjVKZ5vl) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:41 |
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 158 | [The Arsonist](https://open.spotify.com/track/3703vDXRh6wxyhpyu09pxl) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:27 |
 | 159 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
 | 160 | [hurt](https://open.spotify.com/track/2ULMkcWFhgiyuTQgdALlqC) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:46 |
-| 161 | [Moonlight](https://open.spotify.com/track/14wmygeqZmKG6RHsFajAPc) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Moonlight](https://open.spotify.com/album/5RKSpTmjGC1fmRkLL0pq7f) | 3:09 |
-| 162 | [Good Girl / Gone Girl](https://open.spotify.com/track/7InSFBG0IUJRhjT7K8uSRq) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:19 |
+| 161 | [Good Girl / Gone Girl](https://open.spotify.com/track/7InSFBG0IUJRhjT7K8uSRq) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:19 |
+| 162 | [Moonlight](https://open.spotify.com/track/14wmygeqZmKG6RHsFajAPc) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Moonlight](https://open.spotify.com/album/5RKSpTmjGC1fmRkLL0pq7f) | 3:09 |
 | 163 | [Peach Sky](https://open.spotify.com/track/7ljGNojZOWRrCii8npbf0g) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 4:34 |
 | 164 | [Ferrari](https://open.spotify.com/track/4ReNjPY2hVS5AutX2wJeDw) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Clare Dunn](https://open.spotify.com/album/4Xwds3CwPNqNxV7GT877Se) | 3:34 |
 | 165 | [Love In Real Life](https://open.spotify.com/track/0aBiz5baCyZbJApDikehjL) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:03 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 267 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 268 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
 
-Snapshot ID: `AcAznAAAAADzuHPeXweKLIQnOLcX+sFY`
+Snapshot ID: `AcA5KAAAAAC3Vl5bhViku46BXVGhLWsZ`

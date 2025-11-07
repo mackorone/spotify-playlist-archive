@@ -4,7 +4,7 @@
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 4 min
+69 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,5 +76,6 @@
 | [Worlds on Fire](https://open.spotify.com/track/01KiGFAD8PTLqRIEjYEqfP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:31 | 2025-10-23 |  |
 | [You Can't Stop It](https://open.spotify.com/track/1OLv5MkZEkrQqEmNJOxgGY) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:53 | 2025-09-16 | 2025-10-19 |
 | [You Can't Stop It](https://open.spotify.com/track/1RZD3Ibynuqkar2uRW0PE8) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:53 | 2025-10-19 |  |
+| [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 | 2025-11-07 |  |
 
 \*This playlist was first scraped on 2024-09-17. Prior content cannot be recovered.

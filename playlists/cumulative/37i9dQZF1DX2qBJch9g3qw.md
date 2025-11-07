@@ -4,7 +4,7 @@
 
 > lost in a haze
 
-61 songs - 3 hr 30 min
+63 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2025-09-18 |  |
 | [it all ends with us](https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [it all ends with us](https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J) | 3:46 | 2025-09-18 |  |
 | [Jaded](https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 4:22 | 2025-09-18 |  |
-| [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2025-09-18 |  |
+| [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2025-09-18 | 2025-11-07 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2025-09-18 |  |
 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 | 2025-09-18 |  |
 | [mileys riddim](https://open.spotify.com/track/22tPhE4Osvl0LGnKrjNCIR) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 1:59 | 2025-09-18 |  |
@@ -64,10 +64,12 @@
 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 | 2025-09-18 |  |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/7gvDi2aZKtSeGVtqYoUuul) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 3:07 | 2025-09-18 |  |
 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 | 2025-09-18 |  |
+| [Speak](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Speak](https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ) | 3:46 | 2025-11-06 |  |
 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 | 2025-09-18 |  |
+| [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 | 2025-11-06 |  |
 | [Talk 2 U](https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 2:39 | 2025-09-18 |  |
 | [These Days](https://open.spotify.com/track/48R6SMKqCQvrhe0KwDu68u) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [These Days](https://open.spotify.com/album/014qHcg2C7guTMP1y2eISt) | 3:14 | 2025-09-18 |  |
 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 | 2025-09-18 |  |
-| [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 | 2025-09-18 |  |
+| [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 | 2025-09-18 | 2025-11-07 |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

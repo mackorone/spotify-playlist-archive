@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Latest Hindi drops, right here. Listen now. Cover: Thamma",
+  "description": "Listen to the song that says what hearts couldn\u2019t. 'Usey Kehna' from Tere Ishk Mein is out now.",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -922,6 +922,28 @@
       "duration_ms": 255877,
       "name": "Bana Le Tera",
       "url": "https://open.spotify.com/track/0hKu8neeba4O8JEWeuoSMh"
+    },
+    {
+      "album": {
+        "name": "Baramulla Title Track (From \"Baramulla\")",
+        "url": "https://open.spotify.com/album/7KI0IMUOZYeZtIo3FBLE2M"
+      },
+      "artists": [
+        {
+          "name": "Shor Police",
+          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190155,
+      "name": "Baramulla Title Track - From \"Baramulla\"",
+      "url": "https://open.spotify.com/track/0oEf9F36roQIlu1wZeYbDp"
     },
     {
       "album": {
@@ -2194,7 +2216,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 254410,
       "name": "Dil Tera Tutega",
       "url": "https://open.spotify.com/track/1e6bzRM4TizlB1LDeteckH"
@@ -3070,6 +3092,24 @@
       "duration_ms": 242696,
       "name": "Heaven (feat. Jonita) - Remix",
       "url": "https://open.spotify.com/track/7Dx38QOew4alphqY8GRmZp"
+    },
+    {
+      "album": {
+        "name": "I-Popstar: Vol. 1 | Episodes 4&5",
+        "url": "https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190166,
+      "name": "Hope - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/6s58j8SuMg3gXrYsjYOwcX"
     },
     {
       "album": {
@@ -4016,6 +4056,10 @@
         {
           "name": "Athar Hayat",
           "url": "https://open.spotify.com/artist/5FOKSGBwQ4fb94HhIWLJUB"
+        },
+        {
+          "name": "Sameer Hayat",
+          "url": "https://open.spotify.com/artist/79dv1DTNHHM6EfW8ORtMP2"
         }
       ],
       "date_added": "2025-11-03",
@@ -4992,7 +5036,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 225882,
       "name": "Malang",
       "url": "https://open.spotify.com/track/573FXi2UCwO4k2InFxI4LQ"
@@ -5711,6 +5755,36 @@
     },
     {
       "album": {
+        "name": "120 Bahadur (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7K6AuTmZvC1us2fYjIugtP"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Amjad Nadeem Aamir",
+          "url": "https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Naine Ra Lobhi - From \"120 Bahadur\"",
+      "url": "https://open.spotify.com/track/0g7XeVUi3TuJdSKaQj72Rg"
+    },
+    {
+      "album": {
         "name": "Naseeb",
         "url": "https://open.spotify.com/album/6qSd9jotOLZbhAqD6hsnzi"
       },
@@ -5834,7 +5908,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170550,
-      "name": "O Re O Suaa - I-Popstar: Vol.1",
+      "name": "O Re O Suaa - I-Popstar: Vol. 1",
       "url": "https://open.spotify.com/track/7H2mUR2UrZ2sJXB9868Jou"
     },
     {
@@ -7660,7 +7734,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 174773,
       "name": "Tere Gaon",
       "url": "https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9"

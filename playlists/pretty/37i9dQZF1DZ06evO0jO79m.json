@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1743615,
+  "num_followers": 1743764,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADhtiG8ZHT+e711wuxmeUMU",
+  "snapshot_id": "aQqTgAAAAABvoTEbjASNv9CaJUub2Cm1",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 147480,
+      "name": "Addicted to You",
+      "url": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sale el Sol",
-        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 147480,
-      "name": "Addicted to You",
-      "url": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sale el Sol",
-        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "El Cata",
-          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Loca (feat. El Cata)",
-      "url": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
         "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 250000,
       "name": "Y, \u00bfSi Fuera Ella? - + Es +",
       "url": "https://open.spotify.com/track/114xlNyBqwTIkOdrU8LajN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "El Cata",
+          "url": "https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Loca (feat. El Cata)",
+      "url": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
+        "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 179456,
+      "name": "La Pared - Spotify Anniversary Version",
+      "url": "https://open.spotify.com/track/1foAJDTHldUwI6mvmPj1D8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Acr\u00f3stico (Milan + Sasha)",
         "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 190570,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
-        "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 179456,
-      "name": "La Pared - Spotify Anniversary Version",
-      "url": "https://open.spotify.com/track/1foAJDTHldUwI6mvmPj1D8"
     },
     {
       "added_at": null,

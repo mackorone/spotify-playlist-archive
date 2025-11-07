@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: FIFTY FIFTY
 
-1,604 songs - 3 day 13 hr 5 min
+1,605 songs - 3 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 | 2024-06-28 | 2024-08-16 |
 | [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2024-08-08 | 2024-08-28 |
 | [DEEP IN LOVE](https://open.spotify.com/track/6Ht6X2tKYkbWNJ4ytBmsDh) | [GreatGuys](https://open.spotify.com/artist/5rl5eIP9MogVsjbIVUKK1y) | [RECORD OF YOUTH EP.2 \_ DEEPLY](https://open.spotify.com/album/0uZJykDiG0jkvrOGINTfFD) | 2:32 | 2023-11-07 | 2023-11-24 |
-| [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 | 2025-07-01 |  |
+| [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 | 2025-07-01 | 2025-11-07 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-01 | 2024-08-30 |
 | [Deja Vu \- Japanese Ver.](https://open.spotify.com/track/2Mv8lQxFrpmDxulzBU0PTu) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BEYOND : ZERO](https://open.spotify.com/album/4k7ECCNLLIukf1rwPaOxoY) | 3:17 | 2022-05-24 | 2022-07-19 |
 | [Delicious](https://open.spotify.com/track/53gU09JrGtZfXTPBFpukKr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/315iKfEODZns5S32HhcapU) | 3:17 | 2023-05-30 | 2023-07-26 |
@@ -581,6 +581,7 @@
 | [Hashtaggg](https://open.spotify.com/track/3UwXUcDQFqXQWqfWk0AYYz) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Earth Space Time](https://open.spotify.com/album/7f3dTod3pwIIJz8rJopYaG) | 2:58 | 2023-11-09 | 2023-11-23 |
 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-07-03 | 2023-08-19 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-28 | 2022-09-21 |
+| [Heart Drop](https://open.spotify.com/track/4lihmuAwCau08DRXHOCthl) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Heart Drop](https://open.spotify.com/album/2y8ewgXeGj2UIO4WBvcimQ) | 3:03 | 2025-11-06 |  |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-10-30 | 2024-02-07 |
 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 | 2024-07-09 | 2024-10-25 |

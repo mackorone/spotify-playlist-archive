@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641:\u062d\u0645\u0632\u0629 \u0627\u0644\u0645\u062d\u0645\u062f\u0627\u0648\u064a\n  ",
-  "num_followers": 167378,
+  "num_followers": 167400,
   "original_name": "\u0647\u0648\u0627\u064a\u064e\u0647\u0652 \u0639\u0631\u0627\u0642\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIz7iO9SkXiPZXCL/JWjvhmBW+4P",
+  "snapshot_id": "AAAAAPKXqzTn4Evd0oXEgpKBaqm4+V/V",
   "tracks": [
     {
       "added_at": "2025-01-22 12:31:44",
@@ -23,6 +23,26 @@
       "duration_ms": 244632,
       "name": "Awl Mara",
       "url": "https://open.spotify.com/track/2EGX48NpiPOYswzI7srylN"
+    },
+    {
+      "added_at": "2025-11-06 07:30:31",
+      "album": {
+        "name": "Qalb Alwaraq Nersam",
+        "url": "https://open.spotify.com/album/7xmWTBfYQ9LKFEvx40bhyd"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Abdul Jabbar",
+          "url": "https://open.spotify.com/artist/3KbHfGyoCoOALz8Ms340Xp"
+        },
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Qalb Alwaraq Nersam",
+      "url": "https://open.spotify.com/track/2LMNbL6QJCCrvRHH75Firl"
     },
     {
       "added_at": "2025-01-22 12:31:44",
@@ -91,22 +111,6 @@
     {
       "added_at": "2025-01-22 12:31:44",
       "album": {
-        "name": "Enta Al Houb",
-        "url": "https://open.spotify.com/album/5pgBxuVTiZEzLPx01VULti"
-      },
-      "artists": [
-        {
-          "name": "Bassam Mahdi",
-          "url": "https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO"
-        }
-      ],
-      "duration_ms": 189522,
-      "name": "Enta Al Houb",
-      "url": "https://open.spotify.com/track/1wEBbzQry9zlhJeuXaBapa"
-    },
-    {
-      "added_at": "2025-01-22 12:31:44",
-      "album": {
         "name": "Helem Geffey",
         "url": "https://open.spotify.com/album/1V23wqZu0pJmJ3TANpCycg"
       },
@@ -135,22 +139,6 @@
       "duration_ms": 247578,
       "name": "khayef Akhsarah",
       "url": "https://open.spotify.com/track/2d89YOM8eeLB7D0lR8XQ5y"
-    },
-    {
-      "added_at": "2025-02-05 11:37:16",
-      "album": {
-        "name": "Shkolateh",
-        "url": "https://open.spotify.com/album/54KPf024xUDQpcU1pTSVwD"
-      },
-      "artists": [
-        {
-          "name": "Saif Nabeel",
-          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
-        }
-      ],
-      "duration_ms": 162939,
-      "name": "Shkolateh",
-      "url": "https://open.spotify.com/track/7JUEv4UV5hai4XcMLukdQ3"
     },
     {
       "added_at": "2025-01-22 12:31:44",

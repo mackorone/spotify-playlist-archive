@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "ABITUAT",
+        "url": "https://open.spotify.com/album/3ccM4T72ol8avbL4dszdXs"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141526,
+      "name": "ABITUAT",
+      "url": "https://open.spotify.com/track/5e5yyIt37m9lAfOcmjOkaV"
+    },
+    {
+      "album": {
         "name": "Accuss\u00ec",
         "url": "https://open.spotify.com/album/2HSqakWuj1tB3v9PQ9MDqH"
       },
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 122250,
       "name": "FUOCO",
       "url": "https://open.spotify.com/track/3rrWqpRr0rB7tzqKe1JMJy"
@@ -7411,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "Papele Papele",
+        "url": "https://open.spotify.com/album/79hLGH9imiP1CVl7TDSzEA"
+      },
+      "artists": [
+        {
+          "name": "Kepa",
+          "url": "https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157637,
+      "name": "Papele Papele",
+      "url": "https://open.spotify.com/track/5UenYKLznY65pJbEg9Mf6H"
+    },
+    {
+      "album": {
         "name": "PARENTE",
         "url": "https://open.spotify.com/album/4NfWT7DZf5pOnglQ77sYFC"
       },
@@ -7658,7 +7694,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 117615,
       "name": "PER CORTESIA",
       "url": "https://open.spotify.com/track/2sLYzeSmkJWTs0vRjKDmBk"

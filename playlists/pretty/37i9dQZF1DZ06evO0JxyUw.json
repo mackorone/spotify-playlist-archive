@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275681,
+  "num_followers": 275684,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACXTcENgsWnNKEQmR6JtSEF",
+  "snapshot_id": "aQqTgAAAAAA1oK6wSCiYhGx3tpYlw+NH",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bionic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Not Myself Tonight",
-      "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mulan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
       },
@@ -679,22 +663,6 @@
       "duration_ms": 217996,
       "name": "Reflection (2020)",
       "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 120453,
-      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
     },
     {
       "added_at": null,
@@ -715,6 +683,38 @@
       "duration_ms": 289200,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 120453,
+      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Not Myself Tonight",
+      "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bionic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 257252,
-      "name": "You Lost Me",
-      "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
+      "duration_ms": 244933,
+      "name": "Por Siempre T\u00fa",
+      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 244933,
-      "name": "Por Siempre T\u00fa",
-      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
+      "duration_ms": 257252,
+      "name": "You Lost Me",
+      "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
     },
     {
       "added_at": null,

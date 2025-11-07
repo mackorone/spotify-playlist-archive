@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZREeDGwM6aE.md) - [plain]
 
 > These LGBTQIA+ trailblazers knocked doors wide open with their music\. Cover: Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,097 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,132 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

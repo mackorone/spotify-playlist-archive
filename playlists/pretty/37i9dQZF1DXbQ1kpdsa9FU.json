@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: Phil Wickham",
-  "num_followers": 653847,
+  "num_followers": 653952,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "This Is Not A Test",
         "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 265120,
       "name": "Fear Is a Liar",
       "url": "https://open.spotify.com/track/6Z85UCEueQcgSyChlrEu5G"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "United We Stand (Live)",
-        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        }
-      ],
-      "duration_ms": 378986,
-      "name": "From The Inside Out - Live",
-      "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 242160,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "United We Stand (Live)",
+        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "duration_ms": 378986,
+      "name": "From The Inside Out - Live",
+      "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Fighting For Me",
-        "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Fighting For Me",
-      "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Speechless",
         "url": "https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 237708,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Fighting For Me",
+        "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Fighting For Me",
+      "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Glory Song",
         "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 248854,
       "name": "I'm Listening - Radio Version",
       "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Praise Before My Breakthrough",
-        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 246619,
-      "name": "My Hallelujah",
-      "url": "https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Heed the Call",
-        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
+        "name": "Praise Before My Breakthrough",
+        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
       },
       "artists": [
         {
-          "name": "The Imperials",
-          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 215426,
-      "name": "Praise the Lord",
-      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
+      "duration_ms": 246619,
+      "name": "My Hallelujah",
+      "url": "https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
+        "name": "Heed the Call",
+        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
+      },
+      "artists": [
+        {
+          "name": "The Imperials",
+          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
+        }
+      ],
+      "duration_ms": 215426,
+      "name": "Praise the Lord",
+      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
         "name": "The Glorious Unfolding",
         "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "A Maze Of Grace",
-        "url": "https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/12vwgyg4SZcwe5h77Uf7YJ"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 326733,
       "name": "Audience of One",
       "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "A Maze Of Grace",
+        "url": "https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/12vwgyg4SZcwe5h77Uf7YJ"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Big God",
-        "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 191710,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Spoken For",
         "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 187573,
       "name": "Word of God Speak",
       "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 191710,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2351,34 +2351,18 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 191013,
-      "name": "The Comeback",
-      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
-        "name": "Everything Is Changing",
-        "url": "https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS"
-      },
-      "artists": [
-        {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2399,18 +2383,18 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
+      "duration_ms": 191013,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2431,6 +2415,22 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
+        "name": "Everything Is Changing",
+        "url": "https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS"
+      },
+      "artists": [
+        {
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
       },
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
       },
@@ -2472,9 +2456,9 @@
           "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Grace Got You",
-      "url": "https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf"
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2491,6 +2475,22 @@
       "duration_ms": 361386,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
     },
     {
       "added_at": "2025-09-14 09:31:58",

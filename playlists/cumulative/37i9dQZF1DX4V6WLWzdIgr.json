@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Cidera Serius",
+        "url": "https://open.spotify.com/album/7mv8x1RvTr9el8C021oLOA"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        },
+        {
+          "name": "Nadeo Winata",
+          "url": "https://open.spotify.com/artist/64n4uFYJKNUVys6cTUsWKH"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Cidera Serius",
+      "url": "https://open.spotify.com/track/3tscYJp7QSy5aY9tRT01MZ"
+    },
+    {
+      "album": {
         "name": "Cidro 2",
         "url": "https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA"
       },

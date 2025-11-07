@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 111921,
+  "num_followers": 111922,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
-        "name": "To dopiero pocz\u0105tek",
-        "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
-      },
-      "artists": [
-        {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
-        }
-      ],
-      "duration_ms": 217290,
-      "name": "Bez Ciebie",
-      "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 143600,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
+        "name": "To dopiero pocz\u0105tek",
+        "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "duration_ms": 217290,
+      "name": "Bez Ciebie",
+      "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
     }
   ],
   "unique_name": "... ale najpierw kawa",

@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the sounds of South African Jazz\. Cover: Mandisi Dyantyis
+> Journey through the sounds of South African Jazz\. Cover: giuliette price
 
-317 songs - 1 day 7 hr 52 min
+318 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Isponono](https://open.spotify.com/track/3MhNRnh7ipFyhSqv6RKnxm) | [PARAS "SIBALUKHULU" DLAMINI](https://open.spotify.com/artist/35LbDw5rYHgaFDEfN0O4n6) | [Ingoma Busuku](https://open.spotify.com/album/3rVbfPQmwijCqfrswFsHwO) | 3:30 | 2025-06-13 | 2025-06-20 |
 | [J.G\. at Nikki's](https://open.spotify.com/track/7dOVLEg8njJySnPiHXweTu) | [Feya Faku](https://open.spotify.com/artist/1dfNDAODPlsiimrbpTuvXb) | [Impilo](https://open.spotify.com/album/6XD1Euv3XUt8ACFsgd2kA3) | 4:06 | 2025-06-24 | 2025-08-30 |
 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 | 2022-05-12 | 2024-05-17 |
-| [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 | 2025-10-24 |  |
+| [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 | 2025-10-24 | 2025-11-07 |
 | [Joyous](https://open.spotify.com/track/4eZg8lxVThElRnwl6ZHqBX) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [The Ancestors](https://open.spotify.com/artist/7ePHKxo2J01bxBoXF3ikyy) | [Brownswood 10](https://open.spotify.com/album/0VyTXdyXEsKzrvI6h566GY) | 6:38 | 2022-04-28 | 2022-11-13 |
 | [Joyous](https://open.spotify.com/track/1dznd0YJ26B9NIUJcQZOKh) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/6Kf1JMtmpxC4ffNnv1keSl) | 6:38 | 2023-11-01 | 2023-11-17 |
 | [Joyous](https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/7bOWCR37vGgWis6Nwi7aMC) | 6:43 | 2022-04-28 | 2023-03-18 |
@@ -245,6 +245,7 @@
 | [South African Jam](https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [South African Jam](https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC) | 6:04 | 2024-04-25 | 2024-10-25 |
 | [South African Jam \- Radio Edit](https://open.spotify.com/track/4u980mCjnbUX72zchqFw0i) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [South African Jam](https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC) | 3:49 | 2025-06-24 | 2025-08-30 |
 | [Space Ship](https://open.spotify.com/track/5ZQiY5rlJaBvhyVMZJV8AS) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 6:15 | 2022-04-28 | 2023-04-12 |
+| [speak now](https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [ANXIOUSLY PREOCCUPIED](https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi) | 3:42 | 2025-11-07 |  |
 | [Still I Rise \(Part 1\) \- Revisited](https://open.spotify.com/track/0ucY0O7i8vmoOCdn4Hp6kT) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Tlale Makhene](https://open.spotify.com/artist/4cAYt0kuEE8mX7Bo0hJDau) | [Still i Rise \(Part 1\) \[Revisited\]](https://open.spotify.com/album/4iWVmn7avFn2ZeCqmCEhYM) | 5:57 | 2025-08-29 |  |
 | [Still Waters](https://open.spotify.com/track/64Hnc7wEjlTLveuKSoVYiU) | [Diteboho](https://open.spotify.com/artist/0sBaDk1LSWeJAbxcXf4lvc), [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E), [MODIKA.](https://open.spotify.com/artist/0yIhOcXDITuo8fbnLTvR7m), [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [Light a Candle](https://open.spotify.com/album/47FcFzQjfOSXA1NKNqxBjd) | 2:20 | 2025-06-13 | 2025-06-20 |
 | [Stories](https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jacomo Bairos](https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3) | [Stories](https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU) | 6:56 | 2025-08-29 |  |

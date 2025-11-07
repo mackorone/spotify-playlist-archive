@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 25329,
+  "num_followers": 25333,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Camino a la Templanza",
-        "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
-      },
-      "artists": [
-        {
-          "name": "Soema Montenegro",
-          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 263424,
-      "name": "Uni\u00f3n de los Amantes",
-      "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "Adi\u00f3s pueblito de Iruya (Guaz\u00fa Remix)",
         "url": "https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "Camino a la Templanza",
+        "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
+      },
+      "artists": [
+        {
+          "name": "Soema Montenegro",
+          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 263424,
+      "name": "Uni\u00f3n de los Amantes",
+      "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
       },
       "artists": [
         {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+      "duration_ms": 340616,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
       },
       "artists": [
         {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
         }
       ],
-      "duration_ms": 340616,
-      "name": "La Frontera",
-      "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
     },
     {
       "added_at": "2025-08-21 19:45:20",

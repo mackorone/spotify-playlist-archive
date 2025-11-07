@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: LETO\(레토\)\) \(Meet the emerging talents of Korea!\)
 
-1,628 songs - 3 day 19 hr 24 min
+1,629 songs - 3 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [HOW YOU FEEL?](https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [HOW YOU FEEL?](https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW) | 2:44 | 2021-12-02 | 2022-01-11 |
 | [How’s your weather \(feat\. WILRO\)](https://open.spotify.com/track/46LPpV2pIj7XughkHsx3ws) | [Sean.K](https://open.spotify.com/artist/37BFwc5MqodHMtm68RhYQv), [WILRO](https://open.spotify.com/artist/0n2Pt2CZP9z8xx0vzRg4OV) | [How’s your weather](https://open.spotify.com/album/2AdBZWzddMXDNnxegQmfaH) | 3:53 | 2022-06-18 | 2022-07-15 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-02 | 2023-01-12 |
+| [hunger](https://open.spotify.com/track/2r9fdCVI9fmyYDDXt5DKR9) | [seul](https://open.spotify.com/artist/7j9VXBIPcjfX3x2euuD9mO) | [Dawn](https://open.spotify.com/album/6O0abzKmCmPvk7Ts1EBKjv) | 4:15 | 2025-11-06 |  |
 | [Hunting](https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Hunting](https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg) | 3:00 | 2025-06-19 | 2025-10-02 |
 | [Hurt](https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh) | [SRA](https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk) | [Hurt](https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6) | 3:19 | 2025-04-22 | 2025-07-26 |
 | [HUSH](https://open.spotify.com/track/6Of6IZabcu8f9UnAocPqxl) | [Lee Dahye](https://open.spotify.com/artist/7gc8zw3BiCRjq9PNgingF5) | [HUSH](https://open.spotify.com/album/7kYyb4HSoOXrXIyjDtNNk4) | 3:12 | 2024-04-03 | 2024-08-02 |
@@ -702,7 +703,7 @@
 | [In the end we break up again](https://open.spotify.com/track/7wIXKUKydFAekfmkY4dr9y) | [RAN](https://open.spotify.com/artist/3C7ohflntJsa9KFY5GBim1) | [Bravo, My Life OST Part.10](https://open.spotify.com/album/6McBvDgGynQuviMva7QoU4) | 3:49 | 2022-06-09 | 2022-06-19 |
 | [in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 | 2024-02-01 | 2025-01-21 |
 | [In The Rain](https://open.spotify.com/track/1vyPrGqBCve587nS5x142B) | [Cloudybay](https://open.spotify.com/artist/0FyGoy4Ek4dQGoMM65eZ0z) | [Rain In Tequila](https://open.spotify.com/album/2PN6HKnZfzv1J8x29ApGLW) | 3:16 | 2022-09-29 | 2022-12-01 |
-| [In The Waves](https://open.spotify.com/track/2CHaA72LgJVFg8HpIUxJMf) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [In The Waves](https://open.spotify.com/album/3DFZJC49crxZ6MZsmxEQKH) | 3:48 | 2025-07-31 |  |
+| [In The Waves](https://open.spotify.com/track/2CHaA72LgJVFg8HpIUxJMf) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [In The Waves](https://open.spotify.com/album/3DFZJC49crxZ6MZsmxEQKH) | 3:48 | 2025-07-31 | 2025-11-07 |
 | [In This Morning](https://open.spotify.com/track/0WziV52uDQhR2c2CWg38fe) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [In This Morning](https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs) | 3:45 | 2024-03-21 | 2024-08-02 |
 | [indivisible](https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [indivisible](https://open.spotify.com/album/3sV0oGcZ3dNE59Mi3TQ13U) | 2:41 | 2025-05-09 | 2025-08-20 |
 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 | 2023-06-01 | 2024-01-03 |

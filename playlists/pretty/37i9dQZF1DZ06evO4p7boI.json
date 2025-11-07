@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95935,
+  "num_followers": 95931,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACxQ1ceiDFWTe0Ltxzkg/Pw",
+  "snapshot_id": "aQqTgAAAAABFKtDPK1zY67Q4RvGiAbBW",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 148278,
       "name": "Tap (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rexdale",
+        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Rexdale",
+      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Misery Loves Company",
         "url": "https://open.spotify.com/album/4So2cgWi3q7Ieb9ItvC8TY"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 166644,
       "name": "Power Of A Dollar Interlude",
       "url": "https://open.spotify.com/track/6karkMKGimOzHXzR5ib5td"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rexdale",
-        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Rexdale",
-      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fell In Love (2016)",
+        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Fell In Love (2016)",
+      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 133773,
       "name": "Foreign (feat. Nav)",
       "url": "https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fell In Love (2016)",
-        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Fell In Love (2016)",
-      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
     },
     {
       "added_at": null,

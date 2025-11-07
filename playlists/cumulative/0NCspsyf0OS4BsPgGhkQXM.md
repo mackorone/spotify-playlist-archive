@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,129 songs - 2 day 10 hr 7 min
+1,130 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [I Miss You More Than You Think](https://open.spotify.com/track/4bwRNsGCcUbK8zzJHwqiXD) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Lunamatic](https://open.spotify.com/artist/77DTuUk6FabnQ9gB0e91qT) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 3:42 | 2022-07-01 | 2022-11-24 |
 | [I Miss You, I Don't](https://open.spotify.com/track/3FtxHC0IjW4tIynPu7lvzx) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [I Miss You, I Don't](https://open.spotify.com/album/5tC9tQ6maXtBeOnU6DLBRI) | 2:01 | 2024-03-19 |  |
 | [I Need The Truth \(feat\. Akacia\)](https://open.spotify.com/track/5iYouPpXrtpelj5SzsqBXi) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 3:02 | 2022-09-02 | 2022-10-08 |
+| [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 | 2025-11-06 |  |
 | [I Wanna Know](https://open.spotify.com/track/4ToogKQq58R9TvO40qRuxi) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:26 | 2023-04-08 | 2024-02-17 |
 | [i wanna say](https://open.spotify.com/track/3Xv0K6XiBhbEHC3LEoj9id) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [i wanna say](https://open.spotify.com/album/4dhUxrW3VtRdFrrgjj7Mnr) | 3:07 | 2022-04-01 | 2022-05-18 |
 | [I Won't Want You](https://open.spotify.com/track/4z2NbPa5hx6IeW1Fn71PPf) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ) | [I Won't Want You](https://open.spotify.com/album/7t0Bwl0IJENI5ahuBXFELH) | 2:46 | 2022-10-29 | 2022-11-24 |

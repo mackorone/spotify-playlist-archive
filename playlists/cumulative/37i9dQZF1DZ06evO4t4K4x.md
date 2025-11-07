@@ -4,7 +4,7 @@
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 41 min
+110 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [The Afterlife, Pt\. 3](https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 35:13 | 2023-06-03 | 2025-02-28 |
 | [The Afterlife, Pt\. 3](https://open.spotify.com/track/1SUUGoKJE1kXMaLnAYeHBv) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife Anthology](https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ) | 35:13 | 2025-02-28 | 2025-10-31 |
 | [The Pattern Emerges](https://open.spotify.com/track/1CG4YEEQpvYe8aEUXf1mvu) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 2:55 | 2022-05-29 |  |
+| [The Sea \(1969\)](https://open.spotify.com/track/0UmTJH6MMIoCZSkiYa5Z5Q) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Sea \(1969\)](https://open.spotify.com/album/72PrDcOdwtlGmyv2GzCz5o) | 9:24 | 2025-11-07 |  |
 | [The Wizard's Laboratory](https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 2:06 | 2022-05-29 | 2025-10-27 |
 | [Time on Our Hands](https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 1:13 | 2022-12-31 | 2025-09-26 |
 | [Time on Our Hands](https://open.spotify.com/track/2oeQFA1RwZbR9E5Pf50XRQ) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 1:13 | 2022-05-29 | 2023-01-01 |

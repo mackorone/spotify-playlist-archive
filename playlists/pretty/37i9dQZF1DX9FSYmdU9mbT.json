@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1454070,
+  "num_followers": 1454341,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,22 @@
     {
       "added_at": "2025-10-25 00:50:26",
       "album": {
-        "name": "Racional (Vol 1)",
-        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 305693,
-      "name": "Bom-Senso",
-      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
     },
     {
       "added_at": "2025-10-25 00:50:26",
@@ -443,22 +447,18 @@
     {
       "added_at": "2025-10-25 00:50:26",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Racional (Vol 1)",
+        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+      "duration_ms": 305693,
+      "name": "Bom-Senso",
+      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
       "added_at": "2025-10-25 00:50:26",
@@ -559,42 +559,6 @@
     {
       "added_at": "2025-10-25 00:50:26",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 227568,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
-    },
-    {
-      "added_at": "2025-10-25 00:50:26",
-      "album": {
-        "name": "Caetano e Beth\u00e2nia Ao Vivo",
-        "url": "https://open.spotify.com/album/0sTykt0Q7XBt2sQ9wu51j3"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 195739,
-      "name": "Alegria, Alegria - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KfJwFYVUMCL9MO4G1wsPV"
-    },
-    {
-      "added_at": "2025-10-25 00:50:26",
-      "album": {
         "name": "Nova Bis - Ivan Lins",
         "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
       },
@@ -607,6 +571,38 @@
       "duration_ms": 230506,
       "name": "Vitoriosa - Ao Vivo",
       "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
+    },
+    {
+      "added_at": "2025-10-25 00:50:26",
+      "album": {
+        "name": "Caetanear",
+        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
+    },
+    {
+      "added_at": "2025-10-25 00:50:26",
+      "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 227568,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
     },
     {
       "added_at": "2025-10-25 00:50:26",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2025-10-25 00:50:26",
       "album": {
-        "name": "Caetanear",
-        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
+        "name": "Caetano e Beth\u00e2nia Ao Vivo",
+        "url": "https://open.spotify.com/album/0sTykt0Q7XBt2sQ9wu51j3"
       },
       "artists": [
         {
           "name": "Caetano Veloso",
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Odara",
-      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
+      "duration_ms": 195739,
+      "name": "Alegria, Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KfJwFYVUMCL9MO4G1wsPV"
     },
     {
       "added_at": "2025-10-25 00:50:26",

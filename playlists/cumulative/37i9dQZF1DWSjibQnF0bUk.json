@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/2o0OJkBfmEt8CzHRAXfyO3"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/03pv8d28pqb7edfT6JvwzD"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
       },
@@ -1818,7 +1840,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 163944,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR"
@@ -3466,6 +3488,32 @@
       "duration_ms": 216724,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
+    },
+    {
+      "album": {
+        "name": "ENJOYMENT",
+        "url": "https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Diamond Boy",
+          "url": "https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "ENJOYMENT",
+      "url": "https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi"
     },
     {
       "album": {
@@ -6724,7 +6772,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 161538,
       "name": "Many People",
       "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
@@ -11606,7 +11654,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 180000,
       "name": "yawa",
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"

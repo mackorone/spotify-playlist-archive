@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "QUARTA DIMENSIONE",
+        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "CAMBIARE VITA",
+      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
+    },
+    {
+      "album": {
         "name": "Campi Elisi",
         "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
       },
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 148818,
       "name": "Devil May Cry",
       "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 113816,
       "name": "Ho perso il cuore,",
       "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
@@ -2846,6 +2864,24 @@
       "duration_ms": 178285,
       "name": "l'ultima stella (feat. Visino Bianco)",
       "url": "https://open.spotify.com/track/7el3huhG3gAMjjJehLd1sT"
+    },
+    {
+      "album": {
+        "name": "L'unica",
+        "url": "https://open.spotify.com/album/7GztH92sea7XhAY894aycj"
+      },
+      "artists": [
+        {
+          "name": "tellynonpiangere",
+          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184163,
+      "name": "L'unica",
+      "url": "https://open.spotify.com/track/3HFuWPn66BiUM4bMkYpw7j"
     },
     {
       "album": {

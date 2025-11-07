@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,726 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,803 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 65 | [Pedro \- W&W Remix](https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Pedro \(W&W Remix\)](https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A) | 2:39 |
 | 66 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 |
 | 67 | [King Of My Castle](https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ) | [King Of My Castle](https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx) | 1:56 |
-| 68 | [Jerk It Out](https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Jerk It Out](https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY) | 2:33 |
-| 69 | [Come On Baddie Let's Go Party](https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Come On Baddie Let's Go Party](https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2) | 2:33 |
+| 68 | [Come On Baddie Let's Go Party](https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Come On Baddie Let's Go Party](https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2) | 2:33 |
+| 69 | [Jerk It Out](https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Jerk It Out](https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY) | 2:33 |
 | 70 | [Bel Mercy \- Techno](https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC) | [Paayne](https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO) | [Bel Mercy \(Techno\)](https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H) | 1:52 |
 | 71 | [Hellfire](https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Hellfire](https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs) | 3:03 |
 | 72 | [Balling \- LÄUFF Remix](https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [LÄUFF](https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73) | [Balling \(LÄUFF Remix\)](https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe) | 4:20 |

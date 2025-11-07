@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: Oklou \(France\)
 
-2,670 songs - 6 day 4 hr 2 min
+2,671 songs - 6 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Ceci n'est pas un cliché](https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 3:46 | 2023-03-01 | 2023-04-06 |
 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 | 2022-09-07 | 2023-01-05 |
 | [CEO](https://open.spotify.com/track/0d1SYlJPC9ZiF9DKFS8ZnH) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [CEO](https://open.spotify.com/album/3LJnIGIiyotvZIEmcEUznd) | 2:50 | 2021-12-11 | 2022-01-06 |
-| [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 | 2025-09-17 |  |
+| [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 | 2025-09-17 | 2025-11-07 |
 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 | 2022-10-04 | 2022-11-03 |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-06-05 | 2025-07-03 |
 | [Chanel No.5](https://open.spotify.com/track/5U1dGHnSbt9VaidRSaD46M) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:40 | 2024-07-03 | 2024-08-08 |
@@ -902,6 +902,7 @@
 | [Gusto Ko Nang Bumitaw \- From "The Broken Marriage Vow"](https://open.spotify.com/track/1FxGqFnJkRgJ5LG2NBRTh3) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Gusto Ko Nang Bumitaw \(From "The Broken Marriage Vow"\)](https://open.spotify.com/album/05RICu0AxsqrqoiSzzxeyG) | 4:31 | 2022-04-06 | 2022-05-05 |
 | [Gái Độc Thân](https://open.spotify.com/track/2klsSb2iTfgDh95Ak9uWY2) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Gái Độc Thân](https://open.spotify.com/album/4gDgccYkth0VxOc4m5IpIJ) | 3:05 | 2022-05-04 | 2022-06-01 |
 | [Gönlümün Balkonu](https://open.spotify.com/track/1F0bRB1uo9a8uMO5RrQBd8) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Eteğimdeki Taşlar](https://open.spotify.com/album/0kKWs0ComnwZkfZyeTgMkI) | 3:57 | 2024-02-07 | 2024-03-07 |
+| [Görmeyeli](https://open.spotify.com/track/4klyY7n8Pt8MPod6nNRcc3) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Görmeyeli](https://open.spotify.com/album/3XSotZOi5XBsnjgS5iQ4Uw) | 3:00 | 2025-11-06 |  |
 | [Günah Keçisi](https://open.spotify.com/track/4V3daPACwtk8SsaruDUpNw) | [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Günah Keçisi](https://open.spotify.com/album/3HegniVm8mkM6YhkXHE5H3) | 4:41 | 2023-07-05 | 2023-08-03 |
 | [Günaydın](https://open.spotify.com/track/1arbDclvD2t0JeXiFS7270) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [Günaydın](https://open.spotify.com/album/4Vfz915grZkHvHW7V9rdBR) | 2:03 | 2023-11-08 | 2023-11-30 |
 | [Gặp lại năm ta 60](https://open.spotify.com/track/3Vo5KWON7ii5Cs6gAivUWH) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Gặp lại năm ta 60](https://open.spotify.com/album/0tK8HJvbXi0demMO93mlIY) | 5:33 | 2024-01-10 | 2024-02-08 |

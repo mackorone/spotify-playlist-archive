@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu
 
-461 songs - 23 hr 34 min
+464 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [17 für immer](https://open.spotify.com/track/0UJUoXIawV7KpPu4dRKUUh) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/2LCs34ukoSlsBDbetAKMYm) | 2:40 | 2022-06-16 | 2022-07-29 |
 | [17 für immer](https://open.spotify.com/track/4NRJsPrgVbKwBCR7woZSHM) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/4IdKZ2doupiUIY2R5GpD4d) | 2:40 | 2022-07-28 | 2022-09-02 |
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 | 2022-12-02 |
-| [2 Teile](https://open.spotify.com/track/02xssYg4dSe6YUBzyPai4B) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [2 Teile](https://open.spotify.com/album/7Dp26d94eVaqz8uRWmjhqw) | 2:57 | 2025-07-03 |  |
+| [2 Teile](https://open.spotify.com/track/02xssYg4dSe6YUBzyPai4B) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [2 Teile](https://open.spotify.com/album/7Dp26d94eVaqz8uRWmjhqw) | 2:57 | 2025-07-03 | 2025-11-07 |
 | [2004](https://open.spotify.com/track/70mnNt3wqV6MYIAR9vvixQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [2004](https://open.spotify.com/album/25Gu3kn7qyTJ4zt5CSpbeQ) | 2:40 | 2024-05-30 | 2024-08-09 |
 | [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 | 2023-05-18 | 2023-12-01 |
 | [30](https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [30](https://open.spotify.com/album/3JMWBrrc0S74EAddYj0ial) | 1:54 | 2022-05-05 | 2023-02-03 |
@@ -35,7 +35,7 @@
 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 | 2025-02-27 | 2025-08-22 |
 | [Allein](https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Allein](https://open.spotify.com/album/1Q8LiMZVYTq0KhRpx8OB1o) | 3:04 | 2024-05-09 | 2024-08-09 |
 | [AMAZIN](https://open.spotify.com/track/04KZEpLfPcqFLFoNM0U3Fj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [AMAZIN](https://open.spotify.com/album/7ySdeA8ikHprzQRWYoOZqA) | 2:40 | 2025-10-23 |  |
-| [amen](https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [amen](https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy) | 2:17 | 2025-08-07 |  |
+| [amen](https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [amen](https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy) | 2:17 | 2025-08-07 | 2025-11-07 |
 | [an all diesen Tagen](https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [an all diesen Tagen](https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs) | 2:44 | 2022-04-07 | 2022-09-16 |
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-06-16 | 2023-08-25 |
 | [Another year like that and we'd all be dead](https://open.spotify.com/track/7ytFo4I2OsaiGRhYdFGoQW) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ROMANIAC](https://open.spotify.com/album/6DqP8rOL3mQrK1av1L3AbT) | 4:36 | 2021-12-16 | 2022-02-11 |
@@ -109,6 +109,7 @@
 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-21 | 2023-05-19 |
 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 | 2022-09-22 | 2023-10-06 |
 | [dafür bin ich frei \(feat\. Bausa\)](https://open.spotify.com/track/40sRMHcdSscmLVWqCiFdML) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:46 | 2024-06-20 | 2025-01-31 |
+| [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [](https://open.spotify.com/album/null) | 2:43 | 2025-11-06 |  |
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-16 | 2023-04-14 |
 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 | 2025-09-04 |  |
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
@@ -314,7 +315,7 @@
 | [Physical Aspects Of Disco](https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Somebody EP](https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7) | 6:26 | 2023-03-16 | 2025-04-11 |
 | [Piccolo](https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Piccolo](https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv) | 2:27 | 2023-09-14 | 2025-07-11 |
 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-01-25 | 2024-04-19 |
-| [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-11 |  |
+| [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-11 | 2025-11-07 |
 | [Pinky Promise](https://open.spotify.com/track/530nmNKu7jq0fCTR6iyfuj) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [Pinky Promise](https://open.spotify.com/album/22i0H54dXIQPYi1cTzfRXg) | 2:49 | 2025-02-27 | 2025-05-30 |
 | [PIROUETTEN](https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [berq](https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn) | 2:27 | 2024-10-24 |  |
 | [Pistazieneis](https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Pistazieneis](https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB) | 2:17 | 2024-07-04 | 2024-08-23 |
@@ -362,6 +363,7 @@
 | [Slowly](https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B) | 6:54 | 2021-12-16 | 2022-11-16 |
 | [Slowly](https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX) | 6:54 | 2022-10-27 | 2023-01-20 |
 | [Smile](https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Smile](https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr) | 3:42 | 2022-05-19 | 2024-06-07 |
+| [So weit weg \(Molekül\)](https://open.spotify.com/track/159fuPmAvLhTE2YyDruzbP) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [So weit weg \(Molekül\)](https://open.spotify.com/album/1mhWLC9dyvkSkIJZPaEfsN) | 2:31 | 2025-11-06 |  |
 | [Song on the Radio](https://open.spotify.com/track/2h8hP0rGjtq31emYwQx8D7) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Song on the Radio](https://open.spotify.com/album/78gyO9wf9RWsq3pbSTI5s8) | 2:48 | 2025-10-16 |  |
 | [Sorry Mama Papa](https://open.spotify.com/track/0fF0IJSe5HVQnC6PFRPzEz) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Details](https://open.spotify.com/album/2hfaV0g2aEvB5hOduWzqPB) | 2:33 | 2023-11-30 | 2024-04-19 |
 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 | 2023-02-09 | 2023-07-07 |
@@ -439,6 +441,7 @@
 | [Wer wir sind](https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Wer wir sind](https://open.spotify.com/album/3zUerUY6tHRhKCvMnJR87K) | 3:37 | 2022-03-24 | 2022-12-09 |
 | [WER, WENN NICHT WIR?](https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [WER, WENN NICHT WIR?](https://open.spotify.com/album/4fBtvg2ixMyybD5YB33gn5) | 2:05 | 2022-05-26 | 2022-07-15 |
 | [WEREWOLF](https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WEREWOLF](https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9) | 3:13 | 2023-08-24 | 2023-10-13 |
+| [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 | 2025-11-06 |  |
 | [what a life](https://open.spotify.com/track/6NqcZkgcZsXu3kpOzmS5RM) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [what a life](https://open.spotify.com/album/1cLV9ZAsnfK9bymuB6iQBg) | 3:09 | 2025-08-14 | 2025-09-19 |
 | [What Does She Have](https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [What Does She Have](https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG) | 3:18 | 2025-09-18 |  |
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 | 2022-12-02 |

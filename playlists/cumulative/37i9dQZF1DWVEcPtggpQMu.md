@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: Sastii
+> Only the hottest South African rap\. <br/>Cover: Shane Eagle
 
-1,052 songs - 2 day 7 hr 38 min
+1,053 songs - 2 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [APPLYING THE PRESSURE](https://open.spotify.com/track/74LtfvCSKRFe7xBI5WgFCw) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [APPLYING THE PRESSURE](https://open.spotify.com/album/2jjAVNkYlu08YF050fKIG3) | 1:52 | 2022-10-14 | 2022-12-13 |
 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 | 2023-11-10 | 2024-04-05 |
 | [Armed & Dangerous](https://open.spotify.com/track/43QDhwENRJQIEFkJxemO62) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Almost Dead](https://open.spotify.com/album/0XjaY3caFmKPf2JG1vKK6T) | 3:06 | 2022-03-10 | 2022-03-18 |
+| [Arrival](https://open.spotify.com/track/47y8h6yklO7E9GWpGLJ3OG) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Kdagreat](https://open.spotify.com/artist/0kiieM6XFDR0RF03GK2ilO) | [Never Meet Your Heroes](https://open.spotify.com/album/2S5ygDdE6zit6rNeGvMafb) | 3:11 | 2025-11-07 |  |
 | [As We Lay](https://open.spotify.com/track/0yTKggaVlnD8DPmcg8AfXT) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [As We Lay](https://open.spotify.com/album/0t7EPNFlWch3ADqkSNUQXw) | 3:41 | 2022-02-03 | 2022-02-11 |
 | [ASBONGE](https://open.spotify.com/track/5kjb86Dq1QvPLVHR5PRHto) | [Megshizzy](https://open.spotify.com/artist/2RlvT9UC0U92n19NeiCJRL), [BULA BULL](https://open.spotify.com/artist/6kKLGZl1lKCCxaYoVgi5Jd), [MAO'H](https://open.spotify.com/artist/1gKiHfn6NEmALbkuzQ7O10) | [ASBONGE](https://open.spotify.com/album/43rilzzWFXOZkBCpNV5Dbv) | 3:38 | 2023-09-22 | 2023-11-22 |
 | [Askies Ta](https://open.spotify.com/track/482GKebxCgfhCaISuCidRV) | [Tae Africa](https://open.spotify.com/artist/4rT8HuOGuYHDbMH9IsWMAo), [DJ Switch](https://open.spotify.com/artist/6RBUG4w3ErLFxSxOmu7jnb), [Gaffi](https://open.spotify.com/artist/6aPLtY1GA6d7GKOL266BR2) | [4 THE MO$H](https://open.spotify.com/album/17TGlMTOKVFSxo6HGHQRlD) | 3:23 | 2023-09-08 | 2024-01-20 |
@@ -402,7 +403,7 @@
 | [Homeground](https://open.spotify.com/track/7iAAVGVJ59SR7t2nL2VdY3) | [SKHANDAWORLD](https://open.spotify.com/artist/0iiSx3ZdR8ts3ePVzNbbwH), [K.O](https://open.spotify.com/artist/1d6JzYUN2E6MIt9HmepdPk), [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz), [Ma E](https://open.spotify.com/artist/6OwN3S1Mx86QkRQIaTBiZm), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [Welcome To The Planet](https://open.spotify.com/album/32LR9thKImAlV8bpla3CDy) | 4:24 | 2022-12-12 | 2023-05-05 |
 | [HONNE](https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3) | [AlwaysTheSuspect](https://open.spotify.com/artist/5yBaFbo6T3i5rmEFdfBy4i), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [HONNE](https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX) | 2:58 | 2024-02-12 | 2024-07-27 |
 | [Honne \- Remix](https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [Honne \(Remix\)](https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA) | 2:56 | 2024-09-09 | 2025-03-29 |
-| [Hosh Pakamisa](https://open.spotify.com/track/5zgeFWjhJYldLf3FMACFEc) | [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Dedrick West Bonolo](https://open.spotify.com/artist/1mSbq1MxKee5gZdom8BH7U), [SiyaCeeBeats](https://open.spotify.com/artist/575AQek8G74rY22ifc3eTt) | [Hosh Pakamisa](https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3) | 2:56 | 2025-06-27 |  |
+| [Hosh Pakamisa](https://open.spotify.com/track/5zgeFWjhJYldLf3FMACFEc) | [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Dedrick West Bonolo](https://open.spotify.com/artist/1mSbq1MxKee5gZdom8BH7U), [SiyaCeeBeats](https://open.spotify.com/artist/575AQek8G74rY22ifc3eTt) | [Hosh Pakamisa](https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3) | 2:56 | 2025-06-27 | 2025-11-07 |
 | [Hot Property](https://open.spotify.com/track/0QV4hHHHYfhmhpf6estDFk) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [Hot Property](https://open.spotify.com/album/5wfAoW7qoAQ6A62GjEC0vz) | 3:42 | 2023-06-23 | 2023-10-21 |
 | [HOT PURSUIT](https://open.spotify.com/track/5ZWq5CluqGCUa9gIH6vL1p) | [TVZ](https://open.spotify.com/artist/5z06CUX4OaOxeMrIFTh4t7) | [HOT PURSUIT](https://open.spotify.com/album/2cEvPoT3SHHPKcEhyDSIDA) | 3:01 | 2023-11-21 | 2024-04-05 |
 | [Hot Topic](https://open.spotify.com/track/6FFEGZyt6gt2RLhoWoWMFk) | [VenomRaps](https://open.spotify.com/artist/3SAqo6Io8ovagEFHDcsxMC), [Reaperr](https://open.spotify.com/artist/2LO9g8NifdHOknL8swSPZe) | [Hot Topic](https://open.spotify.com/album/6POmmF1exbnagvHEd2RaY5) | 3:05 | 2022-09-15 | 2022-12-13 |

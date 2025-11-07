@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 61993,
+  "num_followers": 62002,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABJ0IBQN+N8aO1C3r8W9TAv",
+  "snapshot_id": "aQqTgAAAAACDF6gttibq+hIp9emk8c0g",
   "tracks": [
     {
       "added_at": null,
@@ -523,18 +523,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
+      "duration_ms": 76293,
+      "name": "Cordeiro de Nan\u00e3",
+      "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
     },
     {
       "added_at": null,
@@ -563,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/7B3DBrDOxHU0qBhbTjvYvK"
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 76293,
-      "name": "Cordeiro de Nan\u00e3",
-      "url": "https://open.spotify.com/track/0nABAnYXsLibLk3NOIAAlu"
+      "duration_ms": 259200,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 97359,
       "name": "Samba de uma Nota S\u00f3 - Ultimate Mix",
       "url": "https://open.spotify.com/track/7joZ2HZJxMLeT5Gpz3YYsR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 387133,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 387133,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coisa Mais Linda",
         "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
       },
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 526200,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
+      "duration_ms": 234933,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 234933,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
+      "duration_ms": 526200,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 137186,
-      "name": "H\u00f3-B\u00e1-L\u00e1-L\u00e1",
-      "url": "https://open.spotify.com/track/5tz84YvDa00QbsNb1COTuk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jo\u00e3o Voz E Viol\u00e3o",
         "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chega de Saudade (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 137186,
+      "name": "H\u00f3-B\u00e1-L\u00e1-L\u00e1",
+      "url": "https://open.spotify.com/track/5tz84YvDa00QbsNb1COTuk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 107560,
-      "name": "Saudade F\u00eaz Um Samba",
-      "url": "https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne"
+      "duration_ms": 119200,
+      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
+      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+        "name": "Chega de Saudade (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 119200,
-      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
-      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
+      "duration_ms": 107560,
+      "name": "Saudade F\u00eaz Um Samba",
+      "url": "https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne"
     },
     {
       "added_at": null,

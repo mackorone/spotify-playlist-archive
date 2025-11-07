@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "peach is an indie pop playlist \ud83e\udd64 cover: Audrey Hobert",
+  "description": "peach is an indie pop playlist \ud83e\udd64\ncover: Holly Humberstone",
   "name": "peach",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 138000,
       "name": "Adventures In Monotony",
       "url": "https://open.spotify.com/track/7batUU1Nc3QS2Bjafam0Xy"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 209530,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3gsfYvtbR1R2ojiUzkYowD"
@@ -380,6 +380,24 @@
       "duration_ms": 168002,
       "name": "Allegedly",
       "url": "https://open.spotify.com/track/7FuKEJqJTH3G86vZyqcwM4"
+    },
+    {
+      "album": {
+        "name": "Alright, Alright",
+        "url": "https://open.spotify.com/album/5LD82ktd0nOVBwwCbFOSJo"
+      },
+      "artists": [
+        {
+          "name": "Harry Strange",
+          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235693,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/3coi1T3U5MsiisKkQX9Oza"
     },
     {
       "album": {
@@ -1507,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Wish It Was You",
+        "url": "https://open.spotify.com/album/46rRgNfPAPJcqCFNbNH1eo"
+      },
+      "artists": [
+        {
+          "name": "Bea Stewart",
+          "url": "https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197211,
+      "name": "Chill Girl",
+      "url": "https://open.spotify.com/track/4rWfVqBQTKvvnL4TMdKob5"
+    },
+    {
+      "album": {
         "name": "Cigarettes & Wine (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
       },
@@ -2037,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Die Happy",
+        "url": "https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229650,
+      "name": "Die Happy",
+      "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
+    },
+    {
+      "album": {
         "name": "Different Directions",
         "url": "https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc"
       },
@@ -2102,7 +2156,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 216559,
       "name": "Dog Body",
       "url": "https://open.spotify.com/track/6vZyqd1E6RoroKvBEnJhTu"
@@ -2228,7 +2282,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 136731,
       "name": "Drugs Don't Work",
       "url": "https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc"
@@ -2463,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Fault Line",
+        "url": "https://open.spotify.com/album/4oaZCFbDFPktNYKJrTlXf3"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191595,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo"
+    },
+    {
+      "album": {
         "name": "Feel Anything",
         "url": "https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a"
       },
@@ -2478,6 +2550,24 @@
       "duration_ms": 162768,
       "name": "Feel Anything",
       "url": "https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ"
+    },
+    {
+      "album": {
+        "name": "Quantum",
+        "url": "https://open.spotify.com/album/3wwYOqMfZVejIHfh1aGDQi"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/4fHWSFWaxdWn75gEYFq4DN"
     },
     {
       "album": {
@@ -2654,7 +2744,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170740,
       "name": "Friend Of Mine",
       "url": "https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD"
@@ -3111,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "HABITS",
+        "url": "https://open.spotify.com/album/5PyPmUhNgevIIzKTv2uTmD"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193539,
+      "name": "HABITS",
+      "url": "https://open.spotify.com/track/5bU8vnw8Yv4v7IJXz0BhVD"
+    },
+    {
+      "album": {
         "name": "Hanging by a Thread",
         "url": "https://open.spotify.com/album/0M5JMvMRDll4Xm9mjMmnJM"
       },
@@ -3234,6 +3342,24 @@
       "duration_ms": 176340,
       "name": "Heart Attack Police",
       "url": "https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o"
+    },
+    {
+      "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/3A1NxlNj94ve9GwUdp9bXs"
+      },
+      "artists": [
+        {
+          "name": "Michael Aldag",
+          "url": "https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213401,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/4urDfXfIUt3X4INidnIA4R"
     },
     {
       "album": {
@@ -3378,7 +3504,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 243176,
       "name": "how did they know",
       "url": "https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1"
@@ -3472,6 +3598,24 @@
       "duration_ms": 210616,
       "name": "I Don't Like Being Alone",
       "url": "https://open.spotify.com/track/5PADgTbJR6XlCHg4IzG3i0"
+    },
+    {
+      "album": {
+        "name": "i don't wanna die today",
+        "url": "https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175929,
+      "name": "i don't wanna die today",
+      "url": "https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4"
     },
     {
       "album": {
@@ -4069,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "La Loba",
+        "url": "https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212125,
+      "name": "La Loba",
+      "url": "https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3"
+    },
+    {
+      "album": {
         "name": "Learn To Let You Go",
         "url": "https://open.spotify.com/album/7nPnLv5ZkPXgQsCQdRk8Uz"
       },
@@ -4282,7 +4444,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 202764,
       "name": "LOCK",
       "url": "https://open.spotify.com/track/2KdFMIMbLkQ0DbSZ3kR73H"
@@ -4898,7 +5060,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 223914,
       "name": "Nauseous",
       "url": "https://open.spotify.com/track/3KknxobyltvsTh70pfVKUP"
@@ -5388,7 +5550,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 283137,
       "name": "Portion Control",
       "url": "https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa"
@@ -5428,6 +5590,24 @@
       "duration_ms": 221470,
       "name": "pretty world",
       "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
     },
     {
       "album": {
@@ -5662,7 +5842,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 240320,
       "name": "Rewind My Mind",
       "url": "https://open.spotify.com/track/2QZ1QG2X8n0ssLnVF0AEKS"
@@ -5698,7 +5878,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 166036,
       "name": "rodeo",
       "url": "https://open.spotify.com/track/34nIcQQXvkjjfTM7GEshdr"
@@ -6296,7 +6476,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 149253,
       "name": "Something Familiar",
       "url": "https://open.spotify.com/track/0t9WYg9bmmUm16ALecso5d"
@@ -6448,6 +6628,24 @@
       "duration_ms": 186579,
       "name": "Still Miss It",
       "url": "https://open.spotify.com/track/0To7UL26sSXpE7IeggODNM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152750,
+      "name": "Stranger to love",
+      "url": "https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy"
     },
     {
       "album": {
@@ -6916,6 +7114,24 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM"
     },
     {
       "album": {

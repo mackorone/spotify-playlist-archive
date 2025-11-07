@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > 【全セットリスト公開】8月16日\(土\)\~17日\(日\)、SUMMER SONIC 2025 @幕張メッセにて<a href="https://spotify\-earlynoise.jp/">Spotify Stage</a>開催！セットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,330 likes - 127 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,329 likes - 127 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 | 63 | [Defunk](https://open.spotify.com/track/78t6rxBhtvByO89ai1yvqs) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Defunk](https://open.spotify.com/album/60qNvrDTkiueMaT0F9Q46U) | 4:03 |
 | 64 | [Once Upon a Night](https://open.spotify.com/track/5tu4MtskI177URpGVNJQ7P) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:43 |
 | 65 | [CALL, CALL](https://open.spotify.com/track/4pXiT1DrnAz48GdmtitnWv) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:22 |
-| 66 | [Funky Lovely Girl](https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z) | 3:45 |
+| 66 | [Funky Lovely Girl](https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z) | 3:44 |
 | 67 | [Magnet](https://open.spotify.com/track/7z2eIJkQ1OLkTf1Ga303VK) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Frontier](https://open.spotify.com/album/6q1nEC2UBlCSkaUXCblGyN) | 4:07 |
 | 68 | [今夜は君と](https://open.spotify.com/track/1dZP7N6oTS0QA0hwkXrztF) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI – 18才](https://open.spotify.com/album/6pncDp93IgKRf1DHFAbm6G) | 3:52 |
 | 69 | [Bunny Girl](https://open.spotify.com/track/3CeUMk1K4RPOpyzxn7JKZV) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:37 |

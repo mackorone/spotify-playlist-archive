@@ -2,7 +2,7 @@
 
 ### [zen garden](https://open.spotify.com/playlist/37i9dQZF1DX4Oe8zprVH3z)
 
-> Breathe deep, close your eyes, immerse yourself..\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
+> Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
 251 songs - 12 hr 17 min
 

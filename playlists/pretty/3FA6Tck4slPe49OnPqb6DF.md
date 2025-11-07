@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain]
 
 > A selection of Anjunadeep's most iconic releases\. Find out more: <a href="https://anjunadeep.com/">Website</a> \| <a href="https://www.facebook.com/anjunadeep">Facebook</a> \| <a href="https://www.instagram.com/anjunadeep/?hl=en">Instagram</a> \| <a href="http://anjunastore.com/">Merch</a>
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 14,974 likes - 30 songs - 2 hr 49 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 14,974 likes - 30 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain]
 | 10 | [I Can Make It](https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:09 |
 | 11 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 |
 | 12 | [Tuesday Maybe](https://open.spotify.com/track/6gWwDlXoYPFqrIdEjivBh5) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z) | [Tuesday Maybe](https://open.spotify.com/album/1jCD24WnDO6bPODoaQSCRx) | 8:11 |
-| 13 | [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 |
+| 13 | [Loving You](https://open.spotify.com/track/5R5yQQsttz7SBi55UpM28X) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Lulu James](https://open.spotify.com/artist/7x86PNyfIjdo5UwXmXcU2h) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 4:01 |
 | 14 | [Shadows Movement \- Original Mix](https://open.spotify.com/track/2o8LquXob4vqSAQ8rOptR5) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Shadows Movement / Fox And A Shooting Star](https://open.spotify.com/album/3TwYqZ57JFxUmRXYTSzlrp) | 7:59 |
 | 15 | [9 Days](https://open.spotify.com/track/32fdWZrgtAX2VRqCGkIuaF) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:57 |
 | 16 | [Murder Weapon](https://open.spotify.com/track/1qvQlpk9BbGFxrxFxjSpdn) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Murder Weapon EP](https://open.spotify.com/album/2OzLK0SKtELdXAXWVjLXkm) | 10:01 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain]
 | 29 | [Keep The Faith](https://open.spotify.com/track/5d6C3XycqRLFAGLtyO3Rfx) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [First Landing](https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51) | 4:18 |
 | 30 | [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 |
 
-Snapshot ID: `AAABcsc8aYUTpf95vh62JPCgvEiZqaB0`
+Snapshot ID: `AAABdIfRck1up4iv/y39uPevSFs/qGtM`

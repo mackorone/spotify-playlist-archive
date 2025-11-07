@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 213841,
+  "num_followers": 213848,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Soul Organic (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 188573,
       "name": "Until You Come Back To Me - Acoustic Version",
       "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 254613,
+      "name": "Rainy Night in Georgia",
+      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Brother, Brother, Brother",
-        "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Work to Do",
-      "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Black Diamond (Deluxe Edition)",
         "url": "https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 200174,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Brother, Brother, Brother",
+        "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Work to Do",
+      "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "The Best Of Fourplay",
-        "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Nathan East",
-          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
-      "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "The Best Of Fourplay",
+        "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
+      "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Smooth Soul",
-        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 204055,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 205868,
       "name": "Changes",
       "url": "https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Smooth Soul",
+        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 204055,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u"
     },
     {
       "added_at": "2025-06-06 13:10:13",

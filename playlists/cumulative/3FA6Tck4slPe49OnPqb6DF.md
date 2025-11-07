@@ -4,7 +4,7 @@
 
 > A selection of Anjunadeep's most iconic releases\. Find out more: <a href="https://anjunadeep.com/">Website</a> \| <a href="https://www.facebook.com/anjunadeep">Facebook</a> \| <a href="https://www.instagram.com/anjunadeep/?hl=en">Instagram</a> \| <a href="http://anjunastore.com/">Merch</a>
 
-30 songs - 2 hr 49 min
+31 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,14 @@
 | [Come Together](https://open.spotify.com/track/7n8sDrEcuMt0yezLDhIbnN) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Come Together / Naturish](https://open.spotify.com/album/51bI3TSSCHo87eNRjPeHMj) | 3:42 | 2025-08-11 |  |
 | [Dapple](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Dapple](https://open.spotify.com/album/1P2cw0QNAaWCdPF7H5fxvJ) | 3:28 | 2025-08-11 |  |
 | [Deep In My Soul \- Original Mix](https://open.spotify.com/track/5nmr0qCA3JXN2MRdEDUFi6) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Deep In My Soul EP](https://open.spotify.com/album/5i7B8WeK7fyaIs09D9JGwT) | 8:03 | 2025-08-11 |  |
-| [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 | 2025-08-11 |  |
+| [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 | 2025-08-11 | 2025-11-07 |
 | [Flight](https://open.spotify.com/track/5V61H1tbmh09aXcXqOml1O) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Flight](https://open.spotify.com/album/0DaD68WLGWcd9HGiiAjFSU) | 5:24 | 2025-08-11 |  |
 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2025-08-11 |  |
 | [Got This Feeling \- Original Mix](https://open.spotify.com/track/3Of0ZixrQPzq22I4ogG4TB) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Got This Feeling EP](https://open.spotify.com/album/44O9qirmVyZDrNH9ZDHffH) | 7:27 | 2025-08-11 |  |
 | [I Can Make It](https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:09 | 2025-08-11 |  |
 | [Keep The Faith](https://open.spotify.com/track/5d6C3XycqRLFAGLtyO3Rfx) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [First Landing](https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51) | 4:18 | 2025-08-11 |  |
 | [Lie Alone \- 16BL Remix](https://open.spotify.com/track/5Fnk2uXVwy9UC6PgLUqSRD) | [L\. Doblado](https://open.spotify.com/artist/27901JqjfLO2QYhFQ1Oavo), [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Lie Alone \(16BL Remix\)](https://open.spotify.com/album/0UQ17CZ8TnAxeUN8EnbE2S) | 6:30 | 2025-08-11 |  |
+| [Loving You](https://open.spotify.com/track/5R5yQQsttz7SBi55UpM28X) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Lulu James](https://open.spotify.com/artist/7x86PNyfIjdo5UwXmXcU2h) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 4:01 | 2025-11-06 |  |
 | [Murder Weapon](https://open.spotify.com/track/1qvQlpk9BbGFxrxFxjSpdn) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Murder Weapon EP](https://open.spotify.com/album/2OzLK0SKtELdXAXWVjLXkm) | 10:01 | 2025-08-11 |  |
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2025-08-11 |  |
 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 | 2025-08-11 |  |

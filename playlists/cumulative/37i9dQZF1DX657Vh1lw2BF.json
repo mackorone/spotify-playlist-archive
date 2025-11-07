@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 189522,
       "name": "Enta Al Houb",
       "url": "https://open.spotify.com/track/1wEBbzQry9zlhJeuXaBapa"
@@ -1799,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "Qalb Alwaraq Nersam",
+        "url": "https://open.spotify.com/album/7xmWTBfYQ9LKFEvx40bhyd"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Abdul Jabbar",
+          "url": "https://open.spotify.com/artist/3KbHfGyoCoOALz8Ms340Xp"
+        },
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Qalb Alwaraq Nersam",
+      "url": "https://open.spotify.com/track/2LMNbL6QJCCrvRHH75Firl"
+    },
+    {
+      "album": {
         "name": "Qalbi",
         "url": "https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L"
       },
@@ -2060,7 +2082,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 162939,
       "name": "Shkolateh",
       "url": "https://open.spotify.com/track/7JUEv4UV5hai4XcMLukdQ3"

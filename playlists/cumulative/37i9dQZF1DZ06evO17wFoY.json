@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33453,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
+      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
+    },
+    {
+      "album": {
         "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
         "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
       },
@@ -1366,7 +1388,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190626,
       "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
       "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"

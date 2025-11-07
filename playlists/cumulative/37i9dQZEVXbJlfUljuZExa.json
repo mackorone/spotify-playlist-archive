@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 208786,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
@@ -3580,7 +3580,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 277432,
       "name": "Bukan Ku Tak Sudi",
       "url": "https://open.spotify.com/track/5TQ67TxfxEiAl58Vmtx5ew"
@@ -4938,7 +4938,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
@@ -11355,6 +11355,24 @@
     },
     {
       "album": {
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/1FkKLER6tPVDdYUSZOWeyN"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245232,
+      "name": "Jodoh Pasti Bertemu",
+      "url": "https://open.spotify.com/track/4csPgl0UlCya7pFqxEwoes"
+    },
+    {
+      "album": {
         "name": "Satu Hari Di Hari Raya",
         "url": "https://open.spotify.com/album/72KRrZJF2AxljhkcLhy0Ab"
       },
@@ -11692,7 +11710,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
@@ -12454,7 +12472,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 225153,
       "name": "Lesung Pipi",
       "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
@@ -15176,7 +15194,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -17258,7 +17276,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 287071,
       "name": "Rahsia Tuhan",
       "url": "https://open.spotify.com/track/0FYnBVsruGEFIBRI3a4Vmz"
@@ -18980,7 +18998,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 235890,
       "name": "Seni Berdamai Dengan Takdir",
       "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"

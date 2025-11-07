@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 36925,
+  "num_followers": 36928,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "El Jard\u00edn",
-        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
-      },
-      "artists": [
-        {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "El Jard\u00edn",
-      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Lo-fi Ma\u00f1ana en CDMX",
         "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 169491,
       "name": "Lo-fi Ma\u00f1ana en CDMX",
       "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "El Jard\u00edn",
+        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "El Jard\u00edn",
+      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -387,18 +387,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Lo-Fi el Panadero Con el Pan",
-        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Lo-Fi el Panadero Con el Pan",
-      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -423,18 +423,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+        "name": "Lo-Fi el Panadero Con el Pan",
+        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+      "duration_ms": 224000,
+      "name": "Lo-Fi el Panadero Con el Pan",
+      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -491,6 +491,26 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Amorcito coraz\u00f3n lofi",
+        "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 109322,
+      "name": "Amorcito coraz\u00f3n lofi",
+      "url": "https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Goldilocks Planet",
         "url": "https://open.spotify.com/album/21m4Tkz73fhKxIH0Uxw78V"
       },
@@ -515,22 +535,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Amorcito coraz\u00f3n lofi",
-        "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
+        "name": "Un Final",
+        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
       },
       "artists": [
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 109322,
-      "name": "Amorcito coraz\u00f3n lofi",
-      "url": "https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3"
+      "duration_ms": 235863,
+      "name": "Un Final",
+      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -547,22 +563,6 @@
       "duration_ms": 87529,
       "name": "la espera",
       "url": "https://open.spotify.com/track/2FXnJjGKL6G6StzO0vST1l"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Un Final",
-        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 235863,
-      "name": "Un Final",
-      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Nostalgia en Ruta",
-        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 115052,
-      "name": "Nostalgia en Ruta",
-      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Nos Usamos",
         "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 269800,
       "name": "Nos Usamos",
       "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Nostalgia en Ruta",
+        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 115052,
+      "name": "Nostalgia en Ruta",
+      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -815,22 +815,6 @@
       "duration_ms": 144000,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Nadie sabe nada de nadie",
-        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Nadie sabe nada de nadie",
-      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -875,6 +859,22 @@
       "duration_ms": 93000,
       "name": "Ukelele At Night",
       "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Nadie sabe nada de nadie",
+        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Nadie sabe nada de nadie",
+      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "todas las ma\u00f1anas",
-        "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
-      },
-      "artists": [
-        {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        }
-      ],
-      "duration_ms": 147621,
-      "name": "todas las ma\u00f1anas",
-      "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Sugar Leafs",
         "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
       },
@@ -1055,22 +1039,34 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Lost Memories",
-        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
+        "name": "todas las ma\u00f1anas",
+        "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
       },
       "artists": [
         {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
         }
       ],
-      "duration_ms": 146845,
-      "name": "Lost Memories",
-      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
+      "duration_ms": 147621,
+      "name": "todas las ma\u00f1anas",
+      "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
+        "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
+      },
+      "artists": [
+        {
+          "name": "JOSUE A.S",
+          "url": "https://open.spotify.com/artist/1NlIim5DiRnxn77GosYlN1"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
+      "url": "https://open.spotify.com/track/1uSjwldHYBafRBZr6OAnIs"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1095,38 +1091,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
-        "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
+        "name": "Lost Memories",
+        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
       },
       "artists": [
         {
-          "name": "JOSUE A.S",
-          "url": "https://open.spotify.com/artist/1NlIim5DiRnxn77GosYlN1"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
-      "url": "https://open.spotify.com/track/1uSjwldHYBafRBZr6OAnIs"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "no tiene sentido (lofi)",
-        "url": "https://open.spotify.com/album/6mIl3LQM7JjX4w6uqBvnrQ"
-      },
-      "artists": [
-        {
-          "name": "LatinoFi",
-          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
         },
         {
-          "name": "The Remix Station",
-          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 133933,
-      "name": "no tiene sentido - lofi",
-      "url": "https://open.spotify.com/track/3AEi47jy9VlMllKVPXoofD"
+      "duration_ms": 146845,
+      "name": "Lost Memories",
+      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1143,6 +1123,26 @@
       "duration_ms": 121258,
       "name": "Flores",
       "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "cholula, puebla",
+        "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
+      },
+      "artists": [
+        {
+          "name": "tres islas",
+          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+        },
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 124044,
+      "name": "cholula, puebla",
+      "url": "https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1171,42 +1171,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "cholula, puebla",
-        "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
+        "name": "no tiene sentido (lofi)",
+        "url": "https://open.spotify.com/album/6mIl3LQM7JjX4w6uqBvnrQ"
       },
       "artists": [
         {
-          "name": "tres islas",
-          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+          "name": "LatinoFi",
+          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
         },
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         }
       ],
-      "duration_ms": 124044,
-      "name": "cholula, puebla",
-      "url": "https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Lofi En La Mamalona",
-        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Lofi En La Mamalona",
-      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+      "duration_ms": 133933,
+      "name": "no tiene sentido - lofi",
+      "url": "https://open.spotify.com/track/3AEi47jy9VlMllKVPXoofD"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1231,6 +1211,26 @@
       "duration_ms": 150500,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Lofi En La Mamalona",
+        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Lofi En La Mamalona",
+      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "ajijic, jalisco",
+        "url": "https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV"
+      },
+      "artists": [
+        {
+          "name": "tres islas",
+          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+        },
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Sunsplash",
+          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
+        }
+      ],
+      "duration_ms": 202590,
+      "name": "ajijic, jalisco",
+      "url": "https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "La Casa Azul",
         "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
       },
@@ -1307,30 +1331,6 @@
       "duration_ms": 142222,
       "name": "In the crown of the trees, I find you",
       "url": "https://open.spotify.com/track/1E3ZcM10ZAUWtlibEHUd0P"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "ajijic, jalisco",
-        "url": "https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV"
-      },
-      "artists": [
-        {
-          "name": "tres islas",
-          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
-        },
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Sunsplash",
-          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
-        }
-      ],
-      "duration_ms": 202590,
-      "name": "ajijic, jalisco",
-      "url": "https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "offline",
+        "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
+      },
+      "artists": [
+        {
+          "name": "Pika Man",
+          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
+        },
+        {
+          "name": "Universatility Group",
+          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
+        }
+      ],
+      "duration_ms": 118440,
+      "name": "diamond dreams",
+      "url": "https://open.spotify.com/track/69GW33RVlbt7H9Ce7A2Cs1"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
       },
@@ -1399,22 +1419,6 @@
       "duration_ms": 120750,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Sayulita Vibes",
-        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Sayulita Vibes",
-      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1435,6 +1439,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Sayulita Vibes",
+        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Sayulita Vibes",
+      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "wandering through soft colors",
         "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 196721,
       "name": "wandering through soft colors",
       "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "offline",
-        "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
-      },
-      "artists": [
-        {
-          "name": "Pika Man",
-          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
-        },
-        {
-          "name": "Universatility Group",
-          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
-        }
-      ],
-      "duration_ms": 118440,
-      "name": "diamond dreams",
-      "url": "https://open.spotify.com/track/69GW33RVlbt7H9Ce7A2Cs1"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
-      },
-      "artists": [
-        {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
-        }
-      ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Midnight Celadon",
         "url": "https://open.spotify.com/album/2MjAbv2xEUKyaySEy6jaua"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 112527,
       "name": "Midnight Celadon",
       "url": "https://open.spotify.com/track/7xDl7RH0Gk6JkHx4Zi3xSX"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+      },
+      "artists": [
+        {
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+        }
+      ],
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
     },
     {
       "added_at": "2025-10-17 06:00:24",

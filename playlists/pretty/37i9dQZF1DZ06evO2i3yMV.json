@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAoX9DpkvOf00/nm3DMV7gX",
+  "snapshot_id": "aQqTgAAAAACkHx4h0ki9fYfZh1MXijEd",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 260617,
+      "name": "Steal My Attention",
+      "url": "https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 260617,
-      "name": "Steal My Attention",
-      "url": "https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
       "artists": [
         {
@@ -516,13 +516,17 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "KRANE",
+          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Go With It (feat. MNDR)",
-      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
+      "duration_ms": 183333,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
     },
     {
       "added_at": null,
@@ -547,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOVERE",
-        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
       },
       "artists": [
         {
@@ -556,17 +560,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "KRANE",
-          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Put It Down",
-      "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 195607,
+      "name": "Fallen Arches",
+      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 184857,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/4wAQAt1l5Wb4E85TOHf7VE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 195607,
-      "name": "Fallen Arches",
-      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
     },
     {
       "added_at": null,
@@ -807,6 +807,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 204077,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -835,34 +863,6 @@
       "duration_ms": 230261,
       "name": "Bright Shadows",
       "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO WAY",
-        "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 204077,
-      "name": "NO WAY",
-      "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
     },
     {
       "added_at": null,

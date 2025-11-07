@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 50949,
+  "num_followers": 50960,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Las Antenas",
+        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "Es el Amor",
+      "url": "https://open.spotify.com/track/08MlcdHmD6lU6JcoSpob77"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Soundamerica",
         "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 315933,
       "name": "An\u00f3nimos (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Las Antenas",
-        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "Es el Amor",
-      "url": "https://open.spotify.com/track/08MlcdHmD6lU6JcoSpob77"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Agua Ardiente",
-        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 273971,
-      "name": "Perdida En El Fuego",
-      "url": "https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Ringo",
         "url": "https://open.spotify.com/album/2oA488dFvimoJ6PHIw2ytg"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 167984,
       "name": "Tanto amor",
       "url": "https://open.spotify.com/track/2Q0Aem12iTNPibzcokgiUz"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Agua Ardiente",
+        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 273971,
+      "name": "Perdida En El Fuego",
+      "url": "https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Gratitud",
-        "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 272187,
-      "name": "La Crecida",
-      "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/7sNuGriubnM5iunQGKt24O"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm"
+        "name": "Gratitud",
+        "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 194692,
-      "name": "Bohemio",
-      "url": "https://open.spotify.com/track/1EOm4quqIz2IhJNFsUP6Yj"
+      "duration_ms": 272187,
+      "name": "La Crecida",
+      "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1111,6 +1095,22 @@
       "duration_ms": 218800,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 194692,
+      "name": "Bohemio",
+      "url": "https://open.spotify.com/track/1EOm4quqIz2IhJNFsUP6Yj"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Hasta el Final",
-        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 306419,
-      "name": "Canci\u00f3n para un Amigo",
-      "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Las Lunas",
         "url": "https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 223692,
       "name": "R\u00edos de Lava",
       "url": "https://open.spotify.com/track/1LclQTL1W61TRCesAJzRJB"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 306419,
+      "name": "Canci\u00f3n para un Amigo",
+      "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
     },
     {
       "added_at": "2024-06-12 22:23:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,837 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,089,890 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 57 | [Seasons](https://open.spotify.com/track/1NE4ga03C5fRXGPcDIo9pA) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Against The Grain](https://open.spotify.com/album/3T2Hq3PpqBroi2CcnmcUUH) | 3:47 |
 | 58 | [Sham Pain](https://open.spotify.com/track/03HyPRDdAwvkovBE6XubBC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Sham Pain](https://open.spotify.com/album/44udkZDmo8afuEnu0nTgUY) | 3:29 |
 | 59 | [Sound of Madness](https://open.spotify.com/track/1TRr8Pp2uOqL24fMHpJyV3) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/661dSFpYtPulSNDZZLkokq) | 3:53 |
-| 60 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
-| 61 | [She's A Blast](https://open.spotify.com/track/428x14AvuMoTmmO6pBeozu) | [Beautiful Bodies](https://open.spotify.com/artist/1L5Wcid8qi4K85Ynq7mLaZ) | [Battles](https://open.spotify.com/album/7mYRLbEp6R5P5iYadPENUy) | 2:47 |
+| 60 | [She's A Blast](https://open.spotify.com/track/428x14AvuMoTmmO6pBeozu) | [Beautiful Bodies](https://open.spotify.com/artist/1L5Wcid8qi4K85Ynq7mLaZ) | [Battles](https://open.spotify.com/album/7mYRLbEp6R5P5iYadPENUy) | 2:47 |
+| 61 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
 | 62 | [Hollywood](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) | [After Midnight Project](https://open.spotify.com/artist/1CCtRpOlg6EL0HP9DdEtk4) | [Let's Build Something To Break](https://open.spotify.com/album/1VbvHqARu0WjoXRiF2yak7) | 3:02 |
 | 63 | [Untouched](https://open.spotify.com/track/5HZOQLjnUJkqcOdLZomiIo) | [The Local Band](https://open.spotify.com/artist/48Na4uSLjGeKvx2AUSDmKZ) | [Locals Only \- Dark Edition](https://open.spotify.com/album/2IdQFKiNoDMDlcU9NUmJYu) | 4:11 |
 | 64 | [Killing Time](https://open.spotify.com/track/0GMymbP7AQkxEt5nq20BfZ) | [Doom Unit](https://open.spotify.com/artist/4qb82fknNpR3TQGbpmhMxC) | [Cross The Line](https://open.spotify.com/album/1s8DrerI7Ios2Wre9V4z0V) | 3:57 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 70 | [War Is Killing Us All](https://open.spotify.com/track/65b1ds24VRmAsCAWef8RgQ) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [War Is Killing Us All](https://open.spotify.com/album/2p19Bf53q3lieWDazEtHU7) | 3:38 |
 | 71 | [Fake](https://open.spotify.com/track/36Aa21IPeeNE3IU1zLQo5g) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Fake](https://open.spotify.com/album/0gdStv72Ej1fxyiv4SlFHd) | 3:30 |
 | 72 | [Witch Hunt](https://open.spotify.com/track/6ye8AdkpHcYQLlHUXZkrUn) | [Nicumo](https://open.spotify.com/artist/7z2nNVchTS9FTHP9qnJqDt) | [Witch Hunt](https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl) | 4:43 |
-| 73 | [Low Life](https://open.spotify.com/track/4yKnTwWOmQjMTF6U9sgWtY) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Low Life](https://open.spotify.com/album/3SVsxqKsdad0fd8rBbdqCN) | 4:20 |
-| 74 | [Seize the Day](https://open.spotify.com/track/1gqPcliPEmNXSOi7Vvr95e) | [The Mendenhall Experiment](https://open.spotify.com/artist/1i5khuFFnwuwwDwWbwbyLL) | [Seize the Day \- Single](https://open.spotify.com/album/35t5Xqrz49iF8M7fieKVRs) | 3:50 |
+| 73 | [Seize the Day](https://open.spotify.com/track/1gqPcliPEmNXSOi7Vvr95e) | [The Mendenhall Experiment](https://open.spotify.com/artist/1i5khuFFnwuwwDwWbwbyLL) | [Seize the Day \- Single](https://open.spotify.com/album/35t5Xqrz49iF8M7fieKVRs) | 3:50 |
+| 74 | [Low Life](https://open.spotify.com/track/4yKnTwWOmQjMTF6U9sgWtY) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Low Life](https://open.spotify.com/album/3SVsxqKsdad0fd8rBbdqCN) | 4:20 |
 | 75 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
 
 Snapshot ID: `AAAAAKwZjRHd2snUnxhZJ1SW5Gfpqy+P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 
 > Warm, inspirational pop, that's good at heart\.  Cover: Alex Warren at the VMAs
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,749 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,783 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 | 3 | [Heaven \(Butterflies\)](https://open.spotify.com/track/2O9bYhoUhCOVvwRoaFSFje) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [The Light For Days](https://open.spotify.com/album/6QFCcGo5qotgcHmizXKTta) | 4:57 |
 | 4 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
 | 5 | [The Constant](https://open.spotify.com/track/4mnY82D35NMdghqRWePVQD) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Constant](https://open.spotify.com/album/1iWWEgMx2RgALeJTBAWqRd) | 4:06 |
-| 6 | [Change](https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc) | 1:56 |
+| 6 | [Change](https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK) | [MEGA](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc) | 1:56 |
 | 7 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 |
 | 8 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 |
 | 9 | [By My Side](https://open.spotify.com/track/5FtOZv6MB6IWL2DneVYvoe) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [By My Side](https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4) | 2:46 |

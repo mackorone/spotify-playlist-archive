@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Nobody Else (2.0)",
+        "url": "https://open.spotify.com/album/0St10cKnpnzWxutKJ5FQTW"
+      },
+      "artists": [
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Nobody Else - 2.0",
+      "url": "https://open.spotify.com/track/0wT75Em0j2PkWp7Ii6yIew"
+    },
+    {
+      "album": {
         "name": "Betaalbare Romantiek",
         "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
       },
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175115,
       "name": "Waarom Kan Het Leven Zo Gemeen Zijn",
       "url": "https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP"

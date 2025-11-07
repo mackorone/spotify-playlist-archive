@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 133953,
       "name": "Binaural 1HZ Delta - 87HZ - 88HZ",
       "url": "https://open.spotify.com/track/0dkDiq6NzOTStndyEBdi6W"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175105,
       "name": "Binaural Delta 110-112 Hz",
       "url": "https://open.spotify.com/track/3kZpjmsjqQW56uOxxHBMII"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 144149,
       "name": "Binaural Delta Sinus 100 Hz - 104 Hz",
       "url": "https://open.spotify.com/track/1LSQ8a2oFahaR1pxzXdUMc"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 209000,
       "name": "Binaural Delta Sinus 100 Hz - L 104 Hz - R",
       "url": "https://open.spotify.com/track/1pnQJQaFaeJbSpq42ofWmV"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 153000,
       "name": "Binaural Delta Waves 58-58.5 Hz",
       "url": "https://open.spotify.com/track/1SFqeroxwFNEiQFkR4tgOz"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156800,
       "name": "Binaural Delta Waves 88-92 Hz",
       "url": "https://open.spotify.com/track/6buMaUMbymQIZDhVGdvXKQ"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 153149,
       "name": "Binaural Delta Waves 91-94 Hz",
       "url": "https://open.spotify.com/track/0qmN9TZu8cIJOEcLeBDzkT"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 203394,
       "name": "Binaural Drone 100 Hz - 101 Hz",
       "url": "https://open.spotify.com/track/3NCBrdKXGqiiLYccNcESVN"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 209604,
       "name": "Binaural Drone 90 Hz - 91 Hz",
       "url": "https://open.spotify.com/track/53OvBqtojrI9EUmuskfKlJ"
@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Connection 71.9Hz-73.9Hz",
+        "url": "https://open.spotify.com/album/7Fugd0zLwCdkf4xyCZ30mW"
+      },
+      "artists": [
+        {
+          "name": "Vibrant Silence",
+          "url": "https://open.spotify.com/artist/5L6CZQOzQs0mrwdut9mnZX"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146990,
+      "name": "Cosmic Connection 71.9Hz-73.9Hz",
+      "url": "https://open.spotify.com/track/7oKVelk9QiX0ISKUMsq47r"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x"
       },
@@ -628,10 +646,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 157660,
       "name": "Deep Delta Sleep 96.8 Hz-98.4 Hz",
       "url": "https://open.spotify.com/track/6LS66LUZJybYyZ4OTLvYhd"
+    },
+    {
+      "album": {
+        "name": "Deep Reset Delta 115hz - 118hz",
+        "url": "https://open.spotify.com/album/4jRypZ6WgnWTPwpv2IgjnT"
+      },
+      "artists": [
+        {
+          "name": "Medtones",
+          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Deep Reset Delta 115hz - 118hz",
+      "url": "https://open.spotify.com/track/5tkgLBaLtazHrFYi8ncKZ2"
     },
     {
       "album": {
@@ -646,7 +682,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 225994,
       "name": "Deep Sleep 3 Hz Drone",
       "url": "https://open.spotify.com/track/279WfshbvRdtkSeHG69GMm"
@@ -700,7 +736,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 186315,
       "name": "Deep Sleep Delta Binaural 78.4Hz - 80Hz",
       "url": "https://open.spotify.com/track/2LBY7o7yGN6twBv6LsiQx4"
@@ -772,7 +808,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 179673,
       "name": "Deep Sleep Delta Waves 82 Hz - 84 Hz",
       "url": "https://open.spotify.com/track/6L3R4jp8mpFt3Cs8ufY06v"
@@ -844,7 +880,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 240000,
       "name": "Delta 73.9 Hz - 76 Hz",
       "url": "https://open.spotify.com/track/72u4bNSbSYVmnxSD64U4ML"
@@ -898,7 +934,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 184616,
       "name": "Delta Air 2 Hz",
       "url": "https://open.spotify.com/track/1zK3i6SOS8jVVkSPbX1ZYI"
@@ -916,7 +952,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 177200,
       "name": "Delta Beam 4 Hz",
       "url": "https://open.spotify.com/track/4jGr4pLLUns9rQ6aOlyIbY"
@@ -1031,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Delta Depth 105-109 Hz",
+        "url": "https://open.spotify.com/album/4L75BrUtzcotUZvLtPCye4"
+      },
+      "artists": [
+        {
+          "name": "celstia",
+          "url": "https://open.spotify.com/artist/1Ty8SzcuNwJd6INcdeZj0R"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Delta Depth 105-109 Hz",
+      "url": "https://open.spotify.com/track/2DyYdkvFoPmghistz5n6nx"
+    },
+    {
+      "album": {
         "name": "Gradual States",
         "url": "https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n"
       },
@@ -1114,7 +1168,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 159321,
       "name": "Delta Equinox 3 Hz",
       "url": "https://open.spotify.com/track/1kFCJ9w9EWje4YHKGfSu62"
@@ -1154,6 +1208,24 @@
       "duration_ms": 135320,
       "name": "Delta Flow 93Hz - 96Hz",
       "url": "https://open.spotify.com/track/2nehZ56ki7zOcpZ0MkTCZT"
+    },
+    {
+      "album": {
+        "name": "Delta Halo 65,4 Hz - 66,1 Hz",
+        "url": "https://open.spotify.com/album/20RouKZhgDuAd66mw4e7uC"
+      },
+      "artists": [
+        {
+          "name": "Brainwave Harmony",
+          "url": "https://open.spotify.com/artist/3VYg1JJn6gmvv9a667atxE"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Delta Halo 65,4 Hz - 66,1 Hz",
+      "url": "https://open.spotify.com/track/1g8MoKrAQT0CTVuf6HOy5H"
     },
     {
       "album": {
@@ -1438,7 +1510,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 211259,
       "name": "Delta Sinus 125 Hz - L 126 Hz - R - Drone",
       "url": "https://open.spotify.com/track/59ttRCDKCMD8Aq0xrFHnrP"
@@ -1474,7 +1546,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 193190,
       "name": "Delta Sinus 160 Hz - 161 Hz",
       "url": "https://open.spotify.com/track/3K3ZYGgNJyytba4YdhCIZF"
@@ -1492,7 +1564,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 210155,
       "name": "Delta Sinus 160 Hz - L 161 Hz - R - Drone",
       "url": "https://open.spotify.com/track/7jQiYVASBtUmgD7zN2wQhk"
@@ -1564,7 +1636,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 142625,
       "name": "Delta Sleep (Binaural 277hz/280hz)",
       "url": "https://open.spotify.com/track/2BS1ddzTY1BI0DqiGkXgt6"
@@ -1582,7 +1654,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 202000,
       "name": "Delta Sleep 1.2Hz Binaural 79.5Hz - 80.7Hz",
       "url": "https://open.spotify.com/track/0upYBpSKHQWFVNNLZRWaL7"
@@ -1600,7 +1672,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 184881,
       "name": "Delta Sleep 72.4 Hz-75.2 Hz",
       "url": "https://open.spotify.com/track/4cCM99ARZWKUJBAXY5mAxA"
@@ -1618,7 +1690,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 192000,
       "name": "Delta Sleep Binaural 80Hz - 81.2Hz",
       "url": "https://open.spotify.com/track/5ztYXHxfznJEOJM2UMFGOf"
@@ -1654,7 +1726,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 195000,
       "name": "Delta Sleep Binaural 84Hz - 85.4Hz",
       "url": "https://open.spotify.com/track/5LytHS5LTpaVfyzvJ1Nc5E"
@@ -1994,7 +2066,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 181000,
       "name": "Diving (Delta 130 Hz - 134 Hz)",
       "url": "https://open.spotify.com/track/0kKvSsrcHaAv92QvNZFgrj"
@@ -2030,7 +2102,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 213333,
       "name": "Dormire Delta Sinus 129-133 Hz",
       "url": "https://open.spotify.com/track/6kK5AFqknHFsF3HeSDW7rB"
@@ -2228,7 +2300,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165868,
       "name": "Essence Delta 72.420 Hz - 74.420 Hz",
       "url": "https://open.spotify.com/track/4QyqorDjn3vYEdb1vw6eg4"
@@ -2300,7 +2372,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 168571,
       "name": "Forever Care Delta 59-63hz",
       "url": "https://open.spotify.com/track/4DNSv2RHAHDHcOchbU2qRW"
@@ -2415,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Inochi - 174 Hz",
+        "url": "https://open.spotify.com/album/5odmfwxNnmRUXfwAiWMaij"
+      },
+      "artists": [
+        {
+          "name": "Slow Eye Movement",
+          "url": "https://open.spotify.com/artist/2rPSJJgb2iDgkFUGY4NHoZ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Inochi - 174 Hz",
+      "url": "https://open.spotify.com/track/5XSnuyu3IabCMKkUWse0bL"
+    },
+    {
+      "album": {
         "name": "Knoxville Rain",
         "url": "https://open.spotify.com/album/5XR87XXlBHgnLB6SJRVljT"
       },
@@ -2426,7 +2516,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156000,
       "name": "Knoxville Rain E Delta Sinus 80-84hz",
       "url": "https://open.spotify.com/track/5bknO2Ufk8FPQxNymqeprO"
@@ -2487,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Lunar Light (Delta 90.3 - 93.6 Hz)",
+        "url": "https://open.spotify.com/album/5ZcqWhb29xTW3dr07FKgqp"
+      },
+      "artists": [
+        {
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Lunar Light (Delta 90.3 - 93.6 Hz)",
+      "url": "https://open.spotify.com/track/5t3ld3RJSNiRqpPy0LETb1"
+    },
+    {
+      "album": {
         "name": "Magica (Binaural Beat Versions)",
         "url": "https://open.spotify.com/album/67tFryPsJTFWT7YuOLlSNk"
       },
@@ -2523,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Meadow Delta 87,3 Hz - 88,4 Hz",
+        "url": "https://open.spotify.com/album/5ZAitpMh7XL2xe2fvci3vR"
+      },
+      "artists": [
+        {
+          "name": "Dreamlike States",
+          "url": "https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171708,
+      "name": "Meadow Delta 87,3 Hz - 88,4 Hz",
+      "url": "https://open.spotify.com/track/4ciBhtZFXOE6U9WpuxtEg6"
+    },
+    {
+      "album": {
         "name": "Memory Grace Delta",
         "url": "https://open.spotify.com/album/5qbz5H4OVqibz80Ym2va8F"
       },
@@ -2552,7 +2678,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 172857,
       "name": "Miramare Delta Sinus 81-83 Hz",
       "url": "https://open.spotify.com/track/1hOi2RvvEOiCWTassf1Kuv"
@@ -2660,7 +2786,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 187040,
       "name": "Oracle Delta 65.11 Hz - 65.71 Hz",
       "url": "https://open.spotify.com/track/6S5q0RkWxfDU9uDENe4At3"
@@ -2721,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Portal of Senses (Delta 110-112 Hz)",
+        "url": "https://open.spotify.com/album/55LjFrov8mg6IH1eBUqrx9"
+      },
+      "artists": [
+        {
+          "name": "Oxling",
+          "url": "https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Portal of Senses (Delta 110-112 Hz)",
+      "url": "https://open.spotify.com/track/77fkW2lXlwdXxAtyJNyTY0"
+    },
+    {
+      "album": {
         "name": "Thoughtless Eclipse Delta",
         "url": "https://open.spotify.com/album/2aJ1p45LeJCgeIpupmSmKU"
       },
@@ -2732,7 +2876,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156000,
       "name": "Propelling Mind Bb Delta (115-119hz)",
       "url": "https://open.spotify.com/track/0bluMRTV3xteLdSSkzlAwO"
@@ -2901,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Silent Depths Delta 62hz-63.8hz",
+        "url": "https://open.spotify.com/album/25eyEx63p4KMlOSdxHqfPx"
+      },
+      "artists": [
+        {
+          "name": "Solfjord",
+          "url": "https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Silent Depths Delta 62hz-63.8hz",
+      "url": "https://open.spotify.com/track/6f1KAag3jLg95tW9oCvegE"
+    },
+    {
+      "album": {
         "name": "sinewave party",
         "url": "https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3"
       },
@@ -2930,7 +3092,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 192000,
       "name": "Sleep Architect (Delta Waves)",
       "url": "https://open.spotify.com/track/4OmIx94FGulyQCG4p8DD0U"
@@ -2966,7 +3128,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 208000,
       "name": "Slo Delta 54.9 Hz-55.1 Hz",
       "url": "https://open.spotify.com/track/0Y6ubSpr5MO8aaJl7ObDKA"
@@ -3038,7 +3200,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 153600,
       "name": "Soothe Away Delta 70-74hz",
       "url": "https://open.spotify.com/track/2Sh6YjOXu5yQuLEFFIZ6ff"
@@ -3218,7 +3380,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 159000,
       "name": "Thought Breeze F Delta 85-89hz",
       "url": "https://open.spotify.com/track/6E6cCyEy51ATANpMP6J4oi"
@@ -3236,7 +3398,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 152000,
       "name": "Thoughtless A Delta 109-112hz",
       "url": "https://open.spotify.com/track/5NUnNDy5LlGtlZXbO1ignG"
@@ -3272,7 +3434,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 211200,
       "name": "Treetop Sway (Delta Binaural)",
       "url": "https://open.spotify.com/track/0YaHVqzBDVho8dAiEikwng"
@@ -3344,7 +3506,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156000,
       "name": "Wandering Mind Delta D Sinus 71-75hz",
       "url": "https://open.spotify.com/track/3qT0OfT3N48RVPhosh9XO4"
@@ -3369,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Waves of Delta 41-46 Hz",
+        "url": "https://open.spotify.com/album/51Jahki4NrqdHm1cUpmqJm"
+      },
+      "artists": [
+        {
+          "name": "Epsila",
+          "url": "https://open.spotify.com/artist/45tlNPfLzdPgJOxx1dt5ZU"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153092,
+      "name": "Waves of Delta 41-46 Hz",
+      "url": "https://open.spotify.com/track/0UkevpBL4i0idA4UyD3FhD"
+    },
+    {
+      "album": {
         "name": "Always Searching Delta",
         "url": "https://open.spotify.com/album/6437SQVha7Pub6E9ZhmwQ5"
       },
@@ -3380,7 +3560,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156000,
       "name": "Waves Of Sine - Always Searching Delta (42-46hz)",
       "url": "https://open.spotify.com/track/58YM29JFSRAMHqDmml9GPf"

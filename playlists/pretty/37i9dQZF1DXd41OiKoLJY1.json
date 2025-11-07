@@ -1,13 +1,225 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover:  REVISORS Artwork: Isu Kim\n",
-  "num_followers": 69144,
+  "description": "Fresh releases from your future favorite artists. Cover:  Rangel Artwork: Isu Kim\n",
+  "num_followers": 69184,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0GOe7YclyCGvRqZRJK5ufmBYVJ",
+  "snapshot_id": "AAAAAP6dU2juuM9dUsb+zeQ+mkTuzIUo",
   "tracks": [
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Clue",
+        "url": "https://open.spotify.com/album/4lMySm4UlZmdnawXJCC2AO"
+      },
+      "artists": [
+        {
+          "name": "Rangel",
+          "url": "https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi"
+        }
+      ],
+      "duration_ms": 147648,
+      "name": "Clue",
+      "url": "https://open.spotify.com/track/0R0xWFl985bNVIaiClLdL1"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Bye 3x",
+        "url": "https://open.spotify.com/album/17UjsMHzFxuETWRC7mkpon"
+      },
+      "artists": [
+        {
+          "name": "Mika Yusay",
+          "url": "https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bye 3x",
+      "url": "https://open.spotify.com/track/7q2fWxTVz2g6ZERBlfs5ow"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "tagu-taguan",
+        "url": "https://open.spotify.com/album/5KTMxMNgHiWd0ewTvqbQ6x"
+      },
+      "artists": [
+        {
+          "name": "koreen",
+          "url": "https://open.spotify.com/artist/7MNdmQhP0mLlgttXasvEH6"
+        },
+        {
+          "name": "geo",
+          "url": "https://open.spotify.com/artist/10TUKjKSF9Rb4xwr4BlNBd"
+        }
+      ],
+      "duration_ms": 220654,
+      "name": "tagu-taguan",
+      "url": "https://open.spotify.com/track/78UWl5vV3wZfqf51wthR4N"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Tangan",
+        "url": "https://open.spotify.com/album/5FEnTHv5FHkWQRqY5mqBKB"
+      },
+      "artists": [
+        {
+          "name": "Owl's Night",
+          "url": "https://open.spotify.com/artist/0axJHks9xhjDP3augTUAiq"
+        }
+      ],
+      "duration_ms": 282697,
+      "name": "Tangan",
+      "url": "https://open.spotify.com/track/2pMx2ZfvGd9HcLmfsGc2vu"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/5ekODvPhOyblbTAdvWVNG3"
+      },
+      "artists": [
+        {
+          "name": "Dame Desu",
+          "url": "https://open.spotify.com/artist/13ml6qhemtKEQRK7nNPvIB"
+        }
+      ],
+      "duration_ms": 147778,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/5qjA6UYavPTly62WWTDJcO"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Talulot",
+        "url": "https://open.spotify.com/album/3BpYVwzpUcc0AbF01GVSVv"
+      },
+      "artists": [
+        {
+          "name": "Julia Daniel",
+          "url": "https://open.spotify.com/artist/2hfnHpR7irs4c3gJxdRT0F"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Talulot",
+      "url": "https://open.spotify.com/track/1ZsLM9dWw9EsBRTpkTa9Op"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Para Saan?",
+        "url": "https://open.spotify.com/album/6OC3Zlh5uANGB8mYOfwYuc"
+      },
+      "artists": [
+        {
+          "name": "Paul Arcega",
+          "url": "https://open.spotify.com/artist/7egkoyQeJv0rQkkCVl35ME"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Para Saan?",
+      "url": "https://open.spotify.com/track/5t6KOJg2ljtLsvAjcZ1lQc"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "See No Evil",
+        "url": "https://open.spotify.com/album/5FGxj0OI9k2CvcMkaxGkgb"
+      },
+      "artists": [
+        {
+          "name": "Dispatcher",
+          "url": "https://open.spotify.com/artist/2dvpIzflxrYv35grTMTAYd"
+        }
+      ],
+      "duration_ms": 176378,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/0E4i9qwuPJgJFfspUI2s1L"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Paglipas Ng Ulan",
+        "url": "https://open.spotify.com/album/5BOxB15VqOeX39O1G4slEQ"
+      },
+      "artists": [
+        {
+          "name": "SY\u2022NC",
+          "url": "https://open.spotify.com/artist/7sr10u47SZqLx2SQMWEQyO"
+        }
+      ],
+      "duration_ms": 172124,
+      "name": "Paglipas Ng Ulan",
+      "url": "https://open.spotify.com/track/0Hdvb7w0SGTeEQe3cB8RJK"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Langit",
+        "url": "https://open.spotify.com/album/43AWyJJAjC3kOtkqrzmClF"
+      },
+      "artists": [
+        {
+          "name": "Gem Largo",
+          "url": "https://open.spotify.com/artist/5yCfOWjEqPcrXCP2LyVkLr"
+        }
+      ],
+      "duration_ms": 237428,
+      "name": "Langit",
+      "url": "https://open.spotify.com/track/2nFDFei15hjw0usWgwmP7w"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Pagbigyan Mo Na",
+        "url": "https://open.spotify.com/album/6vtUoIlgnblPdQ7P4dRQV9"
+      },
+      "artists": [
+        {
+          "name": "Yah Bles",
+          "url": "https://open.spotify.com/artist/7kXsmeNSk75MExFxahN31b"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "Pagbigyan Mo Na",
+      "url": "https://open.spotify.com/track/279LxyvjI2Nz5880McBNjf"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Maling Pag-ibig",
+        "url": "https://open.spotify.com/album/7lsem2YCzyLXdZfgJLCoKs"
+      },
+      "artists": [
+        {
+          "name": "Joshyyd",
+          "url": "https://open.spotify.com/artist/6oU3T0uXJT1FJn8jj4Zl2l"
+        }
+      ],
+      "duration_ms": 258136,
+      "name": "Maling Pag-ibig",
+      "url": "https://open.spotify.com/track/4J6cKhohUp2dFusyQvh9Z6"
+    },
+    {
+      "added_at": "2025-11-06 16:00:10",
+      "album": {
+        "name": "Panginginig",
+        "url": "https://open.spotify.com/album/3tYQdvlvoDpH23vUgBAi0I"
+      },
+      "artists": [
+        {
+          "name": "Comic's Trip",
+          "url": "https://open.spotify.com/artist/310zOlUDYa8Q9kLGhB0PSN"
+        }
+      ],
+      "duration_ms": 315750,
+      "name": "Won't You Be My Love - Extended Version",
+      "url": "https://open.spotify.com/track/3GqMHr9D2S8xBVw3JrzDG6"
+    },
     {
       "added_at": "2025-10-31 15:24:46",
       "album": {
@@ -3903,246 +4115,6 @@
       "duration_ms": 157327,
       "name": "Poorman",
       "url": "https://open.spotify.com/track/4aOHNr8mvTbsfvZJAGT6Vi"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "IT IS WHAT IT IS",
-        "url": "https://open.spotify.com/album/1CQErQJfkx5QEvLXn3GCL6"
-      },
-      "artists": [
-        {
-          "name": "Luwi",
-          "url": "https://open.spotify.com/artist/0xbHD9GWJjzAlVPPfzItTD"
-        }
-      ],
-      "duration_ms": 166475,
-      "name": "IT IS WHAT IT IS",
-      "url": "https://open.spotify.com/track/7j9q3NRrgD5g64CVoPSFPX"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "GET CROWNED",
-        "url": "https://open.spotify.com/album/3d5NMwAWTAirHhGBKrpGDf"
-      },
-      "artists": [
-        {
-          "name": "Slader",
-          "url": "https://open.spotify.com/artist/0rvUGkKiWLmwZ2lXJqbc0S"
-        }
-      ],
-      "duration_ms": 194792,
-      "name": "GET CROWNED",
-      "url": "https://open.spotify.com/track/6YIUuDN0kqHL7HoDwr9i7q"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Tao Lang",
-        "url": "https://open.spotify.com/album/2npsBfLIc5ko5Mhq7NSVG3"
-      },
-      "artists": [
-        {
-          "name": "YUN",
-          "url": "https://open.spotify.com/artist/1KHYsn8dT0PXqVWz1d3Sgh"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Tao Lang",
-      "url": "https://open.spotify.com/track/10tu9rv5qvw4uYe5gh1XLe"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Basta Maangas",
-        "url": "https://open.spotify.com/album/7MhD7r1nskvLnpBrzrHulb"
-      },
-      "artists": [
-        {
-          "name": "Tsyarl!n",
-          "url": "https://open.spotify.com/artist/1jLDjaW3ifC7wj3km0r2Ge"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "Basta Maangas",
-      "url": "https://open.spotify.com/track/1lYmVWcR3xgX6IjJVHbOy9"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Oops! (Mahal Kita)",
-        "url": "https://open.spotify.com/album/10MekggrNcKqzj4miY17TU"
-      },
-      "artists": [
-        {
-          "name": "Liana Castillo",
-          "url": "https://open.spotify.com/artist/2vldL7nHXui3bWjnL9xhOS"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Oops! (Mahal Kita)",
-      "url": "https://open.spotify.com/track/2zXrlTBEJ8YIuUtGPXctc8"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Blazin",
-        "url": "https://open.spotify.com/album/4OO0li4XzWjR7txuvGHX1G"
-      },
-      "artists": [
-        {
-          "name": "BLAZiNBONE",
-          "url": "https://open.spotify.com/artist/3M2qdM68zYqRYtUbJXQl2r"
-        }
-      ],
-      "duration_ms": 116250,
-      "name": "Blazin",
-      "url": "https://open.spotify.com/track/7mNAOdaQCzJnvvv5w3oHNa"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Close To Me",
-        "url": "https://open.spotify.com/album/3kJQswV2ot6BbzkRdlACkF"
-      },
-      "artists": [
-        {
-          "name": "Trailing Noises",
-          "url": "https://open.spotify.com/artist/7aAg3T1mLKyUOAGNG6TKov"
-        }
-      ],
-      "duration_ms": 190607,
-      "name": "Close To Me",
-      "url": "https://open.spotify.com/track/0EXegpRAi0NxuXVYYEM2P2"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Gets?",
-        "url": "https://open.spotify.com/album/5Rx2SSb0AoD4UbGWEwdFVT"
-      },
-      "artists": [
-        {
-          "name": "Jabe",
-          "url": "https://open.spotify.com/artist/2LFI0AL75hQzxB1uI2cNyH"
-        }
-      ],
-      "duration_ms": 222535,
-      "name": "Gets?",
-      "url": "https://open.spotify.com/track/3yJ1ObH78P9SOdGUyeYDLU"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Walang Perpekto",
-        "url": "https://open.spotify.com/album/0dycLLvbM7ETfj45lb2dcp"
-      },
-      "artists": [
-        {
-          "name": "MARY CHEN",
-          "url": "https://open.spotify.com/artist/08BrTT9UoIbzvAAzaV7y1a"
-        }
-      ],
-      "duration_ms": 258722,
-      "name": "Walang Perpekto",
-      "url": "https://open.spotify.com/track/3xjrddelWnaSflPNS6Cy9X"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "NO TO CHA-CHA, YES TO DISCO",
-        "url": "https://open.spotify.com/album/2AuVMsDhGmAOSraDwOsBxe"
-      },
-      "artists": [
-        {
-          "name": "Diamond Orido",
-          "url": "https://open.spotify.com/artist/3ymucsugCibeQmnSLXuKyH"
-        }
-      ],
-      "duration_ms": 283807,
-      "name": "NO TO CHA-CHA, YES TO DISCO",
-      "url": "https://open.spotify.com/track/3FV1Lx208Pn9XK6LVB1mRT"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Laro",
-        "url": "https://open.spotify.com/album/1J0eE7x0nWSUGWsOsf7vCo"
-      },
-      "artists": [
-        {
-          "name": "Mcjeam Ariexs",
-          "url": "https://open.spotify.com/artist/5MEV8S8Wdd7wcXi4YCYDrp"
-        }
-      ],
-      "duration_ms": 217424,
-      "name": "Laro",
-      "url": "https://open.spotify.com/track/3noRJ4TvrRbJamQRc6NEKe"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Don't Kick It",
-        "url": "https://open.spotify.com/album/09e3xTJgvTiejlYW3MaPJx"
-      },
-      "artists": [
-        {
-          "name": "SAINT LAWRENCE",
-          "url": "https://open.spotify.com/artist/2kZPZW1WH2lptqO1fgJjoT"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Don't Kick It",
-      "url": "https://open.spotify.com/track/00zpN8bKVfw3zIGfnbdGK4"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "wtg?",
-        "url": "https://open.spotify.com/album/70Ou4FnjQFOOTe7IQrJWL4"
-      },
-      "artists": [
-        {
-          "name": "Kxci",
-          "url": "https://open.spotify.com/artist/3bEAVngJCDx2lmxmcIT9BO"
-        }
-      ],
-      "duration_ms": 217570,
-      "name": "wtg?",
-      "url": "https://open.spotify.com/track/2A6bE3fUAoNqKRkW1rI7k9"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Slow Dance",
-        "url": "https://open.spotify.com/album/4F4EsLMjTZQxXUyhTdX1To"
-      },
-      "artists": [
-        {
-          "name": "Kz",
-          "url": "https://open.spotify.com/artist/3RMfJ6sqAHzUkY0tjX6DU5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Slow Dance",
-      "url": "https://open.spotify.com/track/6oQCWRaXJYlxuVOf4gwyAo"
-    },
-    {
-      "added_at": "2025-10-31 15:24:46",
-      "album": {
-        "name": "Zapote-Kabila",
-        "url": "https://open.spotify.com/album/7Gw8PYfeD1XKJ0Vn3fdWrx"
-      },
-      "artists": [
-        {
-          "name": "Starlight Replica",
-          "url": "https://open.spotify.com/artist/2AbaEhL8UZoeSn4KbsXkjB"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Abante",
-      "url": "https://open.spotify.com/track/7zAy59eZm4DrlOpzaq407g"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

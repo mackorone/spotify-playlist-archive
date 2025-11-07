@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
+    },
+    {
+      "album": {
         "name": "First Class to Nowhere",
         "url": "https://open.spotify.com/album/5KORmq9soICEzIjR7IME7c"
       },

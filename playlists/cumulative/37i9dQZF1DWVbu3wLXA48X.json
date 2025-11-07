@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Cigarettes After Sex ",
+  "description": "Current indie tunes from Asia and around the world. Cover: IV OF SPADES",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 257400,
       "name": "3am",
       "url": "https://open.spotify.com/track/6oNC0dZwthd4Gbof71UYMJ"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 171030,
       "name": "555",
       "url": "https://open.spotify.com/track/67vZPOQsyVNxFHPylJcIiG"
@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 203456,
       "name": "bleach",
       "url": "https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89"
@@ -9351,6 +9351,24 @@
     },
     {
       "album": {
+        "name": "Exie",
+        "url": "https://open.spotify.com/album/41OLJQ8a4amHFjWWY5nu6N"
+      },
+      "artists": [
+        {
+          "name": "Last Dinosaurs",
+          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "Dead Or Alive",
+      "url": "https://open.spotify.com/track/0VCqYGVfdv2VJsQkHDojd4"
+    },
+    {
+      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/1IUdm89WoY8CZsUKHLKPNb"
       },
@@ -9878,6 +9896,24 @@
       "duration_ms": 164680,
       "name": "Didn\u2019t Care",
       "url": "https://open.spotify.com/track/4sc3GpJtxOB17Ng9PcdNVq"
+    },
+    {
+      "album": {
+        "name": "Die Happy",
+        "url": "https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229650,
+      "name": "Die Happy",
+      "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
     },
     {
       "album": {
@@ -15991,6 +16027,24 @@
     },
     {
       "album": {
+        "name": "grasp",
+        "url": "https://open.spotify.com/album/4me0UD3odsWvE5LscHTBOa"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271493,
+      "name": "grasp",
+      "url": "https://open.spotify.com/track/4fQRbT42z2y47bHLWsQQPi"
+    },
+    {
+      "album": {
         "name": "Grass (demo)",
         "url": "https://open.spotify.com/album/2QxJlJOzJdab2Ifjp5NFxD"
       },
@@ -17536,7 +17590,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 180856,
       "name": "Higher",
       "url": "https://open.spotify.com/track/13BoUgeUpseJ35EuwuaGwL"
@@ -17644,7 +17698,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190463,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
@@ -19772,7 +19826,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 214390,
       "name": "Ignorance is Bliss",
       "url": "https://open.spotify.com/track/7mhAJ0N6VuAxgzksFWa0Om"
@@ -20366,6 +20420,24 @@
       "duration_ms": 194091,
       "name": "internet friends",
       "url": "https://open.spotify.com/track/7eGJxi6rL5Z0p7yQKJD8ID"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt"
     },
     {
       "album": {
@@ -21669,6 +21741,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338169,
+      "name": "Knik",
+      "url": "https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax"
+    },
+    {
+      "album": {
         "name": "HOSONO HOUSE COVERS",
         "url": "https://open.spotify.com/album/53yoYgjDvXcd4kJoqyVDEz"
       },
@@ -21742,6 +21832,24 @@
       "duration_ms": 317666,
       "name": "Koya",
       "url": "https://open.spotify.com/track/6GMUwFCOUn5DxXPpxpE9LG"
+    },
+    {
+      "album": {
+        "name": "La Loba",
+        "url": "https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212125,
+      "name": "La Loba",
+      "url": "https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3"
     },
     {
       "album": {
@@ -22916,7 +23024,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 216384,
       "name": "Lord, I Gotta Move On",
       "url": "https://open.spotify.com/track/35Ky17HnxZjFZHUMfLpfI3"
@@ -23584,6 +23692,24 @@
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
+    },
+    {
+      "album": {
+        "name": "Love Who You Love",
+        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "Love Who You Love",
+      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
     },
     {
       "album": {
@@ -25468,6 +25594,24 @@
       "duration_ms": 315249,
       "name": "Monaka",
       "url": "https://open.spotify.com/track/3LVVcEQADkkZOZcaPTFXfD"
+    },
+    {
+      "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180803,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp"
     },
     {
       "album": {
@@ -28868,7 +29012,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 272743,
       "name": "One in a million",
       "url": "https://open.spotify.com/track/1XoVx5zm2SYLzILgHReqD1"
@@ -30558,7 +30702,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 238729,
       "name": "Play It Out (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua"
@@ -32204,6 +32348,24 @@
       "duration_ms": 458000,
       "name": "Return of Youth",
       "url": "https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw"
+    },
+    {
+      "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222869,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t"
     },
     {
       "album": {
@@ -38396,7 +38558,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 199181,
       "name": "Tanana",
       "url": "https://open.spotify.com/track/0lYkjoTbmh9sVPv9yvGae3"
@@ -41142,7 +41304,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 251204,
       "name": "Togetherness Is All I'm After",
       "url": "https://open.spotify.com/track/77YLvKyl2Ta0acpdvbAAbP"
@@ -42363,6 +42525,24 @@
     },
     {
       "album": {
+        "name": "Upside Down (Candy Crush)",
+        "url": "https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209866,
+      "name": "Upside Down (Candy Crush)",
+      "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"
+    },
+    {
+      "album": {
         "name": "Ur Mum",
         "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
       },
@@ -42544,7 +42724,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 132693,
       "name": "Venus In Nadir",
       "url": "https://open.spotify.com/track/3B2U43pmvd3X8GXH3fnQFH"
@@ -44275,6 +44455,24 @@
     },
     {
       "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
+    },
+    {
+      "album": {
         "name": "White Pills - Single",
         "url": "https://open.spotify.com/album/25nhf0pEOOkEiLTslF0IHu"
       },
@@ -44348,6 +44546,24 @@
       "duration_ms": 401871,
       "name": "Who's In My House?",
       "url": "https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0"
+    },
+    {
+      "album": {
+        "name": "Whose House",
+        "url": "https://open.spotify.com/album/47MUUmjwC8QMB0vBY8nv1j"
+      },
+      "artists": [
+        {
+          "name": "Robot Swing",
+          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258275,
+      "name": "Whose House",
+      "url": "https://open.spotify.com/track/70WEikzq1VTkxHlgv8gghV"
     },
     {
       "album": {

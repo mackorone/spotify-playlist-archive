@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Showdemcamp
 
-664 songs - 1 day 7 hr 13 min
+665 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2023-05-12 | 2024-07-19 |
 | [prayers](https://open.spotify.com/track/24nu4KX3BBhBV8vAXtIUnT) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Arif Erdem Ocak](https://open.spotify.com/artist/74rfDl79T309YeNaQNrrb4), [Kállay Saunders](https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj) | [prayers](https://open.spotify.com/album/3h22MOBNM1xtCMIjt5y6Lw) | 2:49 | 2022-09-30 | 2022-10-07 |
 | [Pressure](https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Pressure](https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2) | 2:24 | 2024-01-26 | 2024-02-26 |
+| [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 | 2025-11-07 |  |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 | 2023-11-09 |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 | 2024-07-19 |
 | [Proud Of Life](https://open.spotify.com/track/2VduAuuyGrDrCBN2Pwj7yg) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [GE3 \(The Beginning\)](https://open.spotify.com/album/6eR5eDrWGOUMtPgKzpReFt) | 3:48 | 2025-06-27 | 2025-08-06 |
@@ -599,7 +600,7 @@
 | [The UCHE’s Story \- Ep1](https://open.spotify.com/track/3R5oOpk6Jnjl23sum2l7rL) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [The UCHE’s Story](https://open.spotify.com/album/545ba0hFSxR2ccjKYz3IJf) | 2:15 | 2025-10-10 | 2025-10-17 |
 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 | 2025-03-28 |  |
 | [This is Nigeria](https://open.spotify.com/track/1HmPO8ao2uu6opMJDW24DA) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [This Is Nigeria](https://open.spotify.com/album/6ewbR4ceFzG5PFAK1ckPSu) | 3:28 | 2024-09-13 | 2024-09-20 |
-| [This Moment](https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [This Moment](https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4) | 2:43 | 2025-09-05 |  |
+| [This Moment](https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [This Moment](https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4) | 2:43 | 2025-09-05 | 2025-11-07 |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-09-27 | 2025-06-14 |
 | [To the Max](https://open.spotify.com/track/36Sml2B1lkLGDbiU5tZ63o) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odunsi The Engine](https://open.spotify.com/artist/6JIIBiPRVuu8JUv0BWqCS1) | [To the Max](https://open.spotify.com/album/34kBsbz1eruAwZcuETkmUF) | 3:24 | 2022-10-14 | 2022-10-29 |
 | [Toe Touch](https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Outside II](https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1) | 2:57 | 2022-10-07 | 2022-11-29 |

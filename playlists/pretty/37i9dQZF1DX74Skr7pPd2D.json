@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 47783,
+  "num_followers": 47789,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "First Wish",
+      "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
         "name": "Ben Webster Meets Oscar Peterson",
         "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 402533,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "First Wish",
-      "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -807,22 +807,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 330760,
-      "name": "Gettin' To It",
-      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Very Best of Chris Botti",
         "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 277466,
       "name": "Worlds Outside",
       "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 330760,
+      "name": "Gettin' To It",
+      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -903,6 +903,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Movin' Wes",
+        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Movin' Wes - Pt. 1",
+      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Sonny Side Up",
         "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 340960,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Movin' Wes",
-        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Movin' Wes - Pt. 1",
-      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 323306,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Buddy Defranco And Oscar Peterson Play George Gershwin",
         "url": "https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3"
       },
@@ -1149,20 +1133,20 @@
       "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
+      "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Lester Swings",
-        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Lester Swings",
-      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
+      "duration_ms": 323306,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1183,6 +1167,22 @@
       "duration_ms": 439866,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Lester Swings",
+        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Lester Swings",
+      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
+        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 373800,
+      "name": "Bashin'",
+      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Lester Swings",
@@ -1251,22 +1267,6 @@
       "duration_ms": 353026,
       "name": "Ad Lib Blues",
       "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
-        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 373800,
-      "name": "Bashin'",
-      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
     },
     {
       "added_at": "2019-10-02 08:54:10",

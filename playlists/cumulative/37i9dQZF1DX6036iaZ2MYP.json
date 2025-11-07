@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Mr Eazi",
+  "description": "Tracks popping off in the Afro scene. Cover: Frenna",
   "name": "Afro Station",
   "tracks": [
     {
@@ -280,6 +280,28 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "A Lot (with Victony)",
+      "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
     },
     {
       "album": {
@@ -732,6 +754,24 @@
       "duration_ms": 221746,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL"
+    },
+    {
+      "album": {
+        "name": "ALORS",
+        "url": "https://open.spotify.com/album/20DXhNDJdu97tBChwJFnIO"
+      },
+      "artists": [
+        {
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172040,
+      "name": "ALORS",
+      "url": "https://open.spotify.com/track/5RZXhFadYguFTlnmtLL9GA"
     },
     {
       "album": {
@@ -1342,7 +1382,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 151206,
       "name": "ATWA",
       "url": "https://open.spotify.com/track/4ZYAh2sCuPnBeQOwqDVZK1"
@@ -2047,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Baratin",
+        "url": "https://open.spotify.com/album/0ltbj3HWntrupqtGwObdae"
+      },
+      "artists": [
+        {
+          "name": "A\u00efsh\u00e9",
+          "url": "https://open.spotify.com/artist/0d332SkvomPxlORvEKIrBo"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171138,
+      "name": "Baratin",
+      "url": "https://open.spotify.com/track/0h6g68cbe1G5E4acldFj4l"
+    },
+    {
+      "album": {
         "name": "Baroud",
         "url": "https://open.spotify.com/album/21kX5kZ2piSFNxwlGsytyX"
       },
@@ -2246,6 +2304,28 @@
       "duration_ms": 210972,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3JB1l8OXsivYjF4fEeg49L"
+    },
+    {
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/2o0OJkBfmEt8CzHRAXfyO3"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/03pv8d28pqb7edfT6JvwzD"
     },
     {
       "album": {
@@ -4065,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "COMMAS",
+        "url": "https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172053,
+      "name": "COMMAS",
+      "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
+    },
+    {
+      "album": {
         "name": "COMME NOBODY",
         "url": "https://open.spotify.com/album/12HR0bCHKIdyChC2jzhnwe"
       },
@@ -4658,7 +4756,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 172189,
       "name": "Dan fond la",
       "url": "https://open.spotify.com/track/0FrGaiaOSPpVw3uh5RVgcm"
@@ -5868,7 +5966,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 167586,
       "name": "EARLY",
       "url": "https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X"
@@ -6748,7 +6846,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 163298,
       "name": "Fan de Toi",
       "url": "https://open.spotify.com/track/27H1sOZnjTLtBtBx6XV03f"
@@ -7038,6 +7136,28 @@
       "duration_ms": 229897,
       "name": "Fine Girl",
       "url": "https://open.spotify.com/track/4ep4DgNUhZSmMTpq0hHet4"
+    },
+    {
+      "album": {
+        "name": "Bleu",
+        "url": "https://open.spotify.com/album/7w3CB3waJSsFRIGNF7TKo4"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165599,
+      "name": "Fine Lady",
+      "url": "https://open.spotify.com/track/6xA693QFS4Zbsm7pw87JZU"
     },
     {
       "album": {
@@ -8531,6 +8651,24 @@
     },
     {
       "album": {
+        "name": "HOW ARE YOU",
+        "url": "https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "HOW ARE YOU",
+      "url": "https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu"
+    },
+    {
+      "album": {
         "name": "ROOKIES don\u2019t sound this good",
         "url": "https://open.spotify.com/album/7INJicBsDhZK1ygNCxsKiW"
       },
@@ -8666,6 +8804,24 @@
       "duration_ms": 158048,
       "name": "I WISH",
       "url": "https://open.spotify.com/track/6bKaXEeXVuoR3anv7BKc7B"
+    },
+    {
+      "album": {
+        "name": "I'm Available",
+        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196530,
+      "name": "I'm Available",
+      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
     },
     {
       "album": {
@@ -8902,7 +9058,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 184821,
       "name": "INDUSTRY MACHINE",
       "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
@@ -12040,7 +12196,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 153750,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/7EJspXo2FwdCxeFvQ1noaP"
@@ -14748,7 +14904,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 127868,
       "name": "PAWON",
       "url": "https://open.spotify.com/track/5u3NyEPys96WH7JZRqVakY"
@@ -16402,7 +16558,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 189034,
       "name": "Sella",
       "url": "https://open.spotify.com/track/7LOTcIQ7yuQHxTPEdIvP9g"
@@ -16526,7 +16682,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165296,
       "name": "Shakabulizzy",
       "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
@@ -17301,6 +17457,28 @@
     },
     {
       "album": {
+        "name": "Still Young",
+        "url": "https://open.spotify.com/album/4LXLB9AyXGDPOC17F1Iixd"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221849,
+      "name": "Still Young",
+      "url": "https://open.spotify.com/track/3ANLBmXQEOPW5WNAEDYB77"
+    },
+    {
+      "album": {
         "name": "Lost Files",
         "url": "https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z"
       },
@@ -17662,7 +17840,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 124864,
       "name": "Taliban",
       "url": "https://open.spotify.com/track/0tD7qefvHLOLc9Em9tcohZ"
@@ -19212,6 +19390,24 @@
       "duration_ms": 170721,
       "name": "Wahala (feat. Olamide)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187105,
+      "name": "Wait For Your Love",
+      "url": "https://open.spotify.com/track/6Xjzd1MocclDoo2jcKBdK9"
     },
     {
       "album": {

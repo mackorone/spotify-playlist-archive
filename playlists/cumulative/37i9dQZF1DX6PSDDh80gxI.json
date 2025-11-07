@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Regaz indie qui sono benvenut* \ud83d\udc98 Cover: Laila Al Habash",
+  "description": "Regaz indie qui sono benvenut* \ud83d\udc98 Cover: Venerus",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -390,6 +390,24 @@
       "duration_ms": 146853,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/2rUvFkePq1K0WbW9uZ64oY"
+    },
+    {
+      "album": {
+        "name": "All'Acqua Ghiacciata",
+        "url": "https://open.spotify.com/album/5e3aisU48dK0bZvjPJUFzW"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227788,
+      "name": "All'Acqua Ghiacciata",
+      "url": "https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG"
     },
     {
       "album": {
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 213060,
       "name": "Da domani cosa farai?",
       "url": "https://open.spotify.com/track/54kkMJ3j6PwYZ1B71AiAFI"
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 227221,
       "name": "Felini (feat. Marco Castello)",
       "url": "https://open.spotify.com/track/4Htqzteal7xtt5Y0XeDmRa"
@@ -2435,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Gommage",
+        "url": "https://open.spotify.com/album/6L1PBw3iHtrerlZxGp7E3G"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197629,
+      "name": "Gommage",
+      "url": "https://open.spotify.com/track/6I7xsGvMbY2B0jhqi6Fjua"
+    },
+    {
+      "album": {
         "name": "INDI",
         "url": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S"
       },
@@ -2706,7 +2742,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 209899,
       "name": "Impossibile",
       "url": "https://open.spotify.com/track/0wdacellVNck0ukTn7aUh2"
@@ -2808,7 +2844,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 182571,
       "name": "Invece di stare con te",
       "url": "https://open.spotify.com/track/0XwLpaXQW0qMTqN1N35IJn"
@@ -5424,7 +5460,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 193415,
       "name": "Quante Lacrime",
       "url": "https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg"
@@ -6665,6 +6701,28 @@
     },
     {
       "album": {
+        "name": "Speriamo",
+        "url": "https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3"
+      },
+      "artists": [
+        {
+          "name": "Venerus",
+          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
+        },
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210001,
+      "name": "Tra le tue braccia (feat. Cosmo)",
+      "url": "https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO"
+    },
+    {
+      "album": {
         "name": "Trasparente",
         "url": "https://open.spotify.com/album/1do0123ojQgh5q61ie8qoT"
       },
@@ -7012,6 +7070,28 @@
       "duration_ms": 176115,
       "name": "un cane per te",
       "url": "https://open.spotify.com/track/1VCOQIBjWRjwgeXtQDmabc"
+    },
+    {
+      "album": {
+        "name": "Speriamo",
+        "url": "https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3"
+      },
+      "artists": [
+        {
+          "name": "Venerus",
+          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163935,
+      "name": "Un giorno triste (feat. Gemitaiz)",
+      "url": "https://open.spotify.com/track/1ADf9yY4ATx5Sg64SeGMlW"
     },
     {
       "album": {

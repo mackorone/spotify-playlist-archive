@@ -1,13 +1,33 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Jinan Laetitia",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Wizzy, Fangtatis",
   "num_followers": 13562,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0OZINHpUnScyb15qEDZS2BLXbt",
+  "snapshot_id": "AAAAAP2cNWTZszM/QN93dpWFQL42Uu6I",
   "tracks": [
+    {
+      "added_at": "2025-11-06 17:30:33",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Wizzy",
+          "url": "https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls"
+        },
+        {
+          "name": "Fangtatis",
+          "url": "https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Handle It (feat. Fangtatis)",
+      "url": "https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0"
+    },
     {
       "added_at": "2025-10-23 17:00:26",
       "album": {
@@ -43,6 +63,38 @@
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
+    },
+    {
+      "added_at": "2025-11-06 17:30:33",
+      "album": {
+        "name": "A Little Bit Dramatic",
+        "url": "https://open.spotify.com/album/0CH6kIXtMB46QJ3H4akna3"
+      },
+      "artists": [
+        {
+          "name": "Amabel Odelia",
+          "url": "https://open.spotify.com/artist/4PUkvkks3jURfv02pD0FKU"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Denganmu",
+      "url": "https://open.spotify.com/track/1iLAa3zLXL64rHdqKHsWDo"
+    },
+    {
+      "added_at": "2025-11-06 17:30:33",
+      "album": {
+        "name": "Nona Manise",
+        "url": "https://open.spotify.com/album/5wYPstAbsv2TXDl3UgZe2K"
+      },
+      "artists": [
+        {
+          "name": "Pretty Rico",
+          "url": "https://open.spotify.com/artist/4x0FfUwA06azGJXX8Kc59U"
+        }
+      ],
+      "duration_ms": 167064,
+      "name": "Nona Manise",
+      "url": "https://open.spotify.com/track/1Dy5Jx3Wqr44Po44mF6ePG"
     },
     {
       "added_at": "2025-10-16 17:00:27",

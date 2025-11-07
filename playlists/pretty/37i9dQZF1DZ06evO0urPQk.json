@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27702,
+  "num_followers": 27701,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADLjLF/gdDkFWMZ4SyKvYuK",
+  "snapshot_id": "aQqTgAAAAADDI81jzwpKoReP8V8KYK9f",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "innocent starter",
         "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 281133,
       "name": "innocent starter",
       "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 305032,
-      "name": "FINAL COMMANDER -Aufwachen Form-",
-      "url": "https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ"
+      "duration_ms": 251400,
+      "name": "BRIGHT STREAM",
+      "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM \u2162",
-        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 251400,
-      "name": "BRIGHT STREAM",
-      "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
+      "duration_ms": 267813,
+      "name": "Invisible Heat",
+      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny's Prelude",
-        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 267813,
-      "name": "Invisible Heat",
-      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
+      "duration_ms": 305032,
+      "name": "FINAL COMMANDER -Aufwachen Form-",
+      "url": "https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ"
     },
     {
       "added_at": null,

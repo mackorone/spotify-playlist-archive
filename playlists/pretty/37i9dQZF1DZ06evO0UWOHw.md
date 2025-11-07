@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,647 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,665 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 33 | [My Darling](https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:13 |
 | 34 | [Chop & Slide](https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:48 |
 | 35 | [EARLY](https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 2:47 |
-| 36 | [Psycho](https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:48 |
-| 37 | [Special](https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [It's Not You, It's Summer](https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV) | 3:12 |
+| 36 | [Special](https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [It's Not You, It's Summer](https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV) | 3:12 |
+| 37 | [Psycho](https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:48 |
 | 38 | [Outlaw](https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:17 |
 | 39 | [Jailer](https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Jailer](https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin) | 3:50 |
 | 40 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [More](https://open.spotify.com/track/3KROMpk1iSj0NgebYd6E3s) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Saturn](https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy) | 2:50 |
 | 50 | [Saint Tropez](https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 3:02 |
 
-Snapshot ID: `aQlCAAAAAABW00dvFTTMmoEZmvVHta6r`
+Snapshot ID: `aQqTgAAAAAAK9jmopelNkK7/iTJyJf4i`

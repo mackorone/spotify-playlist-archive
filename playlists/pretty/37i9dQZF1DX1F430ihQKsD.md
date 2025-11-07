@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > Une sélection 100 % chill, 100 % Montréal\. Photo: San James
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,415 likes - 76 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,401 likes - 76 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 63 | [River Run \(with Lila Dupont\)](https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN), [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [River Run \(with Lila Dupont\)](https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz) | 3:25 |
 | 64 | [Actress](https://open.spotify.com/track/0jhruq62eOzLG3tH2haDVh) | [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [Desire Days](https://open.spotify.com/album/5icDh0mJkNBgAC89IlGZg2) | 4:46 |
 | 65 | [TDF](https://open.spotify.com/track/5qVerBTeSoM2UGxogEMLuS) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 2:20 |
-| 66 | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/track/7x5Ry9L8426wDPHckooewF) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/album/7iXqXMCJE90J2Iag4OuD8i) | 2:47 |
+| 66 | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/track/7x5Ry9L8426wDPHckooewF) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/album/7iXqXMCJE90J2Iag4OuD8i) | 2:48 |
 | 67 | [Fever Dream](https://open.spotify.com/track/0HOg1ZVNtEUUZAmJQ1wCjQ) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1), [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:39 |
 | 68 | [Cycle délicat](https://open.spotify.com/track/12Lrxdw1iIjQJT4y2VT436) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/5sehiJueG6OFg1EYJ9dm9B) | 3:14 |
 | 69 | [Drôle de temps](https://open.spotify.com/track/5jyVXKVgeXVhErGGIEFMyv) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Drôle de temps](https://open.spotify.com/album/0WsI0ksQOfwX73ZE4YpaJs) | 3:43 |

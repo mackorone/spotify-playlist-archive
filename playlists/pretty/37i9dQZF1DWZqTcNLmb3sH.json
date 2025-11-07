@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kantara : Chapter 1",
-  "num_followers": 65381,
+  "num_followers": 65412,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIee6Bgfu9nxi7jDY3PYeXIuK2Ih",
+  "snapshot_id": "AAAAACGQxfoYyaheodEoUlTy6Vfp+n0t",
   "tracks": [
     {
       "added_at": "2025-10-10 16:20:11",
@@ -141,6 +141,50 @@
       "url": "https://open.spotify.com/track/0TwddEckEwHnZgUIrn88NN"
     },
     {
+      "added_at": "2025-11-06 11:30:20",
+      "album": {
+        "name": "Bhale Bhale Yaru Eeke (From \"Radheyaa\")",
+        "url": "https://open.spotify.com/album/6f5KeXwzjFGdJAyOsj2M5q"
+      },
+      "artists": [
+        {
+          "name": "Viyaan S A",
+          "url": "https://open.spotify.com/artist/3gGDews5IwOTwkgw1uwina"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Bhale Bhale Yaru Eeke (From \"Radheyaa\")",
+      "url": "https://open.spotify.com/track/0WFUp1PbtwDsRKjoKLZUJW"
+    },
+    {
+      "added_at": "2025-11-06 11:30:54",
+      "album": {
+        "name": "Baduku Bareda (From \"Hey Prabhu\")",
+        "url": "https://open.spotify.com/album/7I9BcqfafoaxKAdBKAKEDW"
+      },
+      "artists": [
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        },
+        {
+          "name": "Danny Anderson",
+          "url": "https://open.spotify.com/artist/3rWhgt7IGoENnvmEbe8cyA"
+        },
+        {
+          "name": "Manoj V",
+          "url": "https://open.spotify.com/artist/1726lNGSABIoTmixDxHQ76"
+        }
+      ],
+      "duration_ms": 182729,
+      "name": "Baduku Bareda (From \"Hey Prabhu\")",
+      "url": "https://open.spotify.com/track/5omPgJuCtYA9xASvdez38W"
+    },
+    {
       "added_at": "2025-11-04 10:10:33",
       "album": {
         "name": "Saguva Dariya Thumba (From \"The Task\")",
@@ -148,8 +192,8 @@
       },
       "artists": [
         {
-          "name": "Judah Sandy",
-          "url": "https://open.spotify.com/artist/741nN43FW9pFTWmHTexVd6"
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
         },
         {
           "name": "Raghu Shivamogga",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,464 songs - 7 day 1 hr 45 min
+4,465 songs - 7 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2793,7 +2793,7 @@
 | [One Rule \- Instrumental](https://open.spotify.com/track/1iayB1lUwfmVb6EPHG9iRM) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Harleighblu](https://open.spotify.com/artist/4cEYh7S0lnB9zj30tzPorE) | [She \(Instrumentals\)](https://open.spotify.com/album/6kAtUuAPWlTl5vRA5tF2AK) | 3:26 | 2019-10-26 | 2020-03-18 |
 | [one time](https://open.spotify.com/track/6wfUNH1FO8FcDhvxq6rKuS) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [people](https://open.spotify.com/album/1PujxdQioakmeaU2tGBEeD) | 2:12 | 2022-12-15 | 2023-04-29 |
 | [One Too Many](https://open.spotify.com/track/3GWwIi7gE3hunEcI9Ibq2s) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [One Too Many](https://open.spotify.com/album/6WZFZBCIN83SrkMHnz5Kbb) | 2:50 | 2022-09-22 | 2022-10-22 |
-| [One4Milana](https://open.spotify.com/track/4PtgQogxuproyBHL5CIl8L) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [One4Milana](https://open.spotify.com/album/7dhQNCuBrpTiwnOtZ4dbcc) | 2:15 | 2023-10-26 |  |
+| [One4Milana](https://open.spotify.com/track/4PtgQogxuproyBHL5CIl8L) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [One4Milana](https://open.spotify.com/album/7dhQNCuBrpTiwnOtZ4dbcc) | 2:15 | 2023-10-26 | 2025-11-07 |
 | [One4Winter](https://open.spotify.com/track/3XLOnz8xAlxTqVPSjy6mKr) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [One4Winter](https://open.spotify.com/album/4PgSskTm3qbJGWRaMqWvWe) | 2:06 | 2020-02-11 | 2020-05-16 |
 | [Only](https://open.spotify.com/track/5qy2fUx0Qy6Cz3gEYWPX0I) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Passenger](https://open.spotify.com/album/5cbkT2l0tHfx3Ru3afBLlk) | 2:35 | 2023-12-14 | 2024-03-01 |
 | [Only U](https://open.spotify.com/track/7yreXQEtpHaQvNbohYldMu) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Only U](https://open.spotify.com/album/1u7qylY1EDGOVtULtvT4Ju) | 1:09 | 2021-09-10 | 2021-10-20 |
@@ -3406,6 +3406,7 @@
 | [sky high](https://open.spotify.com/track/2Md1znJcRMhKB0lhxRjNdl) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [sky high](https://open.spotify.com/album/3wLmSyx58TCgKpCqynvIo6) | 2:16 | 2021-10-10 | 2022-02-25 |
 | [Skycrossing](https://open.spotify.com/track/2iJnEx2P91IVDJRs3kErCx) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Skycrossing](https://open.spotify.com/album/6Afs1sIRAflGXM1mgiQBKB) | 2:13 | 2024-08-01 | 2024-09-17 |
 | [skylight](https://open.spotify.com/track/2ExqiRrEO0qjBraPXjK6WZ) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6tSQljcscqaCqsCBetZbHP) | 2:43 | 2020-05-01 | 2020-07-11 |
+| [Slam Dunk](https://open.spotify.com/track/6s80w0V137mOYm26zkCDVJ) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Slam Dunk](https://open.spotify.com/album/5d2OUkJ5fYrDHjOgkSptRN) | 2:06 | 2025-10-24 |  |
 | [sleep](https://open.spotify.com/track/25Tv3LlqNS6ZIiWzX0prNP) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [scotch at 2am](https://open.spotify.com/album/3ZeYqQXDvptyDTGWvJK1vX) | 1:04 | 2019-06-08 | 2019-10-25 |
 | [Sleeping With The Fishes](https://open.spotify.com/track/4DzNmXOfoIJT1EsnAzbELE) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Sleeping With The Fishes](https://open.spotify.com/album/7HO0CkR2nvGR4tUAGS4sao) | 2:06 | 2023-10-12 | 2025-07-05 |
 | [Sleepless in Tromsø](https://open.spotify.com/track/66nhVvuFtLzktRPg6O3qjE) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Sleepless in Tromsø](https://open.spotify.com/album/6elD2r7SVhpETT8DNjrLQq) | 2:39 | 2023-01-20 | 2023-03-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,861 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,864 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 28 | [Hotel Victoria \- original](https://open.spotify.com/track/1QeIGML6ntT3Ml8uFy4Kr0) | [San Telmo Lounge](https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4) | [Madrugada En Backcelonia](https://open.spotify.com/album/6pptnPvirGvArFZd0cYwmY) | 3:22 |
 | 29 | [Milonga Sentimental](https://open.spotify.com/track/0VwavJHr7O1yHBwQ7VtJVr) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Vivo en Otros Aires](https://open.spotify.com/album/17Ww9QMOZszSmfguKkUKWZ) | 3:53 |
 | 30 | [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 |
-| 31 | [Farras](https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 1:13 |
+| 31 | [Будем танцевать \- Listo Pa'Bailar \[1\]](https://open.spotify.com/track/71h9qwhopTUJ1KR7cNdbHo) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Будем танцевать \(Listo Pa'Bailar \[1\]\)](https://open.spotify.com/album/5eB3Ory8Dspo7D8RVhAPiv) | 3:54 |
 | 32 | [La Gloria](https://open.spotify.com/track/450mTC6yBia1bnYIvkOlxG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP), [Victor Hugo Morales](https://open.spotify.com/artist/5S50R3J7ByHrwFisobTZc9) | [Tango 3.0](https://open.spotify.com/album/3rII5jVhcZdgz4itaYn7vX) | 3:47 |
-| 33 | [Будем танцевать \- Listo Pa'Bailar \[1\]](https://open.spotify.com/track/71h9qwhopTUJ1KR7cNdbHo) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Будем танцевать \(Listo Pa'Bailar \[1\]\)](https://open.spotify.com/album/5eB3Ory8Dspo7D8RVhAPiv) | 3:54 |
+| 33 | [Farras](https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 1:13 |
 | 34 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
 | 35 | [Plano Secuencia](https://open.spotify.com/track/5yDSP6ATR47lNYsLVCaAat) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 4:12 |
 | 36 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 |

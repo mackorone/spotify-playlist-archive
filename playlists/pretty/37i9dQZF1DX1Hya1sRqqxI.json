@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 699216,
+  "num_followers": 699793,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Elvis (Fool)",
         "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 170293,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Why Can't We Be Friends?",
@@ -887,6 +871,22 @@
       "duration_ms": 190826,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "The Ultimate Bee Gees",
@@ -1543,6 +1527,22 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Love Is The Drug",
-      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Go West In the Navy",
         "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 339946,
       "name": "In the Navy - Original Version 1979",
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Love Is The Drug",
+      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1949,22 +1949,6 @@
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "McFadden & Whitehead",
-        "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 420986,
-      "name": "Ain't No Stoppin' Us Now",
-      "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Nightbirds",
@@ -1979,6 +1963,22 @@
       "duration_ms": 237120,
       "name": "Lady Marmalade",
       "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "McFadden & Whitehead",
+        "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 420986,
+      "name": "Ain't No Stoppin' Us Now",
+      "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "MacArthur Park - Single Version",
-      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "MacArthur Park - Single Version",
+      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2237,22 +2237,6 @@
       "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Never Can Say Goodbye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Never Can Say Goodbye - Single Version",
-      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
@@ -2271,6 +2255,22 @@
       "duration_ms": 363973,
       "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Never Can Say Goodbye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Never Can Say Goodbye - Single Version",
+      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "What Am I Gonna Do With You",
-      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Hitsville USA, The Motown Collection 1972-1992",
         "url": "https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 214066,
       "name": "Heaven Must Have Sent You",
       "url": "https://open.spotify.com/track/4KBLF8z7Hv7RIHjetaTCfD"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "What Am I Gonna Do With You",
+      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
     },
     {
       "added_at": "2021-03-22 14:18:04",

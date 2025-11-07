@@ -1,18 +1,38 @@
 {
   "description": "Altijd frisse hits! Cover: ROSAL\u00cdA",
-  "num_followers": 33896,
+  "num_followers": 33904,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALPaNJBavpNf2+TsqQ6hriUAPGTb",
+  "snapshot_id": "AAAAABkKt5rY26Up4GTo5zr4FimuNTZl",
   "tracks": [
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
-        "name": "Berghain",
-        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
@@ -20,20 +40,32 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 178853,
-      "name": "Berghain",
-      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "COMMAS",
+        "url": "https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 172053,
+      "name": "COMMAS",
+      "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Que Pasa",
         "url": "https://open.spotify.com/album/6SQv5uvddG0nI0kiw58QaE"
@@ -57,43 +89,59 @@
       "url": "https://open.spotify.com/track/0Py8IrDCJMTeor03YPe1ln"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "Private Party",
+        "url": "https://open.spotify.com/album/0YhnjhkoSSVrXu0jphHtuI"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "Private Party",
+      "url": "https://open.spotify.com/track/53fXpvHCU7XZLs0mqCIDNR"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "EYES CLOSED (with ZAYN)",
+        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 181375,
+      "name": "EYES CLOSED (with ZAYN)",
+      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
-        "name": "YAMA",
-        "url": "https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5"
+        "name": "SE9 Part 1",
+        "url": "https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
         }
       ],
-      "duration_ms": 159673,
-      "name": "YAMA",
-      "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
+      "duration_ms": 159399,
+      "name": "FU & UF",
+      "url": "https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Die On This Hill",
         "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
@@ -109,27 +157,55 @@
       "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
+        "name": "Lovin Lovin",
+        "url": "https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
         }
       ],
-      "duration_ms": 218006,
-      "name": "I Wanna Dance With Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
+      "duration_ms": 135638,
+      "name": "Lovin Lovin",
+      "url": "https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "YAMA",
+        "url": "https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 159673,
+      "name": "YAMA",
+      "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 193393,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Kindsoldaat",
         "url": "https://open.spotify.com/album/2Zhd4cLhJatwiUuQKOrmtD"
@@ -157,7 +233,7 @@
       "url": "https://open.spotify.com/track/3qKbu7Y7MOahLCHpsJiTeQ"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Meisje uit het Gooi",
         "url": "https://open.spotify.com/album/5twBJKrXQKbxq9VRgC5e0O"
@@ -177,7 +253,7 @@
       "url": "https://open.spotify.com/track/496VmZiPrXM9S1D5o3GDWp"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Gedoe",
         "url": "https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R"
@@ -193,75 +269,7 @@
       "url": "https://open.spotify.com/track/62PIx4LkcpnwxXdGmdFvzq"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
-      "album": {
-        "name": "PIXELATED KISSES",
-        "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 110430,
-      "name": "PIXELATED KISSES",
-      "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
-    },
-    {
-      "added_at": "2025-11-04 08:06:01",
-      "album": {
-        "name": "Waarom Moet Ze Nou Een DJ Zijn",
-        "url": "https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK"
-      },
-      "artists": [
-        {
-          "name": "Turfy Gang",
-          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
-        },
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Waarom Moet Ze Nou Een DJ Zijn",
-      "url": "https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH"
-    },
-    {
-      "added_at": "2025-11-04 08:06:01",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Elizabeth Taylor",
-      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
-    },
-    {
-      "added_at": "2025-11-04 08:06:01",
-      "album": {
-        "name": "A Wonderful Life (Epilogue)",
-        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 193393,
-      "name": "When I Close My Eyes",
-      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
-    },
-    {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -277,7 +285,31 @@
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Vrijspel",
         "url": "https://open.spotify.com/album/52cIFs3jvyBOzVuun6nu0r"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Frok en Stien",
         "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "0612345678",
         "url": "https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Stay (If You Wanna Dance)",
         "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
@@ -389,7 +421,27 @@
       "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "Herman van Veen Plus",
+        "url": "https://open.spotify.com/album/1wqI5QPzyIUJkE9Yzmi9Fs"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 144429,
+      "name": "Opzij (Ringtone)",
+      "url": "https://open.spotify.com/track/6jnyJrjDQpUWopVGLGxWt9"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Proost",
         "url": "https://open.spotify.com/album/237Q7Gxp8uPJW7oW9bHZdg"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/1yJyVyiwLfcvjoibA4WnNM"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "WIE?",
         "url": "https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj"
@@ -425,7 +477,7 @@
       "url": "https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "you're a star",
         "url": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ"
@@ -445,47 +497,23 @@
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
-        "name": "Tweedehands",
-        "url": "https://open.spotify.com/album/6kB1Fzxta2yUSkouT9nBwG"
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
       },
       "artists": [
         {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 139120,
-      "name": "Tweedehands",
-      "url": "https://open.spotify.com/track/6WIDTTNVtn6u93JT6hYBUK"
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
-      "album": {
-        "name": "Gone Gone Gone",
-        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 198004,
-      "name": "Gone Gone Gone",
-      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
-    },
-    {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Franchement !",
         "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
@@ -513,7 +541,7 @@
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Last Goodbyes",
         "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
@@ -529,7 +557,7 @@
       "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Folded",
         "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
@@ -545,7 +573,7 @@
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
@@ -565,27 +593,7 @@
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
-      "album": {
-        "name": "EYES CLOSED (with ZAYN)",
-        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        },
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 181375,
-      "name": "EYES CLOSED (with ZAYN)",
-      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
-    },
-    {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Deed 2 (D2)",
         "url": "https://open.spotify.com/album/6yPoIF95idX6uAOM4gQgQ0"
@@ -613,7 +621,23 @@
       "url": "https://open.spotify.com/track/47qbH7DYanEf9c8GYaXoJT"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "Tweedehands",
+        "url": "https://open.spotify.com/album/6kB1Fzxta2yUSkouT9nBwG"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 139120,
+      "name": "Tweedehands",
+      "url": "https://open.spotify.com/track/6WIDTTNVtn6u93JT6hYBUK"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Bad Bitches Luisteren Def",
         "url": "https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI"
@@ -629,7 +653,7 @@
       "url": "https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -645,7 +669,7 @@
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Laatste Bericht",
         "url": "https://open.spotify.com/album/0b4a1WKptVwvqtMgt56WHu"
@@ -669,7 +693,7 @@
       "url": "https://open.spotify.com/track/4q45RErPte0Hxe03YSh4fM"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Another Year Will Pass",
         "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
@@ -685,7 +709,7 @@
       "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8"
@@ -709,7 +733,7 @@
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
@@ -729,7 +753,7 @@
       "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
@@ -745,7 +769,7 @@
       "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -765,7 +789,7 @@
       "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "Go Shawty",
         "url": "https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw"
@@ -793,7 +817,7 @@
       "url": "https://open.spotify.com/track/4ENcpdZsvh5BNzI5slh50x"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "HEROINA",
         "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
@@ -809,7 +833,7 @@
       "url": "https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD"
     },
     {
-      "added_at": "2025-11-04 08:06:01",
+      "added_at": "2025-11-06 23:00:22",
       "album": {
         "name": "QUE CE SOIT CLAIR",
         "url": "https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx"

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165800,
+  "num_followers": 165803,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "duration_ms": 212671,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "To The Limit",
         "url": "https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 139457,
       "name": "CHARGIE",
       "url": "https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 212671,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Disappear",
-        "url": "https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
-        }
-      ],
-      "duration_ms": 193542,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Yeah Yeah",
         "url": "https://open.spotify.com/album/2p9GM8iVsMDpgDk2dQSPoK"
       },
@@ -783,18 +763,22 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E"
       },
       "artists": [
         {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+      "duration_ms": 193542,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -815,6 +799,22 @@
       "duration_ms": 170057,
       "name": "Badman Talk",
       "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Give Up The Ghost",
-        "url": "https://open.spotify.com/album/1KvEL8BAgXyqxjtLVSVCHB"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        }
-      ],
-      "duration_ms": 254482,
-      "name": "Give Up The Ghost",
-      "url": "https://open.spotify.com/track/1XA8bp2fTfWIucd3SOvWGt"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Hijack",
         "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 155913,
       "name": "Hijack",
       "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Give Up The Ghost",
+        "url": "https://open.spotify.com/album/1KvEL8BAgXyqxjtLVSVCHB"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 254482,
+      "name": "Give Up The Ghost",
+      "url": "https://open.spotify.com/track/1XA8bp2fTfWIucd3SOvWGt"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "MMM",
+        "url": "https://open.spotify.com/album/4RCXmMIMNSRZZauSVHjSkw"
+      },
+      "artists": [
+        {
+          "name": "L\u00c4UFF",
+          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
+        },
+        {
+          "name": "Queen Millz",
+          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "MMM",
+      "url": "https://open.spotify.com/track/0rmAW2aJTudKM6uoknmYVw"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 206896,
       "name": "Rockstar Bass",
       "url": "https://open.spotify.com/track/2zivCVM48VJ0zT7Vbtn1Ga"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "MMM",
-        "url": "https://open.spotify.com/album/4RCXmMIMNSRZZauSVHjSkw"
-      },
-      "artists": [
-        {
-          "name": "L\u00c4UFF",
-          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
-        },
-        {
-          "name": "Queen Millz",
-          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "MMM",
-      "url": "https://open.spotify.com/track/0rmAW2aJTudKM6uoknmYVw"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "On Your Feet",
-        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
-      },
-      "artists": [
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
-        },
-        {
-          "name": "Dogger",
-          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "On Your Feet",
-      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Badman Step",
         "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 200914,
       "name": "Badman Step",
       "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "On Your Feet",
+        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Dogger",
+          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "On Your Feet",
+      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Romance EP",
-        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Mudcrab",
-      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Bodybag",
         "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 215481,
       "name": "Bodybag",
       "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Romance EP",
+        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Mudcrab",
+      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Posra",
-        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Posra",
-      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/66taP1euWf9VFCgzyeepb3"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 248300,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3eq1Yyh6tRpYDf7tWCdeoo"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Posra",
+        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Posra",
+      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1675,34 +1675,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/5OQ23gjOohCUumTTdlv1g4"
-      },
-      "artists": [
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        },
-        {
-          "name": "Azotix",
-          "url": "https://open.spotify.com/artist/5ZdqCYEicA2uEyan7znlKI"
-        },
-        {
-          "name": "Blocksberg",
-          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
-        }
-      ],
-      "duration_ms": 260032,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/6Hx5g5BqynRUgdzOtjFWYh"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Voicenote Violence",
         "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
       },
@@ -1755,6 +1727,34 @@
       "duration_ms": 180000,
       "name": "Need Me So",
       "url": "https://open.spotify.com/track/1ouVPdv49QKSSiBfCOw6zL"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/5OQ23gjOohCUumTTdlv1g4"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "Azotix",
+          "url": "https://open.spotify.com/artist/5ZdqCYEicA2uEyan7znlKI"
+        },
+        {
+          "name": "Blocksberg",
+          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
+        }
+      ],
+      "duration_ms": 260032,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/6Hx5g5BqynRUgdzOtjFWYh"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Baby Daddy",
-        "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Baby Daddy",
-      "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Frequency",
         "url": "https://open.spotify.com/album/1g8qlyA71RSrEmU1I9FOzu"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 189500,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Baby Daddy",
+        "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Baby Daddy",
+      "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
     },
     {
       "added_at": "2025-10-23 23:00:20",

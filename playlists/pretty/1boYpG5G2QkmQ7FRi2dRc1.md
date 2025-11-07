@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 282,304 likes - 37 songs - 2 hr 19 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 282,282 likes - 37 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 7 | [Anyway](https://open.spotify.com/track/6vNs3dzBtzLec8eZJOWYhS) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [Anyway](https://open.spotify.com/album/5BTornzfofZqUyBcN2HdhW) | 2:37 |
 | 8 | [ENEMY](https://open.spotify.com/track/07BvtVBPQpLQVvKS9k3JAU) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Mark Roma](https://open.spotify.com/artist/060FnJg6S5kH1FzOqLJePq) | [ENEMY](https://open.spotify.com/album/1q3ZgIPzs2Y8O9ktPsUiyy) | 3:02 |
 | 9 | [Wine Up](https://open.spotify.com/track/4cTC8pbL0fwrFuag4gMeqn) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Wine Up](https://open.spotify.com/album/4G2Pe7aFolMwiZG7LYKw6o) | 3:52 |
-| 10 | [Ground](https://open.spotify.com/track/14hnrT5hgxnpXtHLfE3il6) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19) | [Ground](https://open.spotify.com/album/2iMiNZ0SjO12FBdJg3DYOD) | 2:34 |
+| 10 | [Ground](https://open.spotify.com/track/14hnrT5hgxnpXtHLfE3il6) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Ground](https://open.spotify.com/album/2iMiNZ0SjO12FBdJg3DYOD) | 2:34 |
 | 11 | [Slysoul](https://open.spotify.com/track/4PzBDM4JAhSnpT7bOZciJI) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn), [FLOWFAT](https://open.spotify.com/artist/5DfpHGxxXA9553tenaoKDJ) | [Slysoul](https://open.spotify.com/album/5oTnXshNaEaKvmPdyjcypc) | 3:27 |
 | 12 | [Elentulo](https://open.spotify.com/track/4AseHVEqdbmVCkK8pDcs0s) | [BlaQRhythm](https://open.spotify.com/artist/2o9225GgSICygCOxroILhb), [Section Five](https://open.spotify.com/artist/5pM2d7Jh0CvXvddLhBsRfS), [Omir Kai](https://open.spotify.com/artist/7hoGVsm6hdsMgmykIkRSCP) | [Elentulo](https://open.spotify.com/album/3uVapTEFSXfxvHyRbSZvXH) | 6:16 |
 | 13 | [Higher](https://open.spotify.com/track/02c0NbxXc8b3TWxUObpNUt) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Higher](https://open.spotify.com/album/3iRA5e1mvQoc4BrY8YdO8f) | 3:05 |

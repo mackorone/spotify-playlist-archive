@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-383 songs - 21 hr 24 min
+384 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Brief Walk in the Sea](https://open.spotify.com/track/5F1vyDlHJfC8APmTQbrWmK) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/1lfCe8KBQcAdEttuWRuao5) | 7:04 | 2023-04-21 | 2023-11-01 |
 | [A Brief Walk in the Sea](https://open.spotify.com/track/7AgcA4piGo8vbvXEt7ib1n) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'eixample](https://open.spotify.com/album/5DLrneBHg2tNEXr6sM6pzx) | 7:04 | 2020-12-08\* | 2022-07-29 |
 | [A Clear Dream](https://open.spotify.com/track/5kqOBRvLgMLNTtwKDLlw8u) | [Osman Almasi](https://open.spotify.com/artist/3XcHOrPFdXk3YTCvqspoSm) | [A Clear Dream](https://open.spotify.com/album/5XQErTCMUrJxgiyIbg9INH) | 2:59 | 2024-07-12 | 2025-05-03 |
-| [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 | 2022-06-16 |  |
+| [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 | 2022-06-16 | 2025-11-07 |
 | [a light that never goes out](https://open.spotify.com/track/16KiobHbqG3OtzyOzaqnnD) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [flora](https://open.spotify.com/album/3h36BxuaGETNQ9uCmfIrgo) | 2:37 | 2025-07-15 |  |
 | [A Lotus Life](https://open.spotify.com/track/6X2WDWzucPkXOaRm7LjSjn) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [A Lotus Life](https://open.spotify.com/album/55XiQKhbIIjBT1zQYFQAjX) | 3:10 | 2025-01-14 |  |
 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 | 2021-12-09 |  |
@@ -114,6 +114,7 @@
 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-07-15 |  |
 | [Dormio](https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Dormio](https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh) | 2:39 | 2021-10-14 | 2024-09-29 |
 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 | 2024-05-10 |  |
+| [Dreamsurf](https://open.spotify.com/track/0zUsN77HWaBujNAcMD4GUW) | [DIYFi](https://open.spotify.com/artist/1X177snoetl4cpyQ34snta) | [Dreamsurf](https://open.spotify.com/album/5moBUjTC86nclsprlXZRf8) | 2:56 | 2025-10-01 |  |
 | [Dreamswept EMDR](https://open.spotify.com/track/1pm2NByStw6o5v0nSGxHDz) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Dreamswept EMDR](https://open.spotify.com/album/3Tka75HuqaHbF12ZCkfoF7) | 3:32 | 2025-05-14 |  |
 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 | 2022-07-22 | 2024-04-19 |
 | [Dreamt](https://open.spotify.com/track/7yzWKf2adZoNKsLu3UxXjv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 3:59 | 2020-12-08\* | 2022-07-29 |

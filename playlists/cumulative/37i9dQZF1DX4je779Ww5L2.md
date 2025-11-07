@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-83 songs - 5 hr 15 min
+84 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Pride](https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Pride](https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb) | 4:04 | 2025-08-08 |  |
 | [Realize \(Essence\)](https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [A Passage Between](https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL) | 4:12 | 2025-10-01 |  |
 | [Richardson \- feat\. Cassandra Jenkins](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 | 2025-08-08 |  |
+| [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 | 2025-11-06 |  |
 | [Seven Lonely Nights](https://open.spotify.com/track/4KWwyQtWCtO04TWelNBbe2) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69), [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [A Soundtrack to a Never\-Ending Story](https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp) | 4:13 | 2025-08-08 |  |
 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 | 2025-08-08 |  |
 | [Shape Of The Dunes](https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9) | [Liza Weald](https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C) | [Shape Of The Dunes](https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe) | 3:13 | 2025-08-08 |  |

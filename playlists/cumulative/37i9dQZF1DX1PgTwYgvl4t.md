@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=Lz1l8CJQQ9O8usenEwIh5w>Moses Bliss</a>
 
-261 songs - 1 day 7 hr 6 min
+262 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [More Than Enough](https://open.spotify.com/track/3jeP2N4ZncGyBWNsfWpXj3) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [More Than Enough](https://open.spotify.com/album/4ILIZGOexhKYEfdSaO5Q3z) | 5:00 | 2025-10-24 |  |
 | [My Confidence](https://open.spotify.com/track/7rTWMg1rSSfDpl1pLIsJPa) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [My Confidence](https://open.spotify.com/album/6DY6vwkrPHbayouqFD30pj) | 5:38 | 2024-11-15 | 2025-02-14 |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2024-05-09 |  |
+| [My Devotion](https://open.spotify.com/track/76gmREYRRm5UiusIQxAMNd) | [Nene Olajide](https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F) | [My Devotion](https://open.spotify.com/album/5zKAS4DUe8B1LGBN7luf8e) | 3:34 | 2025-11-07 |  |
 | [My God](https://open.spotify.com/track/0RVWYiqpXx4yl4piv0MPLM) | [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [My God](https://open.spotify.com/album/3KitNkoXR2uuRTvxAhDz6c) | 5:19 | 2025-08-22 |  |
 | [My Helper \(Atekomi\)](https://open.spotify.com/track/45yd0S5IxTZ6zeq6Avq943) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [My Helper \(Atekomi\)](https://open.spotify.com/album/3OT8IZx4WclzxXmarzqnfl) | 4:35 | 2024-06-28 | 2024-11-29 |
 | [My Lover & Father \- Live](https://open.spotify.com/track/1RySgUH9LuWJ4hTFh0o4gI) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [The Expression](https://open.spotify.com/album/5LNEzS1eSEiVAAWIkd4Rk1) | 12:53 | 2025-03-21 |  |

@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 盧廣仲 Crowd Lu
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Gareth.T x 攬佬SKAI ISYOURGOD
 
-251 songs - 16 hr 17 min
+255 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [你到底在選擇什麼](https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [你到底在選擇什麼](https://open.spotify.com/album/1rjvwp6Fbsik62WVAGsBFw) | 4:13 | 2025-08-14 |  |
 | [你在我喜歡的世界裡（《愛你》影視劇主題曲）](https://open.spotify.com/track/14PzcR0qXHYCfPhvSM2RlT) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [你在我喜歡的世界裡（《愛你》影視劇主題曲）](https://open.spotify.com/album/78BlwkN5CKGfU8jeDXLz4G) | 3:44 | 2025-04-03 |  |
 | [你已經替我決定了 \(《命中註定那頭鵝》電影主題曲\)](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \(《命中註定那頭鵝》電影主題曲\)](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 | 2025-05-09 |  |
+| [你怎麼捨得我難過 \- 滾石撞樂隊2 \(原唱:黃品源\)](https://open.spotify.com/track/1fZhClIljIAn0qC2E0JMAo) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [滾石撞樂隊2 \- 你怎麼捨得我難過](https://open.spotify.com/album/30JaE8G16R1929l9KKnGxG) | 4:11 | 2025-11-06 |  |
 | [你想得美](https://open.spotify.com/track/4vSqgkQmBSwB5yDXoU191e) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 2:52 | 2025-09-18 |  |
 | [你救哪一個 \(Hidden Track\)](https://open.spotify.com/track/3F4di2gUOaxexwCsrPwtQT) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Vibes](https://open.spotify.com/album/4KmgdX1Q7Q5tzEwNhNjjII) | 3:37 | 2023-02-02 | 2025-04-04 |
 | [你是我的女人](https://open.spotify.com/track/6jDLdVKCa0lM8RyzNuvnxn) | [Robynn & Kendy](https://open.spotify.com/artist/3NFZHFNSDK0Q8k3k38ysTp) | [Robynn & Kendy](https://open.spotify.com/album/4Kh0aJr49Tb4lDBEJu5kAq) | 3:36 | 2023-02-02 | 2025-04-04 |
@@ -97,6 +98,7 @@
 | [初恋](https://open.spotify.com/track/4aLmzZyMECEzWSXt15bI1f) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [The Voyage](https://open.spotify.com/album/0b2toX1GP2XxY5W83bjAdA) | 3:27 | 2023-02-02 | 2023-03-01 |
 | [初戀](https://open.spotify.com/track/5PXsG3sAAq4NvqKSe4jvSf) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [初戀](https://open.spotify.com/album/5mNIZekIfHHPTYjmJAYe7e) | 3:57 | 2024-04-04 | 2025-04-04 |
 | [初戀](https://open.spotify.com/track/1aiIwk71j3bdlAoashJ99C) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [初戀](https://open.spotify.com/album/5j0dn66FEK13qHKnGHuVuz) | 3:27 | 2024-04-04 | 2025-04-04 |
+| [到时说爱我](https://open.spotify.com/track/4BqzhTaXxJChv6PqnaPoHQ) | [茜拉](https://open.spotify.com/artist/1yfqFJwdeJHldvZdZ2C28h) | [心旅](https://open.spotify.com/album/0Ly50fFo4nk8BPPj7lXBJa) | 3:21 | 2025-11-06 |  |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2022-03-10 | 2023-02-03 |
 | [卡農 in Love](https://open.spotify.com/track/5q2KZ00BlQCqvN5JYBcsY4) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [卡農 in Love](https://open.spotify.com/album/3jaJeH586fUiZ4gbAPfkgP) | 3:26 | 2025-04-03 | 2025-07-04 |
 | [友情歲月](https://open.spotify.com/track/1EzjQgHyJL3RoDdQBwIG06) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 5:08 | 2024-04-04 | 2025-04-04 |
@@ -185,6 +187,7 @@
 | [沒有人會為了我改變 \(電影《夜校女生》主題曲\)](https://open.spotify.com/track/4MF3LAE3RNK19S9w5Y8M6a) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [沒有人會為了我改變](https://open.spotify.com/album/0pMtn6FSzOhvPaIrFFhWL4) | 5:11 | 2025-04-03 | 2025-07-04 |
 | [沒有如果](https://open.spotify.com/track/2fugXPHScj3rflFJoIVi0T) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [沒有如果](https://open.spotify.com/album/2eh90cMF3Vr2yMhJ9X9MEU) | 2:32 | 2025-08-21 |  |
 | [沒有我的以後](https://open.spotify.com/track/4qeJCSBH6FA2tAUcPEDoEl) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [沒有我的以後](https://open.spotify.com/album/2O28M6R3nbe65ej3BzIx0q) | 3:31 | 2025-04-03 | 2025-08-15 |
+| [没出息](https://open.spotify.com/track/2Vj3vhn6PWduJct8p9vX9x) | [王世坚](https://open.spotify.com/artist/2gHmvF6d7DCRjfGTBc1L0h) | [没出息](https://open.spotify.com/album/45g3gq0fQTo2ZbBzAQ4vGt) | 1:07 | 2025-11-06 |  |
 | [活得比你好](https://open.spotify.com/track/3H0sbSeSHB7lbvknxiHhL4) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Dahlia II](https://open.spotify.com/album/4oyUjiSeeBwEfKvsASvMwy) | 4:23 | 2024-04-04 | 2025-04-04 |
 | [活著](https://open.spotify.com/track/711bVTOFjmjte4eNXzcbc7) | [Charlene Choi](https://open.spotify.com/artist/6wBoKKHhGDrxVtp6XMFpIP) | [Blooming](https://open.spotify.com/album/3Qxf3z5G8hMBacGhEzeMjL) | 3:32 | 2023-02-02 | 2025-04-04 |
 | [流浪星球](https://open.spotify.com/track/488VGW7rB8QDomlqoMlpbo) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [流浪星球](https://open.spotify.com/album/3Fkk9e7uOLt4ZkRg7K5ABl) | 3:48 | 2025-09-04 |  |
@@ -227,6 +230,7 @@
 | [討厭](https://open.spotify.com/track/0v2NGRaL9QRwtGITBlbbvr) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [討厭](https://open.spotify.com/album/6TjldWlvvS2nciY5brbgvK) | 3:12 | 2025-08-14 |  |
 | [記憶咖啡 \(戲劇《歡迎光臨二代咖啡》主題曲\)](https://open.spotify.com/track/7hcmgiSVOlbAZuwkgJnrFm) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [記憶咖啡](https://open.spotify.com/album/0gdv3ZFByjyBHgyWjdvfV3) | 4:03 | 2025-04-03 | 2025-07-04 |
 | [足芳足芳](https://open.spotify.com/track/1sqHxuAC7b0bX1sXb5F1wY) | [李竺芯](https://open.spotify.com/artist/0qI7jcxX3CFiafnkAe7Rjp) | [Suí 水](https://open.spotify.com/album/4iS0XEUs3Gr8YbYpA7SuC3) | 3:34 | 2025-07-03 |  |
+| [跟悲傷結了帳](https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [跟悲傷結了帳](https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo) | 3:03 | 2025-11-06 |  |
 | [路過蜻蜓](https://open.spotify.com/track/4Uhq40fGrEwKEHxzQQajTY) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 4:51 | 2023-02-02 | 2025-04-04 |
 | [跳楼机](https://open.spotify.com/track/2BHXQNTVx1WWEk3WyCo4VO) | [en](https://open.spotify.com/artist/3A4OPuuXAaKWD8mlrUKXUQ) | [跳楼机](https://open.spotify.com/album/4ReDcHoNHmEX6WtgsEyo1H) | 3:29 | 2025-04-03 |  |
 | [跳樓機 Jumping Machine](https://open.spotify.com/track/1Z3prWvaDYqY83Uwj15OHT) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [跳樓機 Jumping Machine](https://open.spotify.com/album/37dc4joQlvzkJUj6uuTlpZ) | 3:03 | 2025-09-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40698,
+  "num_followers": 40702,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAApc0dYWksHkUpmUTrDMboF",
+  "snapshot_id": "aQqTgAAAAAAjkchs9ng++2+wMvk5eIU7",
   "tracks": [
     {
       "added_at": null,
@@ -602,11 +602,15 @@
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+      "duration_ms": 254769,
+      "name": "Somos o Mundo",
+      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
     },
     {
       "added_at": null,
@@ -690,15 +694,11 @@
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 254769,
-      "name": "Somos o Mundo",
-      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
+      "duration_ms": 191981,
+      "name": "Rolo Compressor",
+      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
     },
     {
       "added_at": null,

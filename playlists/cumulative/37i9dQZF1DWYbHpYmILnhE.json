@@ -89,6 +89,32 @@
     },
     {
       "album": {
+        "name": "Acct Number (Omalicha)",
+        "url": "https://open.spotify.com/album/1oQJNH7DtXfgyuURTDP74s"
+      },
+      "artists": [
+        {
+          "name": "Izztopik",
+          "url": "https://open.spotify.com/artist/3xV6vHDr8Ca4GHDZT0JSRt"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222457,
+      "name": "Acct Number (Omalicha)",
+      "url": "https://open.spotify.com/track/70rXBzhbteWhbc1Ra5xb6r"
+    },
+    {
+      "album": {
         "name": "The Efeleme Pack",
         "url": "https://open.spotify.com/album/1cbTJMZRqKSwxU77jPEhCh"
       },
@@ -714,7 +740,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"

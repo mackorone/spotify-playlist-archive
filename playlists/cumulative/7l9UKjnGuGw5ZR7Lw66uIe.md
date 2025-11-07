@@ -4,7 +4,7 @@
 
 > neler yaşamışım ben ya...
 
-32 songs - 1 hr 30 min
+34 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 | 2025-09-26 |  |
 | [İzleri Belli](https://open.spotify.com/track/2dxXmAftbqWGxsxYdMkmS3) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [İzleri Belli](https://open.spotify.com/album/04Rdyug1KAnC4aooCmLgJ8) | 2:48 | 2023-07-14 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-23 |  |
+| [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [](https://open.spotify.com/album/null) | 3:07 | 2025-11-06 |  |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-01-26 | 2024-08-10 |
 | [Pişmanım](https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Pişmanım](https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ) | 2:17 | 2025-06-27 |  |
 | [Run Away](https://open.spotify.com/track/0cRScHsQm04Ixe51G7Dlhv) | [Deniz Love](https://open.spotify.com/artist/57W6Cmd3iSCaqBY54OHpFf), [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ALL WAVES PASS](https://open.spotify.com/album/57PNNEArDk6lSAnGyye4dh) | 3:27 | 2022-07-27 | 2025-05-07 |
@@ -36,6 +37,7 @@
 | [Yasak Elma](https://open.spotify.com/track/6aoqegk05KuhE77zFHDTAD) | [İlyas Yalçıntaş](https://open.spotify.com/artist/2ekGsQEkeMtYFA16Jjes2M) | [Yasak Elma](https://open.spotify.com/album/6snMnEqWZmnO7kKqYxXDre) | 3:41 | 2023-07-20 |  |
 | [yazık ettin](https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yazık ettin](https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF) | 2:50 | 2024-09-13 |  |
 | [yine bana kal](https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yine bana kal](https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX) | 3:03 | 2024-01-26 |  |
+| [Yıkılana Kadar](https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Yıkılana Kadar](https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg) | 3:00 | 2025-11-06 |  |
 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-02 |  |
 | [ZAR ZOR](https://open.spotify.com/track/7i3U8xnLEtkzzsetcu4j7s) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ZAR ZOR](https://open.spotify.com/album/3RwVkeAdTEEs5JU4xQ34y7) | 2:31 | 2022-07-27 |  |
 | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/track/1H4qxPotx1YuUacESzS6E3) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Aytac Kart](https://open.spotify.com/artist/66AHlsRl8ONmvQCiuVIdJ3) | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/album/51kSkawyx2mHLBEAmu3tBl) | 2:49 | 2022-07-27 | 2025-04-11 |

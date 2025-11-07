@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Ndarboy Genk ",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  NDX A.K.A.",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -1321,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "Cidera Serius",
+        "url": "https://open.spotify.com/album/7mv8x1RvTr9el8C021oLOA"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        },
+        {
+          "name": "Nadeo Winata",
+          "url": "https://open.spotify.com/artist/64n4uFYJKNUVys6cTUsWKH"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Cidera Serius",
+      "url": "https://open.spotify.com/track/3tscYJp7QSy5aY9tRT01MZ"
+    },
+    {
+      "album": {
         "name": "Cidro 2",
         "url": "https://open.spotify.com/album/1VxbFInPOEVuo4DNbB6UoO"
       },
@@ -1880,6 +1902,42 @@
       "duration_ms": 306461,
       "name": "Ego Wong Tuo",
       "url": "https://open.spotify.com/track/24ysT3qIjLv65dxmIPyvq0"
+    },
+    {
+      "album": {
+        "name": "Ego Wong Tuo",
+        "url": "https://open.spotify.com/album/74DhURjb3qPnTdyyHoT4N9"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351155,
+      "name": "Ego Wong Tuo",
+      "url": "https://open.spotify.com/track/0fs5VCK4Lx25LVpRxyTotG"
+    },
+    {
+      "album": {
+        "name": "Ego Wong Tuo (HipHop Dangdut Version)",
+        "url": "https://open.spotify.com/album/4OkDaPsPQQWB0Tpy9509G3"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277395,
+      "name": "Ego Wong Tuo - HipHop Dangdut Version",
+      "url": "https://open.spotify.com/track/6EclwrE9yVgAKjOnlw0qFv"
     },
     {
       "album": {
@@ -2818,7 +2876,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 300000,
       "name": "Jiwarungsit",
       "url": "https://open.spotify.com/track/0CTcOv4NP9mU046khNKfVc"
@@ -5262,7 +5320,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 158783,
       "name": "MP 275",
       "url": "https://open.spotify.com/track/2UupBsJRQCaNUNrWFBILOv"
@@ -5306,6 +5364,28 @@
       "duration_ms": 251520,
       "name": "Mundur Alon Alon",
       "url": "https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ"
+    },
+    {
+      "album": {
+        "name": "Nagih Janji",
+        "url": "https://open.spotify.com/album/34MQvfSeMrdHjDV6LAIEAk"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "ARYA GALIH",
+          "url": "https://open.spotify.com/artist/3LEzVC11Jtzc1fZWzXtOGY"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Nagih Janji",
+      "url": "https://open.spotify.com/track/7zJtbtZodmHHJWKTBms8H1"
     },
     {
       "album": {
@@ -5802,7 +5882,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 372000,
       "name": "NGENTENI",
       "url": "https://open.spotify.com/track/2E7GrU5WTdKfqH1QsbggCs"

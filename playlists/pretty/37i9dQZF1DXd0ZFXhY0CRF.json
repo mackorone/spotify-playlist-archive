@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Nova Twins",
-  "num_followers": 775371,
+  "num_followers": 775456,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
     },
     {
-      "added_at": "2025-09-26 04:00:31",
-      "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
       "added_at": "2025-09-02 23:00:32",
       "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
@@ -355,6 +339,22 @@
       "duration_ms": 222013,
       "name": "Hand in My Pocket - 2015 Remaster",
       "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2025-09-26 04:00:31",
+      "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Welcome to My Blue Sky",
-        "url": "https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 217249,
-      "name": "I Want You (Fever)",
-      "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "<COPINGMECHANISM>",
         "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 159516,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "Welcome to My Blue Sky",
+        "url": "https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 217249,
+      "name": "I Want You (Fever)",
+      "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
+        "name": "Tiny Screens",
+        "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 178015,
+      "name": "Tiny Screens",
+      "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
         "name": "TOMBSTONE TOWN (feat. Slash)",
         "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
-        "name": "Tiny Screens",
-        "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 178015,
-      "name": "Tiny Screens",
-      "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
         "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
         "url": "https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 234000,
       "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
       "url": "https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
-        "name": "Say It (To My Face)",
-        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
     },
     {
       "added_at": "2025-09-02 23:00:32",

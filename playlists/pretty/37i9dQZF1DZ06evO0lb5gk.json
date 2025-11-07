@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 147094,
+  "num_followers": 147115,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAC87K1zsjKF+pPtEfnpfx8d",
+  "snapshot_id": "aQqTgAAAAAAAJg004Q4l/1FAlRSDAO+z",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Born in Winter",
+      "url": "https://open.spotify.com/track/1rDzUqMRA9VdGCIwzgfeh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mea Culpa (Ah! \u00c7a ira!)",
         "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 173160,
       "name": "Mea Culpa (Ah! \u00c7a ira!)",
       "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Born in Winter",
-      "url": "https://open.spotify.com/track/1rDzUqMRA9VdGCIwzgfeh9"
     },
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortitude",
-        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 300783,
-      "name": "Amazonia",
-      "url": "https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L'Enfant Sauvage (Special Edition)",
         "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 257733,
       "name": "L'enfant sauvage",
       "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 300783,
+      "name": "Amazonia",
+      "url": "https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortitude",
-        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 264947,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/7cRGgrQ9eg8V8A4FsSj020"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L'Enfant Sauvage (Special Edition)",
         "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 356800,
       "name": "The Gift of Guilt",
       "url": "https://open.spotify.com/track/1mjC68qU0Q9HlCIZHZAEko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 264947,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/7cRGgrQ9eg8V8A4FsSj020"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
       "duration_ms": 270225,
       "name": "Lizard Skin",
       "url": "https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The link",
-        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 103546,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD"
     },
     {
       "added_at": null,

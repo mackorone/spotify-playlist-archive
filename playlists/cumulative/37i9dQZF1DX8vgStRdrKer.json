@@ -2103,6 +2103,36 @@
     },
     {
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        },
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130153,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt"
+    },
+    {
+      "album": {
         "name": "church",
         "url": "https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV"
       },
@@ -3436,6 +3466,24 @@
       "duration_ms": 257496,
       "name": "Eyinju",
       "url": "https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F"
+    },
+    {
+      "album": {
+        "name": "Ezulwini Basilindile (Live at Isibaya Casino)",
+        "url": "https://open.spotify.com/album/6JmRdCQmv2Cgi3l0mWoybq"
+      },
+      "artists": [
+        {
+          "name": "Thinah Zungu",
+          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 811413,
+      "name": "Ezulwini Basilindile - Live at Isibaya Casino",
+      "url": "https://open.spotify.com/track/13vguiJ6qSsrlYubgnF8Jd"
     },
     {
       "album": {
@@ -6404,7 +6452,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 393856,
       "name": "Jesus Reigns (Remix) (feat. Khaya Mthethwa)",
       "url": "https://open.spotify.com/track/2ghE8KoNrcqUUTBERLTdQP"
@@ -10584,7 +10632,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 198000,
       "name": "So Good",
       "url": "https://open.spotify.com/track/3qggW9kMBkT34jXDHzEv6e"

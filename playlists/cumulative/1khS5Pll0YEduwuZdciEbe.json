@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Good Story",
+        "url": "https://open.spotify.com/album/1iVKRAVcjJP4xikLZyLdQU"
+      },
+      "artists": [
+        {
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Forever, Like That",
+      "url": "https://open.spotify.com/track/4VETG6G9KfFLHZWpEwEUeN"
+    },
+    {
+      "album": {
         "name": "Being Elsewhere Mix",
         "url": "https://open.spotify.com/album/5KhEthQTYWnsbCcMBBKm5B"
       },
@@ -2078,6 +2096,24 @@
       "duration_ms": 257106,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx"
+    },
+    {
+      "album": {
+        "name": "Heaven (Butterflies)",
+        "url": "https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297493,
+      "name": "Heaven (Butterflies)",
+      "url": "https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP"
     },
     {
       "album": {

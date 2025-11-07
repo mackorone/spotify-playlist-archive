@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > We introduce new and exciting artists\. New RADAR BNLX\-artist: <a href="spotify:artist:7a5xPqxWpIHk4tcdv7bDc6">MICHA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,666 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,668 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Taste of Heaven](https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Taste of Heaven](https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ) | 2:37 |
-| 2 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 |
-| 3 | [Do Me like You Do](https://open.spotify.com/track/1PLByZErRRCVmHWZm0DTsv) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Dead End Of A Dream](https://open.spotify.com/album/2D5G56419QjsWtt2pf8b7w) | 3:02 |
+| 1 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
+| 2 | [Taste of Heaven](https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Taste of Heaven](https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ) | 2:37 |
+| 3 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 |
 | 4 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
 | 5 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 |
 | 6 | [The Dog](https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [The Dog](https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad) | 5:01 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 39 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 |
 | 40 | [Grow](https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow](https://open.spotify.com/album/7n1mEyOkjx2HUeW43vBRMH) | 2:59 |
 
-Snapshot ID: `AAAAALHSQDunxLHajP7Z0p+HWoTMQQog`
+Snapshot ID: `AAAAAIZimN0U/apG7DrcvhHSb9FY2fcd`

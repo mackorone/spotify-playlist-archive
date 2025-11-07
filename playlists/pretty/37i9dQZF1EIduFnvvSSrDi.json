@@ -11,8 +11,56 @@
     {
       "added_at": null,
       "album": {
-        "name": "Level 11",
-        "url": "https://open.spotify.com/album/3jv6Xw9zDwxeCW9yr1HLsG"
+        "name": "Drunken Sailor",
+        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
+      },
+      "artists": [
+        {
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunset on the Golden Age",
+        "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Drink",
+      "url": "https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Level 12",
+        "url": "https://open.spotify.com/album/4HUG49D7cBMLrcavbReCG8"
       },
       "artists": [
         {
@@ -20,9 +68,89 @@
           "url": "https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq"
         }
       ],
-      "duration_ms": 222563,
-      "name": "Valhalla Calling",
-      "url": "https://open.spotify.com/track/2nRKJI3XsWPb5d8VXwn2iK"
+      "duration_ms": 152880,
+      "name": "Onwards We Row",
+      "url": "https://open.spotify.com/track/3RZE2ndwmJX4eqEiSmQBRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rove and Go",
+        "url": "https://open.spotify.com/album/5lsqVhsUlTstxeBwidBJmO"
+      },
+      "artists": [
+        {
+          "name": "Derina Harvey Band",
+          "url": "https://open.spotify.com/artist/5mzB7lyql8vF1CFjZ5tGuQ"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "The Last Shanty",
+      "url": "https://open.spotify.com/track/69HEUcXd73lvnQVb34m53L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pirates of the Caribbean: On Stranger Tides",
+        "url": "https://open.spotify.com/album/2RkWo1xomg2mBR8ydABsab"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 100520,
+      "name": "Guilty of Being Innocent of Being Jack Sparrow - From \"Pirates of the Caribbean: On Stranger Tides\"/Score",
+      "url": "https://open.spotify.com/track/0ahHgsbKvBEd3yYQmxHBoj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Mother Told Me",
+        "url": "https://open.spotify.com/album/4X9vo6N8xAjXjl2Fbh3fnF"
+      },
+      "artists": [
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        }
+      ],
+      "duration_ms": 130595,
+      "name": "My Mother Told Me",
+      "url": "https://open.spotify.com/track/5gLpCl0yle8f2C1YECQq0x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bound by a Dream",
+        "url": "https://open.spotify.com/album/52Q2Vds8rpjDiyYKruvJYP"
+      },
+      "artists": [
+        {
+          "name": "RepeatTwiceDaily",
+          "url": "https://open.spotify.com/artist/6gyYwtCJKWURUHWsAm76PZ"
+        }
+      ],
+      "duration_ms": 238799,
+      "name": "Bound by a Dream",
+      "url": "https://open.spotify.com/track/1TSTyPin3jTjhugs4yJVGC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoist the Colours",
+        "url": "https://open.spotify.com/album/2oxCvEyZ3PxrEt8fzLmw9y"
+      },
+      "artists": [
+        {
+          "name": "Colm R. McGuinness",
+          "url": "https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U"
+        }
+      ],
+      "duration_ms": 122700,
+      "name": "Hoist the Colours",
+      "url": "https://open.spotify.com/track/3hGjJyZzvQuCSDe79W1sEy"
     },
     {
       "added_at": null,
@@ -43,24 +171,76 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/7C4RJ9CGbsoxypJJdHs9tU"
+        "name": "TOT EST\u00c0 PER FER",
+        "url": "https://open.spotify.com/album/0hERmYkJ52X2YwcV86dFsZ"
       },
       "artists": [
         {
-          "name": "Sail North",
-          "url": "https://open.spotify.com/artist/0Gtv3Wi6jj0lW1Po5QbIGS"
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
+        },
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
         }
       ],
-      "duration_ms": 176225,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/5mUL6MFJwS51t8GKle0jDu"
+      "duration_ms": 159310,
+      "name": "JA DORMIR\u00c9",
+      "url": "https://open.spotify.com/track/1TewcrGBlkDAMhehfn0eHh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Grave but the Sea (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS"
+        "name": "Smoke & Oakum",
+        "url": "https://open.spotify.com/album/0hWeSxZbYIOTDCicxMQmap"
+      },
+      "artists": [
+        {
+          "name": "The Longest Johns",
+          "url": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Hammer And The Anvil",
+      "url": "https://open.spotify.com/track/5p2UScFyWs7RcAtZyPR6qx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sea Shanty Metal",
+        "url": "https://open.spotify.com/album/7LoQpTi1lx4uH4CDS6HgqC"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Young",
+          "url": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        {
+          "name": "Annapantsu",
+          "url": "https://open.spotify.com/artist/1z6xb7fWEynx9m92JVA8ZR"
+        },
+        {
+          "name": "Colm R. McGuinness",
+          "url": "https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U"
+        },
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        },
+        {
+          "name": "RichaadEB",
+          "url": "https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Santiana",
+      "url": "https://open.spotify.com/track/4MNQlIX1XN5RPpsCtWG0tr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails at Midnight",
+        "url": "https://open.spotify.com/album/3wEGAfye5wwrX4EEPAABbg"
       },
       "artists": [
         {
@@ -68,25 +248,85 @@
           "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
         }
       ],
-      "duration_ms": 207493,
-      "name": "Fucked with an Anchor",
-      "url": "https://open.spotify.com/track/6ySfvnEGsR5keLq9f3i1AU"
+      "duration_ms": 222253,
+      "name": "Keelhauled",
+      "url": "https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Oceanfire",
-        "url": "https://open.spotify.com/album/6fxX8qaFEl6LnPdFV89Jbp"
+        "name": "Seven Hearts One Soul",
+        "url": "https://open.spotify.com/album/1luFHw0A4VVC5lpeZkG1kt"
       },
       "artists": [
         {
-          "name": "A Wildheart's Tale",
-          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
+          "name": "The O'Reillys and the Paddyhats",
+          "url": "https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ"
         }
       ],
-      "duration_ms": 149959,
-      "name": "Moonlight Tavern",
-      "url": "https://open.spotify.com/track/61f4qIoJWUMfwG0zM2VXWG"
+      "duration_ms": 236226,
+      "name": "Barrels of Whiskey",
+      "url": "https://open.spotify.com/track/7LZzBUZJ4hKwFux8WFoC9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinners (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
+      },
+      "artists": [
+        {
+          "name": "Jack O\u2019Connell",
+          "url": "https://open.spotify.com/artist/6ie3h33ZMgR9je06RHA1Sb"
+        },
+        {
+          "name": "Brian Dunphy",
+          "url": "https://open.spotify.com/artist/4K4z9PMf7UYeDXRhe4WCOG"
+        },
+        {
+          "name": "Darren Holden",
+          "url": "https://open.spotify.com/artist/7aUPvtQ8NgxCYKU50BA0qL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
+        }
+      ],
+      "duration_ms": 218986,
+      "name": "Rocky Road to Dublin",
+      "url": "https://open.spotify.com/track/1esmJ8t2PRbYt2yMx2aSEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Barco del Rey",
+        "url": "https://open.spotify.com/album/2u8jCg4UwJTqwYSX3vZOGp"
+      },
+      "artists": [
+        {
+          "name": "Melodic Mythos",
+          "url": "https://open.spotify.com/artist/1fHWPfTNjx10QX2xoRSkF9"
+        }
+      ],
+      "duration_ms": 278351,
+      "name": "El Barco del Rey",
+      "url": "https://open.spotify.com/track/7DlWzRVAZdNs6ThXa49vhK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/52NsBi7GyiV9CfFWe4Jr1b"
+      },
+      "artists": [
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Ragnar\u00f6k",
+      "url": "https://open.spotify.com/track/49tStuWJSV3ZqGqy3SwHtE"
     },
     {
       "added_at": null,
@@ -112,253 +352,9 @@
           "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
         }
       ],
-      "duration_ms": 132293,
-      "name": "Leave Her Johnny",
-      "url": "https://open.spotify.com/track/2vaa0nnDnNTlxCh7fCmjsr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sixteen Tons",
-        "url": "https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr"
-      },
-      "artists": [
-        {
-          "name": "Geoff Castellucci",
-          "url": "https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Written In Salt",
-        "url": "https://open.spotify.com/album/7JWyef3FNbcHHOv4cygiY7"
-      },
-      "artists": [
-        {
-          "name": "The Longest Johns",
-          "url": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "Drunken Sailor",
-      "url": "https://open.spotify.com/track/20LOm2quwbysSJzDu62h4w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Hearts One Soul",
-        "url": "https://open.spotify.com/album/1luFHw0A4VVC5lpeZkG1kt"
-      },
-      "artists": [
-        {
-          "name": "The O'Reillys and the Paddyhats",
-          "url": "https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ"
-        }
-      ],
-      "duration_ms": 236226,
-      "name": "Barrels of Whiskey",
-      "url": "https://open.spotify.com/track/7LZzBUZJ4hKwFux8WFoC9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wintersaga",
-        "url": "https://open.spotify.com/album/41qphLDtonmyZmvO5gnoui"
-      },
-      "artists": [
-        {
-          "name": "Wind Rose",
-          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
-        }
-      ],
-      "duration_ms": 315986,
-      "name": "Diggy Diggy Hole",
-      "url": "https://open.spotify.com/track/0FDY2EHOv32kUoqplU1hdY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sea of Thieves",
-        "url": "https://open.spotify.com/album/2k2ccaimJvqx1W4zdsl4IT"
-      },
-      "artists": [
-        {
-          "name": "snackrunner",
-          "url": "https://open.spotify.com/artist/1MEsZEQxU77gbKGEj5pZdX"
-        }
-      ],
-      "duration_ms": 128138,
-      "name": "Sea of Thieves",
-      "url": "https://open.spotify.com/track/1r7Z9iJ0Mmckpi0dsaHKK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "I'm Shipping Up To Boston",
-      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pirates Of The Caribbean: At World's End Original Soundtrack",
-        "url": "https://open.spotify.com/album/6JoI0NEAqeJ20X6lU3Drx0"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Drink Up Me Hearties Yo Ho",
-      "url": "https://open.spotify.com/track/0HewdQ1l9bckQXPfIO3CYH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Compass",
-        "url": "https://open.spotify.com/album/7ly69KmqTNqPzxVkP9qwHe"
-      },
-      "artists": [
-        {
-          "name": "Sail North",
-          "url": "https://open.spotify.com/artist/0Gtv3Wi6jj0lW1Po5QbIGS"
-        }
-      ],
-      "duration_ms": 227968,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/4GRXkDJS4F2MQiOM3UE7hW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Grave but the Sea (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6xEcJi5tmXFhaT0m62VZd9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/52NsBi7GyiV9CfFWe4Jr1b"
-      },
-      "artists": [
-        {
-          "name": "Peyton Parrish",
-          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Ragnar\u00f6k",
-      "url": "https://open.spotify.com/track/49tStuWJSV3ZqGqy3SwHtE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Valhalla Calling (Duet Version)",
-        "url": "https://open.spotify.com/album/1cM1VuxUFWbALtHnIXh5ip"
-      },
-      "artists": [
-        {
-          "name": "Miracle Of Sound",
-          "url": "https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq"
-        },
-        {
-          "name": "Peyton Parrish",
-          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
-        }
-      ],
-      "duration_ms": 240759,
-      "name": "Valhalla Calling - Duet Version",
-      "url": "https://open.spotify.com/track/6wW9ews4LjClYwvb9GSida"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/6cVjsYx7ffKBzfJkTqMiY4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Jordan",
-          "url": "https://open.spotify.com/artist/2zgQujI3jnTTKJpj9Im76b"
-        }
-      ],
-      "duration_ms": 146399,
-      "name": "Hazel Eyes",
-      "url": "https://open.spotify.com/track/4DvlcoeyHGPzlkSKZlVGSt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Between Wind And Water",
-        "url": "https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR"
-      },
-      "artists": [
-        {
-          "name": "The Longest Johns",
-          "url": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Santiana",
-      "url": "https://open.spotify.com/track/21Jm43WPaIsv82UJsPkMF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pirates of the Caribbean: Dead Men Tell No Tales (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4AODHfxPGTDLHyAyMWQi52"
-      },
-      "artists": [
-        {
-          "name": "Geoff Zanelli",
-          "url": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
-        }
-      ],
-      "duration_ms": 333546,
-      "name": "My Name Is Barbossa",
-      "url": "https://open.spotify.com/track/5dUQ00lCQ8IPMs149DIdhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TOT EST\u00c0 PER FER",
-        "url": "https://open.spotify.com/album/0hERmYkJ52X2YwcV86dFsZ"
-      },
-      "artists": [
-        {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        }
-      ],
-      "duration_ms": 157745,
-      "name": "KOALES",
-      "url": "https://open.spotify.com/track/4IrUj03q2ouHvqXVdLEuiX"
+      "duration_ms": 67173,
+      "name": "Dead Horse",
+      "url": "https://open.spotify.com/track/7MSpEzjmxk6cTyd2Wl06IM"
     },
     {
       "added_at": null,
@@ -379,296 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soldier, Poet, King",
-        "url": "https://open.spotify.com/album/4Mcskf47gWi879M1qQiOUB"
-      },
-      "artists": [
-        {
-          "name": "Ebucs",
-          "url": "https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ"
-        },
-        {
-          "name": "Sail North",
-          "url": "https://open.spotify.com/artist/0Gtv3Wi6jj0lW1Po5QbIGS"
-        }
-      ],
-      "duration_ms": 143486,
-      "name": "Soldier, Poet, King",
-      "url": "https://open.spotify.com/track/0lVzzhC2JzHb39k94la7LE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fruit del Deliri",
-        "url": "https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v"
-      },
-      "artists": [
-        {
-          "name": "Oques Grasses",
-          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
-        }
-      ],
-      "duration_ms": 188646,
-      "name": "JUBILAR-ME",
-      "url": "https://open.spotify.com/track/5NnVYDzchKktmiDCGZgvtd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Explorers",
-        "url": "https://open.spotify.com/album/4WJhOrVgd62jxH0wWh6Qfh"
-      },
-      "artists": [
-        {
-          "name": "Unleash The Archers",
-          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
-        }
-      ],
-      "duration_ms": 275648,
-      "name": "Northwest Passage",
-      "url": "https://open.spotify.com/track/3Fiz4tFoVBosOUm2uMgdlL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Grave but the Sea (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "No Grave but the Sea",
-      "url": "https://open.spotify.com/track/5ZOCDXK5pMJ3n3zBPTp1uT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Mother Told Me",
-        "url": "https://open.spotify.com/album/4X9vo6N8xAjXjl2Fbh3fnF"
-      },
-      "artists": [
-        {
-          "name": "Peyton Parrish",
-          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
-        }
-      ],
-      "duration_ms": 130595,
-      "name": "My Mother Told Me",
-      "url": "https://open.spotify.com/track/5gLpCl0yle8f2C1YECQq0x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Level 12",
-        "url": "https://open.spotify.com/album/4HUG49D7cBMLrcavbReCG8"
-      },
-      "artists": [
-        {
-          "name": "Miracle Of Sound",
-          "url": "https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq"
-        }
-      ],
-      "duration_ms": 152880,
-      "name": "Onwards We Row",
-      "url": "https://open.spotify.com/track/3RZE2ndwmJX4eqEiSmQBRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skull and Bones",
-        "url": "https://open.spotify.com/album/3G2wqUED0faS7DpU4PqrZ2"
-      },
-      "artists": [
-        {
-          "name": "The Bass Gang",
-          "url": "https://open.spotify.com/artist/3cd0BrPWwl7vTQ6rteoRx3"
-        }
-      ],
-      "duration_ms": 206713,
-      "name": "Skull and Bones",
-      "url": "https://open.spotify.com/track/4ojjVcjnBTOdJQC7Cp7lYw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wellerman",
-        "url": "https://open.spotify.com/album/4RliBq5vYtT4JlUX8mZ3ca"
-      },
-      "artists": [
-        {
-          "name": "Sail North",
-          "url": "https://open.spotify.com/artist/0Gtv3Wi6jj0lW1Po5QbIGS"
-        }
-      ],
-      "duration_ms": 198143,
-      "name": "Wellerman",
-      "url": "https://open.spotify.com/track/13JocjNcjQWVRezEOaGKm7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE WORLD EP.FIN : WILL",
-        "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 229251,
-      "name": "WE KNOW",
-      "url": "https://open.spotify.com/track/6kgKJoTZgfxCmtb4gubA68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Green Willow",
-        "url": "https://open.spotify.com/album/6HVNIiWpCHWnywrs1zStLi"
-      },
-      "artists": [
-        {
-          "name": "The Dreadnoughts",
-          "url": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Spanish Ladies",
-      "url": "https://open.spotify.com/track/3HJ5gmLEDmG2g3kHoLTAoQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cures What Ails Ya",
-        "url": "https://open.spotify.com/album/3QJ7RrEiFxTKXvV7UssO4Y"
-      },
-      "artists": [
-        {
-          "name": "The Longest Johns",
-          "url": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/3PLRptZT0I2z0cgmhNRoJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drunken Sailor",
-        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
-      },
-      "artists": [
-        {
-          "name": "The Irish Rovers",
-          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "Drunken Sailor",
-      "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Assassin's Creed 4: Black Flag (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        },
-        {
-          "name": "Assassin's Creed",
-          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "The High Seas",
-      "url": "https://open.spotify.com/track/0QI1IQbCigfH2kkSdNfvpO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can\u00e7ons d'amor",
-        "url": "https://open.spotify.com/album/6v8WZnA0Fn6z7Ay2tDjRUL"
-      },
-      "artists": [
-        {
-          "name": "Els Catarres",
-          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
-        },
-        {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        }
-      ],
-      "duration_ms": 170180,
-      "name": "Can\u00e7ons d'amor",
-      "url": "https://open.spotify.com/track/0tT70siAMiuzOmjGyW6jZK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seventh Rum of a Seventh Rum (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7xYjWaUSB5Kx0T5wHZXFJM"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "Under Blackened Banners",
-      "url": "https://open.spotify.com/track/0ymLWjGaCmucke46otzDBY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inkebrantable (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3ItaK5SIFawDGriw5tvv1Q"
-      },
-      "artists": [
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
-      "url": "https://open.spotify.com/track/5QC4M7w5XI334qqyz5REK0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Level 4",
-        "url": "https://open.spotify.com/album/30VEZ73YB9ruCGHH5sLMXA"
-      },
-      "artists": [
-        {
-          "name": "Miracle Of Sound",
-          "url": "https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq"
-        }
-      ],
-      "duration_ms": 160310,
-      "name": "Beneath the Black Flag",
-      "url": "https://open.spotify.com/track/2zArZLju0wf5xhaMzPWx4N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ring Ding (A Scotsman's Story)",
-        "url": "https://open.spotify.com/album/52kOlMRnBFiH3umDbuMHQP"
+        "name": "Wellerman - The Album",
+        "url": "https://open.spotify.com/album/58ERFMzxMJbnclKR2qcUc8"
       },
       "artists": [
         {
@@ -676,15 +384,99 @@
           "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
         }
       ],
-      "duration_ms": 141546,
-      "name": "Ring Ding (A Scotsman's Story)",
-      "url": "https://open.spotify.com/track/0HIJNbuKSYJZDMPGkEzW4y"
+      "duration_ms": 142493,
+      "name": "Bully Boys",
+      "url": "https://open.spotify.com/track/3NoczlBuJuFVQWKVCSO6Xf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tales of Luria",
-        "url": "https://open.spotify.com/album/4Mg5pFxlXCzmOzLe0PMYyy"
+        "name": "TOT EST\u00c0 PER FER",
+        "url": "https://open.spotify.com/album/0hERmYkJ52X2YwcV86dFsZ"
+      },
+      "artists": [
+        {
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
+        },
+        {
+          "name": "NAINA",
+          "url": "https://open.spotify.com/artist/7gRLhBBDqymilvP1W2GIqR"
+        }
+      ],
+      "duration_ms": 168289,
+      "name": "QUE TIA!",
+      "url": "https://open.spotify.com/track/0rUJLLIJTJap4vOptloi4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA CAL\u00c7OTADA",
+        "url": "https://open.spotify.com/album/6HSvBc3euvGwa5kCDcfAkF"
+      },
+      "artists": [
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "SOLUCIONS i NO PROBLEMES",
+      "url": "https://open.spotify.com/track/4ZwCcWOVTwvKwSuFbhiafN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fans del Sol",
+        "url": "https://open.spotify.com/album/1SZqEiFZ3Tjs2XyfHXNPGt"
+      },
+      "artists": [
+        {
+          "name": "Oques Grasses",
+          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Serem Ocells",
+      "url": "https://open.spotify.com/track/1OhTU9Vr08VrEAa0kJ98u8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunset on the Golden Age (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6iH0S6fRHf63zQChG77iau"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/3S5AYyv0RYxNbUotueY32I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Shall Sail Together (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5RavM0tHAVB19OqEK4dXNJ"
+      },
+      "artists": [
+        {
+          "name": "Sea of Thieves",
+          "url": "https://open.spotify.com/artist/5zbAdSKQiTetVoHnbHvsDg"
+        }
+      ],
+      "duration_ms": 126464,
+      "name": "We Shall Sail Together - Original Game Soundtrack",
+      "url": "https://open.spotify.com/track/7cdmELYEknyXkoZq8mgdty"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes From The Helm",
+        "url": "https://open.spotify.com/album/5TrdR2PWE9IX7OCihrbt2m"
       },
       "artists": [
         {
@@ -692,31 +484,71 @@
           "url": "https://open.spotify.com/artist/0Gtv3Wi6jj0lW1Po5QbIGS"
         }
       ],
-      "duration_ms": 222600,
-      "name": "Tales of Luria",
-      "url": "https://open.spotify.com/track/02Zq3Oyp05Y5JzPe0oMmGO"
+      "duration_ms": 154222,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/4MLBs209dJgRpKEQg8OPTQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "THE WORLD EP.2 : OUTLAW",
-        "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
+        "name": "Pirates Of The Caribbean: At World's End Original Soundtrack",
+        "url": "https://open.spotify.com/album/6JoI0NEAqeJ20X6lU3Drx0"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 199306,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/6UM7j0WbcGtk06c6pGKiQ6"
+      "duration_ms": 182840,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/3WzWQ16x6zEU1zSs0eLFbn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Into the North",
-        "url": "https://open.spotify.com/album/1g84xvbdSXQtCIfC5qbPqi"
+        "name": "Sleeping in the Cold Below (From \"Warframe\")",
+        "url": "https://open.spotify.com/album/7cPsdxl33kxaYXhJs7F8v3"
+      },
+      "artists": [
+        {
+          "name": "Keith Power",
+          "url": "https://open.spotify.com/artist/1CY3FNIK3p5bqE0NYiFMi8"
+        },
+        {
+          "name": "Alan Doyle",
+          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
+        },
+        {
+          "name": "Damhnait Doyle",
+          "url": "https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB"
+        }
+      ],
+      "duration_ms": 211450,
+      "name": "Sleeping in the Cold Below (From \"Warframe\")",
+      "url": "https://open.spotify.com/track/7nq8DgNdgYGihJrZYB221C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tales from the Wasteland",
+        "url": "https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bastard",
+          "url": "https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8"
+        }
+      ],
+      "duration_ms": 100573,
+      "name": "My Son John",
+      "url": "https://open.spotify.com/track/6PxC0ilHOSZGO6ASrktNv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polka's Not Dead",
+        "url": "https://open.spotify.com/album/0eZqBQ18noQbDamEiZ1bO4"
       },
       "artists": [
         {
@@ -724,9 +556,25 @@
           "url": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Joli Rouge",
-      "url": "https://open.spotify.com/track/2qcJlvTA6cqdgNqJdFMm3A"
+      "duration_ms": 189560,
+      "name": "Sleep Is for the Weak",
+      "url": "https://open.spotify.com/track/7GpEXoONYLhbckfiNT6qu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wellerman - The Album",
+        "url": "https://open.spotify.com/album/58ERFMzxMJbnclKR2qcUc8"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "The Last Shanty",
+      "url": "https://open.spotify.com/track/6Alt0LWx7l6W0JIArM3eXS"
     },
     {
       "added_at": null,
@@ -747,6 +595,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs and Curses",
+        "url": "https://open.spotify.com/album/3xqo4Fm6W0b5niKL7W3IqO"
+      },
+      "artists": [
+        {
+          "name": "Ye Banished Privateers",
+          "url": "https://open.spotify.com/artist/16f8bHHqNwQWgqWMYyS9ij"
+        }
+      ],
+      "duration_ms": 122237,
+      "name": "Welcome to Tortuga",
+      "url": "https://open.spotify.com/track/5Ka2fQyqSyf3A8mU8DrDIp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Northwest Passage",
+        "url": "https://open.spotify.com/album/1uxFTi6RV7HBJDo29uB8No"
+      },
+      "artists": [
+        {
+          "name": "Stan Rogers",
+          "url": "https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "Northwest Passage",
+      "url": "https://open.spotify.com/track/2QoXPRkatnM5RLBMOiOhdt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Grave but the Sea (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Fucked with an Anchor",
+      "url": "https://open.spotify.com/track/6ySfvnEGsR5keLq9f3i1AU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 211765,
+      "name": "Cangrinaje",
+      "url": "https://open.spotify.com/track/5V1YyUMhty1NCO3zVePAtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leave Her, Johnny",
+        "url": "https://open.spotify.com/album/0ngsEdZMvJ6LJVa1MmDPxb"
+      },
+      "artists": [
+        {
+          "name": "Sail North",
+          "url": "https://open.spotify.com/artist/0Gtv3Wi6jj0lW1Po5QbIGS"
+        }
+      ],
+      "duration_ms": 177577,
+      "name": "Leave Her, Johnny",
+      "url": "https://open.spotify.com/track/4mnweKFE7XKxcXrqk1ZP2c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pirates of the Caribbean: On Stranger Tides",
         "url": "https://open.spotify.com/album/2RkWo1xomg2mBR8ydABsab"
       },
@@ -756,47 +684,143 @@
           "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 100520,
-      "name": "Guilty of Being Innocent of Being Jack Sparrow - From \"Pirates of the Caribbean: On Stranger Tides\"/Score",
-      "url": "https://open.spotify.com/track/0ahHgsbKvBEd3yYQmxHBoj"
+      "duration_ms": 303600,
+      "name": "Blackbeard - From \"Pirates of the Caribbean: On Stranger Tides\"/Score",
+      "url": "https://open.spotify.com/track/6JEISXSOVtydoAt7NcRGR6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "To The Devil's Shore",
-        "url": "https://open.spotify.com/album/3YpgFdJo9SUkSAZOpT1T2m"
+        "name": "Haithabu - Im Auge des Sturms",
+        "url": "https://open.spotify.com/album/0R0eCcwbLD7HLzMkOhYO2v"
       },
       "artists": [
         {
-          "name": "A Wildheart's Tale",
-          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
+          "name": "Santiano",
+          "url": "https://open.spotify.com/artist/6E9zde1CFsBtKI66OEHkk3"
         }
       ],
-      "duration_ms": 168439,
-      "name": "To The Devil's Shore",
-      "url": "https://open.spotify.com/track/3zOcsPXRkV1K6nbNRLzRoZ"
+      "duration_ms": 180600,
+      "name": "M\u00e4dchen von Haithabu",
+      "url": "https://open.spotify.com/track/5UkLsIclslNLvrHILCy5MT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Valhalla Calling",
-        "url": "https://open.spotify.com/album/5kDTYEebGxSdu4oGThNd5g"
+        "name": "Distant Shores",
+        "url": "https://open.spotify.com/album/4YkKsDoRS13K3jY1MwhnFN"
       },
       "artists": [
         {
-          "name": "Peyton Parrish",
-          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+          "name": "Perly I Lotry",
+          "url": "https://open.spotify.com/artist/7aIbYf49waEyLNCyBG4BsG"
         }
       ],
-      "duration_ms": 212330,
-      "name": "Valhalla Calling",
-      "url": "https://open.spotify.com/track/48cCKMyLZJrpKLkMyco1XX"
+      "duration_ms": 127254,
+      "name": "Song of the Vikings (My Mother Told Me)",
+      "url": "https://open.spotify.com/track/0cc6vT6QJA8e39CiCGmA8B"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Curse of the Crystal Coconut (Deluxe Version)",
-        "url": "https://open.spotify.com/album/358YHRqslH5vpQET8b6wmb"
+        "name": "Espremedors",
+        "url": "https://open.spotify.com/album/10XlNlxG495kxZrDNIfOXZ"
+      },
+      "artists": [
+        {
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
+        },
+        {
+          "name": "ZOO",
+          "url": "https://open.spotify.com/artist/7a3ryRcO3alwbqaX4RagzM"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "La Ferida",
+      "url": "https://open.spotify.com/track/0Mv5YvIemCXJJTgbgllH28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/1933MAtzQmpA0GVcJvuXlN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        }
+      ],
+      "duration_ms": 142994,
+      "name": "Flowers In The Water",
+      "url": "https://open.spotify.com/track/5bZ3fzofwJmktVhWFc6qxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Assassin's Creed 4: Black Flag (Sea Shanty Edition, Vol. 2) [Original Game Soundtrack]",
+        "url": "https://open.spotify.com/album/3xIHHyUh7RTAzLzXUzksBB"
+      },
+      "artists": [
+        {
+          "name": "Nils Brown",
+          "url": "https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu"
+        },
+        {
+          "name": "Sean Dagher",
+          "url": "https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw"
+        },
+        {
+          "name": "Clayton Kennedy",
+          "url": "https://open.spotify.com/artist/3ZBJsOEjp8s1b3aQn4sE4U"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Lowlands Away",
+      "url": "https://open.spotify.com/track/0xQulEotE4SkbS4hpi9P9X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails (A Starz Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Theme from Black Sails",
+      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOLDEN HOUR : Part.3 'In Your Fantasy Edition'",
+        "url": "https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 167687,
+      "name": "Slide to me (YUNHO)",
+      "url": "https://open.spotify.com/track/3acG1smdVAPB6TPjWkyQK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back Through Time",
+        "url": "https://open.spotify.com/album/2Q4W4EUKHBC1VQvWWi9YJq"
       },
       "artists": [
         {
@@ -804,45 +828,57 @@
           "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
         }
       ],
-      "duration_ms": 304916,
-      "name": "Zombies Ate My Pirate Ship",
-      "url": "https://open.spotify.com/track/5EVqJG5Gnqmpzq33TJbo89"
+      "duration_ms": 210573,
+      "name": "Shipwrecked",
+      "url": "https://open.spotify.com/track/6BA3vSZBblrzRssJuylu0l"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dear Wormwood",
-        "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
+        "name": "Lost at Sea",
+        "url": "https://open.spotify.com/album/7ji3o6rhKwuoIocpv03EXi"
       },
       "artists": [
         {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+          "name": "Fin Argus",
+          "url": "https://open.spotify.com/artist/1oDUPFTxn5JyS8MxUe9ko4"
         }
       ],
-      "duration_ms": 165673,
-      "name": "Soldier, Poet, King",
-      "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+      "duration_ms": 229167,
+      "name": "Abandon Ship",
+      "url": "https://open.spotify.com/track/54iLOOKMxroN9P3Acya4YF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LA CAL\u00c7OTADA",
-        "url": "https://open.spotify.com/album/6HSvBc3euvGwa5kCDcfAkF"
+        "name": "Echoes From The Helm",
+        "url": "https://open.spotify.com/album/5TrdR2PWE9IX7OCihrbt2m"
       },
       "artists": [
         {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
-        },
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+          "name": "Sail North",
+          "url": "https://open.spotify.com/artist/0Gtv3Wi6jj0lW1Po5QbIGS"
         }
       ],
-      "duration_ms": 162471,
-      "name": "DIABLA",
-      "url": "https://open.spotify.com/track/5zfVQFZ6T20uTip2mti2pn"
+      "duration_ms": 185230,
+      "name": "Santiana",
+      "url": "https://open.spotify.com/track/27PbZ7TH2RPoxBqFZ0lDG1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pirates Of The Caribbean: At World's End Original Soundtrack",
+        "url": "https://open.spotify.com/album/6JoI0NEAqeJ20X6lU3Drx0"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/2wbN4OiwGcUXXpR6xKkugA"
     }
   ],
   "unique_name": "Pirate Mix",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 132870,
+  "num_followers": 132889,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACl5264OGAZum0rc2OonUgJ",
+  "snapshot_id": "aQqTgAAAAABx3Qzelo5d8RskqoGr7r7C",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Helter Skelter",
-        "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
         }
       ],
-      "duration_ms": 215937,
-      "name": "Helter Skelter",
-      "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
+      "duration_ms": 163066,
+      "name": "Well, Everybody's Fucking In A U.F.O.",
+      "url": "https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i"
     },
     {
       "added_at": null,
@@ -127,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "Helter Skelter",
+        "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
         }
       ],
-      "duration_ms": 163066,
-      "name": "Well, Everybody's Fucking In A U.F.O.",
-      "url": "https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i"
+      "duration_ms": 215937,
+      "name": "Helter Skelter",
+      "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "We\u2019re An American Band",
-      "url": "https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 234106,
       "name": "The Great American Nightmare",
       "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "We\u2019re An American Band",
+      "url": "https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Rock And Roll (In A Black Hole)",
-      "url": "https://open.spotify.com/track/68lAwyltMYzUg3D5SF7M40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Halloween Hootenanny",
         "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 170066,
       "name": "Halloween (She's So Mean)",
       "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Rock And Roll (In A Black Hole)",
+      "url": "https://open.spotify.com/track/68lAwyltMYzUg3D5SF7M40"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 198986,
-      "name": "Ging Gang Gong De Do Gong De Laga Raga",
-      "url": "https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 228693,
       "name": "Brick House 2003",
       "url": "https://open.spotify.com/track/45s7brWN56HC9xzQz8hHuR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Ging Gang Gong De Do Gong De Laga Raga",
+      "url": "https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "Teenage Nosferatu Pussy",
-      "url": "https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 163333,
       "name": "Blitzkrieg Bop",
       "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Teenage Nosferatu Pussy",
+      "url": "https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8"
     },
     {
       "added_at": null,

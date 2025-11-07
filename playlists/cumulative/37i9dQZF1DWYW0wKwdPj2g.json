@@ -288,7 +288,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 429531,
       "name": "AYE NLA (Live)",
       "url": "https://open.spotify.com/track/7grODwKMciTgZwqH6Ho7eR"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 714119,
       "name": "Do to Me What You Want",
       "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Full Surrender (Live)",
+        "url": "https://open.spotify.com/album/35c3pfkXamPsGb7Wdh6TuA"
+      },
+      "artists": [
+        {
+          "name": "Rivers Worship",
+          "url": "https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360539,
+      "name": "Full Surrender (Live)",
+      "url": "https://open.spotify.com/track/7ECm6U66LhwROK4CvqcnD2"
+    },
+    {
+      "album": {
         "name": "Heaven's Scroll (Live)",
         "url": "https://open.spotify.com/album/0IdIW30hdyEVScUQdr4UyV"
       },
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 296702,
       "name": "Holy Lord (Live)",
       "url": "https://open.spotify.com/track/38UeQ10f009YHdlJn4yJNw"
@@ -2094,6 +2112,28 @@
       "duration_ms": 325013,
       "name": "Igama Lakho - Live At Carnival City / 2024",
       "url": "https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT"
+    },
+    {
+      "album": {
+        "name": "Intentional (Live)",
+        "url": "https://open.spotify.com/album/6yMLEDdygjKKaJjJMOjzTb"
+      },
+      "artists": [
+        {
+          "name": "Same OG",
+          "url": "https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i"
+        },
+        {
+          "name": "David Nkennor",
+          "url": "https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332936,
+      "name": "Intentional - Live",
+      "url": "https://open.spotify.com/track/0xMuFvwxOuOudRAwdtfmZR"
     },
     {
       "album": {

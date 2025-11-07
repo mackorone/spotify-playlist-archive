@@ -1,29 +1,13 @@
 {
   "description": "The home of Canadian country music. Cover: Meghan Patrick",
-  "num_followers": 83406,
+  "num_followers": 83413,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC4TT+muo2iUNAOFfZk+m7lwiE3O",
+  "snapshot_id": "AAAAALIwMYKAsZhj72ZviXM4CSGpVP8S",
   "tracks": [
-    {
-      "added_at": "2025-10-31 00:01:28",
-      "album": {
-        "name": "Sometimes It Don't",
-        "url": "https://open.spotify.com/album/0MIECkZ8dgC88NARYDTkS2"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        }
-      ],
-      "duration_ms": 210182,
-      "name": "Sometimes It Don't",
-      "url": "https://open.spotify.com/track/1V6ImmKDA2wOXfcJdAr4DW"
-    },
     {
       "added_at": "2025-10-24 04:25:20",
       "album": {
@@ -39,38 +23,6 @@
       "duration_ms": 210215,
       "name": "Both Can Be True",
       "url": "https://open.spotify.com/track/18oBIkNn8F7ACUvppfjE8n"
-    },
-    {
-      "added_at": "2025-10-31 00:01:28",
-      "album": {
-        "name": "The Longer You Hold On",
-        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "The Longer You Hold On",
-      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
-    },
-    {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
-      },
-      "artists": [
-        {
-          "name": "Emmett Jerome",
-          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
     },
     {
       "added_at": "2025-10-24 04:25:20",
@@ -89,6 +41,42 @@
       "url": "https://open.spotify.com/track/1J8iR4bAww6TtmRmzqe9Si"
     },
     {
+      "added_at": "2025-11-07 00:01:45",
+      "album": {
+        "name": "One Good Life",
+        "url": "https://open.spotify.com/album/6oen1zKzVOJUWOdN2rtePz"
+      },
+      "artists": [
+        {
+          "name": "Shawn Desman",
+          "url": "https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV"
+        },
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "One Good Life",
+      "url": "https://open.spotify.com/track/29CCh6aLhAgPRN4TWpRBXB"
+    },
+    {
+      "added_at": "2025-11-07 00:01:45",
+      "album": {
+        "name": "RENT FREE",
+        "url": "https://open.spotify.com/album/0oWZhVNcbt2SJVef302nzG"
+      },
+      "artists": [
+        {
+          "name": "Elyse Saunders",
+          "url": "https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "RENT FREE",
+      "url": "https://open.spotify.com/track/0aVHXmSUizaqth5OswMMUE"
+    },
+    {
       "added_at": "2025-10-06 15:31:33",
       "album": {
         "name": "Taillight This Town",
@@ -103,6 +91,138 @@
       "duration_ms": 186003,
       "name": "Taillight This Town",
       "url": "https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY"
+    },
+    {
+      "added_at": "2025-11-07 00:01:45",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh"
+    },
+    {
+      "added_at": "2025-10-24 04:25:20",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
+    },
+    {
+      "added_at": "2025-11-07 00:01:45",
+      "album": {
+        "name": "Eldorado (Acoustique)",
+        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
+      },
+      "artists": [
+        {
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
+        },
+        {
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
+        }
+      ],
+      "duration_ms": 197749,
+      "name": "Eldorado - Acoustique",
+      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
+    },
+    {
+      "added_at": "2025-10-31 00:01:28",
+      "album": {
+        "name": "Sometimes It Don't",
+        "url": "https://open.spotify.com/album/0MIECkZ8dgC88NARYDTkS2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 210182,
+      "name": "Sometimes It Don't",
+      "url": "https://open.spotify.com/track/1V6ImmKDA2wOXfcJdAr4DW"
+    },
+    {
+      "added_at": "2025-10-31 00:01:28",
+      "album": {
+        "name": "The Longer You Hold On",
+        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "The Longer You Hold On",
+      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
+    },
+    {
+      "added_at": "2025-11-07 00:01:45",
+      "album": {
+        "name": "Reckless Nights",
+        "url": "https://open.spotify.com/album/4Eglxfn1nm9eE1XPGXSWu8"
+      },
+      "artists": [
+        {
+          "name": "Andy Colonico",
+          "url": "https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO"
+        }
+      ],
+      "duration_ms": 233541,
+      "name": "Reckless Nights",
+      "url": "https://open.spotify.com/track/4GdfLxFLb7NhaIrFopsUPP"
+    },
+    {
+      "added_at": "2025-10-24 04:25:20",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
+    },
+    {
+      "added_at": "2025-11-07 00:01:45",
+      "album": {
+        "name": "Horse Soldier! Horse Soldier! (Dark Horse Edition)",
+        "url": "https://open.spotify.com/album/6wr4NvzNS05jqbx2WEgkl2"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "duration_ms": 174967,
+      "name": "Especially a Paint - Dark Horse Acoustic",
+      "url": "https://open.spotify.com/track/6ZuKLsikgjxC0YHon3tnA1"
     },
     {
       "added_at": "2025-10-31 00:01:28",
@@ -123,22 +243,6 @@
       "duration_ms": 183321,
       "name": "Knew It All Along (With Nic D)",
       "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
-    },
-    {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
     },
     {
       "added_at": "2025-10-24 04:25:20",
@@ -1491,22 +1595,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "Hurt Like Hell",
-        "url": "https://open.spotify.com/album/7tYdOXQYqw7kcVU2WMl5Ab"
-      },
-      "artists": [
-        {
-          "name": "Noah Brigden",
-          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
-        }
-      ],
-      "duration_ms": 217224,
-      "name": "Hurt Like Hell",
-      "url": "https://open.spotify.com/track/2xKhJEyaVHteQSvY2DC6LD"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "As Long As There's A Bar",
         "url": "https://open.spotify.com/album/16YteVMDYXfVk8oAe70u5B"
       },
@@ -1519,58 +1607,6 @@
       "duration_ms": 177362,
       "name": "As Long As There's A Bar",
       "url": "https://open.spotify.com/track/06L3jDgNDAuyQfLYTNS0KO"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Where the Lost Get Found",
-        "url": "https://open.spotify.com/album/3H9kaGrPLYE5oQ1G2aYcM7"
-      },
-      "artists": [
-        {
-          "name": "Wes Mack",
-          "url": "https://open.spotify.com/artist/0FMBtqD2Z6zyzL6f5FJbHX"
-        }
-      ],
-      "duration_ms": 184113,
-      "name": "Where the Lost Get Found",
-      "url": "https://open.spotify.com/track/6N0J1xsDmfcdXpRdWc9v3L"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/2TuEk4nFPSNxcH8ReFTXoY"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/3zCDsRF3PLJ0lMxZo3zsY0"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Can't Put a Price On a Good Time",
-        "url": "https://open.spotify.com/album/6UlPY58mSfLkznk4BC0TNs"
-      },
-      "artists": [
-        {
-          "name": "Andy Colonico",
-          "url": "https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO"
-        },
-        {
-          "name": "Small-Town Strip Club",
-          "url": "https://open.spotify.com/artist/7LzMukwUkFTCHvX9FbC8ol"
-        }
-      ],
-      "duration_ms": 163604,
-      "name": "Can't Put a Price On a Good Time",
-      "url": "https://open.spotify.com/track/1ydyNYQ0CyZpAQMX2SmaTW"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -1619,90 +1655,6 @@
       "duration_ms": 235224,
       "name": "Oh Jesus",
       "url": "https://open.spotify.com/track/2sFc7zjwbOuWbx2tyVgbD3"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "How It Goes",
-        "url": "https://open.spotify.com/album/4ZxXqsKkEDy5KpneZskE77"
-      },
-      "artists": [
-        {
-          "name": "Vince Lemire",
-          "url": "https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN"
-        },
-        {
-          "name": "Trudy",
-          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
-        }
-      ],
-      "duration_ms": 167182,
-      "name": "How It Goes",
-      "url": "https://open.spotify.com/track/13u8s9lWQSQfCXfmW5M4ix"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "You Had To Be There",
-        "url": "https://open.spotify.com/album/0RyKfb0Ex8kCMgkL6cOzM8"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 172907,
-      "name": "You Had To Be There",
-      "url": "https://open.spotify.com/track/14i984cKjuw6x5ubdfaHIu"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Cutting Corners",
-        "url": "https://open.spotify.com/album/4cISv43zIhQaXBe6cZdoTx"
-      },
-      "artists": [
-        {
-          "name": "Angelica Appelman",
-          "url": "https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM"
-        }
-      ],
-      "duration_ms": 184286,
-      "name": "Cutting Corners",
-      "url": "https://open.spotify.com/track/3vqAU08PUq9pC2MMObvCJJ"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "I'm Fine",
-        "url": "https://open.spotify.com/album/1O6Stb7brDHtR1LMLyBNDJ"
-      },
-      "artists": [
-        {
-          "name": "Jessie T",
-          "url": "https://open.spotify.com/artist/45TQzwD5AZZYtzgOOJ6X4O"
-        }
-      ],
-      "duration_ms": 196808,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/46skWJH17EBFpq9SOmS6t5"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Turn Me Loose",
-        "url": "https://open.spotify.com/album/1cm5u4hC20fwbLpUBYGzcF"
-      },
-      "artists": [
-        {
-          "name": "Antonio Larosa",
-          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
-        }
-      ],
-      "duration_ms": 197161,
-      "name": "Turn Me Loose",
-      "url": "https://open.spotify.com/track/2bELkN51EnzYWk3XwSZ4zq"
     }
   ],
   "unique_name": "North Country",

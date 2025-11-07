@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-473 songs - 1 day 0 hr 58 min
+474 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Contesto](https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva) | [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Contesto](https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA) | 3:26 | 2025-07-25 | 2025-11-05 |
 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 | 2025-06-24 |  |
 | [CORAÇAO \- 20th Anniversary Mix](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g) | [Jerry Ropero](https://open.spotify.com/artist/73rKG9PlOR46yTmu2IqnSG), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [CORAÇAO \(20th Anniversary Mix\)](https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p) | 2:55 | 2024-08-30 |  |
-| [Corpo e Canção \- Club Mix](https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Club Mix\)](https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD) | 4:35 | 2024-06-07 |  |
+| [Corpo e Canção \- Club Mix](https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Club Mix\)](https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD) | 4:35 | 2024-06-07 | 2025-11-07 |
+| [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY) | 4:46 | 2025-10-17 |  |
 | [Count on You \- Youngr Bootleg](https://open.spotify.com/track/3LN1zLOeJAKcTyUdBgJ3Uq) | [Autoerotique](https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB), [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5) | [Count on You \(Youngr Bootleg\)](https://open.spotify.com/album/0arJKq46rx9SrWZYmD47aq) | 3:39 | 2022-02-11 | 2022-03-07 |
 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 | 2022-09-30 | 2025-02-17 |
 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 | 2024-03-15 |  |

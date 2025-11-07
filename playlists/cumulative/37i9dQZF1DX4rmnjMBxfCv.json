@@ -2423,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "Hawal",
+        "url": "https://open.spotify.com/album/01KSc7gQ4baTPITVbAkChm"
+      },
+      "artists": [
+        {
+          "name": "El Khatib",
+          "url": "https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Hawal",
+      "url": "https://open.spotify.com/track/7rIhJxBi3zNA0rznuEefIl"
+    },
+    {
+      "album": {
         "name": "Hawlo",
         "url": "https://open.spotify.com/album/22z5UsIINFusXfM9kVYdqr"
       },

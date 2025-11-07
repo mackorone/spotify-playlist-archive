@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-684 songs - 1 day 5 hr 51 min
+685 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8) | 4:04 | 2024-11-08 | 2025-01-25 |
 | [Moon Over The Sea](https://open.spotify.com/track/0CW2CierRaSZ1T4zB2VuvA) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Moon Over The Sea](https://open.spotify.com/album/1OaRUJ0SYlGfOetqTsy3vg) | 2:14 | 2025-05-23 | 2025-06-14 |
 | [Moonbath](https://open.spotify.com/track/4YJgokXX4mOOPgwMzbwpx0) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [Moonbath](https://open.spotify.com/album/2w3wSYzcxUANJ3j25f8kK4) | 2:08 | 2025-04-18 | 2025-04-21 |
-| [mooncircle](https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [mooncircle](https://open.spotify.com/album/0qVFOEsmY7q9dE4EylGspz) | 2:04 | 2025-09-12 |  |
+| [mooncircle](https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [mooncircle](https://open.spotify.com/album/0qVFOEsmY7q9dE4EylGspz) | 2:04 | 2025-09-12 | 2025-11-07 |
 | [Moonglade](https://open.spotify.com/track/4fmzTCgOgTj8dB3Cb3YwjE) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Moonglade](https://open.spotify.com/album/2xQdVIZ7DksIupufbmHnq9) | 2:03 | 2025-03-14 | 2025-03-23 |
 | [Moonlight](https://open.spotify.com/track/6ich2rsYphd2p6Bp8mRpw8) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [Jones McJonsen](https://open.spotify.com/artist/7HOOvYURNE4ioNmIPclYhZ) | [Moonlight](https://open.spotify.com/album/521pzIYi6SV9enr8XXqzjE) | 1:51 | 2025-05-16 | 2025-06-07 |
 | [Moonlite](https://open.spotify.com/track/5uzmg0ccdavfs2rtoHI6e2) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:53 | 2023-08-22 | 2023-08-26 |
@@ -668,6 +668,7 @@
 | [Waiting](https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Waiting](https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC) | 3:01 | 2023-08-22 | 2024-12-09 |
 | [warm oceans](https://open.spotify.com/track/49J1knV6TE0yZw3qFh5vdi) | [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa), [Choson Wan](https://open.spotify.com/artist/7DkwMh1UTUV50kH6LbZd3q), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [warm oceans](https://open.spotify.com/album/55mkAyXtpdMfwdaSm32W9I) | 1:57 | 2025-04-11 |  |
 | [Warmth](https://open.spotify.com/track/5xcse24DCIYJeRr5lTZPTR) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Warmth](https://open.spotify.com/album/6tN1rF4AViLLKG30Iw5dve) | 1:51 | 2025-05-23 |  |
+| [Washed in Vermillion](https://open.spotify.com/track/2iVDPydX7QsgR7IY3PSQBD) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Washed in Vermillion](https://open.spotify.com/album/7u1fhd2dzeo0dLL8yJdNxt) | 2:10 | 2025-10-24 |  |
 | [Water Reflections](https://open.spotify.com/track/6oJdNQwY3q3rajH52K2aG1) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A), [Cali Soul](https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6) | [Water Reflections](https://open.spotify.com/album/2DfBvCJZs7lLG5QIIXXNFl) | 1:59 | 2025-10-24 |  |
 | [Watten Koma](https://open.spotify.com/track/7mBrEy4wcd9qgeRxFbeM0l) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Watten Koma](https://open.spotify.com/album/27iTKwjCTjPHgWEqBUMGxM) | 2:15 | 2023-10-13 | 2024-08-27 |
 | [wellsee](https://open.spotify.com/track/6voTXsVbqTzczo7amKRsFN) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [wellsee](https://open.spotify.com/album/5xaIEnxiUIi4LNO3HS24o4) | 2:08 | 2024-11-15 |  |

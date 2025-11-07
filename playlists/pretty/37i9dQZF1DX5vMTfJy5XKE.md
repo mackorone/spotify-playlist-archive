@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,841 likes - 62 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,010 likes - 62 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 14 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 15 | [Christmas Is Killing Me](https://open.spotify.com/track/1xtlEoY8yW3FzttzUUrvWw) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Taylor Momsen's Pretty Reckless Christmas](https://open.spotify.com/album/6Y9WENXPwpVPnfrWKVYhB2) | 2:22 |
 | 16 | [Wouldn’t Be Christmas](https://open.spotify.com/track/5GV4Vgimh8KiSf5UsW5W9o) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Volume 2\)](https://open.spotify.com/album/2b36acHD0MJvIT82Zoc6tV) | 3:26 |
-| 17 | [All I Want For Christmas Is You \- \(Single Mix\)](https://open.spotify.com/track/33D3lDroHTbXhV72zXw7AP) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All I Want For Christmas Is You](https://open.spotify.com/album/6WRptbLc5SL0X7Qy0zdfUu) | 3:27 |
+| 17 | [All I Want For Christmas Is You \- Single Mix](https://open.spotify.com/track/33D3lDroHTbXhV72zXw7AP) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All I Want For Christmas Is You](https://open.spotify.com/album/6WRptbLc5SL0X7Qy0zdfUu) | 3:27 |
 | 18 | [EVERY SEASON](https://open.spotify.com/track/0wrXgd0ahDcEnlk2OEtWGT) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [EVERY SEASON](https://open.spotify.com/album/4AOZSEBX1Azjw8lRladcSi) | 3:47 |
 | 19 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
 | 20 | [Cozy With You](https://open.spotify.com/track/5S4sP2EWshCKdgnkgXSnMo) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [Unexpected Christmas](https://open.spotify.com/artist/0qePRQjafpaJAm9Ju2Z6Xk) | [Unexpected Christmas: The Soundtrack](https://open.spotify.com/album/5BUDEv0cjYopJuvTxKb177) | 3:01 |

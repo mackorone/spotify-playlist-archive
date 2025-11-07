@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269248,
+  "num_followers": 269255,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAlgZ466MnRmJonaa3IHV2Q",
+  "snapshot_id": "aQqTgAAAAAC+NJoi0po2I0VyJ2c6G+qm",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Altar (Altar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
+        "name": "Meu Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
       },
       "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 408720,
-      "name": "Altar (Altar) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+      "duration_ms": 520935,
+      "name": "Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
+        "name": "Altar (Altar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
       },
       "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 520935,
-      "name": "Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
+      "duration_ms": 408720,
+      "name": "Altar (Altar) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
     },
     {
       "added_at": null,

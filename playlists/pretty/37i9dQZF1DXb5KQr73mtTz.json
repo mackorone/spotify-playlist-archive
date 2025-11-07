@@ -1,31 +1,127 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 20408,
+  "num_followers": 20413,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK3lwu0pB1sRq3Hp0kvewg+ZJmoE",
+  "snapshot_id": "AAAAAMQFeviBUP09rpcX+cZWGzK44iBh",
   "tracks": [
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/2z830ZHkbqlvHSP3o2BtWf"
+        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
       },
       "artists": [
         {
-          "name": "Park Jang Hyun",
-          "url": "https://open.spotify.com/artist/0aQHn3glDk5hK63KnE3ZpO"
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/7iPjaDwNB8zFDGCdZOQwME"
+      "duration_ms": 177000,
+      "name": "A Day",
+      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "Last Promise",
+        "url": "https://open.spotify.com/album/1RjWMmrAfaXvYtwOTfbgsY"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "Last Promise",
+      "url": "https://open.spotify.com/track/7LFoFmLJW7WW341o6Lb1TW"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/01SstNr2NESSMRU11yvCpQ"
+      },
+      "artists": [
+        {
+          "name": "Yoo Hwe Seung",
+          "url": "https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1xVUu2AbjTJTEvQI2rpEpp"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "beautiful",
+        "url": "https://open.spotify.com/album/6Tesrm78R6HujygeuC74l8"
+      },
+      "artists": [
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7"
+        }
+      ],
+      "duration_ms": 171346,
+      "name": "beautiful",
+      "url": "https://open.spotify.com/track/2iTIccPiyyQDATAk32V1jq"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "These memories are like a movie (2025)",
+        "url": "https://open.spotify.com/album/3doGgB8CupneS8US4D3EVH"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 306331,
+      "name": "These memories are like a movie (2025)",
+      "url": "https://open.spotify.com/track/18igOz3pxDmwz9TPRkTNeG"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "My Youth (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/6V8zQCogf0Nxlwm9CakIJu"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "The season of our beginning",
+      "url": "https://open.spotify.com/track/103b4ZkHWGyGJtU4VbWjWF"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "Would You Marry Me?, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "I\u2019m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Bon Appetit Your Majesty (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ"
@@ -41,23 +137,7 @@
       "url": "https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "To The Moon, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 234832,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
@@ -73,23 +153,7 @@
       "url": "https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
-        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
-      },
-      "artists": [
-        {
-          "name": "Nam Gyu ri",
-          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
-        }
-      ],
-      "duration_ms": 202142,
-      "name": "Sorrow at my door(Prod. ROCOBERRY)",
-      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
@@ -105,23 +169,7 @@
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "Hospital",
-        "url": "https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK"
-      },
-      "artists": [
-        {
-          "name": "Redoor",
-          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Shadow of You",
-      "url": "https://open.spotify.com/track/0dYn8RJrjXi5jh7pnhrcZi"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Sadder Than Yesterday",
         "url": "https://open.spotify.com/album/13aoKP5epMSJuTQuvM6N5N"
@@ -137,23 +185,7 @@
       "url": "https://open.spotify.com/track/4PBtSN6dNFXA9RUkx5e3W9"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "\ub9d0\ub85c\ub9cc \uc0ac\ub791\ud55c\ub2e4\uace0 \uac70\uc9d3\ub9d0 \uc880 \uadf8\ub9cc\ud574",
-        "url": "https://open.spotify.com/album/6ewYGYgmpAN8RayV7YQsUp"
-      },
-      "artists": [
-        {
-          "name": "Cha ga eul",
-          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
-        }
-      ],
-      "duration_ms": 218650,
-      "name": "\ub9d0\ub85c\ub9cc \uc0ac\ub791\ud55c\ub2e4\uace0 \uac70\uc9d3\ub9d0 \uc880 \uadf8\ub9cc\ud574",
-      "url": "https://open.spotify.com/track/0iYInFCcdpFoR3z91nKHAR"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
         "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
@@ -169,23 +201,7 @@
       "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "Even if you can't love you can miss (Lee A Young X Desperate Ballad Project)",
-        "url": "https://open.spotify.com/album/75fqDN1Dn74x40CDlNGpWm"
-      },
-      "artists": [
-        {
-          "name": "Lee A Young",
-          "url": "https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Even if you can\u2032t love you can miss",
-      "url": "https://open.spotify.com/track/4072LvIDKA8B3Kmhrk9aQc"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Kim Cheolsu Story",
         "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Even if you leave,",
         "url": "https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
         "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Shape",
         "url": "https://open.spotify.com/album/1rXCbK2LqR1QFQ1LIaOugu"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/4bA9FWOYtBp3eA42auvK72"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Head over Heels, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5"
@@ -333,7 +349,23 @@
       "url": "https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "To The Moon, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 234832,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "The day was beautiful",
         "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Despite it all",
         "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
@@ -381,7 +413,23 @@
       "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Shadow of You",
+      "url": "https://open.spotify.com/track/0dYn8RJrjXi5jh7pnhrcZi"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
@@ -401,7 +449,7 @@
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
@@ -417,23 +465,7 @@
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 281944,
-      "name": "Love Alone",
-      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
@@ -449,7 +481,23 @@
       "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 281944,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
@@ -465,7 +513,7 @@
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "In your heart",
         "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
@@ -481,7 +529,7 @@
       "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
@@ -497,7 +545,7 @@
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
@@ -513,7 +561,7 @@
       "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Head over Heels, Pt. 7 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4jMRD0aqyZQDOxz5rke3s1"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/2tbYDW5Y8jN0XbpT5lPYdt"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "STAR",
         "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "The Dreamest",
         "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Meaningless",
         "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
@@ -577,7 +625,7 @@
       "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "GOOD BOY (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/6coRsiCmV1xstlSAnk0qVM"
@@ -593,7 +641,7 @@
       "url": "https://open.spotify.com/track/6mAOmvG8Yd9EG8eImGiUZq"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "\uaf43",
         "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
@@ -609,7 +657,7 @@
       "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "\uc81c30\ud68c \uc720\uc7ac\ud558 \uc74c\uc545\uacbd\uc5f0\ub300\ud68c",
         "url": "https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO"
@@ -645,7 +693,7 @@
       "url": "https://open.spotify.com/track/5wfmGokIYWd3nanQiZhbUE"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
@@ -661,7 +709,7 @@
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Hierarchy (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ"
@@ -677,7 +725,23 @@
       "url": "https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "Long trip",
+        "url": "https://open.spotify.com/album/0YVX3c7Q05ZkBZSw8IwA20"
+      },
+      "artists": [
+        {
+          "name": "Jang Deok Cheol",
+          "url": "https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Long trip",
+      "url": "https://open.spotify.com/track/1tKNzLT0SRoK6wpZKz6S9r"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "My Liberation Notes OST Part 11",
         "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
@@ -693,7 +757,7 @@
       "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
@@ -709,7 +773,7 @@
       "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "long to be the garden",
         "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
@@ -725,7 +789,23 @@
       "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
     },
     {
-      "added_at": "2025-09-30 06:10:38",
+      "added_at": "2025-11-06 05:22:33",
+      "album": {
+        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
+        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
+      },
+      "artists": [
+        {
+          "name": "Nam Gyu ri",
+          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
+        }
+      ],
+      "duration_ms": 202142,
+      "name": "Sorrow at my door(Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
+    },
+    {
+      "added_at": "2025-11-06 05:22:33",
       "album": {
         "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
@@ -739,90 +819,6 @@
       "duration_ms": 240266,
       "name": "The Island",
       "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "Try (Journey Epilogue)",
-        "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Try (Journey Epilogue)",
-      "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/1GHJYdO0IUEbCMaXNXhZf1"
-      },
-      "artists": [
-        {
-          "name": "LEE YEEUN",
-          "url": "https://open.spotify.com/artist/4yltNNj8uZnhQNh9XyGlwD"
-        },
-        {
-          "name": "Ashatree",
-          "url": "https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up"
-        }
-      ],
-      "duration_ms": 248463,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/02PDptomPdxVlbkYXqcZxn"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "Love me less",
-        "url": "https://open.spotify.com/album/5SsmpyZIaZ0dTXutVXfYll"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Love me less",
-      "url": "https://open.spotify.com/track/44JHypvQnagQCdGNovunSC"
-    },
-    {
-      "added_at": "2025-09-30 06:10:38",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO"
-      },
-      "artists": [
-        {
-          "name": "Lee Seung Gi",
-          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

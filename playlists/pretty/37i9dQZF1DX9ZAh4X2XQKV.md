@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 
 > Karol con alas 💕🪽this is what's up in the world of Latin and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,260 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,299 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 219939,
       "name": "beautiful inside",
       "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 260000,
       "name": "Breath",
       "url": "https://open.spotify.com/track/0sMyYTt90k7yQkAFG7ti8b"
@@ -706,10 +706,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 191331,
       "name": "Cheer Up - Acoustic Version",
       "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
+    },
+    {
+      "album": {
+        "name": "Chocolate, candy, bread, love and dreams!",
+        "url": "https://open.spotify.com/album/4h312U89sSeYyCnnDE2XOC"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Chocolate, candy, bread, love and dreams!",
+      "url": "https://open.spotify.com/track/0Jj5gPHhsrk4m6VQVuhKpU"
     },
     {
       "album": {
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 144391,
       "name": "Han River 220625",
       "url": "https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4"
@@ -2024,6 +2042,24 @@
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+    },
+    {
+      "album": {
+        "name": "In other words it\u2019s all made by Kyeongsuk",
+        "url": "https://open.spotify.com/album/4tzcujfn2vABcEZHyekAxs"
+      },
+      "artists": [
+        {
+          "name": "Lee Kang Seung \uc774\uac15\uc2b9",
+          "url": "https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/66PFcWSVV5PUvwYNZfbd08"
     },
     {
       "album": {
@@ -3540,7 +3576,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 186155,
       "name": "summerless",
       "url": "https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl"
@@ -3623,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "The Young Lover",
+        "url": "https://open.spotify.com/album/7t6I8wuSmjZvCUkE8feG8Q"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Sweetbitter",
+      "url": "https://open.spotify.com/track/11NREXvElBBK1AinDmyyAC"
+    },
+    {
+      "album": {
         "name": "swimming to you (with Jaehyuk Shin)",
         "url": "https://open.spotify.com/album/3N3Zib5i9ZVUoOQc1fIFrR"
       },
@@ -3660,6 +3714,24 @@
       "duration_ms": 261183,
       "name": "Tahiti",
       "url": "https://open.spotify.com/track/2Y6wXSfzN1rWB4Xdr5juE2"
+    },
+    {
+      "album": {
+        "name": "Morning Diaries EP 1",
+        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191873,
+      "name": "Take A Nap",
+      "url": "https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn"
     },
     {
       "album": {
@@ -4284,6 +4356,24 @@
       "duration_ms": 183000,
       "name": "Winded",
       "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
+    },
+    {
+      "album": {
+        "name": "Windy",
+        "url": "https://open.spotify.com/album/4Kz6jdO3mHtVTIIe7jxgDE"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Windy",
+      "url": "https://open.spotify.com/track/5UzaQDCpji2QduDow3HINS"
     },
     {
       "album": {

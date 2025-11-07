@@ -605,6 +605,32 @@
     },
     {
       "album": {
+        "name": "Best Part Of Us",
+        "url": "https://open.spotify.com/album/3JsGft4oeT3b61Xkgy5l0K"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154576,
+      "name": "Best Part Of Us",
+      "url": "https://open.spotify.com/track/1yFpApiykT4FjcOOgudeNO"
+    },
+    {
+      "album": {
         "name": "Best Part Of Us (Acoustic Version)",
         "url": "https://open.spotify.com/album/772h4Njc5s504JivFhxdK8"
       },

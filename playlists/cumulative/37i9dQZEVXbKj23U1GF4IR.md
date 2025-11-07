@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Canada.
 
-2,618 songs - 6 day 3 hr 57 min
+2,619 songs - 6 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,7 +640,7 @@
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:13 | 2021-10-10 | 2022-05-24 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2022-10-15 | 2022-10-18 |
 | [El Dorado](https://open.spotify.com/track/7C1BLYzAvR0KdBpov3GpUZ) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:02 | 2023-08-26 | 2023-09-01 |
-| [Eldest Daughter](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:06 | 2025-10-04 |  |
+| [Eldest Daughter](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:06 | 2025-10-04 | 2025-11-07 |
 | [Eldest Daughter](https://open.spotify.com/track/6iC3L3YmAkGucvJbXKDanA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 4:06 | 2025-10-08 | 2025-10-12 |
 | [Electric Touch \(feat\. Fall Out Boy\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:26 | 2023-07-08 | 2023-07-14 |
 | [Elixir](https://open.spotify.com/track/3BR8HlL8qwywdtd9yw1kSc) | [Annie Chachas](https://open.spotify.com/artist/2ilAHkhaDvDMiEnWInBw4p) | [Elixir](https://open.spotify.com/album/3Bur0AxTxMl788HPjawKvS) | 3:14 | 2025-07-22 | 2025-07-24 |
@@ -1682,6 +1682,7 @@
 | [PAINTING PICTURES](https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/485hROfaw36i4rniIeXPbI) | 2:02 | 2023-03-15 | 2023-03-30 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-22 | 2023-03-08 |
 | [Painting Pictures](https://open.spotify.com/track/6MGsx3Usu6IJbbYFoAOEtv) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/1YUIYk4vwMkEz6WjZBwXaP) | 2:02 | 2023-03-30 | 2023-04-01 |
+| [Palm Trees](https://open.spotify.com/track/1M1r9dp69lg7xlhYfebmzh) | [Miles Gaines](https://open.spotify.com/artist/6Hy2mYM44NLkpB4Toldfoc), [Fashawn](https://open.spotify.com/artist/6sDyTDjzGxcvyhLn5x9RyY) | [Palm Trees](https://open.spotify.com/album/2uvnTLakDMILRa9nNr1PR0) | 2:56 | 2025-11-06 |  |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-08-15 | 2021-08-16 |
 | [PAPERWORK](https://open.spotify.com/track/3IoAMvGFYzM05B64h7qmdf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 2:25 | 2024-02-12 | 2024-02-16 |
 | [PAPERWORK](https://open.spotify.com/track/2yyO7EKRr7c3txi4xCXUFk) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 2:25 | 2024-02-15 | 2024-02-17 |

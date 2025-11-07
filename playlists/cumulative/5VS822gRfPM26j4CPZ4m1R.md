@@ -4,7 +4,7 @@
 
 > Playlist
 
-618 songs - 1 day 12 hr 36 min
+619 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Whatever You Want](https://open.spotify.com/track/2pSiVaQmJSnmROlgSx2tzD) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [Certified Organic](https://open.spotify.com/album/5ymG66yGKMJCwJ9kcu3qTy) | 3:24 | 2023-10-25 |  |
 | [Where In The World](https://open.spotify.com/track/0a7tZWPIi3QQvlxHjaeUfS) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 4:37 | 2023-10-25 |  |
 | [While the Coffee Brews](https://open.spotify.com/track/61fc6AqDklxWHuKwyRVmHE) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Banana Sludge](https://open.spotify.com/album/1UukPqBYfdN54f5RSvSxt0) | 1:45 | 2023-10-25 |  |
+| [Whiskey River](https://open.spotify.com/track/2ccCZk3DGQ6nm8sNH2ck4F) | [Grayson Hamm](https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr) | [Whiskey River](https://open.spotify.com/album/0jBh8fTaj1ih73onffOfgJ) | 4:24 | 2025-11-06 |  |
 | [Whitsand Bay](https://open.spotify.com/track/3MqNmLeDEdrHeNUAtujA0g) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 3:50 | 2023-10-25 |  |
 | [Who Woulda Thought, Pt\. II](https://open.spotify.com/track/5UqVfjbQyKdgco2YA9LjfK) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 3:31 | 2023-10-25 |  |
 | [Why Are You Crying?](https://open.spotify.com/track/3ACWcSWj1F0FwRZBuUxUWy) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 5:24 | 2023-12-11 |  |

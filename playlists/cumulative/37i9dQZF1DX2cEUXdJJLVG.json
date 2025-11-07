@@ -8133,6 +8133,24 @@
     },
     {
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/4z672AUDrtwAGo3xNRIe7A"
+      },
+      "artists": [
+        {
+          "name": "Alannah Chapman",
+          "url": "https://open.spotify.com/artist/0eiHbBXXBUIcn2b34Wmx9V"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127625,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1zYBjrDSq2aahfQyOdL0NB"
+    },
+    {
+      "album": {
         "name": "Yacht World",
         "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },

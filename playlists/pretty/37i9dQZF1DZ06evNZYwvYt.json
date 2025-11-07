@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19388,
+  "num_followers": 19393,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAD7dNCZmWoxkGfIOxQoGCXB",
+  "snapshot_id": "aQqTgAAAAAAYJcv67d5HEvD7HxDs+F83",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
-        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
       "artists": [
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
+      "duration_ms": 238586,
+      "name": "Fui feliz",
+      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
     },
     {
       "added_at": null,
@@ -735,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
+        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
       },
       "artists": [
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 238586,
-      "name": "Fui feliz",
-      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
     },
     {
       "added_at": null,

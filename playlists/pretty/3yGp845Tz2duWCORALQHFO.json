@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26122,
+  "num_followers": 26123,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABkUGDLNDQ1WiHAHirNjdiHvisErX16",
+  "snapshot_id": "AABkVGVZ97AoMKpti9jeZnXBN1vpENWw",
   "tracks": [
     {
       "added_at": "2025-10-31 12:53:47",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/3PzUFEi6vu6fbCGNB7Chds"
     },
     {
+      "added_at": "2025-11-06 20:11:54",
+      "album": {
+        "name": "Best Life",
+        "url": "https://open.spotify.com/album/5pw5zN5WB8gfmxvLJTLZ9T"
+      },
+      "artists": [
+        {
+          "name": "Lusinate",
+          "url": "https://open.spotify.com/artist/0ehERwTSzP6EhM71qhDuIA"
+        }
+      ],
+      "duration_ms": 224546,
+      "name": "Best Life",
+      "url": "https://open.spotify.com/track/5Ol9rvLoKJssaem0Z3g7cz"
+    },
+    {
       "added_at": "2025-11-01 16:05:50",
       "album": {
         "name": "Fly Guy",
@@ -519,6 +535,54 @@
       "duration_ms": 154469,
       "name": "Body On Mine",
       "url": "https://open.spotify.com/track/2xt1mkPxnx0xVDF0Bz927q"
+    },
+    {
+      "added_at": "2025-11-06 20:11:51",
+      "album": {
+        "name": "Filter Me Back",
+        "url": "https://open.spotify.com/album/1DEs3YlvOEpZjMBXHp48Ur"
+      },
+      "artists": [
+        {
+          "name": "DJ Hit-Man",
+          "url": "https://open.spotify.com/artist/0EAhxRRHL0u8MudjvMA1am"
+        }
+      ],
+      "duration_ms": 350666,
+      "name": "Filter Me Back",
+      "url": "https://open.spotify.com/track/6Mk3B07Z1Ha4viwR3h2xxR"
+    },
+    {
+      "added_at": "2025-11-06 20:10:53",
+      "album": {
+        "name": "Duel of Gods",
+        "url": "https://open.spotify.com/album/5qQYdsOMqVZaFHuqvG7tA2"
+      },
+      "artists": [
+        {
+          "name": "Damian Elloway",
+          "url": "https://open.spotify.com/artist/36jTgEoBrINLZsO6i2tMI9"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Duel of Gods - Radio Edit",
+      "url": "https://open.spotify.com/track/79py99VxJc2RFZTUzUBsye"
+    },
+    {
+      "added_at": "2025-11-06 20:10:52",
+      "album": {
+        "name": "My First Dream",
+        "url": "https://open.spotify.com/album/5RjCnrlY2ib4LcCgGEEqdW"
+      },
+      "artists": [
+        {
+          "name": "MeyrAviv",
+          "url": "https://open.spotify.com/artist/6s6aItZuaBeKkRcsscYdpY"
+        }
+      ],
+      "duration_ms": 398479,
+      "name": "My First Dream",
+      "url": "https://open.spotify.com/track/7hRw8fzr37GGdMPEk8axdT"
     },
     {
       "added_at": "2025-11-01 16:06:52",

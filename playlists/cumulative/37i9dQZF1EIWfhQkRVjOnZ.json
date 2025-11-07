@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 244680,
       "name": "1984",
       "url": "https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 253080,
       "name": "An Ocean Between Us",
       "url": "https://open.spotify.com/track/2wVY3XAbaIK0Kw2fzpuTSN"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 217253,
       "name": "Assistant To The Regional Manager",
       "url": "https://open.spotify.com/track/1ZS0Lgc8Esdg0Bf1JO6KF0"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 253373,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1NBLKfycJLSpzYM4zYIB8v"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190106,
       "name": "Confined",
       "url": "https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 241440,
       "name": "Danger: Wildman",
       "url": "https://open.spotify.com/track/1okd0AdSAmPxGOb7z4jFB7"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 243600,
       "name": "Dez Moines",
       "url": "https://open.spotify.com/track/05NRKMTDuXA5ehLLe0wtL0"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 224160,
       "name": "Down, Set, Go",
       "url": "https://open.spotify.com/track/1Kf4N09laoNZfMmvQiIBez"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 212693,
       "name": "Forgive and Forget",
       "url": "https://open.spotify.com/track/1VjODGU3lcOyGgOHotXzxw"
@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "These Are My Sins",
+        "url": "https://open.spotify.com/album/6XLn0RYDd2LloLRMPLAuGG"
+      },
+      "artists": [
+        {
+          "name": "I The Breather",
+          "url": "https://open.spotify.com/artist/6OpFzG0Srh37pwJUdwsETa"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252840,
+      "name": "Forgiven",
+      "url": "https://open.spotify.com/track/4sQxNFf3XDrrO3FVasXR5X"
+    },
+    {
+      "album": {
         "name": "An Ocean Between Us",
         "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
       },
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 318026,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 228386,
       "name": "Hey John, What's Your Name Again?",
       "url": "https://open.spotify.com/track/5SbqioOFRODNHgoHZKLI7c"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 268880,
       "name": "Hush Yael",
       "url": "https://open.spotify.com/track/6YdznQRWvWTAHGv5hDGkA8"
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 189560,
       "name": "In The Wake Of Pigs",
       "url": "https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz"
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 242040,
       "name": "New Medicines",
       "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 220240,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/3G5RbTb3FxQDMP6wxb4zgS"
@@ -2958,7 +2976,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 262573,
       "name": "Reinventing Your Exit",
       "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 211333,
       "name": "So Cold I Could See My Breath",
       "url": "https://open.spotify.com/track/6R3hFLF5jJC7ddCltVbgQz"
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 223880,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w"
@@ -3534,7 +3552,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 270026,
       "name": "Subverse",
       "url": "https://open.spotify.com/track/0TCO8TeKZIwNE5RVxO44BH"
@@ -3552,7 +3570,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 265613,
       "name": "Sword In Mouth, Fire Eyes",
       "url": "https://open.spotify.com/track/5GQlWWb1evGQw5CwZ6iRJg"
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -3696,7 +3714,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
@@ -3822,7 +3840,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 260786,
       "name": "The Sound of Truth",
       "url": "https://open.spotify.com/track/7lYrz70DntWR7o8Sqfz0Ok"
@@ -4254,7 +4272,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
@@ -4362,7 +4380,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 251320,
       "name": "When Everything Falls",
       "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"
@@ -4614,7 +4632,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 145813,
       "name": "World Without A Sun",
       "url": "https://open.spotify.com/track/6lXmSzGnZelDfUR7euqv2C"
@@ -4776,7 +4794,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 184640,
       "name": "Young And Aspiring",
       "url": "https://open.spotify.com/track/5AcWLXw3J6XVC9Ba6SNB0u"

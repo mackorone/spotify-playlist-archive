@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-828 songs - 2 day 18 hr 11 min
+829 songs - 2 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [James](https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Lyle Mays](https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4), [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Offramp](https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK) | 6:41 | 2023-05-24 |  |
 | [John Hardy's Wife](https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:33 | 2022-10-27 | 2025-09-04 |
 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 | 2022-10-27 |  |
-| [Journey Into The Melody](https://open.spotify.com/track/4nAYg5fMyEvUHBnOCdml8J) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Music For Lovers](https://open.spotify.com/album/15VYVw0TNcK4aIUmePdclp) | 4:58 | 2024-07-17 |  |
+| [Journey Into The Melody](https://open.spotify.com/track/4nAYg5fMyEvUHBnOCdml8J) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Music For Lovers](https://open.spotify.com/album/15VYVw0TNcK4aIUmePdclp) | 4:58 | 2024-07-17 | 2025-11-07 |
 | [Joy Spring](https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [The Best Of Clifford Brown](https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L) | 3:18 | 2022-10-27 |  |
 | [Joy Spring](https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:50 | 2022-10-27 |  |
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2022-10-27 |  |
@@ -639,6 +639,7 @@
 | [Soul Lament \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 2:43 | 2022-10-27 |  |
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 | 2024-03-20 |  |
 | [Spain](https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Light As A Feather](https://open.spotify.com/album/2b53ZhXIiCGr3rPTYkpVeF) | 9:50 | 2022-10-27 |  |
+| [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 | 2024-07-17 |  |
 | [Speak No Evil \- Remastered1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 8:23 | 2022-10-27 |  |
 | [Splanky](https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:37 | 2022-10-27 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2022-10-27 |  |

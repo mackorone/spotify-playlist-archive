@@ -13121,6 +13121,28 @@
     },
     {
       "album": {
+        "name": "la vuelta",
+        "url": "https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199846,
+      "name": "la vuelta",
+      "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
+    },
+    {
+      "album": {
         "name": "Lady (Hear Me Tonight)",
         "url": "https://open.spotify.com/album/7smE3LHib02Ez3SOnIt37u"
       },
@@ -17612,7 +17634,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"

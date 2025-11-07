@@ -4,12 +4,13 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-130 songs - 7 hr 2 min
+131 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(F\)lannigan's Ball](https://open.spotify.com/track/67PwQNkJRsrqWXz45wK6Qj) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times Limited Edition](https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx) | 3:39 | 2025-09-16 |  |
+| [\(F\)lannigan's Ball](https://open.spotify.com/track/67PwQNkJRsrqWXz45wK6Qj) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times Limited Edition](https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx) | 3:39 | 2025-09-16 | 2025-11-07 |
 | [\(F\)lannigan's Ball](https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:39 | 2023-05-04 | 2025-09-16 |
+| [\(F\)lannigan's Ball](https://open.spotify.com/track/7Ge0qyQI86dq4GYUXJdw7M) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times \(Limited Edition\)](https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX) | 3:39 | 2025-11-07 |  |
 | [Alcohol](https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 1:54 | 2022-09-16 | 2023-03-27 |
 | [All You Fonies](https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:49 | 2023-02-05 | 2025-05-28 |
 | [All You Fonies](https://open.spotify.com/track/5T7POXN2LUqLOfwmlW10gI) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 2:49 | 2022-12-15 | 2023-02-06 |

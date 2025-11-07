@@ -4041,6 +4041,28 @@
     },
     {
       "album": {
+        "name": "My Own Game (Oliver Koletzki Remix)",
+        "url": "https://open.spotify.com/album/1Zz6UTHiaAYMTzORIb7VuT"
+      },
+      "artists": [
+        {
+          "name": "Juan Hansen",
+          "url": "https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo"
+        },
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345827,
+      "name": "My Own Game - Oliver Koletzki Remix",
+      "url": "https://open.spotify.com/track/1lfRXV7oyRHSGBiTPLvC3y"
+    },
+    {
+      "album": {
         "name": "Artificial",
         "url": "https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI"
       },
@@ -4390,7 +4412,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 432731,
       "name": "Once Once",
       "url": "https://open.spotify.com/track/5FYaPTvCmsiX1LN6cREn0Y"
@@ -5032,7 +5054,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 334488,
       "name": "Rockstar - Giorgio Stefano & Figueredo (AR) Remix",
       "url": "https://open.spotify.com/track/4OnDSQ5IZtoYSpZdH8Vh1S"

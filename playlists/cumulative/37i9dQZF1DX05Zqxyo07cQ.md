@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-854 songs - 1 day 17 hr 20 min
+856 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [abundance](https://open.spotify.com/track/2ql3MvEcsA946YC2Ob0sQc) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [abundance](https://open.spotify.com/album/4cjm7LC3n8iypOqeDO7yzO) | 2:44 | 2024-07-09 | 2025-01-19 |
 | [Abyss](https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Abyss](https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN) | 2:54 | 2025-03-05 |  |
 | [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 | 2025-06-15 |
-| [Across](https://open.spotify.com/track/03Se4kO33S5ohOqW2V9mr3) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Across](https://open.spotify.com/album/1rnbCqbgNfK9GmzyZIvZhl) | 2:55 | 2025-01-22 |  |
+| [Across](https://open.spotify.com/track/03Se4kO33S5ohOqW2V9mr3) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Across](https://open.spotify.com/album/1rnbCqbgNfK9GmzyZIvZhl) | 2:55 | 2025-01-22 | 2025-11-07 |
 | [Ad Astra](https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Ad Astra](https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ) | 2:38 | 2024-11-05 | 2024-12-13 |
 | [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 | 2025-10-13 |
 | [Adore](https://open.spotify.com/track/51yCSSmO1jssfPUnliLwEk) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Adore](https://open.spotify.com/album/6GK3oF02smp4Cl0ZphttUP) | 3:20 | 2023-03-23 | 2024-03-21 |
@@ -75,6 +75,7 @@
 | [Astral Mist](https://open.spotify.com/track/6HFgHAnBdNf3iZVYwqFC4a) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Astral Mist](https://open.spotify.com/album/1YrKVtvfsYGvy0rvIFt1QP) | 2:54 | 2025-03-27 | 2025-09-24 |
 | [Astralica Catharsis](https://open.spotify.com/track/05H8IxZJxZIpXlYcuaWlmI) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Astralica Catharsis](https://open.spotify.com/album/1cs7CgeSWWOnmVKVlcnOA9) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [Astralyn](https://open.spotify.com/track/1NelHOEkrDhxokRNN5JO5l) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Astralyn](https://open.spotify.com/album/6Lh6K2hOEyU6eTwHcbHJoP) | 2:30 | 2024-12-17 | 2025-07-10 |
+| [Astranome](https://open.spotify.com/track/6AajFjRYdvfNzOWqAgZZr3) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Astranome](https://open.spotify.com/album/7oHSx3djyPYMBa2V467ynp) | 2:54 | 2025-10-08 |  |
 | [Astrophia](https://open.spotify.com/track/4Zo9i0PVyKdl3nJxuwe2Pk) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Astrophia](https://open.spotify.com/album/26PPWDh6PZUJHkJWcao7BR) | 2:55 | 2024-01-17 | 2024-07-12 |
 | [At Peace](https://open.spotify.com/track/27BeHhBtul8uWpNRriw4zS) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA), [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [At Peace](https://open.spotify.com/album/1A6JIMLYg4FMkHj03BgVln) | 2:59 | 2023-03-23 | 2024-01-18 |
 | [Atlantis Child](https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS) | [Metagalactic Chords](https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS) | [Atlantis Child](https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL) | 2:54 | 2024-04-05 | 2024-12-06 |
@@ -456,6 +457,7 @@
 | [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 | 2024-12-03 | 2025-05-10 |
 | [Lunar Dreamscape](https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Lunar Dreamscape](https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU) | 2:58 | 2024-03-06 | 2025-03-23 |
 | [Lunar Hope](https://open.spotify.com/track/49GSahFoqXRaNbES3wvR7X) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Lunar Hope](https://open.spotify.com/album/7tAOYyL9NivXMaSu1ytmWz) | 3:10 | 2025-07-01 |  |
+| [Lunatheris](https://open.spotify.com/track/2z5oBmyg1XPkzzlk0beyqg) | [Luminous Dreamer](https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U) | [Lunatheris](https://open.spotify.com/album/7chva2HLIZPDX9roGQJA8w) | 2:53 | 2025-10-08 |  |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2023-03-23 | 2024-01-18 |
 | [Magical Calmness](https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs) | [Bedtime Muse](https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO) | [Magical Calmness](https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz) | 2:37 | 2024-07-15 |  |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2023-03-23 | 2024-02-09 |
@@ -737,7 +739,7 @@
 | [Still And Calm](https://open.spotify.com/track/01LxVoyk6e42ifx6gFZB0C) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [Still And Calm](https://open.spotify.com/album/62BOhkDJRSeyiwnrWf1QGB) | 3:06 | 2024-02-08 | 2024-11-06 |
 | [Still Between Seconds](https://open.spotify.com/track/7s5IlTehrmndsoEYwzq0kt) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [Still Between Seconds](https://open.spotify.com/album/6vey2BBmXDBScr6mwVQOYz) | 2:28 | 2025-09-23 |  |
 | [Still Night](https://open.spotify.com/track/7yBHqccP3VHJTp6gvGm4tb) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Still Night](https://open.spotify.com/album/1I4JE8UxNFwCnM3voFRq8i) | 2:57 | 2025-03-05 | 2025-06-26 |
-| [Still Repetition](https://open.spotify.com/track/33db5RDGZyV99IHB1RnlVk) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Still Repetition](https://open.spotify.com/album/2JpPATYD21pXcDZvQeWG3D) | 3:00 | 2025-09-23 |  |
+| [Still Repetition](https://open.spotify.com/track/33db5RDGZyV99IHB1RnlVk) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Still Repetition](https://open.spotify.com/album/2JpPATYD21pXcDZvQeWG3D) | 3:00 | 2025-09-23 | 2025-11-07 |
 | [Still Wave](https://open.spotify.com/track/74JWsnkBZ3ZIFdBP2brhow) | [Mysticallity](https://open.spotify.com/artist/7eEI21fbhljWItUT4biPTI) | [Still Wave](https://open.spotify.com/album/13KIC6bLCVGmEa4rd7bxMQ) | 3:16 | 2025-10-08 |  |
 | [Stillheten](https://open.spotify.com/track/45NfL9LFXSj9WpuHkfixOR) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Stillheten](https://open.spotify.com/album/2UiL0eVQ2zO02S9vyxoCEZ) | 2:34 | 2023-03-23 | 2024-03-21 |
 | [Stillness](https://open.spotify.com/track/6cn3ydXeMViI9FKbvU5yC6) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Stillness](https://open.spotify.com/album/1tFhGEgEpA4bkmdYp2zYQ3) | 2:30 | 2023-03-23 | 2024-01-18 |

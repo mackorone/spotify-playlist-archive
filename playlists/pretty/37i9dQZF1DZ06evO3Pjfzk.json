@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 101903,
+  "num_followers": 101949,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADlzSRruXHaHb+KmpVhydoz",
+  "snapshot_id": "aQqTgAAAAABRIPtsTDpk89Zk4nz/TyfP",
   "tracks": [
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
       "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 204709,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
+      "duration_ms": 176146,
+      "name": "Never Say Never (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
     },
     {
       "added_at": null,
@@ -343,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
       "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Never Say Never (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
+      "duration_ms": 204709,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
     },
     {
       "added_at": null,

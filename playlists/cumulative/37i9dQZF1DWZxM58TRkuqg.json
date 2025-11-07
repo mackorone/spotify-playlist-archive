@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Bernadya",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Iwan Fals, Ebiet G. Ade",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -1303,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "Bertemu 5000 Detik",
+        "url": "https://open.spotify.com/album/4GyXj4a6jegDiK7oyeWBZQ"
+      },
+      "artists": [
+        {
+          "name": "Titi DJ",
+          "url": "https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS"
+        },
+        {
+          "name": "Thomas Djorghi",
+          "url": "https://open.spotify.com/artist/1PgpMO3k0MFsIbKT3sQFkI"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245427,
+      "name": "Bertemu 5000 Detik",
+      "url": "https://open.spotify.com/track/5k8r824ONOtPpsCG9o9jE2"
+    },
+    {
+      "album": {
         "name": "Lesson Learned",
         "url": "https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8"
       },
@@ -2501,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1R9tlrCSbbO1rUmQZ1a8r6"
+      },
+      "artists": [
+        {
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324818,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/39B12Su7R0fIDcQPykPwkc"
+    },
+    {
+      "album": {
         "name": "Tujuh Belas",
         "url": "https://open.spotify.com/album/5LMiSpyLeOxZBpYZmu0Uiu"
       },
@@ -3302,6 +3342,28 @@
       "duration_ms": 254952,
       "name": "I'm on My Way",
       "url": "https://open.spotify.com/track/3XvgSDedqSOqJVW7vnbo8P"
+    },
+    {
+      "album": {
+        "name": "Ibu",
+        "url": "https://open.spotify.com/album/5kEHqV6mLQ2JSrJ34hQLlu"
+      },
+      "artists": [
+        {
+          "name": "Iwan Fals",
+          "url": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+        },
+        {
+          "name": "Ebiet G. Ade",
+          "url": "https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172425,
+      "name": "Ibu",
+      "url": "https://open.spotify.com/track/7703o7Xvt7e5qxzjCEZJUy"
     },
     {
       "album": {
@@ -9206,6 +9268,24 @@
       "duration_ms": 275900,
       "name": "Tega",
       "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
+    },
+    {
+      "album": {
+        "name": "Teganya Kau",
+        "url": "https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Teganya Kau",
+      "url": "https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,998 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,994 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 56 | [CAM GIRL](https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [CAM GIRL](https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks) | 3:00 |
 | 57 | [Saturday](https://open.spotify.com/track/6enkksGYGtDNTKzZ3JFwAl) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Ámina](https://open.spotify.com/artist/3VALVC9YYh3KJ6rHlaXBK2) | [Saturday](https://open.spotify.com/album/4tucOvvk3jIYTV4Dbmz5G3) | 3:24 |
 | 58 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
-| 59 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:10 |
+| 59 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
 | 60 | [Never Meant To Hurt You](https://open.spotify.com/track/489M8ygwZl6BDm6WtU6s2y) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Never Meant To Hurt You](https://open.spotify.com/album/6V0CrqlglvD7OszZ6vbeDY) | 3:39 |
 | 61 | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV) | 2:34 |
 | 62 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |

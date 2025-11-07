@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 221280,
       "name": "Ooze Out And Away, Onehow",
       "url": "https://open.spotify.com/track/157RVHlboS0mum8aCu0WBp"
@@ -1908,10 +1908,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 189040,
       "name": "Sea, Swallow Me",
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies (2024 Remaster)",
+        "url": "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189632,
+      "name": "Sea, Swallow Me - 2024 Remaster",
+      "url": "https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB"
     },
     {
       "album": {
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 222760,
       "name": "The Belles of Saint Andrew",
       "url": "https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU"

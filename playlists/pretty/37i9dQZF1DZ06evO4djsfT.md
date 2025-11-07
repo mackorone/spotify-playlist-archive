@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,777 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,782 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can’t Tell It All \(Remix\)](https://open.spotify.com/track/3HVeUY3tYnCg7yHe3JN0bS) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COMA](https://open.spotify.com/album/1R9kIu20SZDjdKj3KpysYL) | 3:11 |
-| 2 | [Church Clap](https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Weight & Glory](https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v) | 3:17 |
-| 3 | [REVIVAL!](https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [REVIVAL!](https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR) | 3:04 |
+| 2 | [REVIVAL!](https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [REVIVAL!](https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR) | 3:04 |
+| 3 | [Church Clap](https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Weight & Glory](https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v) | 3:17 |
 | 4 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:16 |
 | 5 | [Yes](https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Yes](https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms) | 2:59 |
 | 6 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 |
 | 50 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 |
 
-Snapshot ID: `aQlCAAAAAACnIAGyGv7bx9doFOJ5hemE`
+Snapshot ID: `aQqTgAAAAABBYStpF2iDd4wZCHS2/q24`

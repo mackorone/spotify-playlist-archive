@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 30707,
+  "num_followers": 30730,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
-      },
-      "artists": [
-        {
-          "name": "Myst\u00e9rika",
-          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Estoy Ah\u00ed",
-      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Dalia",
         "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
       },
@@ -355,22 +339,6 @@
       "duration_ms": 173333,
       "name": "Dalia",
       "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "\u00d3leo sobre tela",
-        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -395,6 +363,38 @@
       "duration_ms": 124500,
       "name": "Te Adoro",
       "url": "https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "\u00d3leo sobre tela",
+        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
+      },
+      "artists": [
+        {
+          "name": "Myst\u00e9rika",
+          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Estoy Ah\u00ed",
+      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -575,30 +575,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Monstera",
-        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Acrylic Label",
-          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Monstera",
-      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Bolero coqueto",
         "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
       },
@@ -623,18 +599,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+        "name": "Monstera",
+        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Acrylic Label",
+          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
+      "duration_ms": 144333,
+      "name": "Monstera",
+      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -659,6 +643,22 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -715,6 +715,30 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Helado de Mango (Remix)",
+        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 141825,
+      "name": "Helado de Mango (Remix)",
+      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "El D\u00eda M\u00e1s Largo",
         "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
       },
@@ -747,30 +771,6 @@
       "duration_ms": 98832,
       "name": "M\u00e9xico M\u00e1gico",
       "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Helado de Mango (Remix)",
-        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "Helado de Mango (Remix)",
-      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 124245,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Viendo el mundial con pap\u00e1",
         "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 129854,
       "name": "Viendo el mundial con pap\u00e1",
       "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 124245,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "un atardecer a tu lado",
         "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+        "name": "Guaran\u00ed Landscape",
+        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
       },
       "artists": [
         {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
         }
       ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
+      "duration_ms": 189629,
+      "name": "Guaran\u00ed Landscape",
+      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Guaran\u00ed Landscape",
-        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "Guaran\u00ed Landscape",
-      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Alc\u00e1zar",
         "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
       },
@@ -1187,6 +1187,26 @@
       "duration_ms": 98653,
       "name": "Alc\u00e1zar",
       "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Landscape Ride",
+        "url": "https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 147700,
+      "name": "Landscaper",
+      "url": "https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1243,26 +1263,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Landscape Ride",
-        "url": "https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA"
-      },
-      "artists": [
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 147700,
-      "name": "Landscaper",
-      "url": "https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "are you kidding?",
         "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
       },
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Playa del Amor",
-        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 129565,
-      "name": "Playa del Amor",
-      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Quiet Process",
         "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
@@ -1367,18 +1347,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Aesthetic Beach",
-        "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
+        "name": "Playa del Amor",
+        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
       "artists": [
         {
-          "name": "Arkei",
-          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 126857,
-      "name": "Orange Waves",
-      "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
+      "duration_ms": 129565,
+      "name": "Playa del Amor",
+      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1399,6 +1383,22 @@
       "duration_ms": 134918,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/0WmBZJiCZBgkfNmT0Pms3Z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Aesthetic Beach",
+        "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
+      },
+      "artists": [
+        {
+          "name": "Arkei",
+          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Orange Waves",
+      "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
     },
     {
       "added_at": "2025-04-04 04:00:19",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 7 hr 32 min
+146 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Don't You Worry \- From The Voice Of Germany](https://open.spotify.com/track/3OTsWUJC0WGd6wZlz5AQcG) | [POLA](https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Don't You Worry \(From The Voice Of Germany\)](https://open.spotify.com/album/5VcRQkloKPbkJbsf13UxJS) | 2:54 | 2024-01-29 |  |
 | [Don‘t Let Our Love Die](https://open.spotify.com/track/15q6JjExkmhAy0KqWTAyw7) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Don‘t Let Our Love Die](https://open.spotify.com/album/6lf0LZoP7jc5P621Rcc5t0) | 2:50 | 2024-01-29 |  |
 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 | 2024-01-29 |  |
-| [Erase](https://open.spotify.com/track/7FTB3muFoceoKXcWAfcPaS) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Erase](https://open.spotify.com/album/3OsfKrXEwpqJxgTJgjKHJx) | 3:59 | 2024-01-29 |  |
+| [Erase](https://open.spotify.com/track/4Ak5fQbKiNLFoi4MHGIi0Y) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Erase](https://open.spotify.com/album/4VC1vcqYAFhRJnc1v4wLML) | 3:59 | 2025-11-06 |  |
+| [Erase](https://open.spotify.com/track/7FTB3muFoceoKXcWAfcPaS) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Erase](https://open.spotify.com/album/3OsfKrXEwpqJxgTJgjKHJx) | 3:59 | 2024-01-29 | 2025-11-07 |
 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 | 2024-01-29 |  |
 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 | 2024-01-29 |  |
 | [Far From Home](https://open.spotify.com/track/4u5gUi7D1SJy8vcn4eWhWb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Far From Home](https://open.spotify.com/album/2KyQLmtmDxAgsrM6XKtuIg) | 2:46 | 2024-01-29 |  |
@@ -49,7 +50,7 @@
 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 | 2024-06-27 |  |
 | [Funeral](https://open.spotify.com/track/6O4V24RPZXxfV21i53oSe0) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Funeral](https://open.spotify.com/album/4MxUVHwpSoWD9npzFHBLra) | 3:13 | 2024-06-21 |  |
 | [Gets Me The Most](https://open.spotify.com/track/5BogyQ5iTohTqatlsZOUDZ) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps), [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ) | [Gets Me The Most](https://open.spotify.com/album/0roScFcpdRcdOsqOWfGV8r) | 3:08 | 2024-01-29 |  |
-| [Ghost](https://open.spotify.com/track/0NE5S84TrFAf22XCzd4dxb) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [This Too Shall Last](https://open.spotify.com/album/4qTIqL57z8zDVaU9gsyKKi) | 2:40 | 2024-01-29 |  |
+| [Ghost](https://open.spotify.com/track/0NE5S84TrFAf22XCzd4dxb) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [This Too Shall Last](https://open.spotify.com/album/4qTIqL57z8zDVaU9gsyKKi) | 2:41 | 2024-01-29 |  |
 | [Give & Take](https://open.spotify.com/track/5REoSlUK3GE3sz796vEnQA) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Give & Take](https://open.spotify.com/album/3pZ6sDrRXyTuWf6Y6KByze) | 2:50 | 2024-01-29 |  |
 | [Give It Up](https://open.spotify.com/track/29MyHIVuh2jrMIxFOVK4b0) | [Yann Lauren](https://open.spotify.com/artist/2X8aqXXVsPW1HhrAtjgXeF), [Wolfskind](https://open.spotify.com/artist/1TBWWvhaT8b4ItnaIPrVNH), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Give It Up](https://open.spotify.com/album/0AQktZu7BXdcQzAtx9uLbM) | 2:39 | 2024-01-29 |  |
 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 | 2024-01-29 |  |

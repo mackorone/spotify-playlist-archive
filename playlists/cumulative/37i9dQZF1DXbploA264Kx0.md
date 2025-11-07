@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: SoulFa \(靈魂沙發\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Night Keepers \(守夜人\)
 
-563 songs - 1 day 10 hr 27 min
+567 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [angel](https://open.spotify.com/track/10IQD0KePzoCnukjRja5eq) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [angel](https://open.spotify.com/album/0rlnJ2UnvGjTPGZuEOee3K) | 2:58 | 2025-06-19 | 2025-07-11 |
 | [ASO](https://open.spotify.com/track/2lmEyHZNkQ9SzZIsg8mk4i) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [ASO](https://open.spotify.com/album/38vTZxMGSYepLzdqn7uPDa) | 2:48 | 2025-02-13 | 2025-04-04 |
 | [Assassin Kiffe 47](https://open.spotify.com/track/6NJpbkbGYnjvhWjS07gooz) | [草本藥師](https://open.spotify.com/artist/1BnXVFPXRJPKOf2qIWMFvI) | [草本藥師](https://open.spotify.com/album/2A8vmOwQbH5yFH5nWPC6Vj) | 4:54 | 2025-09-04 | 2025-09-15 |
+| [AXIS](https://open.spotify.com/track/5HHtUofAVLVozGHHsLdKPn) | [Motif Hive](https://open.spotify.com/artist/0TzZGtByDjlFroO4ZX5WnK) | [Phase](https://open.spotify.com/album/1ATYciCevArKyal1sENEtt) | 2:46 | 2025-11-06 |  |
 | [Baby Cakes](https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:48 | 2024-09-12 | 2025-07-04 |
 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 | 2025-09-25 |  |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2024-01-25 | 2024-11-29 |
@@ -119,6 +120,7 @@
 | [Feather \(Live\)](https://open.spotify.com/track/4ikymzMUcAficaye4PprT0) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [TOKYO ACOUSTIC SESSION](https://open.spotify.com/album/3wLZWpTgaMF0qbRMtNGbui) | 3:53 | 2024-01-25 | 2024-03-01 |
 | [Feel It](https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feel It](https://open.spotify.com/album/5kGOAASVomzriytdsAT08e) | 2:53 | 2024-02-08 | 2024-03-29 |
 | [Feel The Vibe](https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [Feel The Vibe](https://open.spotify.com/album/5DyTDevqES8ElrjE5FxJCM) | 3:02 | 2024-09-19 | 2024-12-06 |
+| [Feeling Better](https://open.spotify.com/track/2MCr6eVXF5KsChTdx9r66j) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feeling Better](https://open.spotify.com/album/3NwiHs9fR4lE1ST65PP4UM) | 3:02 | 2025-11-06 |  |
 | [Felt](https://open.spotify.com/track/4xMdEsDUYLBbrVR7cfRc7S) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Felt](https://open.spotify.com/album/1BylzdJuG9vR6TLTeRYxg8) | 2:24 | 2024-02-22 | 2024-03-01 |
 | [Finger](https://open.spotify.com/track/3Of8Z34kYIFKzm025HtkiH) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Balance](https://open.spotify.com/album/4DxdJ8pemzqSl38OjDcpF6) | 5:02 | 2024-02-29 | 2024-03-15 |
 | [fire on us](https://open.spotify.com/track/2EYYBns2FJHv0uYCbSVRDr) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [Happy Together](https://open.spotify.com/album/5XVeSz6SBxlyYisDcCxBIK) | 2:48 | 2025-05-29 | 2025-07-18 |
@@ -155,6 +157,7 @@
 | [Half\-Full \- Remix ft\. moon tang, WADE DAO](https://open.spotify.com/track/3TFWKHIAeuQWB3IOSFuaeu) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH) | [I’mdifficult: Remixes by Flowstrong](https://open.spotify.com/album/0XFGCvD6yHkNzF6xlVvZpr) | 3:40 | 2025-09-04 | 2025-09-26 |
 | [Half\-Full \- Remix Ft\. moon tang, WADE DAO](https://open.spotify.com/track/5jfnXiBmFq7wrFq2sS3pZe) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH) | [Half\-Full \(Remix Ft\. moon tang, WADE DAO\)](https://open.spotify.com/album/0UvTSBZ8z8AHMdx8xUweRH) | 3:40 | 2025-06-26 | 2025-07-18 |
 | [HANSEL AND GRETEL](https://open.spotify.com/track/0Ixs4wUwlHockq5iO3zrLn) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q), [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [HANSEL AND GRETEL](https://open.spotify.com/album/3QoHlrglPtVHUcqJnr51mI) | 4:15 | 2024-04-25 | 2024-10-25 |
+| [Happiness hurts](https://open.spotify.com/track/09KWWKSqEx2d0O6TDCQNNk) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9), [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN) | [Happiness hurts](https://open.spotify.com/album/6e91xp0X4MQUoiJly0RfJg) | 3:50 | 2025-11-06 |  |
 | [Heal Me Good](https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U) | [Yufu](https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj) | [Heal Me Good](https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH) | 4:07 | 2025-09-04 | 2025-09-26 |
 | [Healed](https://open.spotify.com/track/7LgSkEul4go8yUWDYKkbNa) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [Healed](https://open.spotify.com/album/0ZvzAUBGk5X3wqOLLvQHac) | 2:41 | 2025-10-23 |  |
 | [HEAT](https://open.spotify.com/track/6o7n7ivMPF4E0N3Wwxz09J) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [HEAT](https://open.spotify.com/album/6LBQhdFWbqpfQRamiVWAF5) | 3:32 | 2024-11-28 | 2024-12-20 |
@@ -304,6 +307,7 @@
 | [Rollin' On](https://open.spotify.com/track/63oSPrP54in4X41vq6cNlL) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [LOVELY SUNDAY](https://open.spotify.com/album/2D4TWvXGzGmL1zbOdoDnWw) | 3:54 | 2024-09-12 | 2025-03-29 |
 | [Running](https://open.spotify.com/track/0AV1eWrh1x86FFnVDJ4BZD) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Running](https://open.spotify.com/album/2dOQ99k30Tolva3vPZ4jEB) | 3:13 | 2025-10-09 | 2025-10-31 |
 | [running to the sun](https://open.spotify.com/track/6N3yhfQTTBVtOp6y1RU16n) | [chirrp.](https://open.spotify.com/artist/3OYdQu61jWeBFBr2wksmw9) | [Lurid](https://open.spotify.com/album/5SSF20fvNIqwdJKkD7O1lO) | 3:52 | 2025-07-17 | 2025-08-15 |
+| [Saturday Afternoon](https://open.spotify.com/track/3BdHVuoguj7lLHVocezemX) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [roe](https://open.spotify.com/artist/6ZgfyJzSGlummUBhUK1hxw) | [Saturday Afternoon](https://open.spotify.com/album/6ltaJPaXpvtB4klzcqGhKc) | 3:46 | 2025-11-06 |  |
 | [SATURDAYS VIBRATIONS](https://open.spotify.com/track/41NuvXlcbzOK98Zu6Bv3wy) | [FNCY](https://open.spotify.com/artist/1ii9VZ3CKfTvlEZSoCFVvL), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [ZEN\-LA\-ROCK](https://open.spotify.com/artist/3VYznekAAwwqZpiYwuE34v), [G.RINA](https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS) | [Saturdays Vibrations](https://open.spotify.com/album/1TRyaC0oi1SI6qnSlLbzT5) | 4:18 | 2025-04-17 | 2025-05-09 |
 | [Say Goodbye](https://open.spotify.com/track/2FUz2OaOgJKODHxHwo5ZLW) | [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Say Goodbye](https://open.spotify.com/album/0Tw4P4mYFbJduF2igTD7G4) | 3:12 | 2024-03-14 | 2024-03-29 |
 | [Say It To My Face \(feat\. ØZI\)](https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Made For You](https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N) | 2:40 | 2024-12-26 |  |

@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17849,
+  "num_followers": 17854,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMKF/j0Ow+BeqLKOQyGbv5gx5B9aOX",
+  "snapshot_id": "AAAMKjC1mZ7BqKkqWF++FgjPQskKHMQ9",
   "tracks": [
+    {
+      "added_at": "2025-11-06 10:06:32",
+      "album": {
+        "name": "Whiskey River",
+        "url": "https://open.spotify.com/album/0jBh8fTaj1ih73onffOfgJ"
+      },
+      "artists": [
+        {
+          "name": "Grayson Hamm",
+          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
+        }
+      ],
+      "duration_ms": 264133,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/2ccCZk3DGQ6nm8sNH2ck4F"
+    },
     {
       "added_at": "2025-11-04 11:08:14",
       "album": {

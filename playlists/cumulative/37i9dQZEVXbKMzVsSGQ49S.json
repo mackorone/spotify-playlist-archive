@@ -4736,7 +4736,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 174120,
       "name": "BARA \u00de\u00da",
       "url": "https://open.spotify.com/track/1L7ilHlb9IfufI5iJGqbIG"
@@ -5300,7 +5300,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 189295,
       "name": "Big League",
       "url": "https://open.spotify.com/track/0zhocF7DYymbHSdwdOCyMq"
@@ -5668,7 +5668,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -10048,7 +10048,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -12382,7 +12382,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -14756,7 +14756,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -15702,7 +15702,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 292133,
       "name": "Far",
       "url": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
@@ -23300,7 +23300,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 146853,
       "name": "Hvar ertu n\u00fa?",
       "url": "https://open.spotify.com/track/3gbwej4Slibs1NbvP08BEZ"
@@ -28170,7 +28170,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -41720,7 +41720,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 156274,
       "name": "Saintro",
       "url": "https://open.spotify.com/track/17Xw0WarbdFVTua2PYkjlG"
@@ -44639,6 +44639,36 @@
     },
     {
       "album": {
+        "name": "The Weight of Love",
+        "url": "https://open.spotify.com/album/1vVxZDnPScWAsSpthF3Wie"
+      },
+      "artists": [
+        {
+          "name": "Dan Arwady",
+          "url": "https://open.spotify.com/artist/0SnoBjoX2nF3ZgPMThD9wN"
+        },
+        {
+          "name": "Harry Griffin",
+          "url": "https://open.spotify.com/artist/5P9o5JtAf3EXU2wwijYWKT"
+        },
+        {
+          "name": "Cassie Annunziata",
+          "url": "https://open.spotify.com/artist/5s5GNagrCjgE6VO3eu1cWl"
+        },
+        {
+          "name": "Chlo\u00e9 Mendola",
+          "url": "https://open.spotify.com/artist/2QcU6nnS6AIiuZtoBLVUqQ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/7eQR31mtq80FVYZ80RuccP"
+    },
+    {
+      "album": {
         "name": "Somebody\u2019s Watching Me (Sped Up)",
         "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
       },
@@ -46060,7 +46090,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 240106,
       "name": "Stingum Af",
       "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"
@@ -52672,7 +52702,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 154808,
       "name": "UPPI",
       "url": "https://open.spotify.com/track/4QvJbjYT0V76ceVani0iOk"

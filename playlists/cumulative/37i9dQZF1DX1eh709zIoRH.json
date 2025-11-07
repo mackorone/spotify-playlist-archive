@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Certified hits. Cover: Fredo",
+  "description": "Certified hits. Cover: Kofi Stone",
   "name": "Certi",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 144876,
       "name": "Ain\u2019t Right (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/3GhWAtlK5X3Nu7B9XJ3bDx"
@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Jersey King",
+        "url": "https://open.spotify.com/album/7tWLugjXuivR9MEGOuPklk"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Jersey King",
+      "url": "https://open.spotify.com/track/6kzk0q8DGUFKEkn9BHf13P"
+    },
+    {
+      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 168247,
       "name": "Modern",
       "url": "https://open.spotify.com/track/24rEtHW3ULdrM7tWP1zhDz"
@@ -1464,6 +1482,24 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/3kuzlLj2v5WhOpbVR4lavX"
     },
     {
       "album": {

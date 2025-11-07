@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,175 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,258 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 16 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 |
 | 17 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 |
 | 18 | [Zin In Jou](https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Zin In Jou](https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37) | 3:58 |
-| 19 | [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 |
-| 20 | [Zoet, Zout, Zuur](https://open.spotify.com/track/1DbKUJms0i4Q2HBwNYmUSR) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zoet, Zout, Zuur](https://open.spotify.com/album/5YKr4pziJ2tPwM7WcwVOO9) | 3:00 |
-| 21 | [Systeem](https://open.spotify.com/track/3BaF1c9siBSnFa2jArT5i1) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Systeem](https://open.spotify.com/album/6Jgk1FNTyR9GW3mrcL3Hzh) | 3:02 |
-| 22 | [Feest In De Tent](https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Feest In De Tent](https://open.spotify.com/album/63A6NjvBZNYGbS2XcQ1fQh) | 3:20 |
-| 23 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 |
-| 24 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 |
-| 25 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 |
-| 26 | [Laat De Zon In Je Hart](https://open.spotify.com/track/7drS8Zj5rq3usSZY1e5crj) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Vanaf Vandaag](https://open.spotify.com/album/0lpxldNjICOrFahnXfprEI) | 3:25 |
-| 27 | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 |
+| 19 | [Nobody Else \- 2.0](https://open.spotify.com/track/0wT75Em0j2PkWp7Ii6yIew) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Nobody Else \(2.0\)](https://open.spotify.com/album/0St10cKnpnzWxutKJ5FQTW) | 2:51 |
+| 20 | [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 |
+| 21 | [Zoet, Zout, Zuur](https://open.spotify.com/track/1DbKUJms0i4Q2HBwNYmUSR) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zoet, Zout, Zuur](https://open.spotify.com/album/5YKr4pziJ2tPwM7WcwVOO9) | 3:00 |
+| 22 | [Systeem](https://open.spotify.com/track/3BaF1c9siBSnFa2jArT5i1) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Systeem](https://open.spotify.com/album/6Jgk1FNTyR9GW3mrcL3Hzh) | 3:02 |
+| 23 | [Feest In De Tent](https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Feest In De Tent](https://open.spotify.com/album/63A6NjvBZNYGbS2XcQ1fQh) | 3:20 |
+| 24 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 |
+| 25 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 |
+| 26 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 |
+| 27 | [Laat De Zon In Je Hart](https://open.spotify.com/track/7drS8Zj5rq3usSZY1e5crj) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Vanaf Vandaag](https://open.spotify.com/album/0lpxldNjICOrFahnXfprEI) | 3:25 |
 | 28 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 |
 | 29 | [Dans Met Jou](https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Dans Met Jou](https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ) | 2:11 |
 | 30 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 99 | [Drink Rode Wijn \- Feestmix](https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn \(Feestmix\)](https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9) | 2:54 |
 | 100 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 |
 
-Snapshot ID: `AAAAAPl0ZUX7AVHd1IbHLIPwurqTV9/E`
+Snapshot ID: `AAAAAHjhUAwcVAkhPnrh4ucQHavYuV82`

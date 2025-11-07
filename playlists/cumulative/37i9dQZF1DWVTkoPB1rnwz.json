@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "a little death",
+        "url": "https://open.spotify.com/album/1Urqt8GO7acQHNGBUkwIdH"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474895,
+      "name": "a little death",
+      "url": "https://open.spotify.com/track/6KbmP0pZHqnER0KWT2E9lF"
+    },
+    {
+      "album": {
         "name": "A Part",
         "url": "https://open.spotify.com/album/4CqoZUlQQSfdOwiQXi4LLj"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 200724,
       "name": "An Avalanche",
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 212721,
       "name": "aura",
       "url": "https://open.spotify.com/track/5GPmHwAHEhsHNYJonzl9lp"
@@ -906,10 +924,28 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 243352,
       "name": "Bb-Arp",
       "url": "https://open.spotify.com/track/4AmOG6OhTjokkGtOZqV5YS"
+    },
+    {
+      "album": {
+        "name": "Be Water",
+        "url": "https://open.spotify.com/album/4MVB4rXZj4izUI36mvXOS2"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312333,
+      "name": "Be Water",
+      "url": "https://open.spotify.com/track/7FhUm2DzBmfKXTkuDqmDdC"
     },
     {
       "album": {
@@ -1881,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Aurelia",
+        "url": "https://open.spotify.com/album/0r73S09q24TcNcjyNYSoNl"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311142,
+      "name": "Deckards Harp",
+      "url": "https://open.spotify.com/track/4XnuMH5GriVc4ieGkTTAcl"
+    },
+    {
+      "album": {
         "name": "Developments 1: Forms",
         "url": "https://open.spotify.com/album/1jcds6UdJYiJ7HGd0RPvTK"
       },
@@ -1900,6 +1954,28 @@
       "duration_ms": 214653,
       "name": "Developments 1: Forms",
       "url": "https://open.spotify.com/track/1ZkujmSEFMIVTvETNPORSu"
+    },
+    {
+      "album": {
+        "name": "Developments 2: Motion",
+        "url": "https://open.spotify.com/album/67zojxNhuPhPre8kID2R3T"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        },
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Developments 2: Motion",
+      "url": "https://open.spotify.com/track/7hCIU4hiTwMiZ3r9C5cX87"
     },
     {
       "album": {
@@ -3652,7 +3728,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 281102,
       "name": "In a Hidden Nook Between Worlds III",
       "url": "https://open.spotify.com/track/44sMwI1u5Pf4t1nSyGutyo"
@@ -4598,7 +4674,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 140660,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/4Vu6VZDkw7KjvC9MP7cO3s"
@@ -4772,6 +4848,24 @@
       "duration_ms": 166400,
       "name": "Meandering Heights",
       "url": "https://open.spotify.com/track/3h9EGzRUNyuLSG2ip1snpH"
+    },
+    {
+      "album": {
+        "name": "Measuring Ruins",
+        "url": "https://open.spotify.com/album/5lCq8czbxJZtzXlbgoNXW8"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184520,
+      "name": "Measuring Ruins",
+      "url": "https://open.spotify.com/track/00R6Yl5pA6SGyYNtezwlHO"
     },
     {
       "album": {
@@ -5340,7 +5434,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 289000,
       "name": "Nocturne 18 - Jack Armstrong Remodel",
       "url": "https://open.spotify.com/track/597hX5FImIcsKeXtgUroBi"
@@ -5456,6 +5550,24 @@
       "duration_ms": 113901,
       "name": "Ocean Fall and Rise",
       "url": "https://open.spotify.com/track/7kMiAEfbdKScZc3xwjC3Y1"
+    },
+    {
+      "album": {
+        "name": "Of the undiscovered country (From The Original Motion Picture \"Hamnet\")",
+        "url": "https://open.spotify.com/album/6pt0WcKOkyqZkdGz04zoY9"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322435,
+      "name": "Of the undiscovered country - From The Original Motion Picture \"Hamnet\"",
+      "url": "https://open.spotify.com/track/5psjdB5UIHuDvfZqxjRIGb"
     },
     {
       "album": {
@@ -6005,6 +6117,28 @@
     },
     {
       "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/3QK5hLGy1mKrKVGVlIDqjS"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200783,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu"
+    },
+    {
+      "album": {
         "name": "Que llueva ```",
         "url": "https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr"
       },
@@ -6024,6 +6158,32 @@
       "duration_ms": 268327,
       "name": "Que llueva ```",
       "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
+    },
+    {
+      "album": {
+        "name": "Quiessence, Leaving Lower Big Basin & A Trip Into Town",
+        "url": "https://open.spotify.com/album/6nf2vavXHAJlkygEMJSBKX"
+      },
+      "artists": [
+        {
+          "name": "Barry Walker Jr.",
+          "url": "https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z"
+        },
+        {
+          "name": "Rob Smith",
+          "url": "https://open.spotify.com/artist/29WMj2Uqud9UD3oLvbBuS0"
+        },
+        {
+          "name": "Jason Willmon",
+          "url": "https://open.spotify.com/artist/3D5FmrONwuqaNSUZq5mkqm"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156083,
+      "name": "Quiessence",
+      "url": "https://open.spotify.com/track/5oyqKEXVxjJirSH5pNPeGS"
     },
     {
       "album": {
@@ -6150,7 +6310,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 419549,
       "name": "RELUCESCO I",
       "url": "https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX"
@@ -6498,6 +6658,28 @@
       "duration_ms": 138773,
       "name": "Seals",
       "url": "https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5"
+    },
+    {
+      "album": {
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
     },
     {
       "album": {
@@ -7040,7 +7222,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 262923,
       "name": "sometimes it's scary but it's still just you and me - Leaving Laurel Revisit",
       "url": "https://open.spotify.com/track/31lP9IdMFuGZlHKepkACPc"
@@ -7058,7 +7240,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 292356,
       "name": "Sonhar",
       "url": "https://open.spotify.com/track/19PpurkVR6rp1eKQHKUL91"
@@ -7304,6 +7486,36 @@
       "duration_ms": 212054,
       "name": "Sunflower Dance",
       "url": "https://open.spotify.com/track/4PMJ8QjBfyFKxvDozAyGW9"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/6TJ3VA4tT6BowaYxcPHNZV"
+      },
+      "artists": [
+        {
+          "name": "Jelena Ciric",
+          "url": "https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2"
+        },
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        },
+        {
+          "name": "C\u00e9cile Lacharme",
+          "url": "https://open.spotify.com/artist/5SUhDxwCbqdDO7noz0Ld3c"
+        },
+        {
+          "name": "Oliver Patrice Weder",
+          "url": "https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322497,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/2n89zJUQJflu1IjBEUDz3U"
     },
     {
       "album": {
@@ -7884,7 +8096,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156018,
       "name": "Through the Air",
       "url": "https://open.spotify.com/track/14tquUA5QKkHSnRXHpvmeN"

@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11868,
+  "num_followers": 11871,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADnLa7ayGqUNaf5clUwZPMY",
+  "snapshot_id": "aQqTgAAAAACy+WhmlnVD0j7brd1wZuke",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Credit Alert",
-        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
-      },
-      "artists": [
-        {
-          "name": "Kocee",
-          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 193718,
-      "name": "Credit Alert",
-      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Credit Alert",
+        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 193718,
+      "name": "Credit Alert",
+      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 205450,
-      "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
-      "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seyi or Shay",
         "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 228884,
       "name": "Murda",
       "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
+      "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
     },
     {
       "added_at": null,

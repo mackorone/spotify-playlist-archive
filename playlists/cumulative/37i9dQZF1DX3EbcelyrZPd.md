@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
+> Get your fill of vibes straight out of Tanzania\. Cover: Abigail Chams
 
-607 songs - 1 day 10 hr 38 min
+608 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Angelina](https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Angelina](https://open.spotify.com/album/5DBiiNf0QT2FlKqwY508ag) | 2:40 | 2024-10-10 | 2025-05-23 |
 | [Anna](https://open.spotify.com/track/0J2lnnCp5UNeoT9PxV3sFq) | [Mr.Blue](https://open.spotify.com/artist/6YvCtpHLBztolVJVlAM2Mv), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Anna](https://open.spotify.com/album/0KPg1zO9uG7xIBtd8OUlza) | 2:59 | 2025-08-14 |  |
 | [Antenna](https://open.spotify.com/track/2qt47kVTAANNojqXbUd0eI) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Antenna](https://open.spotify.com/album/4JY70r1Dhdb5IivbgtV0U8) | 2:35 | 2024-10-18 | 2025-09-20 |
-| [Arenare](https://open.spotify.com/track/1LfSMsnF5OS3izF3S5J7Jh) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 3:22 | 2025-08-21 |  |
+| [Arenare](https://open.spotify.com/track/1LfSMsnF5OS3izF3S5J7Jh) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 3:22 | 2025-08-21 | 2025-11-07 |
 | [Around](https://open.spotify.com/track/66mog0RXdqf0IhpRlgU3h8) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Around](https://open.spotify.com/album/5XQo5Q2u8UPStORabVpQC8) | 2:24 | 2025-08-21 |  |
 | [As Long As You Know](https://open.spotify.com/track/7r5Qp6eZKc4xzLQAgVF9C2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [As Long As You Know](https://open.spotify.com/album/3BpM5KGAB2WAbMMVOvQYnk) | 3:17 | 2022-01-27 | 2022-08-19 |
 | [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 | 2023-05-19 |
@@ -133,6 +133,7 @@
 | [Forever](https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Therapy](https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp) | 3:37 | 2024-04-25 | 2024-10-18 |
 | [Forever](https://open.spotify.com/track/2mIBy2thG7ZiECOf7tkUuG) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Forever](https://open.spotify.com/album/1LRJODu1aDERRG75QiCpwH) | 4:22 | 2023-02-09 | 2023-09-01 |
 | [Formula \(Moto Zimelia\)](https://open.spotify.com/track/14OBWCaKhqp7jkD4h0Qv7N) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Formula \(Moto Zimelia\)](https://open.spotify.com/album/5aRntlYfXagswLH6jXv3w2) | 4:03 | 2024-01-25 | 2024-07-05 |
+| [Friend Zone](https://open.spotify.com/track/5yzCyIkfcJgZ8t7G08snKF) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Friend Zone](https://open.spotify.com/album/1WzR2av0YTqoR8c4tJF1tt) | 2:55 | 2025-11-06 |  |
 | [Funga Kazi](https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Funga Kazi](https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j) | 3:06 | 2023-05-18 | 2023-07-21 |
 | [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 | 2025-02-13 |  |
 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 | 2022-02-24 | 2023-01-27 |
@@ -410,7 +411,7 @@
 | [Only You](https://open.spotify.com/track/0TsluXk9NbbHP7L30HJPO6) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Only You](https://open.spotify.com/album/2SorVbJ1FW9p879J1Lr4Ua) | 3:26 | 2024-11-28 | 2025-06-27 |
 | [Outside](https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:06 | 2021-11-11 | 2022-05-06 |
 | [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 | 2024-10-03 |  |
-| [Over](https://open.spotify.com/track/1Qw2tZX3aiZNaGZk6B28Ac) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Over](https://open.spotify.com/album/5yCy4Vh2r5jzxiqEKJEtlV) | 3:16 | 2025-08-21 |  |
+| [Over](https://open.spotify.com/track/1Qw2tZX3aiZNaGZk6B28Ac) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Over](https://open.spotify.com/album/5yCy4Vh2r5jzxiqEKJEtlV) | 3:16 | 2025-08-21 | 2025-11-07 |
 | [Overdose](https://open.spotify.com/track/0cNyOijJPgdObogcoke87K) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Overdose](https://open.spotify.com/album/4xGL4Q7LrSA1KQxDv9S3wN) | 3:51 | 2023-08-24 | 2023-12-01 |
 | [Oya Oya](https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:27 | 2021-10-07 | 2022-06-03 |
 | [Oyaya](https://open.spotify.com/track/4dyOb2CGK31dbOCBR4lsNm) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Oyaya](https://open.spotify.com/album/2qAwwR7krV21qBuVZZ7OMc) | 3:42 | 2024-10-31 | 2025-04-18 |

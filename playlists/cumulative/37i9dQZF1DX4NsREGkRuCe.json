@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "A Lot (with Victony)",
+      "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
+    },
+    {
+      "album": {
         "name": "A Million Things",
         "url": "https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv"
       },
@@ -2478,6 +2500,28 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/2o0OJkBfmEt8CzHRAXfyO3"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/03pv8d28pqb7edfT6JvwzD"
     },
     {
       "album": {
@@ -5419,6 +5463,24 @@
     },
     {
       "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162063,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
+    },
+    {
+      "album": {
         "name": "Do I",
         "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
       },
@@ -7244,7 +7306,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 148672,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
@@ -9170,7 +9232,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 143232,
       "name": "Hot Hot",
       "url": "https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6"
@@ -12363,6 +12425,24 @@
     },
     {
       "album": {
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
+    },
+    {
+      "album": {
         "name": "Many Things",
         "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
       },
@@ -15430,7 +15510,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 149126,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
@@ -20222,7 +20302,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 160074,
       "name": "Trump",
       "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"

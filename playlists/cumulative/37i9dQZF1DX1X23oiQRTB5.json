@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fav\u00e9 x SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Orelsan x SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 238160,
       "name": "DRAGONS",
       "url": "https://open.spotify.com/track/6bhObRBG732wGeTWWR1781"
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 122000,
       "name": "FDT",
       "url": "https://open.spotify.com/track/1bLGJ2sbG6SWDzO3oRePSp"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 201818,
       "name": "Job",
       "url": "https://open.spotify.com/track/4pcKa72ZXndYzdMAhyh0AS"
@@ -4883,6 +4883,24 @@
     },
     {
       "album": {
+        "name": "MON B\u00c9B\u00c9",
+        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "MON B\u00c9B\u00c9",
+      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+    },
+    {
+      "album": {
         "name": "En Passant P\u00e9cho (Bande originale inspir\u00e9e du film)",
         "url": "https://open.spotify.com/album/5Z31afWU0NIldn8hRK5CZq"
       },
@@ -6344,7 +6362,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 127100,
       "name": "ruin\u00e9 (comme un dj)",
       "url": "https://open.spotify.com/track/73QO4ZPYZOm2t3F1kTC62j"
@@ -6624,6 +6642,50 @@
       "duration_ms": 180968,
       "name": "Sign\u00e9",
       "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
+    },
+    {
+      "album": {
+        "name": "Skywalker Haze - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3Xudj0lVJpPiBkiMLy5aim"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Skywalker Haze - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq"
+    },
+    {
+      "album": {
+        "name": "La fuite en avant",
+        "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204664,
+      "name": "Soleil levant",
+      "url": "https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1"
     },
     {
       "album": {
@@ -7534,6 +7596,24 @@
       "duration_ms": 120000,
       "name": "X",
       "url": "https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO"
+    },
+    {
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "YESTERDAY",
+      "url": "https://open.spotify.com/track/69UB9UIfNEAyyIXyiioSzP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > First comes love, then comes life\. Listen to the music from Nobody Wants This, curated by The Core, Interscope and Aperture Music, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,681 likes - 108 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,039 likes - 108 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 53 | [Harsh Truth](https://open.spotify.com/track/0I62G9pXVf2UomZSlTzlYI) | [Katy for Kings](https://open.spotify.com/artist/2AofFktDEQuzk1LKKEQ9Ox) | [Outlines](https://open.spotify.com/album/0UoWAr3JIqpaCI27ojbhI8) | 3:35 |
 | 54 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 55 | [Sunchild](https://open.spotify.com/track/5UMlles0yqJO9TZV5HPOHf) | [7TEN](https://open.spotify.com/artist/1HwqBieupHIE95yfdPxLge) | [Bloom](https://open.spotify.com/album/6SfdwIG2qjWVpyP9itojqn) | 3:53 |
-| 56 | [Hit Me Where The Heart Is](https://open.spotify.com/track/1voZOjsil385cqX17XBIkN) | [Mega Simone](https://open.spotify.com/artist/1bP2Nu4KMCgTkP1wI6IVUi), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Hit Me Where The Heart Is](https://open.spotify.com/album/3T7uYTqCns24NZSBVitI1N) | 3:31 |
+| 56 | [Hit Me Where The Heart Is](https://open.spotify.com/track/1voZOjsil385cqX17XBIkN) | [Mega Simone](https://open.spotify.com/artist/1bP2Nu4KMCgTkP1wI6IVUi), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Johan Hugo](https://open.spotify.com/artist/3Z5Sy7ikufJdupxqTosIwM) | [Hit Me Where The Heart Is](https://open.spotify.com/album/3T7uYTqCns24NZSBVitI1N) | 3:31 |
 | 57 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/7GLS0oi9U51hfoFinKoRIj) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I Know Alone](https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk) | 3:25 |
 | 58 | [ugi](https://open.spotify.com/track/3cdUh8ObQt2wrAfm7Ywpsj) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 5:06 |
 | 59 | [Cinderella](https://open.spotify.com/track/46clCWv55EyW1ZlOl796It) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 4:03 |

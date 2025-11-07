@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 126586,
+  "num_followers": 126610,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -399,18 +391,26 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
         }
       ],
-      "duration_ms": 201339,
-      "name": "Mahal",
-      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
-      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
         "url": "https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 167466,
       "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
       "url": "https://open.spotify.com/track/3KVDM9shwWEbLsRpimCuTn"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 295080,
+      "name": "Mujer Divina",
+      "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "The Very Best of The Dixie Cups: Chapel of Love",
         "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 314520,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 295080,
-      "name": "Mujer Divina",
-      "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "S\u00e9rie Samba Soul",
-        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
-      },
-      "artists": [
-        {
-          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "Hei! Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Dead Dance",
         "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 215056,
       "name": "Balera De Mar",
       "url": "https://open.spotify.com/track/6utYINltaI9TB6xjpNFXQS"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "S\u00e9rie Samba Soul",
+        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+      },
+      "artists": [
+        {
+          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Hei! Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1311,6 +1311,38 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "L\u00f4 Borges",
+        "url": "https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Eu Sou Como Voc\u00ea \u00c9",
+      "url": "https://open.spotify.com/track/7uE2uoR0R3fDmbC7517Xej"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Cantiga De Longe",
+        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
+      },
+      "artists": [
+        {
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Zum-Zum",
+      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "\u00c7a fait 2x plus de bien",
         "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 219624,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "En \u0130yileriyle G\u00fczin ile Baha",
         "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Cantiga De Longe",
-        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
       },
       "artists": [
         {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Zum-Zum",
-      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1411,6 +1427,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 261926,
+      "name": "Ddoje Facce",
+      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Satingarona Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -1427,22 +1459,6 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 261926,
-      "name": "Ddoje Facce",
-      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "L\u00f4 Borges",
-        "url": "https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I"
+        "name": "Isle Of Magic",
+        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
       "artists": [
         {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+          "name": "Mop Mop",
+          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
         }
       ],
-      "duration_ms": 183973,
-      "name": "Eu Sou Como Voc\u00ea \u00c9",
-      "url": "https://open.spotify.com/track/7uE2uoR0R3fDmbC7517Xej"
+      "duration_ms": 246799,
+      "name": "Kamakumba",
+      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1543,22 +1559,6 @@
       "duration_ms": 247306,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Isle Of Magic",
-        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
-      },
-      "artists": [
-        {
-          "name": "Mop Mop",
-          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
-        }
-      ],
-      "duration_ms": 246799,
-      "name": "Kamakumba",
-      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
     },
     {
       "added_at": "2025-03-14 13:51:12",

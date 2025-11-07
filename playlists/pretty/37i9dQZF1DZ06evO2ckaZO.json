@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 74665,
+  "num_followers": 74673,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAAOGF1Z6iK1FuPhASK9O0S",
+  "snapshot_id": "aQqTgAAAAADv4D30e6E97QRAkHouafiW",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baddie Baddie",
+        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 120784,
+      "name": "Baddie Baddie",
+      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gnarly (Ice Spice Remix)",
         "url": "https://open.spotify.com/album/3aC2oeSUYvBKXkTr6RDIwX"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 137309,
       "name": "Gnarly - Ice Spice Remix",
       "url": "https://open.spotify.com/track/3wAvAVwMbUG3Bw23M8KMke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baddie Baddie",
-        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 120784,
-      "name": "Baddie Baddie",
-      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     },
     {
       "added_at": null,

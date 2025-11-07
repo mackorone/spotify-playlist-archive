@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-70 songs - 3 hr 40 min
+71 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Forgiveness \- Acoustic](https://open.spotify.com/track/3YjtREDtfGmGMIhKqLhXR0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness \(Acoustic\)](https://open.spotify.com/album/6cZfUOF3wtwV9gymqCCgAf) | 2:40 | 2025-02-13 |  |
 | [Ghetto Gospel \- Acoustic Version](https://open.spotify.com/track/0hTt48VRKAOZVNoNyvX8co) | [Shun Breezy](https://open.spotify.com/artist/3BBfTY6VjAtcWyN2Ux3wC6) | [Ghetto Gospel \(Acoustic Version\)](https://open.spotify.com/album/4ZUuhzqrl4fQQT6Q7h24Ly) | 3:47 | 2024-02-16 | 2024-07-19 |
 | [GoodSin \- Acoustic](https://open.spotify.com/track/6hKRozJksKQrLTOu5Fo6wX) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [GoodSin \(Acoustic\)](https://open.spotify.com/album/3m61tjwaJsthMob8WkrrZY) | 2:19 | 2024-02-16 |  |
+| [i m a mess \- Choir Version](https://open.spotify.com/track/2lAzvwmeud2lMk6cb2RpOk) | [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Choir Refix](https://open.spotify.com/album/7A8H0KL4rXoML6EssFUv5l) | 3:07 | 2025-11-06 |  |
 | [I Wish \(feat\. Libianca\) \- Acoustic](https://open.spotify.com/track/4PFWe1UG9f3RFbjVH9644c) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\) \[Acoustic\]](https://open.spotify.com/album/3b8hJAjZ4RJpyqFf3F8ls5) | 3:44 | 2024-02-16 |  |
 | [i'm a mess \(stripped version\)](https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped version\)](https://open.spotify.com/album/3SMofVKK1uWJZ5fkv1EIpK) | 2:33 | 2024-02-16 |  |
 | [i'm a mess \- stripped](https://open.spotify.com/track/1JiFcq82Ktk47AKbWkx434) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped\)](https://open.spotify.com/album/5Lr6mYqzGlUk9G4aPAetVk) | 2:33 | 2024-02-16 | 2024-04-19 |

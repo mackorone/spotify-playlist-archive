@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
+  "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
   "name": "Helemaal NL",
   "tracks": [
     {
@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "De Exalto Sessies",
+        "url": "https://open.spotify.com/album/5DIBCPGyaBpaKIC0IFFa5f"
+      },
+      "artists": [
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291637,
+      "name": "Alles Of Niets - Akoestisch",
+      "url": "https://open.spotify.com/track/5IZQPARgIn4XsSGhCfzFZQ"
+    },
+    {
+      "album": {
         "name": "Alles Wat Ik Zoek (Radio Edit)",
         "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 168871,
       "name": "Alles Wat Ik Zoek - Radio Edit",
       "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
@@ -728,7 +746,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 184615,
       "name": "Echo",
       "url": "https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i"
@@ -768,6 +786,24 @@
       "duration_ms": 199108,
       "name": "Eenzame Nacht",
       "url": "https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI"
+    },
+    {
+      "album": {
+        "name": "E\u00e9n keer achterom",
+        "url": "https://open.spotify.com/album/0TlIHAMKFWelmt9DKUxTBz"
+      },
+      "artists": [
+        {
+          "name": "Bibi van Ansem",
+          "url": "https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "E\u00e9n keer achterom",
+      "url": "https://open.spotify.com/track/0Dacq628mf81r6ZGFGMio5"
     },
     {
       "album": {
@@ -1079,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Hoe Zou Het Nu Gaan?",
+        "url": "https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190854,
+      "name": "Hoe Zou Het Nu Gaan?",
+      "url": "https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz"
+    },
+    {
+      "album": {
         "name": "Hoeveel Tranen Moet Ik Huilen",
         "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
       },
@@ -1148,10 +1202,28 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 136874,
       "name": "Huis van Zwart en Rood",
       "url": "https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs"
+    },
+    {
+      "album": {
+        "name": "Huisje Aan De Zee",
+        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166815,
+      "name": "Huisje Aan De Zee",
+      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
     },
     {
       "album": {
@@ -3060,7 +3132,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 180906,
       "name": "Vette Boeren",
       "url": "https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON"

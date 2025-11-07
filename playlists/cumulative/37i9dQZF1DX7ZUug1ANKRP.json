@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: Alesso, SASCHA",
+  "description": "The biggest Dance hits and the ones to come. Cover: HOLY PRIEST",
   "name": "Main Stage",
   "tracks": [
     {
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 141027,
       "name": "Angel in the Dark",
       "url": "https://open.spotify.com/track/36hcFKXWVtnyFyZvRxO9Qs"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 146250,
       "name": "Atlantis - Edit",
       "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
@@ -6733,6 +6733,24 @@
     },
     {
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "album": {
         "name": "Give It to Me",
         "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
       },
@@ -7772,7 +7790,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 134220,
       "name": "High",
       "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
@@ -7952,6 +7970,32 @@
       "duration_ms": 249140,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
+    },
+    {
+      "album": {
+        "name": "Hold On (feat. EVIE)",
+        "url": "https://open.spotify.com/album/4cf08XQ3LKfQcjBq6YSUj4"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "EVIE",
+          "url": "https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Hold On (feat. EVIE)",
+      "url": "https://open.spotify.com/track/2RvQ3rzIbzN3OOwefRothl"
     },
     {
       "album": {
@@ -8332,6 +8376,24 @@
       "duration_ms": 171858,
       "name": "Hutia",
       "url": "https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/7GvMFHeq5WMZrnebC7W3EQ"
+      },
+      "artists": [
+        {
+          "name": "Raaban",
+          "url": "https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/0rDQ8iz6ORhJ5cjFpW15EM"
     },
     {
       "album": {
@@ -8882,7 +8944,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 153958,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6POb8vdUWnpsueqEHCP641"
@@ -14207,6 +14269,28 @@
     },
     {
       "album": {
+        "name": "Pretty Little Lies",
+        "url": "https://open.spotify.com/album/0tRXsVp7LWLgYcbul9MfKr"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Pretty Little Lies",
+      "url": "https://open.spotify.com/track/2EE25iuKGA0Z5dVw00RMlt"
+    },
+    {
+      "album": {
         "name": "Pshet",
         "url": "https://open.spotify.com/album/1MfQ6h2TWKKnZHyYO7MyTY"
       },
@@ -15845,6 +15929,28 @@
     },
     {
       "album": {
+        "name": "Skip A Few Steps (feat. ANY)",
+        "url": "https://open.spotify.com/album/7dDmJgKsr5rkxuS6o6XiE3"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "ANY",
+          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126293,
+      "name": "Skip A Few Steps (feat. ANY)",
+      "url": "https://open.spotify.com/track/3uhDIHIjJCJRCHZrXRysuG"
+    },
+    {
+      "album": {
         "name": "SKY",
         "url": "https://open.spotify.com/album/3dQ2FRTUUGH632QgpN9QES"
       },
@@ -16938,7 +17044,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 202176,
       "name": "Sweet Nothing - 2025 Edit",
       "url": "https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3"

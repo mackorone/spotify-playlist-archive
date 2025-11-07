@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Vasilis Dimas",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Makropoulos",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200564,
+      "name": "Kerasmena",
+      "url": "https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m"
+    },
+    {
+      "album": {
         "name": "Kontra Paidi",
         "url": "https://open.spotify.com/album/1nE79NwK4nbiv93YuEYtrK"
       },
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 201602,
       "name": "Pausipona",
       "url": "https://open.spotify.com/track/6yo6cqulqLF4BKo3Hewpd6"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 199166,
       "name": "Psahno Na Vro",
       "url": "https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT"
@@ -2991,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "Se Thelo Parafora",
+        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201925,
+      "name": "Se Thelo Parafora",
+      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
+    },
+    {
+      "album": {
         "name": "Shik Shak Shock",
         "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
       },
@@ -3050,7 +3086,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 159500,
       "name": "Siga To Onoma",
       "url": "https://open.spotify.com/track/30HofaEMIC4o2YC1i42i8H"
@@ -3806,6 +3842,24 @@
       "duration_ms": 205202,
       "name": "To Viografiko",
       "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/70n4CO7lbTM7igJXszoK9P"
     },
     {
       "album": {

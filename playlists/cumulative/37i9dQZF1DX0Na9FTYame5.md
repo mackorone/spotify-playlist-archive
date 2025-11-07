@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-291 songs - 13 hr 9 min
+292 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,10 +120,11 @@
 | [I love you](https://open.spotify.com/track/1RBqjJBhQpOw5J8GnSMzV0) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [I love you](https://open.spotify.com/album/6vFpopNgLLqkLAsLrEPyYz) | 2:19 | 2025-07-24 |  |
 | [Ich brauche dich](https://open.spotify.com/track/7qj80xIKTGfCS2JI0wzjtN) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Ich brauche dich](https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN) | 2:27 | 2024-09-09 | 2025-03-25 |
 | [Ich bring dir keine Blumen](https://open.spotify.com/track/4oevkKHMUdSJkCspP2ebAE) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Ich bring dir keine Blumen](https://open.spotify.com/album/1xQWMRbUYJjFtW90WLucia) | 2:30 | 2024-10-10 | 2025-01-17 |
-| [Ich hass dich](https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Ich hass dich](https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw) | 3:13 | 2024-06-28 |  |
+| [Ich fühl...](https://open.spotify.com/track/2FCLmJXQMQF3lEix03sfuz) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Ich fühl...](https://open.spotify.com/album/7MNNmS70SCJNDZUBAyPl2z) | 3:10 | 2025-11-06 |  |
+| [Ich hass dich](https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Ich hass dich](https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw) | 3:12 | 2024-06-28 |  |
 | [Ich hoff](https://open.spotify.com/track/1taMWidwpvYK54tseGqXcH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Ich hoff](https://open.spotify.com/album/5AQKC9RMfb6b0KSI6GbhQy) | 2:26 | 2025-10-16 |  |
-| [Ich Liebe Dich](https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich Liebe Dich](https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa) | 2:35 | 2024-06-28 |  |
-| [Ich liebe...\. \(feat\. MAJAN\)](https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Ich liebe...\. \(feat\. MAJAN\)](https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj) | 3:56 | 2024-06-28 |  |
+| [Ich Liebe Dich](https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich Liebe Dich](https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa) | 2:35 | 2024-06-28 | 2025-11-07 |
+| [Ich liebe...\. \(feat\. MAJAN\)](https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Ich liebe...\. \(feat\. MAJAN\)](https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj) | 3:57 | 2024-06-28 |  |
 | [Ich schwör bei Gott](https://open.spotify.com/track/2bicGF7dHTbCynG3cgD485) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [Ich schwör bei Gott](https://open.spotify.com/album/7jJs0KTEZcKsmToM6YeELg) | 2:17 | 2024-06-28 | 2024-10-25 |
 | [Ich will](https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Ich will](https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg) | 3:13 | 2024-06-28 |  |
 | [Immerhin echt](https://open.spotify.com/track/2KTvsH0ggIv4K5V0ZomsPA) | [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Immerhin echt](https://open.spotify.com/album/07sQDLH2nLCJMWCqnj0QL2) | 3:00 | 2025-03-10 | 2025-04-18 |

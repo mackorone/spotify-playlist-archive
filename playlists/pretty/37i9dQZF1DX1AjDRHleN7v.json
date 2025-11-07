@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 397444,
+  "num_followers": 397572,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
+        "name": "Maneva 20 Anos, Origem - Ao Vivo",
+        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 152166,
+      "name": "Incenso - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
         "name": "Aeroporto (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 220147,
       "name": "Aeroporto - Ac\u00fastico",
       "url": "https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
-        "name": "Maneva 20 Anos, Origem - Ao Vivo",
-        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 152166,
-      "name": "Incenso - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
     },
     {
       "added_at": "2025-10-24 15:23:27",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Entre Borboletas e Avi\u00f5es",
-        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 207808,
-      "name": "Rede no Coqueiro",
-      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 174858,
       "name": "pequena - Ao Vivo",
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
+        "name": "Entre Borboletas e Avi\u00f5es",
+        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 207808,
+      "name": "Rede no Coqueiro",
+      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
     },
     {
       "added_at": "2025-10-24 15:23:27",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Brisa e Mar",
-        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Brisa e Mar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
+        "name": "Brisa e Mar",
+        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "Brisa e Mar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
     },
     {
       "added_at": "2025-10-24 15:23:27",

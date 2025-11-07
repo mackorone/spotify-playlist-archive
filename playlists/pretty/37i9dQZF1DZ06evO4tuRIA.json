@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 99761,
+  "num_followers": 99781,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABx/LremLH5KHtz1aELOHcl",
+  "snapshot_id": "aQqTgAAAAAD0NgAmQsDbm6u5ieLlJey/",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Hijos de Garcia",
+          "url": "https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "18 Libras (feat. Hijos de Garcia)",
+      "url": "https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Chamaco Sin Futuro",
         "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
       },
@@ -235,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Hijos de Garcia",
-          "url": "https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "18 Libras (feat. Hijos de Garcia)",
-      "url": "https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -271,6 +271,30 @@
       "duration_ms": 207184,
       "name": "Soy la Suerte",
       "url": "https://open.spotify.com/track/5XhEmjrN0XylAfyXpSIoTA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "duration_ms": 172316,
+      "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
+      "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
     },
     {
       "added_at": null,
@@ -307,30 +331,6 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        }
-      ],
-      "duration_ms": 172316,
-      "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
-      "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
     },
     {
       "added_at": null,
@@ -375,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tito Torbellino Jr.",
+          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
+        }
+      ],
+      "duration_ms": 169877,
+      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
+      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/48Mp7g8NKCWL2otrKdmY9m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tito Torbellino Jr.",
-          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
-        }
-      ],
-      "duration_ms": 169877,
-      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
-      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
     },
     {
       "added_at": null,

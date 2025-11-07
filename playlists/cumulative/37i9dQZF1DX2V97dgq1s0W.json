@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 188562,
       "name": "do what i say",
       "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
@@ -3653,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "hella jealous",
+        "url": "https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz"
+      },
+      "artists": [
+        {
+          "name": "TYLER LEWIS",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189401,
+      "name": "hella jealous",
+      "url": "https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/2UANDwNmfoh1NONgdc2p0o"
       },
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 250400,
       "name": "I Like It I Like It",
       "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
@@ -6070,7 +6088,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 213393,
       "name": "My Way",
       "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"

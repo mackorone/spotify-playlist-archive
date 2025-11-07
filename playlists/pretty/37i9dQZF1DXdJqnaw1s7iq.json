@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 63207,
+  "num_followers": 63232,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 264626,
-      "name": "Other People",
-      "url": "https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Other People",
+      "url": "https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Love Songs: Part Two",
-        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 239013,
       "name": "Dissolve Me",
       "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Love Songs: Part Two",
+        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 431520,
+      "name": "Get Innocuous!",
+      "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 251380,
       "name": "Psychic City - Classixx Remix",
       "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 431520,
-      "name": "Get Innocuous!",
-      "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 233017,
-      "name": "The Wheel",
-      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Yore",
         "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 172252,
       "name": "Babe",
       "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 233017,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Underwaterfall",
+        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 260064,
+      "name": "Underwaterfall",
+      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1307,6 +1323,22 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "New Theory",
+      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1331,38 +1363,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "New Theory",
-      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Underwaterfall",
-        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 260064,
-      "name": "Underwaterfall",
-      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Meditations on Afrocentrism",
         "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "MOVEMENT",
-        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
-      },
-      "artists": [
-        {
-          "name": "MOVEMENT",
-          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
-        }
-      ],
-      "duration_ms": 222339,
-      "name": "Ivory",
-      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 279000,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "MOVEMENT",
+        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+      },
+      "artists": [
+        {
+          "name": "MOVEMENT",
+          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+        }
+      ],
+      "duration_ms": 222339,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Electric Lines (Bonus Edition)",
-        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "Truth Is Light",
-      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "All In All",
         "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 229155,
       "name": "Without",
       "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Electric Lines (Bonus Edition)",
+        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 239076,
+      "name": "Truth Is Light",
+      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
     },
     {
       "added_at": "2025-08-22 17:54:07",

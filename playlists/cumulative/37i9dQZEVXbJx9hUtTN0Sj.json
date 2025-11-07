@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -9380,7 +9380,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 214410,
       "name": "Creepy Little Girl Singing (Horror Sound Effect)",
       "url": "https://open.spotify.com/track/6eqS8y8qnueb6D099eQV94"
@@ -13158,7 +13158,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165866,
       "name": "Extraordinaire",
       "url": "https://open.spotify.com/track/4rLtn4lxJDI40eDFIY78TY"
@@ -13458,7 +13458,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
@@ -14885,15 +14885,15 @@
       "artists": [
         {
           "name": "Ptite Soeur",
-          "url": "https://open.spotify.com/artist/7LXJIRmTnlKo9HjkgUosNv"
+          "url": "https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC"
         },
         {
           "name": "neophron",
-          "url": "https://open.spotify.com/artist/24zSIoAVcrztEtkLv356yJ"
+          "url": "https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W"
         },
         {
           "name": "FEMTOGO",
-          "url": "https://open.spotify.com/artist/6YqYSs34HtHYi7ryjS3Pua"
+          "url": "https://open.spotify.com/artist/0VphuTgDCzWuJ9Cs3kkqVL"
         }
       ],
       "date_added": "2025-11-02",
@@ -15502,7 +15502,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -26683,6 +26683,24 @@
     },
     {
       "album": {
+        "name": "Miss Your Body",
+        "url": "https://open.spotify.com/album/0GgQlsotSFIwzaYtyxYmwL"
+      },
+      "artists": [
+        {
+          "name": "nate band",
+          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Miss Your Body",
+      "url": "https://open.spotify.com/track/0IPBqw1WDfXfkzJgQaYOl9"
+    },
+    {
+      "album": {
         "name": "Modern Love",
         "url": "https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA"
       },
@@ -27280,7 +27298,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 92384,
       "name": "MONTAGEM RUGADA",
       "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
@@ -27806,6 +27824,24 @@
       "duration_ms": 157257,
       "name": "Mucho plata",
       "url": "https://open.spotify.com/track/3cp721OuOl8RjoK80AI5MR"
+    },
+    {
+      "album": {
+        "name": "MUEVELOU",
+        "url": "https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR"
+      },
+      "artists": [
+        {
+          "name": "VAD BOYZ",
+          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135659,
+      "name": "MUEVELOU",
+      "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
     },
     {
       "album": {
@@ -28726,10 +28762,32 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
+    },
+    {
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107933,
+      "name": "NO BATID\u00c3O - Slowed",
+      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
     },
     {
       "album": {
@@ -30146,7 +30204,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 140202,
       "name": "Only One",
       "url": "https://open.spotify.com/track/576mVXUFpVKsvySHclibLU"
@@ -31522,7 +31580,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 176000,
       "name": "Peur de l'amour - R\u00e9\u00e9criture d'Another Love",
       "url": "https://open.spotify.com/track/4X0bT2jv5uiOwgpgQ535Op"
@@ -32557,15 +32615,15 @@
       "artists": [
         {
           "name": "Ptite Soeur",
-          "url": "https://open.spotify.com/artist/7LXJIRmTnlKo9HjkgUosNv"
+          "url": "https://open.spotify.com/artist/0lbRlAslcfb1mRFpSlo6dC"
         },
         {
           "name": "neophron",
-          "url": "https://open.spotify.com/artist/24zSIoAVcrztEtkLv356yJ"
+          "url": "https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W"
         },
         {
           "name": "FEMTOGO",
-          "url": "https://open.spotify.com/artist/6YqYSs34HtHYi7ryjS3Pua"
+          "url": "https://open.spotify.com/artist/0VphuTgDCzWuJ9Cs3kkqVL"
         }
       ],
       "date_added": "2025-11-02",
@@ -39926,7 +39984,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -39944,7 +40002,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"

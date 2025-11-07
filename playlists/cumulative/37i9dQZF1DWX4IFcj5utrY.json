@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa. Cover: CIZA",
+  "description": "The best dance hits in South Africa. Cover: Mi Casa",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 348373,
       "name": "Bawo Vula",
       "url": "https://open.spotify.com/track/0B1TKxC6Mf9bsZ2FtBiPrv"
@@ -26170,6 +26170,24 @@
       "duration_ms": 300000,
       "name": "Tendani",
       "url": "https://open.spotify.com/track/3xfrMDmH7NDw6Pk2MFpv85"
+    },
+    {
+      "album": {
+        "name": "TER MAIS",
+        "url": "https://open.spotify.com/album/25qHL1Y33Cxko09MBMHjii"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244710,
+      "name": "TER MAIS",
+      "url": "https://open.spotify.com/track/5dK3tXnwM2yrhkWIXAcGrn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,681 likes - 93 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,671 likes - 93 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 89 | [Blackout Christmas](https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa) | 2:19 |
 | 90 | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n) | 2:50 |
 | 91 | [Christmas Time \(Is Here Again\)](https://open.spotify.com/track/2jNdOB7P8haPjgvPoYBzkY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Christmas Time \(Is Here Again\)](https://open.spotify.com/album/0HB7Iia18Csd34x85Apsnb) | 3:56 |
-| 92 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles Holiday](https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H) | 2:17 |
+| 92 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles Holiday](https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H) | 2:18 |
 | 93 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 |
 
 Snapshot ID: `AAAAAKvHyeWqtoN1BHGvb3soW7zDi1Kv`

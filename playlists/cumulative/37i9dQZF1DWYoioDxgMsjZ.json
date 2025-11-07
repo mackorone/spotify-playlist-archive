@@ -24,7 +24,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 140933,
       "name": "4eva",
       "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Artificial Angels",
+        "url": "https://open.spotify.com/album/0a8hPV58tZZa45q26OUb8C"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169477,
+      "name": "Artificial Angels",
+      "url": "https://open.spotify.com/track/0cAFtuZPD4sKl0X1R3dFin"
+    },
+    {
+      "album": {
         "name": "Double Penetration",
         "url": "https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1"
       },
@@ -434,10 +452,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 168173,
       "name": "BDE (feat. slowthai)",
       "url": "https://open.spotify.com/track/3ed5gMzocnaLWCvljQdCwe"
+    },
+    {
+      "album": {
+        "name": "BEAT UP CHANEL$",
+        "url": "https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198937,
+      "name": "BEAT UP CHANEL$",
+      "url": "https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS"
     },
     {
       "album": {
@@ -1194,7 +1230,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
@@ -1398,7 +1434,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 215454,
       "name": "Image - Grimes Special",
       "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 162000,
       "name": "Itty Bitty",
       "url": "https://open.spotify.com/track/1Sm7bXFmjP6mmT8ApaYCqQ"
@@ -1806,6 +1842,32 @@
       "duration_ms": 200287,
       "name": "METAL",
       "url": "https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G"
+    },
+    {
+      "album": {
+        "name": "MEXE (Remix)",
+        "url": "https://open.spotify.com/album/0QBSKm7MWMs4zOBR3YkTm3"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130495,
+      "name": "MEXE (feat. Cobrah & NMIXX)",
+      "url": "https://open.spotify.com/track/3ndTI268AwL7PKYLoED1I2"
     },
     {
       "album": {
@@ -2184,7 +2246,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 197346,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX"
@@ -2307,6 +2369,32 @@
     },
     {
       "album": {
+        "name": "Quest For Fire",
+        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126774,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+    },
+    {
+      "album": {
         "name": "Zoospa",
         "url": "https://open.spotify.com/album/3CvekaEXNic5LBZU6gb0Hi"
       },
@@ -2378,7 +2466,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 187127,
       "name": "Record Deal",
       "url": "https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx"
@@ -2693,6 +2781,28 @@
     },
     {
       "album": {
+        "name": "Trinity (Deluxe)",
+        "url": "https://open.spotify.com/album/0RGxQa2UeQJxEDYcGUV3lr"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188139,
+      "name": "Supersoaker - COUCOU CHLOE Remix",
+      "url": "https://open.spotify.com/track/26aLMSgcLsV7KKEc1smdjf"
+    },
+    {
+      "album": {
         "name": "Curve 1",
         "url": "https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo"
       },
@@ -2987,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/4sCdSD8XURIiTDZx3yJzAq"
+      },
+      "artists": [
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/2O6Mv8sXIf75IDFPjZf9n7"
+    },
+    {
+      "album": {
         "name": "TOUCH",
         "url": "https://open.spotify.com/album/7E9Pv3aT6vzq6DXj96O55S"
       },
@@ -3020,6 +3148,24 @@
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+    },
+    {
+      "album": {
+        "name": "Trinkets",
+        "url": "https://open.spotify.com/album/3DUFUslq7V7bLbdhGkuU6g"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116504,
+      "name": "Trinkets",
+      "url": "https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv"
     },
     {
       "album": {
@@ -3140,7 +3286,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170975,
       "name": "We Are Making Out",
       "url": "https://open.spotify.com/track/7vPKr68el3LIVzWCVmr89o"
@@ -3162,6 +3308,28 @@
       "duration_ms": 169866,
       "name": "WET",
       "url": "https://open.spotify.com/track/4JncjhRUDvh84eO25bopKp"
+    },
+    {
+      "album": {
+        "name": "Wet Like (feat. COBRAH)",
+        "url": "https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161344,
+      "name": "Wet Like (feat. COBRAH)",
+      "url": "https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ"
     },
     {
       "album": {

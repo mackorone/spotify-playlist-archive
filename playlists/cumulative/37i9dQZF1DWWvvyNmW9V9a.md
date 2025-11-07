@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> Madison forever an angel 💗💗
+> Bella and Edward, but make it Teen Beats.
 
 2,395 songs - 5 day 4 hr 30 min
 
@@ -371,7 +371,7 @@
 | [Can You Feel It?](https://open.spotify.com/track/7JIguoPVeFrm48Mjx7TTvQ) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Can You Feel It?](https://open.spotify.com/album/6WI1Qyo6IcbIq8zPOnaJYq) | 3:04 | 2024-06-04 | 2024-07-09 |
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2022-07-01 | 2022-07-30 |
 | [Can't Fake It](https://open.spotify.com/track/0ocTT0J237xFSe33Pd7GO7) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Can't Fake It](https://open.spotify.com/album/73CFBKvVMctTN6BkQhTPsl) | 2:49 | 2025-01-17 | 2025-03-24 |
-| [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-08-22 | 2025-10-04 |
+| [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-08-22 |  |
 | [CANCELLED!](https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:31 | 2025-10-03 | 2025-10-11 |
 | [Candy Paint](https://open.spotify.com/track/2hZQJequTwkaizRM0NZRa1) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Candy Paint](https://open.spotify.com/album/3s8zCKO76ch2Lff9swRjtN) | 2:50 | 2024-05-31 | 2024-06-13 |
 | [Candy Store](https://open.spotify.com/track/55sGZ6khmMO0GWb9QzZnXM) | [Jodie Steele](https://open.spotify.com/artist/5onPvDEAa0Gjg298xIdttY), [Sophie Isaacs](https://open.spotify.com/artist/7kHspWK2R6G8P3lWVMjNpi), [T'Shan Williams](https://open.spotify.com/artist/2Mp1YP6GjokS0SgdyffYyD), [Original West End Cast of Heathers](https://open.spotify.com/artist/4WK6ZRLcS2beZfrDoNvjK7) | [Heathers the Musical \(Original West End Cast Recording\)](https://open.spotify.com/album/6r3jhI1kXM7NkEDowpkxOU) | 2:56 | 2022-02-18 | 2022-02-26 |

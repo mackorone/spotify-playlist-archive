@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,688 likes - 30 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,717 likes - 30 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Real Love Pt\. 1](https://open.spotify.com/track/3hx6insLLZ8cU7gIs4xp5F) | [Brandon Woody](https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t) | [For The Love Of It All](https://open.spotify.com/album/6Ug4LyNXrVc7W1B4qZlKG4) | 7:36 |
 | 30 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Jazz Profile: Cannonball Adderley](https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp) | 5:13 |
 
-Snapshot ID: `AAAAAPUhPs2m9/gCYhOrPVV2PR+NmmmQ`
+Snapshot ID: `AAAAAOlPlPpLj73yW5yqVyeL/wj7ENzU`

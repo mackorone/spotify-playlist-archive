@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 120785,
+  "num_followers": 120796,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABdwGQ8Ev6/LrVrExSc9tx4",
+  "snapshot_id": "aQqTgAAAAAA4j0UnbBWwGKXBC35gXw3X",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "fall in love with a girl (feat. Beabadoobee)",
-        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "fall in love with a girl (feat. Beabadoobee)",
-      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Wish I Was Stephen Malkmus",
         "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 239975,
       "name": "Ceilings",
       "url": "https://open.spotify.com/track/5GP8cNzgiMG5Sm8of4zQ6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "fall in love with a girl (feat. Beabadoobee)",
+        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "fall in love with a girl (feat. Beabadoobee)",
+      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 77843,
+  "num_followers": 77891,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Daylight Express",
-        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Star Bright",
         "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 357213,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Daylight Express",
+        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 145040,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Lotus Flower",
         "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
       },
       "artists": [
         {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
         }
       ],
-      "duration_ms": 552600,
-      "name": "Tales For A Girl, 12",
-      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1483,6 +1467,22 @@
       "duration_ms": 224103,
       "name": "Drumette",
       "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+        }
+      ],
+      "duration_ms": 552600,
+      "name": "Tales For A Girl, 12",
+      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Mugsy Spanier Sentimental Journey, Vol. 3",
+        "url": "https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL"
+      },
+      "artists": [
+        {
+          "name": "Mugsy Spanier",
+          "url": "https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Mugsy Spanier Sentimental Journey, Vol. 3",
-        "url": "https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL"
-      },
-      "artists": [
-        {
-          "name": "Mugsy Spanier",
-          "url": "https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx"
-        }
-      ],
-      "duration_ms": 176613,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
     },
     {
       "added_at": "2025-09-10 12:53:12",

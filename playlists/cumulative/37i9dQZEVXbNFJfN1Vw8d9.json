@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/0lMafSfME2iJEE972bsQaK"
@@ -13426,7 +13426,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
@@ -15596,7 +15596,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 263942,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
@@ -16944,6 +16944,28 @@
       "duration_ms": 199946,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
+    },
+    {
+      "album": {
+        "name": "LOQUITA",
+        "url": "https://open.spotify.com/album/1K5TbHKzrXWTcn8aESR08d"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LOQUITA",
+      "url": "https://open.spotify.com/track/0Jep4PtPjGk8IIrAP4W8Rz"
     },
     {
       "album": {
@@ -26462,7 +26484,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 136946,
       "name": "SETEADORA",
       "url": "https://open.spotify.com/track/3jKrhSKDKOUlKYpNL12zjb"

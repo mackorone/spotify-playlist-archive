@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129295,
+  "num_followers": 129304,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABrP5xn/CUpHcLIWUgcIaE5",
+  "snapshot_id": "aQqTgAAAAAACVA8MiQbQWYSkBDkQpdGF",
   "tracks": [
     {
       "added_at": null,
@@ -491,18 +491,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrie & Lowell (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
       },
       "artists": [
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Timo Andres",
+          "url": "https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz"
+        },
+        {
+          "name": "Conor Hanick",
+          "url": "https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO"
         }
       ],
-      "duration_ms": 400661,
-      "name": "Wallowa Lake Monster - Version 2",
-      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
+      "duration_ms": 177635,
+      "name": "Reflexion",
+      "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
     },
     {
       "added_at": null,
@@ -527,26 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
+        "name": "Carrie & Lowell (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
       },
       "artists": [
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Timo Andres",
-          "url": "https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz"
-        },
-        {
-          "name": "Conor Hanick",
-          "url": "https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO"
         }
       ],
-      "duration_ms": 177635,
-      "name": "Reflexion",
-      "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
+      "duration_ms": 400661,
+      "name": "Wallowa Lake Monster - Version 2",
+      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Yourself / With My Whole Heart",
-        "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 103014,
-      "name": "Love Yourself (Short Reprise)",
-      "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
+      "duration_ms": 206373,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+        "name": "Love Yourself / With My Whole Heart",
+        "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
+      "duration_ms": 103014,
+      "name": "Love Yourself (Short Reprise)",
+      "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aporia",
-        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Lowell Brams",
-          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
-        }
-      ],
-      "duration_ms": 32699,
-      "name": "Palinodes",
-      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aporia",
+        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Lowell Brams",
+          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
+        }
+      ],
+      "duration_ms": 32699,
+      "name": "Palinodes",
+      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
     },
     {
       "added_at": null,

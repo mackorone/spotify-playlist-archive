@@ -4,7 +4,7 @@
 
 > Simply rain
 
-362 songs - 16 hr 39 min
+363 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Calming Droplets](https://open.spotify.com/track/0MKtDIpIijux0WSCLQ1PJl) | [Pluviæ](https://open.spotify.com/artist/5C2cVr4FbejP0dqohKdUgV) | [Noctis Pluvialis](https://open.spotify.com/album/1xf65AcerYYOcjsZEKGnZl) | 2:22 | 2023-06-16 | 2025-04-09 |
 | [Calming Rain Sounds](https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE) | [Capital Rain Sounds](https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA) | [Capital Rain Sounds](https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V) | 2:02 | 2021-11-08 |  |
 | [Camping In the Forest \- \(Rain & Birds\)](https://open.spotify.com/track/0R2cDyGhOpTSl7Feeu4Zs6) | [Wide Noise HD](https://open.spotify.com/artist/2W6Z4GQCDaktUWbXP8huax) | [Cabin Rain, Crickets and Birds](https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6) | 2:19 | 2022-11-16 | 2025-07-25 |
+| [Canopy Rain](https://open.spotify.com/track/2h9g4A7QBMoW4MblHgwaDv) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Canopy Rain](https://open.spotify.com/album/6TvD50Pze90eqfleZFNq6h) | 2:16 | 2025-09-23 |  |
 | [Chasing Rain](https://open.spotify.com/track/5fd6LDKbz2mIDEeBJRW9KD) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Chasing Rain](https://open.spotify.com/album/6u3snLx1jBzwTpL02dcsq2) | 3:28 | 2022-11-16 |  |
 | [Chuviscando](https://open.spotify.com/track/30fpcDpOA8ATungDAcxNoi) | [Precipitação](https://open.spotify.com/artist/46km264wFWt9vtPfr9kls2) | [Chuviscando](https://open.spotify.com/album/3Hk9biES4EWV2d733QMN7p) | 2:12 | 2023-02-13 |  |
 | [Cielo borroso](https://open.spotify.com/track/1eTLP3u8jLfIIVxW0cFDWr) | [Selective Sounds PTA](https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 | 2022-11-16 | 2025-03-24 |
@@ -98,7 +99,7 @@
 | [Ferry In Rain Stockholm](https://open.spotify.com/track/3IxXxslxS3jXhPyPrEEDhn) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Rain Over Stockholm Inlet](https://open.spotify.com/album/3o8218c81CYu3LfKnviJnE) | 3:57 | 2023-06-16 | 2024-03-23 |
 | [Flooding Rain](https://open.spotify.com/track/42lrVq6KambSMyAFo1zmeo) | [Bali Rain](https://open.spotify.com/artist/54tn0DvLnrBUmX1tthjwJS) | [Part 1](https://open.spotify.com/album/3R5FIHnUQ8QJQtLdKrq4iV) | 3:47 | 2021-11-08 |  |
 | [Focus To Rain Sound](https://open.spotify.com/track/1Zlgk780ReXjity59pzdWB) | [Storm Machine](https://open.spotify.com/artist/2pXi0IcglHeXlVJqcDStpk) | [Unlimited Rain](https://open.spotify.com/album/5AAGGHlY1D0SqdfOKcXJh2) | 2:28 | 2021-11-08 |  |
-| [Foggy Morning Rain](https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain From The Cabin](https://open.spotify.com/album/6N6hb0UO7bKqVA7uqZ09gs) | 3:14 | 2021-11-08 |  |
+| [Foggy Morning Rain](https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain From The Cabin](https://open.spotify.com/album/6N6hb0UO7bKqVA7uqZ09gs) | 3:14 | 2021-11-08 | 2025-11-07 |
 | [Forest Rain Bath](https://open.spotify.com/track/1CPZo0gX4O1U7CPp8GZ68v) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [Forest Rain Bath](https://open.spotify.com/album/4bV38Ax7XtDSfe9wvkjVog) | 3:00 | 2024-03-22 |  |
 | [Forest Spirits \(Rain\)](https://open.spotify.com/track/3VeEplQsKzt4ls3tTJrtvO) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:40 | 2021-11-08 |  |
 | [Forgotten Skies](https://open.spotify.com/track/5hY7DPBIJJc0tIBVMBIcIZ) | [cloudcity](https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8) | [Forgotten Skies](https://open.spotify.com/album/0YXwzkrl8DQFvjXbcTdeSe) | 3:28 | 2021-11-08 | 2024-03-23 |

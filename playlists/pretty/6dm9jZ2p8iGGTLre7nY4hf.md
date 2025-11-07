@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 438,795 likes - 122 songs - 7 hr 12 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 438,733 likes - 122 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 92 | [Another Life](https://open.spotify.com/track/6ALA4ufYLfN5hC4lxBX4FV) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Another Life](https://open.spotify.com/album/0M1oXyAjSf50NtJmp3GQHP) | 3:00 |
 | 93 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 |
 | 94 | [Bittersweet](https://open.spotify.com/track/2tmzXjrJMBrbDfZJ8g9mcF) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Bittersweet](https://open.spotify.com/album/3OvQIzuh1gb6NiTMkkMAas) | 2:58 |
-| 95 | [Hopelessly hopeless](https://open.spotify.com/track/3dFjXh41qqEUyp45yfY26b) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hopelessly hopeless](https://open.spotify.com/album/47GMfYxS0DzitLq9BiWjOU) | 3:24 |
+| 95 | [Hopelessly hopeless](https://open.spotify.com/track/3dFjXh41qqEUyp45yfY26b) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hopelessly hopeless](https://open.spotify.com/album/47GMfYxS0DzitLq9BiWjOU) | 3:25 |
 | 96 | [Just a Guy](https://open.spotify.com/track/3VswKmubPoS9AZ9HPg3BAm) | [Nora Jabri](https://open.spotify.com/artist/0JCbY3p0O1glhKRI9nGM9E) | [Just a Guy](https://open.spotify.com/album/38j07eyMkkzDJlyk3FHGLn) | 2:53 |
 | 97 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 |
 | 98 | [midnight love](https://open.spotify.com/track/1P7tiVl5hgemZuH8oNyP6C) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [midnight love](https://open.spotify.com/album/23QVvMWbWEMcUawebp6mSg) | 3:13 |

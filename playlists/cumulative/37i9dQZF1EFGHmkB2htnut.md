@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 6 hr 5 min
+119 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2025-07-03 |  |
 | [Lost On Me \- Reimagined](https://open.spotify.com/track/783P4OcjGqWZ19UzbwM9pc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again \(Reimagined\)](https://open.spotify.com/album/1mxmhMl4c0XkNuLABh3KPR) | 3:28 | 2025-07-03 |  |
 | [Love You More](https://open.spotify.com/track/1H7xyv0LMtZbRTzQPGLtuI) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:49 | 2025-07-03 |  |
-| [magic](https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [magic](https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO) | 3:09 | 2025-08-14 |  |
+| [magic](https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [magic](https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO) | 3:09 | 2025-08-14 | 2025-11-07 |
+| [magic](https://open.spotify.com/track/5sKOusTK8cOTX26ued359I) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [the love myself collection](https://open.spotify.com/album/3bCpWVnEKSaGWcEBblSzBC) | 3:09 | 2025-11-06 |  |
 | [Merry Bitchmas](https://open.spotify.com/track/34rNbRykHwMbKHxI87O03w) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/53AHqaUwDxyBusu6SZSIXe) | 3:24 | 2025-07-03 |  |
 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2025-07-03 |  |
 | [Mixed Signals](https://open.spotify.com/track/3h71g6qyyJRoyHOzXNSIYe) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Wide\-Eyed](https://open.spotify.com/album/6GnQAEXPs7bGDJCeshofZY) | 3:37 | 2025-07-03 |  |
@@ -88,7 +89,7 @@
 | [Nothing But Love](https://open.spotify.com/track/03Cpo8eXUd12k8TXDAtExs) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Nothing But Love](https://open.spotify.com/album/5CZ7DmZ5Wjpat1kI11RcLK) | 2:23 | 2025-07-03 |  |
 | [Nothing's All The Time](https://open.spotify.com/track/71CdOHxHHarGkr21kVJ3MG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:42 | 2025-07-03 |  |
 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-07-03 |  |
-| [Paradise](https://open.spotify.com/track/5wip4kUG4ZNaiuQNMA7Bi1) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Paradise](https://open.spotify.com/album/7hwYfu5C47eUo94ybeuxVc) | 2:51 | 2025-07-03 |  |
+| [Paradise](https://open.spotify.com/track/5wip4kUG4ZNaiuQNMA7Bi1) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Paradise](https://open.spotify.com/album/7hwYfu5C47eUo94ybeuxVc) | 2:51 | 2025-07-03 | 2025-11-07 |
 | [Paradise \(with will hyde\)](https://open.spotify.com/track/02GWxnELAR1fX56wUhDXgY) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl), [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Paradise \(with will hyde\)](https://open.spotify.com/album/70vurhysvs82MKdtczzUBX) | 3:08 | 2025-07-03 |  |
 | [Pasadena](https://open.spotify.com/track/6XQhzIxsqi6ay9HjsMpJwV) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 3:08 | 2025-07-03 |  |
 | [Pink Cadillac](https://open.spotify.com/track/2W3PyvVjEin1abo9O1iiai) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/3HeqMhX52CgQbiLozSehtu) | 3:28 | 2025-08-22 |  |

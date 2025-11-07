@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Hex Cougar
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,287 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,258 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,14 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 81 | [ready 2](https://open.spotify.com/track/1Ox9wm23PPkBUPLzKYekgY) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:46 |
 | 82 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
 | 83 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
-| 84 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 |
+| 84 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
 | 85 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
-| 86 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
+| 86 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 |
 | 87 | [Reconnect \- Moore Kismet Remix](https://open.spotify.com/track/5MIfvbqg3nylbpyO9E6wVC) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Reconnect \(Moore Kismet Remix\)](https://open.spotify.com/album/2RUSPrTZz2gUvtOvnktsd7) | 3:19 |
 | 88 | [MERCY](https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [SEEING DOUBLE EP](https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43) | 3:57 |
 | 89 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
-| 90 | [Autopilot](https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Autopilot](https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj) | 3:42 |
-| 91 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
+| 90 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
+| 91 | [Autopilot](https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Autopilot](https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj) | 3:42 |
 | 92 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 93 | [Wish I Could Forget \- William Black Remix](https://open.spotify.com/track/4cDt111m1lza60RxflHUoA) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Wish I Could Forget \(William Black Remix\)](https://open.spotify.com/album/2epDNme9aR6mueN6NQ9Mhx) | 3:06 |
 | 94 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |

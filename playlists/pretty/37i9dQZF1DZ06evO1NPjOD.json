@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39440,
+  "num_followers": 39441,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAADZYiOLDS/UMouk6Yu/5V4S",
+  "snapshot_id": "aQqTgAAAAAAakOE12uIplifDIV3Kx7xZ",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JT First Day Out",
         "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
       },
@@ -847,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Notch (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 169737,
-      "name": "Top Notch (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shisha",
-        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Shisha",
-      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 202226,
       "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shisha",
+        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Shisha",
+      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
     },
     {
       "added_at": null,
@@ -975,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boys For Life Soundtrack",
-        "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158777,
-      "name": "Money Fight",
-      "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thug Luv",
         "url": "https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 182813,
       "name": "She A Winner",
       "url": "https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boys For Life Soundtrack",
+        "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158777,
+      "name": "Money Fight",
+      "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
     }
   ],
   "unique_name": "This Is City Girls",

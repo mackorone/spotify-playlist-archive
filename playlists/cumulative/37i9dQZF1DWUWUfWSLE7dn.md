@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-192 songs - 9 hr 21 min
+194 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Storybook](https://open.spotify.com/track/71G421mQ7cWLT81NM5cOmu) | [Geoff Zanelli](https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd), [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Christopher Robin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Gb5WNBbET7YCwhyLd4ACK) | 1:22 | 2022-11-08 |  |
 | [Strength And Honor](https://open.spotify.com/track/0ZQaBlh43TG4X9Pr5NcALS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Strength And Honor](https://open.spotify.com/album/34NEsQ9jea9FQQWfxtZoas) | 3:21 | 2024-11-15 |  |
 | [Summer Fantasy \- From “Justice Online”](https://open.spotify.com/track/2pKV2fkNDcCyy7u0oHumAI) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Shanghai Philharmonic Orchestra](https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8) | [Summer Fantasy \(From “Justice Online”\)](https://open.spotify.com/album/2egmNxgYnLxHaHrNXgzMo2) | 2:34 | 2025-08-08 |  |
+| [Sunset on M\. \- felt piano version](https://open.spotify.com/track/7nuGDc7oNpIPz2tki0UFSU) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Sunset on M\. 2025](https://open.spotify.com/album/03DU2edyH9fDxFAas8z3sh) | 4:47 | 2025-11-06 |  |
 | [Symphonic Suite 3rd Part \(From "Attack on Titan"\)](https://open.spotify.com/track/7ltG3epdRWH3UYoWchRH8u) | [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Michael England](https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6) | [Symphonic Suite 3rd Part \(From "Attack on Titan"\)](https://open.spotify.com/album/7x5WqXNlG1b4XfPKPQ8B5a) | 4:04 | 2025-08-08 |  |
 | [take a breath](https://open.spotify.com/track/2dTVD9E1QsL5xWHRgiAjw6) | [FIL CRISTALLO](https://open.spotify.com/artist/1mhK0YcAZS8kTfYrUGYeTo) | [take a breath](https://open.spotify.com/album/1nm957F9G9h8Ma9vHgUr9H) | 3:48 | 2022-05-20 | 2022-11-09 |
 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 | 2022-07-22 |  |
@@ -184,6 +185,7 @@
 | [Three Days in Venice](https://open.spotify.com/track/6bkDyYr6SKesu884osJG0g) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 3:07 | 2022-04-22 | 2022-11-09 |
 | [To Breathe Again](https://open.spotify.com/track/2hMdmMDaLa6e7evidcrDmK) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Breathe Again](https://open.spotify.com/album/1JsHM0So4bhf9XsCFYj4Lc) | 2:14 | 2022-03-09 | 2022-11-09 |
 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 | 2022-11-08 |  |
+| [To Zanarkand \(From "Final Fantasy X"\)](https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 2:50 | 2025-11-06 |  |
 | [Touchless](https://open.spotify.com/track/71D7iylmSl5mbsJUIrtqYV) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Touchless](https://open.spotify.com/album/6wridSsSkC6PXi9MZRj0Yk) | 2:53 | 2022-03-09 | 2022-11-09 |
 | [Tsimtsum](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 | 2022-03-09 |  |
 | [Turbulence](https://open.spotify.com/track/0MIhLR15bY9jiYQaB3BpaQ) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Ocean](https://open.spotify.com/album/3tBUPAbNm3FZ4nAgyR01rD) | 6:50 | 2025-08-08 |  |

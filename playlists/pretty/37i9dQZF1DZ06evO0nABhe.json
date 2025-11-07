@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11489,
+  "num_followers": 11493,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAA8wdldfCTVxvcpv56UPoQ7",
+  "snapshot_id": "aQqTgAAAAAB7kI12uEvOp524I6WCPpxU",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Constant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Holding On To You",
+      "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 230666,
       "name": "Can't Slow Down",
       "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Constant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Holding On To You",
-      "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 205903,
-      "name": "How Can We Go On",
-      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Constant (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 255293,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/2QjfK1p1qzPCq0VRzx74hN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 205903,
+      "name": "How Can We Go On",
+      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 241663,
-      "name": "A Part of Me",
-      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Constant (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 232453,
       "name": "The Dream Is Over",
       "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 241663,
+      "name": "A Part of Me",
+      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Silent Murder",
-        "url": "https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 156253,
-      "name": "A Silent Murder",
-      "url": "https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Constant (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 233280,
       "name": "Ten Years Down",
       "url": "https://open.spotify.com/track/3P43WpBHNxj5wMqSNWCp75"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Silent Murder",
+        "url": "https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 156253,
+      "name": "A Silent Murder",
+      "url": "https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf"
     },
     {
       "added_at": null,

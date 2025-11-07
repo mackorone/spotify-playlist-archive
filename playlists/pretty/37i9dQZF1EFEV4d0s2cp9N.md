@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 443 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 31 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [S$DD](https://open.spotify.com/artist/1WekWbvgbqnfThxOixlYHw), [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 |
 | 32 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/31OchL4Z3abIvoywvCaXmI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/3EkoUqxtpRbsaywozm9Wg5) | 2:39 |
 | 33 | [Turn off the Lights](https://open.spotify.com/track/3TeieiG5zeormUCyJIcF5Z) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [Turn off the Lights](https://open.spotify.com/album/2EsmUBEmNSpSPAUW65C6ng) | 3:08 |
-| 34 | [Chasing Dreams](https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg) | [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB) | [Welcome to 101](https://open.spotify.com/album/2HAYtoHrVCzfyNi4XY7jW7) | 1:38 |
+| 34 | [Chasing Dreams](https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg) | [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB) | [Welcome to 101](https://open.spotify.com/album/2HAYtoHrVCzfyNi4XY7jW7) | 1:39 |
 | 35 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 |
 | 36 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 37 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 59 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 |
 | 60 | [tydfl](https://open.spotify.com/track/1iTEUzyDxQRcAbbYWsjT4A) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:32 |
 
-Snapshot ID: `AcAzugAAAABWAt/G8A9ILlNRXFS7Gxub`
+Snapshot ID: `AcA5UAAAAAC2hDshaLp0DOfHIuJ4j86i`

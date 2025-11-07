@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,284 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,285 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 36 | [Kercelak](https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:12 |
 | 37 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 |
 | 38 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
-| 39 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |
-| 40 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
+| 39 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
+| 40 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |
 | 41 | [Fearflood](https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Instant Rewards](https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm) | 5:58 |
 | 42 | [Chłopcy](https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [WIECZORAMI CHŁOPCY WYCHODZĄ NA ULICE](https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4) | 5:21 |
 | 43 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |

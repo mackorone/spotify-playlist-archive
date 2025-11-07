@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2435512,
+  "num_followers": 2435624,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Listen to Your Heart",
-        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7"
       },
       "artists": [
         {
-          "name": "Grey Grey",
-          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
+          "name": "S\u018eLFISH",
+          "url": "https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP"
         }
       ],
-      "duration_ms": 186153,
-      "name": "Listen to Your Heart",
-      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+      "duration_ms": 132147,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -203,18 +203,34 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7"
+        "name": "Listen to Your Heart",
+        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
       },
       "artists": [
         {
-          "name": "S\u018eLFISH",
-          "url": "https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP"
+          "name": "Grey Grey",
+          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
         }
       ],
-      "duration_ms": 132147,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
+      "duration_ms": 186153,
+      "name": "Listen to Your Heart",
+      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Die with A Smile",
+        "url": "https://open.spotify.com/album/3U2ym9CkgHLImVUUkAXZ7d"
+      },
+      "artists": [
+        {
+          "name": "little fictions",
+          "url": "https://open.spotify.com/artist/6KYtoDiXQBtuF3cO2sj0EO"
+        }
+      ],
+      "duration_ms": 229724,
+      "name": "Die with A Smile",
+      "url": "https://open.spotify.com/track/0WsTGH8uDMHneoTbnluW87"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -247,22 +263,6 @@
       "duration_ms": 132024,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
-        "name": "Die with A Smile",
-        "url": "https://open.spotify.com/album/3U2ym9CkgHLImVUUkAXZ7d"
-      },
-      "artists": [
-        {
-          "name": "little fictions",
-          "url": "https://open.spotify.com/artist/6KYtoDiXQBtuF3cO2sj0EO"
-        }
-      ],
-      "duration_ms": 229724,
-      "name": "Die with A Smile",
-      "url": "https://open.spotify.com/track/0WsTGH8uDMHneoTbnluW87"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Hodge",
-          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "Pink Pony Club",
         "url": "https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 196164,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hodge",
+          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 202076,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
         }
       ],
-      "duration_ms": 189732,
-      "name": "Issues - Acoustic Version",
-      "url": "https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5"
+      "duration_ms": 202076,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -599,6 +583,22 @@
       "duration_ms": 220241,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 189732,
+      "name": "Issues - Acoustic Version",
+      "url": "https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Mitchell",
-          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 176542,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Mitchell",
+          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup"
+      },
+      "artists": [
+        {
+          "name": "Mellow Boo",
+          "url": "https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
         "name": "Birds of a Feather",
         "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 179383,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
-        "name": "End of Beginning",
-        "url": "https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup"
-      },
-      "artists": [
-        {
-          "name": "Mellow Boo",
-          "url": "https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
+      },
+      "artists": [
+        {
+          "name": "seaiiana",
+          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
+        }
+      ],
+      "duration_ms": 181111,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
-        "name": "Cupid",
-        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6"
       },
       "artists": [
         {
-          "name": "seaiiana",
-          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
         }
       ],
-      "duration_ms": 181111,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
+      "duration_ms": 163812,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1511,22 +1527,6 @@
       "duration_ms": 188863,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6"
-      },
-      "artists": [
-        {
-          "name": "Kim & Otto",
-          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT"
     },
     {
       "added_at": "2025-10-14 09:44:45",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-10-14 09:44:45",
       "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/7ehZkB2gEJwJzMcLrZ237o"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "duration_ms": 205781,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/4GzWkFRu28CRKRx9qgsdu1"
+    },
+    {
+      "added_at": "2025-10-14 09:44:45",
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 191971,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
-    },
-    {
-      "added_at": "2025-10-14 09:44:45",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
-      },
-      "artists": [
-        {
-          "name": "Theresa Chase",
-          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
     }
   ],
   "unique_name": "Chill Acoustic Covers",

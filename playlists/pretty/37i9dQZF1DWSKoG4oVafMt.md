@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,304 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,377 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 84 | [Do Pal](https://open.spotify.com/track/3Zr6QUmun7ewdGW4E1kBAd) | [ABRK](https://open.spotify.com/artist/1M6zKQe5RxoPawhzsTznQF) | [Do Pal](https://open.spotify.com/album/2FrlbtH9wYEfd2mQVk342S) | 1:53 |
 | 85 | [Big Flex](https://open.spotify.com/track/4GrMhP5ePbKxBcErPQhmOb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:46 |
 | 86 | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/track/0BTyEzF1GM0J8ipX3NUal8) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/album/5aRiPnV51LMEcnNYcuFdBM) | 3:58 |
-| 87 | [Rehle Mere Kol](https://open.spotify.com/track/4yS0ItJus3N0C0ijvNAvHl) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Rehle Mere Kol](https://open.spotify.com/album/4Vg5sPyw8xzeuOhc745A42) | 2:34 |
+| 87 | [Rehle Mere Kol](https://open.spotify.com/track/4yS0ItJus3N0C0ijvNAvHl) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Rehle Mere Kol](https://open.spotify.com/album/4Vg5sPyw8xzeuOhc745A42) | 2:34 |
 | 88 | [Bijliaan \(From "Badnaam"\)](https://open.spotify.com/track/2jF2LdO4oB5nsj4Ylxwsoo) | [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Bijliaan \(From "Badnaam"\)](https://open.spotify.com/album/3AJg0ZFU4hwhhEMtYd9pKU) | 2:58 |
 | 89 | [Akhan](https://open.spotify.com/track/4l5MyJoylIob2nr31WIzg3) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 |
 | 90 | [FLOWER & SAINTS](https://open.spotify.com/track/76nPGzoILoxiq1ntIrixfS) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Stolen Dreams](https://open.spotify.com/album/3wKOSB7GTT0aeaXsEJ26G9) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 179488,
+  "num_followers": 179513,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
+        "name": "A Season Of Remixes",
+        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Brighter Day - Kirk's Mix",
+      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
         "name": "Nada Se Compara",
         "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 181956,
       "name": "Nada Se Compara",
       "url": "https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
-        "name": "A Season Of Remixes",
-        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Brighter Day - Kirk's Mix",
-      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -763,18 +763,26 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Multiforme",
-        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
+        "name": "Ele Me Amou",
+        "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Wellington Caetano",
+          "url": "https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V"
+        },
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        },
+        {
+          "name": "Rodney Graciano",
+          "url": "https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh"
         }
       ],
-      "duration_ms": 288693,
-      "name": "Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
+      "duration_ms": 269714,
+      "name": "Ele Me Amou",
+      "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -803,26 +811,18 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Ele Me Amou",
-        "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
+        "name": "Multiforme",
+        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
       },
       "artists": [
         {
-          "name": "Wellington Caetano",
-          "url": "https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V"
-        },
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        },
-        {
-          "name": "Rodney Graciano",
-          "url": "https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 269714,
-      "name": "Ele Me Amou",
-      "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
+      "duration_ms": 288693,
+      "name": "Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
     },
     {
       "added_at": "2025-05-23 03:01:26",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Lady Gaga au sommet de la premi\u00e8re playlist de France.",
+  "description": "Taylor Swift au sommet de la premi\u00e8re playlist de France.",
   "name": "Hits du Moment",
   "tracks": [
     {
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 173520,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 160573,
       "name": "Coeur maladroit",
       "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
@@ -2207,6 +2207,32 @@
     },
     {
       "album": {
+        "name": "En boucle",
+        "url": "https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246053,
+      "name": "En boucle",
+      "url": "https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC"
+    },
+    {
+      "album": {
         "name": "End of the World",
         "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
       },
@@ -2842,6 +2868,32 @@
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "album": {
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198004,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
     },
     {
       "album": {
@@ -4806,7 +4858,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
@@ -6089,6 +6141,32 @@
     },
     {
       "album": {
+        "name": "Sar\u00e0 perch\u00e8 ti amo",
+        "url": "https://open.spotify.com/album/2RsFjE9J5eKYY0WCMUbsrS"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Paolo Ortelli",
+          "url": "https://open.spotify.com/artist/6DCH9MUMbmLfoWBO0rxJuA"
+        },
+        {
+          "name": "Jay C",
+          "url": "https://open.spotify.com/artist/1q6lvZmY0FHHwQkzyCTQ9E"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165420,
+      "name": "Sar\u00e0 perch\u00e8 ti amo",
+      "url": "https://open.spotify.com/track/7xfOV2VUEd39JXePJ1j9Os"
+    },
+    {
+      "album": {
         "name": "SAXO (Anton Wick Remix)",
         "url": "https://open.spotify.com/album/0VULDXr15n5rPhdYh9XtMR"
       },
@@ -6156,6 +6234,24 @@
       "duration_ms": 192991,
       "name": "SEMPRE / JAMAIS (feat. Ang\u00e8le)",
       "url": "https://open.spotify.com/track/4kPslR1KKiN9QOZnK5he23"
+    },
+    {
+      "album": {
+        "name": "SENTIMENTAL",
+        "url": "https://open.spotify.com/album/6yWYL1AlHmkWVbuHKppErm"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "SENTIMENTAL",
+      "url": "https://open.spotify.com/track/7lf6EvTJtrbLKtJ1BKP3hv"
     },
     {
       "album": {
@@ -6416,6 +6512,48 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150686,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
       "album": {
@@ -6776,7 +6914,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 186219,
       "name": "Tamo Bien",
       "url": "https://open.spotify.com/track/72RjC359lcwhf1cON9ppls"
@@ -7586,7 +7724,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 135013,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt"

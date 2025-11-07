@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,718 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,750 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [System](https://open.spotify.com/track/2YubJQ3VbHtwSvSed7837i) | [Surender Romio](https://open.spotify.com/artist/2HvRwVX1VLbmdhXy55LDbO), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [System](https://open.spotify.com/album/4nMFvVARjlHbvnT3v4hxvG) | 2:31 |
 | 50 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 |
 
-Snapshot ID: `AAAAAPtE47uyGonvGUNu2V/1OSOic7Fi`
+Snapshot ID: `AAAAAGrqLK20UKU+Vz4mX1BxgOnpNsb9`

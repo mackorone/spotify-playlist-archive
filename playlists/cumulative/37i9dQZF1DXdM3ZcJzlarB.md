@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Innellea & Peces Raros.
 
-328 songs - 1 day 7 hr 24 min
+329 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Mushrooms \- VegaZ SL Remix \- Mixed](https://open.spotify.com/track/4ah25aaGmCtfPI2Q4qP34X) | [goodkidd](https://open.spotify.com/artist/3TsQkwBefRbM07sSS8fpSR), [Gastón Rodríguez \(AR\)](https://open.spotify.com/artist/1AK2nEhsVnIzaV74hVsAtm), [VegaZ SL](https://open.spotify.com/artist/35TmmeuoCIFr1xEP8DazE0) | [Noche Galactica, Vol\. 11 \(DJ Mix\)](https://open.spotify.com/album/6higzHaZhDAVNtZSLKVDfD) | 5:15 | 2025-06-27 |  |
 | [My Love \(Soul\)](https://open.spotify.com/track/2CDGL4qBBR3E2UaFaRLCB8) | [Sol Vietto](https://open.spotify.com/artist/19NMbL7lyVMUILzd1GAtWL) | [My Love](https://open.spotify.com/album/3i27h5xJ1lwMMdFigWvoVD) | 4:11 | 2023-11-17 | 2025-03-20 |
 | [My Own Game](https://open.spotify.com/track/7ehsDztBOjFPBNcAiA6qPC) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [My Own Game](https://open.spotify.com/album/3jmfC10RYxScBCWYHjFQrh) | 4:25 | 2025-02-28 | 2025-09-26 |
+| [My Own Game \- Oliver Koletzki Remix](https://open.spotify.com/track/1lfRXV7oyRHSGBiTPLvC3y) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [My Own Game \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1Zz6UTHiaAYMTzORIb7VuT) | 5:45 | 2025-11-07 |  |
 | [Nada para siempre](https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:49 | 2024-07-26 | 2025-03-20 |
 | [Narita](https://open.spotify.com/track/0Za0MXHa0bDwaNcki0Xbf4) | [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Resilience](https://open.spotify.com/album/0YGbmIwItg1guMnn7RkBqK) | 8:40 | 2020-09-04 | 2022-07-29 |
 | [Narita](https://open.spotify.com/track/3kkBObalFK4ZYbpK1V1aNb) | [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Resilience](https://open.spotify.com/album/0LOdLAhSPFpwUXF19fkJf6) | 8:40 | 2020-09-04 | 2023-11-18 |
@@ -217,7 +218,7 @@
 | [Oceans](https://open.spotify.com/track/1tRY7bFvl7nNBTKe3Yusia) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came to Reality EP](https://open.spotify.com/album/4mq11SIe9O3SCwMuEIFMcc) | 6:31 | 2020-09-04 | 2023-11-18 |
 | [Oceans](https://open.spotify.com/track/2fLFM5BRyrhrEQMFtY7FeI) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came To Reality EP](https://open.spotify.com/album/6kHffsbCuRXWw5Kpt0ytYx) | 6:31 | 2020-09-04 | 2023-11-11 |
 | [On Me](https://open.spotify.com/track/5VbNRLR0063EDEdNwYk4nG) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm), [Santor](https://open.spotify.com/artist/4Ao6INsRciBdfNr5WBOYlr) | [On Silence EP](https://open.spotify.com/album/0Kq6yMFb1UT94dVS30N9Eo) | 3:49 | 2025-07-25 |  |
-| [Once Once](https://open.spotify.com/track/5FYaPTvCmsiX1LN6cREn0Y) | [Jorge Savoretti](https://open.spotify.com/artist/2y5On3ikuSulzY5qLJNCba) | [Once Once](https://open.spotify.com/album/2MhMZkB71pV1jMPkRVNnk5) | 7:12 | 2025-03-19 |  |
+| [Once Once](https://open.spotify.com/track/5FYaPTvCmsiX1LN6cREn0Y) | [Jorge Savoretti](https://open.spotify.com/artist/2y5On3ikuSulzY5qLJNCba) | [Once Once](https://open.spotify.com/album/2MhMZkB71pV1jMPkRVNnk5) | 7:12 | 2025-03-19 | 2025-11-07 |
 | [Once Upon a Time \- Original Mix](https://open.spotify.com/track/6LBbUEXngeoiHk5wTBhdKT) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [Once Upon a Time](https://open.spotify.com/album/4sz56iNEt5jyh7sCNTVtTW) | 8:08 | 2020-09-04 | 2023-11-18 |
 | [One Two Three Four](https://open.spotify.com/track/6EzMEiXcLAQPPYXUiYTWiH) | [BRK \(BR\)](https://open.spotify.com/artist/2zLTIcwPglk4RMQDrf9Hsv), [Gueva](https://open.spotify.com/artist/05Pn4YBKlafyqay7CrSS17) | [One Two Three Four](https://open.spotify.com/album/4wjXfnuHVoBx3pdFr5B4d5) | 6:00 | 2025-06-30 |  |
 | [Out of Mind](https://open.spotify.com/track/41T06CLFEf09tUQSa1ln2m) | [Julieta Kühnle](https://open.spotify.com/artist/3q5V5nh60ZXK4ejyTALGNu) | [South Strangers, Vol\. 4](https://open.spotify.com/album/7zJzOCEZMLa0mulGfWH01y) | 8:01 | 2023-11-17 | 2025-06-27 |
@@ -248,7 +249,7 @@
 | [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 8:18 | 2020-09-04 | 2023-09-10 |
 | [Ritual of Love](https://open.spotify.com/track/7mcixcEvf5YTyTtx541vuM) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/2fbePD3aAPGImmJxY4adPn) | 8:18 | 2020-09-04 | 2023-11-18 |
 | [Rival](https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H) | [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Rival](https://open.spotify.com/album/58HvylSzHi8JKkbX520wNc) | 6:55 | 2023-11-17 | 2025-06-27 |
-| [Rockstar \- Giorgio Stefano & Figueredo \(AR\) Remix](https://open.spotify.com/track/4OnDSQ5IZtoYSpZdH8Vh1S) | [Torazza](https://open.spotify.com/artist/0B7BhMVRUOzbqey0IGPlpI), [Figueredo \(AR\)](https://open.spotify.com/artist/4cyoKVb1COMRpx2QNZg8Rk), [Giorgio Stefano](https://open.spotify.com/artist/3NFTYeAHSkEWw2YOtBPQjM) | [Rockstar](https://open.spotify.com/album/4xqNNssTQ9AwP1pMk7gGPd) | 5:34 | 2025-08-29 |  |
+| [Rockstar \- Giorgio Stefano & Figueredo \(AR\) Remix](https://open.spotify.com/track/4OnDSQ5IZtoYSpZdH8Vh1S) | [Torazza](https://open.spotify.com/artist/0B7BhMVRUOzbqey0IGPlpI), [Figueredo \(AR\)](https://open.spotify.com/artist/4cyoKVb1COMRpx2QNZg8Rk), [Giorgio Stefano](https://open.spotify.com/artist/3NFTYeAHSkEWw2YOtBPQjM) | [Rockstar](https://open.spotify.com/album/4xqNNssTQ9AwP1pMk7gGPd) | 5:34 | 2025-08-29 | 2025-11-07 |
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 | 2023-11-18 |
 | [Royal Road](https://open.spotify.com/track/4MCv2tKMjZ9umshBDKVnPz) | [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Impetus](https://open.spotify.com/album/33HW8bU05fylO4Dgea6LQj) | 6:22 | 2025-06-13 |  |
 | [Salvation](https://open.spotify.com/track/4O5EJGMBjFFe0OihGvGpxt) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Salvation](https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr) | 4:09 | 2024-02-02 | 2025-07-08 |

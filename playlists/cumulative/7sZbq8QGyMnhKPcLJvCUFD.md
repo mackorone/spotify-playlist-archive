@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-784 songs - 1 day 15 hr 14 min
+786 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 | 2023-08-08 |  |
 | [Hide Your Heart](https://open.spotify.com/track/23fQ2QOFRIw57uYM7w19C2) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [BRIGHTDVWN](https://open.spotify.com/artist/0ExsFJFEnGuchlp60W2oHe) | [Hide Your Heart](https://open.spotify.com/album/4tpchLz24pygDGVkoX6qXC) | 2:44 | 2023-08-01 | 2023-08-10 |
 | [High \(feat\. Aleesia\)](https://open.spotify.com/track/3Bin1J5O34OUDb3a4BctoI) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Aleesia](https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc) | [High](https://open.spotify.com/album/7LqM3dX7Iv65gtMl29Sqd5) | 2:28 | 2023-08-08 | 2024-04-17 |
+| [HIGH GRADE](https://open.spotify.com/track/7CoZYxVPnc7YXnxI2fpU6O) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB), [Nicche](https://open.spotify.com/artist/7FCu24EoM4fwOTxQ2I13h8) | [HIGH GRADE](https://open.spotify.com/album/1dPQN5btZD65yvPg3Opwg7) | 2:12 | 2025-11-06 |  |
 | [high4aminute](https://open.spotify.com/track/30yzZdUB2IwJBPHT75z6wN) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ) | [high4aminute](https://open.spotify.com/album/0zpzJJy4JNWcFQPMwLQPD3) | 1:48 | 2023-05-19 | 2023-08-10 |
 | [Hinterlands](https://open.spotify.com/track/6h3wPSFFiJ7owyARNu8op8) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hinterlands](https://open.spotify.com/album/4rzEnGAJp4uWxc7h7Kn7fM) | 4:23 | 2024-11-01 |  |
 | [Hit The Ground](https://open.spotify.com/track/0AB8w8esboIuj2qAiVaQBU) | [KAYA!](https://open.spotify.com/artist/4HuCkhcxK4l0G1xwQMAyNY), [LULO](https://open.spotify.com/artist/1SPCD4LuDZ1AHZdC6Ybtk7) | [Hit The Ground](https://open.spotify.com/album/3V9EAWy4cbnDGdOzU2bV66) | 3:04 | 2025-06-10 |  |
@@ -673,6 +674,7 @@
 | [Take It or Leave It](https://open.spotify.com/track/02Jm97ALc0atbXRpiwCLba) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Take It or Leave It](https://open.spotify.com/album/10F8ssQIhAa8r6fNM63bcL) | 2:46 | 2022-10-07 | 2023-08-10 |
 | [Take Me](https://open.spotify.com/track/1w7rP4pnAMKrqzUvXzYm4N) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Take Me](https://open.spotify.com/album/1dn6xT7eVtBBzwRtOVdOn4) | 3:13 | 2022-04-23 | 2023-08-10 |
 | [Take Me Back](https://open.spotify.com/track/5sqDNQFaebiDHuh4zHdUXy) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Take Me Back](https://open.spotify.com/album/5yJmraea3sVFgL8Hkv8MOg) | 3:03 | 2023-05-26 | 2023-08-10 |
+| [TAKE THE SKY](https://open.spotify.com/track/78Jpemg8DJ2BQMiislDgEE) | [crysstales](https://open.spotify.com/artist/3ZIN00As3dOKnQpjA3O8uz), [DJ YHR](https://open.spotify.com/artist/7kGToNiK7VyV3rpmacjFyy), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [TAKE THE SKY](https://open.spotify.com/album/66fEYvb6s3Y52v8LSnH1ed) | 1:33 | 2025-11-06 |  |
 | [Take You On](https://open.spotify.com/track/1YxGxw82Jn4jmwh2uhOhfC) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Take You On](https://open.spotify.com/album/1jZ9WnKYVayDX73mL0wSMm) | 2:59 | 2023-08-08 | 2024-01-04 |
 | [Taking It Slow](https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Taking It Slow](https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r) | 2:40 | 2024-06-27 |  |
 | [Talk That Way](https://open.spotify.com/track/190BbArduRGJbvuZsdRWBh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Talk That Way](https://open.spotify.com/album/6dBRpROjaS4RQ7TzV9FU8F) | 3:16 | 2022-09-07 | 2023-04-28 |

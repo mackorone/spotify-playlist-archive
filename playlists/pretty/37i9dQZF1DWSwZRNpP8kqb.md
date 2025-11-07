@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,113 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,127 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 35 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
 | 36 | [Donde Quiera Que Van \(feat\. Lula Bertoldi, Ivonne Guzmán, Nadia Larcher & Ana Prada\)](https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ), [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Donde Quiera Que Van \(feat\. Lula Bertoldi, Ivonne Guzmán, Nadia Larcher & Ana Prada\)](https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc) | 3:58 |
 | 37 | [La Flor del Jazmín](https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Abrazo](https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ) | 2:46 |
-| 38 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 |
-| 39 | [Doña Ubenza](https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como Un Pájaro Libre \(Slidepack\)](https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH) | 3:16 |
+| 38 | [Doña Ubenza](https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como Un Pájaro Libre \(Slidepack\)](https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH) | 3:16 |
+| 39 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 |
 | 40 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 |
 | 41 | [Cambá Galleta](https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP) | [Dúo Bote](https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL), [Abel Tesoriere](https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS), [Flor Bobadilla Oliva](https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j) | [Ysyry](https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn) | 2:34 |
 | 42 | [Aleteo](https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd) | [Aleteo](https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau) | 3:24 |

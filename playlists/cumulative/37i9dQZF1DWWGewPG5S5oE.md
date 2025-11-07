@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Soundtype
 
-464 songs - 1 day 13 hr 37 min
+465 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bright tone](https://open.spotify.com/track/4Vd9YScZr7WWVLzhBz35oI) | [Akane](https://open.spotify.com/artist/7ra3xBXluo7nL5d89nnbF4) | [Cheer Up](https://open.spotify.com/album/3HkAhdGGiBk2PuCG6JzfyL) | 3:34 | 2024-06-04 | 2024-07-10 |
 | [Brown And Black](https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Brown And Black](https://open.spotify.com/album/6iKM2co4OHPkuvzJVEjTjT) | 8:29 | 2024-04-23 | 2024-05-09 |
 | [Buono Time](https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Buono Time](https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E) | 2:56 | 2025-02-04 | 2025-04-02 |
+| [BUTTERFLY \(LIVE\)](https://open.spotify.com/track/6ND3US4IXyqUN1v9UQEpl0) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [HOPE FOR TOMORROW \(LIVE\)](https://open.spotify.com/album/5XFMFFK0I0MArDSHcfFiM5) | 6:53 | 2025-11-05 |  |
 | [CALL ME](https://open.spotify.com/track/5WiUDi45DPJNgfsF8LBFV5) | [才恵加\(saeka\)](https://open.spotify.com/artist/701fnjrVk4bW0uDZXSVhdF) | [NEW CITY](https://open.spotify.com/album/3i8z39blp9XUU0ijk8PGC9) | 3:56 | 2024-07-23 | 2024-09-18 |
 | [calm](https://open.spotify.com/track/6XLfxl4o3O0bU6puV1guqJ) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [calm](https://open.spotify.com/album/1LbqYeKsGTsUtLWzZaSyKn) | 4:01 | 2025-04-22 | 2025-06-17 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2023-01-11 |
@@ -401,7 +402,7 @@
 | [Wind Loop Case](https://open.spotify.com/track/6OYXXJAqJhTlFwr7rrJIdV) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [杉浦睦](https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G) | [Wind Loop Case](https://open.spotify.com/album/5V0lIK6rdfCCJl8ZxPRml0) | 3:41 | 2022-09-27 | 2023-03-01 |
 | [wolf moon](https://open.spotify.com/track/4Xp9m04sCoqzu41LaGCmk1) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [wolf moon](https://open.spotify.com/album/5oioKgDqssAhTVd5jWNtMV) | 4:50 | 2025-08-19 | 2025-10-20 |
 | [Wonderwall](https://open.spotify.com/track/6Qs0a1X7yYnsLL1v0ECgUG) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [Ray Yamada](https://open.spotify.com/artist/2iPwbnM7YmwRhe6tMhGfrF) | [Wonderwall](https://open.spotify.com/album/3zjPHlchINdyyXsYc6ry85) | 4:45 | 2024-10-08 | 2024-10-23 |
-| [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 | 2025-02-11 |  |
+| [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 | 2025-02-11 | 2025-11-07 |
 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-10 |  |
 | [xii\. Pig](https://open.spotify.com/track/6iLZBega4IaCrxa6qMRxrm) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [84 BPM ZODIAC](https://open.spotify.com/album/1clsgSKtxE8dTLvSYhiRbr) | 1:00 | 2023-10-17 | 2023-11-01 |
 | [YAMASTE](https://open.spotify.com/track/4lVjEChJOqqCVombMMAGX1) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [YAMASTE](https://open.spotify.com/album/06qraiNnSSgsInRH7HBlcl) | 4:46 | 2025-07-29 | 2025-08-24 |

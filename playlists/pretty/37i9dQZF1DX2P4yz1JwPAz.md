@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 
 > 808s & Melodies\. Cover: Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,358 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,355 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 42 | [Talk Quiet](https://open.spotify.com/track/7sdWbnUGRzpWJmupEpXJiP) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:20 |
 | 43 | [Page 45](https://open.spotify.com/track/2qNaS67u1sAlUyogdFA59Y) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Page 45](https://open.spotify.com/album/4OaT9hJPepJYkrDkWTly9p) | 4:00 |
 | 44 | [Kirkobain](https://open.spotify.com/track/4RCqh5udSylWxKkW3pEDRI) | [Kirky](https://open.spotify.com/artist/2fzNiCEzgdhft2I2PiaB8h) | [Kirkobain](https://open.spotify.com/album/7lKr2UPDsbDBv0fjLNFv2h) | 2:43 |
-| 45 | [On Top \(feat\. Fivio Foreign\)](https://open.spotify.com/track/71G3ce3FWwJOlpZRksXmfX) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:47 |
-| 46 | [Time](https://open.spotify.com/track/4eJsS3MQMHUgkGLOJONyN7) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [25/8](https://open.spotify.com/album/17RR2AT87P8UELwlelwM7b) | 3:04 |
+| 45 | [Time](https://open.spotify.com/track/4eJsS3MQMHUgkGLOJONyN7) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [25/8](https://open.spotify.com/album/17RR2AT87P8UELwlelwM7b) | 3:04 |
+| 46 | [On Top \(feat\. Fivio Foreign\)](https://open.spotify.com/track/71G3ce3FWwJOlpZRksXmfX) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:47 |
 | 47 | [Sit Back](https://open.spotify.com/track/7E9N70fhyaUnhgMl9OlRgF) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Sit Back](https://open.spotify.com/album/02MX06GlX0M5zl7XSg1b54) | 3:00 |
 | 48 | [Quiet](https://open.spotify.com/track/5Y3Mj308BxTie361t8iyLt) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ), [Jada O'Neill](https://open.spotify.com/artist/67XWu4IXgDzcwqrx6zvyfi) | [Quiet](https://open.spotify.com/album/0bW473EJyGNL1UkHzoY3jz) | 2:32 |
 | 49 | [Come Ouu \(feat\. Jrilla\)](https://open.spotify.com/track/5AZfN1S0gAbaMtgrOFoxsD) | [SELLO](https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7), [JRILLA](https://open.spotify.com/artist/29Xl0H2RxIYmnodIPU5Jw1) | [SELLÓTAPE](https://open.spotify.com/album/2FxKuexnnZpUS2g23JC8zY) | 3:18 |

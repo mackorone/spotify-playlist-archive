@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الخليجية\. الغلاف: عايض
 
-223 songs - 16 hr 1 min
+224 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Nafs Al Muftarak](https://open.spotify.com/track/58lYW6pa7nkYtt3gAReZ3m) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Nafs Al Muftarak](https://open.spotify.com/album/4WAPReCYSyjPoUAm9pGFx2) | 4:25 | 2022-04-07 | 2023-03-15 |
 | [Nosy Al Ajmal](https://open.spotify.com/track/0jMoAlPlTfxFEcR5tYI86H) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Nosy Al Ajmal](https://open.spotify.com/album/04kL7GXfzkQcAqNdYcUM2R) | 4:32 | 2024-12-31 | 2025-07-15 |
 | [Nsa Nfsah](https://open.spotify.com/track/18JtCEpNrIIOJZlvUaSjk8) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Nsa Nfsah](https://open.spotify.com/album/0wxHcgJP08F11Rz9GsZBRn) | 4:01 | 2024-01-24 | 2024-04-19 |
+| [Qalb Alwaraq Nersam](https://open.spotify.com/track/2LMNbL6QJCCrvRHH75Firl) | [Mohamed Abdul Jabbar](https://open.spotify.com/artist/3KbHfGyoCoOALz8Ms340Xp), [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Qalb Alwaraq Nersam](https://open.spotify.com/album/7xmWTBfYQ9LKFEvx40bhyd) | 4:07 | 2025-11-06 |  |
 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 | 2023-04-27 | 2025-01-23 |
 | [Qatlni Hobak](https://open.spotify.com/track/7JqngiYbIy1jv6o0zq45PS) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Qatlni Hobak](https://open.spotify.com/album/5rM0FdvjpBafPkf7ojIeVQ) | 3:27 | 2022-07-25 | 2023-08-11 |
 | [Qeiam](https://open.spotify.com/track/6gHhZKa9F7WqCVXkj29Qss) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Marhaba](https://open.spotify.com/album/0SwI39bKzHkorStj3SHDV8) | 4:04 | 2024-04-18 |  |
@@ -158,7 +159,7 @@
 | [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2022-04-07 | 2022-12-09 |
 | [Ya Jannat El Dinia](https://open.spotify.com/track/47P2kGqDQtyVXAzg1ywjmr) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Mohammed Abdo 2024](https://open.spotify.com/album/0CgRFv0sKpaGZxa6Jh10DO) | 3:53 | 2024-11-11 |  |
 | [Ya Monyati](https://open.spotify.com/track/7wsIBAUAr6PRARca4KDot9) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2024](https://open.spotify.com/album/7q9ZsaQ6tyCoB4aJq1Lma7) | 4:05 | 2024-09-05 | 2025-07-01 |
-| [Ya Nadmanah](https://open.spotify.com/track/43U6XTwaYlxPHy5n9FpV9o) | [Zayed Al Saleh](https://open.spotify.com/artist/1l5hkQZj28djsCJWtN62wm) | [Songs 2014](https://open.spotify.com/album/5s2OWfuwCojCAzUHj1XOlN) | 6:00 | 2025-09-14 |  |
+| [Ya Nadmanah](https://open.spotify.com/track/43U6XTwaYlxPHy5n9FpV9o) | [Zayed Al Saleh](https://open.spotify.com/artist/1l5hkQZj28djsCJWtN62wm) | [Songs 2014](https://open.spotify.com/album/5s2OWfuwCojCAzUHj1XOlN) | 6:00 | 2025-09-14 | 2025-11-07 |
 | [Ya Teeby](https://open.spotify.com/track/5VEyLrrmsz5m4qw09EFTLY) | [Nabeel Shuail](https://open.spotify.com/artist/4nZsv9MFbvSrHrNupU4Ttu) | [Ya Teeby](https://open.spotify.com/album/5cRh6dR6POLV2wUyP5uVLc) | 3:37 | 2024-11-25 |  |
 | [Ya Zain El Zain](https://open.spotify.com/track/52uNdZCDUCgyVho9CnFun2) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Zain El Zain](https://open.spotify.com/album/3UrneICqeyutuEi8cibtyD) | 3:36 | 2024-05-15 |  |
 | [Yabn Elawadem](https://open.spotify.com/track/59QhPINpDiU4BP2v4o33Eg) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Aalam Mowazi](https://open.spotify.com/album/48Gf2lv7siQk2cfXUQ7KDu) | 4:55 | 2024-04-18 | 2024-09-06 |

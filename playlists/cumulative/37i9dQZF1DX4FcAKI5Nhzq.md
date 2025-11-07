@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: KiiKii\)
 
-1,490 songs - 3 day 8 hr 11 min
+1,492 songs - 3 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-26 | 2024-03-31 |
 | [3108](https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/0pwKuUl5Rx2o2GWsARCCOU) | 2:58 | 2020-11-11 | 2021-03-10 |
 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 | 2022-10-06 | 2022-12-14 |
-| [54321 \(Feat\. HAEWON of NMIXX\)](https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAEWON](https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 3:05 | 2025-08-18 |  |
+| [54321 \(Feat\. HAEWON of NMIXX\)](https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAEWON](https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 3:05 | 2025-08-18 | 2025-11-07 |
 | [7HEAVEN](https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [FESTA](https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x) | 3:28 | 2023-09-11 | 2023-10-12 |
 | [8'O Clock](https://open.spotify.com/track/5mNPMAT47L4ZriY5YIGqJl) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [8'O Clock](https://open.spotify.com/album/0U2zMQyT1Cw2q6hFjx4c6D) | 2:52 | 2021-08-25 | 2021-10-06 |
 | [90's Love](https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:33 | 2020-11-23 | 2021-04-22 |
@@ -573,6 +573,7 @@
 | [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 | 2025-09-24 |  |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2021-11-12 | 2021-12-02 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-30 | 2022-09-25 |
+| [Heart Drop](https://open.spotify.com/track/4lihmuAwCau08DRXHOCthl) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Heart Drop](https://open.spotify.com/album/2y8ewgXeGj2UIO4WBvcimQ) | 3:03 | 2025-11-06 |  |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-24 | 2022-02-23 |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-11-03 | 2024-01-11 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2023-09-21 | 2023-12-02 |
@@ -782,7 +783,7 @@
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-08-05 | 2023-04-21 |
 | [Love Effect](https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [LOVE EFFECT](https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz) | 2:52 | 2023-10-05 | 2023-11-08 |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-02 | 2022-05-25 |
-| [Love in the City](https://open.spotify.com/track/6CR555XA7zP2P3N7KqLlnN) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Love in the City](https://open.spotify.com/album/0QFqaVrdzz9qAcLllxknWI) | 3:30 | 2025-09-30 |  |
+| [Love in the City](https://open.spotify.com/track/6CR555XA7zP2P3N7KqLlnN) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Love in the City](https://open.spotify.com/album/0QFqaVrdzz9qAcLllxknWI) | 3:30 | 2025-09-30 | 2025-11-07 |
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-17 | 2022-06-30 |
 | [LOVE ME](https://open.spotify.com/track/7LreeC9Gh242SqbUEWLlo1) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [POSER](https://open.spotify.com/album/0nMWRJyIjND1q5lSMW4fus) | 2:26 | 2025-08-28 | 2025-10-08 |
 | [Love Me A Little](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [THE UNSEEN](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) | 3:19 | 2023-07-25 | 2023-09-28 |
@@ -1143,6 +1144,7 @@
 | [Shine Together](https://open.spotify.com/track/6Bj8o5vulKzrYmmaeCcBEe) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SPECIAL HISTORY BOOK](https://open.spotify.com/album/3XByrdCCU42SI5I9nxoA10) | 3:30 | 2020-10-13\* | 2020-11-16 |
 | [SHOCK](https://open.spotify.com/track/0F2s3Lc7LeAlt2w7OokIoL) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [WITNESS](https://open.spotify.com/album/5Jx6O54pZxFGlMaeO25FWt) | 3:08 | 2024-07-05 | 2024-11-28 |
 | [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 | 2025-09-12 | 2025-10-28 |
+| [Shooting Star](https://open.spotify.com/track/0RfNTMF3DHQ3cwtHsnsrkH) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop4](https://open.spotify.com/album/1BOkPFJimZBcb1Cx4p78FD) | 3:07 | 2025-11-06 |  |
 | [Shooting Star](https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez) | 3:03 | 2024-06-12 | 2025-03-28 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-09 | 2023-03-03 |
 | [Shut Up 받고 Crazy Hot!](https://open.spotify.com/track/1z7QyEi7KWDgqKr4MtnmAm) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Shut Up 받고 Crazy Hot!](https://open.spotify.com/album/0UXupM1TaPLQSTMkKwYEqQ) | 3:45 | 2021-08-11 | 2021-09-18 |

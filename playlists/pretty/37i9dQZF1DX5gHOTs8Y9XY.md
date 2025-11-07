@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 82 | [Over The Rainbow](https://open.spotify.com/track/3wAIcORchxdSkWv6v5AkaU) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Greatest Performances Original Recordings](https://open.spotify.com/album/0HnXnEBr9Whc6Go4Bw0km6) | 2:47 |
 | 83 | [You Go To My Head \- 2020 Mix](https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(2020 Mix / Expanded Edition\)](https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW) | 4:26 |
 | 84 | [Out of Nowhere](https://open.spotify.com/track/6OZ210lsvCsoIqjBZcGYvm) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [All Star Sessions](https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3) | 3:20 |
-| 85 | [A Foggy Day](https://open.spotify.com/track/13BAOu7oc99iPNC06ZpM0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:34 |
-| 86 | [Stevie](https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:22 |
+| 85 | [Stevie](https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:22 |
+| 86 | [A Foggy Day](https://open.spotify.com/track/13BAOu7oc99iPNC06ZpM0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:34 |
 | 87 | [Paul's Pal \- Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 5:09 |
 | 88 | [Never Will I Marry](https://open.spotify.com/track/2bOUrmH6OljKtXOLjvVEU8) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:19 |
 | 89 | [The Nearness Of You](https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Swingin's Mutual! \(Expanded Edition\)](https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7) | 3:00 |

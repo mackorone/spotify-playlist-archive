@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 300007,
+  "num_followers": 300023,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAN6ld1GuPN/wh+/irJORHxsS/VMG",
   "tracks": [
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Sci-Fi Crimes",
-        "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Jars",
-      "url": "https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 191372,
       "name": "Getting Away With Murder",
       "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Sci-Fi Crimes",
+        "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Jars",
+      "url": "https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185133,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Who Needs Friends",
-      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "S!CK",
         "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 192734,
       "name": "S!CK",
       "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Who Needs Friends",
+      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Life Under The Gun",
-        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
       },
       "artists": [
         {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+          "name": "CQ Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
         }
       ],
-      "duration_ms": 140027,
-      "name": "Never Fucked Up Once",
-      "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Life Under The Gun",
+        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "duration_ms": 140027,
+      "name": "Never Fucked Up Once",
+      "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 204975,
       "name": "Vertigo Flowers",
       "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
-      },
-      "artists": [
-        {
-          "name": "CQ Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "The Rift",
-      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2024-12-03 09:27:47",

@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-347 songs - 18 hr 45 min
+348 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Ça Berger](https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Noël Des Anges](https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh) | 2:57 | 2021-12-17 | 2025-04-08 |
 | [Ça bergers](https://open.spotify.com/track/51TcglSn8lt01fQEnKd2Jx) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 2:26 | 2021-12-17 | 2022-07-27 |
 | [Ça sent Noël](https://open.spotify.com/track/0GDSLNLq2nHFlNKtM8lxG5) | [Élia Laure](https://open.spotify.com/artist/504WsVRwqge7bTawKTzsCJ) | [Ça sent Noël](https://open.spotify.com/album/2bj08RpbpHeWkegauOZjT7) | 3:12 | 2021-12-17 | 2022-07-28 |
+| [Ça y est, c'est Noël!](https://open.spotify.com/track/4jOgTe5igImDuEHFi75oUe) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Ça y est, c'est Noël!](https://open.spotify.com/album/1Djr0YDQFkSY1l0YcVKwSu) | 3:12 | 2025-10-24 |  |
 | [Écoutez Le Chant Des Anges](https://open.spotify.com/track/7aFE0125T9VaJpKODz4425) | [Sebastian Demrey & Jimmy Lahaie](https://open.spotify.com/artist/4boXCFW88xIa9K94eBJyMX) | [Heritage Cantiques De Noel](https://open.spotify.com/album/0HiAmdNNSc6v1rNHXfVSIn) | 3:23 | 2021-12-17 | 2022-08-09 |
 | [Ô traîneau dans le ciel](https://open.spotify.com/track/1kotZfGh3Whdpvs3mze4oz) | [Maryse Letarte](https://open.spotify.com/artist/526r8qKsRfi46SMfj1Vu5n) | [Des pas dans la neige \(Bonus track version\)](https://open.spotify.com/album/0zosKa4OSEVZx2AydZGfRY) | 3:51 | 2021-12-17 | 2022-07-29 |
 

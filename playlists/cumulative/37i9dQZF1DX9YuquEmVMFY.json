@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "TRAVIS SCOTT - CIRCUS MAXIMUS in Korea 2025.10.25 @ \uace0\uc591 \uc885\ud569 \uc6b4\ub3d9\uc7a5",
-  "name": "On Tour Korea: Travis Scott",
+  "description": "eaJ [LOVE IN SEOUL] 2025.11.13 @ \ube14\ub8e8\uc2a4\ud018\uc5b4 SOL\ud2b8\ub798\ube14\ud640",
+  "name": "On Tour Korea: eaJ",
   "tracks": [
     {
       "album": {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190581,
       "name": "4X4",
       "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 339066,
       "name": "90210 (feat. Kacy Hill)",
       "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 142969,
       "name": "ASTROTHUNDER",
       "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC"
@@ -1233,6 +1233,28 @@
     },
     {
       "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149690,
+      "name": "burn",
+      "url": "https://open.spotify.com/track/1bMuzydx2yyTMDfQHKSWF8"
+    },
+    {
+      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190557,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
@@ -1382,10 +1404,28 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 198408,
       "name": "CAN'T SAY",
       "url": "https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL"
+    },
+    {
+      "album": {
+        "name": "Car Crash",
+        "url": "https://open.spotify.com/album/0xsPkI7oHXiqESHLNwHsGV"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/6mZ6SNzhdYJg9cN22RoZip"
     },
     {
       "album": {
@@ -1408,6 +1448,24 @@
       "duration_ms": 282329,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
+    },
+    {
+      "album": {
+        "name": "laughing in insomnia",
+        "url": "https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176101,
+      "name": "castle in the sky",
+      "url": "https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB"
     },
     {
       "album": {
@@ -1480,7 +1538,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 184789,
       "name": "CHAMPAIN & VACAY",
       "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
@@ -1578,7 +1636,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 169840,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
@@ -1900,7 +1958,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 156157,
       "name": "DA WIZARD",
       "url": "https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW"
@@ -1922,7 +1980,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 256161,
       "name": "Dark Knight Dummo (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog"
@@ -2270,7 +2328,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 208487,
       "name": "Drugs You Should Try It",
       "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
@@ -2306,7 +2364,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
@@ -2418,7 +2476,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 192693,
       "name": "Embarrassed (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
@@ -2440,6 +2498,24 @@
       "duration_ms": 203760,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/6ivzyHOOZEJFnuYGyM7sLl"
+    },
+    {
+      "album": {
+        "name": "smiling in insomnia",
+        "url": "https://open.spotify.com/album/0eT58VGGLrYPMrNAp1iEkg"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156020,
+      "name": "enemy",
+      "url": "https://open.spotify.com/track/4v8jCYnK4NPjHzujzucsPu"
     },
     {
       "album": {
@@ -2602,7 +2678,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
@@ -2780,7 +2856,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -3140,7 +3216,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
@@ -3162,6 +3238,24 @@
       "duration_ms": 214080,
       "name": "Free Now",
       "url": "https://open.spotify.com/track/1aThn8Pk8zRzGGPClZe9Oq"
+    },
+    {
+      "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "friendly fire",
+      "url": "https://open.spotify.com/track/5gKAyVa0H23yWgiPGUaj3a"
     },
     {
       "album": {
@@ -3430,7 +3524,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 243836,
       "name": "goosebumps",
       "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
@@ -3804,7 +3898,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
@@ -3866,7 +3960,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
@@ -4064,7 +4158,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -4489,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "medicated insomnia",
+        "url": "https://open.spotify.com/album/5bihxDFhue1Lsz12BoKU3Z"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157688,
+      "name": "in my civic",
+      "url": "https://open.spotify.com/track/5juhApsqgUntbADKWjYQzo"
+    },
+    {
+      "album": {
         "name": "In My Place",
         "url": "https://open.spotify.com/album/2fycwGrq4XpHHWoLR4hOzF"
       },
@@ -4860,7 +4972,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170498,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
@@ -4900,6 +5012,24 @@
       "duration_ms": 210760,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/76ajdo62weImHi4csF4l57"
+    },
+    {
+      "album": {
+        "name": "LA Traffic (/)",
+        "url": "https://open.spotify.com/album/5VVBPjyR9RudYLi2r3FNR1"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89516,
+      "name": "LA Traffic (/)",
+      "url": "https://open.spotify.com/track/17l1jfvTVIB7Py0UreZhQn"
     },
     {
       "album": {
@@ -5048,6 +5178,24 @@
       "duration_ms": 256105,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/7Cd17G3oNQ34OWUwS8ZxfR"
+    },
+    {
+      "album": {
+        "name": "smiling in insomnia",
+        "url": "https://open.spotify.com/album/0eT58VGGLrYPMrNAp1iEkg"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144991,
+      "name": "lennon",
+      "url": "https://open.spotify.com/track/6tUm6ytqWbqPByOl4WFXP9"
     },
     {
       "album": {
@@ -5342,7 +5490,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 163071,
       "name": "LOST FOREVER (feat. Westside Gunn)",
       "url": "https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf"
@@ -5404,7 +5552,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 275080,
       "name": "Love Galore (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
@@ -5525,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177529,
+      "name": "mad",
+      "url": "https://open.spotify.com/track/5y5r0EqHTGhkNEBhWIGVCS"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -5536,7 +5702,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 240000,
       "name": "MAFIA",
       "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
@@ -5634,7 +5800,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -5674,6 +5840,24 @@
       "duration_ms": 233640,
       "name": "Memory Loss",
       "url": "https://open.spotify.com/track/0tCZ6PZXTa25Fidj0DnYzJ"
+    },
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144920,
+      "name": "merry go round",
+      "url": "https://open.spotify.com/track/3hCyHQV60DGUiPCEQHXgxY"
     },
     {
       "album": {
@@ -5862,7 +6046,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -6080,7 +6264,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
@@ -6106,7 +6290,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 321560,
       "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
       "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
@@ -6262,7 +6446,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
@@ -6414,7 +6598,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 239613,
       "name": "Open Arms (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6koKhrBBcExADvWuOgceNZ"
@@ -6494,7 +6678,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
@@ -6516,10 +6700,28 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 166093,
       "name": "Overdue (with Travis Scott)",
       "url": "https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM"
+    },
+    {
+      "album": {
+        "name": "medicated insomnia",
+        "url": "https://open.spotify.com/album/5bihxDFhue1Lsz12BoKU3Z"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93520,
+      "name": "pacman",
+      "url": "https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc"
     },
     {
       "album": {
@@ -6667,6 +6869,24 @@
     },
     {
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "pause",
+      "url": "https://open.spotify.com/track/1abgG2jgztGM55dZBAZRHh"
+    },
+    {
+      "album": {
         "name": "Peng Black Girls Remix - A COLORS SHOW",
         "url": "https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z"
       },
@@ -6722,7 +6942,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 210600,
       "name": "Pipe Down (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS"
@@ -7004,7 +7224,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 188586,
       "name": "Raindrops (Insane) [with Travis Scott]",
       "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY"
@@ -7051,6 +7271,24 @@
     },
     {
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "RED (from Arena Breakout: Infinite)",
+      "url": "https://open.spotify.com/track/6eowYvfU4m6MfTXHn7ScUB"
+    },
+    {
+      "album": {
         "name": "RED OUT",
         "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
       },
@@ -7088,7 +7326,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 291192,
       "name": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)",
       "url": "https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6"
@@ -7186,6 +7424,28 @@
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/3pCJv99i3sQWlYV5x3T60E"
+    },
+    {
+      "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "right where you left me",
+      "url": "https://open.spotify.com/track/6BP77NXCd1vdzcdl878Mig"
     },
     {
       "album": {
@@ -7319,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122131,
+      "name": "ruin my life",
+      "url": "https://open.spotify.com/track/3TcopyBqafzM0EG4rcNbmu"
+    },
+    {
+      "album": {
         "name": "RuLe",
         "url": "https://open.spotify.com/album/7gjjcHhpt9R2L5uZspoACk"
       },
@@ -7377,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "smiling in insomnia",
+        "url": "https://open.spotify.com/album/0eT58VGGLrYPMrNAp1iEkg"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138113,
+      "name": "safe in the rain",
+      "url": "https://open.spotify.com/track/70IqUiabcCm7cFk2Uc55oB"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -7406,7 +7702,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 191622,
       "name": "sdp interlude",
       "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
@@ -7544,7 +7840,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 193183,
       "name": "SHYNE",
       "url": "https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny"
@@ -7562,7 +7858,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
@@ -7620,7 +7916,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 145588,
       "name": "SKELETONS",
       "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl"
@@ -7642,7 +7938,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
@@ -8180,7 +8476,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 180666,
       "name": "Stuff (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N"
@@ -8384,7 +8680,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 229573,
       "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
       "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
@@ -8508,7 +8804,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -8678,7 +8974,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
@@ -8896,7 +9192,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 314836,
       "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
       "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
@@ -9046,10 +9342,28 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
+    },
+    {
+      "album": {
+        "name": "laughing in insomnia",
+        "url": "https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "traveler",
+      "url": "https://open.spotify.com/track/0IcZVi8GTyOH0lp36qi7Gj"
     },
     {
       "album": {
@@ -9170,10 +9484,28 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "album": {
+        "name": "laughing in insomnia",
+        "url": "https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126614,
+      "name": "typical story",
+      "url": "https://open.spotify.com/track/4CMxPM4rUaslm9WQy9zJNf"
     },
     {
       "album": {
@@ -9352,6 +9684,32 @@
       "duration_ms": 222653,
       "name": "Violet Hill",
       "url": "https://open.spotify.com/track/51inJOifIQ6J8aAXbNFIGM"
+    },
+    {
+      "album": {
+        "name": "VISIONS",
+        "url": "https://open.spotify.com/album/6uWi2CjzgC6W2l1N4R8uIX"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "Safari Riot",
+          "url": "https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225142,
+      "name": "VISIONS",
+      "url": "https://open.spotify.com/track/5pkqN8A6vyZp3qmUZK41zc"
     },
     {
       "album": {
@@ -9597,6 +9955,24 @@
     },
     {
       "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+    },
+    {
+      "album": {
         "name": "A Thousand Suns",
         "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
       },
@@ -9710,7 +10086,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 272941,
       "name": "WHERE WAS YOU",
       "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
@@ -9990,7 +10366,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 150043,
       "name": "YOSEMITE",
       "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR"
@@ -10030,7 +10406,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 213637,
       "name": "You (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
@@ -10204,7 +10580,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 228759,
       "name": "ZEZE (feat. Travis Scott & Offset)",
       "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"

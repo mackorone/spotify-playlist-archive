@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: FTISLAND\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Grizzly\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,072 songs - 2 day 17 hr 22 min
+1,073 songs - 2 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 | 2025-06-05 |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-08-24 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
-| [Dive!](https://open.spotify.com/track/0Z39zxpbzamKeWNLKd3tRE) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dive!](https://open.spotify.com/album/1LULxDQtvUx6miaSB3nTaY) | 3:11 | 2025-10-10 |  |
+| [Dive!](https://open.spotify.com/track/0Z39zxpbzamKeWNLKd3tRE) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dive!](https://open.spotify.com/album/1LULxDQtvUx6miaSB3nTaY) | 3:11 | 2025-10-10 | 2025-11-07 |
 | [Dizzy](https://open.spotify.com/track/6QOpfGN5A1DJetRjHZ5dwr) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CODA](https://open.spotify.com/album/5yyA9mUXeHO21XthokskOp) | 4:19 | 2025-09-16 | 2025-09-22 |
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-04-05 | 2023-04-15 |
 | [Do You Need A Rockstar](https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Do You Need A Rockstar](https://open.spotify.com/album/4TMfhEcfhMRsFd3jHNlOIJ) | 3:13 | 2022-04-21 | 2022-04-24 |
@@ -439,7 +439,7 @@
 | [ice sea](https://open.spotify.com/track/24HGQKvNuXORD8m4kvUAaY) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [ice sea](https://open.spotify.com/album/0zlDKtTQjbHk1dOBWIsenR) | 4:57 | 2024-07-23 | 2024-08-07 |
 | [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 | 2023-11-23 | 2024-05-10 |
 | [Ideal Type](https://open.spotify.com/track/4sfX9xKPZ8HAListUbnuGQ) | [Catch The Young](https://open.spotify.com/artist/422jw2by1jl14vn1FP9EGA) | [Ideal Type](https://open.spotify.com/album/1JuyNFdnp0B1AbxBxAtKnl) | 3:42 | 2025-06-30 | 2025-07-04 |
-| [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 | 2025-03-17 | 2025-11-05 |
+| [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 | 2025-03-17 |  |
 | [If I were rich](https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK), [Ravi](https://open.spotify.com/artist/33Cti7pK8o3exjycH47Xk5) | [If I were rich](https://open.spotify.com/album/36uTV3j8uvWe4aRbdDBDQH) | 3:19 | 2022-04-12 | 2022-07-26 |
 | [IN MY DREAM](https://open.spotify.com/track/4znEIFtqs9PeeHAQj9S7H6) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [IN MY DREAM \(Original Soundtrack from the Webtoon 'Reincarnator'\)](https://open.spotify.com/album/2KyreiehXIneH6JSLp3Aeb) | 3:16 | 2024-09-19 | 2024-11-30 |
 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 | 2022-10-19 |
@@ -799,6 +799,7 @@
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2022-04-22 | 2023-06-08 |
 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 | 2023-06-01 |  |
 | [shootamoviewithu](https://open.spotify.com/track/3sP256v3klKnTETcRXuIwq) | [TOMYO](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [shootamoviewithu](https://open.spotify.com/album/1pX2UnSqVlnu1EMebplZPy) | 3:21 | 2023-07-11 | 2023-07-18 |
+| [Shooting Star](https://open.spotify.com/track/0RfNTMF3DHQ3cwtHsnsrkH) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop4](https://open.spotify.com/album/1BOkPFJimZBcb1Cx4p78FD) | 3:07 | 2025-11-06 |  |
 | [Shooting Star](https://open.spotify.com/track/134KU6G8TmOm0OQnJfmgO9) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Sh\*\*ting Stars \(Original Television Soundtrack\)](https://open.spotify.com/album/6gcG8b4AJKxxHnaB5G5tVj) | 3:27 | 2022-06-18 | 2022-07-02 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-22 | 2023-03-04 |
 | [Shoulda Loved You Less \(with LEE HONG GI of FTISLAND\)](https://open.spotify.com/track/1HDEDQDYnWBwyD8ynf4Uux) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Shoulda Loved You Less](https://open.spotify.com/album/5TFPshhDOxqLtkx5TKDZB7) | 3:30 | 2025-06-23 | 2025-06-26 |
@@ -904,7 +905,7 @@
 | [The Nation](https://open.spotify.com/track/2ZU9mOK47wo2BLXmvZ9lV4) | [PITTA](https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI) | [The Nation](https://open.spotify.com/album/1RRisKTmM1K9pKXMKNSyYF) | 3:27 | 2022-04-22 | 2022-07-08 |
 | [THE PARTY SONG](https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [THE PARTY SONG](https://open.spotify.com/album/3r945C3WcZM28fra78rhqD) | 2:30 | 2023-06-01 | 2023-06-30 |
 | [The Piper](https://open.spotify.com/track/4bkXHH5lvTFY8ijhrl0UXA) | [BUT 벗](https://open.spotify.com/artist/0S5UlGMSHfr2MH6xYlC3UB) | [Better Unique Travel](https://open.spotify.com/album/2xnxgQlR6bhGP79eDrh5U7) | 4:42 | 2022-04-12 | 2022-04-21 |
-| [The Place](https://open.spotify.com/track/24EZZ3YKMApbZsHxnFgL2C) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [The Place](https://open.spotify.com/album/4PUVnefFSS0KIVVZzZZL2J) | 3:43 | 2025-11-03 |  |
+| [The Place](https://open.spotify.com/track/24EZZ3YKMApbZsHxnFgL2C) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [The Place](https://open.spotify.com/album/4PUVnefFSS0KIVVZzZZL2J) | 3:43 | 2025-11-03 | 2025-11-07 |
 | [The Queen](https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [CLEANING UP \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4WIE1wBrZ2hqzxJdyw7jdG) | 3:28 | 2022-07-08 | 2022-07-23 |
 | [The Starry Night](https://open.spotify.com/track/0daiNZK6DTgP65O4mM3Iv1) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [WE : Dream Chaser](https://open.spotify.com/album/0gWM4TwSrL4t3fj4V9dfKb) | 3:17 | 2025-03-06 | 2025-04-12 |
 | [The Story Behind](https://open.spotify.com/track/1FjIg32VDdvHabecHKpe03) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Restart](https://open.spotify.com/album/3lZxrczzvuxPrbJYf8Sdyo) | 4:16 | 2024-01-09 | 2024-05-10 |

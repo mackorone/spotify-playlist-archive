@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lucas Jussen & Arthur Jussen
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,454 likes - 71 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,474 likes - 71 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

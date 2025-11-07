@@ -4,7 +4,7 @@
 
 > you got a sports car?  Tate McRae at the VMAs
 
-325 songs - 17 hr 42 min
+326 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 | 2023-02-02 |  |
 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2022-01-12 | 2023-02-03 |
 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 | 2024-07-19 |  |
+| [Girls Gone Wild](https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Girls Gone Wild](https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF) | 3:27 | 2025-10-31 |  |
 | [Girls in the Hood](https://open.spotify.com/track/6WbTTAGKrQtCQvmc5BuYfh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Girls in the Hood](https://open.spotify.com/album/0pcFMWHPMVHE25NiT1U6Bc) | 2:34 | 2022-01-12 | 2023-02-03 |
 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 | 2022-01-12 | 2023-02-03 |
 | [God Damn Baby](https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [God Damn Baby](https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR) | 3:12 | 2025-09-05 |  |

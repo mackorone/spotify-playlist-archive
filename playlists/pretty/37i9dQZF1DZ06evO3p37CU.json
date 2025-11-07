@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22430,
+  "num_followers": 22431,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAA199kUETh09S8DjEaYqLdp",
+  "snapshot_id": "aQqTgAAAAABxmopM0lH6XjTaYsjLripa",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing (From \"Marvel's Spider-Man 2\")",
-        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Swing - From \"Marvel's Spider-Man 2\"",
-      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Never Story",
         "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 265882,
       "name": "D/vision",
       "url": "https://open.spotify.com/track/0DcBQ7dMhCMvk9t6L4XI7G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing (From \"Marvel's Spider-Man 2\")",
+        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Swing - From \"Marvel's Spider-Man 2\"",
+      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS (Deluxe)",
-        "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
       "artists": [
         {
@@ -864,13 +864,17 @@
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 201191,
-      "name": "AMBEYONC\u00c9 (feat. Smino)",
-      "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "added_at": null,
@@ -895,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+        "name": "GHETTO GODS (Deluxe)",
+        "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
       },
       "artists": [
         {
@@ -904,17 +908,13 @@
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 180014,
-      "name": "U GOTTA (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
+      "duration_ms": 201191,
+      "name": "AMBEYONC\u00c9 (feat. Smino)",
+      "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
     },
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        }
-      ],
-      "duration_ms": 234239,
-      "name": "OSMOSIS",
-      "url": "https://open.spotify.com/track/1mhugCOgWL9MLBvNYT5y9d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 222624,
       "name": "Sometimes\u2026 (with Daya & Earthgang)",
       "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "duration_ms": 234239,
+      "name": "OSMOSIS",
+      "url": "https://open.spotify.com/track/1mhugCOgWL9MLBvNYT5y9d"
     },
     {
       "added_at": null,
@@ -1079,30 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 358913,
-      "name": "DEEP BLUE (feat. Little Dragon)",
-      "url": "https://open.spotify.com/track/0I9rRQ9vUtx8GzYVvET5Li"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 172240,
       "name": "Big Titties (feat. Baauer and EarthGang)",
       "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 358913,
+      "name": "DEEP BLUE (feat. Little Dragon)",
+      "url": "https://open.spotify.com/track/0I9rRQ9vUtx8GzYVvET5Li"
     },
     {
       "added_at": null,

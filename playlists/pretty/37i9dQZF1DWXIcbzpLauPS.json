@@ -1,6 +1,6 @@
 {
   "description": "the best new metalcore. where brutality and technicality collide. Cover: Architects",
-  "num_followers": 944844,
+  "num_followers": 944888,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "The End Aesthetic",
+        "url": "https://open.spotify.com/album/3VwIw2ich9nLzzwPBMeU0g"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "duration_ms": 232223,
+      "name": "The End Aesthetic",
+      "url": "https://open.spotify.com/track/0Q7KGor0cF0vO2x2Gs0xyp"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "GRIZZLY",
         "url": "https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 229982,
       "name": "Imdead",
       "url": "https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "The End Aesthetic",
-        "url": "https://open.spotify.com/album/3VwIw2ich9nLzzwPBMeU0g"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 232223,
-      "name": "The End Aesthetic",
-      "url": "https://open.spotify.com/track/0Q7KGor0cF0vO2x2Gs0xyp"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/2MYRTNNu4oHVf6fx87Gm3S"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 253230,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3KA0M8SYVjkMZhTwnbqUqK"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "Victim",
         "url": "https://open.spotify.com/album/2fS2HfXoGQKLuY22KOFr9p"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 261487,
       "name": "Victim",
       "url": "https://open.spotify.com/track/2MmJg1AUWL9hFrpIEYfl8T"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/2MYRTNNu4oHVf6fx87Gm3S"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 253230,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3KA0M8SYVjkMZhTwnbqUqK"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "CONCRETE JUNGLE [THE OST]",
-        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 235092,
-      "name": "ANYTHING > HUMAN",
-      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "easy exit",
         "url": "https://open.spotify.com/album/6OD6jUCnzQBfROD6EHKW0H"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 268027,
       "name": "Echo Sonata",
       "url": "https://open.spotify.com/track/4yOc2McIhLZBZ1hHgASxHl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "CONCRETE JUNGLE [THE OST]",
+        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 235092,
+      "name": "ANYTHING > HUMAN",
+      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "And Everything Was Dark",
+        "url": "https://open.spotify.com/album/34znRI8FwvRl8bk46tRL0i"
+      },
+      "artists": [
+        {
+          "name": "Downswing",
+          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
+        }
+      ],
+      "duration_ms": 175323,
+      "name": "Emptiness Remains",
+      "url": "https://open.spotify.com/track/3oEWDsLYU9tdhJzbWk2zf8"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "Hiding In Plain Sight",
-        "url": "https://open.spotify.com/album/3WXl0Tv7jMZBhRSJLWEqxI"
-      },
-      "artists": [
-        {
-          "name": "Holywatr",
-          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
-        }
-      ],
-      "duration_ms": 240652,
-      "name": "Hiding In Plain Sight",
-      "url": "https://open.spotify.com/track/3EIBXSn6RpBdtyvb6G7UPw"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "Hiding In Plain Sight",
+        "url": "https://open.spotify.com/album/3WXl0Tv7jMZBhRSJLWEqxI"
+      },
+      "artists": [
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "duration_ms": 240652,
+      "name": "Hiding In Plain Sight",
+      "url": "https://open.spotify.com/track/3EIBXSn6RpBdtyvb6G7UPw"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "The Weight of Sound",
         "url": "https://open.spotify.com/album/5Rxt3dNHaHb6aBRLeZ1eEs"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 272468,
       "name": "The Weight of Sound",
       "url": "https://open.spotify.com/track/3ol4KdpmZFQShByBdkbU9K"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "And Everything Was Dark",
-        "url": "https://open.spotify.com/album/34znRI8FwvRl8bk46tRL0i"
-      },
-      "artists": [
-        {
-          "name": "Downswing",
-          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
-        }
-      ],
-      "duration_ms": 175323,
-      "name": "Emptiness Remains",
-      "url": "https://open.spotify.com/track/3oEWDsLYU9tdhJzbWk2zf8"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Inner Sanctum",
-        "url": "https://open.spotify.com/album/7xrJWJieuZYcqyW4vvtM2L"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 229470,
-      "name": "Inner Sanctum",
-      "url": "https://open.spotify.com/track/3LEIp7OkTqbGS6WBeivfv3"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "Bad Dreams (feat. Of Virtue)",
         "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 220866,
       "name": "Bad Dreams (feat. Of Virtue)",
       "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "Inner Sanctum",
+        "url": "https://open.spotify.com/album/7xrJWJieuZYcqyW4vvtM2L"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 229470,
+      "name": "Inner Sanctum",
+      "url": "https://open.spotify.com/track/3LEIp7OkTqbGS6WBeivfv3"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "Hit It!",
+        "url": "https://open.spotify.com/album/7jcC7erlgmd9QbhooPY4bt"
+      },
+      "artists": [
+        {
+          "name": "vianova",
+          "url": "https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Squier Talk",
+      "url": "https://open.spotify.com/track/19LMSiPAc1Prev4mLWdDFt"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "Bloom In Heaven",
         "url": "https://open.spotify.com/album/3f895XnoWWhMeM31qE3qS0"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 243658,
       "name": "Armageddon Eyes",
       "url": "https://open.spotify.com/track/7uzHcVdVNeUpNDdo56yMN2"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "Hit It!",
-        "url": "https://open.spotify.com/album/7jcC7erlgmd9QbhooPY4bt"
-      },
-      "artists": [
-        {
-          "name": "vianova",
-          "url": "https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Squier Talk",
-      "url": "https://open.spotify.com/track/19LMSiPAc1Prev4mLWdDFt"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Cyclone",
-        "url": "https://open.spotify.com/album/5FHXx7MbcJtdiQTWcNGhEi"
-      },
-      "artists": [
-        {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
-        }
-      ],
-      "duration_ms": 242809,
-      "name": "Cyclone",
-      "url": "https://open.spotify.com/track/7pbnndpH911zmnBfInjD1u"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "TOMBSTONE",
         "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 187862,
       "name": "Overdose - feat. Blindside",
       "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/5FHXx7MbcJtdiQTWcNGhEi"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "duration_ms": 242809,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/7pbnndpH911zmnBfInjD1u"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Zenith",
-        "url": "https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Violent Nature",
-      "url": "https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/4slmcnyRVpRMly3EcW0D0v"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 208591,
       "name": "Collide",
       "url": "https://open.spotify.com/track/1f0J28W2sTbiqIEsb8uxfe"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "Zenith",
+        "url": "https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Violent Nature",
+      "url": "https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Sacrifice Me",
-        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+        "name": "Pit of Misery",
+        "url": "https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q"
       },
       "artists": [
         {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+          "name": "Get The Shot",
+          "url": "https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2"
         }
       ],
-      "duration_ms": 238736,
-      "name": "Sacrifice Me",
-      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
+      "duration_ms": 308493,
+      "name": "Pit of Misery",
+      "url": "https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Pit of Misery",
-        "url": "https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q"
-      },
-      "artists": [
-        {
-          "name": "Get The Shot",
-          "url": "https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2"
-        }
-      ],
-      "duration_ms": 308493,
-      "name": "Pit of Misery",
-      "url": "https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "damnation",
         "url": "https://open.spotify.com/album/3BoE4OM4nnj8NekXVmUdyo"
       },
@@ -2491,6 +2475,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "SELF HELL",
         "url": "https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5"
       },
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "STORM ABLAZE",
-        "url": "https://open.spotify.com/album/7kYVmzEQvLY4GHnqlNARHU"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 209790,
-      "name": "STORM ABLAZE",
-      "url": "https://open.spotify.com/track/4wRUMIwbXP75C8487sR4v5"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "If It's All The Same To You",
         "url": "https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 254742,
       "name": "If It's All The Same To You",
       "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "STORM ABLAZE",
+        "url": "https://open.spotify.com/album/7kYVmzEQvLY4GHnqlNARHU"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 209790,
+      "name": "STORM ABLAZE",
+      "url": "https://open.spotify.com/track/4wRUMIwbXP75C8487sR4v5"
     },
     {
       "added_at": "2025-10-24 04:00:09",

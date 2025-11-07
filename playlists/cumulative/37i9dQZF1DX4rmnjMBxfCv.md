@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Vanco
 
-280 songs - 18 hr 30 min
+281 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Haleq Maa'y](https://open.spotify.com/track/56o5roP1Xff5WUbBK6UaZM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl), [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Haleq Maa'y](https://open.spotify.com/album/1FS3LAQp4oMKsCqMnI19OW) | 4:21 | 2022-03-30 | 2022-11-26 |
 | [Haramt Ahebak](https://open.spotify.com/track/0XENN5FFKykJXsWIq741rB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Haramt Ahebak](https://open.spotify.com/album/5gCtLxVQ8gZb1y7EIAGyn9) | 4:37 | 2025-06-19 |  |
 | [Hasta El Fin \- Radio Edit](https://open.spotify.com/track/6lc6OgZpWqwLdvSVOMFQNC) | [Max Zotti](https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3), [Chris Bowl](https://open.spotify.com/artist/6W2r8LhTkqCheVZ17OVOzV) | [Hasta El Fin](https://open.spotify.com/album/5D5691C3I70vHqJX9w53qt) | 3:17 | 2023-06-23 | 2023-12-07 |
+| [Hawal](https://open.spotify.com/track/7rIhJxBi3zNA0rznuEefIl) | [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y) | [Hawal](https://open.spotify.com/album/01KSc7gQ4baTPITVbAkChm) | 2:49 | 2025-11-05 |  |
 | [Hawlo](https://open.spotify.com/track/7AzkW2i75Tu6U5rRzMTPV4) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Hawlo](https://open.spotify.com/album/22z5UsIINFusXfM9kVYdqr) | 4:46 | 2023-03-17 | 2023-06-24 |
 | [Hawlo \- Gaby Zgheib Remix](https://open.spotify.com/track/74cyl9q0lrXuySioeD10kB) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Gaby Zgheib](https://open.spotify.com/artist/2tAVxjSZZ5b5d1k360AWJr) | [Hawlo \(Gaby Zgheib Remix\)](https://open.spotify.com/album/4WKR4H1V39EMpgRaT6kzU0) | 4:46 | 2022-03-30 | 2023-04-01 |
 | [Headlights \(feat\. KIDDO & Issam Alnajjar\) \- Radio Edit](https://open.spotify.com/track/2gqnO3cvjvBNTYr9dMNZIn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO & Issam Alnajjar\) \[Radio Edit\]](https://open.spotify.com/album/6XZqrGWZ3s06HmcCRziviX) | 2:38 | 2022-11-25 | 2023-11-03 |

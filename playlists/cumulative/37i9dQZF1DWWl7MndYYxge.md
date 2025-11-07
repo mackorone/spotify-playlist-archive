@@ -4,7 +4,7 @@
 
 > Le meilleur des années 80 en 80 titres.
 
-143 songs - 9 hr 48 min
+144 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2024-01-17 | 2024-04-19 |
 | [C'est écrit \- Remastered](https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Sarbacane \(Remastered\)](https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul) | 5:53 | 2024-10-24 | 2024-12-18 |
 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 | 2023-08-18 |  |
-| [Can't Take My Eyes Off Of You \- Original Radio Edit](https://open.spotify.com/track/38f6pFU4HRtrT198ZnyrK5) | [Boys Town Gang](https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H) | [Can't Take My Eyes Off You](https://open.spotify.com/album/5UD6SOM4JtmtTTJ3SNt1cU) | 3:33 | 2025-06-26 |  |
+| [Can't Take My Eyes Off Of You \- Original Radio Edit](https://open.spotify.com/track/38f6pFU4HRtrT198ZnyrK5) | [Boys Town Gang](https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H) | [Can't Take My Eyes Off You](https://open.spotify.com/album/5UD6SOM4JtmtTTJ3SNt1cU) | 3:33 | 2025-06-26 | 2025-11-07 |
 | [Chacun fait \(c'qui lui plait\)](https://open.spotify.com/track/5TpIQ1tVlPnm4SHObswUU6) | [Chagrin D'amour](https://open.spotify.com/artist/1LTi4SuPK0G9juYKxU6AAG) | [Chacun fait \(C'qui lui plait\)](https://open.spotify.com/album/0I18V9PWrPOG3JmOkLyysm) | 4:09 | 2023-08-18 | 2024-10-25 |
 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 | 2023-08-18 | 2023-11-17 |
 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 | 2023-11-16 |  |
@@ -139,6 +139,7 @@
 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 | 2023-08-18 | 2024-04-19 |
 | [Vacances j'oublie tout \- Version originale 1982](https://open.spotify.com/track/4CnnzgLEJUULotAm74v4yn) | [Elegance](https://open.spotify.com/artist/3HUwCiLTmeqIjL0Nne32xU) | [Best of Elégance \(Le meilleur des années 80\)](https://open.spotify.com/album/6dFWawruhNdBsnoqWSsPDD) | 4:19 | 2024-05-31 | 2024-10-25 |
 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 | 2025-06-26 |  |
+| [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 | 2025-11-06 |  |
 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 | 2023-08-18 |  |
 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 | 2023-08-18 |  |
 | [We Don't Need Another Hero \(Thunderdome\)](https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 4:15 | 2023-08-18 | 2024-01-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,728 likes - 155 songs - 8 hr 50 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,723 likes - 155 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 18 | [You Thought](https://open.spotify.com/track/7vqhdTChjBagZe19k5OMlA) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [New York](https://open.spotify.com/album/0XkAxtxrz3kFobDhuuwFiR) | 4:33 |
 | 19 | [UGS](https://open.spotify.com/track/6qWLbvEkHL64oRjX0Am9zq) | [Kill Safari](https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [UGS](https://open.spotify.com/album/6N7oni77x7EOaVhu026Y0M) | 2:17 |
 | 20 | [LOUDER](https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LOUDER](https://open.spotify.com/album/5klX6dXCGsRln0N4t6pHEr) | 2:12 |
-| 21 | [Ground](https://open.spotify.com/track/14hnrT5hgxnpXtHLfE3il6) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19) | [Ground](https://open.spotify.com/album/2iMiNZ0SjO12FBdJg3DYOD) | 2:34 |
+| 21 | [Ground](https://open.spotify.com/track/14hnrT5hgxnpXtHLfE3il6) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Ground](https://open.spotify.com/album/2iMiNZ0SjO12FBdJg3DYOD) | 2:34 |
 | 22 | [Sheeps](https://open.spotify.com/track/1QsO7Mxa1Kwp9QjJd3j00A) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Sheeps](https://open.spotify.com/album/413AEBXNGT4V6kETdyWXjU) | 5:37 |
 | 23 | [A Long Time](https://open.spotify.com/track/2irsey3eWgbWhdTYhU4ufW) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [A Long Time](https://open.spotify.com/album/4rs1RphBqUYbWHipg8gWON) | 7:41 |
 | 24 | [Dance In The Rain](https://open.spotify.com/track/6fC4wGYn49f5bNV8p1SXwo) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Dance In The Rain](https://open.spotify.com/album/66YccBAuwCLrMuumIM8u1u) | 3:18 |

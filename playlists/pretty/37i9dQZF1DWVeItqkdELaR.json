@@ -723,6 +723,22 @@
     {
       "added_at": "2025-08-22 12:22:09",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2025-08-22 12:22:09",
+      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2025-08-22 12:22:09",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2025-08-22 12:22:09",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-08-22 12:22:09",
       "album": {
-        "name": "Descer",
-        "url": "https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j"
-      },
-      "artists": [
-        {
-          "name": "Kew",
-          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
-        },
-        {
-          "name": "Dj LK da Esc\u00f3cia",
-          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
-        }
-      ],
-      "duration_ms": 111653,
-      "name": "Descer",
-      "url": "https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ"
-    },
-    {
-      "added_at": "2025-08-22 12:22:09",
-      "album": {
         "name": "Fui Mlk",
         "url": "https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 174110,
       "name": "Fui Mlk",
       "url": "https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6"
+    },
+    {
+      "added_at": "2025-08-22 12:22:09",
+      "album": {
+        "name": "Descer",
+        "url": "https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j"
+      },
+      "artists": [
+        {
+          "name": "Kew",
+          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
+        },
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        }
+      ],
+      "duration_ms": 111653,
+      "name": "Descer",
+      "url": "https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ"
     },
     {
       "added_at": "2025-08-22 12:22:09",

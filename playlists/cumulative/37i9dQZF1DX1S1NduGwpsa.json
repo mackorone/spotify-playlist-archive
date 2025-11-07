@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Lila-May",
+  "description": "The best jazz new releases. Cover: The Getdown",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2773,6 +2773,28 @@
     },
     {
       "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274680,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
+    },
+    {
+      "album": {
         "name": "Cheek To Cheek (Live)",
         "url": "https://open.spotify.com/album/4mSrOP60dblgo0HJlDgr9b"
       },
@@ -4377,6 +4399,28 @@
     },
     {
       "album": {
+        "name": "TAKE 01 ECHOES",
+        "url": "https://open.spotify.com/album/30u9ApiE9saITQqh3Expjp"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332896,
+      "name": "ECHOES",
+      "url": "https://open.spotify.com/track/3hLL1zqTIe9UlI0yxjpnZW"
+    },
+    {
+      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/2Tao3yLEob26cvlhpeQNEt"
       },
@@ -4518,6 +4562,28 @@
       "duration_ms": 111724,
       "name": "Empty.",
       "url": "https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q"
+    },
+    {
+      "album": {
+        "name": "Ensemble",
+        "url": "https://open.spotify.com/album/5hN8bjTi83f3kCPyvnYmEw"
+      },
+      "artists": [
+        {
+          "name": "Adrien Soleiman",
+          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/4YMTrCZiUor6VMLlA77uuq"
     },
     {
       "album": {
@@ -7622,7 +7688,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 219207,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT"
@@ -8378,7 +8444,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 149080,
       "name": "la fi\u00e8vre",
       "url": "https://open.spotify.com/track/73euPNYFaNgWU75TZNRISm"
@@ -9947,6 +10013,36 @@
     },
     {
       "album": {
+        "name": "The Getdown",
+        "url": "https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF"
+      },
+      "artists": [
+        {
+          "name": "The Getdown",
+          "url": "https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ"
+        },
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Arnaud Dolmen",
+          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244126,
+      "name": "Merci Biguine",
+      "url": "https://open.spotify.com/track/5nOnspLIl5HEKxSPJPDOEM"
+    },
+    {
+      "album": {
         "name": "Merry Christmas Baby",
         "url": "https://open.spotify.com/album/76xL4ZtUJ91iY0ogL8qV5T"
       },
@@ -10388,7 +10484,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 182420,
       "name": "MOTHER AND SON",
       "url": "https://open.spotify.com/track/3fszwNSupCHSzsDJZKeIEH"
@@ -10432,7 +10528,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 155000,
       "name": "Mr. Eclectic",
       "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
@@ -11770,6 +11866,28 @@
       "duration_ms": 287416,
       "name": "Oya",
       "url": "https://open.spotify.com/track/0SHPejPGCfcLON6AIQrdPJ"
+    },
+    {
+      "album": {
+        "name": "O\u00f9 C\u2019est ? Qui sait ?",
+        "url": "https://open.spotify.com/album/580NEgzhMeRGVFNlgDH3Kb"
+      },
+      "artists": [
+        {
+          "name": "Florian Pellissier Quintet",
+          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
+        },
+        {
+          "name": "DjeuhDjoah",
+          "url": "https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355180,
+      "name": "O\u00f9 c'est ? Qui sait ?",
+      "url": "https://open.spotify.com/track/2TFF8jHQpPuALKQr81dLso"
     },
     {
       "album": {
@@ -13668,7 +13786,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 213413,
       "name": "Sorhag (Le rossignol et le faucon)",
       "url": "https://open.spotify.com/track/4hrjQJGmh5LmyHPMYlfg8H"
@@ -13896,7 +14014,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 324133,
       "name": "Stella by Starlight",
       "url": "https://open.spotify.com/track/7rUK6bTeusEoi2H3OBqonl"
@@ -14614,7 +14732,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 214925,
       "name": "Take this stone (feat. June McDoom & Kate Davis)",
       "url": "https://open.spotify.com/track/5njraCJH3kezunxuBGpKf1"
@@ -14981,6 +15099,36 @@
     },
     {
       "album": {
+        "name": "The Barges Blues",
+        "url": "https://open.spotify.com/album/7sEcDNcdQTkAfGzZWinm4C"
+      },
+      "artists": [
+        {
+          "name": "Amaury Faye",
+          "url": "https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte"
+        },
+        {
+          "name": "Julian Lee",
+          "url": "https://open.spotify.com/artist/6IYbf14480bkXi6JnwWkTH"
+        },
+        {
+          "name": "Amina Scott",
+          "url": "https://open.spotify.com/artist/2mA7agMNb4IjjXcEb5U6La"
+        },
+        {
+          "name": "Herlin Riley",
+          "url": "https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227760,
+      "name": "The Barges Blues",
+      "url": "https://open.spotify.com/track/04tKPExuojMrvcrcmIQlsI"
+    },
+    {
+      "album": {
         "name": "The Best Is Yet To Come",
         "url": "https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb"
       },
@@ -15260,7 +15408,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 281706,
       "name": "The night the lights went out in Georgia",
       "url": "https://open.spotify.com/track/1ek9Wq9r5OB46hHVjHwZxM"
@@ -15410,6 +15558,24 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276589,
+      "name": "The Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR"
     },
     {
       "album": {
@@ -16328,6 +16494,24 @@
       "duration_ms": 263000,
       "name": "Une Chanson Douce",
       "url": "https://open.spotify.com/track/6WhWdVpXBLdc9CXOm7uDlM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Une fleur et des papillons",
+      "url": "https://open.spotify.com/track/4rvum1zXHabR4tPwPKrKsn"
     },
     {
       "album": {

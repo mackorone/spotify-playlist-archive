@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 522471,
+  "num_followers": 522461,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAvVJTp+SYY3ri6bswz0UvT",
+  "snapshot_id": "aQqTgAAAAADzyIAKWZcK2emRJJZjQbpl",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 240333,
       "name": "Que Nadie Sepa Mi Sufrir (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/5jy5rt0KuI9jfEps9K3wxz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 297346,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -907,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "En el 2000",
+        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
       },
       "artists": [
         {
@@ -916,9 +932,9 @@
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 297346,
-      "name": "Mi Lugar Favorito",
-      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
+      "duration_ms": 245666,
+      "name": "Amarte Duele",
+      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
     },
     {
       "added_at": null,
@@ -935,22 +951,6 @@
       "duration_ms": 175146,
       "name": "La Cometierra",
       "url": "https://open.spotify.com/track/00uZGqztLivbtlWdZEVS2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En el 2000",
-        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Amarte Duele",
-      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Oklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,357 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,351 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 20 | [MENOR PEÇA](https://open.spotify.com/track/1l39EzEGJkEfgaHTj03zeI) | [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX) | [H.A.R.D](https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV) | 2:13 |
 | 21 | [Playoffs](https://open.spotify.com/track/73h5hudAAYSlIdLitb4Bou) | [SETE MC](https://open.spotify.com/artist/0ZTdh1wb9jKAnk6ApKrD35), [Brennuz](https://open.spotify.com/artist/3bJRxCD4x2F0x32XFGo9CH), [ZackZin](https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Playoffs](https://open.spotify.com/album/324mrEVoN0IWWlBN2xB8X1) | 3:35 |
 | 22 | [Castanho Escuro](https://open.spotify.com/track/3ym480m1i3KmMFt6QyDvAi) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC) | [Castanho Escuro](https://open.spotify.com/album/7c3vdeiGLkVZmJ3Hj9vnnn) | 2:45 |
-| 23 | [PERIGOSA](https://open.spotify.com/track/5abNpk1wgO3jPl2NNYuDJD) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Léo Kobayashi](https://open.spotify.com/artist/7FkOAfTSJpyVxb7YSgxFqr) | [PERIGOSA](https://open.spotify.com/album/1eE1x9nWoDgOuXDYsjLryn) | 2:24 |
+| 23 | [PERIGOSA](https://open.spotify.com/track/5abNpk1wgO3jPl2NNYuDJD) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Léo Kobayashi](https://open.spotify.com/artist/7FkOAfTSJpyVxb7YSgxFqr), [Petroceli](https://open.spotify.com/artist/0wKVGvwlZH6lKsx8csqhmf), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [PERIGOSA](https://open.spotify.com/album/1eE1x9nWoDgOuXDYsjLryn) | 2:24 |
 | 24 | [Movimentando](https://open.spotify.com/track/0gXMumUCRPtlOV23kaT4p6) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Movimentando](https://open.spotify.com/album/2EqeIQiSoomjrLg1wf8WGc) | 2:37 |
 | 25 | [20k](https://open.spotify.com/track/0exOURZmvuqfFl7it0tJZZ) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [Ckzin](https://open.spotify.com/artist/1SHMA4jxjtF97jFERazZ7A) | [Quem não pode errar sou Eu](https://open.spotify.com/album/2YvME36pDeD5dsT97PSiu5) | 2:21 |
 | 26 | [SALA VERMELHA \#46 \- S7lermo](https://open.spotify.com/track/4UHozVprMfcj3oLp0H7ALZ) | [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [SALA VERMELHA \#46 \- S7lermo](https://open.spotify.com/album/174zAVSqwuWMztOlI0dms7) | 2:24 |

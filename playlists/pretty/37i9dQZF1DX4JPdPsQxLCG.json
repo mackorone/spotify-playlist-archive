@@ -1,13 +1,29 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 104469,
+  "num_followers": 104491,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ7W19lJUrYfQkpD9hR7vQVdLlvb",
+  "snapshot_id": "AAAAAGK5CJRwYPLDVdhAckUOnFeKjqMY",
   "tracks": [
+    {
+      "added_at": "2025-11-06 18:57:12",
+      "album": {
+        "name": "A Bridge To Far",
+        "url": "https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU"
+      },
+      "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "A Bridge To Far",
+      "url": "https://open.spotify.com/track/1VsBwiX65G3Im8IPCTjfpa"
+    },
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-10-24 02:05:35",
-      "album": {
-        "name": "Burning Bridges Into Dust",
-        "url": "https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 169890,
-      "name": "Hanging Out In My Head",
-      "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 297933,
-      "name": "Seventeen Going Under",
-      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 218577,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 297933,
+      "name": "Seventeen Going Under",
+      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "The Cosmic Selector Vol. 1",
-        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "Watch Me Go",
-      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Divine Feelings",
         "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 208176,
       "name": "Divine Feelings",
       "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "The Cosmic Selector Vol. 1",
+        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "Watch Me Go",
+      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Too Late Now",
-      "url": "https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Hollywood Dream (Expanded Edition)",
         "url": "https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 234360,
       "name": "Something In The Air",
       "url": "https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Too Late Now",
+      "url": "https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
+      "added_at": "2025-10-31 00:01:28",
+      "album": {
+        "name": "What Good?",
+        "url": "https://open.spotify.com/album/37t024pDno6KveKjG2BvJM"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 179252,
+      "name": "What Good?",
+      "url": "https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92"
+    },
+    {
       "added_at": "2025-09-19 17:19:45",
       "album": {
         "name": "The Baby",
@@ -897,20 +913,20 @@
       "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
     },
     {
-      "added_at": "2025-10-31 00:01:28",
+      "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "What Good?",
-        "url": "https://open.spotify.com/album/37t024pDno6KveKjG2BvJM"
+        "name": "N.F.A. DEMOS",
+        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
       },
       "artists": [
         {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
         }
       ],
-      "duration_ms": 179252,
-      "name": "What Good?",
-      "url": "https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92"
+      "duration_ms": 208713,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
     },
     {
       "added_at": "2025-09-25 21:41:41",
@@ -931,22 +947,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "N.F.A. DEMOS",
-        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 208713,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Can I Call You in the Morning?",
         "url": "https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "glhf<3",
-        "url": "https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "glhf<3",
-      "url": "https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Ordinary Games",
         "url": "https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 304245,
       "name": "Ordinary Games",
       "url": "https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "glhf<3",
+        "url": "https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "glhf<3",
+      "url": "https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -1023,6 +1023,22 @@
       "duration_ms": 198287,
       "name": "555",
       "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
+    },
+    {
+      "added_at": "2025-10-24 02:05:35",
+      "album": {
+        "name": "Burning Bridges Into Dust",
+        "url": "https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 169890,
+      "name": "Hanging Out In My Head",
+      "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -1215,22 +1231,6 @@
       "duration_ms": 169266,
       "name": "90 to 99",
       "url": "https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
-        "name": "Get Back Again",
-        "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 250331,
-      "name": "Get Back Again",
-      "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
     }
   ],
   "unique_name": "Long Drives",

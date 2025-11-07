@@ -500,7 +500,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 179866,
       "name": "Blister",
       "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 194480,
       "name": "Cross My Heart and Hope to Die",
       "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
@@ -1446,6 +1446,24 @@
       "duration_ms": 219622,
       "name": "Done Did It - Revival 2.0",
       "url": "https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE"
+    },
+    {
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "album": {
@@ -4198,6 +4216,24 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
     },
     {
       "album": {

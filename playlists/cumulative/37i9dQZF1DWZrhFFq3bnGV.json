@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Clara Riva",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Deredia",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -416,6 +416,28 @@
       "duration_ms": 192000,
       "name": "Ah Pusing!",
       "url": "https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih"
+    },
+    {
+      "album": {
+        "name": "Aku Merindu",
+        "url": "https://open.spotify.com/album/2j12LBVG0kDE3RB4NZR1WK"
+      },
+      "artists": [
+        {
+          "name": "Tya Subiakto",
+          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
+        },
+        {
+          "name": "Alex Kuple",
+          "url": "https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Aku Merindu",
+      "url": "https://open.spotify.com/track/5QrHazWlVxp2Raf4DRGYKf"
     },
     {
       "album": {
@@ -2180,7 +2202,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 270000,
       "name": "Hanya Dia",
       "url": "https://open.spotify.com/track/2ZiWWRqWPeksTDWOuL36mW"
@@ -4198,6 +4220,24 @@
       "duration_ms": 285354,
       "name": "Perjumpaan Kita",
       "url": "https://open.spotify.com/track/0XrhqWIImjM7MlImOZUXZX"
+    },
+    {
+      "album": {
+        "name": "Pernah Muda",
+        "url": "https://open.spotify.com/album/5ws56GVot5fiNNHtS2TvzR"
+      },
+      "artists": [
+        {
+          "name": "Deredia",
+          "url": "https://open.spotify.com/artist/2suoGMN4uGe4gCBFwfkfoz"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Pernah Muda",
+      "url": "https://open.spotify.com/track/5Mi1HrLmE9tAz8VhTFhsCm"
     },
     {
       "album": {

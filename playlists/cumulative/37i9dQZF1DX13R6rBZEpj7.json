@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "0114",
+        "url": "https://open.spotify.com/album/4iT15Ypd5pJTGxyGlslJUt"
+      },
+      "artists": [
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        },
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159496,
+      "name": "0114",
+      "url": "https://open.spotify.com/track/34da62SjTFzZcaWslChNn2"
+    },
+    {
+      "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/1gqbeuB8Ls3PPiRvQZNZTI"
       },
@@ -96,6 +118,28 @@
       "duration_ms": 232440,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/0TMt3fDt2x3ZKuhb20eggr"
+    },
+    {
+      "album": {
+        "name": "Active Now",
+        "url": "https://open.spotify.com/album/6C2EWfAXZ1j1PXEv1sbEXG"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        },
+        {
+          "name": "RD WestYorks",
+          "url": "https://open.spotify.com/artist/2Opb3TVPI7KeOlhdo7tZkG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Active Now",
+      "url": "https://open.spotify.com/track/1z1DCyzCEntFmJHXG5RnFQ"
     },
     {
       "album": {
@@ -4914,7 +4958,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 207428,
       "name": "NO MORE PAIN",
       "url": "https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW"
@@ -6356,7 +6400,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 140704,
       "name": "somebody else - Denon Reed Remix",
       "url": "https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc"
@@ -6524,7 +6568,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 123981,
       "name": "Style",
       "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,112 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,096 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 33 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
 | 34 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 |
 | 35 | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo) | 3:49 |
-| 36 | [After Five](https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five](https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe) | 3:36 |
+| 36 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
 | 37 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 38 | [I Want You To Know](https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe) | [I Want You To Know](https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS) | 3:10 |
-| 39 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
+| 39 | [After Five](https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five](https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe) | 3:36 |
 | 40 | [play it again](https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [play it again](https://open.spotify.com/album/0oCUvYwaTE0lfpVPH1T5t4) | 3:13 |
-| 41 | [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 |
-| 42 | [Mad](https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Mad](https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch) | 3:58 |
+| 41 | [Mad](https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Mad](https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch) | 3:58 |
+| 42 | [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 |
 | 43 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
 | 44 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
 | 45 | [Night Moves](https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [Night Moves](https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki) | 3:21 |

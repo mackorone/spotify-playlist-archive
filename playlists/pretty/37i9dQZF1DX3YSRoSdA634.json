@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 3972520,
+  "num_followers": 3972330,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 203475,
+      "name": "feel like shit",
+      "url": "https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 221106,
       "name": "Supermarket Flowers",
       "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "feel like shit",
-      "url": "https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 261426,
-      "name": "Breakeven",
-      "url": "https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI"
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 270453,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 270453,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
+      "duration_ms": 261426,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Leave a Light On",
         "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 185863,
       "name": "Leave a Light On",
       "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Bedroom Demos",
-        "url": "https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 220239,
-      "name": "A Drop in the Ocean",
-      "url": "https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 189186,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Bedroom Demos",
+        "url": "https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 220239,
+      "name": "A Drop in the Ocean",
+      "url": "https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Memoirs of an imperfect Angel (International Version)",
+        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "It's A Wrap",
+      "url": "https://open.spotify.com/track/0CnlKa2jjIMzG0gLN1KZbD"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "In My Veins",
         "url": "https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 197893,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Memoirs of an imperfect Angel (International Version)",
-        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "It's A Wrap",
-      "url": "https://open.spotify.com/track/0CnlKa2jjIMzG0gLN1KZbD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2200,7 +2200,7 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 173306,
+      "duration_ms": 173311,
       "name": "hate myself",
       "url": "https://open.spotify.com/track/1bXm6XU3SYSqQGLTRhUSfm"
     },
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "I Have Questions",
+        "url": "https://open.spotify.com/album/5vZ3Yotbw61UDCcyIfMcrr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 221881,
+      "name": "I Have Questions",
+      "url": "https://open.spotify.com/track/3NgCzSW98SsqBdpYcnm4kv"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -2519,22 +2535,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "I Have Questions",
-        "url": "https://open.spotify.com/album/5vZ3Yotbw61UDCcyIfMcrr"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 221881,
-      "name": "I Have Questions",
-      "url": "https://open.spotify.com/track/3NgCzSW98SsqBdpYcnm4kv"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2775,22 +2775,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "7 Minutes",
-        "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "7 Minutes",
-      "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
@@ -2803,6 +2787,22 @@
       "duration_ms": 218946,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "7 Minutes",
+        "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "7 Minutes",
+      "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2907,22 +2907,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/13bRrqlPDErhpXDUxYQCUU"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/7orUPsozJ19Cyxv5ozoREr"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -2935,6 +2919,22 @@
       "duration_ms": 202346,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/13bRrqlPDErhpXDUxYQCUU"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/7orUPsozJ19Cyxv5ozoREr"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3083,6 +3083,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Mercy (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Mercy - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -3099,22 +3115,6 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Mercy (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Mercy - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3187,22 +3187,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "TODAY",
-      "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Fly Away With Me",
         "url": "https://open.spotify.com/album/0zyfjcblb35vFRjZ3KKXMR"
       },
@@ -3215,6 +3199,22 @@
       "duration_ms": 211733,
       "name": "Fly Away With Me",
       "url": "https://open.spotify.com/track/05u81UgU27g8uL5twJ7ABz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "TODAY",
+      "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3239,22 +3239,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "OFF",
-        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 159885,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Breakups",
         "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
       },
@@ -3267,6 +3251,22 @@
       "duration_ms": 223129,
       "name": "Breakups",
       "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "OFF",
+        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 159885,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3291,18 +3291,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Thursday (Acoustic)",
-        "url": "https://open.spotify.com/album/3UYjFCtB4NpxheUxiKUnjs"
+        "name": "Be Okay",
+        "url": "https://open.spotify.com/album/5VXh2yi3JTIRgn1zaeQe19"
       },
       "artists": [
         {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 241613,
-      "name": "Thursday - Acoustic",
-      "url": "https://open.spotify.com/track/4pjNeKzXQcoYRdNDgdrwyR"
+      "duration_ms": 165715,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/1kJ9iysFb93KSeorhV109C"
     }
   ],
   "unique_name": "Life Sucks",

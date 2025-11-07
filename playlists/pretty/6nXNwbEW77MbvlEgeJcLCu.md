@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6nXNwbEW77MbvlEgeJcLCu.md) - [plain]
 
 > tryin&\#x27; to cope, cya next sadderday
 
-[g.fam](https://open.spotify.com/user/paktofonika) - 656 likes - 13 songs - 31 min 55 sec
+[g.fam](https://open.spotify.com/user/paktofonika) - 655 likes - 13 songs - 31 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

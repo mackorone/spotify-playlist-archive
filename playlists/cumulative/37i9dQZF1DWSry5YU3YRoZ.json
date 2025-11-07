@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 233520,
       "name": "Call me now",
       "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 195120,
       "name": "dear my loves",
       "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 255750,
       "name": "Flower You (feat. Jeon So Hyun) - Piano Version",
       "url": "https://open.spotify.com/track/5XZLKH4OdVpwaoMZgglnHf"
@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/6O0abzKmCmPvk7Ts1EBKjv"
+      },
+      "artists": [
+        {
+          "name": "seul",
+          "url": "https://open.spotify.com/artist/7j9VXBIPcjfX3x2euuD9mO"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200757,
+      "name": "love letter",
+      "url": "https://open.spotify.com/track/7nFwG3kbSSSYgJtMMNObuQ"
+    },
+    {
+      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1AMe7at0N1uF600T7bV7c0"
       },
@@ -1552,6 +1570,24 @@
       "duration_ms": 247793,
       "name": "Mindless",
       "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"
+    },
+    {
+      "album": {
+        "name": "mirrored steps",
+        "url": "https://open.spotify.com/album/2Oybn27Qx495SypR9EaeZ6"
+      },
+      "artists": [
+        {
+          "name": "Gongun",
+          "url": "https://open.spotify.com/artist/2fUVwIN2DdPLWIaZ42IWgs"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201096,
+      "name": "mirrored steps",
+      "url": "https://open.spotify.com/track/6uGtjy2E1oleIYigdNy5e8"
     },
     {
       "album": {
@@ -2082,6 +2118,24 @@
       "duration_ms": 195013,
       "name": "Sweet Lullaby",
       "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+    },
+    {
+      "album": {
+        "name": "The Young Lover",
+        "url": "https://open.spotify.com/album/7t6I8wuSmjZvCUkE8feG8Q"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Sweetbitter",
+      "url": "https://open.spotify.com/track/11NREXvElBBK1AinDmyyAC"
     },
     {
       "album": {

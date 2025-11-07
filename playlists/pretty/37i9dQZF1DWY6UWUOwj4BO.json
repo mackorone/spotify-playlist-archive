@@ -1,13 +1,29 @@
 {
   "description": "Les meilleurs titres du moment et plus encore en version acoustique.",
-  "num_followers": 258673,
+  "num_followers": 258733,
   "original_name": "Hit Acoustique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADAQoaDC7EiQ62oGUtmsI/ZpFXLK",
+  "snapshot_id": "AAAAAC41AOyIQBxhgNW3k9q1dfIBIG+E",
   "tracks": [
+    {
+      "added_at": "2025-11-06 23:00:23",
+      "album": {
+        "name": "The Fate of Ophelia (Alone In My Tower Acoustic Version)",
+        "url": "https://open.spotify.com/album/60pPcuYWCIAdcErvx2TLGB"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225816,
+      "name": "The Fate of Ophelia - Alone In My Tower Acoustic Version",
+      "url": "https://open.spotify.com/track/3Z2nTctPsTsgqqJm5fCSvG"
+    },
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 149896,
       "name": "Feel Good - Version Acoustique",
       "url": "https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Beautiful Things (Alternate Versions)",
-        "url": "https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 201248,
-      "name": "Beautiful Things - Acoustic",
-      "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -59,18 +59,18 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+        "name": "Beautiful Things (Alternate Versions)",
+        "url": "https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 250133,
-      "name": "Elastic Heart - Piano Version",
-      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
+      "duration_ms": 201248,
+      "name": "Beautiful Things - Acoustic",
+      "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -111,22 +111,50 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG"
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile - Acoustic",
-      "url": "https://open.spotify.com/track/3sDIlJZzYNHtnSuuOxvTal"
+      "duration_ms": 250133,
+      "name": "Elastic Heart - Piano Version",
+      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
+    },
+    {
+      "added_at": "2025-11-06 23:00:23",
+      "album": {
+        "name": "Je pense \u00e0 vous (Version orchestrale)",
+        "url": "https://open.spotify.com/album/6WSJzN4z3tyDRteyJ6l2Hg"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 183287,
+      "name": "Je pense \u00e0 vous - Version orchestrale",
+      "url": "https://open.spotify.com/track/4U4IQfzY4sRsylQqpoBrVZ"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Vaitimbora (Acoustic)",
+        "url": "https://open.spotify.com/album/6JzDVUugnZpQYIEImbclJL"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 114023,
+      "name": "Vaitimbora - Acoustic",
+      "url": "https://open.spotify.com/track/1uLA9u8N6GgqQ5kZ4pZCsg"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -143,6 +171,26 @@
       "duration_ms": 199517,
       "name": "Emiliana - Acoustic",
       "url": "https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile - Acoustic",
+      "url": "https://open.spotify.com/track/3sDIlJZzYNHtnSuuOxvTal"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -183,18 +231,22 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Vaitimbora (Acoustic)",
-        "url": "https://open.spotify.com/album/6JzDVUugnZpQYIEImbclJL"
+        "name": "Gimme Love (Sofiane Pamart Remix)",
+        "url": "https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI"
       },
       "artists": [
         {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
         }
       ],
-      "duration_ms": 114023,
-      "name": "Vaitimbora - Acoustic",
-      "url": "https://open.spotify.com/track/1uLA9u8N6GgqQ5kZ4pZCsg"
+      "duration_ms": 162570,
+      "name": "Gimme Love - Sofiane Pamart Remix",
+      "url": "https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -219,38 +271,18 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Eternity (Orchestral Version)",
-        "url": "https://open.spotify.com/album/4PVrTYM62DSSUwTKX39wAR"
+        "name": "Tattoo (Acoustic)",
+        "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 205113,
-      "name": "Eternity - Orchestral Version",
-      "url": "https://open.spotify.com/track/4WL7hA2rs7DFMjfQ8SpX94"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Gimme Love (Sofiane Pamart Remix)",
-        "url": "https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        }
-      ],
-      "duration_ms": 162570,
-      "name": "Gimme Love - Sofiane Pamart Remix",
-      "url": "https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu"
+      "duration_ms": 214864,
+      "name": "Tattoo - Acoustic",
+      "url": "https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -291,18 +323,34 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Tattoo (Acoustic)",
-        "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
+        "name": "Secret (sad orchestra)",
+        "url": "https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 214864,
-      "name": "Tattoo - Acoustic",
-      "url": "https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x"
+      "duration_ms": 188693,
+      "name": "Secret - sad orchestra",
+      "url": "https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Eternity (Orchestral Version)",
+        "url": "https://open.spotify.com/album/4PVrTYM62DSSUwTKX39wAR"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 205113,
+      "name": "Eternity - Orchestral Version",
+      "url": "https://open.spotify.com/track/4WL7hA2rs7DFMjfQ8SpX94"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -323,6 +371,22 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
+        "name": "Sapphire (Unplugged)",
+        "url": "https://open.spotify.com/album/1SSAC7Db5LEhTWtVVnvMva"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Sapphire - Unplugged",
+      "url": "https://open.spotify.com/track/1luf2qRRvfP0o35F3g8xqA"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
         "name": "Daylight (Reimagined)",
         "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
       },
@@ -335,6 +399,54 @@
       "duration_ms": 205263,
       "name": "Daylight - Acoustic",
       "url": "https://open.spotify.com/track/38rp6FLYxF43GhnLcb99wu"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Bad Dreams (Acoustic)",
+        "url": "https://open.spotify.com/album/3w0fo8UhkhtBUi8i3EcSQg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176019,
+      "name": "Bad Dreams - Acoustic",
+      "url": "https://open.spotify.com/track/2J0uAddTaXz5mYhAIKhBXc"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Sweet but Psycho (Acoustic)",
+        "url": "https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 179265,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Is It Love (Orchestral Version)",
+        "url": "https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 249062,
+      "name": "Is It Love - Orchestral Version",
+      "url": "https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -359,38 +471,6 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Sapphire (Unplugged)",
-        "url": "https://open.spotify.com/album/1SSAC7Db5LEhTWtVVnvMva"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 176239,
-      "name": "Sapphire - Unplugged",
-      "url": "https://open.spotify.com/track/1luf2qRRvfP0o35F3g8xqA"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Bad Dreams (Acoustic)",
-        "url": "https://open.spotify.com/album/3w0fo8UhkhtBUi8i3EcSQg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 176019,
-      "name": "Bad Dreams - Acoustic",
-      "url": "https://open.spotify.com/track/2J0uAddTaXz5mYhAIKhBXc"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
         "name": "TEXAS HOLD 'EM (Acoustic Version)",
         "url": "https://open.spotify.com/album/69DFowWwyCZmU9rD4uJZvB"
       },
@@ -407,66 +487,38 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Secret (sad orchestra)",
-        "url": "https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 188693,
-      "name": "Secret - sad orchestra",
-      "url": "https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5"
+      "duration_ms": 210826,
+      "name": "Flowers (Demo)",
+      "url": "https://open.spotify.com/track/3MnewZrZDqej6thgEx3OB1"
     },
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Sweet but Psycho (Acoustic)",
-        "url": "https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon"
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 179265,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Gold (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi"
-      },
-      "artists": [
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
         {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Gold - Acoustic Version",
-      "url": "https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "greedy acoustic",
-      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
+      "duration_ms": 195987,
+      "name": "Le feu - Acoustique",
+      "url": "https://open.spotify.com/track/5X6yOF0RbcjNe3kFcdhp3X"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -491,18 +543,50 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Wish You The Best EP",
-        "url": "https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE"
+        "name": "Trip Tape",
+        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 209352,
-      "name": "Wish You The Best - Guitar Version",
-      "url": "https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq"
+      "duration_ms": 183277,
+      "name": "Save Your Tears (Acoustic)",
+      "url": "https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Training Season (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5fqAByatp1mCnkckiH8jYy"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 236492,
+      "name": "Training Season - Acoustic Version",
+      "url": "https://open.spotify.com/track/1Zp65ER4CfD0a7ylF87Z1F"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "greedy acoustic",
+      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -523,70 +607,18 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "maman (acoustique)",
-        "url": "https://open.spotify.com/album/081z71DA1Zxex0sPR2QBTY"
+        "name": "Gold (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
         }
       ],
-      "duration_ms": 184800,
-      "name": "maman - acoustique",
-      "url": "https://open.spotify.com/track/4XelDEmRacldzskbbclmQY"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Trip Tape",
-        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 183277,
-      "name": "Save Your Tears (Acoustic)",
-      "url": "https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Black Friday EP",
-        "url": "https://open.spotify.com/album/0g5N9f6FpdYuON9ahdmu5n"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Black Friday (Mahogany Session)",
-      "url": "https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "I'm Good (Blue) [Acoustic]",
-        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 138024,
-      "name": "I'm Good (Blue) - Acoustic",
-      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
+      "duration_ms": 199384,
+      "name": "Gold - Acoustic Version",
+      "url": "https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -619,22 +651,6 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "Is It Love (Orchestral Version)",
-        "url": "https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 249062,
-      "name": "Is It Love - Orchestral Version",
-      "url": "https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
         "name": "Ceux qu'on \u00e9tait",
         "url": "https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree"
       },
@@ -651,22 +667,150 @@
     {
       "added_at": "2025-10-10 15:15:45",
       "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+        "name": "Whatever (The Remixes)",
+        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
       },
       "artists": [
         {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         }
       ],
-      "duration_ms": 195987,
-      "name": "Le feu - Acoustique",
-      "url": "https://open.spotify.com/track/5X6yOF0RbcjNe3kFcdhp3X"
+      "duration_ms": 225117,
+      "name": "Whatever (with Ava Max) - Acoustic",
+      "url": "https://open.spotify.com/track/2ItCGswdKXWP6fF5FZFFKe"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Ce qui me va",
+        "url": "https://open.spotify.com/album/6GZ2K7dAyHHMbY65archCw"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 183544,
+      "name": "Ce qui me va - Version acoustique",
+      "url": "https://open.spotify.com/track/1yWdlzvYpt5SY1et6TWNDq"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Black Friday EP",
+        "url": "https://open.spotify.com/album/0g5N9f6FpdYuON9ahdmu5n"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Black Friday (Mahogany Session)",
+      "url": "https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "maman (acoustique)",
+        "url": "https://open.spotify.com/album/081z71DA1Zxex0sPR2QBTY"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "maman - acoustique",
+      "url": "https://open.spotify.com/track/4XelDEmRacldzskbbclmQY"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "The Ballet Girl EP - Part 2",
+        "url": "https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 176338,
+      "name": "The Ballet Girl (Adagio)",
+      "url": "https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "I'm Good (Blue) [Acoustic]",
+        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 138024,
+      "name": "I'm Good (Blue) - Acoustic",
+      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Wish You The Best EP",
+        "url": "https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 209352,
+      "name": "Wish You The Best - Guitar Version",
+      "url": "https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "ROOM 96",
+        "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 204742,
+      "name": "Carry Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic"
+    },
+    {
+      "added_at": "2025-10-10 15:15:45",
+      "album": {
+        "name": "Rescue Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Rescue Me - Acoustic",
+      "url": "https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz"
     },
     {
       "added_at": "2025-10-10 15:15:45",
@@ -699,150 +843,6 @@
       "duration_ms": 160758,
       "name": "Azizam - Acoustic",
       "url": "https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "Flowers (Demo)",
-      "url": "https://open.spotify.com/track/3MnewZrZDqej6thgEx3OB1"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "The Ballet Girl EP - Part 2",
-        "url": "https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 176338,
-      "name": "The Ballet Girl (Adagio)",
-      "url": "https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Training Season (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5fqAByatp1mCnkckiH8jYy"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 236492,
-      "name": "Training Season - Acoustic Version",
-      "url": "https://open.spotify.com/track/1Zp65ER4CfD0a7ylF87Z1F"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Rescue Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Rescue Me - Acoustic",
-      "url": "https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Ce qui me va",
-        "url": "https://open.spotify.com/album/6GZ2K7dAyHHMbY65archCw"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 183544,
-      "name": "Ce qui me va - Version acoustique",
-      "url": "https://open.spotify.com/track/1yWdlzvYpt5SY1et6TWNDq"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Whatever (The Remixes)",
-        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 225117,
-      "name": "Whatever (with Ava Max) - Acoustic",
-      "url": "https://open.spotify.com/track/2ItCGswdKXWP6fF5FZFFKe"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "Bad Habits (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Bad Habits - Acoustic Version",
-      "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
-    },
-    {
-      "added_at": "2025-10-10 15:15:45",
-      "album": {
-        "name": "ROOM 96",
-        "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 204742,
-      "name": "Carry Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic"
     },
     {
       "added_at": "2025-10-10 15:15:45",

@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37626,
+  "num_followers": 37627,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAA6ZYcfs9CiB+pH4getDLdL",
+  "snapshot_id": "aQqTgAAAAAAZsqazN/cjlamKd1YEcHFm",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 246304,
+      "name": "Seven Sticks of Dynamite",
+      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Material Girl (feat. Taylor Hanson of Hanson)",
         "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 249240,
       "name": "Material Girl (feat. Taylor Hanson of Hanson)",
       "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 246304,
-      "name": "Seven Sticks of Dynamite",
-      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
     },
     {
       "added_at": null,

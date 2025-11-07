@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,187 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,188 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 14 | [Als Ik Je Weer Zie](https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Als Ik Je Weer Zie](https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI) | 3:27 |
 | 15 | [Jammer Dan](https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Jammer Dan](https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd) | 3:05 |
 | 16 | [Bon Gepakt](https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Bon Gepakt](https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY) | 2:53 |
-| 17 | [Lekkerding](https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Jouw Glimlach Op Je Mond](https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58) | 3:43 |
-| 18 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 |
+| 17 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 |
+| 18 | [Lekkerding](https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Jouw Glimlach Op Je Mond](https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58) | 3:43 |
 | 19 | [Tussen Jou en Mij](https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6) | [Willem & Jan](https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tussen Jou en Mij](https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm) | 2:58 |
 | 20 | [Viva Cerveza](https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Viva Cerveza](https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD) | 3:26 |
 | 21 | [Goud](https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Goud](https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2) | 3:22 |

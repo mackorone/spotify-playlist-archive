@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "My Devotion",
+        "url": "https://open.spotify.com/album/5zKAS4DUe8B1LGBN7luf8e"
+      },
+      "artists": [
+        {
+          "name": "Nene Olajide",
+          "url": "https://open.spotify.com/artist/7cHiOiU3cpE8yU89jgN37F"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214237,
+      "name": "My Devotion",
+      "url": "https://open.spotify.com/track/76gmREYRRm5UiusIQxAMNd"
+    },
+    {
+      "album": {
         "name": "My God",
         "url": "https://open.spotify.com/album/3KitNkoXR2uuRTvxAhDz6c"
       },

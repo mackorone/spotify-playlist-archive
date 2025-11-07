@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Lvbel C5
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: UZI x Motive
 
 220 songs - 10 hr 53 min
 

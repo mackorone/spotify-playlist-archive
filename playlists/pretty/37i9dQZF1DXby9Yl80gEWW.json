@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 59817,
+  "num_followers": 59831,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -667,38 +667,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Stinkhorn",
-        "url": "https://open.spotify.com/album/4Y4x4xVwbjhp2f0Zt0dT67"
-      },
-      "artists": [
-        {
-          "name": "Hannah Read",
-          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
-        }
-      ],
-      "duration_ms": 145243,
-      "name": "Stinkhorn",
-      "url": "https://open.spotify.com/track/3Cqwayt6tSnlow0cp3pUbg"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -719,6 +687,38 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Stinkhorn",
+        "url": "https://open.spotify.com/album/4Y4x4xVwbjhp2f0Zt0dT67"
+      },
+      "artists": [
+        {
+          "name": "Hannah Read",
+          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
+        }
+      ],
+      "duration_ms": 145243,
+      "name": "Stinkhorn",
+      "url": "https://open.spotify.com/track/3Cqwayt6tSnlow0cp3pUbg"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "It's A String Thing",
-      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 242431,
       "name": "Two Rivers Waltz",
       "url": "https://open.spotify.com/track/5KL3TNSegGUYRDxtiwiYmj"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "It's A String Thing",
+      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Concrete and Steel",
-        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
-      },
-      "artists": [
-        {
-          "name": "Off the Rails",
-          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
-        }
-      ],
-      "duration_ms": 251047,
-      "name": "Concrete and Steel",
-      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Concrete and Steel",
+        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
+      },
+      "artists": [
+        {
+          "name": "Off the Rails",
+          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
+        }
+      ],
+      "duration_ms": 251047,
+      "name": "Concrete and Steel",
+      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Up in Bigfoot Country",
-        "url": "https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4"
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
       "artists": [
         {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
         }
       ],
-      "duration_ms": 195493,
-      "name": "Up in Bigfoot Country",
-      "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+        "name": "Up in Bigfoot Country",
+        "url": "https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4"
       },
       "artists": [
         {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
         }
       ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+      "duration_ms": 195493,
+      "name": "Up in Bigfoot Country",
+      "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1307,6 +1307,22 @@
       "duration_ms": 154285,
       "name": "Crowe River",
       "url": "https://open.spotify.com/track/6NBmpYvczviLnDzLlluZo0"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Simple Pleasures (Remixed and Remastered)",
+        "url": "https://open.spotify.com/album/25R5C5ORk9TBUabLhSrbb7"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Wolf Moon - Remixed and Remastered",
+      "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Simple Pleasures (Remixed and Remastered)",
-        "url": "https://open.spotify.com/album/25R5C5ORk9TBUabLhSrbb7"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Wolf Moon - Remixed and Remastered",
-      "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 254906,
       "name": "Bozeman",
       "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Saltbush Express",
-        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Fix",
-          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
-        }
-      ],
-      "duration_ms": 171823,
-      "name": "Saltbush Express",
-      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1439,6 +1423,22 @@
       "duration_ms": 237768,
       "name": "And Then, And Then, And Then",
       "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Saltbush Express",
+        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "duration_ms": 171823,
+      "name": "Saltbush Express",
+      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
+      },
+      "artists": [
+        {
+          "name": "Cedar Hill",
+          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "Leavin' Egypt - Instrumental",
+      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Things Are Simple",
         "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 288026,
       "name": "Along Came Sonny",
       "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "New Chapter",
-        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
       },
       "artists": [
         {
-          "name": "Cedar Hill",
-          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
         }
       ],
-      "duration_ms": 188826,
-      "name": "Leavin' Egypt - Instrumental",
-      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2025-02-21 05:00:42",

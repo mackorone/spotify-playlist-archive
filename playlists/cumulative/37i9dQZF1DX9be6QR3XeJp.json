@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: JayaHadADream",
+  "description": "Discover your new favourite artists from UK&IE. Cover: TATYANA",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 155642,
       "name": "amnesia111",
       "url": "https://open.spotify.com/track/4cc73WNl3KdrJNgWk0eySz"
+    },
+    {
+      "album": {
+        "name": "Amour Armour",
+        "url": "https://open.spotify.com/album/5EBkaQAyQM8oXV7xkE6pzB"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300847,
+      "name": "Amour Armour",
+      "url": "https://open.spotify.com/track/3BeT0aKDJdMdsAXBeTpstR"
     },
     {
       "album": {

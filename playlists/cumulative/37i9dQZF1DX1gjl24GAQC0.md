@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: AHOF\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-779 songs - 1 day 18 hr 28 min
+781 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-11 | 2024-05-10 |
 | [CROWN](https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg) | 3:50 | 2021-12-08 | 2022-07-20 |
 | [CRUSH](https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:49 | 2023-11-10 | 2024-01-21 |
-| [CRZY](https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [TASTE \- The 1st Album](https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U) | 3:26 | 2025-09-09 |  |
+| [CRZY](https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [TASTE \- The 1st Album](https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U) | 3:26 | 2025-09-09 | 2025-11-07 |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-05-10 |
 | [D.D.D](https://open.spotify.com/track/4knqZHNHlEBBEmfETcpTyr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [DREAMLIKE](https://open.spotify.com/album/4T7BOMEuEfIMsDfomppwtW) | 3:32 | 2022-02-15 | 2022-07-09 |
 | [Daisy](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:09 | 2021-12-08 | 2022-07-29 |
@@ -432,7 +432,7 @@
 | [LOVE SCENARIO](https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8) | 3:29 | 2021-12-08 | 2022-07-19 |
 | [Love Shot](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 | 2021-12-08 |  |
 | [LOVE TODAY](https://open.spotify.com/track/1oyuzoohgPr3SXcVa3gS4g) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [BTODAY](https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K) | 3:07 | 2025-03-07 | 2025-03-29 |
-| [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-14 |  |
+| [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-14 | 2025-11-07 |
 | [Loveade](https://open.spotify.com/track/78WO1OYpf9kmW4c25GXdMk) | [WE IN THE ZONE](https://open.spotify.com/artist/2aCSYXdXqJNaXk99vjYnkQ) | [weeee!](https://open.spotify.com/album/0jH6NDNza0oHvkBtIfMHYU) | 3:22 | 2022-03-30 | 2022-04-17 |
 | [Loved You](https://open.spotify.com/track/2GYC9mc8TwV8MqPPHOrXCV) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [INTERSECTION : TRACE](https://open.spotify.com/album/6ktzrA4koNUT51emdPIFYK) | 3:48 | 2021-12-08 | 2022-05-12 |
 | [Lullaby](https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 | 2022-03-22 | 2022-07-06 |
@@ -452,6 +452,7 @@
 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 | 2022-01-12 | 2022-04-04 |
 | [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2022-03-22 | 2022-05-14 |
 | [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 | 2025-10-10 | 2025-10-14 |
+| [ME](https://open.spotify.com/track/7gfo1QCdgYS3dJGfjrN39Z) | [KANG SEUNG YOON](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE 2](https://open.spotify.com/album/1zQRrxf71E8Fi5CnfYEWrp) | 3:42 | 2025-11-06 |  |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-17 | 2022-11-24 |
 | [MEDUSA](https://open.spotify.com/track/6ZhLGUfleWoL751FUIDUYl) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [÷ \(NANUGI\)](https://open.spotify.com/album/6OYLlrSEe5QxS89FQ5PpYr) | 2:48 | 2023-10-13 | 2023-10-24 |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-04 | 2024-10-26 |
@@ -644,6 +645,7 @@
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-04 | 2022-10-08 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-04 | 2025-04-18 |
 | [Still Loving You](https://open.spotify.com/track/4JvJw1ZMpmCnv6RjPUM1GT) | [100%](https://open.spotify.com/artist/3fkFO5lmipe654caBLBD6n) | [RE:tro](https://open.spotify.com/album/2N5nMmoKGeFwXB3mKBrHKT) | 3:00 | 2022-03-16 | 2022-07-29 |
+| [Stretch](https://open.spotify.com/track/45ika45Kgm9A0a9Hg36tRz) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [I\-KNOW \- The 1st Album](https://open.spotify.com/album/0as0v59idZjdfApWTAItnC) | 3:02 | 2025-11-06 |  |
 | [STUPID](https://open.spotify.com/track/73zoJOtMEpGqWLGIOCChSz) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [UPSIDE DOWN](https://open.spotify.com/album/7F4KP5n3EcXCWlaphhV5fq) | 3:19 | 2025-08-26 | 2025-09-10 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-05 |
 | [Stylish](https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:35 | 2025-07-28 | 2025-08-23 |

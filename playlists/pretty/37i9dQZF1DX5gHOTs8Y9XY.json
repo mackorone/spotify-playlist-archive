@@ -1,6 +1,6 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 1924,
+  "num_followers": 2078,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/13BAOu7oc99iPNC06ZpM0D"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 262946,
       "name": "Stevie",
       "url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/13BAOu7oc99iPNC06ZpM0D"
     },
     {
       "added_at": "2024-07-17 12:31:26",

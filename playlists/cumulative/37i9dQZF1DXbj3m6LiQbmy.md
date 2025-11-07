@@ -4,7 +4,7 @@
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  Protopapa in cover ✨
 
-385 songs - 22 hr 22 min
+386 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Ho pianto in discoteca](https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K) | [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5), [CRLN](https://open.spotify.com/artist/4Gmkm3PIIdBZkSMlIdsMwZ) | [Ho pianto in discoteca](https://open.spotify.com/album/24JZfKM6ETpX1RkL4eiR7m) | 2:51 | 2021-11-19 |  |
 | [Honey \- Original mix](https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8) | [Fivequestionmarks](https://open.spotify.com/artist/2LuGWCQe0znzHPriNsi2bg), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b) | [Zucchero](https://open.spotify.com/album/2cXFVGdObf28i68Sl6GMPs) | 3:53 | 2022-07-07 | 2024-01-09 |
 | [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/3j2O9djceEokL0sthXZwDn) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 2:34 | 2024-01-08 | 2025-09-30 |
-| [How I Became A House](https://open.spotify.com/track/2J2VP9r6Tq8yPuxEVd4UJy) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [Loser With A Strategy](https://open.spotify.com/album/3ja6JyJDSg2ucusI9kFUbG) | 2:59 | 2022-04-01 |  |
+| [How I Became A House](https://open.spotify.com/track/2J2VP9r6Tq8yPuxEVd4UJy) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [Loser With A Strategy](https://open.spotify.com/album/3ja6JyJDSg2ucusI9kFUbG) | 2:59 | 2022-04-01 | 2025-11-07 |
 | [I Know Your Present](https://open.spotify.com/track/3CD3Ymds6yWnVHBNDYfZTA) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/3HWZFc7EIvG09YxKQivd1G) | 3:49 | 2023-05-09 | 2024-07-05 |
 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-05-09 | 2024-04-19 |
 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 | 2024-03-11 |  |
@@ -275,6 +275,7 @@
 | [PRAY](https://open.spotify.com/track/0znJt9mv0fI2DKSkJ8TfTY) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [PRAY](https://open.spotify.com/album/1aP12hQEnwTJtUqIxQo9Ju) | 2:23 | 2022-06-02 | 2025-06-20 |
 | [PRAY](https://open.spotify.com/track/5OPERNndxIm6JL4Qmdfm5S) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [PRAY](https://open.spotify.com/album/5zsTNApj0NEoO3c4tFYbhY) | 2:23 | 2023-10-27 | 2024-04-19 |
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-05-05 | 2023-10-13 |
+| [prophecy](https://open.spotify.com/track/0bcinVan26kFF819jeK6N2) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [prophecy](https://open.spotify.com/album/2kZgAwP5miSIyNF5WUICsO) | 2:07 | 2025-11-06 |  |
 | [PUGNI](https://open.spotify.com/track/7zaTBr6rFLeH9aYJx43DFJ) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [GIOVANE CUORE](https://open.spotify.com/album/1lF5COKED067Xj4KghvDtQ) | 2:37 | 2023-06-08 |  |
 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 | 2021-11-19 | 2025-09-30 |
 | [Queer Nation](https://open.spotify.com/track/6SYYoo7lZsNI7JhsG1vr7R) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Party Hard Ton](https://open.spotify.com/album/1JtWoaApyKVWOiPqQW2Jvb) | 6:10 | 2022-06-26 | 2023-03-18 |

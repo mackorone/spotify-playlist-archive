@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809 likes - 136 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 810 likes - 136 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 106 | [love is in the air](https://open.spotify.com/track/3qbaSpC8DRPTDR9xShNMIR) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 4:06 |
 | 107 | [good times](https://open.spotify.com/track/0zzvxMOirxssLMF1vVJtca) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:47 |
 | 108 | [Cast My Cares](https://open.spotify.com/track/0jGFiSskGornBEhfkdmd8R) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:19 |
-| 109 | [family tree](https://open.spotify.com/track/0nJLiVml1I1OMJfCt4hB3d) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:56 |
-| 110 | [Rain \- Live](https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:41 |
+| 109 | [Rain \- Live](https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:41 |
+| 110 | [family tree](https://open.spotify.com/track/0nJLiVml1I1OMJfCt4hB3d) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:56 |
 | 111 | [you](https://open.spotify.com/track/1DLSqKeY0jAEJccwPQyzIG) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:25 |
 | 112 | [Live in You](https://open.spotify.com/track/46k6y32iFPrDCYBGeFEVIU) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 3:01 |
 | 113 | [Peace Of God](https://open.spotify.com/track/1BcIvrdxFt6eHdMXMve4BU) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2) | 4:40 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 135 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 136 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AcAzpgAAAABzzDZOXzIL1GFQiw3plVNf`
+Snapshot ID: `AcA5PAAAAADSXbpfABwnMZsJ9SY/t6xN`

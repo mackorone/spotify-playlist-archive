@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 157 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 157 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 44 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 |
 | 45 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 |
 | 46 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
-| 47 | [KANEKI](https://open.spotify.com/track/4wOHkjgu0jCcILKvbKrYa9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:50 |
-| 48 | [OH I DID](https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:56 |
+| 47 | [OH I DID](https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:56 |
+| 48 | [KANEKI](https://open.spotify.com/track/4wOHkjgu0jCcILKvbKrYa9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:50 |
 | 49 | [Feelings](https://open.spotify.com/track/6MNSwUUjWSDUhuCZaTezAn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:40 |
 | 50 | [Marinate](https://open.spotify.com/track/41Rfg4KikdF3WIHHxU821m) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 2:42 |
 | 51 | [Missing Everything](https://open.spotify.com/track/720XllkKq9Pmjk1KOS7Z0F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/6vxwZzJVRrQKuJK6AcXwbn) | 3:44 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 63 | [Fools Gold](https://open.spotify.com/track/3GrmuJIlhZs8O6SpVhR8yx) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Bars Mitzvah](https://open.spotify.com/album/3Fc5H7NJ2V8SNrUHnpBvV2) | 2:55 |
 | 64 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
 | 65 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 |
-| 66 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
-| 67 | [S.M.O.](https://open.spotify.com/track/7iYrk5G9jTqY5oG8k7Lj0B) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 4:30 |
+| 66 | [S.M.O.](https://open.spotify.com/track/7iYrk5G9jTqY5oG8k7Lj0B) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 4:30 |
+| 67 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 68 | [CELEBRATE LIFE](https://open.spotify.com/track/6FagVvK1pxw7dflOgAZG0G) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ant Beale](https://open.spotify.com/artist/5AR8oVaAhBu6x3W9AoluKp), [DRAM](https://open.spotify.com/artist/1V8JxzFgX6DRXjpW65na1D) | [FIREWORKS](https://open.spotify.com/album/6RfdJTFUBXrseitaphVXdA) | 3:19 |
 | 69 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
 | 70 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 156 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 157 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcAzpgAAAACtd9mQeS/kewZuDAlnILyB`
+Snapshot ID: `AcA5RgAAAACvYcyQzQM2scezQ9WXzDxl`

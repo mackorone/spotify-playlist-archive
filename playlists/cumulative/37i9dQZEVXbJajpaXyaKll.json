@@ -13750,7 +13750,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 203986,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/1pWrC1eBExAjlLYzy8GWvy"
@@ -14796,7 +14796,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 206197,
       "name": "HIT",
       "url": "https://open.spotify.com/track/6UkwuADvgQgFQbU3LxHufl"
@@ -26731,6 +26731,32 @@
     },
     {
       "album": {
+        "name": "Pla Pla (Remix)",
+        "url": "https://open.spotify.com/album/2OJteCEaQ6WN482frJr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Koke",
+          "url": "https://open.spotify.com/artist/6pUTq4Ou0OBG6fwsDR3S8Z"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Polakan",
+          "url": "https://open.spotify.com/artist/66Q0sKoITOwDGz49FOVlBa"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165340,
+      "name": "Pla Pla - Remix",
+      "url": "https://open.spotify.com/track/08x7nSsWxCVJhbrs1aXGqS"
+    },
+    {
+      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
@@ -31020,7 +31046,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 167173,
       "name": "Solifican12",
       "url": "https://open.spotify.com/track/4fDmgQfKMY7GcAwp2nNoQ0"
@@ -33488,7 +33514,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 84560,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41"
@@ -38368,7 +38394,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"

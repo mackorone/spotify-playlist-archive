@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 16010,
+  "num_followers": 16011,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAlXvTKH73zw7kMnRfKs5JV",
+  "snapshot_id": "aQqTgAAAAABjRa8ww2DDuW0LRn8y3eGY",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Ain't Nothin' You Can Do",
-      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 405146,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Ain't Nothin' You Can Do",
+      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sheriff O.E. & Me",
-      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
+      "duration_ms": 357600,
+      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
+      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sassy Mama!",
         "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
       },
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
-        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
       },
       "artists": [
         {
@@ -636,25 +620,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 357600,
-      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
-      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real Cool Cat",
-        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 160543,
-      "name": "Laugh, Laugh, Laugh",
-      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
     },
     {
       "added_at": null,
@@ -668,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Oh Happy Day",
-      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,
@@ -691,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real Cool Cat",
+        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Laugh, Laugh, Laugh",
+      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hound Dog / The Peacock Recordings",
         "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
         "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 307946,
       "name": "Tell Me Pretty Baby - 2022 Remaster",
       "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 311906,
       "name": "Big Mama Swings",
       "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

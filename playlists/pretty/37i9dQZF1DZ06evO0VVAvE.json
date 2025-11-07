@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7255,
+  "num_followers": 7270,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACQ5PVKmLN1YQVII8AyCI5O",
+  "snapshot_id": "aQqTgAAAAAAPvLwvqxJ/Mq+1KMWrYm0x",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 132856,
       "name": "Kilo",
       "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 131364,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
+      "duration_ms": 160960,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 160960,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
+      "duration_ms": 131364,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
     },
     {
       "added_at": null,

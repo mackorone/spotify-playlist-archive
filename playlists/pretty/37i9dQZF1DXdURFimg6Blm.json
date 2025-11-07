@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1469499,
+  "num_followers": 1469663,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
-        "name": "crystallized (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 217646,
-      "name": "crystallized (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"
-    },
-    {
-      "added_at": "2025-10-24 04:00:16",
-      "album": {
         "name": "BACKBONE",
         "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
+    },
+    {
+      "added_at": "2025-10-24 04:00:16",
+      "album": {
+        "name": "crystallized (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 217646,
+      "name": "crystallized (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx"
     },
     {
       "added_at": "2025-10-24 04:00:16",
@@ -831,8 +831,8 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
       },
       "artists": [
         {
@@ -840,13 +840,13 @@
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
         }
       ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+      "duration_ms": 170625,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
     },
     {
       "added_at": "2025-10-24 04:00:16",
@@ -935,8 +935,8 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
       },
       "artists": [
         {
@@ -944,13 +944,13 @@
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 170625,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "added_at": "2025-10-24 04:00:16",
@@ -1263,46 +1263,6 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
-        "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Shamiya Battles",
-          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
-        }
-      ],
-      "duration_ms": 92226,
-      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
-      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
-    },
-    {
-      "added_at": "2025-10-24 04:00:16",
-      "album": {
-        "name": "White Wine & Adderall",
-        "url": "https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Beau Nox",
-          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "White Wine & Adderall",
-      "url": "https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"
-    },
-    {
-      "added_at": "2025-10-24 04:00:16",
-      "album": {
         "name": "Facilita",
         "url": "https://open.spotify.com/album/3WmLwaeaQ07qodXo5Cmel0"
       },
@@ -1327,6 +1287,26 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
+        "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Shamiya Battles",
+          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
+        }
+      ],
+      "duration_ms": 92226,
+      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
+      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
+    },
+    {
+      "added_at": "2025-10-24 04:00:16",
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "added_at": "2025-10-24 04:00:16",
+      "album": {
+        "name": "White Wine & Adderall",
+        "url": "https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Beau Nox",
+          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "White Wine & Adderall",
+      "url": "https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"
     },
     {
       "added_at": "2025-10-24 04:00:16",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
-        "name": "Raving In The Studio",
-        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
-      },
-      "artists": [
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Raving In The Studio",
-      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
-    },
-    {
-      "added_at": "2025-10-24 04:00:16",
-      "album": {
         "name": "Up Down",
         "url": "https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 212647,
       "name": "Slow Burner",
       "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
+    },
+    {
+      "added_at": "2025-10-24 04:00:16",
+      "album": {
+        "name": "Raving In The Studio",
+        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Raving In The Studio",
+      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
     },
     {
       "added_at": "2025-10-24 04:00:16",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
-        "name": "Archangel",
-        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Man With a Second Face",
-      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
-    },
-    {
-      "added_at": "2025-10-24 04:00:16",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 169326,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
+    },
+    {
+      "added_at": "2025-10-24 04:00:16",
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Man With a Second Face",
+      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
     },
     {
       "added_at": "2025-10-24 04:00:16",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
-        "name": "Fancy $hit",
-        "url": "https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 168837,
-      "name": "Fancy $hit",
-      "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
-    },
-    {
-      "added_at": "2025-10-24 04:00:16",
-      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -1963,6 +1943,26 @@
     {
       "added_at": "2025-10-24 04:00:16",
       "album": {
+        "name": "Fancy $hit",
+        "url": "https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "Fancy $hit",
+      "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
+    },
+    {
+      "added_at": "2025-10-24 04:00:16",
+      "album": {
         "name": "All The Things She Said (Culture Shock Version)",
         "url": "https://open.spotify.com/album/4iHVL611SiXiIYtgEJbmRS"
       },
@@ -1979,26 +1979,6 @@
       "duration_ms": 158620,
       "name": "All The Things She Said (Culture Shock Version)",
       "url": "https://open.spotify.com/track/4hp4cs1fKConq0Cmr4luW9"
-    },
-    {
-      "added_at": "2025-10-24 04:00:16",
-      "album": {
-        "name": "Pick Up The Phone",
-        "url": "https://open.spotify.com/album/1vaUC7CZtnJjaMWUbdzIN5"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 211510,
-      "name": "Pick Up The Phone",
-      "url": "https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc"
     },
     {
       "added_at": "2025-10-24 04:00:16",
@@ -2023,6 +2003,26 @@
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:16",
+      "album": {
+        "name": "Pick Up The Phone",
+        "url": "https://open.spotify.com/album/1vaUC7CZtnJjaMWUbdzIN5"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 211510,
+      "name": "Pick Up The Phone",
+      "url": "https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc"
     },
     {
       "added_at": "2025-10-24 04:00:16",

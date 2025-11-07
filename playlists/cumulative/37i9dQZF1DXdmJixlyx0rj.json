@@ -3703,6 +3703,28 @@
     },
     {
       "album": {
+        "name": "Nocturne 07 (for aerse)",
+        "url": "https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152473,
+      "name": "Nocturne 07 (for aerse)",
+      "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
+    },
+    {
+      "album": {
         "name": "Homies(Remix)",
         "url": "https://open.spotify.com/album/40xju0ksMj869kE6Fj3Ua6"
       },
@@ -4442,7 +4464,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"

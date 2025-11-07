@@ -1,6 +1,6 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1924076,
+  "num_followers": 1923942,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
@@ -479,30 +479,6 @@
     {
       "added_at": "2025-11-03 12:04:56",
       "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2025-11-03 12:04:56",
-      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
+    },
+    {
+      "added_at": "2025-11-03 12:04:56",
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2025-11-03 12:04:56",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-11-03 12:04:56",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
-    },
-    {
-      "added_at": "2025-11-03 12:04:56",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -1155,6 +1139,26 @@
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2025-11-03 12:04:56",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2025-11-03 12:04:56",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2025-11-03 12:04:56",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "added_at": "2025-11-03 12:04:56",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-11-03 12:04:56",
       "album": {
-        "name": "Hast du kurz Zeit",
-        "url": "https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ"
-      },
-      "artists": [
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 133751,
-      "name": "Hast du kurz Zeit",
-      "url": "https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE"
-    },
-    {
-      "added_at": "2025-11-03 12:04:56",
-      "album": {
         "name": "World Gone Wild (feat. Sam Martin)",
         "url": "https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2025-11-03 12:04:56",
       "album": {
+        "name": "Hast du kurz Zeit",
+        "url": "https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 133751,
+      "name": "Hast du kurz Zeit",
+      "url": "https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE"
+    },
+    {
+      "added_at": "2025-11-03 12:04:56",
+      "album": {
         "name": "Second Wind",
         "url": "https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 224733,
       "name": "Sleeping With The Lights On",
       "url": "https://open.spotify.com/track/79WmVVG6KbCecp45eyhbfX"
-    },
-    {
-      "added_at": "2025-11-03 12:04:56",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2025-11-03 12:04:56",
@@ -1431,6 +1415,22 @@
       "duration_ms": 172414,
       "name": "Hundred Miles",
       "url": "https://open.spotify.com/track/0pGMAK5wooEtjAEcP8bkKL"
+    },
+    {
+      "added_at": "2025-11-03 12:04:56",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2025-11-03 12:04:56",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-11-03 12:04:56",
       "album": {
-        "name": "Hausparty",
-        "url": "https://open.spotify.com/album/6J9lyophqMTIt6jkrQZ70D"
-      },
-      "artists": [
-        {
-          "name": "RIAN",
-          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
-        }
-      ],
-      "duration_ms": 151437,
-      "name": "Hausparty",
-      "url": "https://open.spotify.com/track/0L1e4NytVRR42Ip0KPVgdv"
-    },
-    {
-      "added_at": "2025-11-03 12:04:56",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "added_at": "2025-11-03 12:04:56",
+      "album": {
+        "name": "Hausparty",
+        "url": "https://open.spotify.com/album/6J9lyophqMTIt6jkrQZ70D"
+      },
+      "artists": [
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "duration_ms": 151437,
+      "name": "Hausparty",
+      "url": "https://open.spotify.com/track/0L1e4NytVRR42Ip0KPVgdv"
     },
     {
       "added_at": "2025-11-03 12:04:56",

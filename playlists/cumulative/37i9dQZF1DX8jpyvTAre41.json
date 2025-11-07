@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Foo Fighters",
+  "description": "The best rock songs of the moment. Cover: Finger Eleven",
   "name": "Rock Now",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 207400,
       "name": "100% Ghosts",
       "url": "https://open.spotify.com/track/42bj4uPeJSxJLvZRF0Kbji"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 151246,
       "name": "16/25",
       "url": "https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 194125,
       "name": "5 Gold Pieces",
       "url": "https://open.spotify.com/track/2Mr9ADEKRxDF5ccGGhqF4V"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 153211,
       "name": "american zombie",
       "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
@@ -1676,10 +1676,28 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 206506,
       "name": "Around",
       "url": "https://open.spotify.com/track/3OTOOWFmZpTcsvtCwjEppJ"
+    },
+    {
+      "album": {
+        "name": "Art Oracles",
+        "url": "https://open.spotify.com/album/4RQr4Juxg5Rb2oXpNf7TaO"
+      },
+      "artists": [
+        {
+          "name": "Vox Rea",
+          "url": "https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170520,
+      "name": "Art Oracles",
+      "url": "https://open.spotify.com/track/4UcFNDAZFrVd4lzWG89bmx"
     },
     {
       "album": {
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 102063,
       "name": "Ashen Grey",
       "url": "https://open.spotify.com/track/1DequHOXV6d2AuVlokx8FI"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 144845,
       "name": "AUTONOMOUS DELIVERY ROBOT",
       "url": "https://open.spotify.com/track/6nXJ76qT0Z5dsVQ8BkY71R"
@@ -2876,6 +2894,24 @@
       "duration_ms": 144676,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/1v0PrbGuumgytx0OTUbE06"
+    },
+    {
+      "album": {
+        "name": "Blood for Blood",
+        "url": "https://open.spotify.com/album/7EtisEfcsafbSOgo0wDC5K"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233152,
+      "name": "Blood for Blood",
+      "url": "https://open.spotify.com/track/18Lw97bgXmA91KMfq8DViD"
     },
     {
       "album": {
@@ -4323,6 +4359,24 @@
     },
     {
       "album": {
+        "name": "CHEERLEADER",
+        "url": "https://open.spotify.com/album/3wSVE2UfYzoaodKlNtnTIX"
+      },
+      "artists": [
+        {
+          "name": "Loviet",
+          "url": "https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248888,
+      "name": "CHEERLEADER",
+      "url": "https://open.spotify.com/track/6jucM8gcQT56RMoHQFtPG0"
+    },
+    {
+      "album": {
         "name": "Introvert",
         "url": "https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6"
       },
@@ -4922,7 +4976,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 272684,
       "name": "Could Have Been Me (Feat. Brian May)",
       "url": "https://open.spotify.com/track/5hKHL9CRXlYoIs1hIw5010"
@@ -5810,7 +5864,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 255663,
       "name": "Denali",
       "url": "https://open.spotify.com/track/3gwCx9TcuqFkeopOfqDuNA"
@@ -6124,6 +6178,24 @@
       "duration_ms": 194773,
       "name": "Dominate",
       "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
+    },
+    {
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/07O3ccXwXwG3ZKccyLvY5U"
+      },
+      "artists": [
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222631,
+      "name": "Don't Break My Heart",
+      "url": "https://open.spotify.com/track/42izaxKU4aONZMvif3wyTY"
     },
     {
       "album": {
@@ -7030,7 +7102,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
@@ -7878,7 +7950,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 224189,
       "name": "Fast Asleep",
       "url": "https://open.spotify.com/track/0R2KthS70Zglr0ECKDQbUU"
@@ -9190,7 +9262,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 158000,
       "name": "GLASS EYED IDOLS",
       "url": "https://open.spotify.com/track/3lGBxgE4KJUwxqaebERIPp"
@@ -9324,6 +9396,24 @@
       "duration_ms": 170523,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS"
+    },
+    {
+      "album": {
+        "name": "Momma Might've Raised A Fool",
+        "url": "https://open.spotify.com/album/1jRjFnhJ9vnTwEPBD1j3e3"
+      },
+      "artists": [
+        {
+          "name": "Kasador",
+          "url": "https://open.spotify.com/artist/3h1thCLfJatQji7H4Xw7Vj"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192672,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/67c2uG4S1kkvrZqTA35gYL"
     },
     {
       "album": {
@@ -10266,7 +10356,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 171018,
       "name": "Hit 'Em Where It Hurts",
       "url": "https://open.spotify.com/track/7oxOAE8edwosDxW9uSddaC"
@@ -10612,6 +10702,24 @@
       "duration_ms": 170494,
       "name": "hot girls in hell",
       "url": "https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0cgd1EfvYkm7fgr1m3mmkO"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175455,
+      "name": "HOT TO GO! - Spotify Singles",
+      "url": "https://open.spotify.com/track/5HoBujicJSH3hEIeDfmpTB"
     },
     {
       "album": {
@@ -10980,6 +11088,24 @@
       "duration_ms": 158480,
       "name": "I GAVE YOU EVERYTHING",
       "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
+    },
+    {
+      "album": {
+        "name": "I Got A Feeling",
+        "url": "https://open.spotify.com/album/5Ugv4hMfk4FhunHNEwOGbN"
+      },
+      "artists": [
+        {
+          "name": "Wintersleep",
+          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207551,
+      "name": "I Got A Feeling",
+      "url": "https://open.spotify.com/track/7gtLfYGpnBDYbthn5d4O5J"
     },
     {
       "album": {
@@ -14294,6 +14420,28 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
+    },
+    {
+      "album": {
+        "name": "MAD (feat. Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198393,
+      "name": "MAD (feat. Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD"
     },
     {
       "album": {
@@ -21801,6 +21949,24 @@
     },
     {
       "album": {
+        "name": "SURVIVE YOU",
+        "url": "https://open.spotify.com/album/1P6XixA6ud3KqM6jeDVpDx"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147033,
+      "name": "SURVIVE YOU",
+      "url": "https://open.spotify.com/track/4ozaPMk1SKOjkrb1OgfzHs"
+    },
+    {
+      "album": {
         "name": "Dominion",
         "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
@@ -22969,6 +23135,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201793,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/46onMrFCJJlvAy748S6AfX"
+    },
+    {
+      "album": {
         "name": "Inside Voices / Outside Voices",
         "url": "https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM"
       },
@@ -23353,6 +23537,24 @@
     },
     {
       "album": {
+        "name": "The Wreckage",
+        "url": "https://open.spotify.com/album/0XnX3bEjGyZaDeWAelHQf7"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268378,
+      "name": "The Wreckage",
+      "url": "https://open.spotify.com/track/4ZZdjo3O1UFMr0Q4nv3Ame"
+    },
+    {
+      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/0zHxW6x2Eu4l6qT60pPwn6"
       },
@@ -23712,7 +23914,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 166507,
       "name": "Tired of You (Featuring Fionn)",
       "url": "https://open.spotify.com/track/2om7X6uduu8rkg4OYxp3jA"
@@ -23788,6 +23990,24 @@
       "duration_ms": 185754,
       "name": "To My Heart",
       "url": "https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233289,
+      "name": "To Space",
+      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
     },
     {
       "album": {
@@ -25667,6 +25887,24 @@
     },
     {
       "album": {
+        "name": "Start A Band",
+        "url": "https://open.spotify.com/album/1kE8M92jJ84aoseDN95tYj"
+      },
+      "artists": [
+        {
+          "name": "Hollerado",
+          "url": "https://open.spotify.com/artist/4eNWAiPUXRaPmyWSc9glM3"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148636,
+      "name": "What Killed Elvis Presley?",
+      "url": "https://open.spotify.com/track/13Ky3j9Wk3hSml7dz7HhI4"
+    },
+    {
+      "album": {
         "name": "What You Need",
         "url": "https://open.spotify.com/album/5fHd3gpQNr0rB7LoljUVvg"
       },
@@ -26154,7 +26392,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 149651,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/7oB8E7opKPjknipuTubm8X"
@@ -26826,7 +27064,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 158912,
       "name": "Zeroed",
       "url": "https://open.spotify.com/track/6oJRBcFonNa6TVzIj97Flx"

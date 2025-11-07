@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer, Bennett Coast, and Pegassi.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,725 likes - 100 songs - 5 hr 42 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,724 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 68 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
 | 69 | [destroy me](https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:43 |
 | 70 | [Supercool](https://open.spotify.com/track/3Lh9zECFaknMX1zviYnU8t) | [LA Vampires](https://open.spotify.com/artist/162L13mr8DfShxorIVH1pW), [Maria Minerva](https://open.spotify.com/artist/2B5soBYqne8coa7QYaiRSQ) | [The Integration LP](https://open.spotify.com/album/11Rw0rZLSApaUZbLbwFjLs) | 4:34 |
-| 71 | [Heavens](https://open.spotify.com/track/49kWy3eczIlRPkmuSGKbFx) | [Goner](https://open.spotify.com/artist/2zubb88j9raZCaoyXih0iT) | [Heavens](https://open.spotify.com/album/1MckKvOc9ljn03AgK7CuMT) | 1:37 |
+| 71 | [](https://open.spotify.com/track/49kWy3eczIlRPkmuSGKbFx) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Heavens](https://open.spotify.com/album/1MckKvOc9ljn03AgK7CuMT) | 0:00 |
 | 72 | [Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA) | [Eera](https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P), [Rapallo](https://open.spotify.com/artist/1RF5DWMsiHEtZZte8H62JP) | [Our Chance](https://open.spotify.com/album/06zls1pcZIr2C4fSBkB5G3) | 3:13 |
 | 73 | [riding it + DJmegan23 flip](https://open.spotify.com/track/1s3tSmkdc0SsuDD9ma4xYa) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1), [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA) | [spirallore +++](https://open.spotify.com/album/6co6c8UO1KrMl8nuHW2vZR) | 2:16 |
 | 74 | [All Again](https://open.spotify.com/track/2jrzCpf7Ie750KCENF6yDo) | [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7), [Maya Lempelius](https://open.spotify.com/artist/4fDr9xEBNNgoKOEZDm0gMx) | [NOISEMAKER](https://open.spotify.com/album/2JFUgG7YTu1CfXWLS7It5g) | 3:40 |

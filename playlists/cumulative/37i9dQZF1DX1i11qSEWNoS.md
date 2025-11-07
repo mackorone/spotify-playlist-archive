@@ -4,7 +4,7 @@
 
 > und macht laune
 
-321 songs - 14 hr 56 min
+322 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,9 +190,10 @@
 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2023-07-28 | 2024-05-11 |
 | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 | 2024-05-01 | 2025-03-14 |
 | [MAMA GEHT'S FANTASTISCH](https://open.spotify.com/track/1WpzWood5j5iFzoFprHdOP) | [LARI LUKE](https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm), [Das Lumpenpack](https://open.spotify.com/artist/1yoERhqOE1iKKzKELHhEWM) | [MAMA GEHT'S FANTASTISCH](https://open.spotify.com/album/3qc2mZ7Xb83o3e5yR70GGD) | 2:15 | 2025-09-18 | 2025-10-12 |
+| [MAMI](https://open.spotify.com/track/1OsqxSWKQR1WnsLwMw1N2l) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MAMI](https://open.spotify.com/album/0m2iRaAMg7EmOwOEWEHt9H) | 2:06 | 2025-11-06 |  |
 | [Mamma Mia \(feat\. Mentissa\) \- Techno Mix](https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Mamma Mia \(feat\. Mentissa\) \[Techno Mix\]](https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf) | 3:20 | 2024-09-02 |  |
 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-06-11 | 2024-09-01 |
-| [Maneater](https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Maneater](https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw) | 2:34 | 2023-07-21 |  |
+| [Maneater](https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Maneater](https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw) | 2:34 | 2023-07-21 | 2025-11-07 |
 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 | 2023-07-21 | 2024-08-22 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-07-21 | 2023-09-27 |
 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 | 2023-12-01 | 2024-04-19 |

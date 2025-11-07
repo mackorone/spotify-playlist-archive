@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 298277,
+  "num_followers": 298397,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACVATEEY2hpF79ik0TIm4SC",
+  "snapshot_id": "aQqTgAAAAAA6wVFcXSLBRoDCuWVcie4R",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
-        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
-      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 353232,
-      "name": "La Luna Sabe",
-      "url": "https://open.spotify.com/track/09qJ4Mg46EmCp3P7w7YFEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Nube en Nube",
         "url": "https://open.spotify.com/album/0QL23W1P1RARwrX55ywxWt"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 186710,
       "name": "De Nube en Nube",
       "url": "https://open.spotify.com/track/6uKxRqcYPJtBRZXfOJeSOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 353232,
+      "name": "La Luna Sabe",
+      "url": "https://open.spotify.com/track/09qJ4Mg46EmCp3P7w7YFEz"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danzando Con Demonios",
-        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 223454,
-      "name": "Danzando Con Demonios",
-      "url": "https://open.spotify.com/track/3MLzrmul0cYgGk9infPMRl"
+      "duration_ms": 245562,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
+        "name": "Danzando Con Demonios",
+        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 245562,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
+      "duration_ms": 223454,
+      "name": "Danzando Con Demonios",
+      "url": "https://open.spotify.com/track/3MLzrmul0cYgGk9infPMRl"
     },
     {
       "added_at": null,

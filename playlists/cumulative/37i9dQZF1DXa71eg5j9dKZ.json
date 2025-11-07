@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Kelly Lee Owens",
+  "description": "The home for alternative electronic music. Cover: Jasper Tygner",
   "name": "Altar",
   "tracks": [
     {
@@ -190,6 +190,28 @@
       "duration_ms": 191084,
       "name": "24 (Turn It Up) (Radio Edit)",
       "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
+    },
+    {
+      "album": {
+        "name": "28 Eyes",
+        "url": "https://open.spotify.com/album/1803IIMVPWQpD4yc2UG0F0"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "holybones",
+          "url": "https://open.spotify.com/artist/5BrxhXnto2nqDoweFmBnJ0"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "28 Eyes",
+      "url": "https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM"
     },
     {
       "album": {
@@ -2553,6 +2575,28 @@
     },
     {
       "album": {
+        "name": "Beto\u2019s Horns (fred remix)",
+        "url": "https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226222,
+      "name": "Beto\u2019s Horns - fred remix",
+      "url": "https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
       },
@@ -3574,7 +3618,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 173777,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
@@ -4012,7 +4056,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 231737,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
@@ -5943,6 +5987,32 @@
     },
     {
       "album": {
+        "name": "Dot Dot (feat. Interplanetary Criminal & Flowdan)",
+        "url": "https://open.spotify.com/album/38XV0JAqCJk6RRyrB1JIU0"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181357,
+      "name": "Dot Dot (feat. Interplanetary Criminal & Flowdan)",
+      "url": "https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt"
+    },
+    {
+      "album": {
         "name": "double luxury",
         "url": "https://open.spotify.com/album/6DQicWAuEdhCIPhVxibnld"
       },
@@ -6572,6 +6642,24 @@
       "duration_ms": 329071,
       "name": "Elder Garden",
       "url": "https://open.spotify.com/track/6UJBTAGVxGhqg2053gzyvI"
+    },
+    {
+      "album": {
+        "name": "ELEMENTS",
+        "url": "https://open.spotify.com/album/7lYBA00IRFFeEjui7r6kSe"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140197,
+      "name": "ELEMENTS",
+      "url": "https://open.spotify.com/track/14WpRCSgEC1ytPInvisA1R"
     },
     {
       "album": {
@@ -11066,7 +11154,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 170316,
       "name": "i couldn't hold back (feat. George Riley)",
       "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
@@ -13134,7 +13222,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 225897,
       "name": "Last 1s Left",
       "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
@@ -13588,7 +13676,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 175990,
       "name": "Lippy",
       "url": "https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b"
@@ -14070,6 +14158,24 @@
       "duration_ms": 240413,
       "name": "Love U Bring",
       "url": "https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X"
+    },
+    {
+      "album": {
+        "name": "Love Who You Love",
+        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "Love Who You Love",
+      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
     },
     {
       "album": {
@@ -16826,7 +16932,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 239823,
       "name": "Ooo",
       "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
@@ -19020,7 +19126,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 217380,
       "name": "Rose",
       "url": "https://open.spotify.com/track/3YMTTRGYIWqt96klVOkBP0"
@@ -21821,6 +21927,28 @@
     },
     {
       "album": {
+        "name": "Subliminals",
+        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154100,
+      "name": "Subliminals",
+      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/2TMsotmVj0zxWshIzzAcdV"
       },
@@ -22924,7 +23052,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 218823,
       "name": "the one",
       "url": "https://open.spotify.com/track/6uBOGvxsHEn9rJyzwQSc1Z"
@@ -23245,6 +23373,24 @@
     },
     {
       "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/5KqRrS3Qa2CpQCZMeA2B02"
+      },
+      "artists": [
+        {
+          "name": "Bodhi",
+          "url": "https://open.spotify.com/artist/1C545778m57qWQwISWGAHD"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315963,
+      "name": "Thirst",
+      "url": "https://open.spotify.com/track/7sD9Y6qy01sSMaR7XNVTDl"
+    },
+    {
+      "album": {
         "name": "Thirst Day (Radio Edit)",
         "url": "https://open.spotify.com/album/4uDOt4aulj8xmQWLEFZY9p"
       },
@@ -23360,6 +23506,24 @@
       "duration_ms": 213120,
       "name": "This Time",
       "url": "https://open.spotify.com/track/21KH3KOkTjqPM0lCoba0UC"
+    },
+    {
+      "album": {
+        "name": "Thousand Eyes",
+        "url": "https://open.spotify.com/album/1r37pTndrgbZxF86mXbkMm"
+      },
+      "artists": [
+        {
+          "name": "TMPLE",
+          "url": "https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242230,
+      "name": "Thousand Eyes",
+      "url": "https://open.spotify.com/track/4LUPt50fnmLE7cppxatHZS"
     },
     {
       "album": {
@@ -24952,7 +25116,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 201000,
       "name": "w.o.w. (walk on water) [feat. shiv]",
       "url": "https://open.spotify.com/track/5jEBt8pRv5GGyTFxH9SMFX"
@@ -25636,6 +25800,24 @@
       "duration_ms": 269914,
       "name": "Whenever I Want",
       "url": "https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn"
+    },
+    {
+      "album": {
+        "name": "Whip It Up",
+        "url": "https://open.spotify.com/album/6zd5FAmDJADxD668w25yQY"
+      },
+      "artists": [
+        {
+          "name": "\u232d IceMorph \u232c",
+          "url": "https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227805,
+      "name": "Whip It Up",
+      "url": "https://open.spotify.com/track/1MmHviVpXLBYos8BGXDOLF"
     },
     {
       "album": {

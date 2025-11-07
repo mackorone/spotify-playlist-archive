@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63317,
+  "num_followers": 63319,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABDJ0F5GWlfEcfUAOSlgTLD",
+  "snapshot_id": "aQqTgAAAAADvT/OhrlKQBQYEPeXl2a3h",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Basta Uma Palavra (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tP8XPThhADgiDrGhwMF5P"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 453930,
       "name": "Teu Toque - Ao Vivo",
       "url": "https://open.spotify.com/track/4joufqWt6hm8LUmfMwWCOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw"
     },
     {
       "added_at": null,
@@ -987,22 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo pra Sempre (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7kyfbTcNKktPTBbT8n7cu2"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 412466,
-      "name": "Santo pra Sempre - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/48uq78a2nhzL2NBD5UCgBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ousado Amor",
         "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 826880,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santo pra Sempre (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7kyfbTcNKktPTBbT8n7cu2"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 412466,
+      "name": "Santo pra Sempre - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/48uq78a2nhzL2NBD5UCgBI"
     },
     {
       "added_at": null,

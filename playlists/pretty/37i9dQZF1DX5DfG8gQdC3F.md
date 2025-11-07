@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from ROSALÍA, Tyler, The Creator, Florence & The Machine, Reneé Rapp, Mikayla Geier and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,305 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,299 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 46 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [A Fine African Man](https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d) | 2:43 |
 | 47 | [SAY IT TO ME.](https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:28 |
 | 48 | [beneath ur skin](https://open.spotify.com/track/52GUQXyimmG6g3gJysFEWG) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n), [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [beneath ur skin](https://open.spotify.com/album/06omTycWzdwZlQqW0j96NQ) | 2:59 |
-| 49 | [Own Spotlight](https://open.spotify.com/track/1Lx4BBTcNp3623BVFVk5CM) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Corsa](https://open.spotify.com/album/37YYfGSIOa2jBWaZ4XjEZ4) | 2:34 |
+| 49 | [Own Spotlight](https://open.spotify.com/track/1Lx4BBTcNp3623BVFVk5CM) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Guri Sangali](https://open.spotify.com/artist/7AKEzSlOIPy2fVTTYAr0EB) | [Corsa](https://open.spotify.com/album/37YYfGSIOa2jBWaZ4XjEZ4) | 2:34 |
 | 50 | [JOJO](https://open.spotify.com/track/4Ldo3ZQCK6KpTHm1wsbWOg) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [JOJO](https://open.spotify.com/album/4MvXN88TgxRdH88qadBEG8) | 2:10 |
 | 51 | [Streets A Lie](https://open.spotify.com/track/30HhS6WYfKWqkZJj43Itce) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Streets A Lie](https://open.spotify.com/album/3XZWwo05cC6xrEHzqs1S5H) | 2:49 |
 | 52 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 |

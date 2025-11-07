@@ -1,6 +1,6 @@
 {
   "description": "\u8611\u83c7\u6fc3\u6e6f\u4f86\u4e86\uff01\u5feb\u9ede\u5feb\u9ede\u5feb\u9ede\u5466\uff01\u548c\u5bf6\u8c9d\u4e00\u8d77\u5feb\u6a02\u5531\u5531\u8df3\u8df3\u5427\uff01",
-  "num_followers": 10043,
+  "num_followers": 10049,
   "original_name": "\u5bf6\u5bf6\u5b9a\u795e\u66f2",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u6a02\u5531\u7ae5\u5b78\u6703 \u4e16\u754c\u7d93\u5178\u7ae5\u8b20 \u4e2d\u6587\u6f14\u5531\u7248",
-        "url": "https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R"
-      },
-      "artists": [
-        {
-          "name": "MIKA STUDIO",
-          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
-        }
-      ],
-      "duration_ms": 86002,
-      "name": "\u4e00\u9583\u4e00\u9583\u4eae\u6676\u6676",
-      "url": "https://open.spotify.com/track/37naxFJJJpEFu4laCET8Pu"
-    },
-    {
-      "added_at": "2025-10-23 17:36:04",
-      "album": {
         "name": "\u8d1d\u4e50\u864e\u54c4\u7761\u513f\u6b4c\uff08\u4e00\uff09",
         "url": "https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 57140,
       "name": "\u5c0f\u661f\u661f - \u54c4\u7761\u7248",
       "url": "https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm"
+    },
+    {
+      "added_at": "2025-10-23 17:36:04",
+      "album": {
+        "name": "\u6a02\u5531\u7ae5\u5b78\u6703 \u4e16\u754c\u7d93\u5178\u7ae5\u8b20 \u4e2d\u6587\u6f14\u5531\u7248",
+        "url": "https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R"
+      },
+      "artists": [
+        {
+          "name": "MIKA STUDIO",
+          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
+        }
+      ],
+      "duration_ms": 86002,
+      "name": "\u4e00\u9583\u4e00\u9583\u4eae\u6676\u6676",
+      "url": "https://open.spotify.com/track/37naxFJJJpEFu4laCET8Pu"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u5c0f\u5bf6\u8c9d\u7d93\u5178\u5152\u6b4c\uff5c\u7d93\u5178\u5152\u6b4c\u5531\u5531\u8df3\u8df3\uff5c\u5bf6\u5bf6\u653e\u96fb\u5152\u6b4c\uff5c\u4e00\u8d77\u4f86\u8df3\u821e\u5427\uff01",
-        "url": "https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA"
-      },
-      "artists": [
-        {
-          "name": "MIKA STUDIO",
-          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
-        }
-      ],
-      "duration_ms": 100575,
-      "name": "\u5927\u8c61\u4f60\u7684\u9f3b\u5b50\u600e\u9ebc\u90a3\u9ebc\u9577",
-      "url": "https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy"
-    },
-    {
-      "added_at": "2025-10-23 17:36:04",
-      "album": {
         "name": "\u5e78\u798f\u7684\u5b69\u5b50\u611b\u5531\u6b4c",
         "url": "https://open.spotify.com/album/7qBWhK85vJBxsL4xVqXxhC"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 160880,
       "name": "\u624b\u6307\u904b\u52d5",
       "url": "https://open.spotify.com/track/5K9MEQtk59L8bV0EXEcn8q"
+    },
+    {
+      "added_at": "2025-10-23 17:36:04",
+      "album": {
+        "name": "\u5c0f\u5bf6\u8c9d\u7d93\u5178\u5152\u6b4c\uff5c\u7d93\u5178\u5152\u6b4c\u5531\u5531\u8df3\u8df3\uff5c\u5bf6\u5bf6\u653e\u96fb\u5152\u6b4c\uff5c\u4e00\u8d77\u4f86\u8df3\u821e\u5427\uff01",
+        "url": "https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA"
+      },
+      "artists": [
+        {
+          "name": "MIKA STUDIO",
+          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
+        }
+      ],
+      "duration_ms": 100575,
+      "name": "\u5927\u8c61\u4f60\u7684\u9f3b\u5b50\u600e\u9ebc\u90a3\u9ebc\u9577",
+      "url": "https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u6a02\u5531\u7ae5\u5b78\u6703 \u4e16\u754c\u7d93\u5178\u7ae5\u8b20 \u4e2d\u6587\u6f14\u5531\u7248",
-        "url": "https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R"
-      },
-      "artists": [
-        {
-          "name": "MIKA STUDIO",
-          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
-        }
-      ],
-      "duration_ms": 51994,
-      "name": "\u738b\u8001\u5148\u751f\u6709\u584a\u5730",
-      "url": "https://open.spotify.com/track/0C6UmNhZdzXQRIhVG8JPZg"
-    },
-    {
-      "added_at": "2025-10-23 17:36:04",
-      "album": {
         "name": "YoYo\u9ede\u9ede\u540d3",
         "url": "https://open.spotify.com/album/4qB7rdUxJHybVxT9CNJEPT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 161071,
       "name": "\u91e3\u9b5a\u8a18",
       "url": "https://open.spotify.com/track/14xnm6jRmnB5PP29Pxb8MO"
+    },
+    {
+      "added_at": "2025-10-23 17:36:04",
+      "album": {
+        "name": "\u6a02\u5531\u7ae5\u5b78\u6703 \u4e16\u754c\u7d93\u5178\u7ae5\u8b20 \u4e2d\u6587\u6f14\u5531\u7248",
+        "url": "https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R"
+      },
+      "artists": [
+        {
+          "name": "MIKA STUDIO",
+          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
+        }
+      ],
+      "duration_ms": 51994,
+      "name": "\u738b\u8001\u5148\u751f\u6709\u584a\u5730",
+      "url": "https://open.spotify.com/track/0C6UmNhZdzXQRIhVG8JPZg"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u6a02\u5531\u7ae5\u5b78\u6703 \u4e16\u754c\u7d93\u5178\u7ae5\u8b20 \u4e2d\u6587\u6f14\u5531\u7248",
-        "url": "https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R"
-      },
-      "artists": [
-        {
-          "name": "MIKA STUDIO",
-          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
-        }
-      ],
-      "duration_ms": 67986,
-      "name": "\u746a\u8389\u6709\u96bb\u5c0f\u7dbf\u7f8a",
-      "url": "https://open.spotify.com/track/6SyX3VoVqkD23KlwFN0yYt"
-    },
-    {
-      "added_at": "2025-10-23 17:36:04",
-      "album": {
         "name": "YoYo\u9ede\u9ede\u540d4 \u5feb\u6a02\u6728\u5c50\u978b",
         "url": "https://open.spotify.com/album/0uQcFq0X9lLU3Rx1nqy5nP"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 169613,
       "name": "\u706b\u8eca\u561f\u561f\u561f",
       "url": "https://open.spotify.com/track/2hPwHQKDQ6BOhS9mLMl003"
+    },
+    {
+      "added_at": "2025-10-23 17:36:04",
+      "album": {
+        "name": "\u6a02\u5531\u7ae5\u5b78\u6703 \u4e16\u754c\u7d93\u5178\u7ae5\u8b20 \u4e2d\u6587\u6f14\u5531\u7248",
+        "url": "https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R"
+      },
+      "artists": [
+        {
+          "name": "MIKA STUDIO",
+          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
+        }
+      ],
+      "duration_ms": 67986,
+      "name": "\u746a\u8389\u6709\u96bb\u5c0f\u7dbf\u7f8a",
+      "url": "https://open.spotify.com/track/6SyX3VoVqkD23KlwFN0yYt"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u6a02\u5531\u7ae5\u5b78\u6703 \u4e16\u754c\u7d93\u5178\u7ae5\u8b20 \u4e2d\u6587\u6f14\u5531\u7248",
-        "url": "https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R"
-      },
-      "artists": [
-        {
-          "name": "MIKA STUDIO",
-          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
-        }
-      ],
-      "duration_ms": 56266,
-      "name": "\u5169\u96bb\u8001\u864e",
-      "url": "https://open.spotify.com/track/5Br1IWBAQtjDSR8Q5mD6Jn"
-    },
-    {
-      "added_at": "2025-10-23 17:36:04",
-      "album": {
         "name": "YoYo\u9ede\u9ede\u540d8 - \u52d5\u7269\u97f3\u6a02\u8ab2",
         "url": "https://open.spotify.com/album/45Puppm2SF0vj3RKSkXQlx"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u7ed9\u6211\u4e00\u4e2a\u62e5\u62b1",
-        "url": "https://open.spotify.com/album/26FyhHPiGdVodBH04t5K6Q"
+        "name": "\u6a02\u5531\u7ae5\u5b78\u6703 \u4e16\u754c\u7d93\u5178\u7ae5\u8b20 \u4e2d\u6587\u6f14\u5531\u7248",
+        "url": "https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R"
       },
       "artists": [
         {
-          "name": "\u674e\u6615\u878d",
-          "url": "https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37"
+          "name": "MIKA STUDIO",
+          "url": "https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2"
         }
       ],
-      "duration_ms": 185153,
-      "name": "\u7ed9\u6211\u4e00\u4e2a\u62e5\u62b1",
-      "url": "https://open.spotify.com/track/3EB8UbtMnKpBc2OTd5xtqX"
+      "duration_ms": 56266,
+      "name": "\u5169\u96bb\u8001\u864e",
+      "url": "https://open.spotify.com/track/5Br1IWBAQtjDSR8Q5mD6Jn"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -443,6 +427,22 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
+        "name": "\u7ed9\u6211\u4e00\u4e2a\u62e5\u62b1",
+        "url": "https://open.spotify.com/album/26FyhHPiGdVodBH04t5K6Q"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6615\u878d",
+          "url": "https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37"
+        }
+      ],
+      "duration_ms": 185153,
+      "name": "\u7ed9\u6211\u4e00\u4e2a\u62e5\u62b1",
+      "url": "https://open.spotify.com/track/3EB8UbtMnKpBc2OTd5xtqX"
+    },
+    {
+      "added_at": "2025-10-23 17:36:04",
+      "album": {
         "name": "\u5bf6\u8c9d\u7684\u5462\u5583\u6b4c",
         "url": "https://open.spotify.com/album/2jea9wsUdrk2v2qF3FYH9h"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 219000,
       "name": "\u8d77\u5e8a\u6b4c",
       "url": "https://open.spotify.com/track/5du31s5tXWd2S6qG4wOwp7"
-    },
-    {
-      "added_at": "2025-10-23 17:36:04",
-      "album": {
-        "name": "\u611b\u4f60\u611b\u6211",
-        "url": "https://open.spotify.com/album/1ptlSgxhd9E8lFIo3imzG1"
-      },
-      "artists": [
-        {
-          "name": "\u5708\u5708\u5bf6\u8c9d",
-          "url": "https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "\u96de\u86cb\u6416\u6efe\u6a02",
-      "url": "https://open.spotify.com/track/5nCsZqNzSigMY7fbk1t2pz"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -491,6 +475,22 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
+        "name": "\u611b\u4f60\u611b\u6211",
+        "url": "https://open.spotify.com/album/1ptlSgxhd9E8lFIo3imzG1"
+      },
+      "artists": [
+        {
+          "name": "\u5708\u5708\u5bf6\u8c9d",
+          "url": "https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "\u96de\u86cb\u6416\u6efe\u6a02",
+      "url": "https://open.spotify.com/track/5nCsZqNzSigMY7fbk1t2pz"
+    },
+    {
+      "added_at": "2025-10-23 17:36:04",
+      "album": {
         "name": "\u4e2d\u5916\u513f\u6b4c\u7cbe\u9009\u5408\u8f914",
         "url": "https://open.spotify.com/album/5nVJjbFeN0rDiZcyqgJ2A7"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "20\u9996\u4e16\u754c\u7ae5\u8b20\u7cbe\u7cb9, Vol. 3",
-        "url": "https://open.spotify.com/album/5k5Y2NzpseYrPRVRaHs0G5"
+        "name": "\u7576\u4f60\u7684\u5c0f\u5b69\u771f\u597d",
+        "url": "https://open.spotify.com/album/1tjOPWcpAljQeKh8kiMN7N"
       },
       "artists": [
         {
-          "name": "\u98a8\u683c\u7ae5\u661f\u7d44\u5408",
-          "url": "https://open.spotify.com/artist/4b52YCDCpiLL1moDCVYKj4"
+          "name": "\u611b\u597d\u597d\u807d",
+          "url": "https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC"
         }
       ],
-      "duration_ms": 101440,
-      "name": "\u5c0f\u871c\u8702",
-      "url": "https://open.spotify.com/track/3ZmTvymT7mLD5Ac0BqKtGM"
+      "duration_ms": 192067,
+      "name": "\u7576\u4f60\u7684\u5c0f\u5b69\u771f\u597d",
+      "url": "https://open.spotify.com/track/6a4aDZvBYXCpMAETRrHW52"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -539,18 +539,18 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u7576\u4f60\u7684\u5c0f\u5b69\u771f\u597d",
-        "url": "https://open.spotify.com/album/1tjOPWcpAljQeKh8kiMN7N"
+        "name": "20\u9996\u4e16\u754c\u7ae5\u8b20\u7cbe\u7cb9, Vol. 3",
+        "url": "https://open.spotify.com/album/5k5Y2NzpseYrPRVRaHs0G5"
       },
       "artists": [
         {
-          "name": "\u611b\u597d\u597d\u807d",
-          "url": "https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC"
+          "name": "\u98a8\u683c\u7ae5\u661f\u7d44\u5408",
+          "url": "https://open.spotify.com/artist/4b52YCDCpiLL1moDCVYKj4"
         }
       ],
-      "duration_ms": 192067,
-      "name": "\u7576\u4f60\u7684\u5c0f\u5b69\u771f\u597d",
-      "url": "https://open.spotify.com/track/6a4aDZvBYXCpMAETRrHW52"
+      "duration_ms": 101440,
+      "name": "\u5c0f\u871c\u8702",
+      "url": "https://open.spotify.com/track/3ZmTvymT7mLD5Ac0BqKtGM"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -687,18 +687,18 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u8c9d\u6a02\u864e\u5152\u6b4c\u7cbe\u9078\u7cfb\u52176",
-        "url": "https://open.spotify.com/album/4Qsa9jWt70Li6Jqm0qQzr8"
+        "name": "\u82f1\u96c4\u7238\u7238",
+        "url": "https://open.spotify.com/album/5hlZCLbYMyPG8NNXHzb0b8"
       },
       "artists": [
         {
-          "name": "\u8c9d\u6a02\u864e",
-          "url": "https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ"
+          "name": "\u611b\u597d\u597d\u807d",
+          "url": "https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC"
         }
       ],
-      "duration_ms": 70440,
-      "name": "\u5feb\u6a02\u5c0f\u5bf6\u8c9d",
-      "url": "https://open.spotify.com/track/2KqKLiNTI9FCn5xtNHYYf7"
+      "duration_ms": 223824,
+      "name": "\u82f1\u96c4\u7238\u7238",
+      "url": "https://open.spotify.com/track/7aJijQbBOr4MOMvAuaKkdd"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u82f1\u96c4\u7238\u7238",
-        "url": "https://open.spotify.com/album/5hlZCLbYMyPG8NNXHzb0b8"
+        "name": "\u8c9d\u6a02\u864e\u5152\u6b4c\u7cbe\u9078\u7cfb\u52176",
+        "url": "https://open.spotify.com/album/4Qsa9jWt70Li6Jqm0qQzr8"
       },
       "artists": [
         {
-          "name": "\u611b\u597d\u597d\u807d",
-          "url": "https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC"
+          "name": "\u8c9d\u6a02\u864e",
+          "url": "https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ"
         }
       ],
-      "duration_ms": 223824,
-      "name": "\u82f1\u96c4\u7238\u7238",
-      "url": "https://open.spotify.com/track/7aJijQbBOr4MOMvAuaKkdd"
+      "duration_ms": 70440,
+      "name": "\u5feb\u6a02\u5c0f\u5bf6\u8c9d",
+      "url": "https://open.spotify.com/track/2KqKLiNTI9FCn5xtNHYYf7"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u7b11\u54aa\u54aa (\u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c)",
-        "url": "https://open.spotify.com/album/6s1WAw8PLHI0CpbNZmnKlf"
+        "name": "\u70ba\u6211\u52c7\u6562\u7684\u5abd\u5abd",
+        "url": "https://open.spotify.com/album/5dayGo2aXytPfI1wl9a3Xw"
       },
       "artists": [
         {
-          "name": "Matzka",
-          "url": "https://open.spotify.com/artist/2UqJqFqLbXtMZKN5QAfing"
+          "name": "\u611b\u597d\u597d\u807d",
+          "url": "https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC"
         }
       ],
-      "duration_ms": 178353,
-      "name": "\u7b11\u54aa\u54aa - \u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c",
-      "url": "https://open.spotify.com/track/1HgebCH018bthgeMz2Jepo"
+      "duration_ms": 243577,
+      "name": "\u70ba\u6211\u52c7\u6562\u7684\u5abd\u5abd",
+      "url": "https://open.spotify.com/track/7jqWrB702nGEtKe98aKYh8"
     },
     {
       "added_at": "2025-10-23 17:36:04",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-10-23 17:36:04",
       "album": {
-        "name": "\u70ba\u6211\u52c7\u6562\u7684\u5abd\u5abd",
-        "url": "https://open.spotify.com/album/5dayGo2aXytPfI1wl9a3Xw"
+        "name": "\u7b11\u54aa\u54aa (\u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c)",
+        "url": "https://open.spotify.com/album/6s1WAw8PLHI0CpbNZmnKlf"
       },
       "artists": [
         {
-          "name": "\u611b\u597d\u597d\u807d",
-          "url": "https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC"
+          "name": "Matzka",
+          "url": "https://open.spotify.com/artist/2UqJqFqLbXtMZKN5QAfing"
         }
       ],
-      "duration_ms": 243577,
-      "name": "\u70ba\u6211\u52c7\u6562\u7684\u5abd\u5abd",
-      "url": "https://open.spotify.com/track/7jqWrB702nGEtKe98aKYh8"
+      "duration_ms": 178353,
+      "name": "\u7b11\u54aa\u54aa - \u5c0f\u516c\u8996\u611b\u5531\u6b4c\u7cfb\u5217__\u70ba\u5bf6\u8c9d\u5531\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/1HgebCH018bthgeMz2Jepo"
     }
   ],
   "unique_name": "\u5bf6\u5bf6\u5b9a\u795e\u66f2",

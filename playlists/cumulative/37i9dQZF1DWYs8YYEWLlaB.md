@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Shawty x Bedo
+> viral, trend ve yükselenler\.  Kapak: Şam x Laçin
 
 229 songs - 11 hr 47 min
 

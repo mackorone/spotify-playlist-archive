@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,542 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,541 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 15 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
 | 16 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 |
 | 17 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 |
-| 18 | [Change](https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc) | 1:56 |
+| 18 | [Change](https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK) | [MEGA](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc) | 1:56 |
 | 19 | [I'm your first](https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I'm your first](https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE) | 2:54 |
 | 20 | [Afterbody](https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SELLOUT II](https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI) | 3:08 |
 | 21 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |

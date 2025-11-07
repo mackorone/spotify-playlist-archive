@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Santa Claus Is Comin' To Town",
+      "url": "https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma"
+    },
+    {
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },

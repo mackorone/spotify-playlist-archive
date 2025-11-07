@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 247335,
+  "num_followers": 247338,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACHH0f9gs3WvScZ+mtkHv14",
+  "snapshot_id": "aQqTgAAAAADCfvmiTO7e5wfOyJqiZyyv",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "PICK SIDES",
-      "url": "https://open.spotify.com/track/1XGWrgMmMic4yabjWSIn0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EKKSTACY",
         "url": "https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 129880,
       "name": "alright (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "PICK SIDES",
+      "url": "https://open.spotify.com/track/1XGWrgMmMic4yabjWSIn0c"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152025,
-      "name": "STICK WITH ME",
-      "url": "https://open.spotify.com/track/3ALRBJsse1uiDIVY7SrRux"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Her Go",
         "url": "https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 122112,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152025,
+      "name": "STICK WITH ME",
+      "url": "https://open.spotify.com/track/3ALRBJsse1uiDIVY7SrRux"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "HATRED",
-      "url": "https://open.spotify.com/track/6PHPKgCfIFUx0WfA4GnHJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
         "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "HATRED",
+      "url": "https://open.spotify.com/track/6PHPKgCfIFUx0WfA4GnHJx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can't Go Back To The Way It Was (Intro)",
-        "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 95273,
-      "name": "I Can't Go Back To The Way It Was (Intro)",
-      "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Yours (From The Doc)",
         "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 158008,
       "name": "Still Yours (From The Doc)",
       "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Can't Go Back To The Way It Was (Intro)",
+        "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 95273,
+      "name": "I Can't Go Back To The Way It Was (Intro)",
+      "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
     },
     {
       "added_at": null,

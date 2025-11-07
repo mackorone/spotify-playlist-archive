@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 36666,
+  "num_followers": 36675,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAAUU0RA1mTaQGnmK3QdzXbU",
+  "snapshot_id": "aQqTgAAAAAC8j0T1rKOwuPnl4aUk2GIJ",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 223468,
-      "name": "Tu Te las Tomaste S\u00f3lo",
-      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trenes y Gatos",
         "url": "https://open.spotify.com/album/0HSSCXp1CGTQFOIQMP2bjV"
       },
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
       "artists": [
         {
@@ -820,9 +804,25 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 263640,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
+      "duration_ms": 223468,
+      "name": "Tu Te las Tomaste S\u00f3lo",
+      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delincuentes Con Placa",
+        "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Polic\u00eda Chacal",
+      "url": "https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX"
     }
   ],
   "unique_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",

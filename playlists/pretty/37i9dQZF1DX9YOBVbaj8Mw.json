@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19284,
+  "num_followers": 19285,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "DOMINIKA DANIELA",
         "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 149508,
       "name": "PRZYJED\u0179",
       "url": "https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-04-06 08:27:45",

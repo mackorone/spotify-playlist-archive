@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,410 likes - 47 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,401 likes - 47 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 34 | [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 |
 | 35 | [Necio \(feat\. LIT killah\)](https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:38 |
 | 36 | [Confiado y Tranquilo](https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Confiado y Tranquilo](https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b) | 3:32 |
-| 37 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
+| 37 | [No la Puedo Olvidar](https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [Ciganda](https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [No la Puedo Olvidar](https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ) | 3:27 |
 | 38 | [MI VERSIÓN](https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:38 |
-| 39 | [No la Puedo Olvidar](https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [Ciganda](https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [No la Puedo Olvidar](https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ) | 3:27 |
+| 39 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
 | 40 | [Noche Complicada](https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Noche Complicada](https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q) | 3:31 |
 | 41 | [Julieta](https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Julieta](https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1) | 3:05 |
 | 42 | [GRACIAS](https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 1:59 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 46 | [PVSL](https://open.spotify.com/track/4Ej0vjqpzA8Glz5A00qGyZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 3:02 |
 | 47 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 
-Snapshot ID: `aQlCAAAAAAA4I4aVUgiBJhd9wcwJtB6E`
+Snapshot ID: `aQqTgAAAAABLpQPigXA6TE3dLolccUBd`

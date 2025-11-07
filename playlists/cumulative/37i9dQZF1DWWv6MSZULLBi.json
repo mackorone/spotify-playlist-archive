@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Ocie Elliott",
+  "description": "A laid-back trip in the folk scene. Cover: Bells Larsen",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 231111,
       "name": "All You Show",
       "url": "https://open.spotify.com/track/7Do8ZdOYHngMkRkiUycVJT"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 272660,
       "name": "Ambivalence",
       "url": "https://open.spotify.com/track/5VPnV3cj5awKANUS936zdj"
@@ -2292,6 +2292,24 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "album": {
+        "name": "Beside Me",
+        "url": "https://open.spotify.com/album/4iM4MyIvikMDUs6onYu40j"
+      },
+      "artists": [
+        {
+          "name": "Adam Rodway",
+          "url": "https://open.spotify.com/artist/0a8lHob1Gah0QmmzrWZoH5"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Beside Me",
+      "url": "https://open.spotify.com/track/25rFLT51EsvFkxJ9lv7Bi3"
     },
     {
       "album": {
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 248545,
       "name": "Completely",
       "url": "https://open.spotify.com/track/07i5jOocp8ehxNoWUhdwMi"
@@ -5808,7 +5826,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 188626,
       "name": "Dream Team",
       "url": "https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn"
@@ -7472,7 +7490,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 168461,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
@@ -7602,7 +7620,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 323490,
       "name": "Fire Fire Fire - Live from Peterborough",
       "url": "https://open.spotify.com/track/4fNBCU7ia1ZSCG3tY6I3G5"
@@ -10029,6 +10047,28 @@
     },
     {
       "album": {
+        "name": "Homebody (The Red Version)",
+        "url": "https://open.spotify.com/album/29R7ZwF8KLauyYYeExnVHx"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181445,
+      "name": "Homebody - The Red Version",
+      "url": "https://open.spotify.com/track/299MU68WZmumMSqG6hZLJg"
+    },
+    {
+      "album": {
         "name": "Homemaker",
         "url": "https://open.spotify.com/album/2SLatd6p3fGt6Jt5X5XI2p"
       },
@@ -10650,7 +10690,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 225570,
       "name": "i don\u2019t want your garden",
       "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
@@ -11616,7 +11656,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 194699,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
@@ -12623,6 +12663,24 @@
     },
     {
       "album": {
+        "name": "Like I did for Tommy",
+        "url": "https://open.spotify.com/album/5GEPVScpkAWDUsmh3poaGc"
+      },
+      "artists": [
+        {
+          "name": "childhood friend",
+          "url": "https://open.spotify.com/artist/2qoO4uE7tiz3HFg8vJyrBu"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "Le Restaurant",
+      "url": "https://open.spotify.com/track/6zbYZt4jhUbxv7TKC0zEvf"
+    },
+    {
+      "album": {
         "name": "Big Hurt Boy",
         "url": "https://open.spotify.com/album/7h0oaV6ce42bamO6hkywcz"
       },
@@ -13176,6 +13234,24 @@
       "duration_ms": 232258,
       "name": "Little Sparks",
       "url": "https://open.spotify.com/track/41ZQlsj3MfzZVN1bzPQmaB"
+    },
+    {
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209748,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
     },
     {
       "album": {
@@ -14230,6 +14306,24 @@
       "duration_ms": 255414,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL"
+    },
+    {
+      "album": {
+        "name": "Medicine Wheel",
+        "url": "https://open.spotify.com/album/7AfK1Loj25IJe7HdzsbPjI"
+      },
+      "artists": [
+        {
+          "name": "Logan Staats",
+          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226038,
+      "name": "Medicine Wheel",
+      "url": "https://open.spotify.com/track/69DxXDSJWyrLHZ78LBRHz5"
     },
     {
       "album": {
@@ -15509,6 +15603,24 @@
     },
     {
       "album": {
+        "name": "Blurring Time (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6J6DlLzUKCl3jePjrZiF0S"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233322,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/3MLaTl0fF9Z8SI1h6Tqjka"
+    },
+    {
+      "album": {
         "name": "Nightjar and the Nightingale",
         "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
       },
@@ -15730,6 +15842,24 @@
       "duration_ms": 152239,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+    },
+    {
+      "album": {
+        "name": "Nomads (Timelines)",
+        "url": "https://open.spotify.com/album/41a62fpVlKPzWMx0zD3IB3"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224552,
+      "name": "Nomads - Timelines Acoustic",
+      "url": "https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw"
     },
     {
       "album": {
@@ -16884,6 +17014,24 @@
       "duration_ms": 140327,
       "name": "Pain Is Cold Water - Live From Fenway Park",
       "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
+    },
+    {
+      "album": {
+        "name": "Pajarito",
+        "url": "https://open.spotify.com/album/2LL4R5H9rzRafsw7pCmy71"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100733,
+      "name": "Pajarito",
+      "url": "https://open.spotify.com/track/5gAWalJr8o0koAvUVOKO7S"
     },
     {
       "album": {
@@ -18397,6 +18545,24 @@
     },
     {
       "album": {
+        "name": "Rivi\u00e8re",
+        "url": "https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8"
+      },
+      "artists": [
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197996,
+      "name": "Rivi\u00e8re",
+      "url": "https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8"
+    },
+    {
+      "album": {
         "name": "Robin",
         "url": "https://open.spotify.com/album/68LVD0utr1na8Y0NOyH2h0"
       },
@@ -19648,7 +19814,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 221551,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4"
@@ -19688,6 +19854,24 @@
       "duration_ms": 177946,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231499,
+      "name": "Small Town Joan of Arc",
+      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
     },
     {
       "album": {
@@ -20038,6 +20222,24 @@
       "duration_ms": 94750,
       "name": "someday i'll get it",
       "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Peter Katz",
+          "url": "https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199607,
+      "name": "Someday Is Today",
+      "url": "https://open.spotify.com/track/6ZTcQwe5zWbp6Ly2wtB6dN"
     },
     {
       "album": {
@@ -23948,7 +24150,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 228186,
       "name": "Watercress",
       "url": "https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y"
@@ -25014,7 +25216,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 142489,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
@@ -25274,7 +25476,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 227070,
       "name": "Words",
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"

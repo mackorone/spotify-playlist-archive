@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 우주메리미 \(Would You Merry Me?\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,130 songs - 2 day 20 hr 32 min
+1,131 songs - 2 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [All Day](https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [All Day \(Better Days X Kim Seungmin, Layone\)](https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV) | 3:19 | 2024-09-20 | 2025-04-22 |
 | [All I Have is My Heart](https://open.spotify.com/track/3VqPDP2g1wR8F0J4utm3yX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Ghost Doctor, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Y9r0IoRE4uftS7lSprK8e) | 3:17 | 2022-02-03 | 2022-05-04 |
 | [All I Want Is You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Would You Marry Me?, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2By2t55dZpPaL9O171RAvC) | 3:12 | 2025-10-14 |  |
+| [All In, Do or Die](https://open.spotify.com/track/4yQmiUKbs8GooduZH0GbZg) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Nice to Not Meet You \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/76N1c7Aj4p0pJRl2baYDRD) | 2:57 | 2025-11-06 |  |
 | [All Of My Heart](https://open.spotify.com/track/5Rhr38HCLkld5qfPXine6w) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [The Heavenly Idol \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/6YzatLZiKDzjN6gO3OOMo2) | 3:31 | 2023-03-27 | 2023-07-18 |
 | [Alone](https://open.spotify.com/track/6MY5Fg2ST4H30UziyT4mw8) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Again my life, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5hU1uvCRoM8R0dOzXgkLdq) | 3:24 | 2022-05-11 | 2022-08-03 |
 | [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 | 2025-09-24 |  |
@@ -609,7 +610,7 @@
 | [May you be happy \(The Moon during the Day X HWANG CHI YEUL\)](https://open.spotify.com/track/4R8KPJ1rnadJRyEQlOlgvf) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [May you be happy \(The Moon during the Day X HWANG CHI YEUL\)](https://open.spotify.com/album/7dhVdzlK1h60pEdRc4aPIb) | 3:29 | 2021-12-19 | 2022-03-04 |
 | [Maybe](https://open.spotify.com/track/3Jk7aEL31GI8kGmLTZooXf) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Crazy Love \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/1afMSqMmB1hAdee6sNzKOi) | 3:07 | 2022-04-12 | 2022-06-19 |
 | [Me, the Protagonist \(Feat\. Love X Stereo\)](https://open.spotify.com/track/7EqTBT6pT9Dr76qjji90I3) | [Tearliner](https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si), [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Summer Strike, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6t9MI2qmx8P65y39TftTcp) | 3:40 | 2022-12-19 | 2023-02-25 |
-| [Meant To Be](https://open.spotify.com/track/1wZIkVgVLQ9KF6G8gZrpul) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Heavenly Ever After \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0mgloxabLUnj0o2t8Zfgl9) | 4:20 | 2025-04-21 |  |
+| [Meant To Be](https://open.spotify.com/track/1wZIkVgVLQ9KF6G8gZrpul) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Heavenly Ever After \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0mgloxabLUnj0o2t8Zfgl9) | 4:20 | 2025-04-21 | 2025-11-07 |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-06-09 | 2022-08-03 |
 | [Melting](https://open.spotify.com/track/5wAbvhL5cCWPA08wsL5jPK) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 | 2022-02-21 | 2022-05-12 |
 | [Melting](https://open.spotify.com/track/72JXhN9CABeVLNrt8VJm0l) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [The Secret Romantic Guesthouse Part.2](https://open.spotify.com/album/5PGBoR7sj4R54UrYLO4G9b) | 3:31 | 2023-03-31 | 2023-07-18 |

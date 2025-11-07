@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois, tout frais\. Photo: Cruzito, Imposs
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,875 likes - 83 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,872 likes - 83 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 17 | [Compliqué](https://open.spotify.com/track/5fye0SLQy7fdOyLq1fJe5D) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Compliqué](https://open.spotify.com/album/2C3Mf9ElXpByjDdc4LMDrz) | 2:23 |
 | 18 | [Kreyday Everyday](https://open.spotify.com/track/3wreSVcuGKZkrjs84wpvMN) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Kreyday Everyday](https://open.spotify.com/album/28L3tq3fXtLPsQdWSqWbnf) | 2:26 |
 | 19 | [C'est Moi](https://open.spotify.com/track/1mp4HjZZS2Is1kZ4QiOaIt) | [Kalibre](https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN) | [C'est Moi](https://open.spotify.com/album/2ayXTeDnNtrTCvEqn1Gx72) | 2:12 |
-| 20 | [Ça bibi](https://open.spotify.com/track/35KqoIOa6TGyaSYww0IeAU) | [Danji Danj](https://open.spotify.com/artist/0hefPQkJEIikAgVlro2iwu), [Shoddy](https://open.spotify.com/artist/0LasoLziQEHms8MYnzYrmq), [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ), [GLD](https://open.spotify.com/artist/6xfHhiRfGC5ooPSzg8zMP4), [Lito](https://open.spotify.com/artist/2OG4lCrmcLhp1U9WI19DAP) | [06, Vol.1](https://open.spotify.com/album/5FFdYnna35l6MlrF4OWngv) | 2:51 |
+| 20 | [Ça bibi](https://open.spotify.com/track/35KqoIOa6TGyaSYww0IeAU) | [Danji Danj](https://open.spotify.com/artist/0hefPQkJEIikAgVlro2iwu), [Shoddy](https://open.spotify.com/artist/0LasoLziQEHms8MYnzYrmq), [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ), [GLD](https://open.spotify.com/artist/6xfHhiRfGC5ooPSzg8zMP4), [Lito](https://open.spotify.com/artist/2OG4lCrmcLhp1U9WI19DAP) | [06, Vol\. 1](https://open.spotify.com/album/5FFdYnna35l6MlrF4OWngv) | 2:51 |
 | 21 | [CAD \- Freestyle](https://open.spotify.com/track/2lNoS6A5x6D8aVQU24VOTI) | [MTL RAP](https://open.spotify.com/artist/6ZzR5GdqiXENtm5afmfTSZ), [MK](https://open.spotify.com/artist/0rfQQsDBxgKZfoL1gIul88) | [CAD \(Freestyle\)](https://open.spotify.com/album/37h7hDOgQFA4ghOB27SnXB) | 3:30 |
 | 22 | [Le Béton Garde Tout](https://open.spotify.com/track/0SAM5o2nnT4t8O2LsbgVXz) | [BÉTON FROID](https://open.spotify.com/artist/2JmtiPX8TMYFSDd5aLUVQj) | [Le Béton Garde Tout](https://open.spotify.com/album/1XOK40BE5JkfNHStIoWlu2) | 2:21 |
 | 23 | [Le tour du monde](https://open.spotify.com/track/1IiNw77AtlgGvIqLreaKGQ) | [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [Motus](https://open.spotify.com/artist/3zHmPIAHdRLRClqj43YQ3k), [Berlam](https://open.spotify.com/artist/6VX0JdAybG05A8AtuPYLwN), [Rox](https://open.spotify.com/artist/3ZMTLiH3o8SiHy3taw9h0X) | [Le tour du monde](https://open.spotify.com/album/6nJDxrMtaXUjBiYoyLlpcA) | 3:12 |

@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 649806,
+  "num_followers": 650211,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACFEeQbfvEctcxCu6hE06XN",
+  "snapshot_id": "aQqTgAAAAADx2AKfoEcnjBl/NN6i7cFG",
   "tracks": [
     {
       "added_at": null,
@@ -88,25 +88,9 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 188106,
+      "duration_ms": 188121,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": null,
@@ -147,6 +131,22 @@
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
       "added_at": null,
@@ -380,7 +380,7 @@
           "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 161266,
+      "duration_ms": 160296,
       "name": "LA COMBI VERSACE",
       "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
     },
@@ -452,7 +452,7 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 193480,
+      "duration_ms": 193488,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
@@ -520,29 +520,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 109120,
+      "duration_ms": 109109,
       "name": "BIZCOCHITO",
       "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 144018,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 144018,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -588,7 +588,7 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 262200,
+      "duration_ms": 262104,
       "name": "COMO UN G",
       "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
     },
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fucking Money Man",
-        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 138370,
-      "name": "Milion\u00e0ria",
-      "url": "https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aunque Es De Noche",
         "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 253108,
       "name": "Aunque Es De Noche",
       "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fucking Money Man",
+        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 138370,
+      "name": "Milion\u00e0ria",
+      "url": "https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p"
     },
     {
       "added_at": null,

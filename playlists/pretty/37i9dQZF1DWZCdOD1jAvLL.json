@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: TyriqueOrDie",
-  "num_followers": 267799,
+  "num_followers": 267806,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "I Know You Want To",
+        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "I Know You Want To",
+      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "I Know You Want To",
-        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "I Know You Want To",
-      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Jump Higher",
-        "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Jump Higher",
-      "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 250664,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Jump Higher",
+        "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Jump Higher",
+      "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "TECHY MF",
+        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "TECHY MF",
+      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Stay With The Tempo",
         "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 214218,
       "name": "Stay With The Tempo",
       "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "TECHY MF",
-        "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "TECHY MF",
-      "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2155,26 +2155,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Erased",
-        "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Erased",
-      "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
       },
@@ -2191,6 +2171,26 @@
       "duration_ms": 155147,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Erased",
+        "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/3nI0lFnPfuN8wFiXIyGVZo"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/4FnLKHECzy1QCOZUpDZYWA"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/1Db9mYMaxIPA3mEX5UDesN"
       },
@@ -2463,6 +2447,22 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/3nI0lFnPfuN8wFiXIyGVZo"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/4FnLKHECzy1QCOZUpDZYWA"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Sex In The Mosh",
         "url": "https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew"
       },
@@ -2475,30 +2475,6 @@
       "duration_ms": 134418,
       "name": "Sex In The Mosh",
       "url": "https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "On Brand",
-        "url": "https://open.spotify.com/album/5OooCRDw2xb4RUmP1pJ4sB"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        },
-        {
-          "name": "Halogen",
-          "url": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "On Brand",
-      "url": "https://open.spotify.com/track/728KlOzdQKtSWcEkvskZpN"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2523,6 +2499,30 @@
       "duration_ms": 193185,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/6D5a5CV8ARtijH5pLUKEuK"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "On Brand",
+        "url": "https://open.spotify.com/album/5OooCRDw2xb4RUmP1pJ4sB"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        },
+        {
+          "name": "Halogen",
+          "url": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "On Brand",
+      "url": "https://open.spotify.com/track/728KlOzdQKtSWcEkvskZpN"
     },
     {
       "added_at": "2025-10-17 04:00:41",

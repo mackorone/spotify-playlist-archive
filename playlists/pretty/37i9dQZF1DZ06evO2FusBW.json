@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11002,
+  "num_followers": 11001,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAByWk2MfZ/QysWdnRtMB8fK",
+  "snapshot_id": "aQqTgAAAAABr0CfP8IZQ7Ssq9r854DXe",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Tree of Light - A Call to Arms",
-      "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
+      "duration_ms": 232893,
+      "name": "Flo",
+      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 278750,
-      "name": "NATURE VIBRATION",
-      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 278750,
+      "name": "NATURE VIBRATION",
+      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 232893,
-      "name": "Flo",
-      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
+      "duration_ms": 154000,
+      "name": "Tree of Light - A Call to Arms",
+      "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 111",
-        "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 142083,
-      "name": "Meditation 111",
-      "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
+      "duration_ms": 274458,
+      "name": "SAMADHI",
+      "url": "https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+        "name": "Meditation 111",
+        "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
       "artists": [
         {
@@ -648,25 +648,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 274458,
-      "name": "SAMADHI",
-      "url": "https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winter Impressions",
-        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 166338,
-      "name": "A Tale in Paris",
-      "url": "https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE"
+      "duration_ms": 142083,
+      "name": "Meditation 111",
+      "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
     },
     {
       "added_at": null,
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+        "name": "Winter Impressions",
+        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 277208,
-      "name": "POWER OF THE SEA",
-      "url": "https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB"
+      "duration_ms": 166338,
+      "name": "A Tale in Paris",
+      "url": "https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE"
     }
   ],
   "unique_name": "This Is RIOPY",

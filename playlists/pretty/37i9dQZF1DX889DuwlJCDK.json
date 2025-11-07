@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30cf\u30b7\u30ea\u30b3\u30df\u30fc\u30ba",
-  "num_followers": 21061,
+  "num_followers": 21080,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-11-04 15:00:12",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/7qwqc4f7y6idyzVO8V7V22"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/0qEDgqxgkPprdzzKxa0Bh6"
-    },
-    {
-      "added_at": "2025-11-04 15:00:12",
-      "album": {
         "name": "kasabuta",
         "url": "https://open.spotify.com/album/6XYdsvdFjzF0MXgxaELyWu"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 204020,
       "name": "\u5fc3",
       "url": "https://open.spotify.com/track/2IYIeMVCYIZUyzG1td1GW5"
+    },
+    {
+      "added_at": "2025-11-04 15:00:12",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/7qwqc4f7y6idyzVO8V7V22"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0qEDgqxgkPprdzzKxa0Bh6"
     },
     {
       "added_at": "2025-11-04 15:00:12",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-11-04 15:00:12",
       "album": {
-        "name": "\u307e\u307c\u308d\u3057",
-        "url": "https://open.spotify.com/album/4kRIWTZBs1zQmFvzC1bv7H"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 242100,
-      "name": "\u307e\u307c\u308d\u3057",
-      "url": "https://open.spotify.com/track/1cE22ArAMXBNnWYHaWK0cT"
-    },
-    {
-      "added_at": "2025-11-04 15:00:12",
-      "album": {
         "name": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30ba / \u58f0\u547d",
         "url": "https://open.spotify.com/album/61e6CTEVRjsXQe4otjdMay"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 216920,
       "name": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30ba - STRANGERZ",
       "url": "https://open.spotify.com/track/4aKuPX8HsRhc2hy3ediVge"
+    },
+    {
+      "added_at": "2025-11-04 15:00:12",
+      "album": {
+        "name": "\u307e\u307c\u308d\u3057",
+        "url": "https://open.spotify.com/album/4kRIWTZBs1zQmFvzC1bv7H"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 242100,
+      "name": "\u307e\u307c\u308d\u3057",
+      "url": "https://open.spotify.com/track/1cE22ArAMXBNnWYHaWK0cT"
     },
     {
       "added_at": "2025-11-04 15:00:12",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-11-04 15:00:12",
       "album": {
-        "name": "It's myself",
-        "url": "https://open.spotify.com/album/1HUDo1KaR0nVzqr4QRDSD5"
+        "name": "Let's eat food",
+        "url": "https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9"
       },
       "artists": [
         {
-          "name": "shytaupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
         }
       ],
-      "duration_ms": 210760,
-      "name": "It's myself",
-      "url": "https://open.spotify.com/track/6HAqCmixSCi21kJEobLfQs"
+      "duration_ms": 187912,
+      "name": "Let's eat food",
+      "url": "https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli"
     },
     {
       "added_at": "2025-11-04 15:00:12",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-11-04 15:00:12",
       "album": {
+        "name": "Touring",
+        "url": "https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "duration_ms": 247605,
+      "name": "Touring",
+      "url": "https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I"
+    },
+    {
+      "added_at": "2025-11-04 15:00:12",
+      "album": {
         "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
         "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2025-11-04 15:00:12",
       "album": {
-        "name": "Touring",
-        "url": "https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4"
+        "name": "It's myself",
+        "url": "https://open.spotify.com/album/1HUDo1KaR0nVzqr4QRDSD5"
       },
       "artists": [
         {
-          "name": "Conton Candy",
-          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
         }
       ],
-      "duration_ms": 247605,
-      "name": "Touring",
-      "url": "https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I"
+      "duration_ms": 210760,
+      "name": "It's myself",
+      "url": "https://open.spotify.com/track/6HAqCmixSCi21kJEobLfQs"
     },
     {
       "added_at": "2025-11-04 15:00:12",
@@ -1307,22 +1323,6 @@
       "duration_ms": 198833,
       "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
       "url": "https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc"
-    },
-    {
-      "added_at": "2025-11-04 15:00:12",
-      "album": {
-        "name": "Let's eat food",
-        "url": "https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9"
-      },
-      "artists": [
-        {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
-        }
-      ],
-      "duration_ms": 187912,
-      "name": "Let's eat food",
-      "url": "https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli"
     },
     {
       "added_at": "2025-11-04 15:00:12",
@@ -1400,7 +1400,7 @@
           "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 225354,
+      "duration_ms": 224509,
       "name": "Funky Lovely Girl",
       "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
     },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-11-04 15:00:12",
       "album": {
-        "name": "SILVER",
-        "url": "https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY"
-      },
-      "artists": [
-        {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
-        }
-      ],
-      "duration_ms": 241433,
-      "name": "\u672a\u77e5",
-      "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
-    },
-    {
-      "added_at": "2025-11-04 15:00:12",
-      "album": {
         "name": "\u30bb\u30f3\u30ab",
         "url": "https://open.spotify.com/album/3GA6972NEE4NRGtCFye6eg"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 239454,
       "name": "\u30bb\u30f3\u30ab",
       "url": "https://open.spotify.com/track/3TIy0kAq4wJpPJkLsZsb6m"
+    },
+    {
+      "added_at": "2025-11-04 15:00:12",
+      "album": {
+        "name": "SILVER",
+        "url": "https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "duration_ms": 241433,
+      "name": "\u672a\u77e5",
+      "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
     },
     {
       "added_at": "2025-11-04 15:00:12",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-11-04 15:00:12",
       "album": {
-        "name": "\u30b0\u30c3\u30d0\u30a4",
-        "url": "https://open.spotify.com/album/7n3EifJPKmsLi8GlhO8o0j"
+        "name": "tragedy",
+        "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
       },
       "artists": [
         {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 189000,
-      "name": "\u30b0\u30c3\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/3XnJtpP9sr2T13NZ3ghAjx"
+      "duration_ms": 163322,
+      "name": "tragedy",
+      "url": "https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd"
     },
     {
       "added_at": "2025-11-04 15:00:12",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-11-04 15:00:12",
       "album": {
-        "name": "tragedy",
-        "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
+        "name": "\u30b0\u30c3\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/7n3EifJPKmsLi8GlhO8o0j"
       },
       "artists": [
         {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
         }
       ],
-      "duration_ms": 163322,
-      "name": "tragedy",
-      "url": "https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd"
+      "duration_ms": 189000,
+      "name": "\u30b0\u30c3\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/3XnJtpP9sr2T13NZ3ghAjx"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

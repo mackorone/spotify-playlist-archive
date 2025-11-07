@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Matheus Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,174 likes - 69 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,231 likes - 69 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 5 | [Morena do Paraná \- Ao Vivo](https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q) | [Augusto & Atílio](https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ) | [Mete Marcha no Paraná, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef) | 2:36 |
 | 6 | [Aqui Não Passarinho](https://open.spotify.com/track/71iPheXSdoCF1BxgjwKo05) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V) | [Aqui Não Passarinho](https://open.spotify.com/album/5FOha8UP275jrNJu5K5u2e) | 2:35 |
 | 7 | [Jornada](https://open.spotify.com/track/28hGY9qA6qa4om2xsSBoHP) | [Thayná Bitencourt](https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9) | [Jornada](https://open.spotify.com/album/1QqRgonnGnp02GdWxsmOYM) | 2:15 |
-| 8 | [Susto](https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB) | [Cleber & Henrique](https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk) | [Susto](https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0) | 3:10 |
-| 9 | [Eu Lembro](https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [Eu Lembro](https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m) | 2:32 |
+| 8 | [Eu Lembro](https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [Eu Lembro](https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m) | 2:32 |
+| 9 | [Susto](https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB) | [Cleber & Henrique](https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk) | [Susto](https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0) | 3:10 |
 | 10 | [Liberdade ou Solidão](https://open.spotify.com/track/0yoPjwsYqLl4pIzkLkFROC) | [Vitor Maia](https://open.spotify.com/artist/0g9fMDNPhefLqy4gx0aWUp) | [Liberdade ou Solidão](https://open.spotify.com/album/3U2cBR6yaH8Thy4QMwLqZb) | 2:39 |
 | 11 | [Corpão Violão \- Ao Vivo](https://open.spotify.com/track/1akJhEUH2Ld3C2i4B48a0I) | [Pedro Sanchez e Thiago](https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5), [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [Corpão Violão \(Ao Vivo\)](https://open.spotify.com/album/3chLfwkLdhy48Uw6OLW1gC) | 2:47 |
 | 12 | [Não Vai Seco](https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a) | [Pedro Henrique e João Victor](https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef) | [Não Vai Seco](https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh) | 2:20 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 26 | [Ponta Solta](https://open.spotify.com/track/2pb7iXsypar8wNILL1WFIB) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V) | [Ponta solta & Potpourri Calma / Coração deu Pt](https://open.spotify.com/album/6UBmSVUUYiZRsOGDJynKKQ) | 2:36 |
 | 27 | [Pra Quê?](https://open.spotify.com/track/72LPt2vbT19P7GXXfzr2gS) | [Gabriel Fava](https://open.spotify.com/artist/2rsn8MkxTWrYUgLYmhIh4w) | [Pra Quê?](https://open.spotify.com/album/5Alq7ae59MD1VcVadX79ud) | 2:46 |
 | 28 | [Coração Manhoso \- Live](https://open.spotify.com/track/6JC8Y5cdr2zOk22wYTayh6) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Coração Manhoso \(Live\)](https://open.spotify.com/album/6oTNEn62WSjl2bRjff24P3) | 2:26 |
-| 29 | [Vestidinho \- Ao Vivo](https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR) | [Breno Ferreira](https://open.spotify.com/artist/1ZPs71pxgkYzB0NHHdqaBk), [Guilherme e Benuto](https://open.spotify.com/artist/1C5diZVLfNPgOH1AriMiga) | [Deu Onda \(Ao Vivo\)](https://open.spotify.com/album/20BAKOs1xejAt281sLhF31) | 2:08 |
-| 30 | [Na Calada Da Noite \- Ao Vivo](https://open.spotify.com/track/7wHo1CL9XFYMFwzaS6nDHS) | [Pedro Henrique e João Victor](https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef) | [Na Calada Da Noite \(Ao Vivo\)](https://open.spotify.com/album/4v3i4EMNSB2e0WQYkBJxSv) | 3:01 |
-| 31 | [Só Quero Sossego](https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Só Quero Sossego](https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl) | 2:52 |
-| 32 | [Provavelmente \- Ao Vivo](https://open.spotify.com/track/79Y77XjU5v9C1J3Gkxy9YV) | [Felipe & Ferrari](https://open.spotify.com/artist/06U3X2A3KTTkU7lnb2jbaj) | [Provavelmente \(Ao Vivo\)](https://open.spotify.com/album/2w5MqV5NhFO5JdmczCy8lm) | 2:25 |
+| 29 | [Na Calada Da Noite \- Ao Vivo](https://open.spotify.com/track/7wHo1CL9XFYMFwzaS6nDHS) | [Pedro Henrique e João Victor](https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef) | [Na Calada Da Noite \(Ao Vivo\)](https://open.spotify.com/album/4v3i4EMNSB2e0WQYkBJxSv) | 3:01 |
+| 30 | [Vestidinho \- Ao Vivo](https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR) | [Breno Ferreira](https://open.spotify.com/artist/1ZPs71pxgkYzB0NHHdqaBk), [Guilherme e Benuto](https://open.spotify.com/artist/1C5diZVLfNPgOH1AriMiga) | [Deu Onda \(Ao Vivo\)](https://open.spotify.com/album/20BAKOs1xejAt281sLhF31) | 2:08 |
+| 31 | [Provavelmente \- Ao Vivo](https://open.spotify.com/track/79Y77XjU5v9C1J3Gkxy9YV) | [Felipe & Ferrari](https://open.spotify.com/artist/06U3X2A3KTTkU7lnb2jbaj) | [Provavelmente \(Ao Vivo\)](https://open.spotify.com/album/2w5MqV5NhFO5JdmczCy8lm) | 2:25 |
+| 32 | [Só Quero Sossego](https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Só Quero Sossego](https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl) | 2:52 |
 | 33 | [Eu Posso Ser \- Ao Vivo](https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8) | [Zé Luccas](https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo) | [Meus Versos \(Ao Vivo\)](https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ) | 3:19 |
 | 34 | [Carioca](https://open.spotify.com/track/3o4BERtAquRCu5RvYaEqjh) | [Guilherme e Manuel](https://open.spotify.com/artist/6yyVcN4nXYQZ0RdtQ5A8qj), [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [Carioca](https://open.spotify.com/album/69V5hFmFuc9tC34V1491V4) | 2:55 |
 | 35 | [Da Boca Pra Fora](https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw) | [Jennifer e Stephany](https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP) | [Da Boca Pra Fora](https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm) | 3:21 |

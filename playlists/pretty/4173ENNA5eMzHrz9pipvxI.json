@@ -1,13 +1,37 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KREAM",
-  "num_followers": 119014,
+  "num_followers": 119010,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAgSIUAh1ERwOMTtJ6vTYGZPvzKulbO",
+  "snapshot_id": "AAAgTR7r540NnOsYWyvpZ+f3Q4gjn0oI",
   "tracks": [
+    {
+      "added_at": "2025-11-06 23:20:07",
+      "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "JONOS",
+          "url": "https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d"
+    },
     {
       "added_at": "2025-10-30 23:20:03",
       "album": {
@@ -31,6 +55,30 @@
       "duration_ms": 202666,
       "name": "Hold On (feat. EVIE)",
       "url": "https://open.spotify.com/track/2RvQ3rzIbzN3OOwefRothl"
+    },
+    {
+      "added_at": "2025-11-06 23:20:03",
+      "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "duration_ms": 162717,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
     },
     {
       "added_at": "2025-10-23 22:20:06",
@@ -79,6 +127,58 @@
       "duration_ms": 214549,
       "name": "Il\u00ea (feat. J\u00e9ssica Gaspar)",
       "url": "https://open.spotify.com/track/2LbAw4pKH0t7zISMM8nO0Q"
+    },
+    {
+      "added_at": "2025-11-06 23:20:04",
+      "album": {
+        "name": "Hijo De La Luna",
+        "url": "https://open.spotify.com/album/6k5vSv5smVCsSJ0hrON1Ys"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "AntoNetta",
+          "url": "https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Hijo De La Luna",
+      "url": "https://open.spotify.com/track/2q5ObGxuwLx4zKmI5IxwOQ"
+    },
+    {
+      "added_at": "2025-11-06 23:20:08",
+      "album": {
+        "name": "Sahara - Amantra",
+        "url": "https://open.spotify.com/album/2WCSeTLfIkOHavqjNXVZPN"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        }
+      ],
+      "duration_ms": 217261,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/2Q18nTIq89x6GHQMLvPQEa"
+    },
+    {
+      "added_at": "2025-11-06 23:20:01",
+      "album": {
+        "name": "Sahara - Amantra",
+        "url": "https://open.spotify.com/album/2WCSeTLfIkOHavqjNXVZPN"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        }
+      ],
+      "duration_ms": 235595,
+      "name": "Amantra",
+      "url": "https://open.spotify.com/track/5Eb2rzbBJvBgP7caI8qbof"
     },
     {
       "added_at": "2025-10-23 22:20:01",

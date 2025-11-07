@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Oklou \(du titre \#1 au \#6\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,775 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,788 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 7 | [Courage \- Edit](https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Courage \(Edit\)](https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n) | 3:00 |
 | 8 | [ça pik un peu quand même](https://open.spotify.com/track/5pbOI0KItebrpL6UeQKs7A) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5iYukIto4dPaIxDVzgiq2p) | 2:17 |
 | 9 | [Tant pis pour elle](https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw) | 2:38 |
-| 10 | [Pas Jalouse](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 |
+| 10 | [Ordinary](https://open.spotify.com/track/3qC1nrl8bL6hbScTwjMBuS) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:09 |
 | 11 | [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 |
 | 12 | [Commando](https://open.spotify.com/track/7fgpStNSWKwVQ08gV6Wy5V) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Pourvu qu'il pleuve](https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8) | 2:51 |
 | 13 | [Thelma et Louise](https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Thelma et Louise](https://open.spotify.com/album/6ob1nfJYrRIGZbTD9hJ5ZJ) | 2:40 |
 | 14 | [Invincible](https://open.spotify.com/track/6rHoscPV4WpcW0TYmxGX0U) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Invincible](https://open.spotify.com/album/6OJuA0MOVjGuQNJZWhZFVi) | 2:20 |
 | 15 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
-| 16 | [Alibi \(feat\. Timar\)](https://open.spotify.com/track/28fW7IBzYcLPwMlEtdXExp) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Alibi \(feat\. Timar\)](https://open.spotify.com/album/4Lkg1EuwHR5GHfEpOlnJUt) | 2:21 |
+| 16 | [SPLASH](https://open.spotify.com/track/7qtnRed1TS8ZWp3ZZrI4cj) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SPLASH](https://open.spotify.com/album/4Q5CLByGguiRe8bE59IXi8) | 2:34 |
 | 17 | [L'amour de ma vie \- Edit](https://open.spotify.com/track/1Z5Yoe32eOFgTdTdn2h5ai) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Boîte à musique](https://open.spotify.com/album/56kM4hpCs0bifen0CTjczD) | 2:56 |
 | 18 | [Tour du Monde](https://open.spotify.com/track/7kAQ5yUq5uuJfSzHunHWAR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Tour du Monde](https://open.spotify.com/album/7HhfRpFv1nIuFA3C2xYNka) | 3:24 |
 | 19 | [Plus mon problème](https://open.spotify.com/track/2u6uOYmVVOrI0CMMxTp48T) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Plus mon problème](https://open.spotify.com/album/537g9sEVIbgJ2ACwIukunY) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Amour Moitié](https://open.spotify.com/track/3wAfGwL9EbrHF8P2ewSezC) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [G Buggé](https://open.spotify.com/album/0g00qW3j7xiA7X10SPfaaR) | 3:20 |
 | 50 | [Good Morning](https://open.spotify.com/track/6Q4ShJIJBKArEjIqwiYCo5) | [Tatyana Jane](https://open.spotify.com/artist/5K976UJ5j3DvhhBkOd7gKx) | [Good Morning](https://open.spotify.com/album/5VbMI78S2QG24SIXBlxJoB) | 4:11 |
 
-Snapshot ID: `AAAAAMDBc3QXQtmVhirduAJQfoDsQdHu`
+Snapshot ID: `AAAAANJLKJMn2WjZ4UPUNXlRjPKQunPF`

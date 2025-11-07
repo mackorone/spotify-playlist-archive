@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,666 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,675 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 45 | [Igual](https://open.spotify.com/track/1yk2zZ5imHnK1pCSsjVId4) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Igual](https://open.spotify.com/album/6CU4rWaqP6Jr2rAw3PanKm) | 3:39 |
 | 46 | [Una Oportunidad](https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Ánimas](https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34) | 3:25 |
 | 47 | [El Camino del Corazón \- Acústico](https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Sesiones Acústicas \(Acústico\)](https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr) | 4:27 |
-| 48 | [Tu Te las Tomaste Sólo](https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:43 |
-| 49 | [Trenes y Gatos](https://open.spotify.com/track/73mBTnRE0oejrVRVcFL3sB) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes y Gatos](https://open.spotify.com/album/0HSSCXp1CGTQFOIQMP2bjV) | 3:05 |
-| 50 | [Campeón](https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:23 |
+| 48 | [Trenes y Gatos](https://open.spotify.com/track/73mBTnRE0oejrVRVcFL3sB) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes y Gatos](https://open.spotify.com/album/0HSSCXp1CGTQFOIQMP2bjV) | 3:05 |
+| 49 | [Tu Te las Tomaste Sólo](https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:43 |
+| 50 | [Policía Chacal](https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 3:49 |
 
-Snapshot ID: `aQlCAAAAAAAUU0RA1mTaQGnmK3QdzXbU`
+Snapshot ID: `aQqTgAAAAAC8j0T1rKOwuPnl4aUk2GIJ`

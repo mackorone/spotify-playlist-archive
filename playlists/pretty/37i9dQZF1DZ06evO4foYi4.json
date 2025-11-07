@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55468,
+  "num_followers": 55464,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAAC0C4ob3sf6FQFM8+8Ae0Pn",
+  "snapshot_id": "aQqTgAAAAAB2JL8LgSAusrDtaFsWzFQZ",
   "tracks": [
     {
       "added_at": null,
@@ -667,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
       "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 135040,
-      "name": "Actor Out of Work",
-      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+      "duration_ms": 222986,
+      "name": "Dinner for Two",
+      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
     },
     {
       "added_at": null,
@@ -715,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 222986,
-      "name": "Dinner for Two",
-      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
+      "duration_ms": 135040,
+      "name": "Actor Out of Work",
+      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
     },
     {
       "added_at": null,
@@ -747,38 +747,6 @@
       "duration_ms": 199320,
       "name": "These Days",
       "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nowhere Inn",
-        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 33453,
-      "name": "Carrie Voicemail",
-      "url": "https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry Me",
-        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "All My Stars Aligned",
-      "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
     },
     {
       "added_at": null,
@@ -803,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "All My Stars Aligned",
+      "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -819,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+        "name": "The Nowhere Inn",
+        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
       },
       "artists": [
         {
@@ -828,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Regret",
-      "url": "https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe"
+      "duration_ms": 33453,
+      "name": "Carrie Voicemail",
+      "url": "https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo"
     },
     {
       "added_at": null,
@@ -847,6 +831,26 @@
       "duration_ms": 244840,
       "name": "The Strangers",
       "url": "https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "Weekend in the Dust",
+      "url": "https://open.spotify.com/track/0yE4eaKscJyphP7OoaugGC"
     }
   ],
   "unique_name": "This Is St. Vincent",

@@ -2,7 +2,7 @@
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: 林家謙 Terence Lam
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: JACE
 
 126 songs - 7 hr 59 min
 

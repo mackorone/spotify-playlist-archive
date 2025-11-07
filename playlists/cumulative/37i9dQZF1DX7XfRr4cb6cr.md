@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-332 songs - 1 day 4 hr 10 min
+333 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Beyond Entropia](https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea) | [Shunkan Idou](https://open.spotify.com/artist/5cIfhBA7Wabl7fAAnMvdJs), [Cosmicleaf](https://open.spotify.com/artist/2h0A803UYlmy8q5Dh1sCm8) | [Beyond Entropia](https://open.spotify.com/album/3N6YfSTnZdzLfhrFL8BSdr) | 7:37 | 2022-01-28 |  |
 | [bipolar](https://open.spotify.com/track/1uvn7eP1I7mIKGvpsqDcoW) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [bipolar](https://open.spotify.com/album/5MOmkgxIJLtmoapI60uK6A) | 2:12 | 2023-10-06 | 2025-02-14 |
 | [black box \- alt version](https://open.spotify.com/track/1aEqFOVkJRPBxQME5U06DS) | [Father2006](https://open.spotify.com/artist/27yhOwnmWiOJf474zGblS4) | [black box](https://open.spotify.com/album/6nJbapZnyYjqx1Sxka9fQx) | 3:41 | 2023-10-23 | 2025-09-05 |
-| [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 |  |
+| [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 | 2025-11-07 |
 | [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 | 2022-01-21 | 2025-05-07 |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2022-01-21 |  |
 | [Bright Pause](https://open.spotify.com/track/2zomjqJKeSHAFkpYD9P6N0) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Bright Pause](https://open.spotify.com/album/5YhFat5DRsfF9oNfVX5vDZ) | 3:18 | 2023-12-01 | 2024-06-06 |
@@ -71,6 +71,7 @@
 | [Dead People's Things](https://open.spotify.com/track/1jQhHBdhnaZv5q67sHA1uK) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5V3rLsAGpM63kE3SLPAMDW) | 18:35 | 2022-01-21 | 2022-07-29 |
 | [Dead People's Things](https://open.spotify.com/track/26slB6pfz5F8T723pMq32K) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5e3JPH2QTLpZA0ply1f98Z) | 18:35 | 2022-07-22 | 2024-04-19 |
 | [Devolve](https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [The All in Every This](https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9) | 8:31 | 2022-01-21 |  |
+| [Displacement \- KMRU rework](https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Displacement \(KMRU rework\)](https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7) | 4:16 | 2025-11-06 |  |
 | [Disregarding Time](https://open.spotify.com/track/6z5Wi1WMciQrg9v9J1Wz9X) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Folding, A Study](https://open.spotify.com/album/6wiGtb9WnjxZWTe2XFq3Bk) | 5:07 | 2022-12-30 |  |
 | [Distant Sun](https://open.spotify.com/track/2dKFafH1SkummNxPHVNRSC) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Distant Sun](https://open.spotify.com/album/5iQpyU13TrYymWLXCYZS8L) | 2:46 | 2023-09-01 | 2023-09-11 |
 | [Divagation](https://open.spotify.com/track/603uB0AnDCZOW8T5wiBIH2) | [Ben Shirken](https://open.spotify.com/artist/2QrmP28DXif8YmZ2GgSVuK), [Ex Wiish](https://open.spotify.com/artist/2VJvX4NmwgYskxZywBAHZA), [Pavel Milyakov](https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo), [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6) | [Divagation](https://open.spotify.com/album/5kLLUPFyQR2yydhrLpLP9D) | 3:42 | 2025-04-02 | 2025-08-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the finest of Tamil Indie music!\nCover : Dhinesh Nagarajan",
+  "description": "Tune into the finest of Tamil Indie music!\nCover : Shweta Mohan",
   "name": "Tamil Indie",
   "tracks": [
     {
@@ -3909,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "I Love You Sollada (Tamil)",
+        "url": "https://open.spotify.com/album/3XZnxLd37YpPzvOKYZPX87"
+      },
+      "artists": [
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259171,
+      "name": "I Love You Sollada (Tamil)",
+      "url": "https://open.spotify.com/track/78CxWBjBiSDMyx1HksE4kH"
+    },
+    {
+      "album": {
         "name": "I Mac Nee",
         "url": "https://open.spotify.com/album/0vHTrFFBcDgqrU77Hwu3xx"
       },
@@ -4744,7 +4762,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 184789,
       "name": "Kaadhal Alaipayuthey",
       "url": "https://open.spotify.com/track/0gn50It1wJxkhAn7IQe5XS"
@@ -6136,7 +6154,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 272423,
       "name": "Kattumarakaran",
       "url": "https://open.spotify.com/track/66QWHaxLYMzPPQtaz80Dot"
@@ -8610,6 +8628,28 @@
       "duration_ms": 173831,
       "name": "Nambathey",
       "url": "https://open.spotify.com/track/46LeIMhRc7LVMd4dgo6GDR"
+    },
+    {
+      "album": {
+        "name": "Namma Ooru Salem",
+        "url": "https://open.spotify.com/album/6P1BASd1hk1Algg7XYLgGi"
+      },
+      "artists": [
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        },
+        {
+          "name": "Sri Sudharsun",
+          "url": "https://open.spotify.com/artist/3rEvzXb6i6OZsX184y3lY8"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Namma Ooru Salem",
+      "url": "https://open.spotify.com/track/03tTWRHAQWWCmvyKAkdakl"
     },
     {
       "album": {

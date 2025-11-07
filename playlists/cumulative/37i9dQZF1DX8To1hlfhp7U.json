@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/1rL3Hnua25rhjxSjwxyzj1"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        },
+        {
+          "name": "Taj Aulakh",
+          "url": "https://open.spotify.com/artist/30LIEt0kX9a11tyu1Z46Qs"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208892,
+      "name": "Crook",
+      "url": "https://open.spotify.com/track/44rBFPjeKA3IIYhLGqhBaA"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l"
       },
@@ -2136,7 +2158,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 145054,
       "name": "Rafale Warga",
       "url": "https://open.spotify.com/track/5YxbzhuTwFZLvUBG0rHrEq"

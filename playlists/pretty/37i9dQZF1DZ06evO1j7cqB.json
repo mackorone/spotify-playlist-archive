@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11225,
+  "num_followers": 11227,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAABKr1LTBui9zZIWGsCflGDH",
+  "snapshot_id": "aQqTgAAAAAA+zqnS+ZxCQANb4su6A5G1",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 219266,
       "name": "Memories of Mother (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
       "artists": [
         {
@@ -576,13 +576,17 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Julie Fowlis",
-          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
+          "name": "Rory Kinnear",
+          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
+        },
+        {
+          "name": "Daniel Weyman",
+          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
         }
       ],
-      "duration_ms": 164173,
-      "name": "Sun Rising on the Flagstone (feat. Julie Fowlis)",
-      "url": "https://open.spotify.com/track/7oEBKN5354KHGntRFRHjv1"
+      "duration_ms": 139988,
+      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
+      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
     },
     {
       "added_at": null,
@@ -619,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
       },
       "artists": [
         {
@@ -628,17 +632,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Rory Kinnear",
-          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
-        },
-        {
-          "name": "Daniel Weyman",
-          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
+          "name": "Julie Fowlis",
+          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
         }
       ],
-      "duration_ms": 139988,
-      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
-      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
+      "duration_ms": 164173,
+      "name": "Sun Rising on the Flagstone (feat. Julie Fowlis)",
+      "url": "https://open.spotify.com/track/7oEBKN5354KHGntRFRHjv1"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 154560,
       "name": "Godzilla Main Title",
       "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 453197,
-      "name": "We Two Might Be One",
-      "url": "https://open.spotify.com/track/5hkKbu2LAMapCRA2wAMZa4"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 453197,
+      "name": "We Two Might Be One",
+      "url": "https://open.spotify.com/track/5hkKbu2LAMapCRA2wAMZa4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 105106,
       "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
       "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 226936,
-      "name": "Raindrop Becoming an Ocean",
-      "url": "https://open.spotify.com/track/4cB3O55dXAJVXZh8J9rivU"
     },
     {
       "added_at": null,
@@ -863,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
+        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
       },
       "artists": [
         {
@@ -872,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 219293,
-      "name": "War Is Inevitable",
-      "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
+      "duration_ms": 226936,
+      "name": "Raindrop Becoming an Ocean",
+      "url": "https://open.spotify.com/track/4cB3O55dXAJVXZh8J9rivU"
     },
     {
       "added_at": null,
@@ -915,6 +899,22 @@
       "duration_ms": 201773,
       "name": "The Summoning (feat. Raya Yarbrough)",
       "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "War Is Inevitable",
+      "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
     }
   ],
   "unique_name": "This Is Bear McCreary",

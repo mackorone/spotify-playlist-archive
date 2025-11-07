@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 
 > Dance remixes of popular songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,107 likes - 150 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,321 likes - 150 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 | 145 | [Alors On Danse](https://open.spotify.com/track/1W1q2zYXgpU8G96dnvMqdE) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Alors On Danse](https://open.spotify.com/album/19ktLYnDadlzzCNetj87mX) | 2:02 |
 | 146 | [Low](https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Low](https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ) | 2:15 |
 | 147 | [Night Away \(Dance\) \(feat\. Mae Muller\) \- Jax Jones Remix](https://open.spotify.com/track/3dlH0jIRf0vsPoL5syA0pv) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Night Away \(Dance\) \(feat\. Mae Muller\) \[Jax Jones Remix\]](https://open.spotify.com/album/3Kam5gZFxKAdDqTnKbs8gs) | 2:55 |
-| 148 | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/track/4M9HS9CMxVtQ7xK1MTHTFc) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/album/7oExHqAK6BIj0gtwCRPU9K) | 2:26 |
+| 148 | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/track/4M9HS9CMxVtQ7xK1MTHTFc) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/album/7oExHqAK6BIj0gtwCRPU9K) | 2:27 |
 | 149 | [Llorando Se Fue \(Lambada\)](https://open.spotify.com/track/5xKjvOO3TX8A9UsurpAOb2) | [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Shemenzo](https://open.spotify.com/artist/25fXb5qv0GFehqD82VA87j), [Phany](https://open.spotify.com/artist/3YkS0v0VJDuBzu4P9gziyC), [Chempy](https://open.spotify.com/artist/1HY2LGhVBAD6IUBSMJFt3R) | [Llorando Se Fue \(Lambada\)](https://open.spotify.com/album/2rxu5xiwVmkLPhTmkV0jqW) | 3:08 |
 | 150 | [Shivers \(feat\. Sam Rendina\)](https://open.spotify.com/track/29Ck3QVMprwhElUjqJUCKr) | [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [Brøder](https://open.spotify.com/artist/7DBx4maFkuoaBd7w7tTsQR), [DEBO](https://open.spotify.com/artist/3EznjIn5ZWWsgVtljYDd7Y), [Sam Rendina](https://open.spotify.com/artist/2vTsgwtZQXNvWuDNB5dtIK) | [Shivers \(Feat\. Sam Rendina\)](https://open.spotify.com/album/50m0njzQ4jYx8UmbHy7sTX) | 2:43 |
 

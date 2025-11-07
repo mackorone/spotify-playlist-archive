@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,999 likes - 94 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,007 likes - 94 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 46 | [La Buena Vida](https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK) | [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Peluche Peligroso](https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn) | 3:47 |
 | 47 | [Vos No](https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vos No](https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief) | 3:40 |
 | 48 | [Bienvenidos al Presente](https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 4:19 |
-| 49 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 |
-| 50 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 |
+| 49 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 |
+| 50 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 |
 | 51 | [Coconut Boogaloo](https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:57 |
 | 52 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 |
 | 53 | [Simon Freak](https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Tony 70](https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx) | 3:53 |
-| 54 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 |
-| 55 | [Puerta Abierta](https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Puerta Abierta](https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ) | 2:51 |
+| 54 | [Puerta Abierta](https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Puerta Abierta](https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ) | 2:51 |
+| 55 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 |
 | 56 | [Aceituna](https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:10 |
 | 57 | [Mi Propio Paraíso](https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc) | [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp), [Nico Cota](https://open.spotify.com/artist/3R7H5BnszTX4pYrBXOkmeR) | [Peluche Peligroso](https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn) | 4:26 |
 | 58 | [Sedas](https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0) | [SEDA](https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl) | [Sedas](https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x) | 2:48 |
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 85 | [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 |
 | 86 | [Clover](https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye) | [Cami Brooks](https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x) | [Clover](https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31) | 3:46 |
 | 87 | [Twice](https://open.spotify.com/track/3VKdesoESiJOCohefJctj3) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Twice](https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527) | 3:36 |
-| 88 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
-| 89 | [Miro donde miro](https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ) | [Lautaro Veppo](https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB), [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [Miro donde miro](https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps) | 2:55 |
+| 88 | [Miro donde miro](https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ) | [Lautaro Veppo](https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB), [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [Miro donde miro](https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps) | 2:55 |
+| 89 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
 | 90 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
 | 91 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
 | 92 | [Therapy](https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Therapy](https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn) | 3:50 |
-| 93 | [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 |
-| 94 | [El Efecto Calma](https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6) | [Alumine](https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3) | [El Efecto Calma](https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp) | 4:06 |
+| 93 | [El Efecto Calma](https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6) | [Alumine](https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3) | [El Efecto Calma](https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp) | 4:06 |
+| 94 | [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 |
 
 Snapshot ID: `AAAAAJ0yi/2+KYswTjYnuCQwfK68KmyI`

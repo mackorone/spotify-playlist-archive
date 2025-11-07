@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah, Wycleff Jean",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 161024,
       "name": "1001 Roteiros",
       "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 212000,
       "name": "Imaturos",
       "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
@@ -3533,6 +3533,28 @@
     },
     {
       "album": {
+        "name": "Al-Kimiya, Ato I",
+        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
+      },
+      "artists": [
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256017,
+      "name": "MergulhoFundo",
+      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
+    },
+    {
+      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
       },
@@ -3640,6 +3662,28 @@
       "duration_ms": 167133,
       "name": "Modo Avi\u00e3o",
       "url": "https://open.spotify.com/track/0WxQNvzeTDOIWi1Y3rsrHN"
+    },
+    {
+      "album": {
+        "name": "Montanha Russa (Would you be mine?)",
+        "url": "https://open.spotify.com/album/7LaAeCU06NznWBVefPRG7e"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176341,
+      "name": "Montanha Russa (Would you be mine?)",
+      "url": "https://open.spotify.com/track/1jjiyRKiRkRlvFndCnZKKk"
     },
     {
       "album": {
@@ -4682,7 +4726,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 225566,
       "name": "Porque Me Responde Ainda",
       "url": "https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE"
@@ -6124,7 +6168,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 166857,
       "name": "Te Amar",
       "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
@@ -6230,6 +6274,24 @@
       "duration_ms": 168053,
       "name": "Tenho Tanto de Voc\u00ea em Mim",
       "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
+    },
+    {
+      "album": {
+        "name": "Tenta a Sorte",
+        "url": "https://open.spotify.com/album/4cKEJfLC1Ek8Y9Ae7Cmctz"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195169,
+      "name": "Tenta a Sorte",
+      "url": "https://open.spotify.com/track/403HXmtlfUEBNCKjpcB0Eg"
     },
     {
       "album": {
@@ -6450,6 +6512,28 @@
       "duration_ms": 160416,
       "name": "tudo com voc\u00ea vira arte",
       "url": "https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk"
+    },
+    {
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257821,
+      "name": "Tudo Igual",
+      "url": "https://open.spotify.com/track/4k98YJ8f66Z7FagvL42Qgv"
     },
     {
       "album": {
@@ -6898,6 +6982,24 @@
       "duration_ms": 221212,
       "name": "VVS",
       "url": "https://open.spotify.com/track/2mA2z7NCvYth6TJ6Dw48sJ"
+    },
+    {
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "album": {

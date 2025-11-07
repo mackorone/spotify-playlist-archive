@@ -1,15 +1,15 @@
 {
   "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631 \u063a\u0644\u0627\u0641: \u0639\u0641\u0631\u0648\u062a\u0648",
-  "num_followers": 413438,
+  "num_followers": 413513,
   "original_name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACSIrUPSVbjrtnMlQ/B9xdHliztr",
+  "snapshot_id": "AAAAAH9Seb280M7iyNT+uaGmK5sw933D",
   "tracks": [
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "FOR REAL",
         "url": "https://open.spotify.com/album/2plfHkMSdOqhtIkQwvkD5r"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7bZ9b5rVCedn2Cvo6Lxo9H"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "Genent El Ba\u2019ar",
         "url": "https://open.spotify.com/album/0VOXsTCZAsZSV6fdSGzteA"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5OHdP4aHFLWEvayknKI746"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "ANA ESMY ZIAD ZAZA",
         "url": "https://open.spotify.com/album/7bv20zT7obBMQ6Fq3reFIV"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4llSXlOfqesFjhnLazIpxd"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "John Cena",
         "url": "https://open.spotify.com/album/6Iruz4sv6jyUWqbtC3feHc"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/4HKDKyMh6vEW77QxpzKbfd"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/5ypDqZ0Gv2DROegZUqTdBS"
+      },
+      "artists": [
+        {
+          "name": "Mond",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "duration_ms": 118924,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/01gp9Dm70W7nJdQcZNDYwG"
+    },
+    {
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "Aqareb",
         "url": "https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/4WbE5qrmw9H4RVpjCns7oR"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "7OB&KASHAT",
         "url": "https://open.spotify.com/album/2svCOWiV5oGoZk1YTU1NPL"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "MATADOR",
         "url": "https://open.spotify.com/album/4p50wCLmX3dorhUIDFIYF2"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/2397d2hCrov6ouuoG67dW7"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "FOR REAL",
         "url": "https://open.spotify.com/album/2plfHkMSdOqhtIkQwvkD5r"
@@ -145,7 +161,23 @@
       "url": "https://open.spotify.com/track/55AFKSZFskLXl6M9XVnos8"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
+      "album": {
+        "name": "AGBHA",
+        "url": "https://open.spotify.com/album/4hMLvzASFdpJO6kNXwQ1zq"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "duration_ms": 188636,
+      "name": "AGBHA",
+      "url": "https://open.spotify.com/track/32dRw90vVNSP6gnBlqBhIE"
+    },
+    {
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "Kadaba",
         "url": "https://open.spotify.com/album/3L1t71V8i7ZGFJOTy6cYYg"
@@ -161,7 +193,39 @@
       "url": "https://open.spotify.com/track/0WqqQ8uHKDbkPbo2ASI9U6"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
+      "album": {
+        "name": "CA$HETA",
+        "url": "https://open.spotify.com/album/578xeeJvGaezmhcHQLM7Ex"
+      },
+      "artists": [
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        }
+      ],
+      "duration_ms": 89373,
+      "name": "CA$HETA",
+      "url": "https://open.spotify.com/track/5nJlh46X5vg65P4tLhKWtT"
+    },
+    {
+      "added_at": "2025-11-06 06:32:14",
+      "album": {
+        "name": "EN7RAF",
+        "url": "https://open.spotify.com/album/5SvfhMVSkxKJMXJLpgEPrn"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "BONO",
+      "url": "https://open.spotify.com/track/5uwxUgvc7YMESf745i8wyx"
+    },
+    {
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0625\u062a\u062d\u0627\u062f \u0627\u0644\u0642\u0645\u0647 (Vol 1)",
         "url": "https://open.spotify.com/album/2LU0Qmq2wJ9JAaPDBWpu0e"
@@ -181,39 +245,7 @@
       "url": "https://open.spotify.com/track/3cCgoPU9rWuBXpORjVRqo8"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
-      "album": {
-        "name": "CA$HETA",
-        "url": "https://open.spotify.com/album/578xeeJvGaezmhcHQLM7Ex"
-      },
-      "artists": [
-        {
-          "name": "DizzyTooSkinny",
-          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
-        }
-      ],
-      "duration_ms": 89373,
-      "name": "CA$HETA",
-      "url": "https://open.spotify.com/track/5nJlh46X5vg65P4tLhKWtT"
-    },
-    {
-      "added_at": "2025-10-30 17:33:18",
-      "album": {
-        "name": "EN7RAF",
-        "url": "https://open.spotify.com/album/5SvfhMVSkxKJMXJLpgEPrn"
-      },
-      "artists": [
-        {
-          "name": "Marwan Pablo",
-          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "BONO",
-      "url": "https://open.spotify.com/track/5uwxUgvc7YMESf745i8wyx"
-    },
-    {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "Nasser",
         "url": "https://open.spotify.com/album/6f8XAV4PBmAmbP3OPwR7ST"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/6JcdmDmB9EV7wFYxbwa8xa"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0627\u0644\u0631\u062c\u0644 \u0627\u0644\u0630\u064a \u0641\u0642\u062f \u0642\u0644\u0628\u0647",
         "url": "https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/7IqxOQ0Wjb4JcsIoY5I1hF"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u062e\u0644\u0641 \u0627\u0644\u0643\u0648\u0627\u0644\u064a\u0633",
         "url": "https://open.spotify.com/album/7ndFMl55aghFOv7CNvC2IQ"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/60GtRQl1DegFa1Cul3FRxr"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0633\u0627\u0645\u0639\u0643",
         "url": "https://open.spotify.com/album/0N1QvAwzMMYh44s96YKclb"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/0dF6JdIqKpDJ7PkXUjmQEt"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "EN7RAF",
         "url": "https://open.spotify.com/album/5SvfhMVSkxKJMXJLpgEPrn"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/3M4DRqS84IvGSmAH7BTDuF"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0628\u0639\u062a\u0627\u0644\u064a \u0641\u064a \u0627\u0644\u0634\u0627\u062a",
         "url": "https://open.spotify.com/album/33iJiB1TEyc2qKHKv7jxHJ"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/5GSvSiDTXWGPYaLI6nipdG"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "BGD",
         "url": "https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/0lGBH3NhfXHdOM1GswMqh3"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
         "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
@@ -353,27 +385,7 @@
       "url": "https://open.spotify.com/track/2Cs1t49qL52fPt6ikx15wp"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
-      "album": {
-        "name": "525",
-        "url": "https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv"
-      },
-      "artists": [
-        {
-          "name": "ZIAD ZAZA",
-          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
-        },
-        {
-          "name": "ZIEN4L",
-          "url": "https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD"
-        }
-      ],
-      "duration_ms": 123310,
-      "name": "GABOLNA HKOMA",
-      "url": "https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg"
-    },
-    {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "KKKK",
         "url": "https://open.spotify.com/album/7kLO8r6CSFTy8swI7t0nrl"
@@ -393,7 +405,7 @@
       "url": "https://open.spotify.com/track/2E870p0a1keSedRhkx6IOh"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0627\u0644\u0631\u062c\u0644 \u0627\u0644\u0630\u064a \u0641\u0642\u062f \u0642\u0644\u0628\u0647",
         "url": "https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ"
@@ -413,7 +425,7 @@
       "url": "https://open.spotify.com/track/30COeIn1dQn7VgHYxgrU9Q"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "GADWAL EL DARB",
         "url": "https://open.spotify.com/album/5XYfJyMufwURzHoJLVl8g5"
@@ -429,7 +441,7 @@
       "url": "https://open.spotify.com/track/1SRrcmvsVxBilwUHyeq8IF"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "EL 3ARAB",
         "url": "https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I"
@@ -453,7 +465,7 @@
       "url": "https://open.spotify.com/track/4UBQg7ZxU1hrAaNFvzS10C"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "Skoot",
         "url": "https://open.spotify.com/album/2MdsX8yfVdeRMQZH7BaWyn"
@@ -469,7 +481,7 @@
       "url": "https://open.spotify.com/track/6qv3kh2Tbv9CdJ9AOP3Mbu"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "Meen Ytafy Nary",
         "url": "https://open.spotify.com/album/1F5IOenDkbPmF3NuVzyEH8"
@@ -493,7 +505,7 @@
       "url": "https://open.spotify.com/track/2ifemK90i9fSrsbC2mx46q"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "ELWA3D",
         "url": "https://open.spotify.com/album/5GxrUw0M57yEf8vMQgso2o"
@@ -509,7 +521,7 @@
       "url": "https://open.spotify.com/track/4G5MF3PpirGQEa4UNrb9KB"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "Hal Di Kat Hayatak",
         "url": "https://open.spotify.com/album/4i13QTb6JSiChncGZz4OiH"
@@ -525,7 +537,7 @@
       "url": "https://open.spotify.com/track/1yMQB6P1oDgyslXYRaEH2K"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "Sebny Ala Dool",
         "url": "https://open.spotify.com/album/1nHjpICY29mjtgv3ZlrGVN"
@@ -545,7 +557,7 @@
       "url": "https://open.spotify.com/track/3fNOATr4zA4bKAhY7bdgNO"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "El Neyya",
         "url": "https://open.spotify.com/album/5Ym6uvtt8qnWIX1sF3XYeg"
@@ -561,7 +573,7 @@
       "url": "https://open.spotify.com/track/2lygVhKHBUzEGMJXljHOV2"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "SHAR X KHEIR",
         "url": "https://open.spotify.com/album/7EcOiSUdG1WiUGm6c0rQOz"
@@ -577,7 +589,7 @@
       "url": "https://open.spotify.com/track/7qWTw6jwB1a3nljQAtgIWS"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
         "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
@@ -593,7 +605,7 @@
       "url": "https://open.spotify.com/track/2NVujx5LgFAIWPshaI6IYM"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0643\u064a.\u0623\u0648\u0647 (K.O)",
         "url": "https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg"
@@ -613,7 +625,7 @@
       "url": "https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "\u0645\u0631\u0632\u0645\u0646",
         "url": "https://open.spotify.com/album/3FL28N3jiv212RwqZlB5gO"
@@ -629,7 +641,7 @@
       "url": "https://open.spotify.com/track/3cAy5RMw6iT1Nxit3Z3Q9b"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "6 Shohour",
         "url": "https://open.spotify.com/album/06wzYMLZWW2AawVYKlPkcz"
@@ -645,7 +657,7 @@
       "url": "https://open.spotify.com/track/7FeflOB46MGCh7Wzj1JuOW"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "El Waqt El Daye3",
         "url": "https://open.spotify.com/album/6i2pEUNQ7CRsogFiuzyOIx"
@@ -665,7 +677,7 @@
       "url": "https://open.spotify.com/track/32DdsYl1ajtduE6xDckm0x"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "MAGHOOL",
         "url": "https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN"
@@ -681,7 +693,7 @@
       "url": "https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "ATTA3",
         "url": "https://open.spotify.com/album/0Zo1AW85yhvT3mfiMKZkBt"
@@ -701,7 +713,7 @@
       "url": "https://open.spotify.com/track/0kJa375yREkEv5W3Ldec7z"
     },
     {
-      "added_at": "2025-10-30 17:33:18",
+      "added_at": "2025-11-06 06:32:14",
       "album": {
         "name": "3la Wara2a",
         "url": "https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND"

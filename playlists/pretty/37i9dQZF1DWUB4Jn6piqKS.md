@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,851 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,857 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 68 | [I Walked Away](https://open.spotify.com/track/6pbrgU3wtMWM4FkyOtZnnb) | [Bobby Paris](https://open.spotify.com/artist/5AEzIXzU4LV8Q3MKTKUXv9) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 3:10 |
 | 69 | [Suspicion](https://open.spotify.com/track/7neHlDOzLf0qFgEzeK8L8t) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 3:04 |
 | 70 | [Too Late](https://open.spotify.com/track/7F7iU4t2IGL5VrmVOASbpW) | [Larry Williams & Johnny Watson](https://open.spotify.com/artist/20HVf2j1u1qObPT1ZZERcl) | [The Best Of The Northern Soul Story](https://open.spotify.com/album/1e5GWj2QMByTH63cp8WOU4) | 2:20 |
-| 71 | [Gotta Have Your Love](https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:16 |
-| 72 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/7nf9RHDlrnDJe9vYW8cIJK) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/0OPpQiUK9bw0DdkBgFB9NL) | 5:19 |
+| 71 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/7nf9RHDlrnDJe9vYW8cIJK) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/0OPpQiUK9bw0DdkBgFB9NL) | 5:19 |
+| 72 | [Gotta Have Your Love](https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:16 |
 | 73 | [I Surrender](https://open.spotify.com/track/4vwwhYgJU23tJPrBZiKL6U) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [Soul Satisfaction](https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe) | 2:05 |
 | 74 | [My Love Is Getting Stronger](https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:51 |
 | 75 | [Something New to Do](https://open.spotify.com/track/48JQJY3aeaqxcB9cV6QzzV) | [Bobby Sheen](https://open.spotify.com/artist/4nXmXA3DSTnMbVlZcjUCcv) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:33 |

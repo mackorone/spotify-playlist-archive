@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 122187,
+  "num_followers": 122207,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQlCAAAAAACkdkUo6Bdmvvktdf9C5cVR",
+  "snapshot_id": "aQqTgAAAAACmfcdeuCNb/Iu+XoCypQcX",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 246160,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet (Mono)",
         "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 276827,
       "name": "You'd Be So Nice To Come Home To - Mono",
       "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
+        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
-        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
+      "duration_ms": 246160,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Standards",
-        "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
+        "name": "Essential Standards (eBooklet)",
+        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 172426,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
+      "duration_ms": 304906,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Standards (eBooklet)",
-        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
+        "name": "Essential Standards",
+        "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 304906,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
+      "duration_ms": 172426,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plays For Lovers",
-        "url": "https://open.spotify.com/album/3jQuxFEqWFodjerF11Mq1y"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "You And The Night And The Music",
-      "url": "https://open.spotify.com/track/6XW2ye6BhEVoPhvmfjhPR2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker & Strings",
         "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 176160,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/3dV42xSB7JYqvYdmP3Bolo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plays For Lovers",
+        "url": "https://open.spotify.com/album/3jQuxFEqWFodjerF11Mq1y"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "You And The Night And The Music",
+      "url": "https://open.spotify.com/track/6XW2ye6BhEVoPhvmfjhPR2"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
       "duration_ms": 191906,
       "name": "Ergo - Remastered 2004",
       "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 254729,
-      "name": "Relaxin'",
-      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
     }
   ],
   "unique_name": "This Is Chet Baker",

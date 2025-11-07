@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623 likes - 195 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 624 likes - 195 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 15 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 |
 | 16 | [Por Favor \- Spanglish Version](https://open.spotify.com/track/2vHDurkzJ8dhCzoPzqiE2C) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Fifth Harmony](https://open.spotify.com/album/506tSgFO28YCEALMLihVPB) | 3:18 |
 | 17 | [Buy A Heart](https://open.spotify.com/track/3LbP0bRODOjnpPA1oxAKrw) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 4:15 |
-| 18 | [Like Home \(feat\. Alicia Keys\)](https://open.spotify.com/track/2Ie7pnF3ZKNTde30TQWlWx) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 4:05 |
-| 19 | [Looking for Paradise \(feat\. Alicia Keys\)](https://open.spotify.com/track/02f5iKhfXVvCWK641es1sT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 4:30 |
+| 18 | [Looking for Paradise \(feat\. Alicia Keys\)](https://open.spotify.com/track/02f5iKhfXVvCWK641es1sT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 4:30 |
+| 19 | [Like Home \(feat\. Alicia Keys\)](https://open.spotify.com/track/2Ie7pnF3ZKNTde30TQWlWx) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 4:05 |
 | 20 | [Diary \(feat\. Tony! Toni! Tone! & Jermaine Paul\)](https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:44 |
 | 21 | [A Woman's Worth](https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 5:03 |
 | 22 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:08 |
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 153 | [Nadie \(No One\)](https://open.spotify.com/track/7M02Ay2AZaO7SOrCMOHHOr) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 3:26 |
 | 154 | [Foolish Heart](https://open.spotify.com/track/3WfpkkRQPyg7m2rtqTELw3) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 4:39 |
 | 155 | [Daffodils \(Originals\)](https://open.spotify.com/track/0NA4CSpUEWzFHCI6RzvbS1) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:33 |
-| 156 | [Best Of Me \(Unlocked\)](https://open.spotify.com/track/1fjuFBHNdLSGutjypWmAIZ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:43 |
-| 157 | [Too Much](https://open.spotify.com/track/72eFHj1Bx5O6H6pUuDhQtJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:46 |
+| 156 | [Too Much](https://open.spotify.com/track/72eFHj1Bx5O6H6pUuDhQtJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:46 |
+| 157 | [Best Of Me \(Unlocked\)](https://open.spotify.com/track/1fjuFBHNdLSGutjypWmAIZ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:43 |
 | 158 | [Only You \(Originals\)](https://open.spotify.com/track/4CN5QwsYFty7KkcVguSBXr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:15 |
 | 159 | [Nat King Cole \(Unlocked\) \(feat\. Lil Wayne\)](https://open.spotify.com/track/7c6RtH1KwiYh3GnUEDOpqb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:05 |
 | 160 | [Love When You Call My Name \(Originals\)](https://open.spotify.com/track/7sKlDgyVEvTA6k7jpVJ9PJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:37 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 194 | [I Got A Little Something \- Live In Seattle](https://open.spotify.com/track/79H23cYdXUmMj0Ceo2Hx8Y) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 1:42 |
 | 195 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `AcAzkgAAAABP+3JC9gh0O1z5gByICTq1`
+Snapshot ID: `AcA5KAAAAAC/yqiqbEPCoGErfolFk1Ws`

@@ -566,7 +566,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 568040,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/66cf5Aufw5GxRauvzVdli7"
@@ -2463,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Ngizohamba Naye Medley (Live)",
+        "url": "https://open.spotify.com/album/5ScQksQmPONbCl5nDc98EI"
+      },
+      "artists": [
+        {
+          "name": "Reginald Jabu",
+          "url": "https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420102,
+      "name": "Ngizohamba Naye Medley - Live",
+      "url": "https://open.spotify.com/track/67dCahOgmQxYsuulpagpHM"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
         "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
       },
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 307697,
       "name": "Tshepo Ya Lefatshe",
       "url": "https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte"
@@ -3780,6 +3798,24 @@
       "duration_ms": 375758,
       "name": "Wash'Umlilo",
       "url": "https://open.spotify.com/track/1cpEKqRRI4O7U5tQyS1DeC"
+    },
+    {
+      "album": {
+        "name": "Wayekhona",
+        "url": "https://open.spotify.com/album/1N6h6jtN6arTTFihVnQofV"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240039,
+      "name": "Wayekhona",
+      "url": "https://open.spotify.com/track/68V1UG1Jx42cflLoTQ7eAD"
     },
     {
       "album": {

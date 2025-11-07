@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578,376 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,578,281 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 45 | [Amazing Graces](https://open.spotify.com/track/2GYwp8YJd4Ofd0o1Hvjhll) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Amazing Graces](https://open.spotify.com/album/43JRM16cHzdQGBzBa4CdMS) | 2:36 |
 | 46 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
 | 47 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
-| 48 | [Words I should've said](https://open.spotify.com/track/2wj1i3TRlyiMGujUO6Whjd) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [words i should've said](https://open.spotify.com/album/1X5p3avr90meczOk6qY4BY) | 4:19 |
-| 49 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
+| 48 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
+| 49 | [Words I should've said](https://open.spotify.com/track/2wj1i3TRlyiMGujUO6Whjd) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [words i should've said](https://open.spotify.com/album/1X5p3avr90meczOk6qY4BY) | 4:19 |
 | 50 | [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 |
 
 Snapshot ID: `AAAAABuvg0xcyw/MOST+UiIzL4kDognA`

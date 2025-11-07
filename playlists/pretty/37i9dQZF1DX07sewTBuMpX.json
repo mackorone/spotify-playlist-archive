@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140300,
+  "num_followers": 140308,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,30 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "Love Doesn't Exist",
+        "url": "https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 170269,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },
@@ -819,30 +843,6 @@
       "duration_ms": 146778,
       "name": "Festival",
       "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "Love Doesn't Exist",
-        "url": "https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT"
-      },
-      "artists": [
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "Lusho",
-          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 170269,
-      "name": "Tiffany",
-      "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1235,46 +1235,18 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Strandje Aan De Maas",
-        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
+        "name": "Appel Mint Puur",
+        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
       },
       "artists": [
         {
           "name": "Broederliefde",
           "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
         }
       ],
-      "duration_ms": 206527,
-      "name": "Stunten",
-      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "Ba Ba Bad",
-        "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "Ba Ba Bad",
-      "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
+      "duration_ms": 207430,
+      "name": "Appel Mint Puur",
+      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1319,6 +1291,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "OHMA TOKITA",
+        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "Your Season",
         "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
       },
@@ -1343,34 +1331,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Appel Mint Puur",
-        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
+        "name": "Strandje Aan De Maas",
+        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
       },
       "artists": [
         {
           "name": "Broederliefde",
           "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 207430,
-      "name": "Appel Mint Puur",
-      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "OHMA TOKITA",
-        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
-      },
-      "artists": [
+        },
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
         }
       ],
-      "duration_ms": 135257,
-      "name": "OHMA TOKITA",
-      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
+      "duration_ms": 206527,
+      "name": "Stunten",
+      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1423,6 +1399,30 @@
       "duration_ms": 188160,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Ba Ba Bad",
+        "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "Ba Ba Bad",
+      "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
     },
     {
       "added_at": "2025-10-15 22:00:08",

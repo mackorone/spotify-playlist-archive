@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: SIIBU",
+  "description": "Proudly Southern African Afropop gems. Cover: Kelly Khumalo",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -5248,7 +5248,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 196097,
       "name": "Intandokazi",
       "url": "https://open.spotify.com/track/0pazfbr9aRJAWyGy7bgMtA"
@@ -5834,6 +5834,28 @@
       "duration_ms": 341333,
       "name": "Izimpi",
       "url": "https://open.spotify.com/track/5HivUEOLwjCIpJQsXj0S9r"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kelly Khumalo",
+          "url": "https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no"
+        },
+        {
+          "name": "Mondli Ngcobo",
+          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277080,
+      "name": "Izimpunyela",
+      "url": "https://open.spotify.com/track/4d7h6obXSLfsFik9kY1in6"
     },
     {
       "album": {
@@ -9555,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "Ngiziqambela Amanga",
+        "url": "https://open.spotify.com/album/6Qy871pHYVFxNITYJeIA2z"
+      },
+      "artists": [
+        {
+          "name": "Nue_Sam",
+          "url": "https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ngiziqambela Amanga",
+      "url": "https://open.spotify.com/track/5p7xUspXer0dXKl38ct0T1"
+    },
+    {
+      "album": {
         "name": "Ngizmisele",
         "url": "https://open.spotify.com/album/3PQg91Te4i6mqvN3hzoZTH"
       },
@@ -12306,7 +12346,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 241802,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/0O5Dqz9VS5WJW4jdftZSfA"
@@ -12496,7 +12536,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-07",
       "duration_ms": 196080,
       "name": "Stand By Me (feat. John Lundun)",
       "url": "https://open.spotify.com/track/0UjHRYxSKwNrgdOMtK7niI"

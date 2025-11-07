@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-126 songs - 6 hr 8 min
+127 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 | 2025-07-14 |  |
 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 | 2025-07-14 |  |
 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 | 2025-07-14 |  |
+| [Nobody Else \- 2.0](https://open.spotify.com/track/0wT75Em0j2PkWp7Ii6yIew) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Nobody Else \(2.0\)](https://open.spotify.com/album/0St10cKnpnzWxutKJ5FQTW) | 2:51 | 2025-11-06 |  |
 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2025-07-14 |  |
 | [Nooit Meer Voorbij](https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Nooit Meer Voorbij](https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx) | 2:30 | 2025-07-14 |  |
 | [Ome Jan](https://open.spotify.com/track/4r17Au3EwdeqGWI4XUz2xh) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Ome Jan](https://open.spotify.com/album/2EXV1dnIJEXTJxKdbzt2PX) | 2:34 | 2025-07-14 |  |
@@ -118,7 +119,7 @@
 | [Vandaag Ben Ik Van Jou](https://open.spotify.com/track/1DhAbQBX3GtlSH2qnZPei9) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Vandaag Ben Ik Van Jou](https://open.spotify.com/album/6kQ7PZDZMsHTrQwL8sqt4f) | 2:57 | 2025-07-14 | 2025-08-09 |
 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 | 2025-07-14 |  |
 | [Viva Cerveza](https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Viva Cerveza](https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD) | 3:26 | 2025-07-14 |  |
-| [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 | 2025-10-16 |  |
+| [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 | 2025-10-16 | 2025-11-07 |
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-07-14 |  |
 | [Wat Een Plezier](https://open.spotify.com/track/2EQADDlKBRcITByxWX5upT) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Wat Een Plezier](https://open.spotify.com/album/67R5Zi52SgiuyIJ2xbDS1K) | 2:36 | 2025-07-14 | 2025-08-09 |
 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 | 2025-07-14 |  |

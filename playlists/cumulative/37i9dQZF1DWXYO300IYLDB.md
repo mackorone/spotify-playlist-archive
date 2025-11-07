@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-548 songs - 1 day 8 hr 35 min
+549 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [emptyhouse](https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [emptyhouse](https://open.spotify.com/album/1Am4nLFfQAR58w2c6GxGFh) | 3:21 | 2023-02-09 | 2023-05-03 |
 | [Ending Summer](https://open.spotify.com/track/54WlSipL4AOeoMWaTCAfce) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Ending Summer](https://open.spotify.com/album/5GOJ23AU7SprpP97xnF309) | 4:20 | 2023-09-28 | 2023-11-08 |
 | [Endless Love](https://open.spotify.com/track/54BjYPqyJ61PdFtnCcsRRy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Endless Love](https://open.spotify.com/album/0WT69F594eU3gkZ0Zlvaey) | 4:22 | 2025-02-06 | 2025-04-02 |
+| [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 | 2025-11-06 |  |
 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 | 2023-06-22 | 2023-12-13 |
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-11-30 |  |
 | [Eyes Closed \- Piano Version](https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-30 | 2023-06-01 |
@@ -455,7 +456,7 @@
 | [Too Bad \(with Max Clarke of Cut Worms\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/6USd3imp91uPnvgBYRM2Kx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Too Bad \(with Max Clarke of Cut Worms\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5ZwGfcxcGrkVK5ye78Kak1) | 5:30 | 2023-08-17 | 2023-10-25 |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-07 | 2024-04-19 |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-11-29 |
-| [Too High, Pt\. 2 \(feat\. BigBoi0101\)](https://open.spotify.com/track/2zwFbXK3HDpHd6HRaDGE7K) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM), [BigBoi0101](https://open.spotify.com/artist/1IqgbdJ2IqjyKqpA2DqbZv) | [Too High, Pt\. 2 \(feat\. BigBoi0101\)](https://open.spotify.com/album/19pEsriNgkcdwceVA3hsTt) | 3:00 | 2025-02-06 |  |
+| [Too High, Pt\. 2 \(feat\. BigBoi0101\)](https://open.spotify.com/track/2zwFbXK3HDpHd6HRaDGE7K) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM), [BigBoi0101](https://open.spotify.com/artist/1IqgbdJ2IqjyKqpA2DqbZv) | [Too High, Pt\. 2 \(feat\. BigBoi0101\)](https://open.spotify.com/album/19pEsriNgkcdwceVA3hsTt) | 3:00 | 2025-02-06 | 2025-11-07 |
 | [True Colors](https://open.spotify.com/track/2ORrgw8M0ZbrFlm5cpaKCv) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [True Colors](https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj) | 4:03 | 2024-03-07 |  |
 | [Try Love \- Live from Under The Willow Tree](https://open.spotify.com/track/0jfcryQlCzCWRDGNCz3ayj) | [Jeb Loy Nichols](https://open.spotify.com/artist/4iwe9LERHqqDtmn7X6oZml) | [Under The Willow Tree](https://open.spotify.com/album/3zw6dpptC9JRYtRTzGGaTJ) | 1:46 | 2023-01-19 | 2023-01-25 |
 | [Try My Best](https://open.spotify.com/track/6AvFwZ0chMEYCVbrPvBiMW) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Try My Best](https://open.spotify.com/album/3MnZrTUyF9cffY6uqzWRdb) | 3:46 | 2023-03-30 | 2023-10-13 |

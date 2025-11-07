@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Kofee Bean
 
-170 songs - 9 hr 28 min
+171 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Sivawo \- Acoustic](https://open.spotify.com/track/19f9KenlWbUQntWH7EbnLi) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Sivawo \(Acoustic\)](https://open.spotify.com/album/0GB9VfuHcrAwPd0YKLvjYL) | 3:43 | 2023-07-28 |  |
 | [slow dance](https://open.spotify.com/track/0MOPeWUoCYNlIIMNQhBvmw) | [Matt Travers](https://open.spotify.com/artist/2Q0xAoh0K9gSozTQu6sDBY), [thedicekid](https://open.spotify.com/artist/2sH8TLhJbnZlFUtZH2bF03), [Kevin Mawejje](https://open.spotify.com/artist/12osaIyKQPJsBWmqTjgJJQ) | [MOZO](https://open.spotify.com/album/0d40PHJK2HYZihYPIdCv45) | 3:33 | 2025-04-24 | 2025-07-19 |
 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 | 2022-06-06 |  |
-| [Ssemusajja](https://open.spotify.com/track/27lnkqJpcscslS7gS9VXfY) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO), [Sandra Nankoma](https://open.spotify.com/artist/0M5YR05PddV5asF78k9CB9) | [Ssemusajja](https://open.spotify.com/album/0R90wsPOBZN8b5vXUCEXQJ) | 3:32 | 2023-02-16 |  |
+| [Ssemusajja](https://open.spotify.com/track/27lnkqJpcscslS7gS9VXfY) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO), [Sandra Nankoma](https://open.spotify.com/artist/0M5YR05PddV5asF78k9CB9) | [Ssemusajja](https://open.spotify.com/album/0R90wsPOBZN8b5vXUCEXQJ) | 3:32 | 2023-02-16 | 2025-11-07 |
 | [Sserugooti](https://open.spotify.com/track/0GSChodHDqw7L5CkR8UQMQ) | [Sandra Nankoma](https://open.spotify.com/artist/0M5YR05PddV5asF78k9CB9) | [Sserugooti](https://open.spotify.com/album/2am3ccGP1eFx4qPHQ8LRqM) | 4:16 | 2024-03-01 | 2025-02-15 |
 | [Star](https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Night Skies In Bombo](https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH) | 3:54 | 2023-01-26 | 2024-07-19 |
 | [STAY](https://open.spotify.com/track/0RJq9SuCOulhvSJtM7saFW) | [Rulz](https://open.spotify.com/artist/3dxuyx3F7NkYMg2BfVhG9I) | [STAY](https://open.spotify.com/album/5QzuM3xPIfWAJgTZXlQiuc) | 2:37 | 2025-04-24 |  |
@@ -162,6 +162,7 @@
 | [Temptation](https://open.spotify.com/track/6ALJy5vDLQtgR4rq6OtKt2) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym) | [Temptation](https://open.spotify.com/album/39wpH4KJw7aTQX0WHilIJD) | 3:36 | 2025-04-24 |  |
 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 | 2022-06-06 |  |
 | [Tingatsiga](https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Ssebo Lule](https://open.spotify.com/artist/55qMdpIT8tALCAi9A8Adea) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 2:43 | 2022-06-06 | 2023-04-01 |
+| [Tovayo](https://open.spotify.com/track/5CJdng4XhusvFMy3vpyXMR) | [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp) | [Tovayo](https://open.spotify.com/album/68OmDKN3XkTIkPkTSS3OhP) | 3:16 | 2025-11-06 |  |
 | [Treasure](https://open.spotify.com/track/4Nf5pq3LgZZ6MgUxbL2tC9) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Treasure](https://open.spotify.com/album/5hnOuxYNLaVGQaXma3X6i2) | 3:37 | 2025-10-17 |  |
 | [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 | 2023-10-20 |  |
 | [Twista](https://open.spotify.com/track/4q4GgG1AzEziL1rBAEFYWK) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Twista](https://open.spotify.com/album/6Tx9EbWNn0SfkgEHKtX8W4) | 3:26 | 2025-03-14 |  |

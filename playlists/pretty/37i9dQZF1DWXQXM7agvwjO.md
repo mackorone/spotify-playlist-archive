@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Yaelokre \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,492 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,506 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 48 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
 | 49 | [Waking Up Together With You](https://open.spotify.com/track/6WsG550j67Aj29z0iel7lo) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Waking Up Together With You](https://open.spotify.com/album/6n4YU8iRm07O7lR1zQZypN) | 2:58 |
 | 50 | [Bluebird](https://open.spotify.com/track/3jgZYDYIEthcx7BrDOzPCl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:37 |
-| 51 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:10 |
+| 51 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
 | 52 | [Watch Your Step!](https://open.spotify.com/track/0cEtJDb1SG3VqfkYwVEiwb) | [gny](https://open.spotify.com/artist/3TkW2R9Gxxh01XyuyrmqcJ), [Joseph Gregory](https://open.spotify.com/artist/5ijWl8UUStJQBnHDsuN1VA) | [Watch Your Step!](https://open.spotify.com/album/2xRbBYeJC0Sl6CZiYMYk4y) | 2:58 |
 | 53 | [我不用問](https://open.spotify.com/track/6lH3RIIRaKOpyvAk8HX7DW) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [我不用問](https://open.spotify.com/album/3msPLSdyWwAAg4YjMiTKZG) | 3:58 |
 | 54 | [meguri](https://open.spotify.com/track/7wOKndjlwI1ncnmDjyvsq8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [meguri](https://open.spotify.com/album/57kKkfhgya6bHYqoFzlnb3) | 3:13 |
