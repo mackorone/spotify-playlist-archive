@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,107 songs - 1 day 18 hr 43 min
+1,109 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [are and be](https://open.spotify.com/track/16KKyq1VNR1QFYqX9lBX1a) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [pair of dice](https://open.spotify.com/album/1BnIHuiuZhxltLIVlKXKcO) | 1:40 | 2022-05-13 | 2025-07-10 |
 | [Arena](https://open.spotify.com/track/4kvzTLQ4uDH5ZY62jkRfK1) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Sundown](https://open.spotify.com/album/3ZZpzASMpDWcNRFizv5oUT) | 1:50 | 2025-07-25 |  |
 | [aroma](https://open.spotify.com/track/3xdrzUHfGrjyR9rpmXP58Q) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:15 | 2022-09-30 | 2025-07-10 |
+| [aromatics](https://open.spotify.com/track/3pkdDfSB2hc2HiVBBKiSqO) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [aromatics](https://open.spotify.com/album/0ttsyoz6338CSHJJjpnu4N) | 2:16 | 2025-11-07 |  |
 | [as the mist clears](https://open.spotify.com/track/0CiTXFmow6AG3bayvwy87s) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [as the mist clears](https://open.spotify.com/album/3cP2btMkisJHb0FNHAVuBE) | 2:54 | 2024-12-06 | 2025-02-08 |
 | [At Ease](https://open.spotify.com/track/5UsgZGJsK5B98OmsL5ptzI) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [At Ease](https://open.spotify.com/album/3EPVotUCRpa0YRTfwsVehX) | 2:27 | 2024-03-01 |  |
 | [At Eventide](https://open.spotify.com/track/19NGKR9VbsWUgf7RfAkm71) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [At Eventide](https://open.spotify.com/album/2cXvOERfSWEvHWjNKA7jvJ) | 2:14 | 2024-06-28 | 2024-07-13 |
@@ -328,7 +329,7 @@
 | [From a cloudy sky](https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [From a cloudy sky](https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO) | 1:58 | 2023-10-20 | 2025-07-19 |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 | 2024-08-31 |
 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 | 2025-08-30 |
-| [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 |  |
+| [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 | 2025-11-08 |
 | [Future Feline](https://open.spotify.com/track/5wkEOqy092lfdf247rko8x) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 1:30 | 2022-06-10 | 2023-07-20 |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2022-04-15 | 2023-10-13 |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-04-15 | 2022-09-03 |
@@ -712,7 +713,7 @@
 | [Plant Based](https://open.spotify.com/track/5sZYbMFFIS4raZVntbfOfZ) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Plant Based](https://open.spotify.com/album/2Ep5JJmZhnzaWMK1K33QX2) | 1:57 | 2022-07-29 | 2023-10-06 |
 | [Plants for free](https://open.spotify.com/track/3wHLlr7Mt7FalYpX2EpogI) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Plants for free](https://open.spotify.com/album/1dJSgO3ATHe6yDQkXa4bWP) | 2:31 | 2023-04-28 |  |
 | [play\-doh](https://open.spotify.com/track/17NNZJQvS7WSwKLixBWnXF) | [heirloom](https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW) | [play\-doh](https://open.spotify.com/album/61RnxzvAnTu06yIDN8Kact) | 2:31 | 2025-05-06 | 2025-06-08 |
-| [Playing Games](https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Playing Games](https://open.spotify.com/album/13RxZdwcC88Ol3E1pyUO1o) | 2:00 | 2023-07-19 |  |
+| [Playing Games](https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Playing Games](https://open.spotify.com/album/13RxZdwcC88Ol3E1pyUO1o) | 2:00 | 2023-07-19 | 2025-11-08 |
 | [Pleasant Trip](https://open.spotify.com/track/4Noemyd2YfXLAXLUItJ7Fh) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Pleasant Trip](https://open.spotify.com/album/2slqsS4evjnu3OydgPOKja) | 2:19 | 2022-11-25 | 2025-07-01 |
 | [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-22 |  |
 | [Plump](https://open.spotify.com/track/6xCoZQNLgnJTYuOxbYlqC5) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:09 | 2022-04-15 | 2025-06-14 |
@@ -847,6 +848,7 @@
 | [Slide](https://open.spotify.com/track/0hpqs5z3ozGn4ICghzlib8) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Slide](https://open.spotify.com/album/3wGx2HFQ34wVRxdZzSMk4r) | 1:49 | 2025-09-19 | 2025-10-05 |
 | [Slipping Mats](https://open.spotify.com/track/72wDz8RDKFvffQJhHucHDy) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Slipping Mats](https://open.spotify.com/album/3wH3cUze42grMn3r4LTZHF) | 2:29 | 2022-07-29 | 2024-02-02 |
 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 | 2022-04-15 | 2022-05-14 |
+| [Slow Morns](https://open.spotify.com/track/0Sls4ZDWxFqr3GXeyfSS2s) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [Slow Morns](https://open.spotify.com/album/20gA8G2MmYOBbJ6GZcU2xj) | 2:36 | 2025-11-07 |  |
 | [Slowdown](https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe) | [landq](https://open.spotify.com/artist/1RbHqyLEOuXC9fy1me1VFJ) | [Slowdown](https://open.spotify.com/album/4BIBrBkF0tGLUsid8qR738) | 2:09 | 2022-09-02 | 2023-10-20 |
 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 | 2023-11-24 | 2025-07-19 |
 | [Smells Like Silverblue](https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Smells Like Silverblue](https://open.spotify.com/album/21oPNtdHyQvc3V0BQ5SG35) | 2:40 | 2022-04-15 | 2023-10-06 |

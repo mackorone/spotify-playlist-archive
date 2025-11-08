@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Hermano Espinoza en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Hermanos Espinoza en portada.",
   "name": "Corridos 2025",
   "tracks": [
     {
@@ -764,7 +764,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 186675,
       "name": "Abel",
       "url": "https://open.spotify.com/track/33P68E8DVXeEvNLbv0Ja9Y"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 221254,
       "name": "Alfonso Peralta",
       "url": "https://open.spotify.com/track/2f5AnxK8e77YRFTf16ZoMF"
@@ -1934,6 +1934,24 @@
       "duration_ms": 205531,
       "name": "Aqu\u00ed No Acaba El Brillo",
       "url": "https://open.spotify.com/track/2k62RkN51wO1kb38EKbuQi"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Sigo",
+        "url": "https://open.spotify.com/album/1nGED994kwbz6e4Gy5KtfR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187275,
+      "name": "Aqu\u00ed Sigo",
+      "url": "https://open.spotify.com/track/1tmjSXcNCd0i2w9LlcbYLb"
     },
     {
       "album": {
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 167253,
       "name": "Corridos de Corridos",
       "url": "https://open.spotify.com/track/5iRpCYSoT64v8gGxRghwSz"
@@ -6889,6 +6907,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/5MylWPrTAFU6o7qqdMzWqO"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210016,
+      "name": "DOPAMINA",
+      "url": "https://open.spotify.com/track/6FZgPSk98dzmB0DKXl9pSD"
+    },
+    {
+      "album": {
         "name": "Dos Cabrones",
         "url": "https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2"
       },
@@ -7184,7 +7220,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 190796,
       "name": "El 08",
       "url": "https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ"
@@ -9159,6 +9195,24 @@
     },
     {
       "album": {
+        "name": "El Cuadrito",
+        "url": "https://open.spotify.com/album/19X5PMlS8A7H1cGQUQ1XJ5"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166954,
+      "name": "El Cuadrito",
+      "url": "https://open.spotify.com/track/75kjqC5yfd9ugvL93TF6vY"
+    },
+    {
+      "album": {
         "name": "El de Bamoa",
         "url": "https://open.spotify.com/album/1HaHrvQmkaAXA4ZPNvgvb9"
       },
@@ -10932,7 +10986,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 236426,
       "name": "El Hombre del Equipo",
       "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
@@ -12290,7 +12344,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 219615,
       "name": "El N1 El Perfil o El Chavalon",
       "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
@@ -13026,7 +13080,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 175514,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
@@ -16058,7 +16112,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 185179,
       "name": "Formula One",
       "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
@@ -16478,7 +16532,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 125440,
       "name": "GC2",
       "url": "https://open.spotify.com/track/7ikSVS00cr9q0eLkZV5Wff"
@@ -18069,6 +18123,24 @@
     },
     {
       "album": {
+        "name": "Ja Ja Ja",
+        "url": "https://open.spotify.com/album/1X2BRf1jOdw2EWyP8MyuUn"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Ja Ja Ja",
+      "url": "https://open.spotify.com/track/19RSHNMecvp9ilGYt1AP4E"
+    },
+    {
+      "album": {
         "name": "Jack Sparrow",
         "url": "https://open.spotify.com/album/2oYid1RX6hsv4SCfi5W2aW"
       },
@@ -19073,6 +19145,28 @@
     },
     {
       "album": {
+        "name": "La Cachucha de Los Dodgers",
+        "url": "https://open.spotify.com/album/0GN4WD8YtH3hV2SOLACz3U"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        },
+        {
+          "name": "Los Alvarado",
+          "url": "https://open.spotify.com/artist/4GfywMlztnQFR7cmCqCigT"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "La Cachucha de Los Dodgers",
+      "url": "https://open.spotify.com/track/6zKGvSm3f7Qgzey3uDLWQ9"
+    },
+    {
+      "album": {
         "name": "La Cachucha Negra",
         "url": "https://open.spotify.com/album/5uer2UgYxHC2HEEUCU9oo8"
       },
@@ -19124,6 +19218,24 @@
       "duration_ms": 185429,
       "name": "La Caperucita",
       "url": "https://open.spotify.com/track/3MGsthYZjz56Lyl7bUkagd"
+    },
+    {
+      "album": {
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/1aNpPPQZ8GgUiddd70mvtt"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170083,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2V3zw8hfDqHIjsPppwTl40"
     },
     {
       "album": {
@@ -22622,7 +22734,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 245391,
       "name": "Los Porros",
       "url": "https://open.spotify.com/track/6ZMrcVHRBmD3ICTIRKbtYK"
@@ -23029,6 +23141,28 @@
     },
     {
       "album": {
+        "name": "Mafioso",
+        "url": "https://open.spotify.com/album/1sUdDccDqCdk7kR2tITqqt"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        },
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204768,
+      "name": "Mafioso",
+      "url": "https://open.spotify.com/track/5cPt47USeoA9feO0YX4xZO"
+    },
+    {
+      "album": {
         "name": "Magneto",
         "url": "https://open.spotify.com/album/3LZBjdQbfBo2h4Oa1mA7HS"
       },
@@ -23142,7 +23276,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 184847,
       "name": "Malandrin",
       "url": "https://open.spotify.com/track/3jRXaEb0C8Gz2w99Gvkmrg"
@@ -23160,7 +23294,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 254122,
       "name": "Malas Lenguas",
       "url": "https://open.spotify.com/track/0DtU2R24QIaTBhIofT1ZlV"
@@ -24040,7 +24174,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 163404,
       "name": "Mente Positiva",
       "url": "https://open.spotify.com/track/6fu7YqXTlDILJyCjgqwBmd"
@@ -24334,7 +24468,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 265791,
       "name": "Mi Pasado y Mi Presente - En Vivo",
       "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
@@ -26776,7 +26910,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 158517,
       "name": "Patrullon",
       "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
@@ -28150,6 +28284,28 @@
       "duration_ms": 181948,
       "name": "PXRRX",
       "url": "https://open.spotify.com/track/1xlpYlfTmPKP9m6ORRuqRv"
+    },
+    {
+      "album": {
+        "name": "Agushto Papa Presents: Hidden Gems Vol. 1",
+        "url": "https://open.spotify.com/album/1YZjlOb4atenIItM3ljEyC"
+      },
+      "artists": [
+        {
+          "name": "Agushto Papa",
+          "url": "https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS"
+        },
+        {
+          "name": "Grupo Ajedrez",
+          "url": "https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155541,
+      "name": "Que Chimba",
+      "url": "https://open.spotify.com/track/1Jlro1rJPEtVGkuZZvhRx7"
     },
     {
       "album": {
@@ -31130,7 +31286,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 204923,
       "name": "Super Cargado",
       "url": "https://open.spotify.com/track/7bsmK02VPHgsz5syHK1UqZ"
@@ -31170,7 +31326,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 185856,
       "name": "SUPERCHARGED",
       "url": "https://open.spotify.com/track/58c33wvOVysB63tVyU28wB"
@@ -33350,7 +33506,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 200849,
       "name": "Ya Nos Va Mejor",
       "url": "https://open.spotify.com/track/6OXp9rUM32eWH8nd9TPDBp"

@@ -3245,6 +3245,28 @@
     },
     {
       "album": {
+        "name": "Fly In Amber",
+        "url": "https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL"
+      },
+      "artists": [
+        {
+          "name": "Cousin",
+          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400209,
+      "name": "Fly In Amber",
+      "url": "https://open.spotify.com/track/54SfhFjcoqB5dwXVuIfbOi"
+    },
+    {
+      "album": {
         "name": "Fog / Shrine",
         "url": "https://open.spotify.com/album/5VmAI2tGjo2OKDXwN2RVhT"
       },
@@ -3296,7 +3318,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 405000,
       "name": "Forest City",
       "url": "https://open.spotify.com/track/6auvUbBN51G0V9rZeKzTBa"
@@ -5437,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "Steep Stims",
+        "url": "https://open.spotify.com/album/0zL30K7hlasu2LygmuK5EA"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133984,
+      "name": "No Pills U",
+      "url": "https://open.spotify.com/track/7qqXGvIXJeQopPy8wAq2X2"
+    },
+    {
+      "album": {
         "name": "weirdbloom",
         "url": "https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ"
       },
@@ -6952,7 +6992,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 285550,
       "name": "Seize",
       "url": "https://open.spotify.com/track/47wrcnRcVBcMhnlWs7h7km"

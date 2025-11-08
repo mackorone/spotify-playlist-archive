@@ -4355,6 +4355,28 @@
     },
     {
       "album": {
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223731,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
+    },
+    {
+      "album": {
         "name": "Cuatro Vientos (HUGEL Version)",
         "url": "https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v"
       },
@@ -6339,6 +6361,28 @@
     },
     {
       "album": {
+        "name": "Feel the Rhythm",
+        "url": "https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196339,
+      "name": "Feel the Rhythm",
+      "url": "https://open.spotify.com/track/7mnmhbOCsqpYnJg8en0j4D"
+    },
+    {
+      "album": {
         "name": "Find U",
         "url": "https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9"
       },
@@ -7142,7 +7186,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 242000,
       "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
       "url": "https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1"
@@ -7652,7 +7696,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 258515,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2"
@@ -12584,6 +12628,24 @@
       "duration_ms": 279344,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
+    },
+    {
+      "album": {
+        "name": "Dreams At Dusk Part I - Mirage",
+        "url": "https://open.spotify.com/album/1qf6lnED6A9YmsNLXfzfLJ"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217619,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/63JXEbhoCRypjCULbjX8Qw"
     },
     {
       "album": {
@@ -18216,7 +18278,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 186554,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY"

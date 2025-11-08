@@ -62741,6 +62741,28 @@
     },
     {
       "album": {
+        "name": "SWISH",
+        "url": "https://open.spotify.com/album/5B8st5Ki97PDiMRQO6Sbgc"
+      },
+      "artists": [
+        {
+          "name": "Bankyu",
+          "url": "https://open.spotify.com/artist/6IvROQtaYPleoVZOlxMqwG"
+        },
+        {
+          "name": "Wavyier",
+          "url": "https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "SWISH",
+      "url": "https://open.spotify.com/track/6nE8LWTucflSxq8MMOYE2N"
+    },
+    {
+      "album": {
         "name": "SWLYB",
         "url": "https://open.spotify.com/album/2dVuuCRoLkimqSBCMpxcec"
       },

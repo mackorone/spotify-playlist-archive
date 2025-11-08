@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: lovehead
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,990 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,996 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
 | 10 | [Das schönste Mädchen der Welt](https://open.spotify.com/track/54h7GhGTN7expLX1qYVe8P) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Das schönste Mädchen der Welt](https://open.spotify.com/album/2fuitv9wX2nfqTOLrPvoQh) | 3:00 |
 | 11 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 |
-| 12 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
-| 13 | [Erst wenn die Sterne](https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:15 |
+| 12 | [Erst wenn die Sterne](https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:15 |
+| 13 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
 | 14 | [Wärst du mir nie passiert](https://open.spotify.com/track/5SZEk5aStVnpNZEL3UDkHq) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Wärst du mir nie passiert](https://open.spotify.com/album/37jDHjcvjIRX0sf5iVUBgO) | 3:52 |
 | 15 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
-| 16 | [Hasskick](https://open.spotify.com/track/5reeQyPMtsR5eE4guN82HH) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Hasskick](https://open.spotify.com/album/19ZRqRa32RP3dnKnOYuGdT) | 2:24 |
-| 17 | [NEIN](https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [NEIN](https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT) | 2:10 |
-| 18 | [call me](https://open.spotify.com/track/3o5xs0n7mzfds8XIMpprzr) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [call me](https://open.spotify.com/album/3wgb5xHINzfClUvD4IMJWC) | 2:16 |
+| 16 | [NEIN](https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [NEIN](https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT) | 2:10 |
+| 17 | [call me](https://open.spotify.com/track/3o5xs0n7mzfds8XIMpprzr) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [call me](https://open.spotify.com/album/3wgb5xHINzfClUvD4IMJWC) | 2:16 |
+| 18 | [Hasskick](https://open.spotify.com/track/5reeQyPMtsR5eE4guN82HH) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Hasskick](https://open.spotify.com/album/19ZRqRa32RP3dnKnOYuGdT) | 2:24 |
 | 19 | [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:54 |
 | 20 | [OOTD](https://open.spotify.com/track/4U3edtNc6WtVLsjaWc6bZ6) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [OOTD](https://open.spotify.com/album/5uI3XadrVfI5iAPDMBnUdv) | 2:07 |
 | 21 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [BADDEST](https://open.spotify.com/track/3ArIm5QoJWaRkz3n4LTjL8) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [BADDEST](https://open.spotify.com/album/0M81pudkfdLaP1Pudbl5G0) | 2:07 |
 | 25 | [Die 1](https://open.spotify.com/track/0NRZIkVbmAqXtA7EZIY43b) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Die 1](https://open.spotify.com/album/5LDHZmcUlxn7rBR9xmwcGR) | 1:39 |
 | 26 | [Every You](https://open.spotify.com/track/0gxMVptwBuSC3kragNfCoQ) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Every You](https://open.spotify.com/album/0EHyqAlArvA0g6kVEqMSeo) | 5:14 |
-| 27 | [Nur wenn](https://open.spotify.com/track/28iR0Uen0UwVD5XeDiP0W4) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Nur wenn](https://open.spotify.com/album/25WPxK5pBvSuN5AvClVeWa) | 2:34 |
-| 28 | [Aschenbecher](https://open.spotify.com/track/4wsPwygeXbplj6tsagzHGE) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Aschenbecher](https://open.spotify.com/album/51ktaA0HdiIGNPRODnBEhN) | 2:48 |
+| 27 | [Aschenbecher](https://open.spotify.com/track/4wsPwygeXbplj6tsagzHGE) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Aschenbecher](https://open.spotify.com/album/51ktaA0HdiIGNPRODnBEhN) | 2:48 |
+| 28 | [Nur wenn](https://open.spotify.com/track/28iR0Uen0UwVD5XeDiP0W4) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Nur wenn](https://open.spotify.com/album/25WPxK5pBvSuN5AvClVeWa) | 2:34 |
 | 29 | [NICHT WIE DU](https://open.spotify.com/track/5GWmHv3zy4hVA8IPZvPsEh) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [NICHT WIE DU](https://open.spotify.com/album/1DppmzLtqjkkf4D7c9SPoR) | 1:58 |
 | 30 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
 | 31 | [Ghetto Angel](https://open.spotify.com/track/08C3BRXGvUQ3N819fcaEa7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Ghetto Angel](https://open.spotify.com/album/5MDSnPsUd3sqklnBIJV7KX) | 2:02 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
 | 43 | [I see all my girls](https://open.spotify.com/track/7nSAxvTZ6MLWmo9tNwhzMQ) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [4 stages of sleep](https://open.spotify.com/album/7L5bocORkONslMh2gG8I1z) | 3:43 |
 | 44 | [Memphis](https://open.spotify.com/track/5ESCkKKAhKZTTZ0sQ4dk0R) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Everything Got Too Sci\-Fi To Be Disco EP](https://open.spotify.com/album/0JdKdy348b4fYIsQdsnX2V) | 2:27 |
-| 45 | [Petermännchen](https://open.spotify.com/track/2DHBePFET5uDtgt4OsKW6o) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Petermännchen](https://open.spotify.com/album/7Avqdl8JUHE7etZqSBd1PG) | 3:31 |
-| 46 | [Bibis Beauty Palace](https://open.spotify.com/track/3TtiIluPhmqx8AOcXY5GMN) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW), [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q) | [Bibis Beauty Palace](https://open.spotify.com/album/0oNvl7gA4wuRMpRcI5LzrA) | 2:15 |
+| 45 | [Bibis Beauty Palace](https://open.spotify.com/track/3TtiIluPhmqx8AOcXY5GMN) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW), [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q) | [Bibis Beauty Palace](https://open.spotify.com/album/0oNvl7gA4wuRMpRcI5LzrA) | 2:15 |
+| 46 | [Petermännchen](https://open.spotify.com/track/2DHBePFET5uDtgt4OsKW6o) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Petermännchen](https://open.spotify.com/album/7Avqdl8JUHE7etZqSBd1PG) | 3:31 |
 | 47 | [Keep Talking](https://open.spotify.com/track/44jfB9HKuDpXn8RjzSxh5Y) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Keep Talking](https://open.spotify.com/album/6G6vBapM0ttf4Z8JPgXD2u) | 3:27 |
 | 48 | [Working In The Garden](https://open.spotify.com/track/1bHzayckfk3pnjzWeZynbf) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Working In The Garden](https://open.spotify.com/album/6BklUKKOfYdvlDTDlHPC8p) | 2:49 |
 | 49 | [passenger seat](https://open.spotify.com/track/3dtGmAbmjm3VsILtYkFf10) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [HOMESICK](https://open.spotify.com/album/03BfcKu7N2Hy7yZHLStwlV) | 1:45 |

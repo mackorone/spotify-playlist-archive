@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "album": {
         "name": "This Place Will Become Your Tomb",
         "url": "https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC"
       },
@@ -284,7 +302,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 127578,
       "name": "Guns and Ships",
       "url": "https://open.spotify.com/track/7m9XR7FquXLP1FewdAcNS9"
@@ -414,6 +432,28 @@
       "duration_ms": 140226,
       "name": "I Won't Say (I'm In Love)",
       "url": "https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi"
+    },
+    {
+      "album": {
+        "name": "Anastasia (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI"
+      },
+      "artists": [
+        {
+          "name": "Derek Klena",
+          "url": "https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw"
+        },
+        {
+          "name": "Christy Altomare",
+          "url": "https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225506,
+      "name": "In a Crowd of Thousands",
+      "url": "https://open.spotify.com/track/5cdvyKY2z1kySEnUKI0VuO"
     },
     {
       "album": {
@@ -560,6 +600,24 @@
       "duration_ms": 284632,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/65nvBvHi9EzhXbH1optmcF"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329800,
+      "name": "On Bended Knee",
+      "url": "https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3"
     },
     {
       "album": {

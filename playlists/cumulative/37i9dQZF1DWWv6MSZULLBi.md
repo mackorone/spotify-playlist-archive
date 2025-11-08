@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Bells Larsen
 
-1,407 songs - 3 day 12 hr 38 min
+1,408 songs - 3 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,7 +726,7 @@
 | [Live Another Life](https://open.spotify.com/track/21VqpvyZTzgAt2pSQn6zQm) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8), [Alexandria Maillot](https://open.spotify.com/artist/3Uh1hwQUVJLK5Srk4PosCK) | [Live Another Life](https://open.spotify.com/album/6ji57fAEn6UclRCNDCwzQI) | 3:08 | 2023-10-20 | 2024-02-24 |
 | [Living Again](https://open.spotify.com/track/6uZuPslAaUm01KtTAsFv5v) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5) | 3:57 | 2023-08-25 | 2024-01-27 |
 | [Lonely As I Can Be](https://open.spotify.com/track/6WJH5ayBk3kkpRreBcAJT3) | [Sleepy Jean](https://open.spotify.com/artist/3UgVXsc0DrK1yOouslYqKP) | [Lonely As I Can Be](https://open.spotify.com/album/2H0OI1clmTySCT3RlMBD4V) | 3:11 | 2023-04-28 | 2023-07-22 |
-| [Long Exposure](https://open.spotify.com/track/3IWhOgDozuUkzpIcmi4up3) | [The Town Council](https://open.spotify.com/artist/7xL3xiRU8HYbwDmDUym4aq) | [Long Exposure](https://open.spotify.com/album/5m8I230z4udm9ONYxNK33e) | 4:06 | 2025-09-12 |  |
+| [Long Exposure](https://open.spotify.com/track/3IWhOgDozuUkzpIcmi4up3) | [The Town Council](https://open.spotify.com/artist/7xL3xiRU8HYbwDmDUym4aq) | [Long Exposure](https://open.spotify.com/album/5m8I230z4udm9ONYxNK33e) | 4:06 | 2025-09-12 | 2025-11-08 |
 | [Long Overdue](https://open.spotify.com/track/4whkOVWt0QpzecWHMoxEax) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Long Overdue](https://open.spotify.com/album/0BpaWD72gyBDM6AS0jaVoi) | 4:02 | 2023-06-02 | 2023-07-22 |
 | [Long Way Home](https://open.spotify.com/track/7bdAC8Ek5kkG5fcaehFAx8) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU) | [Long Way Home](https://open.spotify.com/album/5uBPHgunonMzT5sDKzJlUe) | 4:02 | 2024-03-15 | 2024-05-04 |
 | [Long Way Home](https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Long Way Home](https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN) | 4:01 | 2024-06-28 | 2024-08-17 |
@@ -885,6 +885,7 @@
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-05-13 | 2022-11-19 |
 | [October Moon](https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [October Moon](https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp) | 4:06 | 2024-10-11 | 2025-04-22 |
 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 | 2025-05-30 | 2025-08-29 |
+| [off day](https://open.spotify.com/track/1oRVV0MGr5jza6NAGEQ2Nd) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [off day](https://open.spotify.com/album/1nIu38uixi5e1RFBpv25TE) | 3:12 | 2025-11-07 |  |
 | [Oh No! \- Edit](https://open.spotify.com/track/6WNz0P5M39PYy06ujl54Ku) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Oh No! \(Edit\)](https://open.spotify.com/album/1bRxGv1rHtNJmVb6pOXHkv) | 3:26 | 2025-05-23 | 2025-08-22 |
 | [Oh Vibrant Sky](https://open.spotify.com/track/6CBD4N091Oa27UxAt9ache) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB), [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Oh Vibrant Sky](https://open.spotify.com/album/0f20QPMxFp4bGctmw8Fxns) | 3:39 | 2024-04-12 | 2024-05-25 |
 | [Ohio](https://open.spotify.com/track/1OtDzhNCSiQsbihPA1SOni) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Ohio](https://open.spotify.com/album/3YoKNEBFmFbirIYtdKeUCw) | 2:41 | 2024-11-29 | 2025-05-10 |
@@ -1082,7 +1083,7 @@
 | [Slow Down](https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye of the Storm](https://open.spotify.com/album/77VQ2I9lStc8xdvLCra1RE) | 3:41 | 2025-08-15 | 2025-11-07 |
 | [Slow Motion](https://open.spotify.com/track/5OhrxjeiqLfFrsTWOSqw4m) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/4CfWX1bSC3U19c8J1gTuyj) | 2:57 | 2023-03-24 | 2023-03-29 |
 | [Slow Motion](https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/1CoSmqgRXyhy5vvI5hrDld) | 2:57 | 2023-03-24 | 2023-07-29 |
-| [Small Town Joan of Arc](https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [](https://open.spotify.com/album/null) | 3:51 | 2025-11-07 |  |
+| [Small Town Joan of Arc](https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 3:51 | 2025-11-07 |  |
 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-04-05 | 2024-09-07 |
 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 | 2022-05-13 | 2022-11-12 |
 | [Snakelife](https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Snakelife](https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU) | 4:37 | 2023-08-11 | 2023-09-09 |
@@ -1102,7 +1103,7 @@
 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 | 2023-10-21 |
 | [Somebody's son](https://open.spotify.com/track/3eq1spumrhz17arEFg3nwb) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Somebody's son](https://open.spotify.com/album/0EudaH2WvPORYmOZevX7xT) | 5:22 | 2024-03-15 | 2024-07-27 |
 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-03-22 | 2024-08-17 |
-| [Someday Is Today](https://open.spotify.com/track/6ZTcQwe5zWbp6Ly2wtB6dN) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [](https://open.spotify.com/album/null) | 3:19 | 2025-11-07 |  |
+| [Someday Is Today](https://open.spotify.com/track/6ZTcQwe5zWbp6Ly2wtB6dN) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [Everything Unfolding](https://open.spotify.com/album/4oeQDt6J3bFnBWhUU7jB0R) | 3:19 | 2025-11-07 |  |
 | [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 | 2022-05-13 | 2022-09-03 |
 | [Something About Getting Old](https://open.spotify.com/track/45BlGDXHRJ60UBqMAgdxh5) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [A Long & Distant Wave](https://open.spotify.com/album/5sg9ifMYpHZhZJGq2e5EH1) | 4:50 | 2024-04-26 | 2024-09-14 |
 | [something i can't afford](https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [something I can't afford](https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n) | 3:01 | 2024-05-24 | 2024-10-12 |

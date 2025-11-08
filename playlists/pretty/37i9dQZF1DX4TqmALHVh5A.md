@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Feu! Chatterton
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,550 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,578 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 12 | [Mythique](https://open.spotify.com/track/1lRMPEt5awlduYQwRXy5Kw) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5) | [Celui qui fait tout pour les autres](https://open.spotify.com/album/2ebymbeuRfo5wl6j5y8CjQ) | 3:12 |
 | 13 | [invisible](https://open.spotify.com/track/0FC9BRYWbLzJTliCxcPZYA) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [invisible](https://open.spotify.com/album/0MDwD4UQN2pBZtPrcB1wdr) | 2:39 |
 | 14 | [Hardcore](https://open.spotify.com/track/6yY37qebXqwV4IsgNn0ARw) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Hardcore](https://open.spotify.com/album/2zuRI4MJgvQulgZUkdnwBJ) | 2:59 |
-| 15 | [WE ARE GOOD](https://open.spotify.com/track/4tCJiYWzupzmbDqBcpsk3j) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB), [Nelson Martins](https://open.spotify.com/artist/0wSj9gOqWZcso4HrCXaumv), [Enzo Gabert](https://open.spotify.com/artist/4DFzjRviucUxtYObVcasw5), [Yan Stefani](https://open.spotify.com/artist/4jc9mNxQ9mQdspG6BW2zW0) | [WE ARE GOOD](https://open.spotify.com/album/0ASszD6NmNloTOIgM9JDCp) | 2:16 |
+| 15 | [WE ARE GOOD](https://open.spotify.com/track/4tCJiYWzupzmbDqBcpsk3j) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [WE ARE GOOD](https://open.spotify.com/album/0ASszD6NmNloTOIgM9JDCp) | 2:16 |
 | 16 | [Partir](https://open.spotify.com/track/57VBmGojxzW7mOWe7IUX6s) | [Potochkine](https://open.spotify.com/artist/4g6krvxWpV8Uy11mt1hJnp) | [SANG D'ENCRE](https://open.spotify.com/album/2BJ32JFsa2gkkoMYFuFo3R) | 3:41 |
 | 17 | [c'est toi qui me dis](https://open.spotify.com/track/2q6lAeFiPnzkRIbmYI0Xzl) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [c'est toi qui me dis](https://open.spotify.com/album/6g3UezgW6sV2Qa6Uj0LuBH) | 3:11 |
-| 18 | [Playground](https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [](https://open.spotify.com/album/null) | 3:42 |
+| 18 | [Playground](https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [BREAK](https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK) | 3:42 |
 | 19 | [RAGE](https://open.spotify.com/track/5NlCOpIwwKXz2nTu3JSaZA) | [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [RAGE](https://open.spotify.com/album/3NcvHIonSqFpWdgPvWDem2) | 2:55 |
 | 20 | [Les garçons et les filles](https://open.spotify.com/track/2QeDqkNlNlT3pVd8nAVyrE) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Les garçons et les filles](https://open.spotify.com/album/7rSK2XjJX1ShoiaBhhbNlk) | 3:35 |
 | 21 | [A moitié dans la fête](https://open.spotify.com/track/2mVsxBYV36Vkr6iRtyWUos) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [A moitié dans la fête](https://open.spotify.com/album/5gmLS69GBaMZ4IhK7Wvybb) | 3:05 |

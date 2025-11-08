@@ -2,9 +2,9 @@
 
 ### [Hype](https://open.spotify.com/playlist/37i9dQZF1DX4eRPd9frC1m)
 
-> Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
+> Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a> 💪💥
 
-444 songs - 23 hr 54 min
+445 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [FEELING GUD](https://open.spotify.com/track/0suLmBuEbatdochI4tHduq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [FEELING GUD](https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC) | 3:10 | 2021-11-19 | 2024-09-21 |
 | [Fever Dream](https://open.spotify.com/track/7nBFYnnuzZdqc6FN0elfl6) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Fever Dream](https://open.spotify.com/album/6Tj0ZOuQ5lxwtLgwQjErfE) | 3:44 | 2021-11-19 | 2022-01-08 |
 | [Fight Back](https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Fight Back](https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75) | 3:02 | 2021-11-19 | 2024-04-13 |
+| [FIGHT OR FLIGHT](https://open.spotify.com/track/4uJ7Y0ux0L4zJtJCnOCYKD) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [FIGHT OR FLIGHT](https://open.spotify.com/album/3uvqOnCn4H1zJ99zcGb4jI) | 2:40 | 2025-11-07 |  |
 | [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 | 2024-11-08 | 2025-04-26 |
 | [Five Hours \- CELO & MACHAKI Remix](https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [Five Hours \(CELO & MACHAKI Remix\)](https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq) | 2:09 | 2025-07-11 | 2025-09-30 |
 | [FIX ME UP](https://open.spotify.com/track/5ZMTsepLQto8YblpbgyG5I) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [FIX ME UP](https://open.spotify.com/album/5kAgsu2Yqtc15bjtfNvsXX) | 2:15 | 2025-05-30 | 2025-08-08 |
@@ -236,7 +237,7 @@
 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 | 2023-08-18 | 2023-09-10 |
 | [MIDDLE FU](https://open.spotify.com/track/01pBawVs9cqQgmLpOplBJF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 3:25 | 2023-08-18 | 2023-09-10 |
 | [MIND OF A GENIUS](https://open.spotify.com/track/3NVYXqjBYy5caVac5RRNxj) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [ANTI\-SOBER](https://open.spotify.com/album/0CC64NUfD1WQSdXyqvX7hL) | 2:20 | 2021-11-19 | 2022-01-08 |
-| [Mind Pluck](https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Mind Pluck](https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz) | 4:30 | 2023-08-04 |  |
+| [Mind Pluck](https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Mind Pluck](https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz) | 4:30 | 2023-08-04 | 2025-11-08 |
 | [Misery](https://open.spotify.com/track/3KHKpb11TVJ3ReHLpIFZyR) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [Misery](https://open.spotify.com/album/1icb2pGEfE8Tj35TvmOsUy) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [Mitosis](https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Mitosis](https://open.spotify.com/album/41alHDUXIm46q49d1uO1fq) | 3:43 | 2022-01-07 | 2022-07-29 |
 | [MOMENT](https://open.spotify.com/track/5YKwIYALi5TnCkKnJ5fSX2) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [MOMENT](https://open.spotify.com/album/0ubLDnKmOqfY51vQpwcoYF) | 3:02 | 2025-04-25 | 2025-08-27 |

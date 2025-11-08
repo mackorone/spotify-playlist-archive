@@ -4,7 +4,7 @@
 
 > Éxitos de Trap Latino 📸 Bhavi.
 
-566 songs - 1 day 7 hr 22 min
+567 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [SONIDO DEL AÑO](https://open.spotify.com/track/1QNifxPOa17DtmPn54Ac4d) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 2:49 | 2023-09-08 | 2024-05-04 |
 | [SORNERO](https://open.spotify.com/track/1kKhy7DEPN4fUj8OPIJrOk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [SORNERO](https://open.spotify.com/album/2MV34WRwGIClaHGjhZmK1f) | 3:28 | 2024-11-01 | 2025-04-26 |
 | [SR DE LOS CIELOS](https://open.spotify.com/track/3iug2F7ByIBMVkmLGgt3ir) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:54 | 2021-12-06 | 2025-06-21 |
-| [Stripclub](https://open.spotify.com/track/0AjusvLswoaBF2b0NqxqXi) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Stripclub](https://open.spotify.com/album/0wSPoVPKyJp6oaLro9sKak) | 2:18 | 2025-05-02 |  |
+| [Stripclub](https://open.spotify.com/track/0AjusvLswoaBF2b0NqxqXi) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Stripclub](https://open.spotify.com/album/0wSPoVPKyJp6oaLro9sKak) | 2:18 | 2025-05-02 | 2025-11-08 |
 | [Sucio Guapo](https://open.spotify.com/track/3O6qgosmTPliBdsuCIOqMh) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Sucio Guapo](https://open.spotify.com/album/6U4wNHIQPFMrKKSxbcZUvH) | 3:28 | 2022-08-12 | 2024-03-30 |
 | [Superpoderes](https://open.spotify.com/track/4BHCQ6e9Ig5fpPqQuLMNHl) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Superpoderes](https://open.spotify.com/album/1mcR90ap9C4fw4UihjXvNt) | 2:39 | 2022-08-26 | 2023-01-21 |
 | [Surfeando el Tsunami](https://open.spotify.com/track/5VxQlDyKX3gpdOXKTXUngX) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Surfeando el Tsunami](https://open.spotify.com/album/6zeSnARpo1iYSwPhgdfKdv) | 2:41 | 2021-12-06 | 2022-05-07 |
@@ -574,5 +574,6 @@
 | [Zodiaco](https://open.spotify.com/track/3NrAgRyxGJ4wD4lIxspNjq) | [Custom](https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [Zodiaco](https://open.spotify.com/album/7pbWV4PAw7qNMCLrJBnqb9) | 4:00 | 2024-06-18 |  |
 | [Zona Pistola](https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Zona Pistola](https://open.spotify.com/album/6S9WkhYhjNzBYhkDDqH1Qf) | 2:56 | 2022-02-04 | 2022-05-07 |
 | [¿CUANTAS VECES?](https://open.spotify.com/track/1akpNpmjtTlLxwTnkM8uvC) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 3:08 | 2023-09-08 | 2024-06-01 |
+| [⁠En el Ritz](https://open.spotify.com/track/1Ul0TcIqDRguYzr0A8Vz75) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:49 | 2025-11-07 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

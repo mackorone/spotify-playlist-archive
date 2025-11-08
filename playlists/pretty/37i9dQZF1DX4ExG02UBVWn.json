@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20371,
+  "num_followers": 20374,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Ugh",
-        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Half Full",
-      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Price You Pay",
         "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 183000,
       "name": "Price You Pay",
       "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Ugh",
+        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Half Full",
+      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 175291,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Life's a Bitch, I Just Need an Early Night",
         "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 275156,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/7qipQLUoNRpQrxRgrzbFoU"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 175291,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
+        "name": "Super Sad Generation",
+        "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
       },
       "artists": [
         {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 232573,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
+      "duration_ms": 187626,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Super Sad Generation",
-        "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         }
       ],
-      "duration_ms": 187626,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT"
+      "duration_ms": 232573,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "New Hands/Writers Block",
-        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
-      },
-      "artists": [
-        {
-          "name": "Liv Walker",
-          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
-        }
-      ],
-      "duration_ms": 174015,
-      "name": "New Hands/Writers Block",
-      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 256127,
       "name": "At What Cost",
       "url": "https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "New Hands/Writers Block",
+        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "duration_ms": 174015,
+      "name": "New Hands/Writers Block",
+      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "No Place for Patience, Vol. 3",
-        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "Pingu",
-      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "The Way/A While Now",
         "url": "https://open.spotify.com/album/0oNzjicO5Ygztg07WOKh1s"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 121359,
       "name": "A While Now",
       "url": "https://open.spotify.com/track/7IoaHWlY2nd7OQl79TVxoM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "No Place for Patience, Vol. 3",
+        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Pingu",
+      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
-      },
-      "artists": [
-        {
-          "name": "MANIK MC",
-          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
-        },
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
-        },
-        {
-          "name": "R-Kay",
-          "url": "https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "West End",
         "url": "https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 151000,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
+      },
+      "artists": [
+        {
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        },
+        {
+          "name": "R-Kay",
+          "url": "https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "White Doves",
-        "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
-      },
-      "artists": [
-        {
-          "name": "Aanya Martin",
-          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
-        }
-      ],
-      "duration_ms": 284120,
-      "name": "White Doves",
-      "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 352999,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "White Doves",
+        "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
+      },
+      "artists": [
+        {
+          "name": "Aanya Martin",
+          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
+        }
+      ],
+      "duration_ms": 284120,
+      "name": "White Doves",
+      "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Extinction",
-        "url": "https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04"
-      },
-      "artists": [
-        {
-          "name": "Sofia Grant",
-          "url": "https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI"
-        }
-      ],
-      "duration_ms": 291349,
-      "name": "Extinction",
-      "url": "https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 207857,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Extinction",
+        "url": "https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04"
+      },
+      "artists": [
+        {
+          "name": "Sofia Grant",
+          "url": "https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI"
+        }
+      ],
+      "duration_ms": 291349,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r"
     },
     {
       "added_at": "2025-08-07 15:52:15",

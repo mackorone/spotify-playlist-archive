@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314367,
+      "name": "Please Follow",
+      "url": "https://open.spotify.com/track/1xbrpQQJy7bBN5y4Ch9xoC"
+    },
+    {
+      "album": {
         "name": "Forever & Ever",
         "url": "https://open.spotify.com/album/7MEH4LcjNvaLRMh27yxABB"
       },

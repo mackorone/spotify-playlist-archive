@@ -1,6 +1,6 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 909562,
+  "num_followers": 909504,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-09-23 10:04:38",
       "album": {
-        "name": "Green Noise For Sleep",
-        "url": "https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1"
-      },
-      "artists": [
-        {
-          "name": "Mind Noises",
-          "url": "https://open.spotify.com/artist/3zopqDmnylp1biwM4hg2gN"
-        }
-      ],
-      "duration_ms": 150966,
-      "name": "Pouring Noise",
-      "url": "https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX"
-    },
-    {
-      "added_at": "2025-09-23 10:04:38",
-      "album": {
         "name": "Rainforest Soundscapes",
         "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2025-09-23 10:04:38",
       "album": {
-        "name": "Emerald Meadows (Green Noise)",
-        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1"
       },
       "artists": [
         {
-          "name": "Inlet Noise",
-          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+          "name": "Mind Noises",
+          "url": "https://open.spotify.com/artist/3zopqDmnylp1biwM4hg2gN"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Enigmatic Calm - Green Noise",
-      "url": "https://open.spotify.com/track/6Cuk8wnlzCQgaTW0RLqRtg"
+      "duration_ms": 150966,
+      "name": "Pouring Noise",
+      "url": "https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX"
     },
     {
       "added_at": "2025-09-23 10:04:38",
@@ -583,6 +567,22 @@
       "duration_ms": 261807,
       "name": "Iris Sanctuary",
       "url": "https://open.spotify.com/track/1menvjvEHJqu0v1tPZOSf1"
+    },
+    {
+      "added_at": "2025-09-23 10:04:38",
+      "album": {
+        "name": "Emerald Meadows (Green Noise)",
+        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Enigmatic Calm - Green Noise",
+      "url": "https://open.spotify.com/track/6Cuk8wnlzCQgaTW0RLqRtg"
     },
     {
       "added_at": "2025-09-23 10:04:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-09-23 10:04:38",
       "album": {
-        "name": "Scandinavian waters",
-        "url": "https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge"
-      },
-      "artists": [
-        {
-          "name": "FJORD",
-          "url": "https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "V\u00e4rnen",
-      "url": "https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK"
-    },
-    {
-      "added_at": "2025-09-23 10:04:38",
-      "album": {
         "name": "Embrace The Rain",
         "url": "https://open.spotify.com/album/0fEyDdutiq26DBzd0eIjFw"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 155250,
       "name": "Perfect Forest Rain",
       "url": "https://open.spotify.com/track/02IW5y4FjEqwWVtNeQO2o9"
+    },
+    {
+      "added_at": "2025-09-23 10:04:38",
+      "album": {
+        "name": "Scandinavian waters",
+        "url": "https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge"
+      },
+      "artists": [
+        {
+          "name": "FJORD",
+          "url": "https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "V\u00e4rnen",
+      "url": "https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK"
     },
     {
       "added_at": "2025-09-23 10:04:38",
@@ -1339,34 +1339,18 @@
     {
       "added_at": "2025-09-23 10:04:38",
       "album": {
-        "name": "Noises Of Ambience",
-        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
+        "name": "The Millpond VIII",
+        "url": "https://open.spotify.com/album/1Ct9yzk5D9157Lg1Y8VHoV"
       },
       "artists": [
         {
-          "name": "Thunderive",
-          "url": "https://open.spotify.com/artist/6kiS6SmEZCpgDczXhYXlHK"
+          "name": "Elberry",
+          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
         }
       ],
-      "duration_ms": 127059,
-      "name": "White Noise Rain for Baby Sleep",
-      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
-    },
-    {
-      "added_at": "2025-09-23 10:04:38",
-      "album": {
-        "name": "Sleep Rain",
-        "url": "https://open.spotify.com/album/3oRN8iIXisYNaL5p9qbgaV"
-      },
-      "artists": [
-        {
-          "name": "Sleep, Study, Focus",
-          "url": "https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Fall Asleep In The Rainforest",
-      "url": "https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM"
+      "duration_ms": 166570,
+      "name": "The Millpond VIII",
+      "url": "https://open.spotify.com/track/19WatVcuKMIyaNA1oo6gf3"
     },
     {
       "added_at": "2025-09-23 10:04:38",
@@ -1387,6 +1371,38 @@
     {
       "added_at": "2025-09-23 10:04:38",
       "album": {
+        "name": "Sleep Rain",
+        "url": "https://open.spotify.com/album/3oRN8iIXisYNaL5p9qbgaV"
+      },
+      "artists": [
+        {
+          "name": "Sleep, Study, Focus",
+          "url": "https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Fall Asleep In The Rainforest",
+      "url": "https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM"
+    },
+    {
+      "added_at": "2025-09-23 10:04:38",
+      "album": {
+        "name": "Noises Of Ambience",
+        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
+      },
+      "artists": [
+        {
+          "name": "Thunderive",
+          "url": "https://open.spotify.com/artist/6kiS6SmEZCpgDczXhYXlHK"
+        }
+      ],
+      "duration_ms": 127059,
+      "name": "White Noise Rain for Baby Sleep",
+      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
+    },
+    {
+      "added_at": "2025-09-23 10:04:38",
+      "album": {
         "name": "Emerald Equilibrium (Green Noise)",
         "url": "https://open.spotify.com/album/34POhvSxWfrBsKXbIzdtYA"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 164000,
       "name": "Emerald Equilibrium - Green Noise",
       "url": "https://open.spotify.com/track/7DdAxIRZq2r2oZ5LpGzS7g"
-    },
-    {
-      "added_at": "2025-09-23 10:04:38",
-      "album": {
-        "name": "The Millpond VIII",
-        "url": "https://open.spotify.com/album/1Ct9yzk5D9157Lg1Y8VHoV"
-      },
-      "artists": [
-        {
-          "name": "Elberry",
-          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
-        }
-      ],
-      "duration_ms": 166570,
-      "name": "The Millpond VIII",
-      "url": "https://open.spotify.com/track/19WatVcuKMIyaNA1oo6gf3"
     },
     {
       "added_at": "2025-09-23 10:04:38",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2025-09-23 10:04:38",
       "album": {
-        "name": "Thunder & White Noise",
-        "url": "https://open.spotify.com/album/45Sp5SWlpyj6CWqiW2LoQm"
+        "name": "Rain Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj"
       },
       "artists": [
         {
-          "name": "Noise Nirvana",
-          "url": "https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM"
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Rainy White Noise",
-      "url": "https://open.spotify.com/track/3afauC1qTFNIjtCRihhpEt"
+      "duration_ms": 153054,
+      "name": "Rain Falling Down",
+      "url": "https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve"
     },
     {
       "added_at": "2025-09-23 10:04:38",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2025-09-23 10:04:38",
       "album": {
-        "name": "Rain Sounds Vol. 1",
-        "url": "https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj"
+        "name": "Thunder & White Noise",
+        "url": "https://open.spotify.com/album/45Sp5SWlpyj6CWqiW2LoQm"
       },
       "artists": [
         {
-          "name": "Worldwide Nature Studios",
-          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+          "name": "Noise Nirvana",
+          "url": "https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM"
         }
       ],
-      "duration_ms": 153054,
-      "name": "Rain Falling Down",
-      "url": "https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve"
+      "duration_ms": 205000,
+      "name": "Rainy White Noise",
+      "url": "https://open.spotify.com/track/3afauC1qTFNIjtCRihhpEt"
     },
     {
       "added_at": "2025-09-23 10:04:38",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-09-23 10:04:38",
       "album": {
-        "name": "Rain Healing",
-        "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
-      },
-      "artists": [
-        {
-          "name": "Heal Your Soul",
-          "url": "https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Eternal Rain",
-      "url": "https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB"
-    },
-    {
-      "added_at": "2025-09-23 10:04:38",
-      "album": {
         "name": "Coastal Relaxation",
         "url": "https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 190250,
       "name": "Morning Waves Monterey County",
       "url": "https://open.spotify.com/track/1d7oQ7sOvgUFiq6G7X3eIO"
+    },
+    {
+      "added_at": "2025-09-23 10:04:38",
+      "album": {
+        "name": "Rain Healing",
+        "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
+      },
+      "artists": [
+        {
+          "name": "Heal Your Soul",
+          "url": "https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Eternal Rain",
+      "url": "https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB"
     },
     {
       "added_at": "2025-09-23 10:04:38",

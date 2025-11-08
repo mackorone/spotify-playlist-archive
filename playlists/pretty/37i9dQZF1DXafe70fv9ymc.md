@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,976 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,981 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 6 | [Bend](https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Out of the Blue](https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb) | 3:12 |
 | 7 | [Oroma](https://open.spotify.com/track/3o24yEM5aaiJIkJvdVmOH8) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Oroma](https://open.spotify.com/album/4gGIM7deWJhmmVli9JGskW) | 2:16 |
 | 8 | [Four Rounds](https://open.spotify.com/track/1OTzF1P0GumLThWaXrMKrK) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Swadu](https://open.spotify.com/artist/0sT2f64cwU0t11bxv2Sy1y) | [Four Rounds](https://open.spotify.com/album/3dm1skw86X03fWunBlOnYM) | 3:24 |
-| 9 | [Bipolar \(with Minz\)](https://open.spotify.com/track/75kDsoL9ep9xfGqrnYmPYn) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [](https://open.spotify.com/album/null) | 2:50 |
+| 9 | [Bipolar \(with Minz\)](https://open.spotify.com/track/75kDsoL9ep9xfGqrnYmPYn) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [TRINITY](https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ) | 2:50 |
 | 10 | [Buss It](https://open.spotify.com/track/1lHKhXQaVQEF9TRzspZw4N) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/1kl2GoivQlzwmw77mq9ejm) | 2:47 |
 | 11 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 |
 | 12 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,106 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,114 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 | 8 | [Maboko](https://open.spotify.com/track/5tNzdsCQbxjo632rWVoZuq) | [Alejandro Alca](https://open.spotify.com/artist/3O3rpyWJDQDFthAQ63Mhly) | [Maboko](https://open.spotify.com/album/1OAcOmAhcTSbI9JwEHIzsy) | 3:24 |
 | 9 | [Mirror Dance](https://open.spotify.com/track/45ls6TMum6GwAFIsstwJJ6) | [Afefe Iku](https://open.spotify.com/artist/1wyvNzqxNicz6tQP1JzOhu) | [Artifacts Of Pottery Vessels](https://open.spotify.com/album/2CV7taZek4X8MT71Gz91BD) | 8:33 |
 | 10 | [Ay](https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ay](https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7) | 4:06 |
-| 11 | [Si Te Vas \- Radio Edit](https://open.spotify.com/track/1J7WCU7FNzT9440dKxn287) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Si Te Vas](https://open.spotify.com/album/62cDczlPA7RnHTNvsiA9uf) | 3:42 |
+| 11 | [Si Te Vas \- Radio Edit](https://open.spotify.com/track/1J7WCU7FNzT9440dKxn287) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO) | [Si Te Vas](https://open.spotify.com/album/62cDczlPA7RnHTNvsiA9uf) | 3:42 |
 | 12 | [Muy Bien \- Oscar G 305 Mix](https://open.spotify.com/track/1yv1hXMEl4xFgkI3fMMzPD) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Oscar G](https://open.spotify.com/artist/6gplvqXKXT8Be6C8ZeKoqr) | [Muy Bien](https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc) | 6:54 |
 | 13 | [WELE WELE](https://open.spotify.com/track/7h2XSRLTwmgiCdYAwWmsEi) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [WELE WELE](https://open.spotify.com/album/4FixdHMAPSKssXklfDDuMh) | 7:02 |
 | 14 | [Oya](https://open.spotify.com/track/1McC5njaF0NSTLSO4cwUDp) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Brenda Navarrete](https://open.spotify.com/artist/2MaFPhDJ3bAflMWMXV5Z97), [Team Distant](https://open.spotify.com/artist/44vSsHayaApaYzZuOedry4) | [Oya](https://open.spotify.com/album/7L2MXizcK43Z6Osfa1BGn9) | 5:26 |

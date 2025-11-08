@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 607 songs - 1 day 15 hr 43 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 608 songs - 1 day 15 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -614,6 +614,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 604 | [给抱着盒子的姑娘](https://open.spotify.com/track/5kpqZy4npLRTd8AEjkV6YH) | [宋冬野](https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo) | [安和桥北](https://open.spotify.com/album/4MTEs0gR5jeInhPAu5aZkD) | 2:05 |
 | 605 | [Love Is Such a Funny Thing](https://open.spotify.com/track/0ZclKGumi1NNBLFbz3LEsG) | [Tiernan & Joscelin](https://open.spotify.com/artist/0ZxaF7oURARiDTzA2uv92K) | ["Pinch Me, I Think I'm Dreaming": Valentine's Day](https://open.spotify.com/album/7dzprEofLH2oDXJ6WnzcSG) | 1:26 |
 | 606 | [Thumblove](https://open.spotify.com/track/0iMrXC33Z7YO6kF61P2orq) | [Tiernan & Joscelin](https://open.spotify.com/artist/0ZxaF7oURARiDTzA2uv92K) | ["I Can't Set Your Heart on Fire": Valentine's Day](https://open.spotify.com/album/4NOzisjTQfdakIbefTCyJZ) | 2:18 |
-| 607 | [Bach, JS: Violin Concerto No\. 2 in E Major, BWV 1042: I\. Allegro](https://open.spotify.com/track/5d4AX3OJIKLgh5sgsb4ikA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Violin Concertos & Double Concerto](https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR) | 9:02 |
+| 607 | [ttgwh](https://open.spotify.com/track/1YDEfY4n05BucPJIW1BalS) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Tell The Ghost Welcome Home](https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp) | 1:14 |
+| 608 | [Bach, JS: Violin Concerto No\. 2 in E Major, BWV 1042: I\. Allegro](https://open.spotify.com/track/5d4AX3OJIKLgh5sgsb4ikA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Violin Concertos & Double Concerto](https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR) | 9:02 |
 
-Snapshot ID: `AAAH/d1PbMJpVmvPPFlo7T9MK7YezOya`
+Snapshot ID: `AAAH/xo/awCqcGz45/cDmYv4uJy1p/3r`

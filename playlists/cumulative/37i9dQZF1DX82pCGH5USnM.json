@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "ANTILOOP",
+        "url": "https://open.spotify.com/album/1tRaExObERYmO5FPCWKOel"
+      },
+      "artists": [
+        {
+          "name": "Bantu Jafari",
+          "url": "https://open.spotify.com/artist/6yYZzgfZlTAZ5c5FDr78Zl"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184363,
+      "name": "ANTILOOP",
+      "url": "https://open.spotify.com/track/4fB6CbtRktj7m9d7Cmjf9G"
+    },
+    {
+      "album": {
         "name": "Aphex Wins",
         "url": "https://open.spotify.com/album/1CRHiiWboQ9ENAdSwdt8As"
       },
@@ -3042,6 +3060,24 @@
       "duration_ms": 153510,
       "name": "Coquelicot",
       "url": "https://open.spotify.com/track/1yMiMLEVBWals38tiLThLR"
+    },
+    {
+      "album": {
+        "name": "Coral Leaf",
+        "url": "https://open.spotify.com/album/2QjvZjtsULGQGyHaQj0avt"
+      },
+      "artists": [
+        {
+          "name": "Maison Lune",
+          "url": "https://open.spotify.com/artist/6QxpDDnrrYLloULqIeJAOw"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Coral Leaf",
+      "url": "https://open.spotify.com/track/5k2mPZEgCYbvmJSwPZoXTA"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 81515,
+  "num_followers": 81534,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ4iUkd0PfGsYkbXWqcMzhuNSlFm",
+  "snapshot_id": "AAAAAPFJjdDH5iMpA/HF/k7JbnoYxfHc",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:34",
+      "album": {
+        "name": "Dare to Fly (Brazilian Version)",
+        "url": "https://open.spotify.com/album/4sv6sHhnthTwBY8KuQqWYL"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 337894,
+      "name": "Dare to Fly - Brazilian Version",
+      "url": "https://open.spotify.com/track/0ybsazJTUH0PyjA8RAYTP2"
+    },
     {
       "added_at": "2025-10-16 04:00:18",
       "album": {
@@ -43,6 +59,26 @@
       "duration_ms": 222565,
       "name": "The Diamond",
       "url": "https://open.spotify.com/track/7fqZbjcr0ZHxckKZNlW76v"
+    },
+    {
+      "added_at": "2025-11-07 05:00:34",
+      "album": {
+        "name": "Sir Charles (Calypso)",
+        "url": "https://open.spotify.com/album/08qVwxWNjGvtHJBB1pSOlx"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Robert Greenidge",
+          "url": "https://open.spotify.com/artist/0qLI2jjlYqBgeJqgOqJaSR"
+        }
+      ],
+      "duration_ms": 378686,
+      "name": "Sir Charles - Calypso",
+      "url": "https://open.spotify.com/track/2rLvRE09NWrBUefhtf1NKH"
     },
     {
       "added_at": "2025-09-26 04:00:27",
@@ -135,22 +171,6 @@
       "duration_ms": 249725,
       "name": "Fancy Footwork",
       "url": "https://open.spotify.com/track/3AEZpQORvCwBWMURTQwmeu"
-    },
-    {
-      "added_at": "2025-08-01 04:00:21",
-      "album": {
-        "name": "Inyo Moon",
-        "url": "https://open.spotify.com/album/68NcXHQ669Rmy6PdEA3kMH"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        }
-      ],
-      "duration_ms": 265844,
-      "name": "Inyo Moon",
-      "url": "https://open.spotify.com/track/5xK3mnfc9FdOhpAh8V0nqe"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -511,22 +531,6 @@
       "duration_ms": 248760,
       "name": "Let's Talk",
       "url": "https://open.spotify.com/track/2FIlTiEB1evMojZoQICzkP"
-    },
-    {
-      "added_at": "2025-01-03 05:00:20",
-      "album": {
-        "name": "Let's Get Lost",
-        "url": "https://open.spotify.com/album/0qzKCFdmGVeygq4y5JVxz3"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 265998,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/7CMTV4ETCs5mX0kOToof9w"
     },
     {
       "added_at": "2025-01-24 05:00:25",

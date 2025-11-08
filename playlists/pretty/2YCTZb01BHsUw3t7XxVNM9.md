@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[超棒的企鹅](https://open.spotify.com/user/megustager) - 734 likes - 521 songs - 1 day 12 hr 7 min
+[超棒的企鹅](https://open.spotify.com/user/megustager) - 734 likes - 522 songs - 1 day 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -529,5 +529,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 519 | [Tempted by the Darkside](https://open.spotify.com/track/1lWd105EGrmS8LTOPwamkj) | [Aoi Sumito](https://open.spotify.com/artist/1LYxLNWGFFHFsV2022FIgi) | [Invitation to the Fallen](https://open.spotify.com/album/3nMIykEoDIgjCN0pfcdKmH) | 4:23 |
 | 520 | [Deus Ex Machina](https://open.spotify.com/track/2HhFqOIzuqtOWc9m4faTOr) | [Hommarju](https://open.spotify.com/artist/76V0LQ9DlR2N5tcn0ZworW) | [The Gothic](https://open.spotify.com/album/5c91CcmUF2Jd3PgC1eYUPc) | 3:01 |
 | 521 | [WCBTH](https://open.spotify.com/track/75nHY2t28llqsULJ5ufYMN) | [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [IRREPARABLE HARDCORE IS BACK 2 鳳雷蘖華 ～ホウライゲッカ～](https://open.spotify.com/album/4lrzI4S5ghiPY8tWYni66C) | 2:56 |
+| 522 | [AYAKASHI](https://open.spotify.com/track/2lGHcwiOOUB74QSzsvuX9P) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Joe Fight](https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u) | [AYAKASHI](https://open.spotify.com/album/257rsNevRVxyF9BkOp1kN0) | 2:14 |
 
-Snapshot ID: `AAACZ5eC73AisT+GoexCqolWRcun6mz1`
+Snapshot ID: `AAACaGjFp7C8YzGPwYPGPjk59YRg1QFm`

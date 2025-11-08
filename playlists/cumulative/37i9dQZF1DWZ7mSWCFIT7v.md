@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-514 songs - 1 day 17 hr 11 min
+516 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,9 +180,10 @@
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2025-07-17 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2025-07-17 |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 | 2025-07-17 |
+| [Fly In Amber](https://open.spotify.com/track/54SfhFjcoqB5dwXVuIfbOi) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:40 | 2025-11-07 |  |
 | [Fog](https://open.spotify.com/track/1KBddz4B293HkDtfFnRbJQ) | [Flame 1](https://open.spotify.com/artist/5XHpF80rFg0bBBA6vq1sj4) | [Fog / Shrine](https://open.spotify.com/album/5VmAI2tGjo2OKDXwN2RVhT) | 5:13 | 2021-10-06 | 2022-07-06 |
 | [Footprints In Solid Rock \- Beatrice Dillon Remix](https://open.spotify.com/track/0pxLDHQqDqPhlnd7tAGIWj) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN), [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97) | [Remixes \- 2](https://open.spotify.com/album/4JY2xSBqgCapi5p6LDIJfV) | 5:38 | 2021-10-06 | 2025-07-10 |
-| [Forest City](https://open.spotify.com/track/6auvUbBN51G0V9rZeKzTBa) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Forest City](https://open.spotify.com/album/086CiaRjEtfNhrgA7pfmKa) | 6:45 | 2025-03-14 |  |
+| [Forest City](https://open.spotify.com/track/6auvUbBN51G0V9rZeKzTBa) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Forest City](https://open.spotify.com/album/086CiaRjEtfNhrgA7pfmKa) | 6:45 | 2025-03-14 | 2025-11-08 |
 | [Forest Drone](https://open.spotify.com/track/5Aj13SHNqwpAQypproWsLd) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs) | [Forest Drone](https://open.spotify.com/album/16ncAItevXqiwJ8d42taWq) | 4:47 | 2024-07-02 | 2025-06-07 |
 | [Frame Dragging](https://open.spotify.com/track/172cPFPhhyr9YzhXCMnafi) | [Arthur Robert](https://open.spotify.com/artist/03fCnnnuTnIahIcmQ8NjM4) | [Frame Dragging](https://open.spotify.com/album/0KWxCPIZfrxBqpYsv0ik0d) | 5:08 | 2025-07-09 |  |
 | [Galaxy In Silence](https://open.spotify.com/track/2a8dq1e5hBeoiS0EyMCbd5) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Under Tangled Silence](https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea) | 5:58 | 2025-04-25 | 2025-10-18 |
@@ -296,6 +297,7 @@
 | [Need U](https://open.spotify.com/track/6W9OSgRWeBqulK20rvWqDp) | [Out of\_](https://open.spotify.com/artist/5jJictcua4HAXhz2voFh2C) | [Need U](https://open.spotify.com/album/5Fkn7LxxVhbKKqrYKYdbQa) | 4:04 | 2025-05-20 |  |
 | [Niffler](https://open.spotify.com/track/1UgC3l3kRvZSj1l94QnJ8b) | [Yilan](https://open.spotify.com/artist/7o1UX2zZS5cu7uwcQ5hVao), [Ren](https://open.spotify.com/artist/7J5Y3wpzYedPu0w7ZMrKgw) | [Suddenly I Am Falling](https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN) | 6:27 | 2021-10-06 | 2025-06-07 |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2025-07-17 |
+| [No Pills U](https://open.spotify.com/track/7qqXGvIXJeQopPy8wAq2X2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Steep Stims](https://open.spotify.com/album/0zL30K7hlasu2LygmuK5EA) | 2:13 | 2025-11-07 |  |
 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 | 2023-03-28 | 2025-06-21 |
 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 | 2021-10-06 | 2025-07-17 |
 | [Nutrition](https://open.spotify.com/track/2dT232m3tJqiGxhTQOWlKk) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Nutrition EP](https://open.spotify.com/album/1bOl840hJ6oAoDWn1qNYgV) | 4:25 | 2024-11-12 | 2025-09-16 |
@@ -376,7 +378,7 @@
 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 | 2022-08-03 | 2025-06-14 |
 | [SECTOR RUSH](https://open.spotify.com/track/3ievbchWTPXUS6J73YOK6F) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SECTOR RUSH](https://open.spotify.com/album/7E5BWYoYbF01XxznbRr4ox) | 6:10 | 2025-10-24 |  |
 | [Seele III](https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Seelen](https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3) | 4:35 | 2021-10-06 | 2025-07-17 |
-| [Seize](https://open.spotify.com/track/47wrcnRcVBcMhnlWs7h7km) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Seize](https://open.spotify.com/album/2UYwsc4MZ7ZjMxQxoWBEiv) | 4:45 | 2025-04-25 |  |
+| [Seize](https://open.spotify.com/track/47wrcnRcVBcMhnlWs7h7km) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Seize](https://open.spotify.com/album/2UYwsc4MZ7ZjMxQxoWBEiv) | 4:45 | 2025-04-25 | 2025-11-08 |
 | [Selvas De Ewaipanomas](https://open.spotify.com/track/5OhqhMt96PNX9wNczhhGg1) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 6:00 | 2021-10-06 | 2025-07-17 |
 | [Sequence 1](https://open.spotify.com/track/44X5riFMfptirxukXkArcN) | [Moiré](https://open.spotify.com/artist/67NPZerrxweLchiia4fFD4) | [No Future](https://open.spotify.com/album/62BtoDOIrNsRjdqzagPfW2) | 3:59 | 2021-10-06 | 2025-07-17 |
 | [Shadows of Futurity](https://open.spotify.com/track/13AjOPAXzDQ4yybH7lvoNy) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Irregular Territories/Trembling With Tenderness](https://open.spotify.com/album/6xZ1Ldn61BUDeXWCTwLg3n) | 4:46 | 2021-10-06 | 2025-07-17 |

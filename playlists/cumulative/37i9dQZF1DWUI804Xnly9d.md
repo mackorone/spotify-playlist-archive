@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-604 songs - 1 day 9 hr 45 min
+605 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Faisle \(Acoustic\)](https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Faisle \(Acoustic\)](https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa) | 2:41 | 2023-05-17 | 2023-07-08 |
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-09-12 | 2024-06-12 |
 | [Fidaa](https://open.spotify.com/track/2F4GxzCqfv0DAcnbWtr3Tk) | [Shubhranshu Tiwari](https://open.spotify.com/artist/1Zb6oNpoIxy7EelAwdpICD) | [Fidaa](https://open.spotify.com/album/57WGS0aqObOSiCOJhhWgRR) | 2:08 | 2024-01-08 | 2024-03-15 |
+| [Fikhar](https://open.spotify.com/track/7mUHIGHf5T9b8sUhhF2viD) | [Nandhagopan V](https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y) | [Fikhar](https://open.spotify.com/album/3kNZbWLbx6SJ0E2ENLE5wE) | 5:10 | 2025-11-07 |  |
 | [Fly Fly Away \(Reprise\)](https://open.spotify.com/track/76MZxG3G1KFr6FGIJ9OGAp) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shivam\-Anuj](https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg) | [Garuudaa On The Terrace \- Season 1](https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x) | 2:49 | 2024-05-28 | 2025-03-08 |
 | [FML \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/5r5fuoBAtYhHOnaUHXw4ok) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Taab](https://open.spotify.com/artist/2zDvtopPWBRwNBkH4KNowY) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 3:43 | 2025-09-12 |  |
 | [Fursat](https://open.spotify.com/track/0rRN8GUnQXMzn5IC2f9JDF) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Fursat](https://open.spotify.com/album/6EwhEZsAIyWebuoLUBhlzL) | 4:07 | 2024-09-20 | 2024-10-24 |
@@ -472,7 +473,7 @@
 | [Sapne](https://open.spotify.com/track/31phalzjaw7CIcmrLcwbvv) | [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Apratim Tripathi](https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY) | [Shades Of Love](https://open.spotify.com/album/2CTVbzEiezzs9bgTPzp5eE) | 2:37 | 2025-06-26 | 2025-07-19 |
 | [Sapno Mein](https://open.spotify.com/track/1kdcrxXB0QuPBmaOakxwwk) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Sapno Mein](https://open.spotify.com/album/3SxMEnLGUUg75HrpR31pQW) | 2:58 | 2023-10-26 | 2023-11-25 |
 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-06-14 | 2025-06-14 |
-| [Saza \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/35PtfO8Xpv2w8jqup2QctA) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 3:20 | 2025-09-26 |  |
+| [Saza \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/35PtfO8Xpv2w8jqup2QctA) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 3:20 | 2025-09-26 | 2025-11-08 |
 | [Secrets](https://open.spotify.com/track/5HENJVFTpwo7n8RvXhex2g) | [Andrew KZ](https://open.spotify.com/artist/2mqU4ypOkvjz5TWWtWsOtR) | [Secrets](https://open.spotify.com/album/0Edq37EUIlXNqtfniAWYOa) | 1:58 | 2024-08-01 | 2024-08-31 |
 | [Sehar](https://open.spotify.com/track/1IWXDizuyzuBz7nXI6Wgdn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sehar](https://open.spotify.com/album/6VUXsat2DolMlpzhSmncd6) | 3:36 | 2025-07-08 | 2025-08-12 |
 | [September](https://open.spotify.com/track/2fDy9nSilEVvD2AoWL2es7) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [September](https://open.spotify.com/album/6zVilVx3Xo9yP5xMsoZZ8o) | 2:16 | 2025-04-16 |  |

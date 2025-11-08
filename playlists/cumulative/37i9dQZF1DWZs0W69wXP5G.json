@@ -5,6 +5,44 @@
   "tracks": [
     {
       "album": {
+        "name": "30/90",
+        "url": "https://open.spotify.com/album/0v3mtLUhAW1JYVtMEj6M5Y"
+      },
+      "artists": [
+        {
+          "name": "Andrew Garfield",
+          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
+        },
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        },
+        {
+          "name": "Robin de Jesus",
+          "url": "https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32"
+        },
+        {
+          "name": "Alexandra Shipp",
+          "url": "https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF"
+        },
+        {
+          "name": "MJ Rodriguez",
+          "url": "https://open.spotify.com/artist/5jMxsWwmiQl6lRo01xHMmG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262122,
+      "name": "30/90",
+      "url": "https://open.spotify.com/track/3G77AXd3sc9z9bA44WNWKl"
+    },
+    {
+      "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
       },
@@ -40,44 +78,6 @@
       "duration_ms": 262505,
       "name": "30/90",
       "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
-    },
-    {
-      "album": {
-        "name": "30/90 (from \"tick, tick... BOOM!\" Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0v3mtLUhAW1JYVtMEj6M5Y"
-      },
-      "artists": [
-        {
-          "name": "Andrew Garfield",
-          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
-        },
-        {
-          "name": "Joshua Henry",
-          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
-        },
-        {
-          "name": "Vanessa Hudgens",
-          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
-        },
-        {
-          "name": "Robin de Jesus",
-          "url": "https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32"
-        },
-        {
-          "name": "Alexandra Shipp",
-          "url": "https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF"
-        },
-        {
-          "name": "MJ Rodriguez",
-          "url": "https://open.spotify.com/artist/5jMxsWwmiQl6lRo01xHMmG"
-        }
-      ],
-      "date_added": "2024-03-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262122,
-      "name": "30/90 (from \"tick, tick... BOOM!\" Soundtrack from the Netflix Film)",
-      "url": "https://open.spotify.com/track/3G77AXd3sc9z9bA44WNWKl"
     },
     {
       "album": {

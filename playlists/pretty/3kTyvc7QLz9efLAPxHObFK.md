@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,653 songs - 5 day 18 hr 15 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,656 songs - 5 day 18 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2661,5 +2661,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2651 | [Hot Stuff](https://open.spotify.com/track/0UXr3X7QC3DS9JMx134Vbd) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Insolent](https://open.spotify.com/album/73Vd8fLRAWwhO9z3URYGY9) | 3:07 |
 | 2652 | [Cry](https://open.spotify.com/track/1rIeVyssOYPJUzj8aTk4DX) | [ELPOLLO](https://open.spotify.com/artist/7EkkoSfEQVwStyW30cuVmi), [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [Cry](https://open.spotify.com/album/2lG2wgfrt0igaTt8nliJdI) | 2:34 |
 | 2653 | [Boy Slut](https://open.spotify.com/track/3SGaXiRAFUvk1ImSryUk9v) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [Boy Slut](https://open.spotify.com/album/6o0pfnVtuPq3woErGEq0x0) | 3:42 |
+| 2654 | [ACIDWARE](https://open.spotify.com/track/3xcEQV7NpvJSHHBUU7uXlf) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [ACIDWARE](https://open.spotify.com/album/48q08CeSNE6cru2vEKWJbA) | 3:02 |
+| 2655 | [OMG!! \(feat\. DJ Noriken\)](https://open.spotify.com/track/0FORMQ3QMF2yIMu6mZrHHW) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [NO HERO](https://open.spotify.com/album/4Ri9luwHwCxfsoVzt9Qhb6) | 3:06 |
+| 2656 | [BREAK THE CORE](https://open.spotify.com/track/4r7PFwP5R65s7IQSgZmMja) | [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf) | [BREAK THE CORE](https://open.spotify.com/album/2FVFnuFKVzD8ZVxhd7BPto) | 2:33 |
 
-Snapshot ID: `AAAKqroQUjegGNjJTnOnkvXTyrt5gGyh`
+Snapshot ID: `AAAKrfRUu51MxY2o9vNKBc6y03LmEjjM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de ARIA VEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,062 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,049 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 33 | [Abecedario](https://open.spotify.com/track/6FJM755ucsEsB5MMTzMxR6) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Abecedario](https://open.spotify.com/album/764dtJDaxSNwH5bunCeGyD) | 3:12 |
 | 34 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 35 | [cómo fue?](https://open.spotify.com/track/15Aul3u9ToI1iFuUZU9IMa) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cómo fue? \(with Greeicy\)](https://open.spotify.com/album/4HH1vAy9muN9ay1SZiogE2) | 3:45 |
-| 36 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
+| 36 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
 | 37 | [bby please](https://open.spotify.com/track/6PKO0Nx4J566ORNsjX3qGa) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Amor y Plata](https://open.spotify.com/album/3f2Vyjdc1HF3ngmADaAeOA) | 2:32 |
 | 38 | [Para el que me enamora](https://open.spotify.com/track/4PRDf8kbPE5oWZrfoCXtog) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Para el que me enamora](https://open.spotify.com/album/4ON39RWUZ4joq0WnyzumnV) | 3:24 |
 | 39 | [Contigo Aprendí](https://open.spotify.com/track/66RBGETdEd9H0qMrlEoBv4) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Manzanero a Tres Pistas](https://open.spotify.com/album/4Akkqv8lx1iuMKKMwt4BWf) | 4:00 |

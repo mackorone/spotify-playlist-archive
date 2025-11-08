@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,476 likes - 55 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,497 likes - 55 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 5 | [A Different Frame \- Mita Gami Remix](https://open.spotify.com/track/4O9ipKCtPfqksn2vOzeM2h) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Secret Places Remix EP](https://open.spotify.com/album/3VKzDGf8VGGmYzbERIU32C) | 5:54 |
 | 6 | [Epikur \- Original](https://open.spotify.com/track/5XxFY11r0YA6Xoyh1O9WsR) | [David August](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA) | [Epikur EP](https://open.spotify.com/album/7hnheLOxgyqaIdO3HTcE63) | 8:10 |
 | 7 | [Licence To Dance](https://open.spotify.com/track/1LtqqomkQEpwZrhPBy2395) | [SOMMERS \(UK\)](https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv) | [Licence To Dance](https://open.spotify.com/album/6T729axdXK4zcZFEoiVDXh) | 5:24 |
-| 8 | [Apocalypse \- Tripolism Remix](https://open.spotify.com/track/5CU5ozmWAvfa8LjOYNdsSI) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Max Zotti](https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3) | [Apocalypse \(Tripolism Remix\)](https://open.spotify.com/album/2jSlFnFQ0sUQwV1YRxwFMn) | 4:21 |
+| 8 | [Apocalypse \- Tripolism Remix](https://open.spotify.com/track/5CU5ozmWAvfa8LjOYNdsSI) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Max Zotti](https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apocalypse \(Tripolism Remix\)](https://open.spotify.com/album/2jSlFnFQ0sUQwV1YRxwFMn) | 4:21 |
 | 9 | [Running \- Nandu Remix](https://open.spotify.com/track/7JOIGGoQUWqP7YmJvDbklj) | [Animal Trainer](https://open.spotify.com/artist/2bfx0bw0uVRyfikzS3h5Mg), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Running \(Nandu Remix\)](https://open.spotify.com/album/5D5p0OWi04J91ykQ12QUh0) | 3:36 |
 | 10 | [Break Out](https://open.spotify.com/track/5SwmfChByBXybUAMT1Xvjy) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Break Out](https://open.spotify.com/album/3wQT6IzxucDjY7jzRdaM4N) | 4:02 |
 | 11 | [Time](https://open.spotify.com/track/6J3aUG1y0zSJXOnsLhx41h) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Girlcatcher](https://open.spotify.com/album/66q0q162WOFuidbucN1Jdp) | 15:13 |

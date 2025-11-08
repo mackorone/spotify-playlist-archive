@@ -38445,6 +38445,28 @@
     },
     {
       "album": {
+        "name": "T\u00c4NK",
+        "url": "https://open.spotify.com/album/3yofOf4yccca2QnqYNQcjY"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "Ceasar DD",
+          "url": "https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "T\u00c4NK",
+      "url": "https://open.spotify.com/track/22WDvHFpaNLAND708pdRUI"
+    },
+    {
+      "album": {
         "name": "T\u00e4nk lite",
         "url": "https://open.spotify.com/album/3NCqRiZBi1309PIMH8l1cC"
       },

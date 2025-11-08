@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 195000,
       "name": "Calm Essence",
       "url": "https://open.spotify.com/track/21I5P7i7NOb6qoUTwttb2E"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 188499,
       "name": "Dancing In",
       "url": "https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai"
@@ -3009,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "How Did We Get Here",
+        "url": "https://open.spotify.com/album/4KM98nE6wuWwOxaRV6Dtam"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346467,
+      "name": "How Did We Get Here",
+      "url": "https://open.spotify.com/track/2DkxGBOvCGHjqMT0xeaC3z"
+    },
+    {
+      "album": {
         "name": "The Journey Tapes",
         "url": "https://open.spotify.com/album/4Zc9a61Q9FptcK43dZ2XAx"
       },
@@ -3668,7 +3686,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 192585,
       "name": "Lotus Blume",
       "url": "https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE"

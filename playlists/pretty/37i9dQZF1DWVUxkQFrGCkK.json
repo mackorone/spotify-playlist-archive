@@ -1,13 +1,29 @@
 {
-  "description": "ADE 25 week!!",
-  "num_followers": 406161,
+  "description": "Stick Out!!",
+  "num_followers": 406187,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMyC6TQt6G07RbGR6tvDZXMH85kg",
+  "snapshot_id": "AAAAAPl+V3t0Elc85dyeHTtFPQRIkqeg",
   "tracks": [
+    {
+      "added_at": "2025-11-07 08:34:42",
+      "album": {
+        "name": "Stick Out",
+        "url": "https://open.spotify.com/album/3bKQ5GAsKs6VXRa8akWeAj"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 182062,
+      "name": "Stick Out",
+      "url": "https://open.spotify.com/track/7rDfio21FnO5GM8rgmhADe"
+    },
     {
       "added_at": "2025-10-16 22:00:29",
       "album": {
@@ -53,32 +69,84 @@
       "url": "https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB"
     },
     {
-      "added_at": "2025-10-16 22:00:29",
+      "added_at": "2025-11-07 08:39:16",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/02hqNrIX2buFO6QSVzP4eX"
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG"
       },
       "artists": [
         {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
           "name": "Vidojean X Oliver Loenn",
           "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
-        },
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "edwin",
-          "url": "https://open.spotify.com/artist/6dQ7ZJOINrr3S5duN9cjfk"
-        },
-        {
-          "name": "6AM",
-          "url": "https://open.spotify.com/artist/6cHYKdxjIe1gL7mp1VzC1F"
         }
       ],
-      "duration_ms": 165250,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/59cBx28nDIgn21WAzX8LGv"
+      "duration_ms": 196000,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5"
+    },
+    {
+      "added_at": "2025-11-07 08:34:42",
+      "album": {
+        "name": "Those Nights",
+        "url": "https://open.spotify.com/album/1ePtsdsC6fcqCb9mmxrLuo"
+      },
+      "artists": [
+        {
+          "name": "Angelos",
+          "url": "https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/49RCvoTkANUWGfkz2ANApW"
+    },
+    {
+      "added_at": "2025-11-07 08:39:16",
+      "album": {
+        "name": "The City",
+        "url": "https://open.spotify.com/album/1hBFd3A5PWIkEZc9iVOGIK"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "carteblanche",
+          "url": "https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "The City",
+      "url": "https://open.spotify.com/track/4SsVrDjOhsLDzNKAD45iKY"
+    },
+    {
+      "added_at": "2025-11-07 08:39:16",
+      "album": {
+        "name": "Sound of You (ft TEED)",
+        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 236528,
+      "name": "Sound of You (ft TEED)",
+      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
       "added_at": "2025-10-16 22:00:29",
@@ -153,20 +221,32 @@
       "url": "https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog"
     },
     {
-      "added_at": "2025-10-16 22:00:29",
+      "added_at": "2025-11-07 08:34:42",
       "album": {
-        "name": "Keep Spinning",
-        "url": "https://open.spotify.com/album/3eG68GTT9nOBE9IgBxUewF"
+        "name": "LoveHate Thing (feat. Sam Dew) [Marten Lou & Luch Extended Remix]",
+        "url": "https://open.spotify.com/album/3luhJj5bRoSJOccSJxJx9O"
       },
       "artists": [
         {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
         }
       ],
-      "duration_ms": 186312,
-      "name": "Keep Spinning",
-      "url": "https://open.spotify.com/track/02Wo8zbCzhhw7qKgs3bBPe"
+      "duration_ms": 409426,
+      "name": "LoveHate Thing (feat. Sam Dew) - Marten Lou & Luch Extended Remix",
+      "url": "https://open.spotify.com/track/3cCNyf4v8yMMlR8WK3jVvf"
     },
     {
       "added_at": "2025-10-24 08:39:56",
@@ -323,6 +403,34 @@
     {
       "added_at": "2025-10-16 22:00:29",
       "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/02hqNrIX2buFO6QSVzP4eX"
+      },
+      "artists": [
+        {
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "edwin",
+          "url": "https://open.spotify.com/artist/6dQ7ZJOINrr3S5duN9cjfk"
+        },
+        {
+          "name": "6AM",
+          "url": "https://open.spotify.com/artist/6cHYKdxjIe1gL7mp1VzC1F"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/59cBx28nDIgn21WAzX8LGv"
+    },
+    {
+      "added_at": "2025-10-16 22:00:29",
+      "album": {
         "name": "WAAR",
         "url": "https://open.spotify.com/album/2KXxAuIcaxUVJbB33YF6PW"
       },
@@ -335,6 +443,62 @@
       "duration_ms": 186720,
       "name": "move on",
       "url": "https://open.spotify.com/track/2f5FduPdSJYCCED1eQhwf3"
+    },
+    {
+      "added_at": "2025-11-07 08:34:42",
+      "album": {
+        "name": "You Should Think Ahead EP",
+        "url": "https://open.spotify.com/album/1CXrgjDFohX5TOL8oKhxHi"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        },
+        {
+          "name": "Layer J",
+          "url": "https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf"
+        }
+      ],
+      "duration_ms": 345301,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2Oo8grgU2itMKHeyQoJlg1"
+    },
+    {
+      "added_at": "2025-10-16 22:00:29",
+      "album": {
+        "name": "Keep Spinning",
+        "url": "https://open.spotify.com/album/3eG68GTT9nOBE9IgBxUewF"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 186312,
+      "name": "Keep Spinning",
+      "url": "https://open.spotify.com/track/02Wo8zbCzhhw7qKgs3bBPe"
+    },
+    {
+      "added_at": "2025-11-07 08:34:42",
+      "album": {
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/7btkd152E74icir7zyYUEB"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "MANU (UK)",
+          "url": "https://open.spotify.com/artist/7GHIqxeRBx0oXdgxwkPbu5"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/062wkcQ6GLiJG9zBFH8fFQ"
     },
     {
       "added_at": "2025-10-16 22:00:29",
@@ -384,16 +548,16 @@
           "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         },
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
           "name": "Tripolism",
           "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
         },
         {
           "name": "Max Zotti",
           "url": "https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         }
       ],
       "duration_ms": 261746,
@@ -483,6 +647,30 @@
       "duration_ms": 161863,
       "name": "Give It To Me 2025",
       "url": "https://open.spotify.com/track/2SXIxc92q42M6lMCfQ8hKL"
+    },
+    {
+      "added_at": "2025-11-07 08:35:31",
+      "album": {
+        "name": "Magik",
+        "url": "https://open.spotify.com/album/2MvPX4GMBd92aIny5uLIVa"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Orsay",
+          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
+        },
+        {
+          "name": "Ajna (BE)",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        }
+      ],
+      "duration_ms": 275409,
+      "name": "Magik",
+      "url": "https://open.spotify.com/track/0ot0oFflo5Z5PGWRP4ltxi"
     },
     {
       "added_at": "2025-10-16 22:00:29",

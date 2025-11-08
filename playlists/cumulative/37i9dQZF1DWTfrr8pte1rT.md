@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Madeon \\m/
 
-527 songs - 1 day 5 hr 40 min
+528 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Playing Chess](https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess](https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl) | 3:51 | 2022-08-12 | 2024-04-27 |
 | [Poison](https://open.spotify.com/track/1lWwmIO3H6kgyAQrXOaQTh) | [Ghost in Real Life](https://open.spotify.com/artist/1XNSNWTlirqnvsXUUEVwxb) | [Poison](https://open.spotify.com/album/4UTBXAmVwsDpOYvrGWZShU) | 3:49 | 2025-08-22 |  |
 | [Poison \(With Paris Shadows\) \- VIP](https://open.spotify.com/track/6QB2D8drdH4TlT3bAzARDD) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT) | [POISON \(with Paris Shadows\) \- VIP](https://open.spotify.com/album/0tgf5YFUcsUXexaSt4OhNJ) | 3:04 | 2021-12-10 | 2022-07-29 |
+| [Poison Apple Baby](https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Poison Apple Baby](https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx) | 3:17 | 2025-11-07 |  |
 | [Popular Monster \- NGHTMRE & Galantis Remix](https://open.spotify.com/track/336vTSxoACS82BJzwQ2Gfw) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Popular Monster \(NGHTMRE & Galantis Remix\)](https://open.spotify.com/album/6XFC1ujDeUwUT5Iq6AbhzF) | 2:56 | 2021-12-10 | 2022-11-12 |
 | [POSER \(N3WPORT Remix\)](https://open.spotify.com/track/4WqGcKp5dnqj8nCFbV9Af3) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [conner](https://open.spotify.com/artist/6FUrCaaUDkYwhFOmP6FfBf), [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8) | [NEW BREED \(REMIXES\)](https://open.spotify.com/album/3z7otCLPeYt98e8U9bgWGt) | 4:02 | 2023-01-30 | 2023-03-16 |
 | [POWERLESS](https://open.spotify.com/track/4gbZtMcaENwVRvuL4P70TZ) | [Poni](https://open.spotify.com/artist/3a6qES5elZUR1LIpUq2ERm), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [POWERLESS](https://open.spotify.com/album/2qdkSgklbopZSvy78BvlU2) | 3:28 | 2024-02-23 | 2024-09-14 |
@@ -468,7 +469,7 @@
 | [The Sickness](https://open.spotify.com/track/0ydJxPQlsSTaABAQuYn3q9) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [The Sickness](https://open.spotify.com/album/05FU57RYm1lzR9TKEDGQ05) | 4:00 | 2022-01-18 | 2022-06-25 |
 | [The Sound](https://open.spotify.com/track/3quLDIBSXkvoidNLfQzju7) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Fluorescents](https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2) | [The Sound](https://open.spotify.com/album/3rYyOaZMBlyUD3Olle9r0g) | 3:38 | 2025-07-18 |  |
 | [The Tower](https://open.spotify.com/track/5ombvYLjK6PxEXGRENxY3Q) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Tower](https://open.spotify.com/album/4RWSwwmaFh5vsvMluBHPzl) | 4:18 | 2024-05-24 | 2024-10-23 |
-| [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 | 2023-09-15 |  |
+| [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 | 2023-09-15 | 2025-11-08 |
 | [This Will Be My Year](https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [This Will Be My Year](https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH) | 3:00 | 2021-12-10 | 2024-12-04 |
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-22 |  |
 | [Thrones of Blood](https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/57QdPzSq8NhduKeYBJ7jw1) | 4:02 | 2023-01-13 | 2023-04-30 |

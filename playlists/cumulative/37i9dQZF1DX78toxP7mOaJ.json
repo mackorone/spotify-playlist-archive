@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Hell Is An Airport",
+        "url": "https://open.spotify.com/album/7kDCEqBpm37Arcx9jcfjOJ"
+      },
+      "artists": [
+        {
+          "name": "Liquid Mike",
+          "url": "https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138333,
+      "name": "AT&T",
+      "url": "https://open.spotify.com/track/4Q5sAFJ9qstk1i8bCWesA6"
+    },
+    {
+      "album": {
         "name": "Athene",
         "url": "https://open.spotify.com/album/6pqA7APcsNeUqI7Nqj9Vde"
       },
@@ -7054,7 +7072,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 122750,
       "name": "Claws",
       "url": "https://open.spotify.com/track/2QOXnqGZN4iulkieCqArjs"

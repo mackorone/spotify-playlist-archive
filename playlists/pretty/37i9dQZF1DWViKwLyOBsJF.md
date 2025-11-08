@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,250 likes - 47 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,326 likes - 47 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 18 | [Candlelight Carol](https://open.spotify.com/track/3RJCyeDnzhhqhpRvdcohof) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Angels In The Realms Of Glory](https://open.spotify.com/album/5N9DVOm2aWo8XhVKvadJ0D) | 2:18 |
 | 19 | [O Come, All Ye Faithful](https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:11 |
 | 20 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/60w2O8kbSpNmDI1pZmDNaD) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 2:26 |
-| 21 | [Gloria In Excelsis Deo \- Christmas piano arr.](https://open.spotify.com/track/2sVef0QT2SbclbmMETRNxg) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P), [Christmas Piano Instrumental](https://open.spotify.com/artist/6gG2Sish6nE9tfU6pBxXOu) | [Gloria In Excelsis Deo \(Christmas piano arr.\)](https://open.spotify.com/album/6fkspu56O96nUos4LYgMjb) | 1:17 |
+| 21 | [Gloria In Excelsis Deo \- piano arr.](https://open.spotify.com/track/2sVef0QT2SbclbmMETRNxg) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY) | [Gloria In Excelsis Deo \(piano arr.\)](https://open.spotify.com/album/6fkspu56O96nUos4LYgMjb) | 1:17 |
 | 22 | [I Saw Three Ships](https://open.spotify.com/track/3aWohApFeBqB3ebgCWiev3) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [I Saw Three Ships](https://open.spotify.com/album/0vAHBKkzpdlQL2YlX0dDaC) | 2:22 |
 | 23 | [Carol of the bells](https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Carol of the bells](https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0) | 1:43 |
 | 24 | [Go tell it on the mountain](https://open.spotify.com/track/4bJY69IGvkMGXkzEKYULtW) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Go tell it on the mountain](https://open.spotify.com/album/44M9Az670ZjiMZGcSlOgrn) | 2:15 |

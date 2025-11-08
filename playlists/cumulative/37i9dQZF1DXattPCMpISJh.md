@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Say She She
 
-329 songs - 20 hr 15 min
+330 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 | 2021-07-02 | 2022-11-19 |
 | [Energy](https://open.spotify.com/track/5Cmxgp6kvf2M0HoSyjbfjA) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Energy](https://open.spotify.com/album/0CLDP2n9sn9iTfoTKB6QfK) | 4:38 | 2025-03-07 |  |
 | [Entangle](https://open.spotify.com/track/5EHNdt9S4GdQqvVUlaqiv8) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Entangle](https://open.spotify.com/album/3FOcCZrrlOwVX52hOa5249) | 3:56 | 2022-09-09 | 2024-08-24 |
+| [Every Time You Touch Me \- Dave Lee Boogiefied Edit](https://open.spotify.com/track/0OnsBoK42EpZbZoPz2LkUC) | [OUTPUT / INPUT](https://open.spotify.com/artist/5fjPiBvBC5a4wAojDdT1iq), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Antonio Mclendon](https://open.spotify.com/artist/4NaYIELIYjb0N4snFg6NaB) | [Every Time You Touch Me \(Dave Lee Mixes\)](https://open.spotify.com/album/2HbBbsE0nzMSGGAx7jERIx) | 3:37 | 2025-11-07 |  |
 | [Everything](https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Everything](https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27) | 2:58 | 2023-06-30 |  |
 | [Faces](https://open.spotify.com/track/39LJTkbl1WkvSni7zJ66tJ) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Cut Velvet](https://open.spotify.com/album/6d1QycrvQbPhpsWv4cBuiU) | 2:21 | 2022-03-11 | 2024-02-17 |
 | [Faces](https://open.spotify.com/track/5iWVOFjMWtDUx01SFIbQ61) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Faces](https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B) | 2:21 | 2022-03-11 | 2022-10-18 |
@@ -197,7 +198,7 @@
 | [Move](https://open.spotify.com/track/1mEen9l4C0Kq6gYBGARXoS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Drama Queen](https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW) | 2:44 | 2023-05-12 | 2024-04-19 |
 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 | 2023-05-12 |  |
 | [Move Me](https://open.spotify.com/track/7mNrHt87k4uLY6rtODEAvO) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [Maddam Mya](https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP) | [Move Me](https://open.spotify.com/album/3uzf0QnjYIXsb0jqIe1VCI) | 5:28 | 2023-04-07 | 2025-05-31 |
-| [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 | 2023-05-12 |  |
+| [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 | 2023-05-12 | 2025-11-08 |
 | [My Lovin'](https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6) | [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Elektrik Disko](https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG) | [My Lovin'](https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6) | 3:14 | 2024-03-22 |  |
 | [My Name Is Love](https://open.spotify.com/track/3GJIJPi4tYm2dJF7rt9BEb) | [Golden Gate](https://open.spotify.com/artist/5Z30acijfl3QUb0BG8z48d), [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [My Name Is Love](https://open.spotify.com/album/6I5Pvb8ITznvDxiHjC0gkn) | 3:18 | 2025-10-17 |  |
 | [My Only](https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [My Only](https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8) | 3:06 | 2022-05-13 | 2023-07-29 |

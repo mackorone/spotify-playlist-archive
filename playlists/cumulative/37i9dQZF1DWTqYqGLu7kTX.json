@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover:  Cheema Y & Gur Sidhu",
+  "description": "Best of Punjabi Hip-Hop! Cover:  Wazir Patar",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -5343,6 +5343,32 @@
     },
     {
       "album": {
+        "name": "My Name Is Street",
+        "url": "https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Basant Kur",
+          "url": "https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7"
+        },
+        {
+          "name": "Navvi",
+          "url": "https://open.spotify.com/artist/6GsjiE8vB4MUtHSGwbqTYE"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sham Di Laali",
+      "url": "https://open.spotify.com/track/5nL6XYcW0bASEV3cZZWjZ8"
+    },
+    {
+      "album": {
         "name": "Shikari",
         "url": "https://open.spotify.com/album/5nnfRcMzQF2qSl3XhAS9CK"
       },
@@ -5764,7 +5790,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 178244,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"

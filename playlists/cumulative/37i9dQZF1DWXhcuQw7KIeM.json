@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "\u00dar \u00d6skunni",
+        "url": "https://open.spotify.com/album/2Ke3TOJBIW6rRJTqhV6H9K"
+      },
+      "artists": [
+        {
+          "name": "G\u00edsli Gunnarsson",
+          "url": "https://open.spotify.com/artist/6ip3tJTPbVT3JJebd7ih9c"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "Gl\u00f3kolla",
+      "url": "https://open.spotify.com/track/3r30EVTrUbAv4SypKUglUm"
+    },
+    {
+      "album": {
         "name": "Gnosis",
         "url": "https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF"
       },
@@ -922,7 +940,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 850866,
       "name": "How Fare the Gods?",
       "url": "https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR"

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Jassin
 
-3,045 songs - 5 day 22 hr 5 min
+3,045 songs - 5 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Aspirin](https://open.spotify.com/track/69AbPl1W9V24hO9TcFgcMI) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Aspirin](https://open.spotify.com/album/2wyRhdZeCn7dCWJU5flkzx) | 2:42 | 2024-08-29 | 2024-11-15 |
 | [At Night](https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [At Night EP](https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA) | 3:58 | 2024-05-23 | 2024-06-07 |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-24 | 2025-05-30 |
-| [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [](https://open.spotify.com/album/null) | 2:42 | 2025-11-06 |  |
+| [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 | 2025-11-06 |  |
 | [Atemlos durch die Nacht \- 10 Year Anniversary Version](https://open.spotify.com/track/7B7X3R3d2qEIsJFgqICgNy) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Atemlos durch die Nacht \(10 Year Anniversary Version\)](https://open.spotify.com/album/1keZlGDtJuO2luOCRRS0mT) | 2:52 | 2023-11-23 | 2023-12-01 |
 | [atlantik](https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [atlantik](https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f) | 2:54 | 2024-03-28 | 2024-04-19 |
 | [Atlantik/One More Time](https://open.spotify.com/track/4vD0OFTlKpXyB2KOXxmN0v) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Atlantik/One More Time](https://open.spotify.com/album/7KZwitZSe5LT69mmbJoiZG) | 2:53 | 2025-03-27 | 2025-06-13 |
@@ -590,7 +590,7 @@
 | [Dance with Somebody](https://open.spotify.com/track/0t8h41n20K1BkByBDqWAoN) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Give Me Fire \(Deluxe Version\)](https://open.spotify.com/album/0QDB6bjiqHH6ZHer9eVACL) | 5:17 | 2024-01-30 | 2024-05-24 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-13 | 2023-05-12 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 | 2022-10-21 |
-| [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [](https://open.spotify.com/album/null) | 2:43 | 2025-11-06 |  |
+| [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 | 2025-11-06 |  |
 | [Danke](https://open.spotify.com/track/2ARHgVQx58HhndGhBm9JF6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [Danke](https://open.spotify.com/album/58iCIcfZcOcmbJ3tZYfzAG) | 1:44 | 2023-03-03 | 2023-03-25 |
 | [danke](https://open.spotify.com/track/5n5rYbpZ1JsVWsrOOEv38Y) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [danke](https://open.spotify.com/album/61UPyvAN2ebChowaXYlIwN) | 3:22 | 2024-07-18 | 2024-08-02 |
 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-03-20 | 2025-04-25 |
@@ -1696,6 +1696,7 @@
 | [Meer fahren](https://open.spotify.com/track/73z3CBj1xVRr1IQckImczP) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Meer fahren](https://open.spotify.com/album/3yS8i28eQBQ5pMTajqctPE) | 3:41 | 2023-01-16 | 2023-02-24 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-09 | 2024-01-04 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-12-28 | 2024-04-19 |
+| [Mega peinlich](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Süß sauer EP](https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6) | 2:50 | 2025-11-06 |  |
 | [Mehringdamm Romance](https://open.spotify.com/track/1xQNjw7gCMuGjW4thOorMq) | [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Mehringdamm Romance](https://open.spotify.com/album/2Sl3KJUEtmlHS51bOyd0H4) | 2:11 | 2023-03-24 | 2023-04-07 |
 | [Mein Akh](https://open.spotify.com/track/7FbtGEKzbD6gdDO7sw6TZ6) | [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg) | [Mein Akh](https://open.spotify.com/album/7AzIOlUtu0P071HQtIko0x) | 2:17 | 2025-04-17 | 2025-05-02 |
 | [MEIN BRUDER](https://open.spotify.com/track/0oW7ZHbuRTuzhZZflYTwDb) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [MEIN BRUDER](https://open.spotify.com/album/4EJ9n7ivRoZJf8eDkC8kva) | 2:27 | 2024-11-21 | 2024-12-10 |
@@ -2627,7 +2628,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 5](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-07-24 | 2025-09-19 |

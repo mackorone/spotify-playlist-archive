@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: DSPS
 
-3,438 songs - 8 day 8 hr 42 min
+3,441 songs - 8 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,7 +922,6 @@
 | [Toxic feat\. Quanzo \(Quanzo Remix\)](https://open.spotify.com/track/4aU4UIKs5i2roAWUKVwqpi) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [Toxic](https://open.spotify.com/album/6z9LHgZejziGWk7xnAPEO3) | 2:31 | 2025-05-08 | 2025-05-23 |
 | [Toxic Love](https://open.spotify.com/track/6MOPiHU3l5PIdYHz4gNtgr) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa) | [Toxic Love](https://open.spotify.com/album/5Y1UtEqzqyjRDxpTqgmK3S) | 2:09 | 2024-09-12 | 2024-10-18 |
 | [Toyota冒險日記](https://open.spotify.com/track/0zEX5wK2EIUZBoTLMpyq3H) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl), [夏娜 Zhana](https://open.spotify.com/artist/6n7DXHl3EDVdgMoN7CHupK) | [Toyota 冒險日記](https://open.spotify.com/album/6LdOHfPIOFCloILRp6y4qg) | 2:56 | 2025-09-18 | 2025-09-26 |
-| [Track 3](https://open.spotify.com/track/6uLt2hCnQhjcB4RBOa9NjA) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Training Day](https://open.spotify.com/track/1k3TVdXf0TTFzXJmiAHB36) | [RPG](https://open.spotify.com/artist/4h50ekU1ax70sX6deaIli9), [JL22](https://open.spotify.com/artist/0Ysd9RYTjO0w8rh9jpeiEV), [Black MIC](https://open.spotify.com/artist/6w62HSgZvXKJpsSHXNPp2l), [BG8LOCC](https://open.spotify.com/artist/2lWqmnfn0X5kcU6JSOrjdE) | [Training Day](https://open.spotify.com/album/4M5GRu8w27qFOnF7Ue44A5) | 3:42 | 2025-01-09 | 2025-01-31 |
 | [Trainslate](https://open.spotify.com/track/3dkhRzJpCFkF53fyASugK7) | [老莫 ILL MO](https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y) | [火車晚了 Trainslate](https://open.spotify.com/album/1AOWY2kfNhPxmErGd0iMWA) | 2:03 | 2025-07-03 | 2025-07-18 |
 | [Trauma Fit](https://open.spotify.com/track/6fA4YNiLWiq7ErpTg41lzt) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [Trauma Fit](https://open.spotify.com/album/6lIdajMPHvgtR2sdIZzgyC) | 3:04 | 2024-12-12 | 2025-01-10 |
@@ -1999,6 +1998,7 @@
 | [愛人這件事](https://open.spotify.com/track/0IC9pzgePMiAVnCQARpuBC) | [Coy6oi](https://open.spotify.com/artist/3UN0S5PuO1xQtE9P9XJ2TV), [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc) | [愛人這件事](https://open.spotify.com/album/1XDCnETrzLFDLwnDZPz7tk) | 3:38 | 2025-07-31 | 2025-08-29 |
 | [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 | 2024-07-25 | 2024-08-16 |
 | [愛你到底為啥物 \(民視八點檔《愛的榮耀》片頭曲\)](https://open.spotify.com/track/4JjK5hKRJH1L5JsUsXuNIW) | [郭婷筠](https://open.spotify.com/artist/1r6hd5ikvh4DKJiE1AZS0O) | [愛你到底為啥物](https://open.spotify.com/album/6NFFREMIiiyo8OqlKylWIZ) | 3:57 | 2024-08-08 | 2024-08-23 |
+| [愛你卡慘死](https://open.spotify.com/track/14jW6fqrzKs1LVX7q2hNz8) | [广土主任](https://open.spotify.com/artist/0gZ6cBqif4mY94tzTOOzsT) | [愛你卡慘死](https://open.spotify.com/album/0JriSXglaj8VCHGF4oXhnz) | 5:36 | 2025-11-06 |  |
 | [愛你只能默默的守護你](https://open.spotify.com/track/7dNQEfAvdlp9zY4ysXa0ML) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [愛你只能默默的守護你](https://open.spotify.com/album/4PmbD6vqjk2E3sHo2wPMtV) | 4:14 | 2024-10-03 | 2024-10-25 |
 | [愛你愛到忘了自己](https://open.spotify.com/track/0Z6e232knPa5DMlic07MgX) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [愛你愛到忘了自己](https://open.spotify.com/album/0T7wpc2b2IQyrX9t3X0spK) | 3:27 | 2024-06-27 | 2024-07-12 |
 | [愛你愛到忘了自己（影視劇《以她之名》插曲）](https://open.spotify.com/track/4qcU8KMtxeOTbX2DNKaGiB) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [《以她之名》影視原聲帶](https://open.spotify.com/album/3NQlC3mr8WVd1e1cVrjX3Z) | 3:27 | 2025-09-25 | 2025-10-17 |
@@ -2540,6 +2540,7 @@
 | [沼澤之王](https://open.spotify.com/track/4NOnXJMy6cbGDEI7ckD9uk) | [Reversing into Garage](https://open.spotify.com/artist/5dnOo3EpTCmEnLwoC4tP78) | [當然無恙](https://open.spotify.com/album/2Of76YsFKAuVmdenA46sAg) | 3:15 | 2024-10-03 | 2024-10-25 |
 | [泡沫](https://open.spotify.com/track/7KC34sQVSeBg6TknhoAh7h) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [泡沫](https://open.spotify.com/album/4n6T1B13KYgQZz80hYer1o) | 3:02 | 2024-11-14 | 2024-12-06 |
 | [泡泡](https://open.spotify.com/track/1El3o2LqUic8wLObIXjiE6) | [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [泡泡](https://open.spotify.com/album/3Dkpjk5CJiE2BUHX85fwXn) | 3:46 | 2025-10-02 | 2025-10-10 |
+| [泡泡](https://open.spotify.com/track/6svH8cx55dJWiVXPPzYAYE) | [越野快餐車](https://open.spotify.com/artist/5xGPYOql3XMjEY5gd2uqAL) | [越野](https://open.spotify.com/album/6QIkei7iQwevR8osNOBkkg) | 4:43 | 2025-11-06 |  |
 | [泥潭](https://open.spotify.com/track/6lXfUj8MOzI6yVddYQJi7F) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [泥潭](https://open.spotify.com/album/74TdPe8k0JuWpDD7CTsGkF) | 3:15 | 2024-11-14 | 2024-12-06 |
 | [泰迪熊仙人掌 \(teddy bear cholla\)](https://open.spotify.com/track/2h5nBpRCasbR1PHC8RewbQ) | [Veegee](https://open.spotify.com/artist/6tB7xUuz0gpJL88nhmJpz1) | [泰迪熊仙人掌 \(teddy bear cholla\)](https://open.spotify.com/album/5jjEic2CnQ4nvXX1JXsHxb) | 4:22 | 2025-11-06 |  |
 | [洋蔥圈](https://open.spotify.com/track/6WRaUstJlutkNmK2dTWTph) | [JoJo YHC](https://open.spotify.com/artist/44bKuCClRVDw8Tml8c8lfI) | [洋蔥圈](https://open.spotify.com/album/0G3Tp1yDl8j89lbsDg8bMr) | 2:45 | 2024-09-19 | 2024-09-27 |
@@ -2841,6 +2842,7 @@
 | [等](https://open.spotify.com/track/61wHQ7xDyrqQ1rVIukhT69) | [夜貓組 \(Leo王+春艷\)](https://open.spotify.com/artist/10bBWqtVxVR6nl4BzU97Xk) | [啊你是有什麼問題 ?](https://open.spotify.com/album/7q9SKcpEdO3ziJaoPiQyPF) | 3:08 | 2024-10-10 | 2024-11-01 |
 | [等](https://open.spotify.com/track/7bu8DEL6NSTDTs8ZlEXytj) | [黃老三](https://open.spotify.com/artist/0R1K8st4MzQ3fVtjUXD014) | [一撮火藥](https://open.spotify.com/album/4uNEeqUyiLS062MdO9STJn) | 3:18 | 2025-04-10 | 2025-05-09 |
 | [等待 Check\-in 的 Orion](https://open.spotify.com/track/4jaUT6KLvMdBCpsaPRlaFt) | [許含光](https://open.spotify.com/artist/5pmbNBnoMiNA16eg71vvsg) | [太平洋大酒店](https://open.spotify.com/album/4VWAdUGQPbOIdqnDPc0bcf) | 2:48 | 2025-10-30 |  |
+| [等我回家](https://open.spotify.com/track/0fY8WdQNuvtpwHVZXYKPhM) | [尤時雨](https://open.spotify.com/artist/6VZlJla5fcw20R97dOIadz), [無所畏](https://open.spotify.com/artist/6qE49wapD7jybqaSYgROen) | [等我回家](https://open.spotify.com/album/1a5uXQvtulAI2YRcO3NqxZ) | 3:27 | 2025-11-06 |  |
 | [等晴 Forever : 倾城之恋](https://open.spotify.com/track/2eJf8lilNCRyatBvUDzTlJ) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [等晴 Forever : 倾城之恋](https://open.spotify.com/album/10jLftMtDfW3r1pBdkHIdk) | 2:14 | 2025-06-12 | 2025-07-04 |
 | [等車只是我的藉口](https://open.spotify.com/track/4rNy1I36bzUUnLVJBS0MQq) | [T\-easy](https://open.spotify.com/artist/3AgDE5xkoPyn5sFxhwyTCi), [新台幣音樂 NTD \(NeverTurnDownmusic\)](https://open.spotify.com/artist/7sf1j95ATFmsc3QYnmqgC5) | [等車只是我的藉口](https://open.spotify.com/album/3vrUJNkjW8PmR47uZnFnf5) | 2:44 | 2025-11-06 |  |
 | [答案是你 \(戲劇《靈魂約定》主題曲\)](https://open.spotify.com/track/4JzSTAQH9SlSAYaTXv9xfB) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [答案是你](https://open.spotify.com/album/3nxIxsZVH1LsUVLknPkKN0) | 2:41 | 2025-07-03 | 2025-07-11 |
@@ -2916,6 +2918,7 @@
 | [聊天記錄刪了吧](https://open.spotify.com/track/21MTHHU5ge5vAHX61lQjjf) | [CHIU PI](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [聊天記錄刪了吧](https://open.spotify.com/album/3RTPuyEkahdLUWQLbUcBaD) | 4:22 | 2024-11-07 | 2024-11-29 |
 | [聚光燈下的你](https://open.spotify.com/track/2vRoYAHriv7aLc1FbBaJD0) | [Mr.LH\_Band 李先生大樂隊](https://open.spotify.com/artist/0Ac9hRlXqDzxNIEKTPRWu9), [林書禾](https://open.spotify.com/artist/7qJA9St0kmd9bgSfcnEGtI) | [四四拍](https://open.spotify.com/album/1T2WsinJFQHorxnlxuOJmF) | 5:01 | 2025-05-08 | 2025-05-30 |
 | [聚少離多](https://open.spotify.com/track/5klmdDVKSLwMnCQMp8KGEs) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [聚少離多](https://open.spotify.com/album/68tN9z2Y55AmnYS2xst9Cc) | 3:33 | 2024-12-26 | 2025-01-17 |
+| [聽你](https://open.spotify.com/track/6uLt2hCnQhjcB4RBOa9NjA) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [交叉路口 Junctions](https://open.spotify.com/album/6shAWWZ2xrAjXgVPk11KZI) | 3:51 | 2025-11-06 |  |
 | [聽土地](https://open.spotify.com/track/66WZavuYOmHCFfpqN9Dx7g) | [邱宥芩](https://open.spotify.com/artist/4ynXKdFIja4Q18zwI4nDJq) | [聽土地](https://open.spotify.com/album/7rwM0e3gPfcxmxjcasZJfY) | 5:12 | 2024-07-25 | 2024-08-02 |
 | [聽得到嗎](https://open.spotify.com/track/0rGw63k8A0iQ47JP7PXUGX) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [聽得到嗎](https://open.spotify.com/album/023gxYsJciFbsv20P4ackV) | 3:28 | 2025-10-09 | 2025-10-24 |
 | [背面是我](https://open.spotify.com/track/5opdJTQnzGKwfyl09wri2q) | [Dean Ting](https://open.spotify.com/artist/6dUdiLuCRuJ7FiuIntTPEJ) | [背面是我](https://open.spotify.com/album/4zRk1YQOWrMamLp5O7dcbF) | 3:15 | 2024-12-26 | 2025-01-17 |

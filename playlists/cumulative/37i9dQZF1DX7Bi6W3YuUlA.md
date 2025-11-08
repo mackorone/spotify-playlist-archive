@@ -2,9 +2,9 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip\-hop\. Cover: Lecrae
+> Inspirational hip\-hop\. Cover: Fridayy
 
-530 songs - 1 day 2 hr 33 min
+531 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [The Method](https://open.spotify.com/track/0dFH3oc8wikiyi5p5gLUlP) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Get Well Soon!](https://open.spotify.com/album/1v7XLUz7h8OYrxGjb9n2tA) | 3:16 | 2025-05-23 |  |
 | [The Offering](https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [The Offering](https://open.spotify.com/album/2M3BwnvthgGXqU4gcmXs3c) | 1:46 | 2022-05-28 | 2023-02-22 |
 | [The One Where I Talk To God](https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [Marty For President 2](https://open.spotify.com/album/5q0lLOpbosrUJTR3oRztJw) | 3:21 | 2021-12-11 | 2022-11-19 |
+| [The Truth](https://open.spotify.com/track/4zgT4ofik5gzGZGTUzhAfX) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [The Truth](https://open.spotify.com/album/1eLtVuTe9osRrF2XhfvaH2) | 2:47 | 2025-11-07 |  |
 | [The Very Best](https://open.spotify.com/track/2M1KyNwYomukvS9luSdhWw) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [The Very Best](https://open.spotify.com/album/4S0QVgdgtTbl63O18ydUiP) | 3:54 | 2025-01-24 |  |
 | [The World](https://open.spotify.com/track/5MuCSfKyMqYXFHOUOZamYQ) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [The World](https://open.spotify.com/album/2Kv8p3JE1kS6H0znOkFwqS) | 2:05 | 2024-06-25 |  |
 | [Therapy](https://open.spotify.com/track/4ku1t1IGPCXAwENg0TKkXt) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Therapy](https://open.spotify.com/album/62AXGFrgC8CuLR7cp4tm4T) | 2:49 | 2022-03-19 | 2022-07-28 |

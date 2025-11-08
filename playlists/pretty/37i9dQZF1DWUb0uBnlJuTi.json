@@ -1,13 +1,33 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 399508,
+  "num_followers": 399618,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIg1XM4xfV/2gc7b1f/j96oCeimF",
+  "snapshot_id": "AAAAAP/KEwSqjztjpN3njJK1XGfKPXpc",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:35",
+      "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO"
+    },
     {
       "added_at": "2025-10-24 04:00:02",
       "album": {
@@ -839,26 +859,6 @@
       "duration_ms": 259213,
       "name": "Ok Boomer",
       "url": "https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "That Thang",
-        "url": "https://open.spotify.com/album/0mvRX9cftJgdQEFDtG8qcM"
-      },
-      "artists": [
-        {
-          "name": "The Messthetics",
-          "url": "https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm"
-        },
-        {
-          "name": "James Brandon Lewis",
-          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
-        }
-      ],
-      "duration_ms": 191217,
-      "name": "That Thang",
-      "url": "https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI"
     },
     {
       "added_at": "2024-02-16 05:01:00",

@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-881 songs - 2 day 2 hr 14 min
+882 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [Scorpio Sun](https://open.spotify.com/track/10CRTxsoDvwgBygdKsyhQE) | [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ) | [From The Floor To The Booth](https://open.spotify.com/album/2frqao7MHXrHmYrijCWlm0) | 5:46 | 2022-09-16 | 2022-11-09 |
 | [Seaforth](https://open.spotify.com/track/0ws8eQLYkwVWWw6oizEtmy) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/42PzjjlMNrWtKbZW7gseqr) | 4:05 | 2023-04-13 | 2023-08-04 |
 | [Seagulls](https://open.spotify.com/track/1BtbTvFOfcWknn8SGsrpq2) | [Fea](https://open.spotify.com/artist/1VcouBXUG812fp3e60aR01), [MettaShiba](https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy) | [Tunnelling](https://open.spotify.com/album/2jY2TwfwsK9NdMlhjMljmW) | 2:56 | 2022-11-08 | 2022-12-20 |
+| [Selfish](https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Selfish](https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O) | 3:46 | 2025-11-07 |  |
 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-02-10 | 2023-05-24 |
 | [sentfromheaven \(One Bok Remix\)](https://open.spotify.com/track/4Rzrj4fJWQGNGrGSkbGA7r) | [Jawnino](https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj), [One Bok](https://open.spotify.com/artist/55SqL4b3REH74BsMhfiqAm) | [40](https://open.spotify.com/album/1juNJtkh5qDp8csiBFMHEO) | 3:10 | 2024-09-07 | 2025-03-21 |
 | [Set It](https://open.spotify.com/track/4lyJX3Yn9c2IpUUwrfQhyO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Set It](https://open.spotify.com/album/48P5zv9zxFr0VkxZUf4wKa) | 2:34 | 2023-01-18 | 2023-04-14 |

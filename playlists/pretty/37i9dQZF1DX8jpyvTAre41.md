@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Finger Eleven
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,594 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,594 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [](https://open.spotify.com/album/null) | 3:53 |
-| 2 | [The Mountain](https://open.spotify.com/track/46onMrFCJJlvAy748S6AfX) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [](https://open.spotify.com/album/null) | 3:21 |
-| 3 | [HOT TO GO! \- Spotify Singles](https://open.spotify.com/track/5HoBujicJSH3hEIeDfmpTB) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Spotify Singles](https://open.spotify.com/album/0cgd1EfvYkm7fgr1m3mmkO) | 2:55 |
-| 4 | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j) | 3:18 |
-| 5 | [Blood for Blood](https://open.spotify.com/track/18Lw97bgXmA91KMfq8DViD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Blood for Blood](https://open.spotify.com/album/7EtisEfcsafbSOgo0wDC5K) | 3:53 |
-| 6 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
+| 1 | [The Mountain](https://open.spotify.com/track/46onMrFCJJlvAy748S6AfX) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Last Night On Earth](https://open.spotify.com/album/6qkuWN8LUnEJkbFmXRgiah) | 3:21 |
+| 2 | [HOT TO GO! \- Spotify Singles](https://open.spotify.com/track/5HoBujicJSH3hEIeDfmpTB) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Spotify Singles](https://open.spotify.com/album/0cgd1EfvYkm7fgr1m3mmkO) | 2:55 |
+| 3 | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j) | 3:18 |
+| 4 | [Blood for Blood](https://open.spotify.com/track/18Lw97bgXmA91KMfq8DViD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Blood for Blood](https://open.spotify.com/album/7EtisEfcsafbSOgo0wDC5K) | 3:53 |
+| 5 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
+| 6 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 |
 | 7 | [The Wreckage](https://open.spotify.com/track/4ZZdjo3O1UFMr0Q4nv3Ame) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Wreckage](https://open.spotify.com/album/0XnX3bEjGyZaDeWAelHQf7) | 4:28 |
 | 8 | [What Killed Elvis Presley?](https://open.spotify.com/track/13Ky3j9Wk3hSml7dz7HhI4) | [Hollerado](https://open.spotify.com/artist/4eNWAiPUXRaPmyWSc9glM3) | [Start A Band](https://open.spotify.com/album/1kE8M92jJ84aoseDN95tYj) | 2:28 |
 | 9 | [CHEERLEADER](https://open.spotify.com/track/6jucM8gcQT56RMoHQFtPG0) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [CHEERLEADER](https://open.spotify.com/album/3wSVE2UfYzoaodKlNtnTIX) | 4:08 |
@@ -105,9 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 95 | [Chrome Jets](https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Chrome Jets](https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf) | 3:36 |
 | 96 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 |
 | 97 | [Young As This](https://open.spotify.com/track/5qPQImgNyuoEFsZFGKUtX6) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Young As This](https://open.spotify.com/album/1b079FK9FKg2QFt24llds8) | 2:48 |
-| 98 | [The Moment](https://open.spotify.com/track/5RqyRk24lcL4GkZDA4Tip7) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 2:17 |
-| 99 | [New Plan](https://open.spotify.com/track/4XD9LjMYlAPutmVozaXuZr) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [New Plan](https://open.spotify.com/album/4kA25J7vx3ya5UuShMbgA9) | 3:25 |
-| 100 | [High Horse](https://open.spotify.com/track/3kgNYBRqrY5cfKjypJEUKr) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [High Horse](https://open.spotify.com/album/3pfde0RMSObLWkwllJhXqw) | 2:48 |
-| 101 | [On Ice](https://open.spotify.com/track/2wo4wX6FwPQ0YWW9wUNYY0) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [On Ice](https://open.spotify.com/album/2Jx3m0Kchicr2FHzv9f0yQ) | 3:01 |
+| 98 | [New Plan](https://open.spotify.com/track/4XD9LjMYlAPutmVozaXuZr) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [New Plan](https://open.spotify.com/album/4kA25J7vx3ya5UuShMbgA9) | 3:25 |
+| 99 | [High Horse](https://open.spotify.com/track/3kgNYBRqrY5cfKjypJEUKr) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [High Horse](https://open.spotify.com/album/3pfde0RMSObLWkwllJhXqw) | 2:48 |
+| 100 | [On Ice](https://open.spotify.com/track/2wo4wX6FwPQ0YWW9wUNYY0) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [On Ice](https://open.spotify.com/album/2Jx3m0Kchicr2FHzv9f0yQ) | 3:01 |
 
-Snapshot ID: `AAAAAIX6CjLW3tiwXaoyDFz9qaLaDoCp`
+Snapshot ID: `AAAAABIbHiDYYWWCepwicISHROUJsarB`

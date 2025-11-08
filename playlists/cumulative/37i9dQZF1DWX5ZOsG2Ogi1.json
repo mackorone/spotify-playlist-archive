@@ -700,7 +700,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 208858,
       "name": "AGUANTA",
       "url": "https://open.spotify.com/track/5EfEyIIDfjqtDNKCQPDZax"
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 222908,
       "name": "Brinquen Tetas",
       "url": "https://open.spotify.com/track/1nfHf7MUSvsGCgVQmjRfGP"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
@@ -4509,6 +4509,32 @@
     },
     {
       "album": {
+        "name": "D U R O",
+        "url": "https://open.spotify.com/album/5tnjiUY7dh6f61Ahge2XS1"
+      },
+      "artists": [
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183494,
+      "name": "D U R O",
+      "url": "https://open.spotify.com/track/713U89JR8j30nXdf1q0WaG"
+    },
+    {
+      "album": {
         "name": "Dale 2",
         "url": "https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj"
       },
@@ -4872,7 +4898,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 144500,
       "name": "Dejala Caer (with \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/4tMSB7gzZQJsKTaOfr80Qv"
@@ -5296,6 +5322,62 @@
       "duration_ms": 183994,
       "name": "Dese\u00e1ndote",
       "url": "https://open.spotify.com/track/5Vs8sN2nybAETsTF8crpYD"
+    },
+    {
+      "album": {
+        "name": "Desorden",
+        "url": "https://open.spotify.com/album/1gBxoKDyltZUjBiJlcJnh0"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182816,
+      "name": "Desorden",
+      "url": "https://open.spotify.com/track/0rbmAwml0Q0x0jS36Z2Zuv"
+    },
+    {
+      "album": {
+        "name": "DESPUES DE MI",
+        "url": "https://open.spotify.com/album/6pyHQBO9XRTm4t5ebIRfOp"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147551,
+      "name": "DESPUES DE MI",
+      "url": "https://open.spotify.com/track/5VN3RgOEZpv729TmPjajy8"
     },
     {
       "album": {
@@ -6200,9 +6282,9 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 235626,
-      "name": "El Telefono",
+      "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
@@ -8165,6 +8247,28 @@
     },
     {
       "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/5qU46sCdXutaPCKYLEv0NJ"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204571,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/16gluNDUf7GitRH9W3Y4zI"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -9406,7 +9510,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 204447,
       "name": "Kiriki",
       "url": "https://open.spotify.com/track/1S5lFLTOwraf98S5jOxuZO"
@@ -10468,7 +10572,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 196723,
       "name": "Lento - Remix",
       "url": "https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef"
@@ -12481,6 +12585,44 @@
     },
     {
       "album": {
+        "name": "Mi Perra Es",
+        "url": "https://open.spotify.com/album/4LDPfPrYt6vM1l9Ae5htIu"
+      },
+      "artists": [
+        {
+          "name": "LEANDRO",
+          "url": "https://open.spotify.com/artist/2BFWa30G0rc3ll9oY2BA3F"
+        },
+        {
+          "name": "KEICY",
+          "url": "https://open.spotify.com/artist/2Ep5jp8iscI74sMi7XNrvy"
+        },
+        {
+          "name": "Leandro Santos",
+          "url": "https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4"
+        },
+        {
+          "name": "WestCOL",
+          "url": "https://open.spotify.com/artist/7aHjCnaU9hjEKutc27SJxE"
+        },
+        {
+          "name": "Manix",
+          "url": "https://open.spotify.com/artist/1eJ5J8WxQ0FVGfvh5s9fkk"
+        },
+        {
+          "name": "Kavy Kali",
+          "url": "https://open.spotify.com/artist/77bweg7RoY35EmCC7kFXOc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245161,
+      "name": "Mi Perra Es",
+      "url": "https://open.spotify.com/track/7uyMSEjNulquqW61YOod7z"
+    },
+    {
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/3DCWtpUlHvcJUXW4pniHgv"
       },
@@ -12890,6 +13032,28 @@
       "duration_ms": 189346,
       "name": "Monastery",
       "url": "https://open.spotify.com/track/0lBYoRwjutFWOBGfQ2uMGk"
+    },
+    {
+      "album": {
+        "name": "MONSTRUO",
+        "url": "https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213430,
+      "name": "MONSTRUO",
+      "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
     },
     {
       "album": {
@@ -15356,7 +15520,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 206086,
       "name": "Pero No",
       "url": "https://open.spotify.com/track/2tlIQIBlWFVJdX7e6XX3DS"
@@ -18294,7 +18458,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 160178,
       "name": "Se Riega",
       "url": "https://open.spotify.com/track/7EOiQ1TeeA4eMgkCl4gUGY"
@@ -20868,7 +21032,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 156312,
       "name": "TU CON ELLA",
       "url": "https://open.spotify.com/track/5cbyN5kR4O6TJqHos33VP5"
@@ -21769,6 +21933,24 @@
     },
     {
       "album": {
+        "name": "VEN AC\u00c1",
+        "url": "https://open.spotify.com/album/28opQKCs6mjHJ7egVgMj60"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134582,
+      "name": "VEN AC\u00c1",
+      "url": "https://open.spotify.com/track/67VOcsWPZ38BXFL2NnJWs6"
+    },
+    {
+      "album": {
         "name": "Ven Arrebatate",
         "url": "https://open.spotify.com/album/1clFtF3APHONp0opecaCjd"
       },
@@ -22224,7 +22406,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 159280,
       "name": "WHISKY A LA ROCA",
       "url": "https://open.spotify.com/track/3nDhIGkMvnsd8zo5u6eD05"

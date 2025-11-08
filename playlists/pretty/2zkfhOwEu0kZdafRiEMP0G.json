@@ -6,7 +6,7 @@
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAGUoMPnpGCe5fhULc4737nATdKHM0T",
+  "snapshot_id": "AAAGVo0ZdQ1LoOZj3ORTVIxZJ8MMHMU6",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -585,34 +585,6 @@
       "url": "https://open.spotify.com/track/1wIzJvTTrg1LhuYR54BQ4y"
     },
     {
-      "added_at": "2025-10-27 20:19:25",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 127578,
-      "name": "Guns and Ships",
-      "url": "https://open.spotify.com/track/7m9XR7FquXLP1FewdAcNS9"
-    },
-    {
       "added_at": "2025-11-05 08:51:47",
       "album": {
         "name": "It's Like Poetry",
@@ -711,6 +683,58 @@
       "duration_ms": 211693,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/4kin4clo4ALSnwb33SYsdE"
+    },
+    {
+      "added_at": "2025-11-07 04:42:52",
+      "album": {
+        "name": "Anastasia (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI"
+      },
+      "artists": [
+        {
+          "name": "Derek Klena",
+          "url": "https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw"
+        },
+        {
+          "name": "Christy Altomare",
+          "url": "https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4"
+        }
+      ],
+      "duration_ms": 225506,
+      "name": "In a Crowd of Thousands",
+      "url": "https://open.spotify.com/track/5cdvyKY2z1kySEnUKI0VuO"
+    },
+    {
+      "added_at": "2025-11-07 04:42:58",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "On Bended Knee",
+      "url": "https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3"
+    },
+    {
+      "added_at": "2025-11-07 04:52:19",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     }
   ],
   "unique_name": "idek man",

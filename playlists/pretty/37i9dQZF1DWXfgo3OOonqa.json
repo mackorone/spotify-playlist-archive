@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 337065,
+  "num_followers": 337062,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF02jrYprbHNV3KjLkonc4VBg8d1",
+  "snapshot_id": "AAAAAEygNC4KjeHOP52VOq2DJAJlAm1/",
   "tracks": [
     {
       "added_at": "2025-11-06 23:00:29",
@@ -211,6 +211,26 @@
       "duration_ms": 122941,
       "name": "Offline",
       "url": "https://open.spotify.com/track/6LQSHYiDKmkehXiDELsyE1"
+    },
+    {
+      "added_at": "2025-11-07 09:22:44",
+      "album": {
+        "name": "T\u00c4NK",
+        "url": "https://open.spotify.com/album/3yofOf4yccca2QnqYNQcjY"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "Ceasar DD",
+          "url": "https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "T\u00c4NK",
+      "url": "https://open.spotify.com/track/22WDvHFpaNLAND708pdRUI"
     },
     {
       "added_at": "2025-11-06 23:00:29",

@@ -2,7 +2,7 @@
 
 ### [Marvel Music](https://open.spotify.com/playlist/37i9dQZF1DX5pOp62IUR81)
 
-> Step into the music of Marvel with soundtracks from your favorite films and series including Marvel Studios’ Special Presentation: Werewolf By Night, now streaming on Disney+\. © 2025 MARVEL
+> Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
 230 songs - 9 hr 52 min
 
@@ -146,7 +146,7 @@
 | [Opening Gambit](https://open.spotify.com/track/1fHuFtIeuPt8fVhbjSlTpk) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [The Falcon and the Winter Soldier: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/73smgzwYZ4L70UFP21Hpu0) | 3:05 | 2024-01-05 |  |
 | [Orgoscope Elevator](https://open.spotify.com/track/6LjtowCGeGuWfYyQktTGrW) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 1:26 | 2024-01-05 | 2025-01-31 |
 | [Path to Peace](https://open.spotify.com/track/0sNO0ut8a1tHEZZTjRg0z0) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...? \(Episode 8\) \[Original Soundtrack\]](https://open.spotify.com/album/0uzKhGu9eB20CuMv1WB4Op) | 0:58 | 2024-01-05 |  |
-| [Porch](https://open.spotify.com/track/4tU1GfEahdy2NKGviJJuM4) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 0:58 | 2025-11-05 |  |
+| [Porch](https://open.spotify.com/track/4tU1GfEahdy2NKGviJJuM4) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 0:58 | 2025-11-05 | 2025-11-08 |
 | [Portals](https://open.spotify.com/track/0OVtnS3l4vThGxkdqCxN6K) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 3:17 | 2024-01-05 |  |
 | [Practicing for Court](https://open.spotify.com/track/186LQmn6hZP4hTXqo5XEUN) | [Amie Doherty](https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf) | [She\-Hulk: Attorney at Law \- Vol\. 1 \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/09uIJnUR1CQ96YbPOBLttC) | 1:05 | 2024-01-05 |  |
 | [Pruned](https://open.spotify.com/track/3su6P1ExjmvB8noNcq2sK3) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/0KRhT6YRtWbgIhMqyOGAfa) | 2:44 | 2024-01-05 |  |

@@ -1831,6 +1831,32 @@
     },
     {
       "album": {
+        "name": "Every Time You Touch Me (Dave Lee Mixes)",
+        "url": "https://open.spotify.com/album/2HbBbsE0nzMSGGAx7jERIx"
+      },
+      "artists": [
+        {
+          "name": "OUTPUT / INPUT",
+          "url": "https://open.spotify.com/artist/5fjPiBvBC5a4wAojDdT1iq"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Antonio Mclendon",
+          "url": "https://open.spotify.com/artist/4NaYIELIYjb0N4snFg6NaB"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217406,
+      "name": "Every Time You Touch Me - Dave Lee Boogiefied Edit",
+      "url": "https://open.spotify.com/track/0OnsBoK42EpZbZoPz2LkUC"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27"
       },
@@ -3974,7 +4000,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 211049,
       "name": "Muscle Memory (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"

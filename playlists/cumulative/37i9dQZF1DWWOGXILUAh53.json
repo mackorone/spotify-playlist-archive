@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Hayley Kiyoko & Cash Cash",
+  "description": "The hottest new pop with all the drops. Cover: Illenium and Ryan Tedder",
   "name": "New Dance Pop",
   "tracks": [
     {
@@ -732,6 +732,28 @@
       "duration_ms": 184493,
       "name": "about you - Felix Cartal Remix",
       "url": "https://open.spotify.com/track/1BonZZUB89R2LZX6vsSofr"
+    },
+    {
+      "album": {
+        "name": "Above The Stars",
+        "url": "https://open.spotify.com/album/1gGPIDPaqdSDY3hUjGkgkU"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "HYMNALS",
+          "url": "https://open.spotify.com/artist/2seVQaAt7DMkQXYDMQ5nL7"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "Above The Stars",
+      "url": "https://open.spotify.com/track/4t6ATgn6aXN0IhrpndMPHf"
     },
     {
       "album": {
@@ -2267,6 +2289,42 @@
     },
     {
       "album": {
+        "name": "AS WE DANCE",
+        "url": "https://open.spotify.com/album/6fchNb3VOeQFvO5xjSYul2"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180049,
+      "name": "AS WE DANCE",
+      "url": "https://open.spotify.com/track/4Fom2z9v569kHF2XfnZe9V"
+    },
+    {
+      "album": {
+        "name": "YEBO",
+        "url": "https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162205,
+      "name": "At The Party",
+      "url": "https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN"
+    },
+    {
+      "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM"
       },
@@ -2818,7 +2876,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 156298,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/54PjbXrV6ONeRRZ0Ryvjzg"
@@ -4381,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "BREAKUP",
+        "url": "https://open.spotify.com/album/2JGIZABHaQ64BJn646SwgE"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "BREAKUP",
+      "url": "https://open.spotify.com/track/1z5IgJwq78uRL7l9AZ0qpN"
+    },
+    {
+      "album": {
         "name": "BRING IT ON",
         "url": "https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46"
       },
@@ -4748,6 +4824,24 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "album": {
+        "name": "Call Me Daddy",
+        "url": "https://open.spotify.com/album/38MG8hmJgo5oAiTfCTqfGI"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129751,
+      "name": "Call Me Daddy",
+      "url": "https://open.spotify.com/track/6SlPTwFzC2W5PPJXkY2wUr"
     },
     {
       "album": {
@@ -8504,7 +8598,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 148932,
       "name": "Don\u2019t Click Play",
       "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
@@ -11120,7 +11214,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 171200,
       "name": "Forever",
       "url": "https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB"
@@ -14820,7 +14914,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 207473,
       "name": "Honesty, Honestly",
       "url": "https://open.spotify.com/track/14x9nddj0j3HA8sMW5yjHT"
@@ -15712,6 +15806,24 @@
       "duration_ms": 171216,
       "name": "I Like Ur Look",
       "url": "https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A"
+    },
+    {
+      "album": {
+        "name": "I LIKE YOU",
+        "url": "https://open.spotify.com/album/6CosfT29afkYttNAx34QpL"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "I LIKE YOU",
+      "url": "https://open.spotify.com/track/3DSN6tmXnHlMAPNYLbKwTl"
     },
     {
       "album": {
@@ -17828,6 +17940,32 @@
       "duration_ms": 188963,
       "name": "Key to My Heart",
       "url": "https://open.spotify.com/track/5b41PBCmVHRlVmOb3vMHu8"
+    },
+    {
+      "album": {
+        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125520,
+      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
     },
     {
       "album": {
@@ -20024,6 +20162,24 @@
       "duration_ms": 167387,
       "name": "Love Turns Lonely",
       "url": "https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2"
+    },
+    {
+      "album": {
+        "name": "Love Who You Love",
+        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "Love Who You Love",
+      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
     },
     {
       "album": {
@@ -25700,7 +25856,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 184384,
       "name": "Phases",
       "url": "https://open.spotify.com/track/6NzoVYiCWulsOECuaXDazA"
@@ -28888,7 +29044,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 199384,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/7tMI32k7JL5O5P8l2ASsA9"
@@ -29078,6 +29234,28 @@
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
+    },
+    {
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/4ObBnpEpTSUzPooP6o4t8J"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Denis First",
+          "url": "https://open.spotify.com/artist/1qVHDR3icC0cD02ofnzEA1"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141496,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/1Lxyap5HhS6x09KlQc0AQQ"
     },
     {
       "album": {
@@ -30554,6 +30732,32 @@
       "duration_ms": 159246,
       "name": "Stay - Ely Oaks Version",
       "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
+    },
+    {
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/79u6HQ838dC9MxAUkXHvS6"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147686,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/07rPGAMTFCeRrpJjQXyrQ7"
     },
     {
       "album": {
@@ -34772,7 +34976,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 161656,
       "name": "Up \u200b(f\u200beat. Victony\u200b)",
       "url": "https://open.spotify.com/track/4s9SNosx6047q9AjLUJqY2"
@@ -35178,6 +35382,28 @@
       "duration_ms": 194763,
       "name": "Waiting (feat. Stephen Puth)",
       "url": "https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl"
+    },
+    {
+      "album": {
+        "name": "Waiting 4 U (Feat. Natalie Jane)",
+        "url": "https://open.spotify.com/album/1QfoSaZBlsQl3J76OyATZc"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173582,
+      "name": "Waiting 4 U (Feat. Natalie Jane)",
+      "url": "https://open.spotify.com/track/5Vojou9RHWw8neHwu9opT2"
     },
     {
       "album": {
@@ -35930,7 +36156,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 165517,
       "name": "what are you doing?",
       "url": "https://open.spotify.com/track/5Wj0NlnV4IOWmACK99Inei"
@@ -36910,6 +37136,54 @@
       "duration_ms": 173038,
       "name": "With You",
       "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2cqBEs8ChbRvsbcWPcxfvk"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "Loek",
+          "url": "https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0"
+        },
+        {
+          "name": "LORYN",
+          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7A5keFQ4h09H7lexVWR8Wt"
+    },
+    {
+      "album": {
+        "name": "With Your Love",
+        "url": "https://open.spotify.com/album/6HjOkGo6xdNpBJSTa4FlDK"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "With Your Love",
+      "url": "https://open.spotify.com/track/3T1CFsOfNi9Dy9cMtjNdEQ"
     },
     {
       "album": {

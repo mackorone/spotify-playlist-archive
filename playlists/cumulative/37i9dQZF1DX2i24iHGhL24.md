@@ -2,7 +2,7 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
+> Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
 452 songs - 1 day 2 hr 0 min
 

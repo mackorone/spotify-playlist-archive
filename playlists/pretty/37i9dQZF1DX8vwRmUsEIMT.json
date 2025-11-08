@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Katy Perry",
-  "num_followers": 588929,
+  "num_followers": 589292,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -207,8 +207,24 @@
     {
       "added_at": "2025-11-07 00:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Out The Window",
+        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 256615,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
+      "added_at": "2025-11-07 00:00:20",
+      "album": {
+        "name": "Voyeur (Deluxe)",
+        "url": "https://open.spotify.com/album/53Mn3nQy0YRTBWtyfwrOiL"
       },
       "artists": [
         {
@@ -275,8 +291,8 @@
     {
       "added_at": "2025-11-07 00:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
       },
       "artists": [
         {
@@ -291,17 +307,13 @@
     {
       "added_at": "2025-11-07 00:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "YEBO",
+        "url": "https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7"
       },
       "artists": [
         {
           "name": "WizTheMc",
           "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         }
       ],
       "duration_ms": 162205,
@@ -311,8 +323,8 @@
     {
       "added_at": "2025-11-07 00:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq"
       },
       "artists": [
         {

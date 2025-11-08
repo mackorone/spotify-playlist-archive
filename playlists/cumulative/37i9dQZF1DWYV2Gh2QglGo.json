@@ -4007,6 +4007,24 @@
     },
     {
       "album": {
+        "name": "All Kinds of Country",
+        "url": "https://open.spotify.com/album/623aZh6biaVYdHg0UpaZtj"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145100,
+      "name": "Keep on Truckin'",
+      "url": "https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh"
+    },
+    {
+      "album": {
         "name": "King of the Bar",
         "url": "https://open.spotify.com/album/6w8OXXetC7EoE2sQMEOU8h"
       },
@@ -7624,24 +7642,6 @@
       "duration_ms": 164526,
       "name": "too hot to be sad",
       "url": "https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        }
-      ],
-      "date_added": "2025-11-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh"
     },
     {
       "album": {

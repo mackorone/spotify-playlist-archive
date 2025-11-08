@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/0DRfxdlqVB54AZX35SK3pC"
+      },
+      "artists": [
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Giniio",
+          "url": "https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151807,
+      "name": "Canvas",
+      "url": "https://open.spotify.com/track/32pZXiV8O9r7WNFhjDj9Tm"
+    },
+    {
+      "album": {
         "name": "Combinatie",
         "url": "https://open.spotify.com/album/5dpVpb8NqQfV7JaFWcBzcP"
       },
@@ -1089,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "GEVAARLIJK",
+        "url": "https://open.spotify.com/album/1w2i8BKXT4NLZ58sluSaku"
+      },
+      "artists": [
+        {
+          "name": "Jada Faith",
+          "url": "https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157317,
+      "name": "GEVAARLIJK",
+      "url": "https://open.spotify.com/track/3ogMU4L0IEnBKFOt43b57M"
+    },
+    {
+      "album": {
         "name": "Gewond geraakt",
         "url": "https://open.spotify.com/album/6uKWwGIrPrKybBoK1t1w4S"
       },
@@ -1578,7 +1618,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 159111,
       "name": "Je Maakt Me Gek",
       "url": "https://open.spotify.com/track/0XBkVcQuFE3kb6p9XdMDsM"
@@ -3250,7 +3290,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 164836,
       "name": "Tweede Kans",
       "url": "https://open.spotify.com/track/1gPKDvkasYXdW8rYVfiNJl"

@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Linda Elys",
-  "num_followers": 37993,
+  "num_followers": 37994,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -67,8 +67,8 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
       },
       "artists": [
         {
@@ -147,8 +147,8 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Something Casual",
+        "url": "https://open.spotify.com/album/1l63h2CYnKWPNu7Z2OiWBH"
       },
       "artists": [
         {
@@ -156,8 +156,8 @@
           "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 209834,
+      "name": "Something Casual",
       "url": "https://open.spotify.com/track/3w3dmuLrKGTMg7ce3O4FYc"
     },
     {
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Unexplainable",
-        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 241888,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Unexplainable",
+        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 241888,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Arthouse",
-        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 199246,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Dancing Alone Again",
         "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 191432,
       "name": "Dancing Alone Again",
       "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+        "name": "Arthouse",
+        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+      "duration_ms": 199246,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Hocus Pocus",
-        "url": "https://open.spotify.com/album/2NuJzv8IX168RGNUb5xpX9"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 165012,
-      "name": "Hocus Pocus",
-      "url": "https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 148410,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 165867,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Flatline",
-        "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
+        "name": "Hocus Pocus",
+        "url": "https://open.spotify.com/album/2NuJzv8IX168RGNUb5xpX9"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 165867,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
+      "duration_ms": 165012,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 182247,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "One Day Will Be All I Have",
         "url": "https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 329980,
       "name": "One Day Will Be All I Have",
       "url": "https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Devil On My Back",
+        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Devil On My Back",
+      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -819,34 +819,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Devil On My Back",
-        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 194741,
-      "name": "Devil On My Back",
-      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 171753,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
+      "duration_ms": 182247,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -867,34 +851,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Durch die Nacht",
-        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
       },
       "artists": [
         {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 173830,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
+      "duration_ms": 171753,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -915,6 +883,38 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 164066,
       "name": "Power",
       "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Young Bones",
+        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -979,22 +995,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Young Bones",
-        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
-      },
-      "artists": [
-        {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Lost In You",
         "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
       },
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "Need To Be Loved",
         "url": "https://open.spotify.com/album/6T42dLfqiy1fcZ2MdOqdRw"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 176949,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3S0VGP8aFRl9prAYjEU8Ea"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "LEAVE ME ALONE",
-        "url": "https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy"
-      },
-      "artists": [
-        {
-          "name": "Julia Alexa",
-          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "LEAVE ME ALONE",
-      "url": "https://open.spotify.com/track/7jCDiKF2pGrNKIKrftGG39"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "New Her",
         "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 180750,
       "name": "New Her",
       "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Mathilda",
+        "url": "https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN"
+      },
+      "artists": [
+        {
+          "name": "Lost in Lona",
+          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
+        }
+      ],
+      "duration_ms": 242528,
+      "name": "Mathilda",
+      "url": "https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "LEAVE ME ALONE",
+        "url": "https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "LEAVE ME ALONE",
+      "url": "https://open.spotify.com/track/7jCDiKF2pGrNKIKrftGG39"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 220488,
       "name": "Leave The Light On",
       "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "The Wrong Cards",
-        "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
-      },
-      "artists": [
-        {
-          "name": "Lost in Lona",
-          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "The Wrong Cards",
-      "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Chlorine",
-        "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
-      },
-      "artists": [
-        {
-          "name": "Sivilian",
-          "url": "https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI"
-        }
-      ],
-      "duration_ms": 180590,
-      "name": "Chlorine",
-      "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "It's Fine",
-        "url": "https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R"
+        "name": "Chlorine",
+        "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
       },
       "artists": [
         {
-          "name": "Junes",
-          "url": "https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv"
+          "name": "Sivilian",
+          "url": "https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI"
         }
       ],
-      "duration_ms": 240266,
-      "name": "It's Fine",
-      "url": "https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY"
+      "duration_ms": 180590,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1379,6 +1363,38 @@
       "duration_ms": 167450,
       "name": "For You",
       "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "The Wrong Cards",
+        "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
+      },
+      "artists": [
+        {
+          "name": "Lost in Lona",
+          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "The Wrong Cards",
+      "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "It's Fine",
+        "url": "https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R"
+      },
+      "artists": [
+        {
+          "name": "Junes",
+          "url": "https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "It's Fine",
+      "url": "https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1403,38 +1419,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Mathilda",
-        "url": "https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN"
-      },
-      "artists": [
-        {
-          "name": "Lost in Lona",
-          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
-        }
-      ],
-      "duration_ms": 242528,
-      "name": "Mathilda",
-      "url": "https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Down To My Bones",
         "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
       },
@@ -1451,8 +1435,24 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Dorm",
-        "url": "https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Can",
+        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
       },
       "artists": [
         {
@@ -1460,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
         }
       ],
-      "duration_ms": 156899,
-      "name": "Dorm",
-      "url": "https://open.spotify.com/track/3o2msMcYmPBYSjCmESw5NL"
+      "duration_ms": 201557,
+      "name": "Can",
+      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1479,22 +1479,6 @@
       "duration_ms": 190652,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Curse",
-        "url": "https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2"
-      },
-      "artists": [
-        {
-          "name": "BombayMami",
-          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
-        }
-      ],
-      "duration_ms": 177740,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2"
+      },
+      "artists": [
+        {
+          "name": "BombayMami",
+          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
+        }
+      ],
+      "duration_ms": 177740,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "Starcrossed",
         "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
@@ -1563,8 +1563,8 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Can",
-        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
+        "name": "Dorm",
+        "url": "https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY"
       },
       "artists": [
         {
@@ -1572,9 +1572,25 @@
           "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
         }
       ],
-      "duration_ms": 201557,
-      "name": "Can",
-      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
+      "duration_ms": 156899,
+      "name": "Dorm",
+      "url": "https://open.spotify.com/track/3o2msMcYmPBYSjCmESw5NL"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "I Just Wanna Turn It Up",
+        "url": "https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        }
+      ],
+      "duration_ms": 164966,
+      "name": "I Just Wanna Turn It Up",
+      "url": "https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1623,22 +1639,6 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "I Just Wanna Turn It Up",
-        "url": "https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld"
-      },
-      "artists": [
-        {
-          "name": "DJ Antoine",
-          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
-        }
-      ],
-      "duration_ms": 164966,
-      "name": "I Just Wanna Turn It Up",
-      "url": "https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW"
     }
   ],
   "unique_name": "Swiss Made",

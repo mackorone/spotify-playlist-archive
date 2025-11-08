@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Ledbyher
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,393 likes - 70 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,440 likes - 70 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 20 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 |
 | 21 | [Pressure](https://open.spotify.com/track/2mwplM6WLAxWaeWuL5vk6x) | [BandobabyLR](https://open.spotify.com/artist/19ACRq8RCDb6b8Q0SpNM1b) | [Pressure](https://open.spotify.com/album/4cfPHwvg91XG29WHQqWivy) | 2:56 |
 | 22 | [I Have So Much To Tell You](https://open.spotify.com/track/2PkCkaQc3Gokr4eHCs2C2B) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Have So Much To Tell You](https://open.spotify.com/album/6erpduA3ocDzhOCMLD8msi) | 3:50 |
-| 23 | [VON DUTCH](https://open.spotify.com/track/7E3zfM4yUvvO9h3uLYqy61) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [Daveyoh](https://open.spotify.com/artist/1bXcACbUTycIcqC0AiQ0Is) | [](https://open.spotify.com/album/null) | 2:07 |
+| 23 | [VON DUTCH](https://open.spotify.com/track/7E3zfM4yUvvO9h3uLYqy61) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [Daveyoh](https://open.spotify.com/artist/1bXcACbUTycIcqC0AiQ0Is) | [READY WHEN YOU ARE](https://open.spotify.com/album/30HnP89eG6KCw1gugtSEda) | 2:07 |
 | 24 | [we luv ab!](https://open.spotify.com/track/6IAhMc8nRiNk1ZCtXim702) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [ab, we wanna party!](https://open.spotify.com/album/0Mip5DiQijAAI9gX80ypGA) | 2:32 |
 | 25 | [How Greedy](https://open.spotify.com/track/0H5pHlungswiZGbFIrcknj) | [SWiTCH](https://open.spotify.com/artist/6cTIiIfSl5XVcBjNksApDW) | [How Greedy](https://open.spotify.com/album/5fIJpPE2LbGMXN0WVjZKdF) | 1:37 |
 | 26 | [Sun Time](https://open.spotify.com/track/0aTJDB5KAbxHPhAh61DRF9) | [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [Lily Afield](https://open.spotify.com/artist/4Gx8WSAZtHsd11BhFEV7cv) | [Sun Time](https://open.spotify.com/album/5DhJIa24Zu8rpMtUKprvzT) | 3:02 |

@@ -4512,7 +4512,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 212144,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E"
@@ -8808,6 +8808,24 @@
       "duration_ms": 233416,
       "name": "Isfahan",
       "url": "https://open.spotify.com/track/1xUj0IyCqDQuMFIBbEel3s"
+    },
+    {
+      "album": {
+        "name": "Isla\u2019s Lament",
+        "url": "https://open.spotify.com/album/5Frr1hMo5gIqn9qD8Vsfpt"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206837,
+      "name": "Isla\u2019s Lament",
+      "url": "https://open.spotify.com/track/7zUhvOYfWM52VkeBP0zDZW"
     },
     {
       "album": {
@@ -18366,7 +18384,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 234604,
       "name": "Torresdale",
       "url": "https://open.spotify.com/track/2K8Q1GWnm5hmK9J0Af64J1"
@@ -18820,7 +18838,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 200214,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6"

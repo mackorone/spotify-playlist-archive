@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,827 songs - 5 day 4 hr 11 min
+1,828 songs - 5 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1502,6 +1502,7 @@
 | [Stay](https://open.spotify.com/track/4a0zcE6Ba4U61YOF8tnqY0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Stay](https://open.spotify.com/album/3hDLTLUJkWdbyFRsbM0OPk) | 4:00 | 2025-06-20 | 2025-07-21 |
 | [Stay Here](https://open.spotify.com/track/1UOhslFENZSjK6KFaJ6wAN) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena) | [Oxygen](https://open.spotify.com/album/2OduN4aoUP3wYoZRSEsrUf) | 4:09 | 2020-05-18 | 2020-07-03 |
 | [Stay Still](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay Still](https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX) | 4:33 | 2024-04-12 | 2025-08-30 |
+| [Stay Still, A Little While](https://open.spotify.com/track/6qbdnKNznLiwqplr35yb1n) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Stay Still, A Little While](https://open.spotify.com/album/3dCJW7g5MkeE9p7X4h4sjd) | 5:20 | 2025-11-07 |  |
 | [Stay With Me](https://open.spotify.com/track/3xbxh3LW9v6E3wn1AwUJfe) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 2:47 | 2020-05-18 | 2020-07-03 |
 | [Steps](https://open.spotify.com/track/3Dn8jGRCvVOtAIaG0pY6we) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [MALIAN](https://open.spotify.com/artist/0d6VNGVzfu99Bs0qi6CpD2), [Roundrobin](https://open.spotify.com/artist/6lzdsHJPRvkOydWYIQjnQc) | [Visage 8 \(Steps\)](https://open.spotify.com/album/2kb4wuBoAlLU8lPLZMSU0u) | 3:20 | 2024-11-15 | 2024-11-25 |
 | [Still \(Love You\)](https://open.spotify.com/track/3qVRAMZ0JdxLoeCKxM2nnQ) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE) | [Still \(Love You\)](https://open.spotify.com/album/0o8G6etVVOtEovOR8QPUZQ) | 3:03 | 2024-04-19 | 2024-06-11 |
@@ -1636,7 +1637,7 @@
 | [Those Days](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Exit Coda](https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8) | [Those Days](https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX) | 3:47 | 2023-09-08 | 2024-08-03 |
 | [Threads](https://open.spotify.com/track/39bfCEpkqN01tmAILFBkgG) | [Archaellum](https://open.spotify.com/artist/20USeJ3zyr7lnuWJMJqGUD) | [Threads](https://open.spotify.com/album/1GnfJnQnJKseHJLwYjzpFB) | 3:06 | 2021-10-08 | 2022-07-28 |
 | [Thunda \(feat\. John Mendelsohn\) \- HNNY Remix](https://open.spotify.com/track/7FcN74qp11KkNO0Xd7WMxU) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Tim K](https://open.spotify.com/artist/4d3uomgSkoaZSgZU7D67jE), [John Mendelsohn](https://open.spotify.com/artist/7ex7EZNGzENqaqUoPO6HQi) | [Thunda \(feat\. John Mendelsohn\)](https://open.spotify.com/album/2qvSsqazvZPxxBF3aiunlM) | 7:02 | 2020-05-18 | 2020-07-03 |
-| [Tidal Wave](https://open.spotify.com/track/5U1zaCg0SRkvidC8cBbewx) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Tidal Wave](https://open.spotify.com/album/3ug1Vz79SQ7HufUo3TpKVq) | 2:46 | 2025-08-29 |  |
+| [Tidal Wave](https://open.spotify.com/track/5U1zaCg0SRkvidC8cBbewx) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Tidal Wave](https://open.spotify.com/album/3ug1Vz79SQ7HufUo3TpKVq) | 2:46 | 2025-08-29 | 2025-11-08 |
 | [Tide](https://open.spotify.com/track/4BBlimMXFek1ZFyCafeEVY) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys) | [Tide](https://open.spotify.com/album/4gDzDcwlRZ5zDGfduf9lJw) | 3:11 | 2022-05-27 | 2022-12-29 |
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2022-04-22 | 2022-12-29 |
 | [Tied To You \- Yotto Remix](https://open.spotify.com/track/6iQ9KEZuDYjz7GjAeTT0sO) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Tied To You \(Yotto Remix\)](https://open.spotify.com/album/19PmC8YknlZQ2kex90EdwB) | 6:02 | 2024-04-19 | 2024-05-11 |

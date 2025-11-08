@@ -4,7 +4,7 @@
 
 > Tous les hits latino du moment sont ici\. Photo : Bizarrap, Daddy Yankee
 
-340 songs - 17 hr 32 min
+340 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Avece](https://open.spotify.com/track/7xpW5u12cuoIWZA4PpWtLO) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Avece](https://open.spotify.com/album/3MscqliTChw3pPK5Ohlclk) | 2:32 | 2025-11-06 |  |
 | [AVÍSAME](https://open.spotify.com/track/5sJENjW2kNuzIFxDSuid44) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [AVÍSAME](https://open.spotify.com/album/396EIQk3iN4a2ab86ZiVOJ) | 2:38 | 2025-10-23 | 2025-11-07 |
 | [AyMami](https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [AyMami](https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7) | 2:44 | 2025-07-03 | 2025-07-19 |
+| [Azucar](https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Mixed Feelings](https://open.spotify.com/album/6P21kzrMNOGSULxDw47nXD) | 2:21 | 2025-11-06 |  |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-03-27 |  |
 | [Baby](https://open.spotify.com/track/061HqlGR7nPHyCUM4raLXy) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby](https://open.spotify.com/album/5QI1TWbg2dsDDS8RB0P24B) | 3:21 | 2025-04-10 | 2025-05-09 |
 | [Bachata Bélica](https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Bachata Bélica](https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02) | 3:15 | 2025-01-16 | 2025-03-14 |
@@ -313,7 +314,6 @@
 | [TOQUE DE QUEDA \(feat\. Peipper\)](https://open.spotify.com/track/1qTAHepXsJBb1c0MoBVP0J) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [TOQUE DE QUEDA \(feat\. Peipper\)](https://open.spotify.com/album/438SWtqpPDUbIad03OAHUT) | 2:42 | 2025-05-08 | 2025-05-23 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-23 | 2024-06-21 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-09-28 | 2024-07-05 |
-| [Track 8](https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 | 2025-08-14 |  |
 | [TRAJECITO](https://open.spotify.com/track/2NGbCghWkDGTZtknazgEuf) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [TRAJECITO](https://open.spotify.com/album/22pfyMyN1fDcgnlSLNPGGo) | 3:14 | 2023-11-23 | 2024-08-16 |
 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 | 2024-02-29 | 2025-04-04 |

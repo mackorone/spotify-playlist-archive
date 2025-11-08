@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: thatboykwame
 
-704 songs - 1 day 10 hr 11 min
+704 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Preach](https://open.spotify.com/track/0dxupq1dWkfw6rFeaxwTTE) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr) | [Preach](https://open.spotify.com/album/3qCzLZmKm0dozA92WXogJ9) | 2:39 | 2024-06-21 | 2024-07-27 |
 | [Precision](https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Precision](https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO) | 2:47 | 2024-03-22 | 2024-08-02 |
 | [Prettier](https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sorry I'm Late](https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U) | 2:57 | 2024-08-29 | 2024-12-13 |
+| [prIDe](https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [In A Matter of Time](https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H) | 2:35 | 2025-11-06 |  |
 | [PRIDE \- EPISODE 2](https://open.spotify.com/track/5N32A33Xtf216gEBTUgnMr) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [PRIDE \(EPISODE 2\)](https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu) | 2:15 | 2024-08-01 | 2024-09-20 |
 | [Proper](https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Sinning Winning Living](https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk) | 3:22 | 2023-10-05 | 2023-12-08 |
 | [PROTECT THE CROSS](https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [PROTECT THE CROSS](https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm) | 2:49 | 2025-02-13 | 2025-02-28 |
@@ -638,7 +639,6 @@
 | [Touch Tight](https://open.spotify.com/track/573IKEOcJbl5FOKLrZfoPl) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Touch Tight](https://open.spotify.com/album/4s6Wa5Rokzi0dmSmxdNFGm) | 1:31 | 2024-12-05 | 2025-03-21 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-10-11 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-09-22 | 2023-12-22 |
-| [Track 2](https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 | 2025-02-20 | 2025-05-30 |
 | [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 | 2025-02-20 | 2025-07-18 |
 | [Trauma \(feat\. Lil Tjay\)](https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 3:17 | 2024-02-08 | 2024-05-10 |

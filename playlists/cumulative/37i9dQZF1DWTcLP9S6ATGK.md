@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Padi
 
-709 songs - 1 day 22 hr 24 min
+711 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Gila Dunia Ini Bercandanya](https://open.spotify.com/track/5GVRVN0vBsdqpVDazuquaI) | [SAIVA](https://open.spotify.com/artist/21aguPG8NYw56jG3qwIQZG) | [Gila Dunia Ini Bercandanya](https://open.spotify.com/album/4xJozwYdmfpZZYM9wvDIv4) | 4:15 | 2025-07-03 | 2025-09-26 |
 | [Gini Gini Aja](https://open.spotify.com/track/16Hf4fDGmXDCpvMxjStDsh) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Gini Gini Aja](https://open.spotify.com/album/0zK0hZ6PBP0RBizTXK4CJZ) | 2:02 | 2024-07-25 | 2024-09-13 |
 | [Gontai](https://open.spotify.com/track/7q4pOr7RZPB8zC6Ojok6GH) | [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3), [Awra Putri](https://open.spotify.com/artist/6X2gPeIJz689q0nvgVI6bI) | [Gontai](https://open.spotify.com/album/05T6m2Uhv2464Q7I06rIzr) | 4:35 | 2024-09-12 | 2024-11-29 |
+| [Gugur Bunga](https://open.spotify.com/track/65iFnANVYihc3ak6MejUIL) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Gugur Bunga](https://open.spotify.com/album/026mCGrFsxUPgxOIWSVW3t) | 3:57 | 2025-11-07 |  |
 | [Habis](https://open.spotify.com/track/7tKSapEjEMTPeNbsOgcMY1) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Habis](https://open.spotify.com/album/0h0vKApJDA6J76nFoZyJdh) | 3:57 | 2024-11-21 | 2025-04-25 |
 | [Hai Apa Kabar](https://open.spotify.com/track/6nMBB1JxN74JT9fkxsWkoe) | [Gisel](https://open.spotify.com/artist/4L0t6db3fWWG07bh14TxUw) | [Hai Apa Kabar](https://open.spotify.com/album/7scoQ8RAsPznEfJPtMb9LB) | 4:15 | 2024-10-24 | 2025-01-10 |
 | [Halal Selamanya](https://open.spotify.com/track/0Lk9VNcKBcmPEhjlC7fo5K) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Halal Selamanya](https://open.spotify.com/album/6AkRaIeU2rjDAsIL3S0T7E) | 3:52 | 2025-05-08 | 2025-08-09 |
@@ -415,6 +416,7 @@
 | [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 | 2025-07-17 |  |
 | [Mewek \- feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek \(feat\. Helmi Utta\)](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 | 2024-12-20 | 2025-03-21 |
 | [Milikku Seutuhnya](https://open.spotify.com/track/0UMrmBvG1wpKQQ1qetvSYh) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Milikku Seutuhnya](https://open.spotify.com/album/2SFeCcYE2PvbARW3CMOKeh) | 3:53 | 2024-07-25 | 2024-09-27 |
+| [Mimpi Kecil](https://open.spotify.com/track/5j2dFLajKaoNiHDplbbOx6) | [V1RST](https://open.spotify.com/artist/2kTWDbs4Ve7BgSKhNsWHGx) | [Mimpi Kecil](https://open.spotify.com/album/1tQwub2k1UiNmF2jeGrJRp) | 3:18 | 2025-11-07 |  |
 | [Momen Terakhir Kita](https://open.spotify.com/track/3AzQrKA3ob7K2E6T2XOoSd) | [Deorama](https://open.spotify.com/artist/26T0jJqSBB1xd23xIuMDXy) | [Momen Terakhir Kita](https://open.spotify.com/album/3kLv8WANccos7jrXaYIv2Z) | 3:54 | 2025-10-16 |  |
 | [MONSTER](https://open.spotify.com/track/3rw9rjplRXaJyRPvxIcLf7) | [PIAFARHAN](https://open.spotify.com/artist/0M7CsP09MKGoHKNcOqJ4kV) | [MONSTER](https://open.spotify.com/album/0crjWUx4z8Vm13Gar8K4cL) | 3:36 | 2025-10-03 | 2025-11-07 |
 | [Munajat Cinta](https://open.spotify.com/track/4xvQFWJ1QQ1SDJDJcoVdYa) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [17](https://open.spotify.com/album/7Bnv9riHf254iV9yh2XLCk) | 3:45 | 2025-02-20 | 2025-04-25 |

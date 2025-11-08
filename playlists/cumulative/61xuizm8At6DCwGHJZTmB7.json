@@ -5801,6 +5801,24 @@
     },
     {
       "album": {
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/3UWJtNJgw056wOIQzWhKKT"
+      },
+      "artists": [
+        {
+          "name": "Jesus Image",
+          "url": "https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1007523,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/36BSCJokEke5nqVvGxTiJs"
+    },
+    {
+      "album": {
         "name": "Worldwide Revival (Pt. 1)",
         "url": "https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r"
       },

@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/5vFiOscQdWP3U1xs2h7crJ"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174775,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/0M1evXRJCazgbsSjloZ8yh"
+    },
+    {
+      "album": {
         "name": "Na\u00efve",
         "url": "https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R"
       },
@@ -3464,7 +3482,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 220525,
       "name": "You Can Make It",
       "url": "https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa"

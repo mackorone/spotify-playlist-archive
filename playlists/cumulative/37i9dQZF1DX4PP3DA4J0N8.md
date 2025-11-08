@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-204 songs - 9 hr 46 min
+205 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Birds Nest](https://open.spotify.com/track/4bMTIVZmDiAaDS45kVEkgn) | [Scenery Samples](https://open.spotify.com/artist/3xx7H6fXVcKgXrNJGXTaYv) | [Eager Bird](https://open.spotify.com/album/65ogwjkTFXvGIo1F19Ml68) | 1:52 | 2023-09-20 | 2023-10-12 |
 | [Birds of Papua New Guinea](https://open.spotify.com/track/5KnvxIUwYmSCGu4yD6Dvb6) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Feathers in the Forest](https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb) | 3:05 | 2024-03-26 |  |
 | [Birds Of the Rainforest](https://open.spotify.com/track/4KbwasB5txiAwLRFQsrZ07) | [Lively Nature Sounds](https://open.spotify.com/artist/4hYhL32tebI7EDJR8aDNWL) | [Wild Life Birds and Rain](https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG) | 2:35 | 2022-03-25 |  |
-| [Birds Paradise](https://open.spotify.com/track/4n93PWs9VWFZ3GsPmEfU2H) | [The Earth Song](https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r) | [Birds Paradise](https://open.spotify.com/album/19iX0UCSinHqEVNM8hG6ec) | 3:53 | 2025-07-21 |  |
+| [Birds Paradise](https://open.spotify.com/track/4n93PWs9VWFZ3GsPmEfU2H) | [The Earth Song](https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r) | [Birds Paradise](https://open.spotify.com/album/19iX0UCSinHqEVNM8hG6ec) | 3:53 | 2025-07-21 | 2025-11-08 |
 | [Birds Singing By The River](https://open.spotify.com/track/48ZBpsfLHYzXDCSReai3ls) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:02 | 2023-06-20 |  |
 | [Birds Singing in the Morning Rain](https://open.spotify.com/track/5eksbeKyteoDgDb9E6Hj2K) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Rain Chirpings](https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC) | 3:03 | 2022-03-25 |  |
 | [Birds Warning the arrival of thunder](https://open.spotify.com/track/52xxBuyMUSghtmf7Cv5pVh) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Birds, Thunder & Rain](https://open.spotify.com/album/6xW5OCWUJ06VgPvLxIQy3M) | 2:51 | 2023-09-20 |  |
@@ -70,6 +70,7 @@
 | [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 |  |
 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 | 2022-03-25 | 2024-03-27 |
 | [Down Stream](https://open.spotify.com/track/7x50aLAvwia2rd5YX5Jz2a) | [Drifting Streams](https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo) | [Down Stream](https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP) | 5:14 | 2022-03-25 |  |
+| [Drifting Through Birdsong](https://open.spotify.com/track/6VvQIvgcal9w3tOgd76blm) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Drifting Through Birdsong](https://open.spotify.com/album/6P490oFAW66ie6kcwq7PDH) | 2:50 | 2025-09-23 |  |
 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 | 2022-03-25 |  |
 | [Drops Of Skies](https://open.spotify.com/track/7b2LGKVoG029pfEgI0Jnmk) | [Tailormade Rain](https://open.spotify.com/artist/136WJmw5lkgh37HAthTB1p) | [Drops Of Skies](https://open.spotify.com/album/4wopG570SslotxhJVt1WC8) | 2:53 | 2022-03-25 |  |
 | [Early Morning Birds \(Rain Drizzle\)](https://open.spotify.com/track/6Es2nGgTKSDSW3xED0N2fi) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Birds On A Rainy Day](https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY) | 2:37 | 2023-03-03 |  |

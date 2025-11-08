@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43743,
+  "num_followers": 43740,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaezJyOwuLZtAZRG2jeFwhdK9fjH0O",
+  "snapshot_id": "AAAafblc58fRh2kbciVwG5LhyoRPm2Af",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:51",
+      "album": {
+        "name": "Feeling Better",
+        "url": "https://open.spotify.com/album/3NwiHs9fR4lE1ST65PP4UM"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Feeling Better",
+      "url": "https://open.spotify.com/track/2MCr6eVXF5KsChTdx9r66j"
+    },
+    {
+      "added_at": "2025-11-07 05:00:50",
+      "album": {
+        "name": "Higher Off The Ground",
+        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 185850,
+      "name": "Higher Off The Ground",
+      "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
+    },
     {
       "added_at": "2025-10-31 04:00:48",
       "album": {

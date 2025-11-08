@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -964,10 +964,32 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215585,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
     },
     {
       "album": {
@@ -1064,7 +1086,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 202943,
       "name": "Goud",
       "url": "https://open.spotify.com/track/5SaapweQAEx7X1R47ItZ75"
@@ -1286,7 +1308,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 174288,
       "name": "Ik Zing (feat. Snelle)",
       "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
@@ -1468,7 +1490,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 172317,
       "name": "Lichtje Branden",
       "url": "https://open.spotify.com/track/16VFlUdJfBnF2UoMgTJIDI"
@@ -2322,7 +2344,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 228518,
       "name": "The Dead Dance",
       "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
@@ -2627,6 +2649,28 @@
     },
     {
       "album": {
+        "name": "Waarom Moet Ze Nou Een DJ Zijn",
+        "url": "https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK"
+      },
+      "artists": [
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154186,
+      "name": "Waarom Moet Ze Nou Een DJ Zijn",
+      "url": "https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH"
+    },
+    {
+      "album": {
         "name": "Wacht Op Mij",
         "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
       },
@@ -2807,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Wij zeggen nee, nee, nee, tegen een AZC",
+        "url": "https://open.spotify.com/album/64tMaHZZvQcU2173dhWmUS"
+      },
+      "artists": [
+        {
+          "name": "Intermissible",
+          "url": "https://open.spotify.com/artist/0kX4KkWcAui6mGj9wrsmLQ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191727,
+      "name": "Wij zeggen nee, nee, nee, tegen een AZC",
+      "url": "https://open.spotify.com/track/5Myj2HrZ4AogKamMa2A6kW"
+    },
+    {
+      "album": {
         "name": "Wij zeggen nee, nee, nee, tegen een AZC (Hardcore Mix)",
         "url": "https://open.spotify.com/album/6woHRzOJuVNjjqGc4b0ROt"
       },
@@ -2818,7 +2880,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 191719,
       "name": "Wij zeggen nee, nee, nee, tegen een AZC - Hardcore Mix",
       "url": "https://open.spotify.com/track/4nW7z4lyhT18qAuz7uZ7lW"
@@ -2872,7 +2934,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 159673,
       "name": "YAMA",
       "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"

@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: <br/>MIYEON\(미연\)\)
 
-871 songs - 1 day 22 hr 4 min
+872 songs - 1 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [911](https://open.spotify.com/track/0eZhYAlCbRabmUwBTySHzz) | [HEUN](https://open.spotify.com/artist/4ulWyVHfnZcF0mR9FlRH2c) | [911](https://open.spotify.com/album/2eWXD2RzxuukaKuNXr5odA) | 3:14 | 2023-02-14 | 2023-02-25 |
 | [\[LUVSONG\]](https://open.spotify.com/track/1JIQ95WktE4Gukv3OTpJxP) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [\[LUVSONG\]](https://open.spotify.com/album/1UXIoR8FHsrfE52VVxzoGn) | 3:20 | 2022-04-19 | 2022-04-21 |
 | [A Fish Out Of Water](https://open.spotify.com/track/1nDNgtujrjN5zePUf8BZ8r) | [Unchan](https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF) | [A Fish Out Of Water](https://open.spotify.com/album/2WYgtSocIdm9nRC5vPZf04) | 3:42 | 2022-05-11 | 2022-05-15 |
+| [ABG](https://open.spotify.com/track/4wMXivIRf9HsR3eKXBWVgF) | [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [ABG](https://open.spotify.com/album/2ffzFWbrwSDrnKYQo5HHlI) | 1:50 | 2025-11-03 |  |
 | [about you](https://open.spotify.com/track/4MYFwF0xZNoUjzVZDtuNMN) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:35 | 2023-02-12 | 2023-02-25 |
 | [absence](https://open.spotify.com/track/6HVB5lL5MEaTpl4mYRPUIT) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [absence](https://open.spotify.com/album/4zhI9laN70F0aMvoqltLmG) | 3:20 | 2022-04-19 | 2022-04-21 |
 | [Adore You](https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Adore You](https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3) | 2:31 | 2025-02-06 | 2025-03-13 |
@@ -457,7 +458,7 @@
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 | 2023-07-14 | 2023-07-25 |
 | [Love of My Life](https://open.spotify.com/track/4CyPvA5XZJBFxD4x71iFgh) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [Heart Full of Empty Love](https://open.spotify.com/album/5aPm1mE6zlVO8cPRFoczCo) | 3:01 | 2022-07-24 | 2022-07-26 |
-| [Love on the canvas](https://open.spotify.com/track/0ZEVwqNc0GsPY1s4MfNWUh) | [SOHEE](https://open.spotify.com/artist/62iRJlNqfISnjjLiQ5iMyI) | [EXchange4, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/4VKpmgKeSRkAWJTLNiQd5Y) | 3:12 | 2025-10-18 |  |
+| [Love on the canvas](https://open.spotify.com/track/0ZEVwqNc0GsPY1s4MfNWUh) | [SOHEE](https://open.spotify.com/artist/62iRJlNqfISnjjLiQ5iMyI) | [EXchange4, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/4VKpmgKeSRkAWJTLNiQd5Y) | 3:12 | 2025-10-18 | 2025-11-08 |
 | [Love Paradox \(feat\. Ash\-B\)](https://open.spotify.com/track/1kIVH72XZlgZsE2j2tYYyX) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4) | [Foxiboy](https://open.spotify.com/album/6GdYQZVWk6RMZBslqjSFn0) | 3:07 | 2022-04-19 | 2022-04-21 |
 | [Love Power Warrior \(Prod\. hyeminsong\)](https://open.spotify.com/track/7wFLMYAba4y9quHtt1KRVR) | [Yoon Da Hye](https://open.spotify.com/artist/1MMvp9AK4S9WKByz3xt83F), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi) | [AP Melodies](https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi) | 3:33 | 2025-08-04 | 2025-08-20 |
 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 | 2024-09-20 |

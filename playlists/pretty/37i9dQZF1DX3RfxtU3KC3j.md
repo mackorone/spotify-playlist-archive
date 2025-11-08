@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Rana Türkyılmaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,563 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,546 likes - 74 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 7 | [Gelgit](https://open.spotify.com/track/7i2lIDC7Mt3K6KWrUI4t82) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Gelgit](https://open.spotify.com/album/6L9alKfPqsnsBDmlTkZvxO) | 3:58 |
 | 8 | [OLMAZ](https://open.spotify.com/track/2i5alqMQnDQcfk5qlnbBJJ) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [OLMAZ](https://open.spotify.com/album/5Vu4IhX3xGTj8WN3WfgqU5) | 3:29 |
 | 9 | [Aikido\-Tekvando](https://open.spotify.com/track/4ncEXQ6xZ7G0n1CkIAX3S2) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Aikido\-Tekvando](https://open.spotify.com/album/5FQyhvTfsgntRHqOk2tT7v) | 3:15 |
-| 10 | [Track 10](https://open.spotify.com/track/6FbfH9yRPzpsik3hgWjf7x) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [Beni Hiç Sevmiyor Musun](https://open.spotify.com/track/6FbfH9yRPzpsik3hgWjf7x) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [Kara Kutu](https://open.spotify.com/album/6CS6GeDYF0ywQbX7wSbuu0) | 3:06 |
 | 11 | [Duy Beni](https://open.spotify.com/track/4l2yY4U2SGUUBj9znRAvi8) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Duy Beni](https://open.spotify.com/album/5SmvSsYRxHZnDRUPz2pQzL) | 2:29 |
 | 12 | [Dön İstersen](https://open.spotify.com/track/669zHNo3HkeSiXSpLgdXKg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Dön İstersen](https://open.spotify.com/album/4nfjFstbsnQk8XgBM9cMnN) | 3:27 |
 | 13 | [Tam Olmadı](https://open.spotify.com/track/5xqsQ49vUWEyW0yKbWRaNJ) | [kerem](https://open.spotify.com/artist/5e0UFmjGemojlO14QuYZaV) | [Tam Olmadı](https://open.spotify.com/album/6xQBv3Rid44aYOOVBHnPdG) | 2:44 |

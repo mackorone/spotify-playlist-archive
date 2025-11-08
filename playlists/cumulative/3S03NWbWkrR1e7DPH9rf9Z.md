@@ -4,10 +4,11 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-217 songs - 10 hr 38 min
+218 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Lil Bit Of](https://open.spotify.com/track/5txeA1GWq9T5vYOLhbKyIC) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq) | [A Lil Bit Of](https://open.spotify.com/album/1HAh5twifzLGw8zOSbYiET) | 2:53 | 2025-11-07 |  |
 | [A Thousand Stars](https://open.spotify.com/track/0Vwe7UogKwXR3CHPe50psX) | [Samlight](https://open.spotify.com/artist/2O8vLNXeIM7NGGUAb5LxX8), [hannah kate](https://open.spotify.com/artist/7HPNYz5CtDCjSmxPj15VJQ) | [A Thousand Stars](https://open.spotify.com/album/3Ce3jLE3JjLwsKXZ0pc02c) | 2:37 | 2025-07-04 |  |
 | [Addict](https://open.spotify.com/track/4z17eiO9pIQxgtu6X0YKgq) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Addict](https://open.spotify.com/album/0WVxAgwZvPhEOPQBBhJGlV) | 2:10 | 2025-07-04 |  |
 | [Addicted \- BLK RSE Remix](https://open.spotify.com/track/1J6WkPegBLn9wIX3FrtXHY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [MICK \(Deluxe Edition\)](https://open.spotify.com/album/6Xit1xmHogbGUaJJJfjpzc) | 2:58 | 2025-07-04 |  |
@@ -107,7 +108,7 @@
 | [I Don't Like You](https://open.spotify.com/track/4g6Vuzzu7vXMt31BN2DxLg) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [I Don't Like You](https://open.spotify.com/album/4zCedXFg8Xg6Lx6RBCwnUD) | 2:23 | 2025-07-04 |  |
 | [I Feel Whole](https://open.spotify.com/track/3JYeqQ9Gmruj26KRfp5PhH) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alvi](https://open.spotify.com/artist/5NiZEpj3XzblvgCLwxurbg) | [I Feel Whole](https://open.spotify.com/album/7zSt2XDCPGfvZyg4t7931W) | 2:34 | 2025-07-04 |  |
 | [I Remember The Time Of My Life](https://open.spotify.com/track/1w9WjD7cTE8VduopT80VFZ) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [I Remember The Time Of My Life](https://open.spotify.com/album/5y26OYSKUv3b1Ur8v6xtqr) | 2:34 | 2025-07-04 |  |
-| [Imagine](https://open.spotify.com/track/2xH3TsdsxDGIXvRFUPCshQ) | [Matt Dybal](https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2) | [Imagine](https://open.spotify.com/album/7tDa20mJPcJDrsUWnSq2f3) | 2:36 | 2025-07-04 |  |
+| [Imagine](https://open.spotify.com/track/2xH3TsdsxDGIXvRFUPCshQ) | [Matt Dybal](https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2) | [Imagine](https://open.spotify.com/album/7tDa20mJPcJDrsUWnSq2f3) | 2:36 | 2025-07-04 | 2025-11-08 |
 | [In My Dreams](https://open.spotify.com/track/0rOqHnkfi8KF4xZfkpO3vU) | [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [KATYA BLANCA](https://open.spotify.com/artist/5ljkYJwF54lGQ3buGwzZWV) | [In My Dreams](https://open.spotify.com/album/3UFi1LajksAoUG9fPbk0m1) | 3:12 | 2025-07-04 |  |
 | [Inside Your Arms](https://open.spotify.com/track/0tATqVAVy1G5qrXup05Gn3) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [BÔN](https://open.spotify.com/artist/4IJUhBXXz5jLD7LkPCmHaK), [Slake Slagger](https://open.spotify.com/artist/72tp31XqMIjIopAqxgD9H2), [Clancy](https://open.spotify.com/artist/1xoxzp7WBw37bAGVrNPnK7) | [Inside Your Arms](https://open.spotify.com/album/2RJkFeHAeEPAPWh6QCSpr8) | 2:59 | 2025-07-04 |  |
 | [Invictus](https://open.spotify.com/track/7r48kVqgyorgHEf0cm4aWy) | [Bogar Uriel](https://open.spotify.com/artist/3jbFY4fmWJ53dHwGXRYCa4) | [Invictus](https://open.spotify.com/album/11nf92ui8swrMLdwDa3uVk) | 3:14 | 2025-07-04 |  |

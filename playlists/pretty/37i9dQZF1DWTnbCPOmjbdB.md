@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Igo
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,509 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,547 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 19 | [kyoto](https://open.spotify.com/track/0opYvODIONdV6edM316xO8) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 2:43 |
 | 20 | [Naiwny](https://open.spotify.com/track/2UtVyeta8OPgewPfysQHPo) | [PJ Cake](https://open.spotify.com/artist/0OiOJp9En3ha0GkGPNIUM9) | [Naiwny](https://open.spotify.com/album/5XTNEGDDTZyUCeiiQ3qt7g) | 4:04 |
 | 21 | [słowa na K](https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [słowa na K](https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D) | 2:37 |
-| 22 | [Do końca](https://open.spotify.com/track/2HjgcowHbpJYcMSh6al8Pa) | [PRZELOT](https://open.spotify.com/artist/10GYLmvtwaBJGdxDtzmuNt), [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD), [Weles](https://open.spotify.com/artist/4omop7B19PWRZbNO0uiE37) | [Do końca](https://open.spotify.com/album/3hfREN59yqaLOvDWTnUd4m) | 2:13 |
+| 22 | [Do końca](https://open.spotify.com/track/2HjgcowHbpJYcMSh6al8Pa) | [PRZELOT](https://open.spotify.com/artist/10GYLmvtwaBJGdxDtzmuNt), [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD), [Weles](https://open.spotify.com/artist/4omop7B19PWRZbNO0uiE37) | [Do końca](https://open.spotify.com/album/3hfREN59yqaLOvDWTnUd4m) | 2:18 |
 | 23 | [Remedium \(Wsiąść do pociągu\)](https://open.spotify.com/track/6ZXESlOLiryfEWxqpC37oi) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Remedium \(Wsiąść do pociągu\)](https://open.spotify.com/album/5CCQqMLlqI2eXP5o0FAcU3) | 4:51 |
 | 24 | [Miłości](https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [8 piosenek o miłości](https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG) | 2:30 |
 | 25 | [NADAL KOCHAM](https://open.spotify.com/track/3wBWvBR502XCbIkfMtACX9) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [NADAL KOCHAM](https://open.spotify.com/album/6t7jtb5l7ezFCBmKtXCCZj) | 2:32 |

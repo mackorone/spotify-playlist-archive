@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-900 songs - 1 day 22 hr 21 min
+901 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-11-17 |  |
 | [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-02-20 | 2025-09-27 |
 | [Happy Again](https://open.spotify.com/track/6wSXqExVRDg4BgJf7zooC4) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Happy Again](https://open.spotify.com/album/0hcoDAsIEi5LIVe5AKNJ6b) | 3:17 | 2023-03-24 | 2024-04-21 |
+| [Happy With You](https://open.spotify.com/track/0yUdCEJXMKCStME3LA4gQz) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [But What The Hell Do I Know](https://open.spotify.com/album/58abhdpbXJ8ywjj25HhbSB) | 2:40 | 2025-11-07 |  |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-03-24 | 2022-04-18 |
 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 | 2024-10-11 |  |
 | [Hazy](https://open.spotify.com/track/55ZGLH13fxQ5vyTLwd9AuG) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Hazy](https://open.spotify.com/album/0VAy378vBLuRUFlRaqVv7Q) | 3:21 | 2024-05-31 | 2024-07-19 |
@@ -388,7 +389,7 @@
 | [Hold Me Down](https://open.spotify.com/track/3nfC5ikuvw3mxDEE10c7EA) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Hold Me Down](https://open.spotify.com/album/2L7xcRtVXalWzgyT76W2Xj) | 2:42 | 2022-03-24 | 2022-05-05 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-06-23 | 2024-04-19 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 | 2024-06-22 |
-| [Hold My Own](https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Something of Wonder](https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV) | 3:03 | 2025-07-18 |  |
+| [Hold My Own](https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Something of Wonder](https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV) | 3:03 | 2025-07-18 | 2025-11-08 |
 | [HOLD ON \(with Steve Stevens\)](https://open.spotify.com/track/3JhwL9yDHr4cJSofZMxUiR) | [The Blackmordia](https://open.spotify.com/artist/7swEODLC8v8gg4aKUznOuW), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [HOLD ON \(with Steve Stevens\)](https://open.spotify.com/album/0P0OW9GQNfrPFZSUNCCc5F) | 5:14 | 2025-02-14 | 2025-04-14 |
 | [Hold Out](https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hold Out](https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl) | 2:43 | 2022-03-24 | 2022-04-17 |
 | [Holy Roller](https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz) | [The Format](https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf) | [Holy Roller](https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg) | 3:55 | 2025-10-17 |  |

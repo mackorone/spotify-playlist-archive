@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Kurt Darren, Bernice West, Liezel Pieters, Wentzel en meer!
 
-2,166 songs - 5 day 0 hr 35 min
+2,167 songs - 5 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Bo Alles](https://open.spotify.com/track/19rDUGB6xm79D0lJI7j65U) | [Petronel Baard](https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG) | [Bo Alles](https://open.spotify.com/album/4EyAQIu3hvKHPwd5z1Nc32) | 3:05 | 2024-08-08 | 2024-08-16 |
 | [Boer Ding](https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Boer Ding](https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16) | 3:32 | 2025-07-24 | 2025-10-31 |
 | [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 | 2023-08-03 | 2023-12-01 |
-| [Boer Se Dogter](https://open.spotify.com/track/0w2I7bJeqV4KqMOQuBgbsP) | [Juan\-Pierre Murphy](https://open.spotify.com/artist/35kRE8SXV7Zd7pjXOCidk0) | [Boer Se Dogter](https://open.spotify.com/album/7opcpH6veIgL6ulFxeqgNS) | 3:18 | 2025-11-06 |  |
+| [Boer Se Dogter](https://open.spotify.com/track/0w2I7bJeqV4KqMOQuBgbsP) | [Juan\-Pierre Murphy](https://open.spotify.com/artist/35kRE8SXV7Zd7pjXOCidk0) | [Boer Se Dogter](https://open.spotify.com/album/7opcpH6veIgL6ulFxeqgNS) | 3:07 | 2025-11-06 |  |
 | [Boere Plakkies](https://open.spotify.com/track/7i6LFd5BlXHgH1jg5akq1k) | [Shaun Wulf](https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS) | [Boere Plakkies](https://open.spotify.com/album/6isvpPlJenr1F40aHa9Ukw) | 2:59 | 2025-06-19 | 2025-07-04 |
 | [Boerebal](https://open.spotify.com/track/0PwNF6MDAsdII5e4qHJyGc) | [Karel Bester & Die Kraaines Band](https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz) | [Boerebal](https://open.spotify.com/album/0rPtHAU3RDScMgtbI4FG0P) | 3:46 | 2025-07-24 | 2025-08-01 |
 | [BOEREJOL \- Remix 2025](https://open.spotify.com/track/1YeFXaHJjnPSIAHmfeiTyx) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO), [DJ FRAN](https://open.spotify.com/artist/1A8DhcDKccDUgk5mB4rPCc) | [REMIXES 2025](https://open.spotify.com/album/5Mw98UbY3s49WNtbeTGLFD) | 3:38 | 2025-02-20 | 2025-05-23 |
@@ -956,6 +956,7 @@
 | [Kan dit ek wees?](https://open.spotify.com/track/7sGr6yPM8C874lr1OvS5IU) | [Skemer](https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW) | [Kan dit ek wees?](https://open.spotify.com/album/0lYgQvVe7ZkLNQYkTxI7xZ) | 3:22 | 2025-08-07 | 2025-09-12 |
 | [Kan Jy](https://open.spotify.com/track/2rchTS4RMXhsYIwg7emgXq) | [Chxnelle](https://open.spotify.com/artist/3EoIyJg49B7L6iSuGxoPnk) | [Kan Jy](https://open.spotify.com/album/5q33yb7uPIvqhGogUYcBfM) | 2:34 | 2025-08-21 | 2025-09-12 |
 | [Kan Jy Onthou](https://open.spotify.com/track/0pILoRQW6Yvqx857FMeOvH) | [Rnk](https://open.spotify.com/artist/4wHx4YLcpQ4wBnTk0XDvCE) | [Kan Jy Onthou](https://open.spotify.com/album/6UYTOq84mOmkoEZPSQmGsF) | 3:49 | 2024-11-14 | 2024-12-20 |
+| [Kan Jy Vasdans?](https://open.spotify.com/track/6WJkpFokxpTTt0t314MI3V) | [Heidi](https://open.spotify.com/artist/0tE22XnY1KpKng29BSLOJc) | [Kan Jy Vasdans?](https://open.spotify.com/album/2TScOssP2Ky2rY52TEZNss) | 2:49 | 2025-11-07 |  |
 | [KANNIE WARRIE](https://open.spotify.com/track/5yjXBgnXdZDzqJIuhxgDBF) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [KANNIE WARRIE](https://open.spotify.com/album/2chOPP9olG7mcTVGALmcrG) | 3:30 | 2023-11-23 | 2023-12-22 |
 | [kans om te dans](https://open.spotify.com/track/2fcdLj66x10677aMN2rX97) | [Francis Na Die Maan](https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL) | [vincent](https://open.spotify.com/album/3p7F712SD9JVbjcwbSiHSX) | 2:54 | 2024-04-11 | 2024-04-19 |
 | [Kantel](https://open.spotify.com/track/5UMSYB9668hAgg3dthG84k) | [Leon Ferreira](https://open.spotify.com/artist/39uCiGH9MvKNvQXdklDchX), [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [Kantel](https://open.spotify.com/album/28vcvR8fDTEqLJ4Fl1eY8z) | 3:15 | 2023-09-21 | 2023-10-27 |
@@ -1077,7 +1078,7 @@
 | [Laaste Dans](https://open.spotify.com/track/3ZF1uG7UDRM63WQux3geSe) | [Jean Henry](https://open.spotify.com/artist/0l8DgVhvrJ5eV2QrzPwjO3) | [Laaste Dans](https://open.spotify.com/album/1c8ylWcUhvGtQRt6F8uAvX) | 3:32 | 2023-08-24 | 2023-09-08 |
 | [Laaste Liefde](https://open.spotify.com/track/4ZI0ff8Zh72SDhMkGiRTe8) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Ontdekking](https://open.spotify.com/album/0nUGaOlp2pVhxbTlfKVcLq) | 2:45 | 2024-06-13 | 2024-08-16 |
 | [Laaste Sigaret](https://open.spotify.com/track/5gSordoFX5gjscFFdiqKVS) | [Herman Kleinhans](https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC) | [Vir Megan](https://open.spotify.com/album/0ecdOYIs8uIBf8qCTBaoZj) | 3:28 | 2022-12-27 | 2023-01-02 |
-| [Laaste Song](https://open.spotify.com/track/4FKvNzyNQxOYMAFkTBApv7) | [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [](https://open.spotify.com/album/null) | 3:33 | 2025-11-06 |  |
+| [Laaste Song](https://open.spotify.com/track/4FKvNzyNQxOYMAFkTBApv7) | [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [DWAAS](https://open.spotify.com/album/1SjWm3EKVlIQcQfE28wKed) | 3:33 | 2025-11-06 |  |
 | [Laat Aand Lied](https://open.spotify.com/track/34t8G01hYE4LoMexVq5h8o) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Laat Aand Lied](https://open.spotify.com/album/2FiFhyMnTfEZScWWeKZZBE) | 3:16 | 2024-05-30 | 2024-06-07 |
 | [Laat Aande](https://open.spotify.com/track/04epLcGEzpvih5CWy6zkEl) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Laat Aande](https://open.spotify.com/album/7eqqSmqa6ZA0bcfJ3YJx7v) | 0:54 | 2025-06-26 | 2025-07-04 |
 | [Laat Die Vure Brand](https://open.spotify.com/track/0OMdcQ4uHqwc2T0iTBTEpv) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Laat Die Vure Brand](https://open.spotify.com/album/3chqPz6KBPG4FLY48cniCi) | 3:41 | 2023-09-21 | 2023-10-20 |
@@ -1628,7 +1629,7 @@
 | [Sarie Marais](https://open.spotify.com/track/0oNC8qRsiWTKxhmUzol4Lw) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Sarie Marais](https://open.spotify.com/album/5sjp9cjRMXHQQzZzkqomlf) | 3:16 | 2025-09-25 |  |
 | [Saterdag](https://open.spotify.com/track/3iE21rnTTVGV7CzauyHSfG) | [Arno Venter](https://open.spotify.com/artist/6L3Uhc9Pr2KQjB5s9uvbQW) | [Saterdag](https://open.spotify.com/album/79O0Ope2la6IMayEpGGbmZ) | 3:28 | 2023-11-16 | 2023-12-01 |
 | [Sawubona Tussen Sterre](https://open.spotify.com/track/5MtoiBAwLtJ5zg2Sr7MqqS) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Sawubona Tussen Sterre](https://open.spotify.com/album/6Zh2rlUqLxeGH8i96zEJ9U) | 3:27 | 2024-08-29 | 2024-09-06 |
-| [See Toe](https://open.spotify.com/track/0yXAMhiA7adPv27RtYdYmu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [](https://open.spotify.com/album/null) | 3:35 | 2025-11-06 |  |
+| [See Toe](https://open.spotify.com/track/0yXAMhiA7adPv27RtYdYmu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Komma Nader](https://open.spotify.com/album/6f8fU3r47zUgEq76NOmnsF) | 3:35 | 2025-11-06 |  |
 | [See Toe](https://open.spotify.com/track/4kNVaoePjYFz8cYNYfX1Sh) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [See Toe](https://open.spotify.com/album/7sGlaCarHruErq75KPNlsL) | 3:15 | 2024-12-12 | 2025-01-10 |
 | [Seerower](https://open.spotify.com/track/7zsXocm715A4wcY8Sq4e5n) | [Louis van Lill](https://open.spotify.com/artist/1vqMsqSbWQUOoZNCmPnjY3) | [Seerower](https://open.spotify.com/album/33rcPnvwLphz0XCl0PLvpN) | 3:22 | 2025-10-23 |  |
 | [Sein](https://open.spotify.com/track/76zHmZoGVaN9ngg11FLIHO) | [Wolkbrein](https://open.spotify.com/artist/0zIoYTFy3fLQpmw4m0fKRs) | [Sein](https://open.spotify.com/album/5TzBweajQBq0SGYn7ZYeQU) | 4:06 | 2025-09-04 | 2025-09-26 |

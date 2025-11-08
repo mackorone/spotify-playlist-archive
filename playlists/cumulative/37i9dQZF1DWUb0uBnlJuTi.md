@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-447 songs - 1 day 9 hr 54 min
+448 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Rat Trap](https://open.spotify.com/track/4KOGgDXLOooL50Wrd3fd1p) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap](https://open.spotify.com/album/6Q4yXbSqgcqJwPul6zrBcr) | 3:58 | 2023-04-07 | 2023-05-23 |
 | [Rat Trap](https://open.spotify.com/track/5cNAj31GnRDzfDSDzxGrJV) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap / Chop Bop](https://open.spotify.com/album/1wsuzhNttnB9TD455c7Eie) | 3:58 | 2023-04-07 | 2023-07-15 |
 | [Red Baron](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 6:36 | 2020-10-09 |  |
+| [Red Lights](https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab) | [Kindred](https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y) | 3:39 | 2025-11-07 |  |
 | [Refractions](https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Refractions](https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe) | 3:37 | 2021-11-26 | 2023-03-11 |
 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/5qbgtET7uO7gxnFW0qdO5b) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 | 2023-05-05 | 2024-07-27 |
 | [Revival](https://open.spotify.com/track/5hg5J0FMtHsk2KpOvRWWuG) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Revival](https://open.spotify.com/album/6cAPKsxDX0FrdK3doIhJ8F) | 2:57 | 2022-04-01 | 2022-07-25 |
@@ -367,7 +368,7 @@
 | [Tema de Benja](https://open.spotify.com/track/4oo9BSpAnBeEaYV74GuAaV) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Patricia "Piojo" Zappia](https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK) | [Melomazeando](https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl) | 4:55 | 2023-05-19 | 2023-10-30 |
 | [That Bop](https://open.spotify.com/track/13l9DL9EA5hResA7mVmd7M) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Jazz Hands](https://open.spotify.com/album/3KjGDmuYOd0EO8kSSQ8Kwh) | 4:43 | 2023-09-15 |  |
 | [That Funky Cat](https://open.spotify.com/track/2TgatpWXEFVjh85YDIdjwT) | [Paul Downing](https://open.spotify.com/artist/1d0NGjwQHbYRjnaCafcYMa), [Mark Allaway](https://open.spotify.com/artist/0wEFD9x6OXt64oSnqwf4mc) | [Instrumental Explorations](https://open.spotify.com/album/71sj1sfpdjVpQMVo64acAr) | 3:36 | 2022-07-29 | 2024-02-24 |
-| [That Thang](https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [That Thang](https://open.spotify.com/album/0mvRX9cftJgdQEFDtG8qcM) | 3:11 | 2024-02-23 |  |
+| [That Thang](https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [That Thang](https://open.spotify.com/album/0mvRX9cftJgdQEFDtG8qcM) | 3:11 | 2024-02-23 | 2025-11-08 |
 | [THAT'S ALRIGHT](https://open.spotify.com/track/3LzvaRYXRH2ayVehdVrUDZ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THAT'S ALRIGHT](https://open.spotify.com/album/1lePRTzq5rKtJf6Mfoog16) | 5:31 | 2024-09-06 | 2024-11-02 |
 | [The Chant](https://open.spotify.com/track/0mFTShnrAE9pSdSfWygBXf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Irvin Pierce](https://open.spotify.com/artist/14NF1jyQ0dY6HLrb9r7hSi), [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [The Chant](https://open.spotify.com/album/6pdfgUTHW2zhJHNEPjEVtj) | 4:26 | 2022-01-07 | 2022-07-25 |
 | [The Chant](https://open.spotify.com/track/1Fs2kqyfm1wnFE83eIAqF7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Irvin Pierce](https://open.spotify.com/artist/14NF1jyQ0dY6HLrb9r7hSi), [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [The Chicago Experiment](https://open.spotify.com/album/5Cd510D2p3u7ZKjIuZP8ZA) | 4:26 | 2022-01-07 | 2023-09-16 |

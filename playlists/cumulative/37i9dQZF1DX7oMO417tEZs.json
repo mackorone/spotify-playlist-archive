@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: HAWA B.",
+  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: KABEAUSH\u00c9",
   "name": "Proto-",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 177015,
       "name": "200",
       "url": "https://open.spotify.com/track/4V6Z6lspE7s6cahWpLFpmm"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 169865,
       "name": "222",
       "url": "https://open.spotify.com/track/1NtjofH29CRpbvEtQEMZGf"
@@ -2076,10 +2076,36 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 190280,
       "name": "Another Stone",
       "url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ"
+    },
+    {
+      "album": {
+        "name": "Antes de que me encuentren",
+        "url": "https://open.spotify.com/album/5jOUp6S3UjWBnafjYjeVvi"
+      },
+      "artists": [
+        {
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        },
+        {
+          "name": "Sofia Coll",
+          "url": "https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd"
+        },
+        {
+          "name": "Fectro",
+          "url": "https://open.spotify.com/artist/34Tgpgu56FedPkQ23qcq1M"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194021,
+      "name": "Antes de que me encuentren",
+      "url": "https://open.spotify.com/track/70G8bpm6OVQ0AUpkgnD4sd"
     },
     {
       "album": {
@@ -4570,7 +4596,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 98396,
       "name": "Broward Boyy",
       "url": "https://open.spotify.com/track/1j4MGX0RSMzR4X4KTSyi9o"
@@ -5588,7 +5614,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 271085,
       "name": "CHROMA 010 BRILLO",
       "url": "https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0"
@@ -7423,6 +7449,28 @@
     },
     {
       "album": {
+        "name": "De Guerre (ELOI remix)",
+        "url": "https://open.spotify.com/album/7hfxRPvxUWzssVOr8VO1wA"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        },
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "De Guerre - ELOI remix",
+      "url": "https://open.spotify.com/track/62bwoog3qZR1bcJYcxJama"
+    },
+    {
+      "album": {
         "name": "deadmanwalking",
         "url": "https://open.spotify.com/album/4oToqMPGGQoVp77zj5nEei"
       },
@@ -9180,6 +9228,24 @@
       "duration_ms": 167507,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/4MH3D8angFt2z5B8yO3xnG"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/3nGCGkZRWqAs4CifNob9UR"
+      },
+      "artists": [
+        {
+          "name": "R U OFF",
+          "url": "https://open.spotify.com/artist/7dS2e3nh3UjJ3YYiS3eYgZ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118520,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/75ungBUX4SERtFRkbzeDTE"
     },
     {
       "album": {
@@ -11414,7 +11480,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 230573,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t"
@@ -14267,6 +14333,24 @@
     },
     {
       "album": {
+        "name": "I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD",
+        "url": "https://open.spotify.com/album/2SsTE9YTu4w18gmMG7TH8s"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217999,
+      "name": "I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD",
+      "url": "https://open.spotify.com/track/4uCsJlsvglqasORJnmmLng"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Hang",
         "url": "https://open.spotify.com/album/0pBNs5Hd0d5WmGc1axEIRT"
       },
@@ -16056,6 +16140,24 @@
       "duration_ms": 303124,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD"
+    },
+    {
+      "album": {
+        "name": "Just Hurt Me",
+        "url": "https://open.spotify.com/album/1Lh0N9tgtPziaUNNebPnlr"
+      },
+      "artists": [
+        {
+          "name": "LeBlaze",
+          "url": "https://open.spotify.com/artist/3eltnnWn1VDRowVR0biV3M"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181343,
+      "name": "Just Hurt Me",
+      "url": "https://open.spotify.com/track/5CKeTm0Yn9cP5qvbVl2gic"
     },
     {
       "album": {
@@ -17986,6 +18088,24 @@
       "duration_ms": 246613,
       "name": "L\u00e0-bas",
       "url": "https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z"
+    },
+    {
+      "album": {
+        "name": "L\u00c9CHAGE",
+        "url": "https://open.spotify.com/album/3CzW00o7qXZ2rhoWyrWFJz"
+      },
+      "artists": [
+        {
+          "name": "\u00e9ther",
+          "url": "https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109446,
+      "name": "L\u00c9CHAGE",
+      "url": "https://open.spotify.com/track/7mPBYHkPipRkQBz2AMcP0B"
     },
     {
       "album": {
@@ -23016,7 +23136,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 176954,
       "name": "Pope's Cocaine",
       "url": "https://open.spotify.com/track/5yzV22AHbo1CtzrG8Lc9DE"
@@ -23038,6 +23158,28 @@
       "duration_ms": 259183,
       "name": "Poppyseed",
       "url": "https://open.spotify.com/track/7pMaJob2XJhQqZJ51crGpE"
+    },
+    {
+      "album": {
+        "name": "porcelaine",
+        "url": "https://open.spotify.com/album/7l70FvXrXMsD8lV8XX1xEZ"
+      },
+      "artists": [
+        {
+          "name": "Yakary",
+          "url": "https://open.spotify.com/artist/3urIg9wElJcwdkTCzDmXrh"
+        },
+        {
+          "name": "Ehro",
+          "url": "https://open.spotify.com/artist/4yM3Pu7fNWAHeINISKz2Mp"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149839,
+      "name": "porcelaine",
+      "url": "https://open.spotify.com/track/1az0QEhbimxzOEoZVVq8LA"
     },
     {
       "album": {
@@ -23314,6 +23456,24 @@
       "duration_ms": 207133,
       "name": "PREYING MANTIS !",
       "url": "https://open.spotify.com/track/4HbvPMuan90tStQxIoJ4rn"
+    },
+    {
+      "album": {
+        "name": "Ur an Angel I\u2019m Just Particles",
+        "url": "https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
     },
     {
       "album": {
@@ -24044,7 +24204,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 165105,
       "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
       "url": "https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW"
@@ -25346,6 +25506,24 @@
       "duration_ms": 247263,
       "name": "SELF DIAGNOSIS",
       "url": "https://open.spotify.com/track/0amGhnzA3pI3AMZ0IEBUDl"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226166,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm"
     },
     {
       "album": {
@@ -26760,7 +26938,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 186232,
       "name": "Sola",
       "url": "https://open.spotify.com/track/32x1tMcicnF3Tvu8ApsVfA"
@@ -29191,6 +29369,28 @@
     },
     {
       "album": {
+        "name": "The God Of Lying (feat. IDLES)",
+        "url": "https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189021,
+      "name": "The God of Lying (feat. IDLES)",
+      "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
+    },
+    {
+      "album": {
         "name": "The Groke",
         "url": "https://open.spotify.com/album/0WyFT30FkW1v1GquwmQsYN"
       },
@@ -30490,7 +30690,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 235026,
       "name": "TTW",
       "url": "https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO"
@@ -32204,7 +32404,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 167692,
       "name": "What3vr",
       "url": "https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk"
@@ -33196,6 +33396,24 @@
       "duration_ms": 251076,
       "name": "You Could Hate Me",
       "url": "https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv"
+    },
+    {
+      "album": {
+        "name": "YOU DIED",
+        "url": "https://open.spotify.com/album/0D9HpjMrmUY5w9LSHVvdM8"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204679,
+      "name": "YOU DIED",
+      "url": "https://open.spotify.com/track/76hJuzeeHq615YFWu0NyaD"
     },
     {
       "album": {

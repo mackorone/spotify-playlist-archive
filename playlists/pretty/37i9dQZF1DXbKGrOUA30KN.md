@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: Lune
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,708 likes - 85 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,682 likes - 85 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 22 | [Geboren um zu leben](https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Geboren um zu leben](https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray) | 2:48 |
 | 23 | [Kurz alles gut](https://open.spotify.com/track/3pdH073K9d3wqoYPixv6IW) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Kurz alles gut](https://open.spotify.com/album/7heVkQTuhpdqs1Z2RL02xD) | 3:01 |
 | 24 | [Sonntag](https://open.spotify.com/track/7hYLmwd4kC6ubbggdNMtEB) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Sonntag](https://open.spotify.com/album/7tIPudUGi1a7cjPiHCR7py) | 3:21 |
-| 25 | [Track 1](https://open.spotify.com/track/6C2FEYbYYtjiatQk8fkanO) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [](https://open.spotify.com/album/null) | 0:00 |
+| 25 | [fühlichzusehr?](https://open.spotify.com/track/6C2FEYbYYtjiatQk8fkanO) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [fühlichzusehr?](https://open.spotify.com/album/7gZjmUnhZS41kqis2Itjqk) | 3:37 |
 | 26 | [Pinienbäume](https://open.spotify.com/track/4eBzQbMeVBvPoG5PHx5CGF) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Pinienbäume](https://open.spotify.com/album/4eppomUlCQDiUPQVsCPcS4) | 3:23 |
 | 27 | [Unbesiegbar](https://open.spotify.com/track/3Sm5fnLXDD4lRP9dSkqIKQ) | [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A) | [Unbesiegbar](https://open.spotify.com/album/0EIfuG6boq1JIaTHUoA4sX) | 2:47 |
 | 28 | [Warum sind wir so?](https://open.spotify.com/track/4fBCVzfG0Usl03ExqrZsA5) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Freigeistin](https://open.spotify.com/album/45jR67OkTrxfc2k0dQE5vs) | 3:10 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 41 | [Innenleben](https://open.spotify.com/track/1EsJ3gbfCc8cBng3HbQU0O) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [INNENLEBEN](https://open.spotify.com/album/1lusCOu3YELL3WLCyq17oM) | 2:23 |
 | 42 | [RON WEASLEY](https://open.spotify.com/track/1rYxxzFReauwApjU8byOKw) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [RON WEASLEY](https://open.spotify.com/album/025u3cE67Md9ANQAzEejuI) | 2:46 |
 | 43 | [Das Leben ist schön \(aus "Paddington in Peru"\)](https://open.spotify.com/track/0QCgDvbQ9iOH3M1NOyq3oA) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Das Leben ist schön \(aus "Paddington in Peru"\)](https://open.spotify.com/album/0W4aY14ZD4qKOxkyqNqPMD) | 2:46 |
-| 44 | [Track 5](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [](https://open.spotify.com/album/null) | 0:00 |
+| 44 | [Mega peinlich](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Süß sauer EP](https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6) | 2:50 |
 | 45 | [ROTER KNOPF](https://open.spotify.com/track/3X3EJVWi2XSTRwxpMn374S) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ROTER KNOPF](https://open.spotify.com/album/50VsggAMhFPZgYsg3Za3G0) | 2:00 |
 | 46 | [WELT RETTEN](https://open.spotify.com/track/209DNyPbNlLtXeTiunoL1f) | [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [WELT RETTEN](https://open.spotify.com/album/4T5NEVTeXPguLpvmsx6Ca7) | 2:41 |
 | 47 | [Ok ich check](https://open.spotify.com/track/6C0ru05AIHvARhbQ4TdTNc) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Ok ich check](https://open.spotify.com/album/4ExpueLMrJsWQ7QYTxRG8X) | 2:18 |

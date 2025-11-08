@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 213744,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 223805,
       "name": "Debi\u00f3 ser as\u00ed",
       "url": "https://open.spotify.com/track/31FDPB097i0iqut2Bb056l"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 181320,
       "name": "La quiero a ella",
       "url": "https://open.spotify.com/track/305ayg5E2vWAIeIPLR4qJJ"
@@ -6287,6 +6287,24 @@
     },
     {
       "album": {
+        "name": "Los Infaltables",
+        "url": "https://open.spotify.com/album/3FnqqvEXXWJ2SvPVcd0Jri"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216821,
+      "name": "Quiero Tu Cuerpo",
+      "url": "https://open.spotify.com/track/6dYViLU4Ih3scVSuXNRvDU"
+    },
+    {
+      "album": {
         "name": "Quiero Verte Bailar (Remix)",
         "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
       },
@@ -6582,6 +6600,28 @@
       "duration_ms": 210586,
       "name": "Se Me Ha Perdido Un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP"
+    },
+    {
+      "album": {
+        "name": "Se Te Olvida",
+        "url": "https://open.spotify.com/album/5F8g3DMFCMkI4r8KF9OJIA"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169474,
+      "name": "Se Te Olvida",
+      "url": "https://open.spotify.com/track/2xy1gJyrM5Jt34cFmB4k5y"
     },
     {
       "album": {
@@ -7976,6 +8016,32 @@
       "duration_ms": 174000,
       "name": "Una Noche Contigo - Remix",
       "url": "https://open.spotify.com/track/0Xbz33Mggb4NV2A1vabjJx"
+    },
+    {
+      "album": {
+        "name": "Una Noche Contigo (Versi\u00f3n Cumbia)",
+        "url": "https://open.spotify.com/album/46AgVcg1H1Az1hEASS9qqg"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144216,
+      "name": "Una Noche Contigo - Versi\u00f3n Cumbia",
+      "url": "https://open.spotify.com/track/1penKMZ9j40byaQSaHaSqm"
     },
     {
       "album": {

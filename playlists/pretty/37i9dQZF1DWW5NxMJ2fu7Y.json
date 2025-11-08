@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 67035,
+  "num_followers": 67081,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -203,26 +203,6 @@
     {
       "added_at": "2025-11-03 05:27:04",
       "album": {
-        "name": "\u0623\u0641\u0634\u062a\u0646\u064a",
-        "url": "https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy"
-      },
-      "artists": [
-        {
-          "name": "Shinigami",
-          "url": "https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0"
-        },
-        {
-          "name": "Furelise",
-          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
-        }
-      ],
-      "duration_ms": 205352,
-      "name": "\u0623\u0641\u0634\u062a\u0646\u064a",
-      "url": "https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV"
-    },
-    {
-      "added_at": "2025-11-03 05:27:04",
-      "album": {
         "name": "J'en ai marre !",
         "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 211623,
       "name": "J'en ai marre !",
       "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
+    },
+    {
+      "added_at": "2025-11-03 05:27:04",
+      "album": {
+        "name": "\u0623\u0641\u0634\u062a\u0646\u064a",
+        "url": "https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy"
+      },
+      "artists": [
+        {
+          "name": "Shinigami",
+          "url": "https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0"
+        },
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "duration_ms": 205352,
+      "name": "\u0623\u0641\u0634\u062a\u0646\u064a",
+      "url": "https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV"
     },
     {
       "added_at": "2025-11-03 05:27:04",

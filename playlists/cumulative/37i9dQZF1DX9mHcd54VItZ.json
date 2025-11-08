@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Sophia Frank & Erin Elliot",
+  "description": "The best new and classic South African Rock. Cover: Droomsindroom & Zaan Sonnekus",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/1hHcdjtYOtS0gMtU4Wh7I6"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1os",
+          "url": "https://open.spotify.com/artist/3AOLvJjBisGaLoFRWsVOPL"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213874,
+      "name": "Babylon I",
+      "url": "https://open.spotify.com/track/6SOVgn0Jt6lalv3zWvzaK1"
+    },
+    {
+      "album": {
         "name": "Back in the Day",
         "url": "https://open.spotify.com/album/7CoECeuiiMHAxmV2W7vuM2"
       },
@@ -1140,6 +1158,24 @@
       "duration_ms": 260109,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5"
+    },
+    {
+      "album": {
+        "name": "Bella-Lisa",
+        "url": "https://open.spotify.com/album/3bjMXrE3k7vlOLPE5Mqczm"
+      },
+      "artists": [
+        {
+          "name": "Andre Swiegers",
+          "url": "https://open.spotify.com/artist/21TItzc2YtwWPoJyEI0i0k"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211930,
+      "name": "Bella-Lisa",
+      "url": "https://open.spotify.com/track/2O0DtpzABAp6hqf470gRO1"
     },
     {
       "album": {
@@ -1360,7 +1396,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 215560,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7Ap0N29kpLfa1FDW8jmQZB"
@@ -3548,7 +3584,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 212573,
       "name": "Dis 'N Land",
       "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
@@ -3642,7 +3678,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
@@ -3736,6 +3772,24 @@
       "duration_ms": 196588,
       "name": "Don't Stop Believing",
       "url": "https://open.spotify.com/track/62sjLSvrIDVpBjR3WqI6IS"
+    },
+    {
+      "album": {
+        "name": "Doodloopstraat",
+        "url": "https://open.spotify.com/album/0PKGrol70o5J58kZZYGswk"
+      },
+      "artists": [
+        {
+          "name": "Tylo",
+          "url": "https://open.spotify.com/artist/299MvNkYz1bIwdWQpffHKr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202812,
+      "name": "Doodloopstraat",
+      "url": "https://open.spotify.com/track/4tpAwOkFnzPYZYZtSPmFWU"
     },
     {
       "album": {
@@ -4017,6 +4071,28 @@
     },
     {
       "album": {
+        "name": "Ek Dink Te Veel",
+        "url": "https://open.spotify.com/album/6ceCa4ISJm6S8fU2W6b75i"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        },
+        {
+          "name": "Tylo",
+          "url": "https://open.spotify.com/artist/299MvNkYz1bIwdWQpffHKr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ek Dink Te Veel",
+      "url": "https://open.spotify.com/track/0nJcHyQST727NW3jNhzlFh"
+    },
+    {
+      "album": {
         "name": "Ek Mis Jou",
         "url": "https://open.spotify.com/album/45F6LHu6ZRj1MxGv1ANJuO"
       },
@@ -4046,7 +4122,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 169075,
       "name": "Ek Teen Myself",
       "url": "https://open.spotify.com/track/6yfDRyEAShdjw6FkFLvpmC"
@@ -4158,6 +4234,24 @@
       "duration_ms": 310500,
       "name": "Elephant in the Room",
       "url": "https://open.spotify.com/track/0fIpv8JGDaKwtlFfAAcUnS"
+    },
+    {
+      "album": {
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "album": {
@@ -4945,6 +5039,42 @@
     },
     {
       "album": {
+        "name": "Galop Van Die Suikerruiter",
+        "url": "https://open.spotify.com/album/7fn8sHx0dKXd2IYfc4gJxV"
+      },
+      "artists": [
+        {
+          "name": "Karel Bester & Die Kraaines Band",
+          "url": "https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200101,
+      "name": "Galop Van Die Suikerruiter",
+      "url": "https://open.spotify.com/track/65tjkKUnoQ9de5nzwI7keR"
+    },
+    {
+      "album": {
+        "name": "ROOKIE MISTAKES",
+        "url": "https://open.spotify.com/album/5OoWjJFr6vB8WJ35aG5gCO"
+      },
+      "artists": [
+        {
+          "name": "Bcom",
+          "url": "https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236144,
+      "name": "Garage Pie",
+      "url": "https://open.spotify.com/track/2BvnTZBVuaFDfv6Jpm4u0v"
+    },
+    {
+      "album": {
         "name": "Garden of the Snake",
         "url": "https://open.spotify.com/album/47mJM6v3R4rrJoDiQ1Pgji"
       },
@@ -4960,6 +5090,28 @@
       "duration_ms": 224476,
       "name": "Garden of the Snake",
       "url": "https://open.spotify.com/track/2tykrr9Rl5xR3Mb7IoNjMG"
+    },
+    {
+      "album": {
+        "name": "Gatvol",
+        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166031,
+      "name": "Gatvol",
+      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
     },
     {
       "album": {
@@ -5262,7 +5414,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 260000,
       "name": "Gly",
       "url": "https://open.spotify.com/track/7cF6fETs5IbSQrpqIgOuLG"
@@ -5298,7 +5450,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 208843,
       "name": "Good Behaviour",
       "url": "https://open.spotify.com/track/3E1dODn9dYGLkpb7y3zeep"
@@ -5821,6 +5973,24 @@
     },
     {
       "album": {
+        "name": "Hermit",
+        "url": "https://open.spotify.com/album/2gjTnYpUWysnVYYi3kga0J"
+      },
+      "artists": [
+        {
+          "name": "Kayla The Crow",
+          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222388,
+      "name": "Hermit",
+      "url": "https://open.spotify.com/track/0q0Q3nVdpV9BVGsLkyAl4v"
+    },
+    {
+      "album": {
         "name": "Het Jou Nodig",
         "url": "https://open.spotify.com/album/3CHi0GHPaDHlcPRTBILoNb"
       },
@@ -5952,7 +6122,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 208481,
       "name": "Hoe Was Jou Jaar?",
       "url": "https://open.spotify.com/track/2rOTTsCF3EUFdhzGnBnmv1"
@@ -6350,7 +6520,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 214826,
       "name": "How's That Working out for You?",
       "url": "https://open.spotify.com/track/3rVENAsjLvnB1sR9mtjhwT"
@@ -6480,7 +6650,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 225412,
       "name": "I Don't Want Ice Cream, I Want Respect!",
       "url": "https://open.spotify.com/track/17xSx55612Tc8iEghNKdmg"
@@ -6866,7 +7036,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 225657,
       "name": "IS EK MAL",
       "url": "https://open.spotify.com/track/6AuttC8mNCudvb2cJSCjaZ"
@@ -7028,7 +7198,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 244728,
       "name": "Judas Mind - edit",
       "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
@@ -8840,6 +9010,28 @@
       "duration_ms": 250370,
       "name": "Murmurs",
       "url": "https://open.spotify.com/track/4Bje2kBjtCQBKGpZAN8onp"
+    },
+    {
+      "album": {
+        "name": "My Eie Kop",
+        "url": "https://open.spotify.com/album/4wUeUYAf56IJHmFHlQWuDb"
+      },
+      "artists": [
+        {
+          "name": "Peer Papsak",
+          "url": "https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25"
+        },
+        {
+          "name": "KayCee",
+          "url": "https://open.spotify.com/artist/1MBDvZuGnSzGV1NHDHXpDw"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185537,
+      "name": "My Eie Kop",
+      "url": "https://open.spotify.com/track/0MgT9eDkNv17wZ3fVUVg0z"
     },
     {
       "album": {
@@ -10682,7 +10874,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 196732,
       "name": "Ready to Dance",
       "url": "https://open.spotify.com/track/4021f7EJfjtp0I4kpDH0uH"
@@ -10848,7 +11040,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 212810,
       "name": "RFMUSTANG",
       "url": "https://open.spotify.com/track/4hZeFAP54rxiX12SntLayK"
@@ -10920,7 +11112,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 192804,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/6YqIL8y2yetofQGOKbaDJ6"
@@ -11152,6 +11344,24 @@
       "duration_ms": 168699,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6"
+    },
+    {
+      "album": {
+        "name": "SCAB",
+        "url": "https://open.spotify.com/album/0habXxS7hJBsdIHXJ6Rm0A"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Children",
+          "url": "https://open.spotify.com/artist/3OXVOLG6MltdnZGyQrJBmo"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "SCAB",
+      "url": "https://open.spotify.com/track/6jUi2bA1kGcPRa9ermrwLd"
     },
     {
       "album": {
@@ -11388,7 +11598,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 165897,
       "name": "Shape Shifting Queen",
       "url": "https://open.spotify.com/track/6CSjQOrcNaSHuSuV6NpOkL"
@@ -12148,7 +12358,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 295928,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/6YWXIwzkj0RArkiYyrsZuM"
@@ -12426,7 +12636,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 238000,
       "name": "Stem uit die Noorde",
       "url": "https://open.spotify.com/track/7mDUU8xUjmxwBKefes3w6l"
@@ -12750,7 +12960,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 195483,
       "name": "Sy Weet",
       "url": "https://open.spotify.com/track/2wyEESxO5fiFq5AgtJQojU"
@@ -13886,6 +14096,24 @@
       "duration_ms": 291529,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1OtXmZ9Fx1XK96inLpj2MA"
+    },
+    {
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/7HHgQX997jps6Gtpc1yEpa"
+      },
+      "artists": [
+        {
+          "name": "FREDDY L",
+          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/3122Tq7clEd0NgsAO7s4Gg"
     },
     {
       "album": {

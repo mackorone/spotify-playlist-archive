@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > If you're blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,263 likes - 120 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,265 likes - 120 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 17 | [I Need You](https://open.spotify.com/track/4kl6JrRdDO2K2pPBPNVI0X) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [IsaiahLaRoi](https://open.spotify.com/artist/3o50w5mSnTFy6gmqGEu2Yv) | [I Need You](https://open.spotify.com/album/1lieJsFQbluMUfNGUYouZX) | 2:42 |
 | 18 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 19 | [Taste and See](https://open.spotify.com/track/0NEpOOQ22Hg9hoVcKv9cYX) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Taste and See](https://open.spotify.com/album/0LVhZzkYq5mQKW5WNTlxYV) | 3:05 |
-| 20 | [Track 5](https://open.spotify.com/track/3SNJP6cLLCofkKucLeuuLq) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [Forever](https://open.spotify.com/track/3SNJP6cLLCofkKucLeuuLq) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Worship & Rap \(WAR\)](https://open.spotify.com/album/43SIoLKM59lL603KWslN8D) | 3:51 |
 | 21 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 |
 | 22 | [Excess Love](https://open.spotify.com/track/3AK2yLrBpakAcnYBMPBhrw) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/2ZiJzL4GjNFUQhzHeiF6LO) | 6:36 |
 | 23 | [Lord I Love You](https://open.spotify.com/track/3ir79Qy8MqA19ryKuNwUJM) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Psalmos](https://open.spotify.com/artist/2G5QxlJm0UTmeALPvIlzk3) | [Cat.a.lyst](https://open.spotify.com/album/1uvDAcJh1YJqpdz6qEEpAw) | 4:33 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 92 | [JO \(Dance\)](https://open.spotify.com/track/1JIAGKCV2BUtJF2igST227) | [Segun Aniye](https://open.spotify.com/artist/4xa0DdlvnBHWKWTRPl6LXE), [Tahram](https://open.spotify.com/artist/41IhOOBcjR09qi8h4L647d) | [JO \(Dance\)](https://open.spotify.com/album/1MJ9FpDiiyFqRQ1CVLuMcN) | 2:33 |
 | 93 | [Inside me](https://open.spotify.com/track/3GRkcVSoMu84lx6xgJtc7p) | [Faith Tosin](https://open.spotify.com/artist/0JIWnsRpe9AQoS3ilQ0W5D) | [Inside me](https://open.spotify.com/album/01UTxtUFVAZnhi1ZFIccY6) | 2:58 |
 | 94 | [I Overcame](https://open.spotify.com/track/4W3PcOJiacBGCQAhDMLRPP) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O) | 5:22 |
-| 95 | [Victory Is My Name \- Live](https://open.spotify.com/track/1wOvQguNVaN69UO3ftvopO) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Victory Sounds](https://open.spotify.com/album/2Oy6IEUCepPjnfW8IUBSRp) | 7:24 |
+| 95 | [Victory Is My Name \- Live](https://open.spotify.com/track/1wOvQguNVaN69UO3ftvopO) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Victory Sounds \(Live\)](https://open.spotify.com/album/2Oy6IEUCepPjnfW8IUBSRp) | 7:24 |
 | 96 | [DOH](https://open.spotify.com/track/6wqEBk4sE8BoLfA2zxWmwO) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Thombee](https://open.spotify.com/artist/0KF8JaRrXlN4Bs9BH6KtNp) | [DOH](https://open.spotify.com/album/6swZf37GfeMdUZUVZ0p7Mr) | 2:14 |
 | 97 | [ZA](https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [ZA](https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT) | 2:41 |
 | 98 | [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 |

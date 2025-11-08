@@ -2,9 +2,9 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Grupo Feroz
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Los Gemelos De Sinaloa
 
-591 songs - 1 day 5 hr 56 min
+592 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [EL CONDOR](https://open.spotify.com/track/0tl5Z2vFPz2WYqBzomoDnG) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [HNOS ESPINOZA, VOL\. 5](https://open.spotify.com/album/30SeBiikKTNNzmWzPWLPRo) | 2:56 | 2025-07-18 | 2025-08-30 |
 | [El Consejo](https://open.spotify.com/track/1Mb3LyUDzzYrJNMNZl8d3W) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Consejo](https://open.spotify.com/album/4XyIwLIXXGaMZ8qQWfh0fd) | 2:51 | 2025-06-20 |  |
 | [El Convoy de los Hermanos](https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:15 | 2023-07-14 | 2023-09-30 |
+| [El Cuadrito](https://open.spotify.com/track/75kjqC5yfd9ugvL93TF6vY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Cuadrito](https://open.spotify.com/album/19X5PMlS8A7H1cGQUQ1XJ5) | 2:46 | 2025-11-07 |  |
 | [El Cuadros](https://open.spotify.com/track/4XJuuQ3Sj0sq6v5Te4vbf8) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Puras Selecciones](https://open.spotify.com/album/1yWwirbJDCSoI6gNDbOAAH) | 3:49 | 2025-08-22 | 2025-10-11 |
 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 | 2022-02-21 | 2022-10-15 |
 | [El César del Box](https://open.spotify.com/track/3PpuxkmoZvGOZlpHVcniAN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El César del Box](https://open.spotify.com/album/2YtpAqof3gNVQKA35PyKt1) | 3:42 | 2024-08-30 | 2024-09-28 |
@@ -566,7 +567,7 @@
 | [Tuesday](https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Tuesday](https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f) | 2:33 | 2024-08-30 | 2024-10-19 |
 | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tunechi \(with Gabito Ballesteros\)](https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ) | 3:32 | 2024-04-26 | 2024-06-15 |
 | [Un 2X3](https://open.spotify.com/track/7gPyZNuhbN4VWxgL6RsFyI) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Origen](https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI) | 2:54 | 2025-01-24 | 2025-02-22 |
-| [Un Placer, Fui El Chamaco](https://open.spotify.com/track/1TVHo0eaBUMGJZbtQBW4or) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Otro Golpe](https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU) | 2:32 | 2025-08-22 |  |
+| [Un Placer, Fui El Chamaco](https://open.spotify.com/track/1TVHo0eaBUMGJZbtQBW4or) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Otro Golpe](https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU) | 2:32 | 2025-08-22 | 2025-11-08 |
 | [UN PUÑO DE TIERRA](https://open.spotify.com/track/5a1qwudJggw1SyPydJdEu1) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:28 | 2023-09-29 | 2023-10-14 |
 | [Un Scar](https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Scar](https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds) | 4:59 | 2024-11-15 | 2025-03-11 |
 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 | 2022-02-21 | 2025-02-22 |

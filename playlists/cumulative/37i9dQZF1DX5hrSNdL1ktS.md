@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Bogueto bufando
 
-934 songs - 1 day 21 hr 34 min
+935 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Loco](https://open.spotify.com/track/63EQbNhgaih4yg5412usWG) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Loco](https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232) | 3:06 | 2024-12-20 |  |
 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 | 2022-01-07 | 2023-02-18 |
 | [Locura Contigo](https://open.spotify.com/track/6EJhvB66HavCJYtVDuS5yo) | [ATL](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg), [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [Una Fresa](https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs) | 3:05 | 2023-03-17 | 2023-07-01 |
-| [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 | 2025-05-09 |  |
+| [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 | 2025-05-09 | 2025-11-08 |
 | [Lokita](https://open.spotify.com/track/0GgfmePuhBFE4aeOPLStmy) | [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv) | [Lokita](https://open.spotify.com/album/461J2GFQlevQDkmsJfytDM) | 3:18 | 2023-09-22 | 2024-02-10 |
 | [Lola \- Remix](https://open.spotify.com/track/4d3e8Wm7yUgdIy80SPVml1) | [Jedis](https://open.spotify.com/artist/3RJORoXd6fJDeyOZJ4YgTN), [Gote](https://open.spotify.com/artist/3gaGawsSUSeW2xyOJ7dDal), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Lola \(Remix\)](https://open.spotify.com/album/2Dfwj3OdNcYtdLSJEBxJ3j) | 4:45 | 2024-11-15 | 2025-08-23 |
 | [Lolas](https://open.spotify.com/track/3G6uNdCFa9717AHWo0sQUH) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Dayner "El Especialista"](https://open.spotify.com/artist/4TqOR0O9lfnBxGg0lCtHm7) | [Lolas](https://open.spotify.com/album/1kJUpb7iwFo88ox7XMBX1U) | 3:05 | 2024-12-06 | 2024-12-21 |
@@ -913,6 +913,7 @@
 | [WOW](https://open.spotify.com/track/4eSY3KK78kg9oc6TrzU8Tv) | [DÍMELO CORI](https://open.spotify.com/artist/627KF7g5NPEI9yPHBVrRq1), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [WOW](https://open.spotify.com/album/4grSpBxRFFUgHdAA09tv1d) | 2:21 | 2025-09-19 | 2025-10-18 |
 | [XQTECE?](https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Omarcito Glock](https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD), [Zalo La Z](https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [XQTECE?](https://open.spotify.com/album/2e5r2q49amYBcZBPDnxAoK) | 3:54 | 2025-02-21 | 2025-04-19 |
 | [Y Yo Me Le Pego](https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA) | [Y Yo Me Le Pego](https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu) | 2:52 | 2023-05-05 | 2025-07-19 |
+| [Ya me enteré](https://open.spotify.com/track/1uJ4wb43AssHGwsyq1K4EX) | [DJ FOXY](https://open.spotify.com/artist/0q80frU0PULB8gSA5Q0siK), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [FOXYLANDIA](https://open.spotify.com/album/6lMNLyZKSNFGFCZKAu7QAN) | 2:06 | 2025-11-07 |  |
 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2022-01-22 | 2023-04-22 |
 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 | 2024-06-14 | 2024-07-06 |
 | [YASURIYAMILE](https://open.spotify.com/track/0bYXODFIIn4rMFxwdSmV2X) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [YASURIYAMILE](https://open.spotify.com/album/37qxNAE0G5xbukndHDld9q) | 2:40 | 2024-07-19 | 2024-07-27 |

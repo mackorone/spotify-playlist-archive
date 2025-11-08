@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Meghan Patrick
 
-471 songs - 1 day 1 hr 8 min
+471 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Just Like You](https://open.spotify.com/track/38ShN5IsaQSmKTSbvij0Qg) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Just Like You](https://open.spotify.com/album/5M02zd9VpTG1Pkg2CQJrZp) | 3:03 | 2025-01-24 | 2025-02-08 |
 | [Just The Same](https://open.spotify.com/track/6PAkQjnygwuTV7iDmPtK82) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [This Ol' Way](https://open.spotify.com/album/27cg3junq7poQIJoWeiSDu) | 3:49 | 2025-07-11 | 2025-09-20 |
 | [Just Wanna Feel It](https://open.spotify.com/track/3iO4eyPq0CKGKuAlVNfHXq) | [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [Just Wanna Feel It](https://open.spotify.com/album/2vESO9JTAruodgv7S6OG45) | 3:15 | 2024-06-28 | 2024-07-06 |
+| [Keep on Truckin'](https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [All Kinds of Country](https://open.spotify.com/album/623aZh6biaVYdHg0UpaZtj) | 2:25 | 2025-11-07 |  |
 | [King of the Bar](https://open.spotify.com/track/3YPDDkeiN7m1goTrCpXxjD) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [King of the Bar](https://open.spotify.com/album/6w8OXXetC7EoE2sQMEOU8h) | 3:55 | 2025-10-24 |  |
 | [Kitchen Floor](https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Kitchen Floor](https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs) | 3:54 | 2024-10-18 | 2025-02-08 |
 | [Knew Girl](https://open.spotify.com/track/2EYdtkEFFpFJsfttT4fjHU) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Knew Girl](https://open.spotify.com/album/5PAlJmtfchaDSGhICcdtfB) | 2:52 | 2024-06-28 | 2024-07-06 |
@@ -419,7 +420,6 @@
 | [Tomorrow](https://open.spotify.com/track/46LccjwmRg9n1Mg54gaA83) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Tomorrow](https://open.spotify.com/album/44n5odWgMktFglqvRAC1ex) | 4:27 | 2024-11-29 | 2025-02-01 |
 | [Tomorrows Left](https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Tomorrows Left](https://open.spotify.com/album/38ZwLDDA9dy91nUYtv1znK) | 2:48 | 2025-04-11 | 2025-05-10 |
 | [too hot to be sad](https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [pretty girls don’t cry](https://open.spotify.com/album/4soi8ZgqNC0NxPdtbfn3T7) | 2:44 | 2024-06-28 | 2024-09-07 |
-| [Track 2](https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-07 |  |
 | [Train \- Station Edition](https://open.spotify.com/track/2acYhYSssljNJW5Ud90Pyt) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Train \(Station Edition\)](https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit) | 3:21 | 2024-06-28 | 2024-07-27 |
 | [Traverser les saisons \- remix](https://open.spotify.com/track/75nwaoi4yo4yOTn3t6WQgy) | [Ariane Simard](https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [Traverser les saisons \(remix\)](https://open.spotify.com/album/61VRoHVp4jL00SmS99NRpm) | 2:58 | 2025-10-24 |  |
 | [Turn Me Loose](https://open.spotify.com/track/2bELkN51EnzYWk3XwSZ4zq) | [Antonio Larosa](https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX) | [Turn Me Loose](https://open.spotify.com/album/1cm5u4hC20fwbLpUBYGzcF) | 3:17 | 2025-08-01 | 2025-11-07 |

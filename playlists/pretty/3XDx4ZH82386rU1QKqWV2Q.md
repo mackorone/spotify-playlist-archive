@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,017,503 likes - 125 songs - 5 hr 24 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,017,394 likes - 125 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 12 | [DEATH WISH](https://open.spotify.com/track/6rnf67KC3Sdif7hm4fcrUr) | [Phonkmode](https://open.spotify.com/artist/4cPd80ZHHWza8uX24E3QlX) | [DEATH WISH](https://open.spotify.com/album/3C8sVs7ew9cF5YRNuu28nc) | 1:26 |
 | 13 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 |
 | 14 | [Sleepwalker \- Slowed](https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Sleepwalker \(Slowed\)](https://open.spotify.com/album/2EAUAqdIVckKAPCCT0hAQg) | 4:18 |
-| 15 | [ESTA NOCHE](https://open.spotify.com/track/1hcTs55Do0dzfuXQvxr7bD) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7) | [ESTA NOCHE](https://open.spotify.com/album/11ThPIOUmGboV4wKyfmKPK) | 1:21 |
+| 15 | [ESTA NOCHE](https://open.spotify.com/track/1hcTs55Do0dzfuXQvxr7bD) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7), [WHALEMANE](https://open.spotify.com/artist/1sGaVFNj5WlgrqRSv0q9MW) | [ESTA NOCHE](https://open.spotify.com/album/11ThPIOUmGboV4wKyfmKPK) | 1:21 |
 | 16 | [GigaPump](https://open.spotify.com/track/26g3zWpkUdZuZvHm14Thy5) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaPump](https://open.spotify.com/album/72bhKot3n9kXSJHHJXFUaN) | 2:37 |
 | 17 | [NEON BLADE](https://open.spotify.com/track/56aUyjq8nTiqcfPD5qBLfm) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/2gVcJD2rhO3LY71roEl0iE) | 4:25 |
 | 18 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: リュベンス
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,919 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,936 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 17 | [本能](https://open.spotify.com/track/2HQsuSDHzrpQr4JOTJJUqq) | [ココラシカ](https://open.spotify.com/artist/2pXFmrSGSwumopP3FIlj1c) | [本能](https://open.spotify.com/album/3F5I8xHTNYwqaCnvRYBBa9) | 4:00 |
 | 18 | [Love you like that](https://open.spotify.com/track/7LOMvbcUYF84aCAZ7JGXzb) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [Love you like that](https://open.spotify.com/album/4iC9bRB1VTbDAykvGq50jN) | 3:32 |
 | 19 | [アイオライト](https://open.spotify.com/track/1oPkA8CBVQ2vQIEjiFcIuK) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [アイオライト](https://open.spotify.com/album/4TM4YXzOgWFeZ4dHUWfw6C) | 3:37 |
-| 20 | [ほろよい \- 大人の事情ver.](https://open.spotify.com/track/2ISJ34krAeFcKdOtYSUCwX) | [Sanghee](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf), [TET$V](https://open.spotify.com/artist/3AdnolIFpMk2u9TABnZz8a) | [Giving Pearls ta Pig](https://open.spotify.com/album/22L5ZgCuVWkgJot0KpsoXU) | 3:23 |
+| 20 | [ほろよい \- 大人の事情ver.](https://open.spotify.com/track/2ISJ34krAeFcKdOtYSUCwX) | [Sanghee](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf), [68](https://open.spotify.com/artist/2TZesIJVssrx9qg69NHNVg) | [Giving Pearls ta Pig](https://open.spotify.com/album/22L5ZgCuVWkgJot0KpsoXU) | 3:23 |
 | 21 | [RHAPSODY IN RED](https://open.spotify.com/track/3YH0JyubQ0A78pp6SN8b1v) | [Kyosuke Himuro](https://open.spotify.com/artist/0ZSqL5iXTuBWy7ur7vT2lP) | [NEO FASCIO](https://open.spotify.com/album/78L0lDIZV7uPymyFnt8gbe) | 3:31 |
 | 22 | [Beyond The Time](https://open.spotify.com/track/4xRS63oVDUg742iagHW35Y) | [The Pixel Philharmonic](https://open.spotify.com/artist/4ca1uHHHAdolGUx5euLJfp) | [Beyond The Time \(From Gundam: Char's Counter Attack\)](https://open.spotify.com/album/2LaT9tqPla7PoVoCr1ULww) | 4:45 |
 | 23 | [UZA](https://open.spotify.com/track/3NVUMmSAGAyP4rx56gGpNs) | [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [29](https://open.spotify.com/album/0reRYB6Jdat0UMAtvrfkSl) | 2:56 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 48 | [Slave of Liberty](https://open.spotify.com/track/6f9Z3ZsySqhbFPYDnUoZAP) | [カミカワユウナ](https://open.spotify.com/artist/2ZgDwKfrFmWBnosPqJ3baL) | [Slave of Liberty](https://open.spotify.com/album/6a1xL8y2QhitAPDvMcI6cw) | 3:16 |
 | 49 | [Shut in Dance](https://open.spotify.com/track/2Ng9kh87XaJ8ujpUZD2IMc) | [zoo zoo sea](https://open.spotify.com/artist/5XV7mJcjilwORxTsNr4AXC) | [Shut in Dance](https://open.spotify.com/album/0vC5W5SWEMNhTCTYZas8Hp) | 4:11 |
 | 50 | [わんでもニウム '87](https://open.spotify.com/track/3VlgleQUVZNjtYNmk9vrJx) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [わんでもニウム '87](https://open.spotify.com/album/3dsP0UjPuCmGCE6hIFvgJG) | 2:46 |
-| 51 | [アルコール、アンコール。 \- 大人の事情ver.](https://open.spotify.com/track/2tFfLARen9n1K0lHyrFQEC) | [Sanghee](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf), [TET$V](https://open.spotify.com/artist/3AdnolIFpMk2u9TABnZz8a) | [Giving Pearls ta Pig](https://open.spotify.com/album/22L5ZgCuVWkgJot0KpsoXU) | 4:12 |
+| 51 | [アルコール、アンコール。 \- 大人の事情ver.](https://open.spotify.com/track/2tFfLARen9n1K0lHyrFQEC) | [Sanghee](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf), [68](https://open.spotify.com/artist/2TZesIJVssrx9qg69NHNVg) | [Giving Pearls ta Pig](https://open.spotify.com/album/22L5ZgCuVWkgJot0KpsoXU) | 4:12 |
 | 52 | [サイドキック](https://open.spotify.com/track/7xiGKXf4vdgNWmLZ7ktH4K) | [夕方と猫](https://open.spotify.com/artist/4JiDOJYtNcMywV5sUP0dYu) | [サイドキック](https://open.spotify.com/album/4x1GTWam9kOfGvd0JaJV70) | 3:41 |
 | 53 | [ともだち](https://open.spotify.com/track/0miCDQCAbPWav1DIKcEZe4) | [ワタナベ・メイ](https://open.spotify.com/artist/4W4TTev4Ia8lbydPdZXUJ2) | [Hazy](https://open.spotify.com/album/1ofnQBET2En0SRfBQW4k8k) | 2:37 |
 | 54 | [とんでっちゃいたい](https://open.spotify.com/track/15MxL1GlfAQWFRl2sE8ksC) | [100回嘔吐](https://open.spotify.com/artist/7dH8GwbARXVbB3wuwUiX08) | [とんでっちゃいたい](https://open.spotify.com/album/2AJSMJFZD5uqpwtZxjg7uF) | 3:13 |

@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: Minelli, Busta Rhymes
 
-356 songs - 16 hr 50 min
+356 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Arde cerul](https://open.spotify.com/track/6lmB4XvuVcyJ7lTsrqOZSB) | [Betty Salam](https://open.spotify.com/artist/6YoV1pQqV1SX4m40yQ6LOd), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Arde cerul](https://open.spotify.com/album/3cRgSc1gEzhjTsJv4wyG7T) | 2:38 | 2024-12-12 | 2025-03-21 |
 | [Asa ne da dragostea](https://open.spotify.com/track/65JqNtKD6mWh0pkyECafxX) | [Keo](https://open.spotify.com/artist/5VWiSi6ROTFyo3f5ENrQTT), [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Asa ne da dragostea](https://open.spotify.com/album/4TxlP494hA8betsRDMMvqN) | 2:40 | 2025-05-23 | 2025-06-06 |
 | [Aud](https://open.spotify.com/track/71j6MDsl7DHrk64dnL5KKR) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [Aud](https://open.spotify.com/album/6gI0wm5uLbXV2Hj6dHPx0Y) | 3:42 | 2025-10-09 |  |
+| [Azucar](https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Mixed Feelings](https://open.spotify.com/album/6P21kzrMNOGSULxDw47nXD) | 2:21 | 2025-11-06 |  |
 | [Așa Ceva](https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Așa Ceva](https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7) | 3:24 | 2025-05-01 | 2025-10-03 |
 | [Așa, cum ești tu](https://open.spotify.com/track/6ESlixRsvSuqBdm5y60njA) | [Elena](https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq), [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Așa, cum ești tu](https://open.spotify.com/album/7lOJpV3hrFUslhp8gmLEQo) | 3:21 | 2024-06-27 | 2024-09-13 |
 | [Ba e soare, ba e ploaie](https://open.spotify.com/track/7ffVzMf2rW26TlWkPhYvPk) | [Yuka](https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2) | [Ba e soare, ba e ploaie](https://open.spotify.com/album/2QNvNrO1u2o7hLJJ8lfhap) | 2:27 | 2024-06-27 | 2024-07-05 |
@@ -326,7 +327,6 @@
 | [Toate pozele](https://open.spotify.com/track/7d7RjxJNY4ELK37cQLWIhT) | [Vlad Musta](https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR) | [Toate pozele](https://open.spotify.com/album/405OtLdSR5FwBvgybe1qpq) | 2:56 | 2024-08-29 | 2024-09-20 |
 | [Tot ce avem e azi](https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Tot ce avem e azi](https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE) | 3:03 | 2025-07-10 | 2025-08-22 |
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-06-27 | 2024-07-19 |
-| [Track 8](https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Trandafiri](https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Trandafiri](https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5) | 2:22 | 2025-05-15 | 2025-08-22 |
 | [Trecător](https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Trecător](https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy) | 2:57 | 2025-09-18 |  |
 | [Tricoul](https://open.spotify.com/track/5PGEjoxC9efpeBPFzTztNY) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Antifragil](https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC) | 2:33 | 2024-11-28 | 2025-04-25 |

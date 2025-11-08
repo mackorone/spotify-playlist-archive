@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- When Chai Met Toast\n",
+  "description": "Hindi hai, Indie hai! Cover- NAALAYAK\n",
   "name": "hIndies",
   "tracks": [
+    {
+      "album": {
+        "name": "Marammat",
+        "url": "https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269160,
+      "name": "3am Thoughts",
+      "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
+    },
     {
       "album": {
         "name": "Aadhe Waade",
@@ -190,7 +208,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 209224,
       "name": "ahista",
       "url": "https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4"
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 153882,
       "name": "Jaadugari",
       "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
@@ -4609,6 +4627,24 @@
     },
     {
       "album": {
+        "name": "Sabki Kahani",
+        "url": "https://open.spotify.com/album/5SkGyMMb683cW0GehC4BPA"
+      },
+      "artists": [
+        {
+          "name": "Antariksh",
+          "url": "https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227878,
+      "name": "Sabki Kahani",
+      "url": "https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw"
+    },
+    {
+      "album": {
         "name": "Mann",
         "url": "https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup"
       },
@@ -5728,7 +5764,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 178000,
       "name": "Udta Parinda",
       "url": "https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb"
@@ -5988,6 +6024,24 @@
       "duration_ms": 234772,
       "name": "Yeh Shaam",
       "url": "https://open.spotify.com/track/44e6LWMz011gq6QU45nw2P"
+    },
+    {
+      "album": {
+        "name": "Yun Hi Kahin",
+        "url": "https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203392,
+      "name": "Yun Hi Kahin",
+      "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
     },
     {
       "album": {

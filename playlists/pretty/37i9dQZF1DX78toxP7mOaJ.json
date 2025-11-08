@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: bloodsports",
-  "num_followers": 166744,
+  "num_followers": 166742,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGm8Vacs7NHfZLNYg1naEgIEig5d",
+  "snapshot_id": "AAAAABMYg0tTjKB++902oF6xW16fo9+c",
   "tracks": [
     {
       "added_at": "2025-10-29 16:00:02",
@@ -39,6 +39,22 @@
       "duration_ms": 212127,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/5NZaBlvzATLgpUnzGwx0oI"
+    },
+    {
+      "added_at": "2025-11-07 18:13:46",
+      "album": {
+        "name": "Hell Is An Airport",
+        "url": "https://open.spotify.com/album/7kDCEqBpm37Arcx9jcfjOJ"
+      },
+      "artists": [
+        {
+          "name": "Liquid Mike",
+          "url": "https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "AT&T",
+      "url": "https://open.spotify.com/track/4Q5sAFJ9qstk1i8bCWesA6"
     },
     {
       "added_at": "2025-11-05 23:42:19",
@@ -2055,22 +2071,6 @@
       "duration_ms": 147920,
       "name": "Wheel",
       "url": "https://open.spotify.com/track/1PhPDcq9AYC1Oq2lo2jmIJ"
-    },
-    {
-      "added_at": "2025-07-23 16:00:16",
-      "album": {
-        "name": "Claws",
-        "url": "https://open.spotify.com/album/2aFjW4z5wlqJmOjThdEq9f"
-      },
-      "artists": [
-        {
-          "name": "Liquid Mike",
-          "url": "https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN"
-        }
-      ],
-      "duration_ms": 122750,
-      "name": "Claws",
-      "url": "https://open.spotify.com/track/2QOXnqGZN4iulkieCqArjs"
     },
     {
       "added_at": "2025-07-09 16:21:23",

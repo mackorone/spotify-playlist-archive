@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Arath Herce en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-231 songs - 15 hr 10 min
+236 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Aquí No Pasa Nada](https://open.spotify.com/track/5RhOaCAmJUlV8N6SCZPLqP) | [Julian Maraboto](https://open.spotify.com/artist/4p4evBfuUus97qYOm2djL0) | [Aquí No Pasa Nada](https://open.spotify.com/album/3e8LZqHQkL6pbWLTCdhPRS) | 2:28 | 2022-03-04 | 2025-05-31 |
 | [Aroma A Nostalgia \- Versión 2021](https://open.spotify.com/track/540QeUq2Xnf1gVwthgPZrH) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:38 | 2025-05-30 |  |
 | [Ay Cupido](https://open.spotify.com/track/5f5eeJyd1y0KYhIcbeqj2Q) | [Marrasa](https://open.spotify.com/artist/0k3beuIjilbCY3FKaYHPGE) | [Ay Cupido](https://open.spotify.com/album/27uUKCRJgmYTyIzH1ayZ90) | 3:02 | 2022-03-04 | 2025-05-31 |
+| [Azul](https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Azul](https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf) | 3:53 | 2025-11-07 |  |
 | [Bambi](https://open.spotify.com/track/5s2sIXX27KyDupjyXNSrmt) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [ROJO REGALO](https://open.spotify.com/artist/7JCwfHOLK7S20ClYmV4bPd) | [Bambi](https://open.spotify.com/album/6QdOrxUeBBrFPjNUtfdSdb) | 4:10 | 2024-10-11 | 2025-05-31 |
 | [Besar](https://open.spotify.com/track/1JfkGnktG9RRmQSxzN6jMC) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Besar](https://open.spotify.com/album/3ggnQ2EBey7bpJRuV7YhnX) | 3:34 | 2023-05-09 | 2025-05-31 |
 | [Besos de Mezcal](https://open.spotify.com/track/5n2oEHNiaCshJvtyS4Tewd) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Besos de Mezcal](https://open.spotify.com/album/4amubCKy3djyzbywCUrK4E) | 3:08 | 2022-03-04 | 2024-10-12 |
@@ -48,6 +49,7 @@
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 | 2024-04-19 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2025-05-31 |
 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 | 2022-03-04 | 2025-01-11 |
+| [Clara Demente](https://open.spotify.com/track/2OzbdPWxKMk092M1Rqj9aG) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Clara Demente](https://open.spotify.com/album/35Ll1VRpIuB14jEx7iwSpb) | 3:10 | 2025-11-07 |  |
 | [Combustión](https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblame de Tú](https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu) | 3:58 | 2025-05-30 |  |
 | [Como Un Pájaro](https://open.spotify.com/track/4zVznkVDNdQNnXsj058THT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/1X8lMZJ1mkuU6C9cx8oEn8) | 3:28 | 2025-05-30 |  |
 | [Como una Luz](https://open.spotify.com/track/6KoWvHYbfLVgCV2RUCeWmO) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Aurora](https://open.spotify.com/album/69kg3SATA00VfhGmuaE248) | 5:01 | 2023-06-09 | 2024-04-19 |
@@ -159,8 +161,10 @@
 | [No Me Importa](https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [No me Importa](https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb) | 2:57 | 2025-06-24 |  |
 | [No sé](https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:09 | 2024-05-31 | 2025-05-31 |
 | [No te lo Puedo Decir](https://open.spotify.com/track/6HPGVIIKxxgC8oeJ6W29BO) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Esperanza](https://open.spotify.com/album/2WCRs6p1ApJ6XlaBXX2QKq) | 2:51 | 2023-06-09 | 2025-05-31 |
+| [No Te Vayas Sin Saber](https://open.spotify.com/track/3u136DJMY2wCgZ2TaO4wND) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:44 | 2025-11-07 |  |
 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 | 2022-04-20 | 2023-06-10 |
 | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 | 2025-05-30 |  |
+| [Palabras Vacías](https://open.spotify.com/track/3whx5H5CCDyXnkrXgt0nwp) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Índole](https://open.spotify.com/album/1u69ELQ46bSTtXtxAjOhDC) | 3:18 | 2025-11-07 |  |
 | [Pensacola](https://open.spotify.com/track/6etxMwJsdY8SfOexHoWYVS) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Pensacola](https://open.spotify.com/album/3wwKokEtjXX8ANKP38hVt5) | 5:03 | 2022-03-04 | 2025-05-31 |
 | [Pescador](https://open.spotify.com/track/5Zb5h5ccGnBCvVCWibWEcD) | [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM) | [Wexico](https://open.spotify.com/album/668lUEi8btiUYBIecpcCeE) | 6:20 | 2022-03-04 | 2023-02-04 |
 | [Pescador](https://open.spotify.com/track/16wTU9Mt9VArJ4SmJC13Qx) | [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM) | [Wexico](https://open.spotify.com/album/1HM64wy3EyYfLH3Ns3ZLWH) | 6:23 | 2022-03-04 | 2022-07-29 |
@@ -209,6 +213,7 @@
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2022-03-04 | 2025-05-31 |
 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 | 2023-03-03 | 2025-05-31 |
 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 | 2025-05-30 |  |
+| [Ten Piedad](https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Ten Piedad](https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK) | 4:17 | 2025-11-07 |  |
 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 | 2025-05-30 |  |
 | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/track/6Jv5QIyxHtBLvKB8U84Ae2) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/album/3qqiuCVd7j8bLEICEmycNC) | 3:11 | 2022-03-04 | 2025-05-31 |
 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/3snlRAr38hQef8sz0hJbmy) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:45 | 2022-04-20 | 2024-04-19 |

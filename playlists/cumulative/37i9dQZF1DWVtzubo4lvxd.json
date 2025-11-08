@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "City Rain",
+        "url": "https://open.spotify.com/album/32Zu5iSwr6KPFFikCB76eT"
+      },
+      "artists": [
+        {
+          "name": "G93",
+          "url": "https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "City Rain",
+      "url": "https://open.spotify.com/track/2ulWL7DcayhjIa0UOw4v8i"
+    },
+    {
+      "album": {
         "name": "Colorwave Seasons",
         "url": "https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 248711,
       "name": "Floating Free",
       "url": "https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq"

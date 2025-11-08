@@ -1,6 +1,6 @@
 {
   "description": "The latest of R&B in the UK. Cover: TYLER LEWIS",
-  "num_followers": 162371,
+  "num_followers": 162386,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -271,17 +271,21 @@
     {
       "added_at": "2025-11-07 00:00:21",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/7yjMecUAb9ffr1awwK4Q73"
       },
       "artists": [
         {
           "name": "Demae",
           "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        },
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 206793,
+      "name": "Thank You (feat. Yukimi)",
       "url": "https://open.spotify.com/track/2ZXstywlOq3OrFDhxXGHyo"
     },
     {

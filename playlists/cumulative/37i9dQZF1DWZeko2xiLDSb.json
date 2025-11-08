@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "forever and always",
+        "url": "https://open.spotify.com/album/1OknBAZwOC2TQJsDQjsRqC"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148666,
+      "name": "chemicals",
+      "url": "https://open.spotify.com/track/6mijtFNG6bFmNvoKU1T4EC"
+    },
+    {
+      "album": {
         "name": "Codroy",
         "url": "https://open.spotify.com/album/1mnUShf1cPg9ol1TKHKmxc"
       },
@@ -2888,24 +2906,6 @@
       "duration_ms": 258002,
       "name": "Tomb",
       "url": "https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6mijtFNG6bFmNvoKU1T4EC"
     },
     {
       "album": {

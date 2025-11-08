@@ -711,22 +711,6 @@
     {
       "added_at": "2025-11-06 05:31:19",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "They say, that is the love",
-      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
-    },
-    {
-      "added_at": "2025-11-06 05:31:19",
-      "album": {
         "name": "Adventure",
         "url": "https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2025-11-06 05:31:19",
       "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "They say, that is the love",
+      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
+    },
+    {
+      "added_at": "2025-11-06 05:31:19",
+      "album": {
         "name": "Night you went away",
         "url": "https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp"
       },
@@ -755,6 +755,38 @@
       "duration_ms": 218637,
       "name": "Night you went away (Korean Ver.) (Vocal. Kim gyeol)",
       "url": "https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA"
+    },
+    {
+      "added_at": "2025-11-06 05:31:19",
+      "album": {
+        "name": "youth",
+        "url": "https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
+    },
+    {
+      "added_at": "2025-11-06 05:31:19",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 374991,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK"
     },
     {
       "added_at": "2025-11-06 05:31:19",
@@ -779,22 +811,6 @@
     {
       "added_at": "2025-11-06 05:31:19",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 374991,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK"
-    },
-    {
-      "added_at": "2025-11-06 05:31:19",
-      "album": {
         "name": "To My Beloved",
         "url": "https://open.spotify.com/album/39Bql5WDBY9VfIMhMf7CQn"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 196244,
       "name": "To My Beloved",
       "url": "https://open.spotify.com/track/1UL1Xm1RRo2SZqVJ2lzS33"
-    },
-    {
-      "added_at": "2025-11-06 05:31:19",
-      "album": {
-        "name": "youth",
-        "url": "https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

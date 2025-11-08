@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-524 songs - 1 day 13 hr 1 min
+526 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Dance With Me](https://open.spotify.com/track/3J18F04gGcur3hK3MJlGyc) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Dance With Me](https://open.spotify.com/album/7D6Egi9qWYcpJy2OTfSJHa) | 3:30 | 2021-04-23 | 2022-03-18 |
 | [Dancin' Shoes](https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5) | 4:14 | 2023-10-13 | 2024-04-19 |
 | [Dare To Dream](https://open.spotify.com/track/7yTEsgjkPcFXOw6K9jgPf9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [In Real Life](https://open.spotify.com/album/6NAnNSObthOkTd3GH0Ib7q) | 4:52 | 2024-05-10 |  |
+| [Dare to Fly \- Brazilian Version](https://open.spotify.com/track/0ybsazJTUH0PyjA8RAYTP2) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Dare to Fly \(Brazilian Version\)](https://open.spotify.com/album/4sv6sHhnthTwBY8KuQqWYL) | 5:37 | 2025-11-07 |  |
 | [De Nada](https://open.spotify.com/track/6RUMVhyaDTPf2SdiUIu4r1) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [De Nada](https://open.spotify.com/album/68cTBOeTm9HU9JPz1pVwid) | 4:07 | 2025-05-30 |  |
 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 | 2023-06-09 | 2024-06-22 |
 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 | 2022-06-17 | 2023-04-29 |
@@ -229,7 +230,7 @@
 | [Intertwined](https://open.spotify.com/track/3TskladYjEgSqIZyrUCcTW) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Intertwined](https://open.spotify.com/album/5WvZ8T2TAPb8cYuF79OmXS) | 2:35 | 2024-01-19 |  |
 | [Into The Unknown](https://open.spotify.com/track/7DSszcelqBH9ckmSaHLQ2c) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Into The Unknown](https://open.spotify.com/album/6Chew4hceGgqtGA0ZgIaUd) | 4:14 | 2021-07-02 | 2022-08-03 |
 | [Invincible](https://open.spotify.com/track/0krv786vCcNQHJnpHNQJlh) | [Bryan Lubeck](https://open.spotify.com/artist/3RztoEJuNXx3QNR5HKN63m) | [Midnight Sun](https://open.spotify.com/album/67ivtnSMkhSKKFecEumLYi) | 4:28 | 2021-08-27 | 2022-09-17 |
-| [Inyo Moon](https://open.spotify.com/track/5xK3mnfc9FdOhpAh8V0nqe) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Inyo Moon](https://open.spotify.com/album/68NcXHQ669Rmy6PdEA3kMH) | 4:25 | 2025-08-01 |  |
+| [Inyo Moon](https://open.spotify.com/track/5xK3mnfc9FdOhpAh8V0nqe) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Inyo Moon](https://open.spotify.com/album/68NcXHQ669Rmy6PdEA3kMH) | 4:25 | 2025-08-01 | 2025-11-08 |
 | [Irresistible](https://open.spotify.com/track/2S50AzAPblRT9Q3WsKzrTQ) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Love and Rhythm](https://open.spotify.com/album/7EhoGqBebIngl6i93kWOJl) | 5:26 | 2024-04-19 | 2024-06-29 |
 | [Islands In The Sea](https://open.spotify.com/track/7s5bLr1Wi5URSor1lkxyAN) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Ed Roth](https://open.spotify.com/artist/7EBeeH2oJR0OXd0mPSv6PD) | [Islands In The Sea](https://open.spotify.com/album/1OJIkhZLVfyp0B9rfpwCjl) | 4:07 | 2021-08-20 | 2022-07-23 |
 | [It Might Be You](https://open.spotify.com/track/5WXX5DBrFmHox6CrI1BZUI) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [It Might Be You](https://open.spotify.com/album/4zGVWJjoJdMwivsNR0hi01) | 4:43 | 2025-01-24 |  |
@@ -265,7 +266,7 @@
 | [Let's Fly Away](https://open.spotify.com/track/5uw1xYhVYVAp8BapqMgmD9) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Let's Fly Away](https://open.spotify.com/album/0szjKEYXMf68uAFslAcdqh) | 3:46 | 2025-02-28 | 2025-03-29 |
 | [Let's Get Away](https://open.spotify.com/track/01KvV1QkbAbeDoIQZAhJJe) | [Marlon Boone](https://open.spotify.com/artist/4IgxDg9PHr95ljkFwBCQsN) | [Let's Get Away](https://open.spotify.com/album/2f4lnLE1UudhW93l083HXY) | 4:02 | 2020-10-30 | 2022-02-26 |
 | [Let's Get It Movin'](https://open.spotify.com/track/1KD1VylXj6Hjb71qeRQupI) | [Nelson Garcia](https://open.spotify.com/artist/2LOUd3sHzVXTNHnVv1fdIo), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Let's Get It Movin'](https://open.spotify.com/album/39YVysbUGA9AQYtAbFZLl5) | 3:43 | 2021-02-27 | 2022-03-11 |
-| [Let's Get Lost](https://open.spotify.com/track/7CMTV4ETCs5mX0kOToof9w) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Let's Get Lost](https://open.spotify.com/album/0qzKCFdmGVeygq4y5JVxz3) | 4:25 | 2025-01-03 |  |
+| [Let's Get Lost](https://open.spotify.com/track/7CMTV4ETCs5mX0kOToof9w) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Let's Get Lost](https://open.spotify.com/album/0qzKCFdmGVeygq4y5JVxz3) | 4:25 | 2025-01-03 | 2025-11-08 |
 | [Let's Have a Good Time](https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Let's Have a Good Time](https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv) | 3:53 | 2023-02-24 | 2023-08-26 |
 | [Let's Take A Ride](https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y) | 4:14 | 2023-05-12 | 2025-07-05 |
 | [Let's Talk](https://open.spotify.com/track/2FIlTiEB1evMojZoQICzkP) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Let's Talk](https://open.spotify.com/album/2fsA3q4Cdx3wfpEVmruBrE) | 4:08 | 2025-01-10 |  |
@@ -396,6 +397,7 @@
 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 | 2023-09-29 |  |
 | [Side by Side Radio Edit](https://open.spotify.com/track/0mWrMcMOWIB5w5ilmWKkwB) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Side by Side Radio Edit](https://open.spotify.com/album/74R005FKgC9qS7AniLVX0C) | 4:01 | 2020-10-30 | 2022-03-18 |
 | [Simplified Era](https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Simplified Era](https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ) | 2:12 | 2024-04-19 | 2024-08-03 |
+| [Sir Charles \- Calypso](https://open.spotify.com/track/2rLvRE09NWrBUefhtf1NKH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Robert Greenidge](https://open.spotify.com/artist/0qLI2jjlYqBgeJqgOqJaSR) | [Sir Charles \(Calypso\)](https://open.spotify.com/album/08qVwxWNjGvtHJBB1pSOlx) | 6:18 | 2025-11-07 |  |
 | [Skyway](https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Skyway](https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6) | 3:41 | 2023-04-28 | 2024-03-16 |
 | [Slick \- radio single](https://open.spotify.com/track/1v6OP1ljBqa2EGWL8FgDlL) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Slick](https://open.spotify.com/album/3keeHfxRE4zD6YahhiyEY8) | 4:11 | 2022-04-15 | 2023-08-12 |
 | [Slide](https://open.spotify.com/track/6z4Cu6II2XqXQIWyOq1Gg3) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Slide](https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I) | 3:55 | 2024-09-27 | 2024-10-19 |

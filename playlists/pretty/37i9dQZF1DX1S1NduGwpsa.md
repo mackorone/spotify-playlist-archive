@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: The Getdown
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,505 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,530 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 12 | [White Keys](https://open.spotify.com/track/3bZVl3PDZXdCwBVTcjGmmR) | [Cyril Benhamou](https://open.spotify.com/artist/3ziSv447mOaDiSm177bXdF), [Jérôme Mouriez](https://open.spotify.com/artist/46HeHgRPYB4VHA5OVTTZ4r), [Pascal Blanc](https://open.spotify.com/artist/10zfJDCGvTci6BdaEkwFF3) | [White Keys](https://open.spotify.com/album/6EGBzjlalI2ygImj0aqouF) | 3:12 |
 | 13 | [More Understanding Than A Man](https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy) | [Flore Benguigui & The Sensible Notes](https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6) | [More Understanding Than A Man](https://open.spotify.com/album/22j385vgy0DNPeUTGKzgkE) | 3:51 |
 | 14 | [Letter to My Favorite Boy](https://open.spotify.com/track/5OGWcAYy3JROjCW9KxBO1H) | [Lila\-May](https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx) | [Out of Time](https://open.spotify.com/album/4j01Jt4AEJMFlkJuAj3Mhv) | 3:44 |
-| 15 | [Une fleur et des papillons](https://open.spotify.com/track/4rvum1zXHabR4tPwPKrKsn) | [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [](https://open.spotify.com/album/null) | 5:32 |
+| 15 | [Une fleur et des papillons](https://open.spotify.com/track/4rvum1zXHabR4tPwPKrKsn) | [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Une fleur et des papillons](https://open.spotify.com/album/1WkF9RmVuybqBDiWkPhuKn) | 5:32 |
 | 16 | [Angel Dust \- Kyoto Jazz Massive Remix](https://open.spotify.com/track/777KS3sCp5SkizGM5LmXOA) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Angel Dust \(Kyoto Jazz Massive Remix\)](https://open.spotify.com/album/7l0akwxsMSIswvEX8hSSIy) | 5:00 |
 | 17 | [Clockwork](https://open.spotify.com/track/5ySpopJq4R7WBcfdI7NG8g) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time \(Standard Edition\)](https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG) | 2:30 |
 | 18 | [Merci Biguine](https://open.spotify.com/track/5nOnspLIl5HEKxSPJPDOEM) | [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ), [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [The Getdown](https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF) | 4:04 |

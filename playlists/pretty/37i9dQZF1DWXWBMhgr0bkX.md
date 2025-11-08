@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Unmissable emerging pop feat\. Naomi Scott 🦋
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,094 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,095 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Get Around](https://open.spotify.com/track/6AF86U8bfXoXf54cqbHVGo) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [](https://open.spotify.com/album/null) | 2:20 |
+| 1 | [Get Around](https://open.spotify.com/track/6AF86U8bfXoXf54cqbHVGo) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Voyeur \(Deluxe\)](https://open.spotify.com/album/53Mn3nQy0YRTBWtyfwrOiL) | 2:20 |
 | 2 | [Sweet Nausea](https://open.spotify.com/track/5MIe7cz4nmuzIBKTpXpaWe) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Sweet Nausea](https://open.spotify.com/album/3PCH95ZQ2I54sGuS9BqUnG) | 2:05 |
 | 3 | [Fault Line](https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Fault Line](https://open.spotify.com/album/4oaZCFbDFPktNYKJrTlXf3) | 3:11 |
 | 4 | [Bracing For Impact](https://open.spotify.com/track/4AcdJoArcqN1FRV7W1SJ1I) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 3:14 |
 | 5 | [Hell](https://open.spotify.com/track/4urDfXfIUt3X4INidnIA4R) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Hell](https://open.spotify.com/album/3A1NxlNj94ve9GwUdp9bXs) | 3:33 |
-| 6 | [Fantasy](https://open.spotify.com/track/23zspOaDtWuHh0bZaCo3PZ) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [](https://open.spotify.com/album/null) | 3:13 |
+| 6 | [Fantasy](https://open.spotify.com/track/23zspOaDtWuHh0bZaCo3PZ) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Fickle Friends](https://open.spotify.com/album/77NcQbJCAIoymd5Z0VCJre) | 3:13 |
 | 7 | [Miracle](https://open.spotify.com/track/22UXcHkB8wArgD6H8Si4Ui) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Miracle](https://open.spotify.com/album/4GCl2J72Hzykrt4Ajv0rJU) | 3:28 |
 | 8 | [FU & UF](https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz) | 2:39 |
 | 9 | [Alright, Alright](https://open.spotify.com/track/3coi1T3U5MsiisKkQX9Oza) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Alright, Alright](https://open.spotify.com/album/5LD82ktd0nOVBwwCbFOSJo) | 3:55 |

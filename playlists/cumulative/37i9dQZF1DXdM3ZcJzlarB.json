@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6kifzL9II6zVZcKvfkSxsA"
+      },
+      "artists": [
+        {
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1LvIhFKDDezuHsfLpJSPST"
+    },
+    {
+      "album": {
         "name": "EL AFTER DEL AFTER",
         "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
       },
@@ -3319,6 +3337,32 @@
     },
     {
       "album": {
+        "name": "lo que pase (feat. Trueno) [Muter Remix]",
+        "url": "https://open.spotify.com/album/4EfCkFlGiBW45WezCqIuA6"
+      },
+      "artists": [
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Muter",
+          "url": "https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230905,
+      "name": "lo que pase (feat. Trueno) - Muter Remix",
+      "url": "https://open.spotify.com/track/7585ieV3yv12vwh5Qn1G9V"
+    },
+    {
+      "album": {
         "name": "001",
         "url": "https://open.spotify.com/album/0doNVmS0C22OOq3wmsGbQK"
       },
@@ -3538,7 +3582,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 474000,
       "name": "Luhi",
       "url": "https://open.spotify.com/track/50GkG5QNOhLHI9JWgJ7T8x"

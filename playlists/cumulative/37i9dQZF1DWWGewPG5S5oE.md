@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Soundtype
 
-465 songs - 1 day 13 hr 44 min
+466 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [You Are Too Beautiful](https://open.spotify.com/track/3rXJBcYCpV5hSE72oCkBKJ) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Best 2005 – 2025](https://open.spotify.com/album/0vgiRFKdzaISJqjLRH0mX6) | 2:29 | 2025-09-30 |  |
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-15 |  |
 | [Zero](https://open.spotify.com/track/1T0uAWnsevRr7Nk8E7TI4w) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Zero](https://open.spotify.com/album/54KW9F6MVh6tOL74EC8evT) | 3:41 | 2025-01-28 | 2025-04-23 |
-| [Ⅰ\. Overture](https://open.spotify.com/track/6oFZMYre73OreKIuM38oeM) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG), [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13), [Hironori Suzuki](https://open.spotify.com/artist/4rU87g1ZAPPONOyteoFoRv) | [８つの小品](https://open.spotify.com/album/6ZoKCcmVkTm2mjx2imdE6U) | 5:04 | 2025-09-09 |  |
+| [Ⅰ\. Overture](https://open.spotify.com/track/6oFZMYre73OreKIuM38oeM) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG), [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13), [Hironori Suzuki](https://open.spotify.com/artist/4rU87g1ZAPPONOyteoFoRv) | [８つの小品](https://open.spotify.com/album/6ZoKCcmVkTm2mjx2imdE6U) | 5:04 | 2025-09-09 | 2025-11-08 |
 | [あらわらわ](https://open.spotify.com/track/51MR88U7RScGTheJFYOqQ3) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [あらわらわ](https://open.spotify.com/album/0yMIIhjiAE3zS5YVLkuYA3) | 1:34 | 2025-10-07 |  |
 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 | 2024-12-17 |  |
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 | 2024-11-13 |
@@ -435,6 +435,7 @@
 | [ベストマッチグランプリ](https://open.spotify.com/track/0tIWLp37QshtVajg2zplo9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ベストマッチグランプリ](https://open.spotify.com/album/2hnk8qCpFHbNlT8Rqg1oLO) | 1:14 | 2024-09-03 | 2024-10-16 |
 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 | 2022-09-06 | 2024-12-11 |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-13 | 2022-10-19 |
+| [ユートピア](https://open.spotify.com/track/3ftvzizngsBG6wkmkLbcZr) | [Nao Kodama](https://open.spotify.com/artist/1W2RWaK40Bo6xTSgkPAPNL), [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [ユートピア](https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz) | 2:56 | 2025-11-05 |  |
 | [ルンルン](https://open.spotify.com/track/6WdmYOXOZPCTUXsPLDrnb1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ルンルン](https://open.spotify.com/album/19U81Y3NPDXB6pJ16m8UXy) | 3:10 | 2023-10-03 | 2023-11-01 |
 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 | 2022-09-06 | 2024-12-18 |
 | [今夜はブギー・バック](https://open.spotify.com/track/5FGYRvymVBG0Fbhje3unXJ) | [Wa Yo Set](https://open.spotify.com/artist/1H0RbzDqHyLsIWxIsh86Fs) | [Don't let me down / 今夜はブギー・バック](https://open.spotify.com/album/3djgKDFOpfICX31bkOZ9uN) | 4:16 | 2024-12-17 | 2024-12-31 |

@@ -5343,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4sta sommar EP",
+        "url": "https://open.spotify.com/album/2qiMW6bQAxZohW39y8fVkt"
+      },
+      "artists": [
+        {
+          "name": "Immanuel",
+          "url": "https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Ner till sj\u00f6n",
+      "url": "https://open.spotify.com/track/756n8OYYga1NCuO0HibXix"
+    },
+    {
+      "album": {
         "name": "Nere p\u00e5 golvet",
         "url": "https://open.spotify.com/album/3GnlXSvdW3BO8SFlOGrsiE"
       },
@@ -7538,24 +7556,6 @@
       "duration_ms": 172432,
       "name": "Tom Cruisin'",
       "url": "https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Immanuel",
-          "url": "https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/756n8OYYga1NCuO0HibXix"
     },
     {
       "album": {

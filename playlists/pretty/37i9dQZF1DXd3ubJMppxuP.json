@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 84534,
+  "num_followers": 84563,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Banger Hart",
+        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
+      },
+      "artists": [
+        {
+          "name": "Thymo",
+          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
+        },
+        {
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
+        }
+      ],
+      "duration_ms": 166487,
+      "name": "Banger Hart",
+      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Vette Boeren (Radio Edit - Daani Remix)",
         "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
       },
@@ -659,22 +679,22 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Banger Hart",
-        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
+        "name": "Outsiders Remix EP",
+        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
       },
       "artists": [
         {
-          "name": "Thymo",
-          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "ANGUZ",
-          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
         }
       ],
-      "duration_ms": 166487,
-      "name": "Banger Hart",
-      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
+      "duration_ms": 226245,
+      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -699,26 +719,6 @@
       "duration_ms": 213088,
       "name": "City Streets",
       "url": "https://open.spotify.com/track/57tzA2bwjsgKZa3NBJvryR"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Outsiders Remix EP",
-        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        }
-      ],
-      "duration_ms": 226245,
-      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
     },
     {
       "added_at": "2025-10-21 11:57:23",

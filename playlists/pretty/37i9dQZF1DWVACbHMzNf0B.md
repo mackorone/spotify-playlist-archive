@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚  Rivs y Juanes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,435 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,400 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 79 | [Obsesionado Contigo](https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Obsesionado Contigo](https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV) | 2:11 |
 | 80 | [YAMAME](https://open.spotify.com/track/1mkRKPhW1MkwIDHkWkyR1i) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Roberto Luna](https://open.spotify.com/artist/6kZjHPAvakMaTGRK1w5pZP) | [SANGRE X SANGRE](https://open.spotify.com/album/06hgv7ARBVL4n72md7bJCB) | 3:34 |
 
-Snapshot ID: `AAAAAByv9EN9K7BPjm9yHugcu6jeRTmV`
+Snapshot ID: `AAAAAC1ly5FD3voUiZQ1p6JY1W3Z9cYv`

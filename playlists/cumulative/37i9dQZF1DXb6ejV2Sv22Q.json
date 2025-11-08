@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a.  Bratty en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Plastikboy en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 192162,
       "name": "114",
       "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
+    },
+    {
+      "album": {
+        "name": "so\u00f1andoded\u00eda!",
+        "url": "https://open.spotify.com/album/1ifq58erDdV7dScPVogCuP"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192162,
+      "name": "114",
+      "url": "https://open.spotify.com/track/6rbCJ7bPZCF5ykLXdq4aIr"
     },
     {
       "album": {
@@ -3819,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "la mexicana",
+        "url": "https://open.spotify.com/album/0nOehCw2widLGFPYBw8j7N"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177521,
+      "name": "la mexicana",
+      "url": "https://open.spotify.com/track/75XfhrDL2yrVaQoA0UOJrf"
+    },
+    {
+      "album": {
         "name": "LA PEOPLE II",
         "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
       },
@@ -4227,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/3t3fjXIrpopQIg45GOoNMS"
+      },
+      "artists": [
+        {
+          "name": "Ola Magenta",
+          "url": "https://open.spotify.com/artist/19m31uyfQ0ewdhrMqpuRxo"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130639,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6X802Oflvx2dhW2s3yZgu3"
+    },
+    {
+      "album": {
         "name": "Makin Noi",
         "url": "https://open.spotify.com/album/5Osdpx6HZWNnE8l5MjCwQs"
       },
@@ -4384,7 +4438,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 230556,
       "name": "Matching Tattoos",
       "url": "https://open.spotify.com/track/7u2NUmeW5z4XDBTGdRBH8o"
@@ -5460,7 +5514,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 138818,
       "name": "OYE MORENO",
       "url": "https://open.spotify.com/track/22hDrJhoBT7YUnBwvZZHSd"
@@ -8172,7 +8226,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 235000,
       "name": "Ya no queda nada nada",
       "url": "https://open.spotify.com/track/40I8URgHCw8FLR7Ruw6dy0"

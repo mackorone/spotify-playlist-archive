@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: De La Rose & Eladio Carrion",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Blessd ",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -3819,6 +3819,28 @@
     },
     {
       "album": {
+        "name": "Avece",
+        "url": "https://open.spotify.com/album/3MscqliTChw3pPK5Ohlclk"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152082,
+      "name": "Avece",
+      "url": "https://open.spotify.com/track/7xpW5u12cuoIWZA4PpWtLO"
+    },
+    {
+      "album": {
         "name": "Avemar\u00eda",
         "url": "https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q"
       },
@@ -5306,7 +5328,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 181354,
       "name": "BELLAKEO SUCIO",
       "url": "https://open.spotify.com/track/5HdaluCMEcjgULPetLjJ3n"
@@ -6600,7 +6622,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 211200,
       "name": "BUTI CALL",
       "url": "https://open.spotify.com/track/3vMV6xw4OfT4oyGVuiLUHu"
@@ -6710,7 +6732,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 139200,
       "name": "BYONCE",
       "url": "https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ"
@@ -7230,7 +7252,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 167288,
       "name": "casualidad",
       "url": "https://open.spotify.com/track/76CirVdwbTPD73kICChxJZ"
@@ -7430,7 +7452,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 131566,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/5paqeMg21HvZ4iQVSg8ocg"
@@ -9842,6 +9864,24 @@
       "duration_ms": 181395,
       "name": "Cuando Sube el Sol",
       "url": "https://open.spotify.com/track/6kehs9Uc57B6w76X9fx5sN"
+    },
+    {
+      "album": {
+        "name": "Good Vibez Only",
+        "url": "https://open.spotify.com/album/3ZelXf3sssh5V4ZJD3hCSw"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194388,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/5lY2E5cD2vM0xF7cDWsGuL"
     },
     {
       "album": {
@@ -14536,6 +14576,40 @@
       "duration_ms": 185739,
       "name": "Espectacular",
       "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "album": {
+        "name": "EL KREMOSO",
+        "url": "https://open.spotify.com/album/4NVYWWvib9IlxHTanLvia9"
+      },
+      "artists": [
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Kuroh",
+          "url": "https://open.spotify.com/artist/1SWKdOrynsD5faJKAoYTPp"
+        },
+        {
+          "name": "Ober",
+          "url": "https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC"
+        },
+        {
+          "name": "Saint Cattiveria",
+          "url": "https://open.spotify.com/artist/7HBkLLRmpS6oByWUbfXDGl"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349184,
+      "name": "ESPINAS",
+      "url": "https://open.spotify.com/track/2856SbawOQYyttT28ekuy0"
     },
     {
       "album": {
@@ -22249,6 +22323,36 @@
     },
     {
       "album": {
+        "name": "LAS XII",
+        "url": "https://open.spotify.com/album/3X6IJzx82bE6uwmF1Mpcgb"
+      },
+      "artists": [
+        {
+          "name": "Fresh Bodden",
+          "url": "https://open.spotify.com/artist/7blu0IsZ2zyetdLEQdLVUO"
+        },
+        {
+          "name": "Lion Fiah",
+          "url": "https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "LAS XII",
+      "url": "https://open.spotify.com/track/040CeSVj4n3aDCEsscMvJL"
+    },
+    {
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
       },
@@ -23086,6 +23190,28 @@
       "duration_ms": 144943,
       "name": "lonely",
       "url": "https://open.spotify.com/track/2zajUUzQI6EVxepdee2KML"
+    },
+    {
+      "album": {
+        "name": "LOQUITA",
+        "url": "https://open.spotify.com/album/1K5TbHKzrXWTcn8aESR08d"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LOQUITA",
+      "url": "https://open.spotify.com/track/0Jep4PtPjGk8IIrAP4W8Rz"
     },
     {
       "album": {
@@ -25248,6 +25374,32 @@
       "duration_ms": 156149,
       "name": "Me Persigue",
       "url": "https://open.spotify.com/track/1a7zYqeooTB9nUklUOMklT"
+    },
+    {
+      "album": {
+        "name": "Me Persiguen",
+        "url": "https://open.spotify.com/album/4SxwvTz4wlSF8dvsnamYQt"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217914,
+      "name": "Me Persiguen",
+      "url": "https://open.spotify.com/track/2iPQFmsVPEG137aVs2jBMB"
     },
     {
       "album": {
@@ -29478,7 +29630,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 220408,
       "name": "Novio No",
       "url": "https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG"
@@ -31897,6 +32049,28 @@
     },
     {
       "album": {
+        "name": "Paris Hilton",
+        "url": "https://open.spotify.com/album/1xkYfIxGzzvh4AMrDwlXSU"
+      },
+      "artists": [
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162795,
+      "name": "Paris Hilton",
+      "url": "https://open.spotify.com/track/7ed8tIVWqNumP9WtpT2c44"
+    },
+    {
+      "album": {
         "name": "Parriba (feat. Trueno)",
         "url": "https://open.spotify.com/album/1yO3aW12O3F7cPnS2nJrCA"
       },
@@ -33038,7 +33212,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 159600,
       "name": "PERVERSA",
       "url": "https://open.spotify.com/track/645bl0c9hBtlDKA4vgDpCU"
@@ -34744,7 +34918,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 225319,
       "name": "Puej Claro",
       "url": "https://open.spotify.com/track/3eqXThzK0BNXFMhoRTmQjC"
@@ -35729,6 +35903,48 @@
     },
     {
       "album": {
+        "name": "EXTRADITABLESSD",
+        "url": "https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        },
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        },
+        {
+          "name": "Young Fatty",
+          "url": "https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303048,
+      "name": "QUITATELOTO (feat. Kris R., Young Fatty, Bad Milk, Tury, GeezyDee, CARABIN3)",
+      "url": "https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M"
+    },
+    {
+      "album": {
         "name": "QUIZ\u00c1S SI QUIZ\u00c1S NO",
         "url": "https://open.spotify.com/album/12yhzd8FI261UJ2UZDqMcw"
       },
@@ -35876,7 +36092,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 160797,
       "name": "Qu\u00e9 Pas\u00f3?",
       "url": "https://open.spotify.com/track/3Qa98SbvLbZnl4XflLaSEh"
@@ -36444,7 +36660,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 161632,
       "name": "Relojito Cartier",
       "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
@@ -37666,7 +37882,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 170654,
       "name": "SE LO JURO MOR",
       "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
@@ -42303,6 +42519,28 @@
     },
     {
       "album": {
+        "name": "TODODU",
+        "url": "https://open.spotify.com/album/5Z504hMrMVQoafTNHeCNyu"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249729,
+      "name": "TODODU",
+      "url": "https://open.spotify.com/track/5uMoXEMuVTr1yLEPUibibS"
+    },
+    {
+      "album": {
         "name": "TODOS MIENTEN",
         "url": "https://open.spotify.com/album/0aKEGy1MDu9suuP28wyNLD"
       },
@@ -44414,7 +44652,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 161632,
       "name": "UNA DIABLA (feat. Justin Quiles)",
       "url": "https://open.spotify.com/track/118umTCpzbeIov2zp623Mu"
@@ -47273,6 +47511,28 @@
     },
     {
       "album": {
+        "name": "Zzz",
+        "url": "https://open.spotify.com/album/4NEXMHpsSuGdBRFW0mTHRT"
+      },
+      "artists": [
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        },
+        {
+          "name": "Young Nasa",
+          "url": "https://open.spotify.com/artist/40kw8AS1yfaWdS3C43A9yH"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168174,
+      "name": "Zzz",
+      "url": "https://open.spotify.com/track/6HPKFLev2gMvczuSeaDFGe"
+    },
+    {
+      "album": {
         "name": "El De La Nueva Baby",
         "url": "https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj"
       },
@@ -47586,6 +47846,24 @@
       "duration_ms": 194482,
       "name": "\u2060APRETAO",
       "url": "https://open.spotify.com/track/1fSZvx8Ei01kzZm7rg9q2m"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "\u2060En el Ritz",
+      "url": "https://open.spotify.com/track/1Ul0TcIqDRguYzr0A8Vz75"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG"

@@ -2611,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Palermo's Grunch",
+        "url": "https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308864,
+      "name": "Palermo's Grunch",
+      "url": "https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye"
+    },
+    {
+      "album": {
         "name": "Curandero",
         "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
       },
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 160680,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u4e00\u8d77\u4f86\u6b23\u8cde\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u91c7\u8868\u73fe\uff01Cover: \u674e\u5343\u5a1c (Nana Lee)",
+  "description": "\u4e00\u8d77\u4f86\u6b23\u8cde\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u91c7\u8868\u73fe\uff01Cover: Andr",
   "name": "EQUAL Taiwan",
   "tracks": [
     {
@@ -1126,6 +1126,24 @@
       "duration_ms": 211461,
       "name": "Everybody Loves Me (feat. OSN)",
       "url": "https://open.spotify.com/track/4JgKspihSALxCamtUn18ne"
+    },
+    {
+      "album": {
+        "name": "FACES",
+        "url": "https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245449,
+      "name": "FACES",
+      "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
     },
     {
       "album": {
@@ -6732,7 +6750,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 231504,
       "name": "\u5634\u5df4\u9589\u9589",
       "url": "https://open.spotify.com/track/3ZSAuiIj7fJzNBLKahNLDU"

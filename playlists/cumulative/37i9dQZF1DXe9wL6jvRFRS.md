@@ -2,9 +2,9 @@
 
 ### [Spindle](https://open.spotify.com/playlist/37i9dQZF1DXe9wL6jvRFRS)
 
-> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Maruja on the cover.
+> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Twine on the cover.
 
-64 songs - 4 hr 54 min
+69 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [cranes](https://open.spotify.com/track/5lB4myWC3zyPO4AjDCINfk) | [casual smart](https://open.spotify.com/artist/6hQ9aQfQsvuN6Y7NK1J7ou) | [cranes](https://open.spotify.com/album/4yhPJHgCUPnXWi0d0SbsAx) | 4:16 | 2025-07-10 |  |
 | [Crawl Ball](https://open.spotify.com/track/7lBbcQXJ83SJzpaORoYkY4) | [foot foot](https://open.spotify.com/artist/2p5r5XfjZiMvulO5tvIMw3) | [still waters, empty house](https://open.spotify.com/album/7frVxZoUWY2IajDOpCexo4) | 3:49 | 2025-07-10 |  |
 | [Daylight Song](https://open.spotify.com/track/45DLA7sPqqGHG9NN3UPbRI) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Daylight Song](https://open.spotify.com/album/4gG8abNIluKFuWdWSKhSZb) | 3:07 | 2025-07-10 |  |
+| [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-11-07 |  |
 | [Do You Think I'm Pretty](https://open.spotify.com/track/4CbNiKt4MugG8a7eWnRID4) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Grip Your Fist, I'm Heaven Bound](https://open.spotify.com/album/6kb777ggEqdZEN2J80USnD) | 5:42 | 2025-07-10 |  |
 | [Don't](https://open.spotify.com/track/4DjMJy8edIKQsIbExacgnG) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 2:45 | 2025-07-10 |  |
 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 | 2025-07-10 |  |
@@ -42,6 +43,8 @@
 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 | 2025-07-10 |  |
 | [kick the stars around the trashy sky](https://open.spotify.com/track/0E8oNrJF130vV7XhrKTih3) | [School Fair](https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7) | [bird the kid](https://open.spotify.com/album/1nZ8LRi5osH0S4MUjGXtim) | 3:29 | 2025-07-10 |  |
 | [Landscaping](https://open.spotify.com/track/7LQ4TRgCras6mN4D9kUvx6) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Landscaping](https://open.spotify.com/album/1aTksRGuBQJkDTTzW9hiG1) | 5:59 | 2025-07-10 |  |
+| [Lecture 25](https://open.spotify.com/track/5NKOEid35mXxvcPbV11pLb) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Lecture 25](https://open.spotify.com/album/1t0OR1fkgxJon5CAosQWMl) | 3:06 | 2025-11-07 |  |
+| [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 | 2025-11-07 |  |
 | [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-07-10 |  |
 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 | 2025-07-10 |  |
 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-15 |  |
@@ -68,6 +71,8 @@
 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2025-07-10 |  |
 | [The Rain](https://open.spotify.com/track/799t9KYKhwmUAhJwQdsCYC) | [SUEP](https://open.spotify.com/artist/3LzcSs2NRqSLncY5QHnKMY) | [The Rain](https://open.spotify.com/album/2G8zUO3024L3bHV9HsGmZh) | 2:14 | 2025-10-17 |  |
 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2025-07-10 |  |
+| [Tiles & Moss](https://open.spotify.com/track/5MHKVTslowdhxzyOLOgA5X) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Tiles & Moss](https://open.spotify.com/album/6k1wy9i4vriYhKfBHIuWlx) | 4:03 | 2025-11-07 |  |
+| [To The Sandals](https://open.spotify.com/track/4V3gfiq0jrRwdvAR7zfcbq) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 4:08 | 2025-11-07 |  |
 | [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 | 2025-10-08 |  |
 | [twothousandandtwo](https://open.spotify.com/track/7BLNcnh1NwIct2oIQuYwV2) | [War Room](https://open.spotify.com/artist/07capJSDwiqRZPkID32RpX) | [Please Don't Fight In Here](https://open.spotify.com/album/1Hd4A3gIU5ZiNnuQ3w3k8N) | 6:00 | 2025-07-10 |  |
 | [We're Home Now](https://open.spotify.com/track/0wuOtAHsrFs7SW0PnS6Ikx) | [Cagefly](https://open.spotify.com/artist/0fIkgtLZMpqeF1OhjIQp0q) | [Cagefly](https://open.spotify.com/album/2dxfj5YVAPAVhbfkoMUprk) | 7:27 | 2025-07-10 |  |

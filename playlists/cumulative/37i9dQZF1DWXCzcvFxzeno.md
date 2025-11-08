@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-320 songs - 22 hr 19 min
+320 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 | 2025-03-08 |
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-27 | 2024-11-14 |
 | [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 | 2024-10-15 |
-| [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [](https://open.spotify.com/album/null) | 2:36 | 2025-11-07 |  |
+| [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Endless Dance EP](https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m) | 2:36 | 2025-11-07 |  |
 | [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 | 2025-03-19 |  |
 | [Enigma](https://open.spotify.com/track/7aJjuyJAZvQpk24yZc65Ok) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Enigma](https://open.spotify.com/album/2hgRK4yXgaj2PYu3THxc7q) | 4:55 | 2025-04-04 |  |
 | [ESSEM!NJO](https://open.spotify.com/track/4sm8GdxepC7g9P9PKPgf3t) | [Noneoftheabove](https://open.spotify.com/artist/3O02ateaX0BgRKwB3D53Oa), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [TAR VARIOUS ARTISTS](https://open.spotify.com/album/1EcILTSariejjul2lWn1kl) | 6:30 | 2024-04-09 | 2024-04-19 |
@@ -124,6 +124,7 @@
 | [Fuck Ya](https://open.spotify.com/track/5yFyrWjO4wCJVNqzLCtpmy) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Fuck Ya](https://open.spotify.com/album/4d4jcU0a69rFbun9oKffCL) | 5:47 | 2024-04-09 | 2024-07-15 |
 | [Fuera](https://open.spotify.com/track/7wAsvYuM7hcrVt2n6lgfo7) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Fuera](https://open.spotify.com/album/5HfSoyBymCAg7kjSDv4WEm) | 3:06 | 2024-09-27 | 2025-11-07 |
 | [Full Belly](https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Full Belly](https://open.spotify.com/album/3RzpO4RjhbgfiAJjmxoM67) | 5:17 | 2024-04-09 | 2024-08-17 |
+| [Fury](https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Fury EP](https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E) | 4:00 | 2025-11-07 |  |
 | [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-04-25 |  |
 | [Get Ready](https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Father 808](https://open.spotify.com/artist/6sggmB5DTVWDcShHGMqYi6) | [Get Ready](https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR) | 2:14 | 2025-04-04 | 2025-07-23 |
 | [GET THE FUCK OUT](https://open.spotify.com/track/5Hb3P9vrw0364dyW82Uyjd) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [GET THE FUCK OUT](https://open.spotify.com/album/71MKbWH7kgU3xHaj05KxXK) | 2:49 | 2025-03-19 |  |
@@ -301,7 +302,6 @@
 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 | 2024-11-13 | 2025-07-25 |
 | [Toter Schmetterling \- Single Edit](https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf) | 2:44 | 2025-02-28 | 2025-03-20 |
 | [Toxic Waste](https://open.spotify.com/track/7szvdSmepMz8QMMBsD5pM2) | [VAAG](https://open.spotify.com/artist/7oHIEjSNbWOZdoV9nSNyp1), [GD\_Connect](https://open.spotify.com/artist/31hv6Yit1qAoFEXCFM7Bpw) | [Toxic Waste](https://open.spotify.com/album/0ji3nORUd0KEbgoQ8vbxOi) | 3:56 | 2024-07-14 | 2024-07-22 |
-| [Track 1](https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-07 |  |
 | [Traffic](https://open.spotify.com/track/6JylZ60wPO9N7k455MzXMk) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Traffic](https://open.spotify.com/album/3EULLLqlDMWEHbSvX8u2Y5) | 5:33 | 2024-07-05 | 2024-12-19 |
 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 | 2024-04-09 | 2024-05-23 |
 | [Transition](https://open.spotify.com/track/7MC2ZDjvreeUGGvMpz5IhU) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Sparkling System](https://open.spotify.com/album/5EtLKjH311CLH0QwS7eSEF) | 5:26 | 2024-04-09 | 2025-07-30 |

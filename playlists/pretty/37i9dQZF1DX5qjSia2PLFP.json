@@ -1,13 +1,29 @@
 {
   "description": "They got next and now. Cover: <a href=\"spotify:artist:4Uwx6qzRn0kA9sz6cCDpBO\">Tkandz</a> ",
-  "num_followers": 157313,
+  "num_followers": 157330,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANxG0CI6RGXhb6/br1r8QtZdY1Fp",
+  "snapshot_id": "AAAAAKLmHyDNdLGZlVay7fHNi76fsTfH",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Doot Doot (6 7)",
+        "url": "https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "duration_ms": 149766,
+      "name": "Doot Doot (6 7)",
+      "url": "https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA"
+    },
     {
       "added_at": "2025-11-03 21:57:05",
       "album": {
@@ -65,6 +81,26 @@
       "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     },
     {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Proceed",
+        "url": "https://open.spotify.com/album/6fD8n0MvgLHCa2w8cMYoyc"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Proceed",
+      "url": "https://open.spotify.com/track/0ma5mRIb5TWm0XxArzbpEd"
+    },
+    {
       "added_at": "2025-11-03 21:57:05",
       "album": {
         "name": "HELL CAN'T SAVE YOU",
@@ -81,56 +117,36 @@
       "url": "https://open.spotify.com/track/3LrsDFXueqCD3J53HfsLL6"
     },
     {
-      "added_at": "2025-11-03 21:57:05",
+      "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "Slick SZN 2",
-        "url": "https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe"
+        "name": "THE STREETS IS YOURS: THE RE-UP",
+        "url": "https://open.spotify.com/album/7o9dw65UljYGdHmL3MwOWs"
       },
       "artists": [
         {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
         }
       ],
-      "duration_ms": 108245,
-      "name": "The One I Want",
-      "url": "https://open.spotify.com/track/2Bt1BfsbxOWqWFvs0Q1rYu"
+      "duration_ms": 136871,
+      "name": "Birds like Popeyes",
+      "url": "https://open.spotify.com/track/5ajbOZ9tgMi2lMXeEYI7Bo"
     },
     {
-      "added_at": "2025-11-03 21:57:05",
+      "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "Rich Sinners (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/4IyuZSKWzmu9vZ9ZzoX9AG"
+        "name": "Sweet Lick",
+        "url": "https://open.spotify.com/album/18DgexE6Ah9XOeiZG3PQXx"
       },
       "artists": [
         {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
         }
       ],
-      "duration_ms": 158734,
-      "name": "Rich Sinners (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/7wV5to0AMAWttuxTeTUzjP"
-    },
-    {
-      "added_at": "2025-11-03 21:57:05",
-      "album": {
-        "name": "Da Backseat",
-        "url": "https://open.spotify.com/album/21bOnDN2ndvT4TFD6xLCat"
-      },
-      "artists": [
-        {
-          "name": "Dee Mula",
-          "url": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
-        }
-      ],
-      "duration_ms": 173801,
-      "name": "Da Backseat",
-      "url": "https://open.spotify.com/track/2kswUNFbjxbgBKlrSQPpdy"
+      "duration_ms": 147499,
+      "name": "In Da Bed",
+      "url": "https://open.spotify.com/track/4YWmlD5KXYKPHYfRBRWIE4"
     },
     {
       "added_at": "2025-11-03 21:57:05",
@@ -147,6 +163,22 @@
       "duration_ms": 131000,
       "name": "Life After Death",
       "url": "https://open.spotify.com/track/1ebbmrZS4I7SDg2qpJkMgr"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Trim",
+        "url": "https://open.spotify.com/album/2oLtKEcuXiyWnsuHIUlNTF"
+      },
+      "artists": [
+        {
+          "name": "YUNG ALPO",
+          "url": "https://open.spotify.com/artist/3bVzJ22xWylhbx0kUtefze"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Trim",
+      "url": "https://open.spotify.com/track/7rdHxPQimXkOcmUmsfGhxY"
     },
     {
       "added_at": "2025-11-03 21:57:05",
@@ -215,6 +247,26 @@
       "duration_ms": 152988,
       "name": "on point",
       "url": "https://open.spotify.com/track/59kHIvX9m7qOCFxB83gFyc"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "RAIN",
+        "url": "https://open.spotify.com/album/6AkIcgIIcyA8msosLynDjD"
+      },
+      "artists": [
+        {
+          "name": "Paris Price",
+          "url": "https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7"
+        },
+        {
+          "name": "Nevanotworkin",
+          "url": "https://open.spotify.com/artist/66D3zvYXWSr9ZhrS1hMIO2"
+        }
+      ],
+      "duration_ms": 126971,
+      "name": "RAIN",
+      "url": "https://open.spotify.com/track/6Y5NUfyedmDMqDOzwKI95u"
     },
     {
       "added_at": "2025-11-03 21:57:05",
@@ -345,6 +397,22 @@
       "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
     },
     {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Smoke n Drank",
+        "url": "https://open.spotify.com/album/5lB05a1yY6RezxtXAOkU9y"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Smoke n Drank",
+      "url": "https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1"
+    },
+    {
       "added_at": "2025-11-03 21:57:05",
       "album": {
         "name": "Last Lap",
@@ -379,22 +447,6 @@
       "duration_ms": 175333,
       "name": "Independent",
       "url": "https://open.spotify.com/track/1Yf9x4U5nRlOhe4DHcCARB"
-    },
-    {
-      "added_at": "2025-11-03 21:57:05",
-      "album": {
-        "name": "LUCKY YOU",
-        "url": "https://open.spotify.com/album/4dHcuizgdi9fpKX8MKQm43"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 132765,
-      "name": "GOD IS REAL",
-      "url": "https://open.spotify.com/track/0reyWELcnHNCEG2kGZ0Ctp"
     },
     {
       "added_at": "2025-11-03 21:57:05",
@@ -595,6 +647,30 @@
       "duration_ms": 124823,
       "name": "Im So ATL",
       "url": "https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "1448",
+        "url": "https://open.spotify.com/album/4DuzTS8Esqg6Qf9TzeLWIE"
+      },
+      "artists": [
+        {
+          "name": "Mo P.",
+          "url": "https://open.spotify.com/artist/66iD0Qj7UsBR2ZJuyBu5lj"
+        },
+        {
+          "name": "Reapa",
+          "url": "https://open.spotify.com/artist/6RdcSjsyZAI3oPqmNBsib3"
+        },
+        {
+          "name": "Rambo",
+          "url": "https://open.spotify.com/artist/1kGpLQKCuAQ8kzI08Xppqp"
+        }
+      ],
+      "duration_ms": 229321,
+      "name": "1448 (feat. Reapa & Rambo)",
+      "url": "https://open.spotify.com/track/2mnBdEuTR6mYxrJA9nnqmf"
     },
     {
       "added_at": "2025-11-03 21:57:05",
@@ -1207,6 +1283,22 @@
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Pretty Dolly",
+        "url": "https://open.spotify.com/album/3UhEh7jggM1XTpsXRvggUP"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 168202,
+      "name": "Pretty Dolly",
+      "url": "https://open.spotify.com/track/2j5bvRhftjtpup4epaJCdC"
     },
     {
       "added_at": "2025-11-03 21:57:05",

@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Sliperiet Sessions (Live)",
+        "url": "https://open.spotify.com/album/2tcTCKeOyGH9psxxoQrvGe"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275040,
+      "name": "Anita - Live",
+      "url": "https://open.spotify.com/track/1cAvfCoezYrOW8ajxl5wVO"
+    },
+    {
+      "album": {
         "name": "Ansiktenas mystik",
         "url": "https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ"
       },
@@ -6038,7 +6056,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 224168,
       "name": "Roses",
       "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
@@ -7553,24 +7571,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1cAvfCoezYrOW8ajxl5wVO"
-    },
-    {
-      "album": {
         "name": "Hemland",
         "url": "https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw"
       },
@@ -8364,7 +8364,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 227654,
       "name": "What I'm Running From",
       "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"

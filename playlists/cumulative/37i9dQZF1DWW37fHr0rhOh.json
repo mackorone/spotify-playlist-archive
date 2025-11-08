@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Because He Lives",
+        "url": "https://open.spotify.com/album/3cTnb7JBHIYL6Q96e4YTpq"
+      },
+      "artists": [
+        {
+          "name": "The Martins",
+          "url": "https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/0oCqZ1MAaj7EuTBS74Ayfq"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
       },
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 200493,
       "name": "There's Something About That Name",
       "url": "https://open.spotify.com/track/7EqzbnOjhFeZ8WTkMcoLXl"
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 196160,
       "name": "Unspoken Request",
       "url": "https://open.spotify.com/track/6twhBwsKg8IPd0idLy5Zit"
@@ -3692,6 +3710,28 @@
       "duration_ms": 256858,
       "name": "Wonderful Grace Of Jesus",
       "url": "https://open.spotify.com/track/07Vk0rcYEZRt3Z3c9qEjUz"
+    },
+    {
+      "album": {
+        "name": "The Name That Changed the World",
+        "url": "https://open.spotify.com/album/5GuOj8c8yy5PNhrCyRsmym"
+      },
+      "artists": [
+        {
+          "name": "Hillcrest Nashville",
+          "url": "https://open.spotify.com/artist/1tJxp3TsAB4fyE1q1TR9Pc"
+        },
+        {
+          "name": "Katy Peach",
+          "url": "https://open.spotify.com/artist/23yT0ld6sGN7eSVbRwYs71"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Wonderful, Counselor (feat. Katy Peach)",
+      "url": "https://open.spotify.com/track/3y0CrBe1mvayMIIBWJnYSt"
     },
     {
       "album": {

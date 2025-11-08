@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,287 likes - 182 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,329 likes - 182 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 76 | [Teka Teki](https://open.spotify.com/track/5FEcywzPnpul59cCsBmZ6p) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heart To Heart](https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB) | 3:30 |
 | 77 | [Resah](https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:00 |
 | 78 | [Sementara Sendiri](https://open.spotify.com/track/5BrcBvVIbhXvaaNOJIRrcj) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [OST\. Single](https://open.spotify.com/album/3CPlGLGR8gBsKcqcmn8N2z) | 3:37 |
-| 79 | [Seperti Bintang \- From "Bima Satria Garuda"](https://open.spotify.com/track/4rSc4D3hA3ISpWXTX01zeb) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Seperti Bintang](https://open.spotify.com/album/4iE0MEONR8yC6AP54fgvHB) | 3:14 |
+| 79 | [Seperti Bintang \- From "Bima Satria Garuda"](https://open.spotify.com/track/4rSc4D3hA3ISpWXTX01zeb) | [Angly Kansil](https://open.spotify.com/artist/1b6uU6N4Uw7zGLdhn2C291) | [Seperti Bintang](https://open.spotify.com/album/4iE0MEONR8yC6AP54fgvHB) | 3:14 |
 | 80 | [Jaga Slalu Hatimu](https://open.spotify.com/track/3YZQseFqB5LVy9VcfVv7dp) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:45 |
 | 81 | [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 |
 | 82 | [Dibawah Langit Yang Sama](https://open.spotify.com/track/0cXXuhy5D6A13IMcnN3bSm) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [D'MASIV](https://open.spotify.com/album/5cwcX4LiPK7rjbAHc8EvMb) | 3:54 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 87 | [Terlalu Lama](https://open.spotify.com/track/3ubllsz0XnpKhzi6UacgHE) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [Storytelling](https://open.spotify.com/album/53c9Qg8PfGlJMHZiUz0ysq) | 4:07 |
 | 88 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 |
 | 89 | [Hal Terindah](https://open.spotify.com/track/1rq2b0GMPXfIdy2nezUAPN) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:16 |
-| 90 | [Hidup Segan Mati Tak Mau](https://open.spotify.com/track/3G4XW2t5ohqHpZ8l79zKtQ) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX) | [Hidup Segan Mati Tak Mau](https://open.spotify.com/album/1JlYOw6NNSDBYpcr5GNNPv) | 4:19 |
+| 90 | [Hidup Segan Mati Tak Mau](https://open.spotify.com/track/3G4XW2t5ohqHpZ8l79zKtQ) | [Angly Kansil](https://open.spotify.com/artist/1b6uU6N4Uw7zGLdhn2C291) | [Hidup Segan Mati Tak Mau](https://open.spotify.com/album/1JlYOw6NNSDBYpcr5GNNPv) | 4:19 |
 | 91 | [Jagalah Bumi \- Theme from BoBoiBoy](https://open.spotify.com/track/0RrC5CXcqEBnIBzfSpqjTX) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Jagalah Bumi \(Theme from BoBoiBoy\)](https://open.spotify.com/album/230j6Xor4akHOqicAtj83V) | 2:29 |
 | 92 | [Sakit Jiwa](https://open.spotify.com/track/4WQjm8mZBt6kREAt6GkdK2) | [NTRL](https://open.spotify.com/artist/710Oh5ushpaeLgSIcbW8hI) | [11/12](https://open.spotify.com/album/7KScqTiLDVO1l4xwHV53Yy) | 2:10 |
 | 93 | [Selir Hati](https://open.spotify.com/track/44jm7VMs3gZlzZMnwa3Wt3) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:04 |

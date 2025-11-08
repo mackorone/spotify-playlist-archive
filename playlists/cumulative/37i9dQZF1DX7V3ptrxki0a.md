@@ -2,9 +2,9 @@
 
 ### [Cumbia Norteña](https://open.spotify.com/playlist/37i9dQZF1DX7V3ptrxki0a)
 
-> Agarren su pareja que es momento de mover ese botecito\. En portada Grupo Frontera 🤠
+> Agarren su pareja que es momento de mover ese botecito\. En portada Damaris Bojor 🤠
 
-131 songs - 7 hr 7 min
+136 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,8 @@
 | [Así Como Va](https://open.spotify.com/track/3nuXyH8zrXshAPaIouIl0n) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [Así Como Va](https://open.spotify.com/album/38yHTCOtYbiwpD91o9WZyo) | 3:25 | 2025-08-09 | 2025-09-06 |
 | [AYAYAY](https://open.spotify.com/track/4Pmqo5APBJJ98jVsYYJoQc) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b) | [AYAYAY](https://open.spotify.com/album/537OQuxoXPxsUal2NN86gf) | 2:31 | 2025-10-03 |  |
 | [Ayer y Hoy](https://open.spotify.com/track/0yMpP1fa9iOQ4bAgttJ6aN) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [Ayer y Hoy](https://open.spotify.com/album/1MxM4Uv2xdemsA3O5ijBNZ) | 3:44 | 2025-10-03 |  |
+| [Bailar Contigo](https://open.spotify.com/track/7p0yajnYNRP60vDZg2DVrx) | [Grupo Anexxado](https://open.spotify.com/artist/5U4SQ3MLlKmphCGAcD1Ls9) | [Bailar Contigo](https://open.spotify.com/album/0b6aCzMHaYTksC2KuumvyB) | 3:09 | 2025-11-07 |  |
+| [BB PA DONDE](https://open.spotify.com/track/65pDDQOeXOR5QUM9GEWaNM) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [BB PA DONDE](https://open.spotify.com/album/6Bwj69yLgbNqzDJgIhKBNR) | 2:48 | 2025-11-07 |  |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2023-08-08 |  |
 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 | 2023-08-08 | 2024-05-25 |
 | [Brillas \- En Vivo](https://open.spotify.com/track/0uLcSlMZAw3Uh9sNWJuB90) | [5to Vuelo](https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW) | [5to Vuelo Live Sessions, Vol\. 3](https://open.spotify.com/album/0Kd7UYjsChb6PKR6p9it7Z) | 3:25 | 2025-09-19 |  |
@@ -46,6 +48,7 @@
 | [Cumbia Del Clavi](https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [El Clavijas](https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ) | [Cumbia Del Clavi](https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY) | 2:49 | 2023-11-08 | 2024-11-29 |
 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 | 2023-08-08 | 2025-08-09 |
 | [Cumbia Vallenata \- En Vivo](https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Cumbia Vallenata \(En Vivo\)](https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH) | 3:37 | 2025-08-09 |  |
+| [CurruCucuCumbia](https://open.spotify.com/track/4FJWD2kqa5RAql3j1Gqqz7) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [Kevyn Contreras](https://open.spotify.com/artist/49eTheTHZO9PnCbv7EuAsg) | [CurruCucuCumbia](https://open.spotify.com/album/52xuAyq22JsqToxcSzrDJc) | 3:06 | 2025-11-07 |  |
 | [Cómo Le Haré](https://open.spotify.com/track/2VLmX3sxll81utJmBGtmUA) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [Cómo Le Haré](https://open.spotify.com/album/2pKSh05bsApJpCh9dhXqj2) | 3:05 | 2025-09-19 |  |
 | [De París a NY \(En Vivo\)](https://open.spotify.com/track/2wFixA45pK9pvB4FdevsAn) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Posada Bohemia \(En Vivo\)](https://open.spotify.com/album/0oVBiU0FneyJNq4ZjYnQbU) | 3:10 | 2024-12-20 | 2025-10-04 |
 | [Desvelado](https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Pensando En Ti](https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac) | 3:34 | 2025-03-07 |  |
@@ -55,6 +58,7 @@
 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 | 2023-08-08 | 2025-08-09 |
 | [El Cascabel](https://open.spotify.com/track/2QYc8Rh7ogygZK77usef00) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos Vol.2](https://open.spotify.com/album/3BrcMSYrYGMrnhFlb4wImF) | 2:49 | 2025-10-03 |  |
 | [El Maquilero](https://open.spotify.com/track/6JN6R8utVFI1sQMUZqg2Y2) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Maquilero](https://open.spotify.com/album/22P1VXfmhjw0kGQgX0fk11) | 2:52 | 2025-07-18 |  |
+| [El mismo pendej0](https://open.spotify.com/track/5nuQwitckbZ7t7YULzKgNG) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [El mismo pendej0](https://open.spotify.com/album/25z2UhKGUt5ONJXovEtt5C) | 2:28 | 2025-11-07 |  |
 | [El Pávido Návido](https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos](https://open.spotify.com/album/3HwzYVu702BGntM846aF8T) | 4:12 | 2023-08-08 | 2024-05-25 |
 | [El Pávido Návido](https://open.spotify.com/track/2uLCHFZczr8mQpdGbk30DT) | [Los Igualados](https://open.spotify.com/artist/6H9GCi2trd6KkKlGrGuDfj) | [A Bailar Huapangos](https://open.spotify.com/album/4rAl5BSej3ygV2BWk8yQbg) | 4:12 | 2023-12-01 | 2024-04-19 |
 | [El Telegrama \- En Vivo](https://open.spotify.com/track/3xg5EScCiYfA5OqbTqbNA5) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Kevyn Contreras](https://open.spotify.com/artist/49eTheTHZO9PnCbv7EuAsg) | [Cumbias y Bebidas \(En Vivo\)](https://open.spotify.com/album/3KwBIKAKzJ3XM2mHH6snYi) | 2:58 | 2025-10-03 |  |
@@ -101,6 +105,7 @@
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2023-12-01 |  |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 | 2023-08-08 | 2023-09-01 |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 | 2023-08-08 | 2024-04-19 |
+| [No Seré Quién Canta](https://open.spotify.com/track/2jw4qfV4ub019PiCre7ZvS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [No Seré Quién Canta](https://open.spotify.com/album/4JANnrrOzgDNKfpQeTjQ2v) | 4:10 | 2025-11-07 |  |
 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 | 2023-08-08 | 2023-12-02 |
 | [Ojalá Que No Puedas](https://open.spotify.com/track/2Quha4euU6xP9S76Ea1JPI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Ojalá Que No Puedas](https://open.spotify.com/album/6Uu729GZvstMVjUaPGCACe) | 3:10 | 2025-10-24 |  |
 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 | 2023-08-08 | 2025-08-09 |

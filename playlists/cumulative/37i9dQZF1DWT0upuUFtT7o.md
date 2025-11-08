@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Afternoon Bike Ride
 
-3,573 songs - 8 day 5 hr 56 min
+3,574 songs - 8 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2915,6 +2915,7 @@
 | [Stomp Cry](https://open.spotify.com/track/2YtYxuLDjRzHljPDtDF1W2) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Cherry Red](https://open.spotify.com/album/57GELxq7HP4ou43SrSN8YA) | 2:13 | 2024-01-10 | 2024-01-25 |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2021-12-01 | 2022-01-13 |
 | [Stone After Stone](https://open.spotify.com/track/0pwiEhcbpCFQvU6fMt4AeE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Stone After Stone](https://open.spotify.com/album/6B1hhFIH0plGioiE0AxO8Q) | 4:06 | 2022-09-23 | 2022-10-06 |
+| [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 | 2025-11-07 |  |
 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 | 2023-05-03 | 2024-01-11 |
 | [Stoner](https://open.spotify.com/track/3Cr1VDxAsrPbkldz1eUUMm) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Stoner](https://open.spotify.com/album/1RPzqHEjhx6ZG2XlaVYoY2) | 2:17 | 2025-02-12 | 2025-04-17 |
 | [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2024-01-17 | 2024-02-22 |

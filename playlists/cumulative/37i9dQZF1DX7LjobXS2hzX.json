@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment. Photo: Roxane Bruneau",
+  "description": "Voici les hits du moment. Photo: Die-On, Tel Kel, Souldia",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -1682,6 +1682,42 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "album": {
+        "name": "BOOST",
+        "url": "https://open.spotify.com/album/4gvOhyW8BG4ikck6BNOqC1"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "BOOST",
+      "url": "https://open.spotify.com/track/2CP4hqiRmgqz4T7s4RgMQj"
+    },
+    {
+      "album": {
+        "name": "Break Like a Bottle",
+        "url": "https://open.spotify.com/album/0rkI9u24cCWE2jht32n7Kn"
+      },
+      "artists": [
+        {
+          "name": "Sorrene",
+          "url": "https://open.spotify.com/artist/7gtvuGFtopwxP14Spa1OR6"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Break Like a Bottle",
+      "url": "https://open.spotify.com/track/5bS0R7dEFYHvIOK1sy3i0N"
     },
     {
       "album": {
@@ -5669,6 +5705,50 @@
     },
     {
       "album": {
+        "name": "La Belle \u00c9poque",
+        "url": "https://open.spotify.com/album/0BY5VbZjLzh7QydxtzKeq8"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154583,
+      "name": "La Belle \u00c9poque",
+      "url": "https://open.spotify.com/track/74NDsNxYBAizmb6jTsVnb5"
+    },
+    {
+      "album": {
+        "name": "Re;;;Virer nos vies",
+        "url": "https://open.spotify.com/album/0XOrOrjjI1GBF6PmXWSk3O"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "La d\u00e9rive",
+      "url": "https://open.spotify.com/track/2OEXpDNX0IIdwq0LlIeide"
+    },
+    {
+      "album": {
         "name": "Pub Royal",
         "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
       },
@@ -6876,7 +6956,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -8533,6 +8613,24 @@
     },
     {
       "album": {
+        "name": "Quand plus rien n'a de sens",
+        "url": "https://open.spotify.com/album/1hKdD7WYzotMuvTcj4Ms7Q"
+      },
+      "artists": [
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158154,
+      "name": "Quand plus rien n'a de sens",
+      "url": "https://open.spotify.com/track/2JnVs8t3fatATt8QcY7ycR"
+    },
+    {
+      "album": {
         "name": "Vie d'ange",
         "url": "https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH"
       },
@@ -9755,6 +9853,24 @@
     },
     {
       "album": {
+        "name": "Toujours les vacances",
+        "url": "https://open.spotify.com/album/29TWdLzC9Xaj30m5ZJ3XK3"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216173,
+      "name": "St\u00e9phanie",
+      "url": "https://open.spotify.com/track/51daGEo4XuDrXUIlB8qPZM"
+    },
+    {
+      "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
@@ -10190,7 +10306,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
@@ -11472,7 +11588,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 207349,
       "name": "Wi$h Li$t",
       "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"

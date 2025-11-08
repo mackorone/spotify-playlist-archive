@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Michel Rivard",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Frais Dispo",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -170,7 +170,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 226674,
       "name": "Baby (Version fran\u00e7aise)",
       "url": "https://open.spotify.com/track/0iaPZE774qhQg2I1OXpS7x"
@@ -268,6 +268,24 @@
       "duration_ms": 307133,
       "name": "Besoin de bras",
       "url": "https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA"
+    },
+    {
+      "album": {
+        "name": "Besoin de personne",
+        "url": "https://open.spotify.com/album/2K070iNoFTsFNbJoNXlmyH"
+      },
+      "artists": [
+        {
+          "name": "Le Husky",
+          "url": "https://open.spotify.com/artist/5UKoCmzADSRKmREG2vUK8L"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290513,
+      "name": "Besoin de personne",
+      "url": "https://open.spotify.com/track/4dJUQN4NEO3k5LiUtdQb1b"
     },
     {
       "album": {
@@ -768,7 +786,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 159750,
       "name": "Cool",
       "url": "https://open.spotify.com/track/3t21zDabYBaKqYovZbgWKq"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 194280,
       "name": "C\u0153urs m\u00e9t\u00e9ores",
       "url": "https://open.spotify.com/track/0iVJSnag003e8swPiOW75G"
@@ -1027,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Demain je pars",
+        "url": "https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209187,
+      "name": "Demain je pars",
+      "url": "https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO"
+    },
+    {
+      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
@@ -1107,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Dixie Diamond",
+      "url": "https://open.spotify.com/track/4m2Qn0sOEeUQkrHX9Yb0nQ"
+    },
+    {
+      "album": {
         "name": "Dodo Bangbang",
         "url": "https://open.spotify.com/album/3FuSAZGCzGKMtds3cx4GW6"
       },
@@ -1154,7 +1208,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 223506,
       "name": "Dr\u00f4le de temps",
       "url": "https://open.spotify.com/track/5jyVXKVgeXVhErGGIEFMyv"
@@ -1302,7 +1356,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 195256,
       "name": "Fais-moi r\u00eaver",
       "url": "https://open.spotify.com/track/5M7URPl2QApuwqFUQkpRuK"
@@ -1468,7 +1522,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 183022,
       "name": "Gagner mon ciel",
       "url": "https://open.spotify.com/track/3goXwFEphGrfOtEwjsix0A"
@@ -1544,6 +1598,24 @@
       "duration_ms": 288346,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
+    },
+    {
+      "album": {
+        "name": "hardcore",
+        "url": "https://open.spotify.com/album/6Rj4UFSCCkKpqklZAizJce"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206599,
+      "name": "hardcore",
+      "url": "https://open.spotify.com/track/6nkhjw3bUnQw2gtZARkWJW"
     },
     {
       "album": {
@@ -1764,7 +1836,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 211486,
       "name": "J'ai besoin de cette chance",
       "url": "https://open.spotify.com/track/55f3bjbsl6ih6M3wm4TcvB"
@@ -1988,7 +2060,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 215080,
       "name": "Je veux pas t'attendre mais je t'attends",
       "url": "https://open.spotify.com/track/6B86ieRgF2BhI1b81qpo8R"
@@ -2454,7 +2526,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 190794,
       "name": "Le coeur est un r\u00eaveur",
       "url": "https://open.spotify.com/track/0lBWxriZL930NGp1hLsaOM"
@@ -2494,6 +2566,24 @@
       "duration_ms": 184653,
       "name": "Le grand d\u00e9fi",
       "url": "https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc"
+    },
+    {
+      "album": {
+        "name": "Le gros boutte du b\u00e2ton",
+        "url": "https://open.spotify.com/album/5uzjOGSGDwzD8wcJsjiHrX"
+      },
+      "artists": [
+        {
+          "name": "Yohann Francoz",
+          "url": "https://open.spotify.com/artist/2UWwR5mhtN5Fh29wADoRnT"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219006,
+      "name": "Le gros boutte du b\u00e2ton",
+      "url": "https://open.spotify.com/track/1sFlUEHa1EA9ZDLECwOWdV"
     },
     {
       "album": {
@@ -2566,6 +2656,24 @@
       "duration_ms": 194480,
       "name": "Le poids",
       "url": "https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2"
+    },
+    {
+      "album": {
+        "name": "Like I did for Tommy",
+        "url": "https://open.spotify.com/album/5GEPVScpkAWDUsmh3poaGc"
+      },
+      "artists": [
+        {
+          "name": "childhood friend",
+          "url": "https://open.spotify.com/artist/2qoO4uE7tiz3HFg8vJyrBu"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "Le Restaurant",
+      "url": "https://open.spotify.com/track/6zbYZt4jhUbxv7TKC0zEvf"
     },
     {
       "album": {
@@ -2786,7 +2894,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 173000,
       "name": "Les valises",
       "url": "https://open.spotify.com/track/5SAfsA65On4gKkcE0CQZPE"
@@ -2898,7 +3006,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 269141,
       "name": "Ma valise",
       "url": "https://open.spotify.com/track/2GAxjfjH7Xzib3y3I8IUtj"
@@ -2960,6 +3068,24 @@
       "duration_ms": 215876,
       "name": "Mauat tsham (avec Matiu) - Live au Caf\u00e9-Th\u00e9\u00e2tre Graffiti de Port-Cartier",
       "url": "https://open.spotify.com/track/2kN1TVLKmonEjWklaMuId6"
+    },
+    {
+      "album": {
+        "name": "Mauvais souvenir",
+        "url": "https://open.spotify.com/album/42oY6tS62Ru0p0TS3q8nzA"
+      },
+      "artists": [
+        {
+          "name": "blesse",
+          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Mauvais souvenir",
+      "url": "https://open.spotify.com/track/4XoYlARSLB5HrypYM6SO6n"
     },
     {
       "album": {
@@ -3104,6 +3230,40 @@
       "duration_ms": 243164,
       "name": "Moucherons",
       "url": "https://open.spotify.com/track/7MKcEo1tspRup4Ci2uDK2k"
+    },
+    {
+      "album": {
+        "name": "Tout ce qui compte",
+        "url": "https://open.spotify.com/album/42mi3DpqsjtKTrm4IvX2MU"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146597,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO"
     },
     {
       "album": {
@@ -3305,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "On s'en fout",
+        "url": "https://open.spotify.com/album/0DWVfBrmDHx8okcNGFUEkp"
+      },
+      "artists": [
+        {
+          "name": "Les Obliks",
+          "url": "https://open.spotify.com/artist/6tHhbivRwy3SyjjWHB2f0x"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185856,
+      "name": "On s'en fout",
+      "url": "https://open.spotify.com/track/705NCLZBIek6BjM2lj6AKx"
+    },
+    {
+      "album": {
         "name": "On va-tu prendre une marche?",
         "url": "https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX"
       },
@@ -3338,6 +3516,24 @@
       "duration_ms": 191193,
       "name": "One More Story",
       "url": "https://open.spotify.com/track/4ngdhEZrLazNDat5EEpptb"
+    },
+    {
+      "album": {
+        "name": "Oumuamua",
+        "url": "https://open.spotify.com/album/6CbNcbJPYvVqEVGPA079oz"
+      },
+      "artists": [
+        {
+          "name": "Claire Pelletier",
+          "url": "https://open.spotify.com/artist/1q7Bztq701W8KGpmxAgYhT"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288773,
+      "name": "Oumuamua",
+      "url": "https://open.spotify.com/track/1Hw1bse3CqWfrmhQWEu0mj"
     },
     {
       "album": {
@@ -3718,6 +3914,24 @@
       "duration_ms": 153119,
       "name": "Rien ne m'\u00e9tonne",
       "url": "https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM"
+    },
+    {
+      "album": {
+        "name": "Rivi\u00e8re",
+        "url": "https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8"
+      },
+      "artists": [
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197996,
+      "name": "Rivi\u00e8re",
+      "url": "https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8"
     },
     {
       "album": {
@@ -4234,7 +4448,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 121140,
       "name": "TOUGH CROWD",
       "url": "https://open.spotify.com/track/1SuxtjMbdGTsVU8FxTyxQd"
@@ -4354,6 +4568,24 @@
       "duration_ms": 217200,
       "name": "Tout pour plaire",
       "url": "https://open.spotify.com/track/4v62HH8H1avGk8ZTF11hKD"
+    },
+    {
+      "album": {
+        "name": "Tout recommencer",
+        "url": "https://open.spotify.com/album/1Oerln1qMwYoqMEgfDZvJy"
+      },
+      "artists": [
+        {
+          "name": "Eads\u00e9",
+          "url": "https://open.spotify.com/artist/5biCyT4MF6VeO67WW5t4sv"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229824,
+      "name": "Tout recommencer",
+      "url": "https://open.spotify.com/track/4EhBaG2hdrhLihGaiqCx0F"
     },
     {
       "album": {
@@ -4615,6 +4847,24 @@
     },
     {
       "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
+      },
+      "artists": [
+        {
+          "name": "Cath Darbouze",
+          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207318,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
+    },
+    {
+      "album": {
         "name": "\u00c0 l'envers",
         "url": "https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT"
       },
@@ -4680,7 +4930,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 196146,
       "name": "\u00c0 quand les vacances",
       "url": "https://open.spotify.com/track/0TAzgVxTwP1cCPzkzyNsUU"

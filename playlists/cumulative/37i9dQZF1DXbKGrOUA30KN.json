@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "f\u00fchlichzusehr?",
+        "url": "https://open.spotify.com/album/7gZjmUnhZS41kqis2Itjqk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Kudella",
+          "url": "https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217413,
+      "name": "f\u00fchlichzusehr?",
+      "url": "https://open.spotify.com/track/6C2FEYbYYtjiatQk8fkanO"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer",
         "url": "https://open.spotify.com/album/0yuKkwDQKGUMhagslQVqKm"
       },
@@ -1183,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "S\u00fc\u00df sauer EP",
+        "url": "https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6"
+      },
+      "artists": [
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170958,
+      "name": "Mega peinlich",
+      "url": "https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u"
+    },
+    {
+      "album": {
         "name": "Mit besten W\u00fcnschen",
         "url": "https://open.spotify.com/album/4OvijPT0BJAFirIexQjjVE"
       },
@@ -1588,42 +1624,6 @@
       "duration_ms": 145849,
       "name": "tanz vor dir",
       "url": "https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Kudella",
-          "url": "https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6C2FEYbYYtjiatQk8fkanO"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Emma Rose",
-          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u"
     },
     {
       "album": {

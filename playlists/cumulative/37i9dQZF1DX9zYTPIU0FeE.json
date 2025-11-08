@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 349750,
       "name": "Journey of Gratitude",
       "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
@@ -2906,6 +2906,24 @@
       "duration_ms": 346924,
       "name": "kulungile feat. Nduduzo Makhathini",
       "url": "https://open.spotify.com/track/3jL3VTSda3kOBlTkQdd6aL"
+    },
+    {
+      "album": {
+        "name": "Kumi Lach",
+        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244426,
+      "name": "Kumi Lach",
+      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
     },
     {
       "album": {
@@ -6144,7 +6162,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 290846,
       "name": "We Have Been Here Before",
       "url": "https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r"
@@ -6224,7 +6242,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 338800,
       "name": "When We Love",
       "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"

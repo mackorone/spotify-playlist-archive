@@ -1,12 +1,12 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Bells Larsen",
-  "num_followers": 167400,
+  "num_followers": 167397,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPlE1MlB2iXDiTkTEJ8jT6XzpT4c",
+  "snapshot_id": "AAAAAHtmDOKOyGVHxRFFmPEeSj3kcTA8",
   "tracks": [
     {
       "added_at": "2025-11-07 00:01:45",
@@ -59,8 +59,8 @@
     {
       "added_at": "2025-11-07 00:01:45",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
       },
       "artists": [
         {
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
     },
     {
+      "added_at": "2025-11-07 05:05:15",
+      "album": {
+        "name": "off day",
+        "url": "https://open.spotify.com/album/1nIu38uixi5e1RFBpv25TE"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 192820,
+      "name": "off day",
+      "url": "https://open.spotify.com/track/1oRVV0MGr5jza6NAGEQ2Nd"
+    },
+    {
       "added_at": "2025-10-24 04:01:03",
       "album": {
         "name": "Rubber Band Man (with Hozier)",
@@ -143,8 +159,8 @@
     {
       "added_at": "2025-11-07 00:01:45",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Everything Unfolding",
+        "url": "https://open.spotify.com/album/4oeQDt6J3bFnBWhUU7jB0R"
       },
       "artists": [
         {
@@ -1659,22 +1675,6 @@
       "duration_ms": 187841,
       "name": "Maybe For Once",
       "url": "https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Long Exposure",
-        "url": "https://open.spotify.com/album/5m8I230z4udm9ONYxNK33e"
-      },
-      "artists": [
-        {
-          "name": "The Town Council",
-          "url": "https://open.spotify.com/artist/7xL3xiRU8HYbwDmDUym4aq"
-        }
-      ],
-      "duration_ms": 246683,
-      "name": "Long Exposure",
-      "url": "https://open.spotify.com/track/3IWhOgDozuUkzpIcmi4up3"
     }
   ],
   "unique_name": "Folk & Friends",

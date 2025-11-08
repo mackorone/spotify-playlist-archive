@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Manjakani
 
-441 songs - 1 day 4 hr 11 min
+442 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Anti ∞ Hero \- Slowed + Reverb](https://open.spotify.com/track/3xN6I7qZ8bODMXGuMLrfZn) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero \(Alternate Version\)](https://open.spotify.com/album/71dJyWzzP0QSIUq8enWZrR) | 4:33 | 2024-12-13 |  |
 | [Arutala](https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Arutala](https://open.spotify.com/album/7KIj8dXkRxlSYeL0V896PW) | 4:45 | 2024-07-24 | 2025-09-26 |
 | [As Falsas](https://open.spotify.com/track/0qPLO41igft7jd9NzSFOKd) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt), [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i) | [As Falsas](https://open.spotify.com/album/1wXWG6BuyyS9oQMHMvSg9t) | 3:57 | 2025-07-17 | 2025-10-24 |
-| [Attention](https://open.spotify.com/track/2J1l4yVdYwMke3ydYgn2Mz) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Attention](https://open.spotify.com/album/2WF2HCZZ6frFnyPrRGRL2P) | 3:21 | 2025-10-23 |  |
+| [Attention](https://open.spotify.com/track/2J1l4yVdYwMke3ydYgn2Mz) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Attention](https://open.spotify.com/album/2WF2HCZZ6frFnyPrRGRL2P) | 3:24 | 2025-10-23 |  |
 | [Ayo Janji](https://open.spotify.com/track/10A4qPaPfefup8WFu3vs7L) | [Olski](https://open.spotify.com/artist/4R0IfHszLiWGOgtqlyuY71) | [Ayo Janji](https://open.spotify.com/album/6deiQQbI4JecoYcnfQjCNm) | 2:40 | 2025-01-02 |  |
 | [Baby Don't You Cry](https://open.spotify.com/track/6cKhgpOFockOhNuzYALLKG) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Baby Don't You Cry](https://open.spotify.com/album/4fjpqKEFblSXja5LW7JTPw) | 2:56 | 2024-06-27 | 2024-08-02 |
 | [Be Found \(Bedroom Version\)](https://open.spotify.com/track/16V31BV36cdv0JIAvlh8l0) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Strange Predicament](https://open.spotify.com/album/4cc8LTdwVyFotDyCTMVvMS) | 2:27 | 2025-07-17 | 2025-10-17 |
@@ -94,6 +94,7 @@
 | [Dari Awal Pertama](https://open.spotify.com/track/6FuZQ1wnpjvMIgmot3t5TP) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Dari Awal Pertama](https://open.spotify.com/album/4tEh1PHEFm9ipXF8u7z9Io) | 2:48 | 2024-06-27 | 2024-09-06 |
 | [Dari Kemarin](https://open.spotify.com/track/63V1GgVJ5RzwQ9V5V6Psr4) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Dari Kemarin](https://open.spotify.com/album/5nuOKWKTbrozwIxUMdEWD3) | 4:14 | 2025-03-21 | 2025-05-23 |
 | [Datang Dari Mana Saja \- Short Version](https://open.spotify.com/track/6rpcahXTUUmMURZXyY48BC) | [Kapal Udara](https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f) | [Datang Dari Mana Saja \(Short Version\)](https://open.spotify.com/album/6tRvf8hVpu8iImCGwm8K0w) | 1:00 | 2025-06-12 | 2025-08-22 |
+| [Dear Diary](https://open.spotify.com/track/1Fi14RVbPnkAk2CSFgHskR) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Dear Diary](https://open.spotify.com/album/1ekuciDr4CiXnVOxBpVG5f) | 2:43 | 2025-11-07 |  |
 | [DENTUM](https://open.spotify.com/track/0Ie6cd0pjQ5sDXxlimfyti) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [DENTUM](https://open.spotify.com/album/1j19FQajbchxmR1Yc8GKYJ) | 5:18 | 2025-07-03 |  |
 | [DERAU](https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2) | [Jugo Djarot](https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3) | [DERAU](https://open.spotify.com/album/71TCJStstSDqdgQxwItoXN) | 3:12 | 2025-10-02 |  |
 | [Dharma](https://open.spotify.com/track/5DQSWzbuysaOIcA5eynSvb) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Dharma](https://open.spotify.com/album/2cOXDoDjNw0xcKvTGajyf6) | 4:12 | 2024-06-27 | 2025-05-17 |

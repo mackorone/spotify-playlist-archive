@@ -23565,6 +23565,24 @@
     },
     {
       "album": {
+        "name": "Om du beh\u00f6ver mig",
+        "url": "https://open.spotify.com/album/0Df1JBTZ6Qg2V2JN26W9CZ"
+      },
+      "artists": [
+        {
+          "name": "Nektar",
+          "url": "https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228970,
+      "name": "November",
+      "url": "https://open.spotify.com/track/3wxe1sxClKHMW73z9hnL4y"
+    },
+    {
+      "album": {
         "name": "Heartbreakmiljon\u00e4r",
         "url": "https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n"
       },
@@ -33762,24 +33780,6 @@
       "duration_ms": 266994,
       "name": "Toys",
       "url": "https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Nektar",
-          "url": "https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3wxe1sxClKHMW73z9hnL4y"
     },
     {
       "album": {

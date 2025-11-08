@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,054 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,051 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 25 | [Ik Er Her.](https://open.spotify.com/track/0TzGNfAXYBWpbo5YqCchM2) | [FRSLV](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [Det Frslv.](https://open.spotify.com/album/4qOSab4b42c9RoSWIxRxSr) | 2:16 |
 | 26 | [K Flow \(feat\. wicky\)](https://open.spotify.com/track/4ieFtpbjZ75P1f5Er1zsXi) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [K Flow \(feat\. wicky\)](https://open.spotify.com/album/4W54sHGYoQxuteHhfpEPkw) | 2:24 |
 | 27 | [Kun For Festerne](https://open.spotify.com/track/5BcjRKsn31CzIz1K72LpZN) | [FØNS](https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi) | [Kun For Festerne](https://open.spotify.com/album/1KfQdQcjuTtKTjxIGBTWmn) | 2:39 |
-| 28 | [Sel3a](https://open.spotify.com/track/53LzWvEtwiWAgG0qZpddmd) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh), [Aim](https://open.spotify.com/artist/5ZS3e1UtuO8Cfu9zN6mgcO) | [Sel3a](https://open.spotify.com/album/1MXu13AzC4Q3RnYR6fhjxo) | 2:55 |
+| 28 | [Sel3a](https://open.spotify.com/track/53LzWvEtwiWAgG0qZpddmd) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh), [Aim](https://open.spotify.com/artist/5ZS3e1UtuO8Cfu9zN6mgcO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Sel3a](https://open.spotify.com/album/1MXu13AzC4Q3RnYR6fhjxo) | 2:55 |
 | 29 | [Turtleneck \(feat\. Kimbo\)](https://open.spotify.com/track/3atOQJD9pBPAdqeJriXrOd) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U) | [zzz](https://open.spotify.com/album/1bL00lnwcAb27zYnyc01Ud) | 2:44 |
 | 30 | [NSK](https://open.spotify.com/track/3JDOIG5IbFHWjAXxuzAjJj) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [NSK](https://open.spotify.com/album/23mP7nmgvAz1Q925QfjtsO) | 2:23 |
 | 31 | [LOSSES](https://open.spotify.com/track/6jiJlhoKrtnqbEwn9rwLzg) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 2:59 |

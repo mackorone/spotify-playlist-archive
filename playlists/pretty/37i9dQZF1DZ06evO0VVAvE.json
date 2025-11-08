@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7270,
+  "num_followers": 7284,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQqTgAAAAAAPvLwvqxJ/Mq+1KMWrYm0x",
+  "snapshot_id": "aQvlAAAAAAC9DiDION4r2Jt/IvoMTfGY",
   "tracks": [
     {
       "added_at": null,
@@ -755,30 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Stop Vol. 1",
-        "url": "https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw"
-      },
-      "artists": [
-        {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
-        },
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Overload (Kala)",
-      "url": "https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jogo (Smoke Up)",
         "url": "https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 169195,
       "name": "Jogo (Smoke Up)",
       "url": "https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Stop Vol. 1",
+        "url": "https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Overload (Kala)",
+      "url": "https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa"
     },
     {
       "added_at": null,

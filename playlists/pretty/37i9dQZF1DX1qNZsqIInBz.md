@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,753 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,929 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 53 | [Night Drive](https://open.spotify.com/track/0zUaZGWTnuU9eAvYIAOCet) | [Digma](https://open.spotify.com/artist/4yoc4oFXtddeMUM0IPPr4a), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Night Drive](https://open.spotify.com/album/4KfiISrF4UYPIhPLvJsIjI) | 2:47 |
 | 54 | [ZEMLYA](https://open.spotify.com/track/6ykmd9ifNFPlKFdjePXLUb) | [Masha i Medvedi](https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl), [EDWXRDX](https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N) | [ZEMLYA](https://open.spotify.com/album/4Oy3RyBfpG5G13efSVzLHG) | 2:24 |
 | 55 | [Lunar](https://open.spotify.com/track/2OQ38YnV9PdxugWt8PHdSV) | [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Lunar](https://open.spotify.com/album/1z58kSS94g0DKLVZzMtwEM) | 2:41 |
-| 56 | [nightriders](https://open.spotify.com/track/1bbnzRWj8vuOBQmoHFfqOg) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r) | [nightriders](https://open.spotify.com/album/0WvOrokciCcRELMBURq18R) | 2:02 |
+| 56 | [nightriders](https://open.spotify.com/track/1bbnzRWj8vuOBQmoHFfqOg) | [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [nightriders](https://open.spotify.com/album/0WvOrokciCcRELMBURq18R) | 2:02 |
 | 57 | [Dark Mercer](https://open.spotify.com/track/3TX53IyZvSsjYzZrmHQdI1) | [5l33p](https://open.spotify.com/artist/1JjSBnVH2QnmXFBmaIGdjq) | [Dark Mercer](https://open.spotify.com/album/6GMEh5mGT9CVyXO3TFo8EU) | 2:38 |
 | 58 | [Omega](https://open.spotify.com/track/6yzDgOc9gruRxmaaiVsBy1) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Omega](https://open.spotify.com/album/4B9PcrMKaJupfqKvko3pYv) | 2:53 |
 | 59 | [Still Breathing \- Original Mix](https://open.spotify.com/track/74Yy0Q60u9kNHqdtgVeBSq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [Still Breathing \(Remix\)](https://open.spotify.com/album/3f2t838yL6Trx41BczL28v) | 3:08 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 86 | [LXVE TXWN](https://open.spotify.com/track/1pCDWUyukLwNnDtKuDKk7j) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LXVE TXWN](https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm) | 2:38 |
 | 87 | [NO HOPE](https://open.spotify.com/track/6lpqmnhoM6fxVg52c7azTp) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 1:31 |
 | 88 | [Eyez On The Prize](https://open.spotify.com/track/4ewahlsQrOeZwSNZToFvRD) | [Tele.phonk](https://open.spotify.com/artist/7Fi1jHSJRaQfZpHArLW36Q) | [Eyez On The Prize](https://open.spotify.com/album/7eekajxZPv3c0lHDItaAUd) | 1:51 |
-| 89 | [OBLIVION](https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [OBLIVION](https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj) | 3:12 |
+| 89 | [OBLIVION](https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9) | [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [OBLIVION](https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj) | 3:12 |
 | 90 | [Club Racer](https://open.spotify.com/track/0TixfN2rNvg1VL4gggylRH) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Club Racer](https://open.spotify.com/album/05FqgSKvtl1CfngN1M6C8l) | 2:08 |
 | 91 | [Faith](https://open.spotify.com/track/4zlRLGntMJUQvPNVCNjvPk) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Faith](https://open.spotify.com/album/2sgMtk4Qog9KvbdeuRaMu5) | 2:05 |
 | 92 | [Hallucination](https://open.spotify.com/track/3o97gI0SFNTqzhPAXpxkGD) | [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [Hallucination](https://open.spotify.com/album/7nNj9pxxPWn6WfYDS6r01W) | 2:33 |

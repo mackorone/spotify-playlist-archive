@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,473 likes - 54 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,550 likes - 54 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 | 5 | [Devil's Den](https://open.spotify.com/track/6PV267aIcBwTtpKUklyD3B) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Devil's Den](https://open.spotify.com/album/6tNyTApcRFDvdYXW8E8chd) | 3:59 |
 | 6 | [Blue Collar](https://open.spotify.com/track/4bZdDIc6Lvpw6rDvK3feZD) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 2:19 |
 | 7 | [i blame the bar](https://open.spotify.com/track/3AqTDfGgH2jrTVTS1EUux7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:57 |
-| 8 | [Midland After Midnight](https://open.spotify.com/track/7k5lFpunUyqCVFs6kT7Pfe) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Midland After Midnight \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/4mQaw4ELX4S6TXLyrj7LMd) | 3:57 |
+| 8 | [Midland After Midnight](https://open.spotify.com/track/7k5lFpunUyqCVFs6kT7Pfe) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Midland After Midnight \(From Paramount + Original Series “Landman”\)](https://open.spotify.com/album/4mQaw4ELX4S6TXLyrj7LMd) | 3:57 |
 | 9 | [Honky Tonk Hall Of Fame](https://open.spotify.com/track/2vopYyV5XSXOGL0DuZ8oYE) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Landman \[Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/5HRneEK33Bxvqc19ZcSRqZ) | 3:09 |
 | 10 | [She'll Dance For Whiskey](https://open.spotify.com/track/661iBIxXA1NOIvsEfbJLE1) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Landman \[Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/5HRneEK33Bxvqc19ZcSRqZ) | 4:47 |
 | 11 | [I Found Blue](https://open.spotify.com/track/3cweXeXQunad7Jq4gtjqXa) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Landman \[Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/5HRneEK33Bxvqc19ZcSRqZ) | 3:37 |

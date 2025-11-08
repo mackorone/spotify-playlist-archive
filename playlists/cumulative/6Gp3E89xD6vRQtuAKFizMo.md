@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-512 songs - 1 day 0 hr 33 min
+514 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Feel It](https://open.spotify.com/track/3dGFEUTGK8gTQHrsmJrlrW) | [Shelco](https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD), [STRBLAST](https://open.spotify.com/artist/7waCeZR7phX8e6XMbijhiT) | [Feel It](https://open.spotify.com/album/17DTZRbt1LCoNMeHTWuKK9) | 2:17 | 2024-11-22 | 2025-04-27 |
 | [Feel The Love](https://open.spotify.com/track/2W0PYXRtAWzSldqzqo9Mut) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ), [Lost Vandal](https://open.spotify.com/artist/0HjAgCVuK3fjTZ3HJ38wh7) | [Feel The Love](https://open.spotify.com/album/4hW9qS1NG2xIUjg6Hvceb5) | 3:12 | 2025-07-25 |  |
 | [Feel The Sun \(feat\. Conor McLoughlin\)](https://open.spotify.com/track/1qrp1bnCoZR6Gh8B1CLvn0) | [Axel Knox](https://open.spotify.com/artist/5shjcniUWXXN8xRgMQCZOm), [Conor McLoughlin](https://open.spotify.com/artist/4RXraxMiBQjbq7hiy8F2aw) | [Feel The Sun \(feat\. Conor McLoughlin\)](https://open.spotify.com/album/3oDTaFDokKXBrEo3cMFSWv) | 2:26 | 2024-05-23 | 2025-04-27 |
+| [Feeling Better](https://open.spotify.com/track/2MCr6eVXF5KsChTdx9r66j) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feeling Better](https://open.spotify.com/album/3NwiHs9fR4lE1ST65PP4UM) | 3:02 | 2025-11-07 |  |
 | [Feels Like](https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Feels Like](https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65) | 3:26 | 2022-08-12 | 2022-12-10 |
 | [Fight \(Show Me Who You Are\)](https://open.spotify.com/track/64z1dWUjWiW0sRjsAhtNTD) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Fight \(Show Me Who You Are\)](https://open.spotify.com/album/1c6CkJzI9bVOH1RZyA9Snl) | 3:37 | 2023-11-22 | 2025-04-27 |
 | [Final Call](https://open.spotify.com/track/79OlaXxTge9eY0eizS7iyj) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Final Call](https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk) | 2:31 | 2025-02-07 |  |
@@ -204,6 +205,7 @@
 | [heavy metals](https://open.spotify.com/track/4sI100hB4VQQqHQonPq9I2) | [plumpy](https://open.spotify.com/artist/50OV9n9Rnrf8BqUdzEVZMI), [daisy maize](https://open.spotify.com/artist/6SAsm9v5Z1fJpbrXGvuQu4) | [heavy metals](https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo) | 3:21 | 2022-05-10 | 2022-11-19 |
 | [Here & Now](https://open.spotify.com/track/5YKi67NkoEX72lsTO14ftT) | [Subsurface](https://open.spotify.com/artist/6CQXt8ky5LYUbahKIRzeZC) | [Here & Now](https://open.spotify.com/album/6ELRhGZncnieKyHlyv4v5n) | 2:16 | 2025-07-20 |  |
 | [Higher \(feat\. Eso.XO.Supreme\)](https://open.spotify.com/track/5SETcigvLiz4rQ3eUjR0k4) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Eso.XO.Supreme](https://open.spotify.com/artist/12VfdgL4i9hoFoaIFdE7qV) | [Higher \(feat\. Eso.XO.Supreme\)](https://open.spotify.com/album/5sMgGok0VfV3zg5uhopzXj) | 3:25 | 2023-03-17 | 2025-04-27 |
+| [Higher Off The Ground](https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Higher Off The Ground](https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a) | 3:05 | 2025-11-07 |  |
 | [Hold My Love \(feat\. Piper Byers\)](https://open.spotify.com/track/6DagmGXA13lYuPCI2ZUDRt) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Piper Byers](https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3) | [Hold My Love \(feat\. Piper Byers\)](https://open.spotify.com/album/5UtWnVXS5XFXJU8geS49K6) | 2:44 | 2024-08-02 | 2025-04-27 |
 | [Hold My Love \(feat\. Piper Byers\) \- Burko Remix](https://open.spotify.com/track/0pW2VsKAL4cXbCl6GqqSIq) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Piper Byers](https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Hold My Love \(feat\. Piper Byers\) \[Remixes\]](https://open.spotify.com/album/55Aw8CtNiuiYVKIcZdyasd) | 4:06 | 2024-10-11 | 2025-04-27 |
 | [Hold My Love \(feat\. Piper Byers\) \- CASHEW Remix](https://open.spotify.com/track/5aFDvwmaH5jspqDWdtHmzt) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Piper Byers](https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3), [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Hold My Love \(feat\. Piper Byers\) \[Remixes\]](https://open.spotify.com/album/55Aw8CtNiuiYVKIcZdyasd) | 2:30 | 2024-10-11 | 2025-04-27 |

@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. ALT BLK ERA
 
-1,221 songs - 2 day 12 hr 3 min
+1,223 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [BUTTERFLY KISSES](https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [BUTTERFLY KISSES](https://open.spotify.com/album/7nwFdtgRxzCJJZIzAVqwuM) | 2:02 | 2025-05-01 | 2025-09-06 |
 | [buzz](https://open.spotify.com/track/1AH3MVzJ5N6WyPyXirqqti) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D), [Crosstalk](https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq) | [buzz](https://open.spotify.com/album/70BRZpzEcIsiYl4Em2GaUy) | 2:08 | 2024-05-23 | 2024-07-12 |
 | [Buzz Trip](https://open.spotify.com/track/5Co7cwovS7MXabSrm9577O) | [Crae Wolf](https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9) | [Buzz Trip](https://open.spotify.com/album/4QjbSdlj6V5seRuHcDNhlL) | 2:00 | 2025-04-17 | 2025-05-30 |
+| [Call Me Mommy](https://open.spotify.com/track/6xQEEMsk1ZwnZ0XhBEWFy7) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Call Me Mommy](https://open.spotify.com/album/1g4lutJQBwAL3wPM1RDWkk) | 2:59 | 2025-11-07 |  |
 | [Calverley](https://open.spotify.com/track/13HSuJkVMEQ8Ji95Y4pzIn) | [PEZZHEAD](https://open.spotify.com/artist/6aVSDYGiTFnafE19XhK3PI) | [BLUE Turtle Dove](https://open.spotify.com/album/5ScSiAnW7tI9kjZ3cmS6d1) | 3:42 | 2023-12-22 | 2024-01-19 |
 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 | 2023-04-13 | 2023-06-30 |
 | [canyoufeelmy<3.tmpx](https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:42 | 2025-07-10 |  |
@@ -651,7 +652,7 @@
 | [Lapinou](https://open.spotify.com/track/2GSTQtsqF1ISi2FWzTSPqY) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Detrimentors](https://open.spotify.com/album/2oNmy4VbIkoOU30KhgLrVN) | 3:31 | 2025-05-01 |  |
 | [Last Day / Новый День](https://open.spotify.com/track/7bPrnYvKkyHCNMCrFCUyXN) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Kiss Of Death](https://open.spotify.com/album/0jWtiXlIT1bKH9qrAuKtCj) | 3:06 | 2022-04-28 | 2022-08-05 |
 | [Last Summer \(I Know What You Did\)](https://open.spotify.com/track/1d2pXU93R3BiiTeZWRl0t4) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC), [Jinka](https://open.spotify.com/artist/4QQ7oTTczMTot51xhy1giT) | [Careless](https://open.spotify.com/album/3SNMIbXUymlzYqWWTp0Egr) | 3:21 | 2023-08-10 | 2023-11-11 |
-| [Last Time](https://open.spotify.com/track/5ifPlR8w2NUCq3sHyrfd5a) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Last Time](https://open.spotify.com/album/2Q0XmU6dUpl6ckyMwVd5Mj) | 3:05 | 2025-06-05 |  |
+| [Last Time](https://open.spotify.com/track/5ifPlR8w2NUCq3sHyrfd5a) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Last Time](https://open.spotify.com/album/2Q0XmU6dUpl6ckyMwVd5Mj) | 3:05 | 2025-06-05 | 2025-11-08 |
 | [Lawmaker](https://open.spotify.com/track/5gsZOtOrj7IKyCtjacSvXu) | [YARD](https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS) | [Lawmaker](https://open.spotify.com/album/1qAcXwnEag4BOCl4zhCHNY) | 3:41 | 2025-10-09 |  |
 | [Lazarus](https://open.spotify.com/track/6YeICQ526RnheZIr61Y5tj) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL), [$LOTHBOI](https://open.spotify.com/artist/6pqww89mdTNMrYjqcCzi1x) | [Lazarus](https://open.spotify.com/album/2ubFTHV87OkwQr4Xc9bxBc) | 3:13 | 2022-12-02 | 2023-02-09 |
 | [Learn To Forget](https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Learn To Forget](https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5) | 3:01 | 2024-06-06 | 2024-09-13 |
@@ -877,7 +878,7 @@
 | [Possession of a Weapon](https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Possession of a Weapon](https://open.spotify.com/album/0MZgUBm8HPyOcovdtuyJJk) | 2:35 | 2023-05-25 | 2023-07-07 |
 | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/track/2no9gQFqQc0SwelSEJ2SQI) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/album/2vkWHYySwW3SW2613HOZyc) | 2:56 | 2022-04-19 | 2022-04-29 |
 | [POWERPLAY](https://open.spotify.com/track/2UaUNUtIQ3bHW56GXdiJmt) | [Bobbi Arlo](https://open.spotify.com/artist/5cudb4Wjab9hm3JH34VzgB) | [POWERPLAY](https://open.spotify.com/album/3a06J2Qkcs3aFaAKzwzpxD) | 2:37 | 2025-01-24 | 2025-04-18 |
-| [Precious](https://open.spotify.com/track/0OpFhPOLqkODyYQXoeGwEh) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Precious](https://open.spotify.com/album/6U1cUaSzcC7lb1IiKPm6rS) | 3:28 | 2025-07-31 |  |
+| [Precious](https://open.spotify.com/track/0OpFhPOLqkODyYQXoeGwEh) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Precious](https://open.spotify.com/album/6U1cUaSzcC7lb1IiKPm6rS) | 3:28 | 2025-07-31 | 2025-11-08 |
 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-05 | 2024-08-16 |
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2021-12-27 | 2022-06-10 |
 | [pretty little naive puppet](https://open.spotify.com/track/24KZC6qSdTkSg9R6ZQe7oI) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [pretty little naive puppet](https://open.spotify.com/album/5zUmv3zMD8aZ0vcwsOYpmP) | 3:37 | 2024-04-05 | 2024-06-28 |
@@ -1208,6 +1209,7 @@
 | [yellow tape](https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [yellow tape](https://open.spotify.com/album/3Xl7pPxG692nUmLdRsePHE) | 2:20 | 2023-11-10 | 2024-01-26 |
 | [yeR sTupiD NighTmaRe \(mAd wOrLd\)](https://open.spotify.com/track/1GyNFQ9q61xNcIEF9zfpYy) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [yeR sTupiD NighTmaRe \(mAd wOrLd\)](https://open.spotify.com/album/05L6KVtCje3egke9rsNyF2) | 3:31 | 2022-12-02 | 2023-03-25 |
 | [You & I](https://open.spotify.com/track/5yxXbY0npSW5ddLAtxCV83) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [You & I](https://open.spotify.com/album/6IVg6Cvr9dHktpmkFjOpT6) | 1:54 | 2023-03-03 | 2023-06-09 |
+| [YOU DIED](https://open.spotify.com/track/76hJuzeeHq615YFWu0NyaD) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [YOU DIED](https://open.spotify.com/album/0D9HpjMrmUY5w9LSHVvdM8) | 3:24 | 2025-11-07 |  |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-01-19 | 2024-07-19 |
 | [You Know Who's Seatbelt](https://open.spotify.com/track/5yznJ7J8XNl7n7pmgy2AVy) | [The Bled](https://open.spotify.com/artist/0EvGuw8fuWFtxhAsBOFTin) | [Pass the Flask](https://open.spotify.com/album/4MQAe56gfSYNCpOvzlmN0S) | 3:01 | 2024-05-28 | 2024-06-07 |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-02-04 | 2022-03-04 |

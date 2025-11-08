@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 134285,
       "name": "chime in",
       "url": "https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt"
@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Fizzdrop",
+        "url": "https://open.spotify.com/album/03mzD1HsaCjfPvZQcu2awn"
+      },
+      "artists": [
+        {
+          "name": "Fracta Aurea",
+          "url": "https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Fizzdrop",
+      "url": "https://open.spotify.com/track/14l5zv6ljXUgG3bfYmCljP"
+    },
+    {
+      "album": {
         "name": "Flower Lane",
         "url": "https://open.spotify.com/album/2ymfobcYHMgqlJbiny2dXp"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 144644,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp"
@@ -970,6 +988,28 @@
       "duration_ms": 157021,
       "name": "late nights",
       "url": "https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas"
+    },
+    {
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/6VCelAxYiJRh7vWua1PnTl"
+      },
+      "artists": [
+        {
+          "name": "Hazue",
+          "url": "https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU"
+        },
+        {
+          "name": "Revoir",
+          "url": "https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/6g0mGQOePSkNq34vAFmDwW"
     },
     {
       "album": {

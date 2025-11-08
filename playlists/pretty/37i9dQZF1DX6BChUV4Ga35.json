@@ -1,13 +1,29 @@
 {
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
-  "num_followers": 41373,
+  "num_followers": 41393,
   "original_name": "At The Zoo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANOIHeRElV9WjYzpYFvt2/0Vsevo",
+  "snapshot_id": "AAAAAPv3pV0Fzs/gd4B4bGZMb3RbLhyd",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:39",
+      "album": {
+        "name": "Animal Noises are FUN!",
+        "url": "https://open.spotify.com/album/5GBH3MwHz5RmQmo3NDiamu"
+      },
+      "artists": [
+        {
+          "name": "Unka Munka",
+          "url": "https://open.spotify.com/artist/4EJjX7DT5FJC2XUmgtBpXL"
+        }
+      ],
+      "duration_ms": 195496,
+      "name": "Animal Noises are FUN!",
+      "url": "https://open.spotify.com/track/3DgK52iIN6WIBQD6DG7pwm"
+    },
     {
       "added_at": "2025-07-20 16:48:26",
       "album": {

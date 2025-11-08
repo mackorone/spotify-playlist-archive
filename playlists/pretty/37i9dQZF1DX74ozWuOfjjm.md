@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to women at full volume\. Cover: Hatchie
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,553 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,555 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Surrender](https://open.spotify.com/track/55bpoCWPxzbvg5b6ljcHv6) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Surrender](https://open.spotify.com/album/1BiAqfL0yr37s439GYSNKd) | 3:12 |
 | 100 | [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 |
 
-Snapshot ID: `AAAAANl5HcVLaQsn2P2+qxARXfS6PTen`
+Snapshot ID: `AAAAAPCVQj0+IybIaVkX9RQhDuprqfcL`

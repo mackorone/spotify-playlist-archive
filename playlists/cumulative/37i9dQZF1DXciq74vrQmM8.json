@@ -3029,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Call Me Mommy",
+        "url": "https://open.spotify.com/album/1g4lutJQBwAL3wPM1RDWkk"
+      },
+      "artists": [
+        {
+          "name": "Harpy",
+          "url": "https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "Call Me Mommy",
+      "url": "https://open.spotify.com/track/6xQEEMsk1ZwnZ0XhBEWFy7"
+    },
+    {
+      "album": {
         "name": "BLUE Turtle Dove",
         "url": "https://open.spotify.com/album/5ScSiAnW7tI9kjZ3cmS6d1"
       },
@@ -12110,7 +12128,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 185357,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5ifPlR8w2NUCq3sHyrfd5a"
@@ -16410,7 +16428,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 208826,
       "name": "Precious",
       "url": "https://open.spotify.com/track/0OpFhPOLqkODyYQXoeGwEh"
@@ -22614,6 +22632,24 @@
       "duration_ms": 114342,
       "name": "You & I",
       "url": "https://open.spotify.com/track/5yxXbY0npSW5ddLAtxCV83"
+    },
+    {
+      "album": {
+        "name": "YOU DIED",
+        "url": "https://open.spotify.com/album/0D9HpjMrmUY5w9LSHVvdM8"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204679,
+      "name": "YOU DIED",
+      "url": "https://open.spotify.com/track/76hJuzeeHq615YFWu0NyaD"
     },
     {
       "album": {

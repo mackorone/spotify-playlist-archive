@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Nanpa B\u00e1sico & DFZM",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Elsa y Elmar",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -512,6 +512,28 @@
       "duration_ms": 132720,
       "name": "Att: Amor",
       "url": "https://open.spotify.com/track/6xihliy8JGYJXd6uYF0Ncu"
+    },
+    {
+      "album": {
+        "name": "PALACIO DE LUX",
+        "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Llergo",
+          "url": "https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194565,
+      "name": "bachata m\u00eda",
+      "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
     },
     {
       "album": {
@@ -2580,7 +2602,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 190195,
       "name": "Lun\u00e1tica",
       "url": "https://open.spotify.com/track/5Oo8vxfhgLZglkEWps4KMl"
@@ -2910,7 +2932,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 189000,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/0kfPIJCXi0wohJAz8NDWdS"
@@ -3022,7 +3044,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 189936,
       "name": "Montego Bay",
       "url": "https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME"
@@ -4117,6 +4139,24 @@
     },
     {
       "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Serpiente",
+      "url": "https://open.spotify.com/track/03BmpPex7wowkAhdPgFEeG"
+    },
+    {
+      "album": {
         "name": "Si Me Das Tu Amor",
         "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
       },
@@ -4765,6 +4805,46 @@
     },
     {
       "album": {
+        "name": "Teresa",
+        "url": "https://open.spotify.com/album/2g4WfH84dp88AXNqaY9jaw"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214048,
+      "name": "Teresa",
+      "url": "https://open.spotify.com/track/4cgEbCOaaN0nzhAZvJinb8"
+    },
+    {
+      "album": {
+        "name": "Tiempo Al Tiempo (feat. Goyo)",
+        "url": "https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "Tiempo Al Tiempo (feat. Goyo)",
+      "url": "https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU"
+    },
+    {
+      "album": {
         "name": "TODAV\u00cdA",
         "url": "https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw"
       },
@@ -4994,7 +5074,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 211762,
       "name": "Un Intento Permanente",
       "url": "https://open.spotify.com/track/2BByhZdP87btcQKOCvGLQ3"

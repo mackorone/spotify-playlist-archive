@@ -2,7 +2,7 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Vna Sophie, Monsta
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Van Sophie, Monsta
 
 807 songs - 1 day 18 hr 39 min
 
@@ -58,7 +58,7 @@
 | [Ananás](https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Ananás](https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj) | 3:27 | 2022-07-07 | 2022-07-21 |
 | [Android](https://open.spotify.com/track/1wkjsvGUtPZ5Y1QsMkO1li) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:19 | 2025-07-17 | 2025-07-26 |
 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 | 2024-07-18 |  |
-| [Anonimato](https://open.spotify.com/track/0VtmWsESBU57ryQdhLaqvh) | [Van Sophie](https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG), [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [](https://open.spotify.com/album/null) | 3:52 | 2025-11-07 |  |
+| [Anonimato](https://open.spotify.com/track/0VtmWsESBU57ryQdhLaqvh) | [Van Sophie](https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG), [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Para Além dos Coros](https://open.spotify.com/album/7FlXA3VH06VPuF0SQVrJ7c) | 3:52 | 2025-11-07 |  |
 | [Anos 90](https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl) | [Palazzi](https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Anos 90](https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T) | 2:58 | 2024-09-13 | 2024-10-18 |
 | [antes](https://open.spotify.com/track/5JOTpxmUw2ZRPSWZ3dn7LD) | [VASCO](https://open.spotify.com/artist/74wX3E6lUc0ZvXRa2jxvkG), [ed](https://open.spotify.com/artist/3NQzkrCGGhftMzKWApn44m) | [antes](https://open.spotify.com/album/54UbtW4J5fzjnwHUathVDd) | 3:20 | 2025-07-17 | 2025-07-26 |
 | [Antes e Depois](https://open.spotify.com/track/1DM05DVGVhtQVgrlOXgO8V) | [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [Antes e Depois](https://open.spotify.com/album/5W6rbwC6PuzUA8MSI8ywWb) | 2:36 | 2022-09-08 | 2022-09-23 |
@@ -214,7 +214,7 @@
 | [DIAMANTE](https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:24 | 2023-04-06 | 2023-09-22 |
 | [Diamante](https://open.spotify.com/track/4XsIue8yfniK7REvBbkWMK) | [S4ntos](https://open.spotify.com/artist/0A2wNWBmDyDLiTzt8YqFQ4) | [Diamante](https://open.spotify.com/album/4YpSYu9pYXjODmC1tUmLYj) | 1:47 | 2024-01-05 | 2024-02-02 |
 | [Diferente](https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [Diferente](https://open.spotify.com/album/0fdEVAurFGPYQx36Ojcc91) | 1:45 | 2022-11-18 | 2023-01-06 |
-| [Dilúvio](https://open.spotify.com/track/0A8kWFM8URB0IGKuYWVg3g) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4) | [](https://open.spotify.com/album/null) | 2:54 | 2025-11-07 |  |
+| [Dilúvio](https://open.spotify.com/track/0A8kWFM8URB0IGKuYWVg3g) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4) | [Dilúvio](https://open.spotify.com/album/6zeP7Lahys9aioNbesOeVF) | 2:54 | 2025-11-07 |  |
 | [Dimas](https://open.spotify.com/track/7tn6d33IW4XtUNFyxOdGdk) | [Ne Jah](https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL), [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Dimas](https://open.spotify.com/album/01Wyo9AKgokjUqMISROMEj) | 3:29 | 2025-03-21 | 2025-05-01 |
 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 | 2024-02-16 |  |
 | [DISPARA](https://open.spotify.com/track/6CXtClKJQvhErH0tLkY1S3) | [Pta](https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA), [Bully Firmaloko](https://open.spotify.com/artist/3h2hZep6OzgSSo5Km4iWH9) | [DISPARA](https://open.spotify.com/album/5cvlEKE5tzK35WoF6DIqba) | 2:51 | 2023-01-06 | 2023-01-21 |
@@ -594,7 +594,7 @@
 | [Quase Me Perdi](https://open.spotify.com/track/2f7Hnuoe0k1HPBZZCzSFKA) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN), [Inês Canelas](https://open.spotify.com/artist/2kKHNDBmOyU6DpyIg9wLmz) | [Quase Me Perdi](https://open.spotify.com/album/6uPor1BpWCrFCOKYFGqQ8N) | 3:53 | 2023-03-03 | 2023-03-25 |
 | [Quem Diria](https://open.spotify.com/track/2OGx0fG4WeIplwMarmls42) | [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Quem Diria](https://open.spotify.com/album/58WJgmGwOlbtMtP3wKcbRc) | 2:51 | 2023-12-08 | 2023-12-22 |
 | [Quem Sabe](https://open.spotify.com/track/00a1pwOoED1x9WbL4h8iGM) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [Quem Sabe](https://open.spotify.com/album/7nOa8A54XGy95qGFcWWmOo) | 4:10 | 2025-05-01 | 2025-08-01 |
-| [Quem Tem O Teu <3](https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [](https://open.spotify.com/album/null) | 2:44 | 2025-11-07 |  |
+| [Quem Tem O Teu <3](https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Pequenos Gigantes](https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3) | 2:44 | 2025-11-07 |  |
 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 | 2024-02-09 | 2025-06-23 |
 | [Quem És Tu?](https://open.spotify.com/track/6K079nY6HFDiA0dx98P4dl) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [Quem És Tu?](https://open.spotify.com/album/0LZdhv03RelWKub0dwfzsI) | 2:40 | 2024-12-13 | 2025-05-02 |
 | [Quero Encontrar](https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Quero Encontrar](https://open.spotify.com/album/3egfgENT37TGdFDnzOROqh) | 3:00 | 2024-03-08 | 2024-04-19 |

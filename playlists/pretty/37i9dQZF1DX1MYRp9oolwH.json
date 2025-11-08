@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Premante",
-  "num_followers": 155904,
+  "num_followers": 155964,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al",
+  "snapshot_id": "AAAAAIo3WfVeF3EiILd1OONyOKijEaqU",
   "tracks": [
     {
       "added_at": "2025-10-09 08:17:22",
@@ -31,6 +31,30 @@
       "duration_ms": 212268,
       "name": "Dhochaave Nanne (From \"Premante\")",
       "url": "https://open.spotify.com/track/1T66KUOewj4WoG91CBfFFH"
+    },
+    {
+      "added_at": "2025-11-07 07:25:54",
+      "album": {
+        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Balaji",
+          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+        }
+      ],
+      "duration_ms": 273072,
+      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
     },
     {
       "added_at": "2025-10-14 10:55:31",
@@ -647,34 +671,6 @@
       "duration_ms": 219000,
       "name": "Bangaram Akkarleni (From \"23\")",
       "url": "https://open.spotify.com/track/3MKZzXXdJm8g59rlUZCVkt"
-    },
-    {
-      "added_at": "2025-03-27 06:06:12",
-      "album": {
-        "name": "Naalo Edho (From \"Santhana Prapthirasthu\")",
-        "url": "https://open.spotify.com/album/1hUauRVWlvm27DvncFmqdp"
-      },
-      "artists": [
-        {
-          "name": "Dinker kalvala",
-          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
-        },
-        {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
-        },
-        {
-          "name": "Sreejo",
-          "url": "https://open.spotify.com/artist/0h6zdOSfThWV5s4fx44Hoc"
-        },
-        {
-          "name": "Sunil Kashyap",
-          "url": "https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Naalo Edho - From \"Santhana Prapthirasthu\"",
-      "url": "https://open.spotify.com/track/6dby9ev6X8QVvaeesaK4UW"
     },
     {
       "added_at": "2025-06-03 05:36:27",

@@ -993,6 +993,36 @@
     },
     {
       "album": {
+        "name": "De De Pyaar De 2",
+        "url": "https://open.spotify.com/album/3kWsc7fZanfTC3fA1P1gIU"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201148,
+      "name": "Baabul Ve",
+      "url": "https://open.spotify.com/track/7544bd8CjwUVnLUPSyZHVA"
+    },
+    {
+      "album": {
         "name": "Baaki",
         "url": "https://open.spotify.com/album/4M4AZLajLYMgSFg1m4dgpY"
       },
@@ -1946,7 +1976,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 185869,
       "name": "Chaap Tilak",
       "url": "https://open.spotify.com/track/5SxizhhPXKLmFBhAF98Gxd"

@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,118 songs - 2 day 23 hr 55 min
+1,119 songs - 2 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-18 |  |
 | [Dreams About Change](https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [Dreams About Change](https://open.spotify.com/album/7fIIBv08dA6Nm8DSeu5whf) | 3:17 | 2023-05-25 |  |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-11-10 | 2025-10-01 |
-| [Drifting Apart](https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Drifting Apart](https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU) | 3:32 | 2023-05-18 | 2025-10-01 |
+| [Drifting Apart](https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Drifting Apart](https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU) | 3:32 | 2023-05-18 |  |
 | [Early Spring](https://open.spotify.com/track/1g9DjsrhhqP4crNrYsS1TY) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Early Spring](https://open.spotify.com/album/4k0FkqzLrEgDovXfESljSk) | 2:49 | 2024-03-08 |  |
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 |  |
 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 | 2023-08-18 | 2024-11-06 |
@@ -481,6 +481,7 @@
 | [Into The Unknown](https://open.spotify.com/track/5cSLtmuZmymDqxGxhJ0YSF) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Into The Unknown](https://open.spotify.com/album/0Ifmedg8QIdPrxzJm7eekM) | 2:37 | 2023-09-22 | 2024-05-24 |
 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-04-20 |  |
 | [Isfahan](https://open.spotify.com/track/1xUj0IyCqDQuMFIBbEel3s) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Isfahan](https://open.spotify.com/album/7KMTe6qasqhNYZknr4FMZ3) | 3:53 | 2024-04-23 |  |
+| [Isla’s Lament](https://open.spotify.com/track/7zUhvOYfWM52VkeBP0zDZW) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Isla’s Lament](https://open.spotify.com/album/5Frr1hMo5gIqn9qD8Vsfpt) | 3:26 | 2025-11-03 |  |
 | [Isle of Skye](https://open.spotify.com/track/73LQCAFiw2kiWQnqwlQPGg) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Isle of Skye](https://open.spotify.com/album/3dhOnlhtjBOIZYO3Dxmn04) | 3:36 | 2024-05-10 | 2025-10-01 |
 | [Islington](https://open.spotify.com/track/1BAUtnyRhDLfwK4l5RO4bN) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Maywood In My Heart](https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn) | 3:14 | 2023-05-04 | 2025-10-01 |
 | [It Could Be You](https://open.spotify.com/track/2FaDx6Rg1XlZddCJhkP7r1) | [Reverie Trio](https://open.spotify.com/artist/0gki82SIfNIueMwiROcD5x) | [It Could Be You](https://open.spotify.com/album/6T9yFiJcJWKCGr8oJkYaad) | 4:00 | 2024-01-19 |  |
@@ -1001,7 +1002,7 @@
 | [To the Place I Once Knew](https://open.spotify.com/track/6fXetLQlQZflyUCkK41EJs) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [To the Place I Once Knew](https://open.spotify.com/album/6n0zSi5tLfnjylSuZeyh28) | 2:50 | 2024-02-23 |  |
 | [Too Late Now](https://open.spotify.com/track/5MSV42dMBJZ21P8BxLCxum) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 8:54 | 2021-12-03 | 2025-10-01 |
 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 | 2023-04-14 |  |
-| [Torresdale](https://open.spotify.com/track/2K8Q1GWnm5hmK9J0Af64J1) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Torresdale](https://open.spotify.com/album/5BNKfCWraYs5eJIOW6PmiE) | 3:54 | 2024-04-10 |  |
+| [Torresdale](https://open.spotify.com/track/2K8Q1GWnm5hmK9J0Af64J1) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Torresdale](https://open.spotify.com/album/5BNKfCWraYs5eJIOW6PmiE) | 3:54 | 2024-04-10 | 2025-11-08 |
 | [Touch the Rain](https://open.spotify.com/track/3GfhoIHnXnpJpdkcIlbYMW) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Touch the Rain](https://open.spotify.com/album/2F22CZYdMUPlJewidsKPi7) | 3:41 | 2024-02-23 |  |
 | [Trav'lin Light](https://open.spotify.com/track/4Djv64pynMBVRER1eWxxCH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:07 | 2022-01-27 | 2023-10-13 |
 | [Traveling Day](https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Traveling Day](https://open.spotify.com/album/51eqBfg9k9GAh40Rq12vHH) | 5:41 | 2023-05-25 |  |
@@ -1026,7 +1027,7 @@
 | [Views Of Dawn](https://open.spotify.com/track/3zUaKDbqzQnoqkL0BSH3QI) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [Views Of Dawn](https://open.spotify.com/album/4nJdBEbnZwvdvp7OyAnCF1) | 6:13 | 2023-09-22 | 2024-02-27 |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
 | [Vinegar replacing honey](https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Vinegar replacing honey](https://open.spotify.com/album/7tCtyUnPDyb1hc6565GfC0) | 2:52 | 2024-02-02 | 2024-09-20 |
-| [Waiting](https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Waiting](https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk) | 3:20 | 2023-11-24 |  |
+| [Waiting](https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Waiting](https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk) | 3:20 | 2023-11-24 | 2025-11-08 |
 | [Wakering Steps](https://open.spotify.com/track/0hd35YPIojoTZNDlFMg4x1) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Wakering Steps](https://open.spotify.com/album/010oWMwZLt4KcFzSy2afsR) | 3:37 | 2024-06-27 | 2024-07-10 |
 | [Walk Away](https://open.spotify.com/track/3GusQLpr2foU14c82En19S) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Walk Away](https://open.spotify.com/album/6X70Wc5iw2UvF2unoNb43G) | 3:56 | 2023-11-17 | 2025-10-01 |
 | [Walk Beside Me](https://open.spotify.com/track/7eyXx9ngV1jkChWMPuR6al) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Walk Beside Me](https://open.spotify.com/album/2dNuBRAlgAWOXFyw3w6GOA) | 3:20 | 2024-05-10 | 2025-10-01 |

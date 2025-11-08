@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,417 likes - 61 songs - 3 hr 7 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,430 likes - 62 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 59 | [House Music Machine](https://open.spotify.com/track/5EdtzFlfikiWYCSWPNqve6) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [House Music Machine](https://open.spotify.com/album/3MHlZ6UgvQht8rl4hqmYq3) | 3:13 |
 | 60 | [Off The Clock](https://open.spotify.com/track/6VoRHJReczgAxZnnQj0p8F) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Off The Clock](https://open.spotify.com/album/2K1w4YeF4TJ9vDWIWilGQ5) | 3:11 |
 | 61 | [Diet Coke](https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO) | 2:35 |
+| 62 | [You Do Change](https://open.spotify.com/track/1VFNr2P8GqtCpO8rZRyTKQ) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [You Do Change](https://open.spotify.com/album/69nsTwzOHJ6OWx9jHRZ41L) | 3:17 |
 
-Snapshot ID: `AAAm+Pa7mf75sBdra3in1/TfU7cwuLay`
+Snapshot ID: `AAAm+QtE3LcrlLzsVIdqv08hGShWxtTG`

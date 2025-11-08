@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-622 songs - 1 day 14 hr 21 min
+623 songs - 1 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2022-05-13 | 2022-06-04 |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-08-30 | 2022-06-10 |
 | [1080p](https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 2:33 | 2021-08-30 | 2023-11-11 |
+| [1991](https://open.spotify.com/track/0xJA9Yc2qB9I5Rhs6UNK7Q) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [1991](https://open.spotify.com/album/5rBFtrFPKWL2s7aSRNpUfn) | 2:48 | 2025-11-07 |  |
 | [1999](https://open.spotify.com/track/0X5VFFweUxjPgyOqM3edeT) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo), [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [comic relief](https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou) | 3:28 | 2024-01-26 | 2024-02-17 |
 | [1:45AM \(feat\. Bearface\)](https://open.spotify.com/track/7dmcTMq4saNeKIBmG3m6Tq) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Bearface](https://open.spotify.com/artist/7yjWDiLDpsHxobHP1fWYh8) | [1:45AM \(feat\. Bearface\)](https://open.spotify.com/album/07jqb6FPwDeCOAtBg7tHjc) | 3:21 | 2020-12-22 | 2022-04-18 |
 | [1night](https://open.spotify.com/track/6NgFdt2XvqRacjK0BPgMi8) | [Daddy NAT](https://open.spotify.com/artist/49ZFag40tJxY9Q9kF0hp3B) | [1night](https://open.spotify.com/album/4HsTyyFCQ8XZodp9l4rHya) | 2:54 | 2022-05-13 | 2022-06-04 |
@@ -335,7 +336,7 @@
 | [Make Me Wanna](https://open.spotify.com/track/3a9GL4vO0HnWHosQAvYava) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Back on the Floor](https://open.spotify.com/album/422wyUBWorTg7TuAjzDmFA) | 3:22 | 2025-07-25 | 2025-09-14 |
 | [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 | 2025-06-06 |  |
 | [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-22 | 2022-07-24 |
-| [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 | 2025-05-09 |  |
+| [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 | 2025-05-09 | 2025-11-08 |
 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 | 2022-06-03 | 2023-04-20 |
 | [Matter of Time](https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh) | 4:00 | 2023-03-20 | 2023-09-18 |
 | [Matter of Time](https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 4:00 | 2023-08-25 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Karley Scott Collins
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,202 likes - 141 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,182 likes - 141 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

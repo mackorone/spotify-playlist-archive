@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,110 songs - 2 day 14 hr 4 min
+1,111 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [Lost My Way](https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Lost My Way](https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7) | 3:06 | 2023-11-03 | 2024-02-16 |
 | [Lotus](https://open.spotify.com/track/3phEyCMH5CW7e21bSfTJpx) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V) | [Lotus](https://open.spotify.com/album/06AIpflCIvYljD1FPbrU8J) | 3:24 | 2024-04-23 | 2024-07-12 |
 | [LOUDER](https://open.spotify.com/track/4p9c1dudsL928nIhcZn15q) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd) | [LOUDER](https://open.spotify.com/album/4J8zgXZhgXyC8iLGZb3jaN) | 2:20 | 2025-05-12 | 2025-08-06 |
+| [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 | 2025-11-07 |  |
 | [love & hardcore](https://open.spotify.com/track/1vLnkEgggQsD5sv5UFTedf) | [gladde paling](https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS) | [love & hardcore](https://open.spotify.com/album/2bHtt9XVu8blZVdY34acmI) | 1:36 | 2025-01-06 | 2025-03-29 |
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
 | [Love Me](https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Love Me](https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr) | 3:42 | 2023-02-03 | 2023-04-21 |

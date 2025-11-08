@@ -1909,8 +1909,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Endless Dance EP",
+        "url": "https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m"
       },
       "artists": [
         {
@@ -2418,6 +2418,24 @@
       "duration_ms": 317300,
       "name": "Full Belly",
       "url": "https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU"
+    },
+    {
+      "album": {
+        "name": "Fury EP",
+        "url": "https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi"
     },
     {
       "album": {
@@ -6032,24 +6050,6 @@
       "duration_ms": 236756,
       "name": "Toxic Waste",
       "url": "https://open.spotify.com/track/7szvdSmepMz8QMMBsD5pM2"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "date_added": "2025-11-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > club pop, glitch pop, dance pop and more 💋 cover: rose gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,505 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,482 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 17 | [These Drugs](https://open.spotify.com/track/6StrYer1heAIAk1yAW6yRp) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [The Terror Jr Album](https://open.spotify.com/album/6OyxyIKaIgiP5KbewgsTwg) | 3:38 |
 | 18 | [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 |
 | 19 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 |
-| 20 | [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [](https://open.spotify.com/album/null) | 2:49 |
+| 20 | [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:49 |
 | 21 | [EVERYTHING AT ONCE](https://open.spotify.com/track/7M9xRZm1gXwgkdKJLpaQ13) | [DEEJADE](https://open.spotify.com/artist/2SNdikRXdwh6utMvQ3LxPK) | [CAMO](https://open.spotify.com/album/6PeaRXu0PdCh6sPpWxEEE1) | 2:38 |
 | 22 | [STARGIRL](https://open.spotify.com/track/0NWBbdWDjQeUrPK5cPs7WV) | [BBY GOOSE](https://open.spotify.com/artist/6ECQtn213gfr2RnbL6x7pa) | [STARGIRL](https://open.spotify.com/album/59WyOci7jPVmv5H5gy0edH) | 2:37 |
-| 23 | [JUST TELL ME](https://open.spotify.com/track/0hR3NXXTPCBoHdPfjSapiz) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [](https://open.spotify.com/album/null) | 2:29 |
+| 23 | [JUST TELL ME](https://open.spotify.com/track/0hR3NXXTPCBoHdPfjSapiz) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [THE REPUBLIC OF MOTION](https://open.spotify.com/album/6PJkAsFlBTU5twaYKMHFiL) | 2:29 |
 | 24 | [SWAMP](https://open.spotify.com/track/7dnDohEztcy1zae8qIj5cl) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [SWAMP](https://open.spotify.com/album/3yTyctEU8LxnCU6B14DAXb) | 2:52 |
 | 25 | [Paris](https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Paris](https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy) | 2:22 |
 | 26 | [TEEN ANGST](https://open.spotify.com/track/2wVxFUGTFbN1WYNdba8mLj) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [SUPERLAME](https://open.spotify.com/album/30Xx1oiQTcXCTx2uGOZJ4e) | 2:42 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 28 | [Things I Really Mean](https://open.spotify.com/track/1ifdycBCHgcbRSMskdpSRB) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Things I Really Mean](https://open.spotify.com/album/3cxyV5ddJhlyCR9KmshfLR) | 2:42 |
 | 29 | [Miss Erotica](https://open.spotify.com/track/5PNy5elvtxQgYtossfpgAI) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Miss Erotica](https://open.spotify.com/album/4RCODSJEhuEtzxYai4toJa) | 2:30 |
 | 30 | [3AM in San Francisco](https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [3AM in San Francisco](https://open.spotify.com/album/4pSkt6nxEHn3LBrKf6XpQ2) | 2:26 |
-| 31 | [Track 6](https://open.spotify.com/track/5W5PwXbMWgqoVPxZuJvYgi) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [](https://open.spotify.com/album/null) | 0:00 |
+| 31 | [magic](https://open.spotify.com/track/5W5PwXbMWgqoVPxZuJvYgi) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [magic!](https://open.spotify.com/album/5H3iqGj64HLu2OsNrVmCUC) | 3:16 |
 | 32 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
 | 33 | [Loser](https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [00:00](https://open.spotify.com/album/2QokmcoSM5SNpFKMf9RuOJ) | 3:01 |
 | 34 | [KEY TO THE CASTLE](https://open.spotify.com/track/3Low5wYPYQGcwDHvSQRw9H) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER \(DELUXE\)](https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7) | 2:48 |

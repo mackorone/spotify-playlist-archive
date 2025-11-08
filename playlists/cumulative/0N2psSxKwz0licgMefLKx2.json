@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Sully Burrows",
+  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Shawn Desman, Dallas Smith",
   "name": "COUNTRY LIFE",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 219673,
       "name": "CRZY",
       "url": "https://open.spotify.com/track/2RPYFQOWTtTLiFyuoDwPdA"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 182862,
       "name": "How Do You Miss Me (feat. Alexandra Kay)",
       "url": "https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n"
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 226640,
       "name": "I'd Be Delighted",
       "url": "https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF"
@@ -4507,6 +4507,28 @@
     },
     {
       "album": {
+        "name": "One Good Life",
+        "url": "https://open.spotify.com/album/6oen1zKzVOJUWOdN2rtePz"
+      },
+      "artists": [
+        {
+          "name": "Shawn Desman",
+          "url": "https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV"
+        },
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "One Good Life",
+      "url": "https://open.spotify.com/track/29CCh6aLhAgPRN4TWpRBXB"
+    },
+    {
+      "album": {
         "name": "One Of Us",
         "url": "https://open.spotify.com/album/7k4OxnPKWsANIan8pfS6aK"
       },
@@ -4594,6 +4616,24 @@
       "duration_ms": 178774,
       "name": "Outta Yours",
       "url": "https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU"
+    },
+    {
+      "album": {
+        "name": "Over And Over",
+        "url": "https://open.spotify.com/album/1Le0seH2BDarhRsu6FQMVp"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181527,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/4GRVdfPyJw1XPVJoTxEs2u"
     },
     {
       "album": {
@@ -5262,6 +5302,24 @@
       "duration_ms": 179050,
       "name": "Single Again",
       "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
+    },
+    {
+      "album": {
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167226,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/6hyTFtcjGipSetWlZyGT2G"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 43968,
+  "num_followers": 43965,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQqTgAAAAACXCuhWwds/mWbmEBKwMCEV",
+  "snapshot_id": "aQvlAAAAAAA5nwH9CZcdJY98NEqtQKKn",
   "tracks": [
     {
       "added_at": null,
@@ -828,7 +828,7 @@
           "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 163170,
+      "duration_ms": 163171,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk"
     },
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suelta, Sola y Tranquila (feat. MYA)",
-        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
-      },
-      "artists": [
-        {
-          "name": "FABRO",
-          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 149929,
-      "name": "Suelta, Sola y Tranquila (feat. MYA)",
-      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insta (Remix)",
         "url": "https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 206772,
       "name": "Insta - Remix",
       "url": "https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suelta, Sola y Tranquila (feat. MYA)",
+        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
+      },
+      "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 149929,
+      "name": "Suelta, Sola y Tranquila (feat. MYA)",
+      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
     },
     {
       "added_at": null,

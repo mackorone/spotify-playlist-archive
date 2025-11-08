@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-227 songs - 9 hr 50 min
+228 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blessings](https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Blessings](https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB) | 2:26 | 2023-01-12 |  |
 | [Blissful](https://open.spotify.com/track/0dKxhW1wAA8YrvMhiEd1qd) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Blissful](https://open.spotify.com/album/1P5joE7OOG7lDdKENEMEZ6) | 2:14 | 2024-07-25 |  |
 | [Brecon](https://open.spotify.com/track/3SUPrCR11PWuUpM2hopS4A) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP) | [Brecon](https://open.spotify.com/album/76S9heYns7ZmyMc9RBE0wY) | 2:15 | 2025-02-21 |  |
+| [brief staycation](https://open.spotify.com/track/1ZipyL9f6fwhuSEnh9Z5gO) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [brief staycation](https://open.spotify.com/album/2SdYBTDZjriMIdyAqphN2S) | 2:11 | 2025-02-21 |  |
 | [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 |  |
 | [cascades](https://open.spotify.com/track/7z3euqNn3PvyVAFjdDwSMR) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf) | [cascades](https://open.spotify.com/album/4QKXfYNfoT576G4NPccav2) | 2:09 | 2024-09-13 | 2025-05-15 |
 | [Central Park](https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Central Park](https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5) | 2:43 | 2023-06-20 |  |
@@ -39,7 +40,7 @@
 | [Circles](https://open.spotify.com/track/3AN1XehfQNYZ1j0VUCezhU) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:05 | 2023-01-12 | 2024-11-01 |
 | [citynights](https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx) | [Ny Cic](https://open.spotify.com/artist/3xmRTk6mD5NZTBGI05KIZ9) | [citynights](https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF) | 2:14 | 2023-03-16 | 2025-02-22 |
 | [Clap Clap](https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Clap Clap](https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk) | 2:39 | 2023-01-13 | 2024-10-01 |
-| [Class](https://open.spotify.com/track/3jfb2El9s0DKukAvOpON9a) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [No\. 18](https://open.spotify.com/artist/1p6OSG0rFg8ISBQXjWsfgm), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Class](https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo) | 2:53 | 2023-01-12 |  |
+| [Class](https://open.spotify.com/track/3jfb2El9s0DKukAvOpON9a) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [No\. 18](https://open.spotify.com/artist/1p6OSG0rFg8ISBQXjWsfgm), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Class](https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo) | 2:53 | 2023-01-12 | 2025-11-08 |
 | [clocks](https://open.spotify.com/track/2YHZ52RVwbnzyMjGvZYtMN) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [clocks](https://open.spotify.com/album/77zz5vKU1zlkvRhmMD6ZtT) | 2:20 | 2024-06-14 | 2024-06-22 |
 | [Cortado](https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [Beats alFredo](https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Cortado](https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C) | 2:22 | 2024-07-12 |  |
 | [Counterbalanced](https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Boulevards](https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ) | 2:39 | 2024-07-25 |  |

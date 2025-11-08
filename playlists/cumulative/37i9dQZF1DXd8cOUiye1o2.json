@@ -57,6 +57,24 @@
     },
     {
       "album": {
+        "name": "Marammat",
+        "url": "https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269160,
+      "name": "3am Thoughts",
+      "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
+    },
+    {
+      "album": {
         "name": "Sarzameen",
         "url": "https://open.spotify.com/album/3MkB7eGjFBB28JO3mr5qsg"
       },
@@ -136,6 +154,24 @@
       "duration_ms": 159323,
       "name": "Aakhir Kaar",
       "url": "https://open.spotify.com/track/1Isv32Lh3gfF7Co39zY9DZ"
+    },
+    {
+      "album": {
+        "name": "De De Pyaar De 2",
+        "url": "https://open.spotify.com/album/3kWsc7fZanfTC3fA1P1gIU"
+      },
+      "artists": [
+        {
+          "name": "Sagar Bhatia",
+          "url": "https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289155,
+      "name": "Aakhri Salaam",
+      "url": "https://open.spotify.com/track/79SyqmUY7pif6VKETDpQNk"
     },
     {
       "album": {
@@ -470,6 +506,44 @@
       "duration_ms": 164285,
       "name": "Aisi Mulaqaat",
       "url": "https://open.spotify.com/track/6kWBpnY5jGQiohGqUbkViW"
+    },
+    {
+      "album": {
+        "name": "The Indian Odyssey",
+        "url": "https://open.spotify.com/album/3mVJQ781oWwn3j5GBvCAc4"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Piyush Kapoor",
+          "url": "https://open.spotify.com/artist/3QSkMsj71gq33qVAGpXNp8"
+        },
+        {
+          "name": "Kutla Khan",
+          "url": "https://open.spotify.com/artist/3QeLh04JbTRjv2R5Efn57J"
+        },
+        {
+          "name": "Chotu Khan",
+          "url": "https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p"
+        },
+        {
+          "name": "Dara Khan",
+          "url": "https://open.spotify.com/artist/29V0o7C2TnIoHRwgXeBpwh"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220907,
+      "name": "Akashic Tapestry - Zardozi",
+      "url": "https://open.spotify.com/track/1NWJBFL6ksnQliidupQs6G"
     },
     {
       "album": {
@@ -1659,6 +1733,28 @@
     },
     {
       "album": {
+        "name": "Channa",
+        "url": "https://open.spotify.com/album/5jzFP8czTYIa5Ske04gLbz"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Channa",
+      "url": "https://open.spotify.com/track/5ucEdvW2XncIpE2bMTM2Yd"
+    },
+    {
+      "album": {
         "name": "Chup Rehne Do Aaj",
         "url": "https://open.spotify.com/album/7xQlMbZEYEIRYpocJqHpzu"
       },
@@ -2320,7 +2416,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 165600,
       "name": "Dildaari",
       "url": "https://open.spotify.com/track/2dIHfDsiRdUx4Ga50ptfwM"
@@ -3376,7 +3472,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 175609,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/75zo4m7jrMcZVbe1gQp3VD"
@@ -4137,7 +4233,7 @@
     },
     {
       "album": {
-        "name": "Jogiya (From \"Bhoomi 2025\")",
+        "name": "Jogiya (Bhoomi 2025)",
         "url": "https://open.spotify.com/album/2KSpPceIc25p8AtAWTzSz6"
       },
       "artists": [
@@ -4162,7 +4258,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 249720,
-      "name": "Jogiya (From \"Bhoomi 2025\")",
+      "name": "Jogiya (Bhoomi 2025)",
       "url": "https://open.spotify.com/track/538w9eujfTBKBruTuj5Tzh"
     },
     {
@@ -5556,7 +5652,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 106800,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/59eTrUDqBDyG6ZvYPB6oMp"
@@ -5804,7 +5900,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 210680,
       "name": "Naseeb",
       "url": "https://open.spotify.com/track/5W2hc20sbdk3agcXpYpfBA"
@@ -8229,6 +8325,32 @@
     },
     {
       "album": {
+        "name": "Tu Hi Meri Bandagi",
+        "url": "https://open.spotify.com/album/2VKwrGTHygaFjCshwUP3be"
+      },
+      "artists": [
+        {
+          "name": "Soham Naik",
+          "url": "https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM"
+        },
+        {
+          "name": "Vikas Bedi",
+          "url": "https://open.spotify.com/artist/3z0eudbRd8LIgD8xdDytwR"
+        },
+        {
+          "name": "Manish Bedi",
+          "url": "https://open.spotify.com/artist/1hAYsQSB4F3ajtidq8vGhJ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189699,
+      "name": "Tu Hi Meri Bandagi",
+      "url": "https://open.spotify.com/track/2iOjni0hEBKvK5d3U5aNTj"
+    },
+    {
+      "album": {
         "name": "Tu Kahan",
         "url": "https://open.spotify.com/album/3517f2paPRHjXd8A3J8aWD"
       },
@@ -8448,7 +8570,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 300925,
       "name": "Tum Jo Kaho Toh (From \"Bhoomi 2025\")",
       "url": "https://open.spotify.com/track/2sTRtB12lOopJRGhqkfYyG"
@@ -8774,7 +8896,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 268076,
       "name": "Yaar Mere (From \"Homebound\")",
       "url": "https://open.spotify.com/track/2vCTJnnEr7zelRxM3FGDCk"
@@ -8990,6 +9112,24 @@
       "duration_ms": 222065,
       "name": "Yuhi Safar - From \"Aankhon Ki Gustaakhiyan\"",
       "url": "https://open.spotify.com/track/6P1Q9Ewmjk1kZQhL4nGVNa"
+    },
+    {
+      "album": {
+        "name": "Yun Hi Kahin",
+        "url": "https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203392,
+      "name": "Yun Hi Kahin",
+      "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring freak slug 🧩
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,368 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,323 likes - 120 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Miss June](https://open.spotify.com/track/7v0T7tCD2DMJzF0rpWtCCs) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [](https://open.spotify.com/album/null) | 3:01 |
+| 1 | [Miss June](https://open.spotify.com/track/7v0T7tCD2DMJzF0rpWtCCs) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Loose Tooth And A Short Skirt](https://open.spotify.com/album/0rpFFe4mOIl3veH6coOl2B) | 3:01 |
 | 2 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Earthday](https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm) | 3:00 |
 | 3 | [Sofia](https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [Sofia](https://open.spotify.com/album/38ZWo5i7WiRXodK7c3HUSA) | 2:24 |
-| 4 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [](https://open.spotify.com/album/null) | 2:32 |
+| 4 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 |
 | 5 | [MACHINE GHOST](https://open.spotify.com/track/2V81aHl0iP9DYsqP3YzoLI) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [MACHINE GHOST](https://open.spotify.com/album/3TkmekJyEsvoyiKLWjNfz6) | 3:44 |
 | 6 | [Cruel Lover](https://open.spotify.com/track/3Mh7mMOetadl22rdUBVbMQ) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [Cruel Lover](https://open.spotify.com/album/2gjIgSUjNaXklJybK2hztB) | 2:27 |
 | 7 | [over n' out](https://open.spotify.com/track/5Sbh00A5kDS12tI7Zkl7AA) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 4:28 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 23 | [WHAT’S THE REASON?](https://open.spotify.com/track/3B8ImluWjECLwyWi3Bd455) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [WHAT’S THE REASON?](https://open.spotify.com/album/4xIUXkQHnrtQN2x1C7Ls1V) | 2:12 |
 | 24 | [Sugarloaf](https://open.spotify.com/track/2GPm0LMrCQrmIunuEOViqf) | [anna leah](https://open.spotify.com/artist/5e9KbGgdnBvD8H1marauXz) | [Sugarloaf](https://open.spotify.com/album/3VGA1pcA9EJCr0HvbgCiL0) | 3:32 |
 | 25 | [Yes!! I'm Sure!!! Really Love!!!!](https://open.spotify.com/track/68FiVOXG9qEAd1iq5Da8sN) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [bite polite](https://open.spotify.com/album/6uywDIMbZYfTVfA2aReUPt) | 2:29 |
-| 26 | [Track 6](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [](https://open.spotify.com/album/null) | 0:00 |
+| 26 | [Next To You](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Fleeting](https://open.spotify.com/album/2jRGNs15u6y8wlqUuyCUbJ) | 3:38 |
 | 27 | [Baby Steps](https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:17 |
 | 28 | [RUNTIME](https://open.spotify.com/track/6xRPYdFsgRiueld8r6pwBu) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [STILL LIFE](https://open.spotify.com/album/365n5oKpXvLf8lMPq8vWgN) | 2:36 |
 | 29 | [i don't wanna die today](https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [i don't wanna die today](https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml) | 2:55 |

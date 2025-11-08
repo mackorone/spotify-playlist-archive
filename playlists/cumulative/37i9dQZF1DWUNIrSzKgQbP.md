@@ -4,7 +4,7 @@
 
 > Falling leaves and cozy tunes.
 
-799 songs - 2 day 2 hr 5 min
+803 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Flora](https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Flora](https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD) | 4:08 | 2023-06-21 | 2025-09-23 |
 | [Flowers in Your Hair](https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 1:49 | 2022-06-07 | 2023-08-31 |
 | [Flowers In Your Hair](https://open.spotify.com/track/5WObuDOxPHlQaoYUf2W4lh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7) | 1:50 | 2024-05-20 | 2025-09-23 |
+| [Fluorescent Light](https://open.spotify.com/track/1bhOhI3xUf89gDYoHMd5WX) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Fluorescent Light + Boars](https://open.spotify.com/album/2Cr6Ys4sCsknBXqQZ1G9pB) | 3:14 | 2025-11-07 |  |
 | [Fly](https://open.spotify.com/track/6NjJqhRlZ2D8sJ9IrO16O4) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 2:43 | 2023-03-15 | 2024-05-21 |
 | [Fly \(Acoustic\)](https://open.spotify.com/track/2VLYABvds8TYxshr8NRJYz) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More: The Worktapes](https://open.spotify.com/album/4N2B94ntsBdgpdlQFfa7EO) | 2:55 | 2024-01-12 | 2025-03-21 |
 | [Follow The Sun](https://open.spotify.com/track/4i9GQi9Fhr20Fwif0iJ7R2) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/5IQoA6DsjnLWif9vgVE91h) | 4:15 | 2022-06-07 | 2022-07-29 |
@@ -425,6 +426,7 @@
 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 | 2025-07-18 | 2025-09-23 |
 | [Mind on Fire](https://open.spotify.com/track/3n3PVJbIY4NVSkrxQUYD1X) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/5trx5tQegiqMUs45EPPFNp) | 3:14 | 2022-06-07 | 2022-09-07 |
 | [Mind on Fire](https://open.spotify.com/track/7MceywZ2DJ5WpLbU81aV3J) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod) | 3:14 | 2022-06-07 | 2022-07-29 |
+| [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-11-07 |  |
 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 | 2022-06-07 | 2022-09-07 |
 | [Minneapolis Cold](https://open.spotify.com/track/36OJDRPWTJGiIBTA3aCNGG) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Minneapolis Cold](https://open.spotify.com/album/0fFFWq9vCPF9dmnCLWvRNe) | 3:59 | 2021-12-20 | 2022-03-22 |
 | [mood ring baby](https://open.spotify.com/track/3cfeJE1UxGSOdtaQPkR2nd) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [fade into the dawn](https://open.spotify.com/album/6ZXR63Ak9IBfg6NkbBxFKA) | 4:41 | 2022-12-21 | 2023-03-16 |
@@ -648,6 +650,7 @@
 | [Swimming](https://open.spotify.com/track/69cm7J1zKMbS9z4oYObomm) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Swimming](https://open.spotify.com/album/6ky6l2QBoPeXe3Zrfym3sO) | 4:12 | 2022-09-06 | 2022-12-21 |
 | [Swing and Turn Jubilee](https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [Fruit](https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ) | 4:09 | 2023-12-15 | 2025-03-21 |
 | [Sword from the Stone](https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/0LjVT3fUFE8bBh3gjQdzOo) | 3:21 | 2021-12-20 | 2022-03-22 |
+| [Take Me Home](https://open.spotify.com/track/7x4IUDV7pPqzDalV8eKwHd) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Take Me Home](https://open.spotify.com/album/6v5mDjDZtHTz84VtV4iPnA) | 3:00 | 2025-11-07 |  |
 | [Take Me Home](https://open.spotify.com/track/0nbQvHWnm5Wq25SFXpfQGp) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1BlAEi3GIMvEU3grYkLq5t) | 3:01 | 2022-03-21 | 2022-06-08 |
 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2024-07-02 | 2024-08-29 |
 | [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-06-07 | 2022-09-07 |
@@ -742,6 +745,7 @@
 | [Walk Me Home](https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Walk Me Home](https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4) | 4:37 | 2022-09-06 | 2022-12-21 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2023-03-15 | 2025-09-23 |
 | [Wasteland](https://open.spotify.com/track/1ATdUJ4oNvopF5wOomvWaV) | [Alison Sudol](https://open.spotify.com/artist/5JpFdmGP5YVR80hwTyjhW0) | [Still Come The Night](https://open.spotify.com/album/0kY20tMUK3Z3cp9G4WiTO6) | 4:00 | 2022-12-21 | 2023-03-16 |
+| [Watchin](https://open.spotify.com/track/0PCAf03GaD6hm5VepAh7Xw) | [Nicholas Creus](https://open.spotify.com/artist/2UqrObU2Do3nyUr80zIxn9) | [Watchin](https://open.spotify.com/album/6GV7D6eMEkCAetfDLEo4cx) | 2:20 | 2025-11-07 |  |
 | [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 | 2025-09-22 |  |
 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 | 2025-07-18 | 2025-09-23 |
 | [Wayside](https://open.spotify.com/track/1qIktGpjJbiikPxFDbuh1L) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Been on Your Side](https://open.spotify.com/album/6PuVP3H5LwsKWUy9wytMVo) | 2:37 | 2022-06-07 | 2022-07-29 |

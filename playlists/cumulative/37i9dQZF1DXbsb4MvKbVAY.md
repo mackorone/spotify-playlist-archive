@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Jaakko Kulta.
 
-1,792 songs - 3 day 17 hr 48 min
+1,793 songs - 3 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 | 2024-11-28 | 2024-12-13 |
 | [At Least I Tried](https://open.spotify.com/track/36gKeSF6K1y2t5Aj23DZqz) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [At Least I Tried](https://open.spotify.com/album/2FYid55RX0xvk96IPOlu7L) | 3:05 | 2024-07-18 | 2024-07-27 |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-24 | 2025-09-05 |
-| [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [](https://open.spotify.com/album/null) | 2:42 | 2025-11-06 |  |
+| [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 | 2025-11-06 |  |
 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-07-02 | 2024-08-30 |
 | [AURA](https://open.spotify.com/track/4t8h8yMNmBpeHQYi8FfIUI) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [AURA](https://open.spotify.com/album/42KcHxSUIFwxvj72vIuOjf) | 2:10 | 2025-05-08 | 2025-05-16 |
 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 | 2024-07-02 | 2024-07-19 |
@@ -1132,6 +1132,7 @@
 | [out of body](https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [out of body](https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE) | 2:55 | 2025-09-25 | 2025-10-20 |
 | [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-28 | 2024-12-06 |
 | [Out Of Time](https://open.spotify.com/track/16eeISX34cLudm3hEp8ooz) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Out Of Time](https://open.spotify.com/album/6GQyYJdo4nC1jfFMcosxJD) | 2:36 | 2025-04-24 | 2025-05-09 |
+| [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 | 2025-11-06 |  |
 | [Outoja unia \(feat\. Kumma José\)](https://open.spotify.com/track/7Jj5JuuZAog8yd4F33h9Wq) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN), [Kumma José](https://open.spotify.com/artist/3xdVNHKbThYuZSQ2sXV3iR) | [Outoja unia \(feat\. Kumma José\)](https://open.spotify.com/album/0QjEnxzRAaKmHJT0y9aQ7a) | 2:38 | 2025-09-11 | 2025-10-03 |
 | [P\-ralli](https://open.spotify.com/track/28qrMoNw10RZBlF9kONeYY) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [P\-ralli](https://open.spotify.com/album/3UA2Ezi0FqHXvZkuHo0Z2n) | 2:49 | 2024-10-17 | 2024-11-01 |
 | [paha mieli](https://open.spotify.com/track/68dK0nMywXxxdPvKtkk61j) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [paha mieli](https://open.spotify.com/album/4WNIf4U7BavEmvtoAUHdeQ) | 2:49 | 2025-06-12 | 2025-06-27 |
@@ -1793,7 +1794,7 @@
 | [Äitis unohti opettaa](https://open.spotify.com/track/6StIdMFQP6DN1ubpW1C5r1) | [Sofia Autio](https://open.spotify.com/artist/4P4GmcWwG2U9kZfBzoGNGQ) | [Äitis unohti opettaa](https://open.spotify.com/album/30DGveEwZOhPonsxGG1oGz) | 3:05 | 2025-02-27 | 2025-03-07 |
 | [Älä huoli musta](https://open.spotify.com/track/4pMHOTYk6fOxwQ4ZUxGCIb) | [satu](https://open.spotify.com/artist/0fvfbRyjT4wCwKmn2n9FDx) | [Älä huoli musta](https://open.spotify.com/album/55rBJNROrblk9opsz1Fpzo) | 2:22 | 2024-11-28 | 2024-12-06 |
 | [Älä mee](https://open.spotify.com/track/0sUAHX8x5rX8lEHOMMn6xo) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [Älä mee](https://open.spotify.com/album/0E1rPmkj8jfpBXHoeDTAuy) | 3:21 | 2024-11-28 | 2024-12-06 |
-| [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [](https://open.spotify.com/album/null) | 2:52 | 2025-11-06 |  |
+| [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 | 2025-11-06 |  |
 | [Älä tuu kyselee](https://open.spotify.com/track/5WtrsvJdBLJOwzFeMEnKHp) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Älä tuu kyselee](https://open.spotify.com/album/7AlvANqxKYuT5oK7lmD9qr) | 3:41 | 2025-05-22 | 2025-05-30 |
 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 | 2024-09-05 | 2024-10-04 |
 | [Äänivalli](https://open.spotify.com/track/0zrApQfM5vZK0DYi4MhhuJ) | [Aurora](https://open.spotify.com/artist/6B7tHfJGL5rnIxNQLN8Hp0) | [Äänivalli](https://open.spotify.com/album/7xG2gaBnU4UPMLoCBMyY8G) | 2:26 | 2025-05-08 | 2025-05-16 |

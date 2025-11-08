@@ -4,7 +4,7 @@
 
 > Bluegrass fit for the holiday season
 
-111 songs - 5 hr 53 min
+113 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,14 @@
 | [Coal for Christmas](https://open.spotify.com/track/2sGgEfGwPODKVZDaxg4Y6g) | [Mountain Dew Maynard](https://open.spotify.com/artist/7gn7aRwbahL4FKcOXCh3PF) | [Coal for Christmas](https://open.spotify.com/album/7bDe23NzxebQp9t52aVrk1) | 3:08 | 2024-11-29 |  |
 | [Come See The Star](https://open.spotify.com/track/6FValP9g547nnXC55OGLju) | [The Whites](https://open.spotify.com/artist/75d2SGqtUsggybmf1BlbPd) | [Christmas Star](https://open.spotify.com/album/034L89mT0p9fnXRgQbdBmu) | 2:37 | 2024-11-29 |  |
 | [Come Some Winter Morning \(feat\. The Kruger Brothers\)](https://open.spotify.com/track/0qr7fSpAjaQQxRMzRqJ2UW) | [Irene Kelley](https://open.spotify.com/artist/23HcZ91h1agwBsyrwhrDvy), [Kruger Brothers](https://open.spotify.com/artist/2VKdUZfz4ILSHoqU53Oxmr) | [Snow White Memories](https://open.spotify.com/album/4bGggCYHepxqZWFQ4yAbSI) | 2:23 | 2024-11-29 |  |
+| [Corn Whiskey Christmas](https://open.spotify.com/track/1rxFCPa9JzuVY3NGOqB6Ly) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Corn Whiskey Christmas](https://open.spotify.com/album/7CiLChR6cn5pPJIXX9458C) | 3:12 | 2025-11-07 |  |
 | [Country Christmas](https://open.spotify.com/track/2mzMt5gDXzQNliZhDMe93f) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Holiday Favorites, Vol\. 1](https://open.spotify.com/album/44GpvHR3xiFQeSEcGJz3rd) | 2:31 | 2024-12-06 |  |
 | [Dancing in the Snow](https://open.spotify.com/track/36Qz1rKJepEWooyyhI42aN) | [Tammy Rogers](https://open.spotify.com/artist/3wbkQhbAgMFxkiEjyEmsdS), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Dancing in the Snow](https://open.spotify.com/album/3RMKDkTFPSpI1FZQuU20O3) | 2:25 | 2024-11-29 |  |
 | [Danse Of The Sugar Plum Fairies](https://open.spotify.com/track/1UIe6RbL6xDiaToGN4nk3V) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe), [Alash Ensemble](https://open.spotify.com/artist/27hBqhUVPnkDTP6hDFLlOe) | [Jingle All the Way](https://open.spotify.com/album/5hqftgd3Y5ENR47T0JrshF) | 3:29 | 2024-11-29 |  |
 | [Deck The Halls](https://open.spotify.com/track/7Hz3DzGesy5A5N758T9nsz) | [Jim Bows & The Flycatchers](https://open.spotify.com/artist/0U0pUhmntI6hEFvdro8a6Q) | [Deck The Halls](https://open.spotify.com/album/1tGoRbqNTUxOiypWHh5O0s) | 2:24 | 2024-11-29 |  |
 | [Do You Hear What I Hear](https://open.spotify.com/track/3YCcKiejZFtJb9hyXxLhG7) | [Darin and Brooke Aldridge](https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK) | [Hometown Holiday](https://open.spotify.com/album/4AL5JfV4LMi0caIWNCr0B8) | 4:09 | 2024-11-29 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4rRQa7HvvEBZRroCgVx6fk) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Jerry Christmas](https://open.spotify.com/album/4CloZGS0oU6rV342Bfo6hk) | 3:41 | 2024-11-29 |  |
+| [Fairytale of New York \(feat\. Ketch Secor\)](https://open.spotify.com/track/22h7yy3vsWAuRXjqOHXG25) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Ketch Secor](https://open.spotify.com/artist/2aqTRwwChQlJmPzvR0C227) | [Fairytale of New York \(feat\. Ketch Secor\)](https://open.spotify.com/album/0IAjdQWT8c59TnHq0AXhvG) | 4:25 | 2025-11-07 |  |
 | [Frosty Pines](https://open.spotify.com/track/5YoPJY38CKxKREtzZ7oCit) | [Troy Engle](https://open.spotify.com/artist/4y1vRzdktqutcpNoKscVBz) | [Frosty Pines](https://open.spotify.com/album/7jFTNoHMp8MmNmkWGy7GuI) | 2:55 | 2024-11-29 |  |
 | [Frozen In Time](https://open.spotify.com/track/7nS3cOYWfmvSVCBGS3r0QY) | [Stephen Mougin](https://open.spotify.com/artist/4D7CQP2rjJJMajovIOE6Su), [Jana Mougin](https://open.spotify.com/artist/5N2V3JO6Le4Vu2sKeHRfPS) | [Frozen In Time](https://open.spotify.com/album/1kNKZoWQpw93UtwWWOf1z0) | 3:40 | 2024-12-13 |  |
 | [Getting Ready for a Baby](https://open.spotify.com/track/4tb10458oaD8y12Br1s0Jn) | [Volume Five](https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX) | [Getting Ready for a Baby](https://open.spotify.com/album/5GvepOT5o7dpcZZxFKH3m7) | 3:22 | 2024-11-29 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Chuyin",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Estevie",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -1054,6 +1054,28 @@
       "duration_ms": 213248,
       "name": "ADX",
       "url": "https://open.spotify.com/track/1g7FFlgVIIPK3M2cY4iCWy"
+    },
+    {
+      "album": {
+        "name": "aeternum",
+        "url": "https://open.spotify.com/album/5VILgC5bM0zc9pJ01r1ETm"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "aeternum",
+      "url": "https://open.spotify.com/track/4Cs1lcghoJT5viTN5JuNzX"
     },
     {
       "album": {
@@ -2807,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "BB PA DONDE",
+        "url": "https://open.spotify.com/album/6Bwj69yLgbNqzDJgIhKBNR"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168021,
+      "name": "BB PA DONDE",
+      "url": "https://open.spotify.com/track/65pDDQOeXOR5QUM9GEWaNM"
+    },
+    {
+      "album": {
         "name": "BBV",
         "url": "https://open.spotify.com/album/1v6qsZCn0pVjeD1GpW1PhJ"
       },
@@ -3008,6 +3048,24 @@
       "duration_ms": 191332,
       "name": "Bendiciones pa' los m\u00edos",
       "url": "https://open.spotify.com/track/0as4ISRwaPg10w48HGoJvl"
+    },
+    {
+      "album": {
+        "name": "Bendito",
+        "url": "https://open.spotify.com/album/5rNq7aHIp9XZAGnAB9YMXX"
+      },
+      "artists": [
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164222,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/5lO4wLpJSYmcm2gPsZb9qf"
     },
     {
       "album": {
@@ -5662,7 +5720,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 186852,
       "name": "Cosa Del Pasado",
       "url": "https://open.spotify.com/track/2JO8v6C9HaDBJNC9lWQrIT"
@@ -5986,7 +6044,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 209110,
       "name": "CUANTAS VECES",
       "url": "https://open.spotify.com/track/7yJSRJv6x0T9NiXg9XHPwb"
@@ -7252,7 +7310,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 128276,
       "name": "DISCOTECA",
       "url": "https://open.spotify.com/track/0KIRlrBShTbDMb9SSB0gQ3"
@@ -7505,6 +7563,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/5MylWPrTAFU6o7qqdMzWqO"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210016,
+      "name": "DOPAMINA",
+      "url": "https://open.spotify.com/track/6FZgPSk98dzmB0DKXl9pSD"
+    },
+    {
+      "album": {
         "name": "Obsessed Pt. 2",
         "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
       },
@@ -7632,7 +7708,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 150315,
       "name": "D\u00c9JAME",
       "url": "https://open.spotify.com/track/4w0CDJpq3UYndHYU4M62hF"
@@ -9790,7 +9866,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 168934,
       "name": "EMPEDERNIDO",
       "url": "https://open.spotify.com/track/0Pj52KQNP9HdFsyDFxGUdm"
@@ -10500,6 +10576,24 @@
       "duration_ms": 189846,
       "name": "Es Dificil",
       "url": "https://open.spotify.com/track/5q1WSs2Gh9IeaYEExo6Leb"
+    },
+    {
+      "album": {
+        "name": "La Traici\u00f3n y El Contrabando",
+        "url": "https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178397,
+      "name": "esa fui yo",
+      "url": "https://open.spotify.com/track/54VjEorHcET8CEvFjijhzv"
     },
     {
       "album": {
@@ -18892,7 +18986,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 158840,
       "name": "MVP",
       "url": "https://open.spotify.com/track/4Eqe4SB2vnbVrDdRydHku3"
@@ -19212,6 +19306,28 @@
       "duration_ms": 129953,
       "name": "Negro Como La Pantera",
       "url": "https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg"
+    },
+    {
+      "album": {
+        "name": "NENA MALDICI\u00d3N",
+        "url": "https://open.spotify.com/album/7BOAPCq2tPFT9kmUT0dwka"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171316,
+      "name": "NENA MALDICI\u00d3N",
+      "url": "https://open.spotify.com/track/1FUz5190iNSO9nxmMBYvWG"
     },
     {
       "album": {
@@ -20346,7 +20462,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 186016,
       "name": "No Tenerte Duele M\u00e1s",
       "url": "https://open.spotify.com/track/6wVwkLFuOhCIncRT2l4i7k"
@@ -22193,6 +22309,28 @@
     },
     {
       "album": {
+        "name": "Pi\u00f1atas",
+        "url": "https://open.spotify.com/album/5SbPt24Z98pi0lt4EV15sG"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178608,
+      "name": "Pi\u00f1atas",
+      "url": "https://open.spotify.com/track/1kEKJ4FYCI73RR0owm4mMP"
+    },
+    {
+      "album": {
         "name": "Ando En Lo M\u00edo",
         "url": "https://open.spotify.com/album/2tEVr2cieLQYhf4WZMGz6v"
       },
@@ -23180,6 +23318,24 @@
       "duration_ms": 134520,
       "name": "Que Le Vaya Bien",
       "url": "https://open.spotify.com/track/41CGq6U7sdNKi6oo0SG8io"
+    },
+    {
+      "album": {
+        "name": "Que Mal",
+        "url": "https://open.spotify.com/album/2MgfNo9Aajfa3LyXidLTUU"
+      },
+      "artists": [
+        {
+          "name": "Giovanni V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/4uwo70JDuIt4LDWDUb1WlT"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218177,
+      "name": "Que Mal",
+      "url": "https://open.spotify.com/track/2GsYGKhQu8zqbIX3ke2ku8"
     },
     {
       "album": {
@@ -28872,7 +29028,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 163050,
       "name": "Va Pa' Largo",
       "url": "https://open.spotify.com/track/5hUUPFyteR0Fdiewtwj3EP"

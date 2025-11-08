@@ -2,15 +2,16 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring Ninajirachi.
+> Celebrating women at the center of innovation in electronic music\. Featuring Kelly Lee Owens.
 
-699 songs - 1 day 19 hr 49 min
+702 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2024-03-01 | 2024-04-27 |
 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 | 2024-04-19 | 2024-06-08 |
 | [1/17](https://open.spotify.com/track/5cwjNspmIDLehxMTfX2NIC) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/3WehGHIYOKvthEqIs8E8ID) | 4:12 | 2025-03-21 |  |
+| [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 | 2025-11-07 |  |
 | [1997](https://open.spotify.com/track/2f0lRSu8jgmghBGJHw60fO) | [Jossy Mitsu](https://open.spotify.com/artist/7BwNdOufmdK919y4NHtF2a) | [Planet J](https://open.spotify.com/album/2aGL2535GZrXsLdjygoYsq) | 5:56 | 2021-03-01 | 2024-03-02 |
 | [200417 \- Edit](https://open.spotify.com/track/7rID1ForJ2U3YT6N8oVMbO) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [200417](https://open.spotify.com/album/4FRtnSXpP8V8sUuLx2wbuO) | 4:12 | 2023-03-07 | 2024-03-02 |
 | [2011](https://open.spotify.com/track/1yR8bzEUw1hNCwdl0oXXWV) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [2011](https://open.spotify.com/album/2BAazPbKqWC2V8HbcINUdg) | 4:29 | 2025-04-25 | 2025-08-24 |
@@ -26,7 +27,7 @@
 | [Act A Fool](https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8) | [Charlie Powell](https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru) | [Act A Fool](https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh) | 2:31 | 2025-01-10 | 2025-05-31 |
 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 | 2024-03-01 | 2024-05-11 |
 | [Aestheti\-Q](https://open.spotify.com/track/3pphe8LpDho2marzK8kmWu) | [Yetsuby](https://open.spotify.com/artist/3iTRvuekVM4DQ7t2bWSv1l) | [Aestheti\-Q](https://open.spotify.com/album/6uvNeCz7rHlL6NLjigCsJk) | 3:50 | 2025-01-24 | 2025-04-05 |
-| [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 | 2025-06-28 |  |
+| [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 | 2025-06-28 | 2025-11-08 |
 | [AIR](https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [AIR](https://open.spotify.com/album/18gB7JgKL82pJ2SVBsNL2T) | 4:20 | 2025-05-30 | 2025-09-13 |
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-07 | 2024-07-13 |
 | [Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Airglow](https://open.spotify.com/album/2aPKoJXKtbfzZHbI6gVzyB) | 4:50 | 2025-09-12 |  |
@@ -261,7 +262,7 @@
 | [girls just wanna have fun](https://open.spotify.com/track/2E6akA4GVkpu5jDDzbYH7d) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [girls just wanna have fun](https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh) | 2:31 | 2024-07-12 | 2024-12-21 |
 | [girls just wanna have fun](https://open.spotify.com/track/56xhTPqdsyUNbUKk6KXMlc) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 2:31 | 2024-11-25 |  |
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-16 | 2025-02-08 |
-| [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 | 2025-08-22 |  |
+| [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 | 2025-08-22 | 2025-11-08 |
 | [Giving You](https://open.spotify.com/track/5QcKkO89PDQH50Mh7W4pSr) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Giving You](https://open.spotify.com/album/3rSZJ1Z8oLbisX53IND80e) | 3:29 | 2024-03-01 | 2024-05-25 |
 | [Glistening](https://open.spotify.com/track/7A0I80UN67Ca2jyITyMawh) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Glistening](https://open.spotify.com/album/6xEiInYbttwxio1otemsGq) | 3:06 | 2024-03-01 | 2024-06-25 |
 | [Gloves](https://open.spotify.com/track/18MUzlttt6JOw6PlUcqSpI) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Serie A](https://open.spotify.com/album/2Fz1NS2puE3dbzCM8fbFrR) | 3:52 | 2024-03-01 | 2024-06-29 |
@@ -483,7 +484,7 @@
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 | 2025-04-19 |
 | [Please Don't Go](https://open.spotify.com/track/0vroCXkqCGq4ioaZEax6TB) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Resurrection \(Act II\)](https://open.spotify.com/album/0OEOhyFtixEjfALSCiaTEv) | 4:48 | 2025-01-07 | 2025-03-08 |
 | [Pleasure On My Mind \- Edit](https://open.spotify.com/track/7hjGu0gXza29dqs1EcDbyp) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Pleasure on My Mind](https://open.spotify.com/album/61kjqrcmAEAuNlIdBigDys) | 3:33 | 2024-05-31 | 2024-06-29 |
-| [PLZ](https://open.spotify.com/track/07nJ9f5kZiGA2KfOf1dp8m) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [PLZ](https://open.spotify.com/album/7r9O17P4PY5gbiLmFtHhBW) | 3:06 | 2025-10-03 |  |
+| [PLZ](https://open.spotify.com/track/07nJ9f5kZiGA2KfOf1dp8m) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [PLZ](https://open.spotify.com/album/7r9O17P4PY5gbiLmFtHhBW) | 3:06 | 2025-10-03 | 2025-11-08 |
 | [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 | 2025-03-07 | 2025-07-19 |
 | [Poodle Power](https://open.spotify.com/track/4eGE2I4OAH6aOvnirdg5jH) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [DJ\-Kicks EP](https://open.spotify.com/album/3irqFgGYXXDKIZryxbcmGQ) | 6:03 | 2021-03-01 | 2022-07-29 |
 | [Poodle Power \- DJ\-Kicks](https://open.spotify.com/track/5TBec4bs5VxUy3WxL37HJY) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [DJ\-Kicks EP](https://open.spotify.com/album/1So6YhUbOoEtwFKRpW7SUz) | 6:03 | 2022-03-08 | 2023-03-08 |
@@ -533,6 +534,7 @@
 | [Say It](https://open.spotify.com/track/6qz6MREKavkUBqlM4vWLbL) | [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Say It](https://open.spotify.com/album/53Yb9x1ITQv8qry0IQTXNe) | 3:40 | 2024-04-26 | 2024-06-25 |
 | [searching](https://open.spotify.com/track/1H0gKahkWSNnNnBEYQyAoX) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [searching](https://open.spotify.com/album/4JFKDlnzhn44lISfGzwSQG) | 3:02 | 2024-05-24 | 2024-06-29 |
 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 | 2025-02-14 | 2025-05-24 |
+| [Self\-Sabotage](https://open.spotify.com/track/0EGT9hBhHs9FdiXn3YHxU0) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [ONDAS](https://open.spotify.com/album/5iIc0ZZnzXf6POnkJNQdJX) | 3:02 | 2025-11-07 |  |
 | [SENSE\_LESS](https://open.spotify.com/track/1qf65XWPapiV0Tqf6uRqdH) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [SENSE\_LESS](https://open.spotify.com/album/4UrvRzSobhDtTvieApxIhi) | 4:35 | 2025-06-06 | 2025-08-30 |
 | [Serotonin](https://open.spotify.com/track/6aJ4TYVFDMiOVHJYAEfcvi) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Serotonin](https://open.spotify.com/album/1JuMVubX1aQVHPi7yF4y5T) | 3:17 | 2024-03-01 | 2024-05-03 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-03-07 | 2024-03-02 |
@@ -671,6 +673,7 @@
 | [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 | 2025-10-10 |  |
 | [Voices](https://open.spotify.com/track/30swnXxdVtDdwgZBUtwvcm) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Voices](https://open.spotify.com/album/4e1mGV35guXUGYlOYhAAzJ) | 3:36 | 2025-08-22 |  |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 | 2024-03-23 |
+| [Vroom Vroom Vroom](https://open.spotify.com/track/45rPDJj8SKfBUXkknYvavd) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Plastic Supernova](https://open.spotify.com/album/5EWmxGIJOr8NmWQSIujyjw) | 3:05 | 2025-11-07 |  |
 | [WAKING UP DOWN](https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:21 | 2022-03-08 | 2023-03-08 |
 | [WAKING UP DOWN](https://open.spotify.com/track/6qFbd0y93wtnLFQM0d4v96) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc) | 3:21 | 2021-03-01 | 2022-07-29 |
 | [Wanna See U Again](https://open.spotify.com/track/61wIaRj0CMJR7MecUlW5a1) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Pure Motion](https://open.spotify.com/album/3OBeNrJXWPdq8HP7VzyIev) | 2:53 | 2025-09-05 |  |

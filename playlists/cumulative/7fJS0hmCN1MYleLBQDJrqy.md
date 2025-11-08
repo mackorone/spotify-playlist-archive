@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-95 songs - 4 hr 8 min
+96 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [5 tot 9 \(feat\. Joël Domingos\)](https://open.spotify.com/track/2zT6AK44ot39NQ7xVdLi75) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm), [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [5 tot 9 \(feat\. Joël Domingos\)](https://open.spotify.com/album/3MHKLkXnHafqRAqR64SJYK) | 2:29 | 2025-07-18 |  |
 | [ADHD](https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [ADHD](https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ) | 2:54 | 2025-08-29 |  |
 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 | 2025-07-18 |  |
-| [Afterparty](https://open.spotify.com/track/4HkGLIDKD0w0gXoLbQDM63) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Afterparty](https://open.spotify.com/album/2EixzLNO2a5nLuaflyrsgK) | 2:59 | 2025-10-31 |  |
+| [Afterparty](https://open.spotify.com/track/4HkGLIDKD0w0gXoLbQDM63) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Afterparty](https://open.spotify.com/album/2EixzLNO2a5nLuaflyrsgK) | 2:59 | 2025-10-31 | 2025-11-08 |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-18 |  |
 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2025-07-18 | 2025-09-27 |
 | [Barcelona](https://open.spotify.com/track/7rNwcIxVtLAw9QjyOYGu0M) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Barcelona](https://open.spotify.com/album/01jXI3xgHJ0JJJmriDYfHe) | 2:46 | 2025-07-18 | 2025-08-09 |
@@ -77,6 +77,7 @@
 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2025-07-18 |  |
 | [Okee Shordy](https://open.spotify.com/track/47AUY6Kl6iiuSzZbOgwGF9) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Okee Shordy](https://open.spotify.com/album/3U0lv1cCRjEfiRAplhaqgw) | 2:30 | 2025-07-18 |  |
 | [Online Shoppen](https://open.spotify.com/track/0bVWXDuA0mWeQNmCwKAD2n) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN) | [Online Shoppen](https://open.spotify.com/album/46Xn4GJt5bKXRX5Gc5javf) | 2:50 | 2025-07-18 |  |
+| [Ordinair](https://open.spotify.com/track/033bjiKl7ytbU1W9XRvZD8) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Ordinair](https://open.spotify.com/album/4ZlMuABcza8aefzN5yxfL4) | 2:34 | 2025-11-07 |  |
 | [Over Datum](https://open.spotify.com/track/4KCbrGjAVjAN6ZmvHtcDtX) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:31 | 2025-07-18 |  |
 | [Papa's Geld](https://open.spotify.com/track/0zwazASa657BlcIcx8lYyk) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Papa's Geld](https://open.spotify.com/album/13YCIl3X503L1zASNd0JiN) | 2:00 | 2025-07-18 |  |
 | [Proost](https://open.spotify.com/track/0KfKG23F2eWsq3iJazXYvS) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:27 | 2025-07-18 | 2025-10-11 |

@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 157259,
+  "num_followers": 157298,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALfp83R5m+AtWIFCrE8fua7o0kfI",
+  "snapshot_id": "AAAAAKBRrex23xSfvbUy1WwjsyEJGLum",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:35",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/6jWvW6FBrn3UPSa769GuH4"
+      },
+      "artists": [
+        {
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+        }
+      ],
+      "duration_ms": 164816,
+      "name": "Invisible Ink",
+      "url": "https://open.spotify.com/track/4vLNpx08Y3nGYiRtlQQtuE"
+    },
     {
       "added_at": "2025-09-26 00:00:16",
       "album": {
@@ -147,22 +163,6 @@
       "duration_ms": 194467,
       "name": "Naked In The Jungle",
       "url": "https://open.spotify.com/track/1O5x5VyiR3eWMnTPPJnFEJ"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
-        "name": "Know My Name",
-        "url": "https://open.spotify.com/album/03yhfSbKgwgTpKCwPlkm0q"
-      },
-      "artists": [
-        {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Know My Name",
-      "url": "https://open.spotify.com/track/3Hh6HFZ7V4RUw1Oi6hmOD3"
     },
     {
       "added_at": "2025-01-31 05:00:48",

@@ -1605,6 +1605,32 @@
     },
     {
       "album": {
+        "name": "Somewhere Over the Rainbow",
+        "url": "https://open.spotify.com/album/6GL1ZGETQjEw2yW4PnG1LR"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/2OaGGj94xHvARetO5TOhkk"
+    },
+    {
+      "album": {
         "name": "Because You're Mine",
         "url": "https://open.spotify.com/album/58fpQPkrpLYmBjkf5vLvGB"
       },
@@ -1638,6 +1664,36 @@
       "duration_ms": 218253,
       "name": "Songbird - Orchestral Version",
       "url": "https://open.spotify.com/track/6LutEnXy3mfA1pSglqssNO"
+    },
+    {
+      "album": {
+        "name": "Gardel: Sus ojos se cerraron (Arr. Pluhar)",
+        "url": "https://open.spotify.com/album/33uNSEn42LVXoqHIzylXIB"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        },
+        {
+          "name": "Rolando Villaz\u00f3n",
+          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
+        },
+        {
+          "name": "L'Arpeggiata",
+          "url": "https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ"
+        },
+        {
+          "name": "Christina Pluhar",
+          "url": "https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262853,
+      "name": "Sus ojos se cerraron (Arr. Pluhar)",
+      "url": "https://open.spotify.com/track/1qgm0PbTh8MssW6DPwf2r6"
     },
     {
       "album": {

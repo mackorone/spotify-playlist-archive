@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,514 likes - 80 songs - 4 hr 12 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,513 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 34 | [Forget You \(feat\. BARBZ\)](https://open.spotify.com/track/4GojOaaXHYF8sX4u4jLjYJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Forget You \(feat\. BARBZ\)](https://open.spotify.com/album/5o2lFirzSh3KUCTJYB372W) | 2:46 |
 | 35 | [DADDY](https://open.spotify.com/track/1GBttialfhJqQKBeleUApL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DADDY](https://open.spotify.com/album/0yERVxWsLb8nZxH2zipHRs) | 2:02 |
 | 36 | [Blessings \- KETTAMA Remix](https://open.spotify.com/track/4dBT9YgndxaNS0Fp1PSHZ0) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Blessings \(KETTAMA Remix\)](https://open.spotify.com/album/1lvrQ3eXhtSoogIV7In3ZG) | 4:37 |
-| 37 | [Dior \(feat\. Chrystal\) \- David Guetta Remix](https://open.spotify.com/track/5CboUpvvZdZRApvEVJppB3) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Dior \(feat\. Chrystal\) \[David Guetta Remix\]](https://open.spotify.com/album/6UbRsSRjyIaCNvzJGmEQGO) | 2:26 |
+| 37 | [Dior \(with Chrystal\) \- David Guetta Remix](https://open.spotify.com/track/5CboUpvvZdZRApvEVJppB3) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Dior \(with Chrystal\) \[David Guetta Remix\]](https://open.spotify.com/album/6UbRsSRjyIaCNvzJGmEQGO) | 2:26 |
 | 38 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
 | 39 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 |
 | 40 | [ATLAS](https://open.spotify.com/track/0HZJAnvsWRxrt49Gf39cZP) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [ATLAS](https://open.spotify.com/album/1mPU9bYfbSDFkaMxrx5Q5z) | 6:55 |

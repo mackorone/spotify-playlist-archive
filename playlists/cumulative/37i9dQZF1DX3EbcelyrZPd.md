@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Abigail Chams
+> Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-608 songs - 1 day 10 hr 41 min
+609 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amanda Remix \(feat\. Spice\)](https://open.spotify.com/track/5zl3ugguXnMVhTTW07NC27) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Amanda Remix \(feat\. Spice\)](https://open.spotify.com/album/4yObtvmES71J5IefzLJDID) | 3:21 | 2025-09-25 |  |
 | [Amawele](https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:57 | 2022-12-09 | 2023-06-23 |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-20 | 2023-07-28 |
+| [Ameshanipenda](https://open.spotify.com/track/6XdaZiu1XgMTukzQyWQayq) | [B2k Mnyama](https://open.spotify.com/artist/6hp6heK85J9Yjmmtez7wVx) | [Ameshanipenda](https://open.spotify.com/album/3xcjhkDSK6DYh2rbMiOldF) | 3:45 | 2025-11-07 |  |
 | [Anaconda](https://open.spotify.com/track/5z4TYCJddMV0BNBauAv8XF) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 4:06 | 2022-10-27 | 2023-02-03 |
 | [Anaconda](https://open.spotify.com/track/71UeIOgkpbPG13l2lyHAAW) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Anaconda](https://open.spotify.com/album/3HEpRngOWlMvGzjLPWeWhD) | 4:06 | 2022-10-27 | 2022-11-17 |
 | [Ananipenda \(feat\. Soge Culebra, Marioo\) \- Remix](https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Ananipenda \(feat\. Soge Culebra, Marioo\) \[Remix\]](https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0) | 4:49 | 2024-02-22 | 2024-07-05 |

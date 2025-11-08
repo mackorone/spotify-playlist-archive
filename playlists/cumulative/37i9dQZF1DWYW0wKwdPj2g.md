@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-273 songs - 1 day 12 hr 42 min
+274 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Without You \(Live\)](https://open.spotify.com/track/7LitINmbh2R4n5x91ghvTf) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Stella Joel](https://open.spotify.com/artist/5U1EZrQYcLHj4bBXmSdqec) | [Without You \(Live\)](https://open.spotify.com/album/1cOqnAsYGJiQKuRKXkfzhD) | 6:50 | 2025-02-21 | 2025-03-28 |
 | [WO NKYEN](https://open.spotify.com/track/5DLa96rKO72NOOMnTFk53N) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Felicia Sarfo](https://open.spotify.com/artist/3P1uB9Vb9lBVnTHsXIB7eq) | [WO NKYEN](https://open.spotify.com/album/4uNt01HdxLnW29Ptqn6GtC) | 5:36 | 2024-08-30 | 2024-10-04 |
 | [Wo Ye \(Live\)](https://open.spotify.com/track/6NrKEvAtPayQpi9iPBF4zL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Wo Ye \(Live\)](https://open.spotify.com/album/1UQpttjQ3N0bzPONAeuN1Y) | 8:32 | 2024-02-23 |  |
+| [Wonder \- Live](https://open.spotify.com/track/03BNTwK0qe9D6wBMO5LYxb) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Dasola Akinbule](https://open.spotify.com/artist/3KtHE6V7DOxSYtfvEXAIQl) | [Wonder \(Live\)](https://open.spotify.com/album/3QqGgHToaqwRwqRwEfGClD) | 6:57 | 2025-11-07 |  |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 |  |
 | [Yahweh \- Live](https://open.spotify.com/track/17JCFTaxVL74FTHZQhTvtj) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Yahweh \(Live\)](https://open.spotify.com/album/5gfXo9c2wtj5CTsbWmFc1D) | 16:28 | 2024-11-15 | 2025-01-17 |
 | [Yahweh Yahweh Live](https://open.spotify.com/track/00R0TlcmrzdHKClAM1xW13) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Yahweh Yahweh Live](https://open.spotify.com/album/6YAUYIwp6jBtIf16Nfr2Zx) | 4:24 | 2024-11-22 | 2025-01-31 |

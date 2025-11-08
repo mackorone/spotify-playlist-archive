@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFyc6Dzxvb74b\">Jesse Saint John</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:3N2TVDR39zCIpfsg73ZzJS\">Ebonie Smith</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 209515,
       "name": "1-800",
       "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 209417,
       "name": "69",
       "url": "https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD"
@@ -198,6 +198,24 @@
       "duration_ms": 193599,
       "name": "All Love",
       "url": "https://open.spotify.com/track/7iv32XEy2HlM7PqQO4lp5f"
+    },
+    {
+      "album": {
+        "name": "All These Ladies",
+        "url": "https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227268,
+      "name": "All These Ladies",
+      "url": "https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy"
     },
     {
       "album": {
@@ -877,6 +895,24 @@
     },
     {
       "album": {
+        "name": "DIRTY",
+        "url": "https://open.spotify.com/album/5tPCTpO4A0Rce05xijhIJT"
+      },
+      "artists": [
+        {
+          "name": "TANGELA",
+          "url": "https://open.spotify.com/artist/0tDUYf6Kgwje2xTRlJZMwU"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159838,
+      "name": "DIRTY",
+      "url": "https://open.spotify.com/track/3MyJ8iwiZOEqhBneh6NBAm"
+    },
+    {
+      "album": {
         "name": "Don't Blink",
         "url": "https://open.spotify.com/album/2y5AP6VVxw4FFR96AUeoVh"
       },
@@ -888,7 +924,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 208986,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh"
@@ -906,7 +942,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 208986,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/2P3j9QelzILN9OP7zGVVnW"
@@ -924,7 +960,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
@@ -1126,7 +1162,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Filthy / Gorgeous",
       "url": "https://open.spotify.com/track/2NNiCmCyITuhyYblpmhRWA"
@@ -1144,7 +1180,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 227586,
       "name": "Filthy/Gorgeous",
       "url": "https://open.spotify.com/track/487uZHjPqwQWAMKdabHJnZ"
@@ -1480,7 +1516,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 166573,
       "name": "I Can't Decide",
       "url": "https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc"
@@ -1498,7 +1534,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 166573,
       "name": "I Can't Decide",
       "url": "https://open.spotify.com/track/7f6RiVFXqUT3dWi35OznLI"
@@ -1592,7 +1628,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 168000,
       "name": "if jesus saw what we did last night",
       "url": "https://open.spotify.com/track/31VoUgAK5KV2OegkCaVtZl"
@@ -1610,7 +1646,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "if jesus saw what we did last night",
       "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
@@ -1870,7 +1906,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 198640,
       "name": "Love Me Down",
       "url": "https://open.spotify.com/track/7pVHcXp7fu41CJjj0mlnWK"
@@ -2588,7 +2624,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 205099,
       "name": "Secret (Shh)",
       "url": "https://open.spotify.com/track/1NvAqtx7PytXUytohhYXbk"
@@ -2610,6 +2646,36 @@
       "duration_ms": 193253,
       "name": "Somewhere With You",
       "url": "https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl"
+    },
+    {
+      "album": {
+        "name": "RAP SH!T (Soundtrack: From The Max Original Series, S1)",
+        "url": "https://open.spotify.com/album/0ej4GVNwII3h7eFqVs5q3M"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Alex Mali",
+          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141538,
+      "name": "Stank Ass Walk (RAP SH!T: Soundtrack From The Max Original Series, S1)",
+      "url": "https://open.spotify.com/track/0KqZCRr1HIvgyNBs0H3uHO"
     },
     {
       "album": {
@@ -2664,7 +2730,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 174296,
       "name": "Sugar Water Cyanide",
       "url": "https://open.spotify.com/track/2Km5bhOuAWctboSc7w6Lur"
@@ -2718,7 +2784,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 271866,
       "name": "Take Your Mama",
       "url": "https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt"
@@ -2736,7 +2802,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 271906,
       "name": "Take Your Mama",
       "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
@@ -3052,7 +3118,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 173325,
       "name": "Truth Hurts",
       "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"

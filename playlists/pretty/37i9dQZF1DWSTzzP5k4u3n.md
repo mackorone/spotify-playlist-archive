@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,591 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,594 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 3 | [Sama pää kesät talvet](https://open.spotify.com/track/5tNBJDyXOwgUEmkfh5875g) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Sama pää kesät talvet](https://open.spotify.com/album/7iU5j9gO2KaRlPGQMiwUYN) | 4:07 |
 | 4 | [Antaisin kai mitä vaan](https://open.spotify.com/track/0AK1wJhv8vXOBE5N8O91ph) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Antaisin kai mitä vaan](https://open.spotify.com/album/4MyCJBMDANQX1qrwvqbTXz) | 3:08 |
 | 5 | [Mitä naapuritkin ajattelis?](https://open.spotify.com/track/1ZlrXTRTFGdePWYgxBVQ2t) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Mitä naapuritkin ajattelis?](https://open.spotify.com/album/0NBuTZ1Nxhh9SWkiKN4TFM) | 2:36 |
-| 6 | [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [](https://open.spotify.com/album/null) | 2:52 |
+| 6 | [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 |
 | 7 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 |
 | 8 | [Iloisten Laulujemme Maa](https://open.spotify.com/track/2KQnDjLje3gw9GmpUxnsqn) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF), [Kullervo](https://open.spotify.com/artist/39KHP6jiqcSRQRO9KOXbBs) | [Iloisten Laulujemme Maa](https://open.spotify.com/album/1TXHG800To5XNtsoAUYhAH) | 2:53 |
 | 9 | [Loppuaikana](https://open.spotify.com/track/5lGpLp2RPTGIAuT835JbrK) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Loppuaikana](https://open.spotify.com/album/4Wbjl6LuNdqroP97Nadsyx) | 3:14 |

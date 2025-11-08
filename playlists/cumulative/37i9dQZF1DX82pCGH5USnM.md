@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-940 songs - 2 day 2 hr 39 min
+942 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Ambit](https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Ambit](https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ) | 2:22 | 2022-09-02 | 2024-07-25 |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2021-09-22 | 2021-10-06 |
 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 | 2021-06-02 | 2024-11-30 |
+| [ANTILOOP](https://open.spotify.com/track/4fB6CbtRktj7m9d7Cmjf9G) | [Bantu Jafari](https://open.spotify.com/artist/6yYZzgfZlTAZ5c5FDr78Zl) | [ANTILOOP](https://open.spotify.com/album/1tRaExObERYmO5FPCWKOel) | 3:04 | 2025-11-07 |  |
 | [Aphex Wins](https://open.spotify.com/track/0vVCVbOgsdCnKTs0dz46CN) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Aphex Wins](https://open.spotify.com/album/1CRHiiWboQ9ENAdSwdt8As) | 1:45 | 2020-04-03\* | 2021-06-16 |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-02-19 | 2021-09-22 |
 | [Aqua](https://open.spotify.com/track/7etvw1iMT1W7wApghIDSiG) | [Brisaque](https://open.spotify.com/artist/1vlSEAUaqja6NwcQ94ASih) | [Aqua](https://open.spotify.com/album/2pMIDANmZuBqebALcHef4n) | 2:25 | 2022-10-28 | 2024-11-30 |
@@ -174,6 +175,7 @@
 | [Copacabana](https://open.spotify.com/track/7m3TmUwQJYQkJvzvomijDd) | [Alex Caipirinha](https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv) | [Copacabana](https://open.spotify.com/album/2VcIx9AWHOSRanlFEnvSup) | 2:45 | 2021-04-15 | 2021-08-20 |
 | [Copenhagen](https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Copenhagen](https://open.spotify.com/album/0AwequrjSToDDbsFWhI2H1) | 2:46 | 2022-11-25 | 2025-01-11 |
 | [Coquelicot](https://open.spotify.com/track/1yMiMLEVBWals38tiLThLR) | [OYOANNE](https://open.spotify.com/artist/54SxhcvIgW6e7A4R2UKNrL) | [Coquelicot](https://open.spotify.com/album/6i5EmMp0z55VIZsnZUSxLJ) | 2:33 | 2021-11-08 | 2025-02-22 |
+| [Coral Leaf](https://open.spotify.com/track/5k2mPZEgCYbvmJSwPZoXTA) | [Maison Lune](https://open.spotify.com/artist/6QxpDDnrrYLloULqIeJAOw) | [Coral Leaf](https://open.spotify.com/album/2QjvZjtsULGQGyHaQj0avt) | 2:30 | 2025-11-07 |  |
 | [Corals](https://open.spotify.com/track/1eISwnI3L6Pn03hXNdPFI6) | [Paradise Delay](https://open.spotify.com/artist/2LC89if4mekjoDOmUqTOoM) | [Corals](https://open.spotify.com/album/2vt2it7Hjfr2TtUv5agGwx) | 2:06 | 2024-11-15 |  |
 | [Corridors](https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Corridors](https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam) | 3:11 | 2022-09-09 | 2025-01-11 |
 | [Cosmic Dancer](https://open.spotify.com/track/53WQnXY1i3ccnQJe4ww0Lv) | [Belloq](https://open.spotify.com/artist/65UoNCuuCJTVU3JTTZmjjj) | [Cosmic Dancer](https://open.spotify.com/album/1WNTZ6Su4aM5lTIZlXIoYf) | 2:59 | 2021-09-09 | 2025-02-22 |

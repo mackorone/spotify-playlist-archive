@@ -1,13 +1,29 @@
 {
   "description": "Our favourite new music, curated by the XL team. ",
-  "num_followers": 16575,
+  "num_followers": 16570,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAZNRbt0qGIBkSjulKcoV7IkyfxLOvd",
+  "snapshot_id": "AAAZOVKp/mlpRKhUV4tMJmhLI+klr3La",
   "tracks": [
+    {
+      "added_at": "2025-11-07 10:51:19",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 226166,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm"
+    },
     {
       "added_at": "2025-10-14 14:28:53",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Great food, good company and some soft music. ",
-  "num_followers": 657569,
+  "num_followers": 657513,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEsWlYwLSWBAgD72qa0fWQTCTPoq",
+  "snapshot_id": "AAAAADnqYqEMd1YdVvzkQEKslLCjXff/",
   "tracks": [
     {
       "added_at": "2025-10-17 04:00:34",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 285053,
-      "name": "Stop This Train",
-      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
       },
@@ -784,7 +768,7 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 207666,
+      "duration_ms": 207673,
       "name": "Chasing After You",
       "url": "https://open.spotify.com/track/3MkXV52jXtsG4pvKp4cGE8"
     },

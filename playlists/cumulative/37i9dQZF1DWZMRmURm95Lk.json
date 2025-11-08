@@ -703,6 +703,28 @@
     },
     {
       "album": {
+        "name": "Melograno",
+        "url": "https://open.spotify.com/album/7ymhSWJJsQHDrbuJYDAQxw"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Kintsugi",
+          "url": "https://open.spotify.com/artist/6nkziP0t4AGtsBye9poRnv"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265288,
+      "name": "Anima Nera",
+      "url": "https://open.spotify.com/track/3VTAOKO2J31R9hygGe0U5j"
+    },
+    {
+      "album": {
         "name": "Young Veterans 1974",
         "url": "https://open.spotify.com/album/5Z0VqAJD6WqjgZw0xfdYzu"
       },
@@ -4554,7 +4576,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 275920,
       "name": "Grande",
       "url": "https://open.spotify.com/track/12IMXVPVItGGUCPckxOjPl"
@@ -12984,7 +13006,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 202885,
       "name": "Una Volta Sola",
       "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
@@ -13378,6 +13400,28 @@
       "duration_ms": 129882,
       "name": "Vita vera",
       "url": "https://open.spotify.com/track/04mKihaPiWG3zVOlu7qLC7"
+    },
+    {
+      "album": {
+        "name": "MIND SOUL & BODY",
+        "url": "https://open.spotify.com/album/6XOkk85os1H8lL945jBar1"
+      },
+      "artists": [
+        {
+          "name": "Roy Zen",
+          "url": "https://open.spotify.com/artist/2azLwmHQ6KwyMFETQBsrLi"
+        },
+        {
+          "name": "Riccardino",
+          "url": "https://open.spotify.com/artist/5bQQAPECTO5PNCuaHYB9pm"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "VIZI CAPITALI",
+      "url": "https://open.spotify.com/track/78b0aztW6ygsDMJeNiwaTQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh takes on that high lonesome sound. Cover: The Creekers",
+  "description": "Fresh takes on that high lonesome sound. Cover: Greensky Bluegrass",
   "name": "Indie Bluegrass",
   "tracks": [
     {
@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Did She Think of Me",
+        "url": "https://open.spotify.com/album/0YijxUaOlR2JUsMIx0Repk"
+      },
+      "artists": [
+        {
+          "name": "James McCann",
+          "url": "https://open.spotify.com/artist/4j7NBJIbr0i49hakDFeYOt"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Did She Think of Me",
+      "url": "https://open.spotify.com/track/3LglHo6gwpel8y5qT7EPJF"
+    },
+    {
+      "album": {
         "name": "Do They Call to You?",
         "url": "https://open.spotify.com/album/186rWk1HzVlUXNwecQSDIZ"
       },
@@ -2406,6 +2424,28 @@
       "duration_ms": 194786,
       "name": "Edges Run",
       "url": "https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Brown / Sail Away",
+        "url": "https://open.spotify.com/album/5thncZARxiTdu2we7s45r6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ramsey",
+          "url": "https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK"
+        },
+        {
+          "name": "Carl Broemel",
+          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Elizabeth Brown",
+      "url": "https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA"
     },
     {
       "album": {
@@ -4609,6 +4649,24 @@
     },
     {
       "album": {
+        "name": "Little Words",
+        "url": "https://open.spotify.com/album/75T1ahW1TQrxnsVswso3A2"
+      },
+      "artists": [
+        {
+          "name": "Theoretical Blonde",
+          "url": "https://open.spotify.com/artist/6lugwzTLFVT1hWOZiOf2fG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263684,
+      "name": "Little Words",
+      "url": "https://open.spotify.com/track/4HI9NTZREw1vzNdhdGqbNb"
+    },
+    {
+      "album": {
         "name": "What to Fear",
         "url": "https://open.spotify.com/album/7jf04POqt5rp1jWM8KQhzd"
       },
@@ -5910,6 +5968,46 @@
       "duration_ms": 213951,
       "name": "Past My Prime",
       "url": "https://open.spotify.com/track/7ejAeKSETTe2vQCiS4Ad9e"
+    },
+    {
+      "album": {
+        "name": "XXV",
+        "url": "https://open.spotify.com/album/21leL21C3hRYCcLCclAYpU"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213794,
+      "name": "Past My Prime (feat. Nathaniel Rateliff)",
+      "url": "https://open.spotify.com/track/01qfpfvaO6DUsbL4bdEVjZ"
+    },
+    {
+      "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/74w9OlGgdzEEiyFANKXHa1"
+      },
+      "artists": [
+        {
+          "name": "The Foreign Landers",
+          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233360,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/5QeRz2oUNbstc3UDhjWmES"
     },
     {
       "album": {
@@ -9054,6 +9152,24 @@
       "duration_ms": 209513,
       "name": "West of Houston (Bonus Track)",
       "url": "https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi"
+    },
+    {
+      "album": {
+        "name": "Streets, Rivers, Dreams & Heartaches",
+        "url": "https://open.spotify.com/album/74j3NKFAgnwlsKDOHyQ9r4"
+      },
+      "artists": [
+        {
+          "name": "Gena Britt",
+          "url": "https://open.spotify.com/artist/58w5My0xczC07lwAp8T0PJ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "What Kind Of Memory Will You Be",
+      "url": "https://open.spotify.com/track/3ZqBDDkTYAMByWEdqKTwg0"
     },
     {
       "album": {

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,259 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,298 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Everything](https://open.spotify.com/track/7mhgdTcT5Zont0DXYKIjyU) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Prayer and Pleasure](https://open.spotify.com/album/32mxNFVLvz1w7iTaAh1J5t) | 3:49 |
-| 2 | [Fantasy Game](https://open.spotify.com/track/5okrc6yGuuMcvRkDsjdFh4) | [K' Jae](https://open.spotify.com/artist/2UAUBfs6Hj0DJpxY1K6gPL) | [Fantasy Game](https://open.spotify.com/album/5gChYVDqTOIQKejh2TMUtR) | 4:39 |
-| 3 | [ATM](https://open.spotify.com/track/1VjLo8p2kIz3gsdgdIrsit) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [ATM](https://open.spotify.com/album/4I65kECMNWuvQPbzm1N3Hi) | 2:26 |
-| 4 | [Weekends Are for Making Love](https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Weekends Are for Making Love](https://open.spotify.com/album/6BKuIPk8YC7PHsLCmRysdc) | 2:49 |
-| 5 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
-| 6 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 |
-| 7 | [Stained](https://open.spotify.com/track/0lLvGzQhd7hADAeC2hUHB0) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [Stained](https://open.spotify.com/album/1egulPm1dhjjElWYJIhjuW) | 2:51 |
-| 8 | [Naked In The Jungle](https://open.spotify.com/track/1O5x5VyiR3eWMnTPPJnFEJ) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Naked In The Jungle](https://open.spotify.com/album/7rGhM1ak9y2bbqG66WxX5c) | 3:14 |
-| 9 | [Know My Name](https://open.spotify.com/track/3Hh6HFZ7V4RUw1Oi6hmOD3) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Know My Name](https://open.spotify.com/album/03yhfSbKgwgTpKCwPlkm0q) | 2:29 |
+| 1 | [Invisible Ink](https://open.spotify.com/track/4vLNpx08Y3nGYiRtlQQtuE) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Overcome](https://open.spotify.com/album/6jWvW6FBrn3UPSa769GuH4) | 2:44 |
+| 2 | [My Everything](https://open.spotify.com/track/7mhgdTcT5Zont0DXYKIjyU) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Prayer and Pleasure](https://open.spotify.com/album/32mxNFVLvz1w7iTaAh1J5t) | 3:49 |
+| 3 | [Fantasy Game](https://open.spotify.com/track/5okrc6yGuuMcvRkDsjdFh4) | [K' Jae](https://open.spotify.com/artist/2UAUBfs6Hj0DJpxY1K6gPL) | [Fantasy Game](https://open.spotify.com/album/5gChYVDqTOIQKejh2TMUtR) | 4:39 |
+| 4 | [ATM](https://open.spotify.com/track/1VjLo8p2kIz3gsdgdIrsit) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [ATM](https://open.spotify.com/album/4I65kECMNWuvQPbzm1N3Hi) | 2:26 |
+| 5 | [Weekends Are for Making Love](https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Weekends Are for Making Love](https://open.spotify.com/album/6BKuIPk8YC7PHsLCmRysdc) | 2:49 |
+| 6 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
+| 7 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 |
+| 8 | [Stained](https://open.spotify.com/track/0lLvGzQhd7hADAeC2hUHB0) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [Stained](https://open.spotify.com/album/1egulPm1dhjjElWYJIhjuW) | 2:51 |
+| 9 | [Naked In The Jungle](https://open.spotify.com/track/1O5x5VyiR3eWMnTPPJnFEJ) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Naked In The Jungle](https://open.spotify.com/album/7rGhM1ak9y2bbqG66WxX5c) | 3:14 |
 | 10 | [Alone](https://open.spotify.com/track/3LGHAzSDMm9KDxSrJlWIqV) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [The Love Anthology](https://open.spotify.com/album/1Przkz0IqwGmtFQ4Va2wxM) | 3:45 |
 | 11 | [Risk Everythang](https://open.spotify.com/track/35BWdWmb60A8Ng3B8QhfkT) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Risk Everythang](https://open.spotify.com/album/1vjYtX0meIbFdnFdcwvouZ) | 2:12 |
 | 12 | [Love Is A Fight](https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Love Is A Fight](https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Two Plus Two Is Five](https://open.spotify.com/track/5IUlrVdOqBxaNbMgFFTgMC) | [Jon Kenzie](https://open.spotify.com/artist/31eXvMCHf7z4m5IzsZmVKA) | [Two Plus Two Is Five](https://open.spotify.com/album/43SQsyna8h0sWhlwQWIRNy) | 2:58 |
 | 100 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 |
 
-Snapshot ID: `AAAAALfp83R5m+AtWIFCrE8fua7o0kfI`
+Snapshot ID: `AAAAAKBRrex23xSfvbUy1WwjsyEJGLum`

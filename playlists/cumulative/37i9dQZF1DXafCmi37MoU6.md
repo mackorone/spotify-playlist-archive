@@ -4,7 +4,7 @@
 
 > El Hip\-Hop Mexicano es único\. Conoce los 50 tracks esenciales de Toy Selectah y Diego Madrigal
 
-51 songs - 3 hr 28 min
+51 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [El Pais De Las Maravillas](https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2) | [Baston](https://open.spotify.com/artist/4BJngV0qOXFfhG5PQUSPrX) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:53 | 2023-08-08 |  |
 | [El Pecador](https://open.spotify.com/track/0oIETWzqmaXiPzwJYGUvvT) | [Sinful El Pecador](https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi) | [Soy el Pecador](https://open.spotify.com/album/4ly5zyOJB6yOEdKNXYsLte) | 3:43 | 2023-08-08 |  |
 | [Eme Ces Infalsificables](https://open.spotify.com/track/2lBij2LLml12XmbVBH7zKa) | [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf) | [Abriendo Puertas](https://open.spotify.com/album/1MkwIwYRzcJKeYlj76tphv) | 6:17 | 2023-08-08 |  |
-| [Esta Vida Me Encanta \(feat\. Zimple & Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 5:09 | 2023-08-08 |  |
+| [Esta Vida Me Encanta \(feat\. Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 4:07 | 2023-08-08 |  |
 | [Gran Pez](https://open.spotify.com/track/7yOtPyF3XO1P67YuZfLO5N) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Gran Pez](https://open.spotify.com/album/2CLkKY8a7HZYON8z1nUSSw) | 3:14 | 2023-08-08 |  |
 | [Guapa!](https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Slim](https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP) | [Guapa!](https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo) | 5:14 | 2023-08-08 |  |
 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 | 2023-08-08 |  |

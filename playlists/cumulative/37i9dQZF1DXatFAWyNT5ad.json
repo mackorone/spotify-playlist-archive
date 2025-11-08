@@ -6699,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "But What The Hell Do I Know",
+        "url": "https://open.spotify.com/album/58abhdpbXJ8ywjj25HhbSB"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160223,
+      "name": "Happy With You",
+      "url": "https://open.spotify.com/track/0yUdCEJXMKCStME3LA4gQz"
+    },
+    {
+      "album": {
         "name": "Hate Me Too",
         "url": "https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr"
       },
@@ -7172,7 +7190,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 183617,
       "name": "Hold My Own",
       "url": "https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA"

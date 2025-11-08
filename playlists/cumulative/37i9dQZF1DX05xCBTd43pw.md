@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-439 songs - 22 hr 37 min
+439 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [LEAVE ME ALONE](https://open.spotify.com/track/7jCDiKF2pGrNKIKrftGG39) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [LEAVE ME ALONE](https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy) | 3:17 | 2025-09-19 |  |
 | [Leave The Light On](https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Leave The Light On](https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA) | 3:40 | 2025-01-10 |  |
 | [Let It Be Me](https://open.spotify.com/track/6ez6TPLn67qFCftaeIUiC5) | [Lucky Wüthrich](https://open.spotify.com/artist/3r5b8sR23b8sYZFwE3kxmD) | [Steady](https://open.spotify.com/album/2O0k1r51y7KQLZ0sT6CezC) | 5:39 | 2025-05-01 | 2025-05-09 |
-| [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [](https://open.spotify.com/album/null) | 3:19 | 2025-11-06 |  |
+| [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT) | 3:19 | 2025-11-06 |  |
 | [Let You Down](https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Let You Down](https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk) | 2:45 | 2024-06-27 | 2024-10-04 |
 | [Let's Get Away](https://open.spotify.com/track/6gD9Ko6SjOE461vJVbOR6r) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [March](https://open.spotify.com/album/59px9IzrGXul0FWwLuCBu7) | 2:17 | 2025-04-24 | 2025-05-02 |
 | [liam's intro](https://open.spotify.com/track/0H26CtlG20mYVfKUhUMHAW) | [Hotel Samar](https://open.spotify.com/artist/5hTdjvFe6LAe3J1bni2EmD) | [24 LOST](https://open.spotify.com/album/5Ztkfu449nYasWG1z4esui) | 2:13 | 2025-05-15 | 2025-05-23 |
@@ -357,6 +357,7 @@
 | [Sombrero](https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Sombrero](https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi) | 3:01 | 2025-10-16 |  |
 | [Somebody I Don't Know](https://open.spotify.com/track/6K3SFxoNLfiD7TzSPOvAhe) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Smalltown Boy](https://open.spotify.com/album/5S5LYaDfn0aYIJw2W8vWgm) | 3:05 | 2025-02-27 | 2025-04-18 |
 | [Someone](https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [What if It All Works Out](https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA) | 3:33 | 2025-02-07 | 2025-09-13 |
+| [Something Casual](https://open.spotify.com/track/3w3dmuLrKGTMg7ce3O4FYc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Something Casual](https://open.spotify.com/album/1l63h2CYnKWPNu7Z2OiWBH) | 3:29 | 2025-11-06 |  |
 | [Something to Feel](https://open.spotify.com/track/1ASSFuZqeOVaUxaZYRslF1) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Something to Feel](https://open.spotify.com/album/6Cc2Sey7WrzrpyhR4h0DSP) | 3:19 | 2025-03-21 | 2025-06-14 |
 | [Somewhere Else](https://open.spotify.com/track/5BRlmjqb8IgoRo2KU0UQJ3) | [Julian Cross](https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG), [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Somewhere Else](https://open.spotify.com/album/7ensRNpU3YrTSTVYTNgITR) | 2:50 | 2025-10-24 |  |
 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-06-27 | 2024-10-04 |
@@ -398,7 +399,6 @@
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 | 2025-08-10 |
-| [Track 1](https://open.spotify.com/track/3w3dmuLrKGTMg7ce3O4FYc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 |  |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |

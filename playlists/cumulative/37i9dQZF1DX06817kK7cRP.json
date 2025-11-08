@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "brief staycation",
+        "url": "https://open.spotify.com/album/2SdYBTDZjriMIdyAqphN2S"
+      },
+      "artists": [
+        {
+          "name": "Pat Laine",
+          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131137,
+      "name": "brief staycation",
+      "url": "https://open.spotify.com/track/1ZipyL9f6fwhuSEnh9Z5gO"
+    },
+    {
+      "album": {
         "name": "Brooklyn Brownstone",
         "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 173682,
       "name": "Class",
       "url": "https://open.spotify.com/track/3jfb2El9s0DKukAvOpON9a"

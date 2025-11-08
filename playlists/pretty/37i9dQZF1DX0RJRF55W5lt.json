@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 611348,
+  "num_followers": 611445,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "God Made Me Phunky",
+        "url": "https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc"
+      },
+      "artists": [
+        {
+          "name": "MD X-Spress",
+          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
+        }
+      ],
+      "duration_ms": 376626,
+      "name": "God Made Me Phunky (Extended Mix)",
+      "url": "https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Becoming Remixed",
         "url": "https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 543466,
       "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
       "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "God Made Me Phunky",
-        "url": "https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc"
-      },
-      "artists": [
-        {
-          "name": "MD X-Spress",
-          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
-        }
-      ],
-      "duration_ms": 376626,
-      "name": "God Made Me Phunky (Extended Mix)",
-      "url": "https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Unleash The Dragon (UK COMM EXTRA TRACKS)",
-        "url": "https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU"
+        "name": "Pure Garage Reload - The Very Best Of Old Skool Garage",
+        "url": "https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa"
       },
       "artists": [
         {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        },
-        {
-          "name": "M.C. Alastair",
-          "url": "https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 334240,
-      "name": "Thong Song - Artful Dodger Remix",
-      "url": "https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm"
+      "duration_ms": 300083,
+      "name": "Little Man - Exemen Rework",
+      "url": "https://open.spotify.com/track/5NBEj4QYJMFUS4KvQHHiQX"
     }
   ],
   "unique_name": "UK Garage Classics",

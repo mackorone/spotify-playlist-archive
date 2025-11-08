@@ -1,13 +1,45 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 141838,
+  "num_followers": 141864,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc",
+  "snapshot_id": "AAAAAFb+KgOPoB600+JasG500tsB5AHt",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:37",
+      "album": {
+        "name": "Tougher Now",
+        "url": "https://open.spotify.com/album/1IFqv7FgHOD8SPQTdycrbi"
+      },
+      "artists": [
+        {
+          "name": "Danny Bryant",
+          "url": "https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn"
+        }
+      ],
+      "duration_ms": 180810,
+      "name": "Tougher Now",
+      "url": "https://open.spotify.com/track/747VrxQK7vVawAP6EDdB9f"
+    },
+    {
+      "added_at": "2025-11-07 05:00:37",
+      "album": {
+        "name": "Just One More Time",
+        "url": "https://open.spotify.com/album/2b63qU8xnvBoRiYJGoLKFF"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Just One More Time",
+      "url": "https://open.spotify.com/track/4dXyMNpMEEKs0ihnj6XnVE"
+    },
     {
       "added_at": "2025-10-24 04:00:05",
       "album": {
@@ -1021,22 +1053,6 @@
       "url": "https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT"
     },
     {
-      "added_at": "2025-02-07 05:00:20",
-      "album": {
-        "name": "I Love You, I Need You",
-        "url": "https://open.spotify.com/album/1mtVf4jbcps8v9Ii380OEE"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 124760,
-      "name": "I Love You, I Need You",
-      "url": "https://open.spotify.com/track/53m5ENjvMhRoxzoIesvRyu"
-    },
-    {
       "added_at": "2025-01-17 05:00:26",
       "album": {
         "name": "I've Got Three Problems",
@@ -1815,22 +1831,6 @@
       "duration_ms": 206282,
       "name": "Emmylou",
       "url": "https://open.spotify.com/track/2cljs0ErJpveRVB383KVWE"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
-        "name": "Naked Truth",
-        "url": "https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 267507,
-      "name": "Death Letter Blues",
-      "url": "https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa"
     }
   ],
   "unique_name": "Got Blues",

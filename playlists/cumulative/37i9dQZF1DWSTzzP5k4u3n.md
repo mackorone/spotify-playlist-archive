@@ -589,7 +589,7 @@
 | [Äidin tyttö](https://open.spotify.com/track/2eF1S0SQVUwh2HLJlQ3LZO) | [Ankee](https://open.spotify.com/artist/40AieLffvixK82txlRwI4j) | [Äidin tyttö](https://open.spotify.com/album/5SoELa6InshT8ZbHEaIwx8) | 3:42 | 2024-08-01 | 2024-11-29 |
 | [Äkkilähtö](https://open.spotify.com/track/3S07whFULQyuYyNWkoblap) | [Janne Kuu](https://open.spotify.com/artist/6hzloDrzlwwucnrFCXKSdE) | [Äkkilähtö](https://open.spotify.com/album/4rV4W1i2jmHzXUN0vA8iO0) | 3:23 | 2024-10-03 | 2025-02-14 |
 | [Älä Itke](https://open.spotify.com/track/55Q7QT05lB5Iyl606l7Jyz) | [Yoki](https://open.spotify.com/artist/5Yt3NcGVg8EBrHNUqkS6bm) | [Älä Itke](https://open.spotify.com/album/6xdkWjLLb1qFy2AmnXgokR) | 3:08 | 2024-11-28 | 2025-03-21 |
-| [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [](https://open.spotify.com/album/null) | 2:52 | 2025-11-06 |  |
+| [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 | 2025-11-06 |  |
 | [Älä yksin jää](https://open.spotify.com/track/3MZaJT1R5vhgjfhoijj4Sw) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Älä yksin jää](https://open.spotify.com/album/0Otups8MjIcD79WC8nhJMG) | 4:17 | 2025-08-28 | 2025-09-26 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

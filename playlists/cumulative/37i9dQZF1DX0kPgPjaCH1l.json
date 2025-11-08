@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Kaizen",
+        "url": "https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "Bag of Vibes",
+      "url": "https://open.spotify.com/track/5zHdXMi4oTkowQvBaKuftu"
+    },
+    {
+      "album": {
         "name": "Beamer",
         "url": "https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q"
       },
@@ -1922,24 +1940,6 @@
       "duration_ms": 169494,
       "name": "To Be A Man",
       "url": "https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "date_added": "2025-11-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5zHdXMi4oTkowQvBaKuftu"
     },
     {
       "album": {

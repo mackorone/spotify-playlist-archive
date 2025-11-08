@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Mother Soki",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Yndling",
   "name": "Cph+",
   "tracks": [
     {
@@ -96,6 +96,28 @@
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
+    },
+    {
+      "album": {
+        "name": "Big city life EDITS",
+        "url": "https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        },
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "A thousand lies - Fine EDIT",
+      "url": "https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS"
     },
     {
       "album": {
@@ -1152,10 +1174,32 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 160452,
       "name": "Feisty",
       "url": "https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp"
+    },
+    {
+      "album": {
+        "name": "Big city life EDITS",
+        "url": "https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170053,
+      "name": "Feisty - Erika de Casier EDIT",
+      "url": "https://open.spotify.com/track/5di5j7CqrNxPCD2x8looz1"
     },
     {
       "album": {
@@ -2339,6 +2383,28 @@
     },
     {
       "album": {
+        "name": "Dancin' In The Streets",
+        "url": "https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ"
+      },
+      "artists": [
+        {
+          "name": "Rat Heart",
+          "url": "https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e"
+        },
+        {
+          "name": "Cansu Kandemir",
+          "url": "https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369424,
+      "name": "NOT 2NITE (feat. Cansu Kandemir)",
+      "url": "https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ"
+    },
+    {
+      "album": {
         "name": "Not Offended",
         "url": "https://open.spotify.com/album/68o9R9l54MZKYsV0xD5zR0"
       },
@@ -2626,6 +2692,28 @@
       "duration_ms": 143592,
       "name": "Portal",
       "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
+    },
+    {
+      "album": {
+        "name": "Push & Pull",
+        "url": "https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ"
+      },
+      "artists": [
+        {
+          "name": "A Good Year",
+          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
+        },
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199344,
+      "name": "Push & Pull",
+      "url": "https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi"
     },
     {
       "album": {
@@ -3629,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "when my eyes lose you, you occupy my thoughts",
+        "url": "https://open.spotify.com/album/6SCbG0gZUM6jkNxkEQD6qe"
+      },
+      "artists": [
+        {
+          "name": "shinyhunt",
+          "url": "https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207949,
+      "name": "when my eyes lose you, you occupy my thoughts",
+      "url": "https://open.spotify.com/track/14J9XLdZtxyzJrmwfjPaw0"
+    },
+    {
+      "album": {
         "name": "Who are you?",
         "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
       },
@@ -3694,7 +3800,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 203259,
       "name": "Yamaha Dreaming",
       "url": "https://open.spotify.com/track/2mZb0hEM8VUEHICuwUfZls"
@@ -3716,6 +3822,50 @@
       "duration_ms": 271583,
       "name": "You got time and I got money",
       "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
+    {
+      "album": {
+        "name": "Big city life EDITS",
+        "url": "https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        },
+        {
+          "name": "VVTZJ",
+          "url": "https://open.spotify.com/artist/2gJxIQspPPFPuNt5RFCtsw"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322625,
+      "name": "You got time and I got money - VVTZJ EDIT",
+      "url": "https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx"
+    },
+    {
+      "album": {
+        "name": "Time Time Time (I'm in the Palm of Your Hand)",
+        "url": "https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "You Know I Hate it (How The World Moves On)",
+      "url": "https://open.spotify.com/track/0d7Gjq2qwvcaoXpeLWFtnf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,413 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,413 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 3 | [One Good Life](https://open.spotify.com/track/29CCh6aLhAgPRN4TWpRBXB) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV), [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [One Good Life](https://open.spotify.com/album/6oen1zKzVOJUWOdN2rtePz) | 2:59 |
 | 4 | [RENT FREE](https://open.spotify.com/track/0aVHXmSUizaqth5OswMMUE) | [Elyse Saunders](https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk) | [RENT FREE](https://open.spotify.com/album/0oWZhVNcbt2SJVef302nzG) | 3:13 |
 | 5 | [Taillight This Town](https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Taillight This Town](https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH) | 3:06 |
-| 6 | [Track 2](https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Keep on Truckin'](https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [All Kinds of Country](https://open.spotify.com/album/623aZh6biaVYdHg0UpaZtj) | 2:25 |
 | 7 | [Way Back](https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Way Back](https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464) | 2:53 |
 | 8 | [Eldorado \- Acoustique](https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf) | [Fred Dionne](https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF), [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [Eldorado \(Acoustique\)](https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB) | 3:17 |
 | 9 | [Sometimes It Don't](https://open.spotify.com/track/1V6ImmKDA2wOXfcJdAr4DW) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Sometimes It Don't](https://open.spotify.com/album/0MIECkZ8dgC88NARYDTkS2) | 3:30 |

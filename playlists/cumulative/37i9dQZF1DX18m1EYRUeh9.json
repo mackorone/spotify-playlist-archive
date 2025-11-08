@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: El Michels Affair",
+  "description": "Smooth indie jazz joints from around the globe. Cover: Yukimi",
   "name": "Rarities",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 212022,
       "name": "A New God Before Us",
       "url": "https://open.spotify.com/track/1sfMxHmmFFOOCKBqtXyBGw"
+    },
+    {
+      "album": {
+        "name": "A Title Comes",
+        "url": "https://open.spotify.com/album/1MsNaippRLU45hdOdkoFZC"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "A Title Comes",
+      "url": "https://open.spotify.com/track/4oNX7BtKXIGqTucl7buKEd"
     },
     {
       "album": {
@@ -291,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Antarctica / Neon Lights",
+        "url": "https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179063,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh"
+    },
+    {
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -342,7 +378,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 226340,
       "name": "As Above So Below",
       "url": "https://open.spotify.com/track/7eZyA1tOwt7hRQiiIF8mUC"
@@ -884,6 +920,24 @@
       "duration_ms": 203187,
       "name": "Bully Ball",
       "url": "https://open.spotify.com/track/02AKdVGHQGvijvYMNtZBHo"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264518,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap"
     },
     {
       "album": {
@@ -1664,7 +1718,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 670653,
       "name": "Earth 1",
       "url": "https://open.spotify.com/track/4QBhvOVXt0100YabWvJnpf"
@@ -1872,7 +1926,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 234182,
       "name": "Euphoric Avenue",
       "url": "https://open.spotify.com/track/0GQOHvIPdVWrvnII8p6OBG"
@@ -2228,6 +2282,28 @@
       "duration_ms": 185753,
       "name": "FUGAZI",
       "url": "https://open.spotify.com/track/5xWvtdIspTn4RK8Ki3IjtR"
+    },
+    {
+      "album": {
+        "name": "Get It Over",
+        "url": "https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196314,
+      "name": "Get It Over",
+      "url": "https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv"
     },
     {
       "album": {
@@ -2770,7 +2846,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
@@ -4302,7 +4378,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 170819,
       "name": "Peach Optimo",
       "url": "https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B"
@@ -6380,7 +6456,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"

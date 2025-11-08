@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tontons Franglish et KeBlack.
+> Du Congo, au monde 🌍 avec Tonton Rsko.
 
-659 songs - 1 day 13 hr 13 min
+662 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Ballon d'or](https://open.spotify.com/track/79VtonGgvoyENawzktwOrt) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Ballon d'or](https://open.spotify.com/album/3WScTyJbc0q5X7xb9rei6O) | 2:11 | 2025-05-30 | 2025-07-05 |
 | [Balobi \- Edit](https://open.spotify.com/track/3w4zm5JWkcCE5YbBO9KWGq) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Balobi \(Edit\)](https://open.spotify.com/album/5x6hcR0V0scm0QnWe1EecR) | 3:26 | 2022-11-18 | 2023-01-28 |
 | [Balola](https://open.spotify.com/track/2xU6ImNhlmtj2ikpIrjT9e) | [PVPI STRZ](https://open.spotify.com/artist/11Cznn5Yl5mmlY3WRNsuFk) | [Balola](https://open.spotify.com/album/322TI8xl2Se7joQuFGM1fW) | 3:13 | 2022-06-30 | 2022-07-09 |
-| [BANGER](https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [BANGER](https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP) | 2:58 | 2025-07-04 |  |
+| [BANGER](https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [BANGER](https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP) | 2:58 | 2025-07-04 | 2025-11-08 |
 | [Banzutu](https://open.spotify.com/track/4ZOWoIGZML7llXnJKaew7N) | [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU), [Mulele Matondo Afrika](https://open.spotify.com/artist/5NCwkI8Tkijc7Y3YG8nGES) | [Banzutu](https://open.spotify.com/album/7Jzjn8ohUShrkfdx2nItW5) | 4:43 | 2022-06-30 | 2023-08-26 |
 | [Bara](https://open.spotify.com/track/5MP8EHj9F0kXOToFnrZNqu) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Obligée](https://open.spotify.com/album/760U6s9PCeFAa4YYPcoze9) | 2:30 | 2025-05-09 |  |
 | [Barcelona](https://open.spotify.com/track/5ewp2zfpbjAfi8gqQq7FZ7) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Barcelona](https://open.spotify.com/album/3kkqZnyYwUVV3Om9UImDQ4) | 3:28 | 2022-08-26 | 2022-09-03 |
@@ -392,6 +392,7 @@
 | [Mbongo](https://open.spotify.com/track/7MNpmYELfvKKdLHAEUbCet) | [Juvelly](https://open.spotify.com/artist/76JitTMfMxdrHfWZzyqJMh) | [Mbongo](https://open.spotify.com/album/5Jg5DLWuVnf08USPjI1cBs) | 3:56 | 2022-06-30 | 2023-01-06 |
 | [Mbotama Espoir](https://open.spotify.com/track/7uM82MuyEYV7fRpqShWQOy) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Orphée Wemba](https://open.spotify.com/artist/06QyxxTiGim3S3wr316klR), [Otis Olela](https://open.spotify.com/artist/70MabHvVmZj65fDg3bchFX) | [Mbotama Espoir](https://open.spotify.com/album/2El1k9q5ablQFw8aOeJrwf) | 3:56 | 2025-08-28 | 2025-10-11 |
 | [Melinda](https://open.spotify.com/track/3bOEo7bDwqpTZiNhfwi4IX) | [Kabuya](https://open.spotify.com/artist/7vtu3MQdffH966vXmUolGy) | [Melinda](https://open.spotify.com/album/6EsMHDVOyyNAyix75MjIMv) | 2:45 | 2024-07-26 | 2024-10-12 |
+| [Melo Ghetto](https://open.spotify.com/track/60XfVgoW5gfURIWUZLimjQ) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Melo Ghetto](https://open.spotify.com/album/5sVbH8pfdzBHfPdEKnTkpF) | 2:46 | 2025-11-07 |  |
 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-10-20 | 2024-04-19 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-25 |  |
 | [Miel](https://open.spotify.com/track/5xrZngLg030qda7Qd7MvST) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Miel](https://open.spotify.com/album/20fs75YoZE9lEwxNw4GzZu) | 2:22 | 2024-11-22 | 2025-02-01 |
@@ -404,7 +405,7 @@
 | [Mon Amour](https://open.spotify.com/track/7AebhPeS3aGC4OesngC5WK) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx) | [Mon Amour](https://open.spotify.com/album/3HaKNCMHhIqthKSrftGwqG) | 3:13 | 2025-06-06 | 2025-07-12 |
 | [Mon bonheur](https://open.spotify.com/track/7FdHNzHJKCmNlmGZS9owvx) | [Cindy le Cœur](https://open.spotify.com/artist/79pJ6eff5enOPGahcr9PKL), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Mon bonheur](https://open.spotify.com/album/10mo1JVParjtGIAL9pM5p1) | 5:48 | 2024-01-05 | 2024-04-05 |
 | [Mon doudou](https://open.spotify.com/track/4LQhEWxaUSigESJetoNx2E) | [Ewing sima](https://open.spotify.com/artist/4Nc9sa3ZUT4b8Cp4YQKkjj) | [Mon doudou](https://open.spotify.com/album/4jokcX7kQNiaUmr09KH6nH) | 3:09 | 2022-06-30 | 2022-08-06 |
-| [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-02-28 |  |
+| [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-02-28 | 2025-11-08 |
 | [Mood Pt.2](https://open.spotify.com/track/1Rm5415K4UyrcpQOvey81t) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Mood Pt.2](https://open.spotify.com/album/2tBx4UzTVjncOnm8oYVMZs) | 1:12 | 2023-03-17 | 2023-08-05 |
 | [Mopacho Panama](https://open.spotify.com/track/7wbMzPQrM8HF5z5ouQNiZT) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Mopacho Panama](https://open.spotify.com/album/5PmflLOf1xJZt1P7fAbA4D) | 2:59 | 2023-04-14 | 2023-11-25 |
 | [Motema](https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Erratum \(Deluxe Edition\)](https://open.spotify.com/album/12bDmtxnWnTnZxNF8kpvac) | 2:55 | 2022-06-30 | 2023-04-01 |
@@ -526,6 +527,7 @@
 | [Pont rouge](https://open.spotify.com/track/0j4Lz7YvLfj0RyrrpNxkPh) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Légende Ed\. Diamond](https://open.spotify.com/album/6WLcNTGv7zF3bp03dmg3aP) | 8:27 | 2022-11-25 | 2022-12-17 |
 | [Posa na bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa na bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 | 2023-07-21 | 2024-07-13 |
 | [Pour toi](https://open.spotify.com/track/0cIsgvyQaA7rEowTrIQM5Z) | [Dy La Mano](https://open.spotify.com/artist/3KDuwGij0fDmQj7KlXWVnr) | [Pour toi](https://open.spotify.com/album/1RpnjY9j3o95SeacSdYUQW) | 2:41 | 2024-04-12 | 2024-12-21 |
+| [Pression](https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:35 | 2025-11-07 |  |
 | [Pretty Girl Era \- Version Française](https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Pack](https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N) | 2:35 | 2023-06-16 | 2023-12-02 |
 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 | 2022-06-30 | 2023-03-18 |
 | [Quand j'y repense](https://open.spotify.com/track/0sWCXDsedhClISQuKKMJcf) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Quand j'y repense](https://open.spotify.com/album/6UajBxdtW2cxG1Do4hzhpF) | 3:14 | 2023-03-17 | 2024-04-19 |
@@ -549,6 +551,7 @@
 | [Sarah Solo](https://open.spotify.com/track/54rPlGXJmKrzy0DmypjKGa) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5), [Sarah Solo](https://open.spotify.com/artist/6ezpeVsmCk7rlu0VvxSRyp) | [Sarah Solo](https://open.spotify.com/album/0xhkdXFnqDRNjmEPduWcla) | 3:41 | 2024-11-29 | 2025-01-11 |
 | [Science\-Fiction](https://open.spotify.com/track/2GSk3VrKZZGRfDejDmhi86) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Science\-Fiction](https://open.spotify.com/album/5OWv5Bpm5LYBwMGYKFkBpj) | 6:40 | 2022-08-26 | 2022-10-08 |
 | [Se Yo](https://open.spotify.com/track/1dNDtsCf0m5aQ6SdpgyTo1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Se Yo](https://open.spotify.com/album/1Bgi3Kwi0hub7WFY3XKsXz) | 7:21 | 2022-10-07 | 2022-12-03 |
+| [Sens interdit](https://open.spotify.com/track/3hYY8L4NB3kukmKwJpPZbX) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Chair de poule \(Sens interdit\)](https://open.spotify.com/album/2l3ZqUd9xnKAHLqiEPNG8p) | 6:53 | 2025-11-07 |  |
 | [Sensibility](https://open.spotify.com/track/6My28KyHTNjHws88zpYZbx) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Sensibility](https://open.spotify.com/album/0h054hjogUcaFP6wjmQD04) | 2:23 | 2024-12-13 | 2025-09-26 |
 | [SHAOLIN](https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SHAOLIN](https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz) | 2:04 | 2025-02-14 | 2025-04-12 |
 | [Shine](https://open.spotify.com/track/3ymAkyG6LfREJmfEXEaSbk) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Shine](https://open.spotify.com/album/0GQMw7o7HQXdDhteOWC4bc) | 2:59 | 2025-03-21 |  |

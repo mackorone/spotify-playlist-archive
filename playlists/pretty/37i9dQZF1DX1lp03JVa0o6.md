@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Sonny Fodera, Poppy Baskcomb, D.O.D
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,667 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,687 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 12 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 |
 | 13 | [BRUK DOWN](https://open.spotify.com/track/6seStQ8B2Bx2Gnis7LF3cr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parris Goebel](https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [BRUK DOWN](https://open.spotify.com/album/0BirKooSEo10AItZLSquFo) | 2:45 |
 | 14 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
-| 15 | [Bad Girl Energy \(feat\. kamille\)](https://open.spotify.com/track/1GtQKQsGy2RSvev3ZgBnKy) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [](https://open.spotify.com/album/null) | 2:10 |
+| 15 | [Bad Girl Energy \(feat\. kamille\)](https://open.spotify.com/track/1GtQKQsGy2RSvev3ZgBnKy) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [The Afters](https://open.spotify.com/album/0nCB0adZv1ffnrApTIXyXp) | 2:10 |
 | 16 | [My Love \- Rework](https://open.spotify.com/track/6q6GR1UxIkyaVJuUNYtEjw) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [My Love \(Rework\)](https://open.spotify.com/album/5j6St6A4oQCXb8fbWJc8vA) | 3:30 |
 | 17 | [Eraser](https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Some Kind of Alchemy](https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3) | 3:29 |
 | 18 | [Run It Up \(feat\. 24Hrs\)](https://open.spotify.com/track/4vCfipe9rh9mJ5aj0tL22x) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Run It Up \(feat\. 24Hrs\)](https://open.spotify.com/album/7pkL6AKMkRxZxavskhAbdf) | 4:42 |

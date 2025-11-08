@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Francamente
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,332 likes - 113 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,339 likes - 113 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

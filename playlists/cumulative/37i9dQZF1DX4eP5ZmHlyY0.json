@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: BE:FIRST",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: YEONJUN",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 226833,
       "name": "Disco Baby",
       "url": "https://open.spotify.com/track/4Lvm9SuwemRTnzWcJ8YflI"
@@ -5704,6 +5704,28 @@
       "duration_ms": 198000,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/4ByIwUEB12eKgYeFA8NqwV"
+    },
+    {
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "In The Dark (with Stray Kids)",
+      "url": "https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c"
     },
     {
       "album": {
@@ -9008,6 +9030,24 @@
     {
       "album": {
         "name": "Present",
+        "url": "https://open.spotify.com/album/5tq7fJiO0PAXr5AZ9Wm73w"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/6Sj1YUpoWn3IsE0VlHCmMU"
+    },
+    {
+      "album": {
+        "name": "Present",
         "url": "https://open.spotify.com/album/2FNIoMSAQ796xyI06iMnUy"
       },
       "artists": [
@@ -10266,7 +10306,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 177013,
       "name": "Snowy Summer",
       "url": "https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd"
@@ -10867,6 +10907,24 @@
     },
     {
       "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/412kW5chzKk3ucqPurnRMF"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190496,
+      "name": "Sunsets and Cigarettes",
+      "url": "https://open.spotify.com/track/4xk3VG8GMiS65iBtUyZ209"
+    },
+    {
+      "album": {
         "name": "SUPER CRUISIN'",
         "url": "https://open.spotify.com/album/7I9I6ETKigeRg1sx50aArZ"
       },
@@ -11206,6 +11264,24 @@
       "duration_ms": 226812,
       "name": "TALK TO ME NICE feat. TAMP",
       "url": "https://open.spotify.com/track/4iS5v1tumGszKVPkxo1Yrt"
+    },
+    {
+      "album": {
+        "name": "NO LABELS: PART 01",
+        "url": "https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "Talk to You",
+      "url": "https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw"
     },
     {
       "album": {
@@ -13896,7 +13972,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 240000,
       "name": "\u541b\u304c\u3044\u305f\u304b\u3089",
       "url": "https://open.spotify.com/track/28wjCqjicbFcgfMNGA7EsB"

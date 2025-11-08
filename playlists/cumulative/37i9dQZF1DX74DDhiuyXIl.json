@@ -6527,6 +6527,28 @@
     },
     {
       "album": {
+        "name": "\u610f\u5916\u52c7\u6562\u7684\u81c9\u9f90",
+        "url": "https://open.spotify.com/album/02Q1kcBehDZuZ7C7gNe6cO"
+      },
+      "artists": [
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        },
+        {
+          "name": "Rene Liu",
+          "url": "https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247392,
+      "name": "\u610f\u5916\u52c7\u6562\u7684\u81c9\u9f90 (\u300a\u6211\u5011\u610f\u5916\u7684\u52c7\u6c23\u300b \u96fb\u5f71\u6b4c\u66f2)",
+      "url": "https://open.spotify.com/track/58MACqp7zbHhiRszHpa9og"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u5982\u5728\u6b4c\u88e1\u9047\u898b",
         "url": "https://open.spotify.com/album/7bJpER8m82kNz2y2vM7PC5"
       },
@@ -10252,7 +10274,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 295833,
       "name": "\u76f8\u9047\u7684\u5b63\u8282",
       "url": "https://open.spotify.com/track/5vMoLMJQPl5QTIY1tcN0ot"

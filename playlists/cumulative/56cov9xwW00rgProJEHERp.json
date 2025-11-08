@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "forever and always",
+        "url": "https://open.spotify.com/album/2I55s8m8rGt5dAiDUsKMId"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148666,
+      "name": "chemicals",
+      "url": "https://open.spotify.com/track/7AuN02JzwTXPwWL3djCu8y"
+    },
+    {
+      "album": {
         "name": "Cinder Block",
         "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
       },

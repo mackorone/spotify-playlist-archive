@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Tim Godfrey
 
-6,658 songs - 20 day 8 hr 22 min
+6,660 songs - 20 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1752,6 +1752,7 @@
 | [forever](https://open.spotify.com/track/4aSxxI6RlXqm7bMgudZUBq) | [Belema Mark](https://open.spotify.com/artist/0235gm4VnaT45omk7QDiwo), [TOBI SAMAGBEYI](https://open.spotify.com/artist/5fNHT1NiZxeXfQphY9zvcG) | [forever](https://open.spotify.com/album/5EPOB5woetyDR1nrRHGQbA) | 3:06 | 2025-09-26 | 2025-10-10 |
 | [Forever](https://open.spotify.com/track/5NkYmbIrzIsk9EtCekrch9) | [Brave Dyakkoh](https://open.spotify.com/artist/0mPUxo9RlPxbssjTPg46KI), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Forever](https://open.spotify.com/album/2dTPV7YZH1yDyhaUBkeDw7) | 2:59 | 2025-09-12 | 2025-09-26 |
 | [Forever](https://open.spotify.com/track/0BuP8m0u9Bf0vMkBaBol0J) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Earlvis](https://open.spotify.com/artist/55xR4YGpMUbmYUZbm7k7I7) | [Forever](https://open.spotify.com/album/18Zw79gDcVWWxoGrAz7P22) | 2:47 | 2023-11-24 | 2023-12-08 |
+| [Forever](https://open.spotify.com/track/3SNJP6cLLCofkKucLeuuLq) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Worship & Rap \(WAR\)](https://open.spotify.com/album/43SIoLKM59lL603KWslN8D) | 3:51 | 2025-11-07 |  |
 | [Forever](https://open.spotify.com/track/5cjSZ9mwRBhQlPIjgJH6NU) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Forever](https://open.spotify.com/album/22C8GuxjWnFDVD7XTYYtYe) | 3:04 | 2024-07-12 | 2024-07-27 |
 | [Forever](https://open.spotify.com/track/5Ek7keUCEPZBqg1EDdMVkp) | [Mojisola](https://open.spotify.com/artist/7B3hxItP97N9oYzvrTKFb8) | [Forever](https://open.spotify.com/album/23ZNCtbNWH5CogGBvqb3m7) | 3:36 | 2024-04-05 | 2024-04-19 |
 | [Forever \- Special Version](https://open.spotify.com/track/6dlkN5nFpa8vWNH1FxiUkd) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Forever \(Special Version\)](https://open.spotify.com/album/620kmtzPjfoicvVfNDgYDE) | 2:39 | 2024-08-09 | 2024-08-23 |
@@ -5088,6 +5089,7 @@
 | [See](https://open.spotify.com/track/6OrxLzttku87JjInb0rArF) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [See](https://open.spotify.com/album/7tlyRPIXHC9lrJRJVduK6B) | 4:17 | 2024-05-03 | 2024-05-17 |
 | [See His Glory](https://open.spotify.com/track/0kGgCR2iVls0bEOSNd8TT8) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Songs of Revelation \(Season 2\)](https://open.spotify.com/album/1qYOsbRGLX6nVXxZpSHegp) | 5:01 | 2024-09-27 | 2024-10-11 |
 | [See How Far You've Brought Us](https://open.spotify.com/track/3zjCCCxnVoa19rd1YFKbFA) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [From Glory To Glory](https://open.spotify.com/album/67CzfKTUb3SP0Yt4OFPQ6n) | 2:19 | 2024-11-08 | 2024-11-22 |
+| [See What the Lord Has Done](https://open.spotify.com/track/3IVWpAuUmAzyDueByHuEgB) | [T\-Brain](https://open.spotify.com/artist/5stCKxG4rQpk4H1t9rchcO) | [See What the Lord Has Done](https://open.spotify.com/album/4EWiPHiIQLsUQgxbZ58LxQ) | 2:55 | 2025-11-07 |  |
 | [See You](https://open.spotify.com/track/3GV4OfoWXdRDXtykKH1qr0) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [See You](https://open.spotify.com/album/3J2vog5b9htRQpCMNxvVZm) | 2:22 | 2025-01-31 | 2025-02-15 |
 | [Seed of Abraham \- Live](https://open.spotify.com/track/0BIK4pLSkI2uX7Iy5giEfZ) | [Rev\. Ifueko Charmien](https://open.spotify.com/artist/4L0XXOkFK4XRX7mJ2tBn0p) | [Seed of Abraham \(Live\)](https://open.spotify.com/album/6lahOZMOVr1er22ExFlAmd) | 6:55 | 2025-04-11 | 2025-04-18 |
 | [seek first](https://open.spotify.com/track/0kW6D00gALN72of3vx83Pb) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [seek first](https://open.spotify.com/album/6Vsud2e3qK0HMmGgG6Iakk) | 2:09 | 2024-01-05 | 2024-01-19 |
@@ -5831,7 +5833,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 5](https://open.spotify.com/track/3SNJP6cLLCofkKucLeuuLq) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-07 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |
@@ -6276,6 +6277,7 @@
 | [WONDER](https://open.spotify.com/track/1VAt7pJD9WGh7TjB9Dt5YF) | [Philip Nel](https://open.spotify.com/artist/5oyJHS39vvvJQzvazBqvIO) | [WONDER](https://open.spotify.com/album/2fLvLRVTBKfrLPh5ZUYFae) | 4:38 | 2024-01-26 | 2024-02-02 |
 | [Wonder](https://open.spotify.com/track/6eE0eTXLgcCTb3Zbz4Hx3N) | [Steve Rhema](https://open.spotify.com/artist/6Kh0D0JaOXIPRzD5BI9YwN) | [Wonder](https://open.spotify.com/album/17GDHCuYlznqeigQMkN6bv) | 2:16 | 2024-04-19 | 2024-05-03 |
 | [Wonder \(IDAN\)](https://open.spotify.com/track/6AHnGYipXQPYsJCLonDbyn) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Wonder \(IDAN\)](https://open.spotify.com/album/3CwVfkaLLi0rODoDJbf57v) | 2:44 | 2025-01-31 | 2025-02-15 |
+| [Wonder \- Live](https://open.spotify.com/track/03BNTwK0qe9D6wBMO5LYxb) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Dasola Akinbule](https://open.spotify.com/artist/3KtHE6V7DOxSYtfvEXAIQl) | [Wonder \(Live\)](https://open.spotify.com/album/3QqGgHToaqwRwqRwEfGClD) | 6:57 | 2025-11-07 |  |
 | [Wonder \- Remix](https://open.spotify.com/track/5nUdsVSaQq1bOAH59O57is) | [Steve Rhema](https://open.spotify.com/artist/6Kh0D0JaOXIPRzD5BI9YwN), [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Wonder \(Remix\)](https://open.spotify.com/album/78qQA1tEml0n0i1ClZubeg) | 3:10 | 2024-11-22 | 2024-12-06 |
 | [WONDER GOD](https://open.spotify.com/track/3W3sPDvew7WQKtHb58exKP) | [Paul Opeyemi](https://open.spotify.com/artist/3zpWH3faND9t88XUdzgtWG) | [WONDER GOD](https://open.spotify.com/album/7tHK4DjQXpjgmFUstTsHka) | 3:32 | 2023-06-09 | 2023-06-16 |
 | [WONDER GOD, Vol\. 2](https://open.spotify.com/track/6phdMGEjkgTdIto2HNznJn) | [Paul Opeyemi](https://open.spotify.com/artist/3zpWH3faND9t88XUdzgtWG) | [WONDER GOD, Vol\. 2](https://open.spotify.com/album/25hrTpqYv2CGFXSCw8hssb) | 3:37 | 2024-03-22 | 2024-03-29 |

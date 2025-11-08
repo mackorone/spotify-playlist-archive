@@ -4,30 +4,33 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,548 likes - 21 songs - 1 hr 18 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,553 likes - 24 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I’m the Last to Know](https://open.spotify.com/track/4er0sjP0z6VJcRFtGjlA0K) | [Blowsight](https://open.spotify.com/artist/53AE5CRxMddOKRxKE4oGKZ) | [I’m the Last to Know](https://open.spotify.com/album/0nG5SGLCImeTsDDPSeCxXr) | 4:24 |
-| 2 | [Suntitled](https://open.spotify.com/track/6z3w8YvtV3sdinyZZXexgr) | [sunfade](https://open.spotify.com/artist/4NnJCD1J8mF7lcBy4DSCSW) | [Dead Center](https://open.spotify.com/album/5XPJWk7bv8Y9hLwvoAuNbE) | 3:24 |
-| 3 | [YILDIZ](https://open.spotify.com/track/0WXhAblqgJBehgd7S8EjIL) | [Sultan](https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM) | [YILDIZ](https://open.spotify.com/album/4IxlS1zTKOEFlkC3gqe4hJ) | 2:34 |
-| 4 | [Better or Worse](https://open.spotify.com/track/44iwHv2nYMUObK0M0gOkrt) | [Fudge](https://open.spotify.com/artist/4B7UnUpRPBtn1KkwndsNfy) | [Better or Worse](https://open.spotify.com/album/0q3Y7G0fsvilwRrX8vBvbL) | 4:42 |
-| 5 | [Easy Now](https://open.spotify.com/track/62StDbe4WBE5MexWAO2ssv) | [Diamond Lake](https://open.spotify.com/artist/3YnOglp7zfx07lQoasp86H) | [Easy Now](https://open.spotify.com/album/1krzmmaHnuuqYVbHLZYSLo) | 4:27 |
-| 6 | [Come Take Me Home](https://open.spotify.com/track/5bmwBghq2Nmwz4Gtg6AzbU) | [Oliver Bentley](https://open.spotify.com/artist/7pHfsCiXrweMrhWcW3jxoM) | [Lonely Life / Come Take Me Home](https://open.spotify.com/album/0xGIeSglFsytagYHffnjFw) | 2:53 |
-| 7 | [Ashtray](https://open.spotify.com/track/12g0YTzd0AefhskCypQUdi) | [0Cartman0](https://open.spotify.com/artist/5ZYquXCKzX0aw8IYGPhFFY) | [My life feels like retirement](https://open.spotify.com/album/4lQIuUB96qi1nj0LhZRNC8) | 5:00 |
-| 8 | [Fractured Mind](https://open.spotify.com/track/7JEH70JKRtbmXPU67iK2Pj) | [Rowan Vale](https://open.spotify.com/artist/3lsi3CLA2QZJTUpn77rzgs) | [Fractured Mind](https://open.spotify.com/album/0S0kEjQLpWIROBEJBfx5uk) | 3:48 |
-| 9 | [The Anthem](https://open.spotify.com/track/1UN8oMVFEWJXhKfItbTc19) | [Rune Squad](https://open.spotify.com/artist/0y6JLp7laffQGvb2HaTdQy) | [The Anthem](https://open.spotify.com/album/4WFMwel3ntCglRplCFSI8C) | 3:00 |
-| 10 | [Desire](https://open.spotify.com/track/7dNa6FnbByd2N86naLlGii) | [Alice Wonder](https://open.spotify.com/artist/49owthFXwhe4VH8BXkWqlL) | [Desire](https://open.spotify.com/album/1rZz3qjGoTfMqS5deFob0j) | 4:01 |
-| 11 | [Despierta al Sol](https://open.spotify.com/track/02xEuHn01LzPBL6iHdOKdN) | [Cristian Sideral](https://open.spotify.com/artist/0UrmcCR2IHT8Eo3AjcxTgT) | [Imposible No Sentir](https://open.spotify.com/album/0F6yoDwokXh9f4GIX99d4K) | 3:36 |
-| 12 | [Mention me](https://open.spotify.com/track/4bgunIFfJwutKQLAUmNivU) | [Odessa K](https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7) | [Mention me](https://open.spotify.com/album/026CBrXrBl3CDPwp7G1xtH) | 4:42 |
-| 13 | [Popcorn & Coke](https://open.spotify.com/track/7jbVkm32f6umnZyCuWEfga) | [Black Magic Tree](https://open.spotify.com/artist/34bwj7wH6pMjhMkHKzWNyf) | [Popcorn & Coke](https://open.spotify.com/album/1vSMFMeCgYqVAYGgvM2g9P) | 2:59 |
-| 14 | [LAST LIGHT](https://open.spotify.com/track/1CsZ5zYsfZxJl8q7iXSYgH) | [Caroline Leander](https://open.spotify.com/artist/1kOCTXCa1FVJCuzNmOI86V) | [LAST LIGHT](https://open.spotify.com/album/0pfNoqrfnTHID7D87Wqeh3) | 3:43 |
-| 15 | [MUSE](https://open.spotify.com/track/4tz61ewGLTTOemUAld4t2E) | [Shardai](https://open.spotify.com/artist/0xeflyMmwxuRyBmh4NU6iu) | [MUSE](https://open.spotify.com/album/7MmjOEnQqks8yaEsYVCBMN) | 2:58 |
-| 16 | [DIN RÖV ÄR GAME OVER](https://open.spotify.com/track/2y6WgEsjh0SF548m7bTDPE) | [SVART MAMBA](https://open.spotify.com/artist/6nseZXjajZZXIpxruwFC3H) | [INGA SVAR](https://open.spotify.com/album/5qxsv2vxCThLYdMVdV9ceC) | 2:10 |
-| 17 | [Magnifique](https://open.spotify.com/track/5GYPMp9ykqJwKE9XpLfo8K) | [Albion](https://open.spotify.com/artist/36NalusURzK3JANINJLyYt) | [Magnifique](https://open.spotify.com/album/5Fs0lta1onFmQVcvRujBwU) | 5:01 |
-| 18 | [Beak And Claw](https://open.spotify.com/track/1q9Iyf62QkzbWmW7j61KA5) | [Veins Of Death](https://open.spotify.com/artist/4i1CfcmWm2HV3OXxEQYrRA) | [Beak And Claw](https://open.spotify.com/album/1ia3iCuxXQt0tYrdcFLxsH) | 3:34 |
-| 19 | [Planetary Annihilation](https://open.spotify.com/track/6tgKVxkBXOyKZzXzQDLuGb) | [RV820](https://open.spotify.com/artist/3vgJsILg5d3B1FcJ2zWm62) | [State Of Minds](https://open.spotify.com/album/3HVGHwCb3X2jwxQ8Tq5OUP) | 5:32 |
-| 20 | [My Evermore](https://open.spotify.com/track/2bh2CIX8VHwNT4Gec5elpI) | [Red Heart](https://open.spotify.com/artist/3jfjGrdg6pXh059TIUGFFW) | [My Evermore](https://open.spotify.com/album/0SR1s97kaFOMT7z1n9bZWS) | 4:29 |
-| 21 | [Die Die Die](https://open.spotify.com/track/2PAVTcYXNNS68lLqQZxFa7) | [The Coffinshakers](https://open.spotify.com/artist/40MSz9KU6J8HDdfATbQzO2) | [Halloween EP](https://open.spotify.com/album/4TD181hXcOuOzRzmhh2zj4) | 1:27 |
+| 1 | [ENERGIZE \- From "Subway Surfers"](https://open.spotify.com/track/5DmavZdw6ZlKO1tzkBgcMj) | [Subway Surfers](https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ) | [ENERGIZE \(From "Subway Surfers"\)](https://open.spotify.com/album/0QCUB1jE1t2uWcwE9fATOR) | 2:25 |
+| 2 | [18 Marraskuuta \- Naurava Poika](https://open.spotify.com/track/7fmSJ221y9UG6L2juz1anr) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Paijaa Mua \(Deluxe Edition\)](https://open.spotify.com/album/3FYbsYPy4CC6DvZbwNuXhv) | 4:19 |
+| 3 | [Eldr Himins](https://open.spotify.com/track/1GmVSdm1Lv0jPoIVOcebZ9) | [Vǫluspá](https://open.spotify.com/artist/04sNuGpenIU7aYWLTycRN7) | [Eldr Himins](https://open.spotify.com/album/1jGqROnx5TK4r9m4Ql3jGA) | 2:56 |
+| 4 | [En Evighet Av Samma Sak](https://open.spotify.com/track/7F2DWpko65EgYxg8a4j41v) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [En Evighet Av Samma Sak](https://open.spotify.com/album/2VTLizYleVV0mcBFBQcB2g) | 3:35 |
+| 5 | [Christmas Without You](https://open.spotify.com/track/6pbgNBJjkBbSgJayVF5kNa) | [GINAxC](https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ) | [Christmas Without You](https://open.spotify.com/album/6vMu6RCC1mrm9uRl2z0IBW) | 2:53 |
+| 6 | [Swedish Western Song](https://open.spotify.com/track/4NAMOhoOa8dD4vmUHx8Tff) | [Mejeristerna](https://open.spotify.com/artist/27P0zwyOk3CLx4sTBwj1ha) | [Swedish Western Song](https://open.spotify.com/album/2MGl3f6UTJiJeh2AkMAfJt) | 3:06 |
+| 7 | [Kintsugi](https://open.spotify.com/track/3jHKdASGn0XtZ01YctuBKx) | [Orvokki](https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e) | [Malus](https://open.spotify.com/album/4s3cnAqw7N3QbOeat000rA) | 3:21 |
+| 8 | [Mirror](https://open.spotify.com/track/1BtuMoBlK8z9WUgmNn4NXo) | [handmedown](https://open.spotify.com/artist/2740qCmw25E7mSHJtGp5Dm) | [Mirror](https://open.spotify.com/album/3I5BLFoqFvBoE3sl4WnJwa) | 2:47 |
+| 9 | [Obsession](https://open.spotify.com/track/26mOKXB9aKKFVOuZb8HqoT) | [Yoram](https://open.spotify.com/artist/1Q0OZ1OprMRqD20wQRqf2t) | [OBSESSION](https://open.spotify.com/album/7y3T8fBgQONb0DAKaVsQ4P) | 5:33 |
+| 10 | [Har du sett herr kantarell?](https://open.spotify.com/track/6SvxVFI2Wk1BgSUFeAC3z8) | [Alice!](https://open.spotify.com/artist/65d1TQRQUu0vI2jaTvWXyP) | [Har du sett herr kantarell?](https://open.spotify.com/album/0pXwwcxKwohXMeJhgkxcqp) | 2:00 |
+| 11 | [Whirlwind Woman](https://open.spotify.com/track/1ovp4OjyZMgKckrnwUGoWD) | [Odessa K](https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7) | [Whirlwind Woman](https://open.spotify.com/album/344nRZ6uLRbJngJlrZOnuK) | 4:20 |
+| 12 | [Margarita Beach Cocktail](https://open.spotify.com/track/0FEoMV0gPMRxJrNq65v58p) | [Nini.Em](https://open.spotify.com/artist/6o0Fo7FnRKUfPR1jizOWAn) | [Margarita Beach Cocktail](https://open.spotify.com/album/6QJEqf9odvRGOxSiHSFkfT) | 4:05 |
+| 13 | [Juan Mecánico](https://open.spotify.com/track/7Hi7NNlxqHvrNHUCLeP7Hd) | [Marcus Labbe](https://open.spotify.com/artist/1DYodZXmkPwoNE0mx9Zske) | [100 Años de Prosperidad](https://open.spotify.com/album/4UBv6PYy6mETS30bMzVJPJ) | 2:27 |
+| 14 | [She's Gone](https://open.spotify.com/track/3VJ2LSL1GzuO1sVqJLOITI) | [Mitchell Scott](https://open.spotify.com/artist/3DmpLta2koDEWveHf0XbYR) | [She's Gone](https://open.spotify.com/album/32nt2jQabvjlurdmiD400n) | 3:42 |
+| 15 | [I See U](https://open.spotify.com/track/0fD8vwveWuXDUdjnlBb4y2) | [Pearl Valentine](https://open.spotify.com/artist/05SEy5OKlBFBONypOzMRIe) | [I See U](https://open.spotify.com/album/3HOFMYefxKhqfLw4WlX5eo) | 4:03 |
+| 16 | [Baby pookie](https://open.spotify.com/track/1H1ArjZfZdqucHwLMyewFW) | [MAKS](https://open.spotify.com/artist/4lSKazS1CNfMbE4XIBoku6) | [Baby pookie](https://open.spotify.com/album/0c6NIyXiP3bJFp75KYTTuZ) | 2:20 |
+| 17 | [I Love This Town \(but the people suck!!\)](https://open.spotify.com/track/1ZAPNQCF7UOa9nQAIhq7PC) | [The Loner Collective](https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO) | [I Love This Town \(but the people suck!!\)](https://open.spotify.com/album/5gT3z8Wl2fMi8myqr4lkgR) | 2:24 |
+| 18 | [Flip it till I make it](https://open.spotify.com/track/3CqhEZaeVksB1GdpArsWJX) | [Freddyrobb baby](https://open.spotify.com/artist/2Wwq5ojGeu2csuAMhRigDw) | [Flip it till I make it](https://open.spotify.com/album/6UwKM8yWraEHqxUv2AXteE) | 2:45 |
+| 19 | [Space Is Dead](https://open.spotify.com/track/081PThGwC2xyUde2F77Edw) | [Far Out Telescope](https://open.spotify.com/artist/3TWGpNvQOIphACAn2lMdnh) | [Space Is Dead](https://open.spotify.com/album/5FkzzPB00z9eWmofurWmrd) | 7:24 |
+| 20 | [Sepaline](https://open.spotify.com/track/33KzLOb0bb5H1g4W4oYQT1) | [Chris Anderson](https://open.spotify.com/artist/4nfoUCJjwFU3EwN8fRvqgt) | [Sepaline](https://open.spotify.com/album/6HWHvmPhj6rXXE88yhLZZa) | 3:22 |
+| 21 | [Firefly spy](https://open.spotify.com/track/1qZLGS3YZnSrv7fjTtpkQP) | [Tower of Foil](https://open.spotify.com/artist/51x0jeQstdF9PS1D5TLkrt) | [Four Waltz](https://open.spotify.com/album/1hnPMkyIW3ToPU1CLKTQsz) | 3:16 |
+| 22 | [Morgonljuset](https://open.spotify.com/track/0BkUj1I8prSn5TW6dUf6yT) | [Valter Huldén](https://open.spotify.com/artist/4gZrac1vb3SU13WMIuaM7S) | [Morgonljuset](https://open.spotify.com/album/2TYFrYVDSvsRaNmhZKs347) | 3:53 |
+| 23 | [Sorg och glädje](https://open.spotify.com/track/5UVoxOMRmXnIBNNPYMfvQN) | [Amanda Snäll](https://open.spotify.com/artist/74vbC40DJYWRx5SVenXH0D) | [Sorg och glädje](https://open.spotify.com/album/5X14sC5gF346fvo3c4p1WU) | 3:19 |
+| 24 | [Redneck Santa](https://open.spotify.com/track/43B7n0EQ9Ct9nZS0mgvwkI) | [Jodi Moore](https://open.spotify.com/artist/10xhhIPVwzNV1EnHCUzt5g) | [Here's To Christmas](https://open.spotify.com/album/2TjPYYkTvdDgDmNmouGbPc) | 2:57 |
 
-Snapshot ID: `AAAEXHma6G8m3fLql28NgK1v0EaFAYIs`
+Snapshot ID: `AAAEYtsPvpKBkwVqp3iKwuRSjMX4m/Ni`

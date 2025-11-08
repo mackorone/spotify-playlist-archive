@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: on/no
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Cheyada
 
-276 songs - 19 hr 52 min
+277 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [ยอมเธอ\(ahhh\)](https://open.spotify.com/track/7pMs1Te4Z2KwJbqx1j7nyl) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [ยอมเธอ\(ahhh\)](https://open.spotify.com/album/3HuQtv6FggFCkTnNav87wh) | 3:44 | 2024-11-22 | 2024-12-14 |
 | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/track/1J3iDnjS2TFCfWYVSh7F18) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/album/68HaaheRhVVNkDilm5qE7A) | 4:56 | 2024-06-21 | 2024-10-19 |
 | [ยังคิดถึงอยู่เลย](https://open.spotify.com/track/6pSVHNVH1kZjlRu9DSm8op) | [sriattle](https://open.spotify.com/artist/3SHuorzd9Ib3cz0tGvnYxn) | [ยังคิดถึงอยู่เลย](https://open.spotify.com/album/1C9kzjo2lH0sW9tfFBCQ9O) | 4:54 | 2025-02-28 | 2025-03-08 |
+| [ยามวิกาล](https://open.spotify.com/track/45IU7fMOqqtQOBzRqYiq9e) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ยามวิกาล](https://open.spotify.com/album/1Mj8Ys9nyHdT6MbO39RbNE) | 3:32 | 2025-11-07 |  |
 | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN) | [Almondeptt](https://open.spotify.com/artist/77p8feYnlVx5htNAWQxXi9) | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/album/7pSxZAv4NE47r4mvfsXaEq) | 2:50 | 2025-03-07 | 2025-03-22 |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
 | [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
@@ -223,7 +224,7 @@
 | [เคียงข้างเธอ](https://open.spotify.com/track/1fMuv5QWejzNhXVfmOWgXj) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เคียงข้างเธอ](https://open.spotify.com/album/1YSKzm0KUwsarP24mPSAHp) | 4:39 | 2024-12-26 | 2025-01-17 |
 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 | 2024-06-21 |  |
 | [เจ็บเจียนตาย](https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l) | [เจ็บเจียนตาย](https://open.spotify.com/album/5bMYyPH1NNjjIndYf1xL7r) | 4:10 | 2024-10-18 | 2025-09-13 |
-| [เตียงสีขาว \(ROM\)](https://open.spotify.com/track/4W3wTU3qXwR9BdTqMZacXB) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เตียงสีขาว \(ROM\)](https://open.spotify.com/album/6yBvzGc1gAp5ytTORtcjua) | 5:33 | 2025-06-20 |  |
+| [เตียงสีขาว \(ROM\)](https://open.spotify.com/track/4W3wTU3qXwR9BdTqMZacXB) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เตียงสีขาว \(ROM\)](https://open.spotify.com/album/6yBvzGc1gAp5ytTORtcjua) | 5:33 | 2025-06-20 | 2025-11-08 |
 | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 | 2025-06-06 | 2025-10-18 |
 | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/album/5Hc4DEVAgvwGFkTVUK4LGO) | 5:45 | 2024-06-28 | 2024-08-03 |
 | [เธอมองนาฬิกา](https://open.spotify.com/track/2giiZU3ufvysvV6Pltqkv8) | [macaw and the flowers](https://open.spotify.com/artist/3u8LeIuojQOVvjSAVBKmci) | [เธอมองนาฬิกา](https://open.spotify.com/album/1YqHbNnhb02QHuv6T0Nr8W) | 3:43 | 2024-09-27 | 2024-10-19 |

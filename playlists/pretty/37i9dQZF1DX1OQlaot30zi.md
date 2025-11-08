@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sayf Artie e Guè, Papa e Nerissima, Geolier, Astro, RRARI DAL TACCO, Aira e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,684 likes - 121 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,739 likes - 121 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 5 | [Leggendario](https://open.spotify.com/track/2p2EvC7GtIDYbJqfUcWCCK) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Leggendario](https://open.spotify.com/album/4mkWsoZEQctTtRVkQTVID0) | 2:32 |
 | 6 | [Tocco Pitocco](https://open.spotify.com/track/0gYffd4envdyCft10iF45g) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Tocco Pitocco](https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU) | 2:43 |
 | 7 | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/track/7d61TYD3b29COOCNAap2b8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/album/0hy1MZJH0K6tyzqlHbbDqr) | 2:55 |
-| 8 | [Malade mental](https://open.spotify.com/track/7g9cp3XJzSJvmRsAOzp0p5) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [Malade mental](https://open.spotify.com/album/4Aq1N7k68GaumS1ejJy7ry) | 3:02 |
+| 8 | [Malade Mental](https://open.spotify.com/track/7g9cp3XJzSJvmRsAOzp0p5) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [Malade Mental](https://open.spotify.com/album/4Aq1N7k68GaumS1ejJy7ry) | 3:02 |
 | 9 | [Cool \(feat\. MACE, Side Baby, Mahmood, Jake La Furia\)](https://open.spotify.com/track/3EgF4mPCOLTquMKeD911bi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 4:43 |
 | 10 | [No Pinscher \(feat\. Nerissima Serpe, Papa V & Rhove\)](https://open.spotify.com/track/6qaIxiM2EFYaec3oBaRqwj) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Best](https://open.spotify.com/album/169sTK9nskG7EdmL78KR8y) | 2:38 |
 | 11 | [PIANO DI FUGA](https://open.spotify.com/track/0Noij5zsAy0u3gUJGlHmpL) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [PIANO DI FUGA](https://open.spotify.com/album/4XMR4oKi1KlrjujVv4Ac1o) | 2:14 |

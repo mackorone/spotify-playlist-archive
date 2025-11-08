@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,075 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,092 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [FZND DNV](https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [FZND DNV](https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5) | 2:14 |
 | 75 | [Garrafa Rosé](https://open.spotify.com/track/5AO7MCthe2dYAfqZbzeV5o) | [Cold](https://open.spotify.com/artist/2yj5kYctrH6DViY3gKGUUm), [Dael](https://open.spotify.com/artist/6Uy2GiLcsMHecZeLAO2vWB), [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Garrafa Rosé](https://open.spotify.com/album/1v65QyYUmmPeljpqMN9ejq) | 3:53 |
 
-Snapshot ID: `AAAAABrwvshHQ9ohKiieywoxf8MIyz47`
+Snapshot ID: `AAAAAF2IxPBAXLHISJoh2D8DiS8QNQCk`

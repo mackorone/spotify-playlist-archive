@@ -821,6 +821,28 @@
     },
     {
       "album": {
+        "name": "Apparition",
+        "url": "https://open.spotify.com/album/5McFM0iyPTlRWWAWj6W8rr"
+      },
+      "artists": [
+        {
+          "name": "Saltwound",
+          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
+        },
+        {
+          "name": "Great American Ghost",
+          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/4lbQzF4Kum8RZzaWSlVrPC"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/7adD2POLb9tawK0Kcp2p8U"
       },
@@ -1493,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Blade Between the Teeth",
+        "url": "https://open.spotify.com/album/1fWsu9q3HgkBW9Miw6QdS6"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166346,
+      "name": "Blade Between the Teeth",
+      "url": "https://open.spotify.com/track/75fvKk1uW8imdFqfCtoUNg"
+    },
+    {
+      "album": {
         "name": "Blasphemy Made Fresh",
         "url": "https://open.spotify.com/album/4DLk0a7Wr1h24uAuU2X578"
       },
@@ -2084,7 +2124,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 131373,
       "name": "CASKET CADAVER",
       "url": "https://open.spotify.com/track/0B9D4xAL1tTEAswooJsnar"
@@ -5621,6 +5661,24 @@
     },
     {
       "album": {
+        "name": "Conduct of Flies",
+        "url": "https://open.spotify.com/album/4ELf3bGTgEBd1PVHzRHQbZ"
+      },
+      "artists": [
+        {
+          "name": "Hive",
+          "url": "https://open.spotify.com/artist/5DA5dDq3y1s10tuBK4HVn6"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "God of Polonium",
+      "url": "https://open.spotify.com/track/0TisNaP6rzNTyRDvmWDi9X"
+    },
+    {
+      "album": {
         "name": "World Architects: Integration",
         "url": "https://open.spotify.com/album/7w1kF6J03vVXLgsJofyUrS"
       },
@@ -6906,7 +6964,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 238053,
       "name": "Infested",
       "url": "https://open.spotify.com/track/1cEnkOGW4qXk7QIm2bAq8W"
@@ -8350,7 +8408,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 228493,
       "name": "Murder8",
       "url": "https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm"
@@ -9618,6 +9676,28 @@
       "duration_ms": 270484,
       "name": "Portrait of God",
       "url": "https://open.spotify.com/track/1W9sFH9GnNHPHYWNvkdN8A"
+    },
+    {
+      "album": {
+        "name": "POSTMORTEM ANOMALIES",
+        "url": "https://open.spotify.com/album/4ZcALjg9LmEWU7I6d8B6xI"
+      },
+      "artists": [
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        },
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "POSTMORTEM ANOMALIES",
+      "url": "https://open.spotify.com/track/43uo4tgy8C1rDNGmJmwATm"
     },
     {
       "album": {
@@ -12022,7 +12102,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 197614,
       "name": "The Isnis",
       "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"

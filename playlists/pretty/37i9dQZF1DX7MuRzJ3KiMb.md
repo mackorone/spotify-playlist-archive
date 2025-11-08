@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > Los nominados en la mayor celebración de la música latina del 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,003 likes - 157 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,005 likes - 157 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 18 | [Bogotá](https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [BOGOTÁ](https://open.spotify.com/album/74imuWw1wN5lI4hiX57410) | 3:15 |
 | 19 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 |
 | 20 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
-| 21 | [te quiero](https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [te quiero](https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B) | 3:35 |
+| 21 | [te quiero](https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji) | [Nic](https://open.spotify.com/artist/2gkxJPrQK782uTBGA29w5k) | [te quiero](https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B) | 3:35 |
 | 22 | [Gracias](https://open.spotify.com/track/3WN3NDopqbJbYugYds7cQ8) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Gracias](https://open.spotify.com/album/7xHrrovWnL4xpFsNx9m3Al) | 2:58 |
 | 23 | [SONAR POR BULERÍAS](https://open.spotify.com/track/7LEdeh88EpW8GjIs28ZtTu) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [LA GUITARRA FLAMENCA DE YERAI CORTÉS](https://open.spotify.com/album/55iqOmWvLftEZUGdMWzG43) | 3:26 |
 | 24 | [Crueldá](https://open.spotify.com/track/5gkmxWR2jFeRHHoIfVFsGU) | [Camila Guevara](https://open.spotify.com/artist/36dfXp3cv7hHtAu31fLs6K) | [Dame Flores](https://open.spotify.com/album/2fISABRcpXBsiMotS8Ln8V) | 4:08 |

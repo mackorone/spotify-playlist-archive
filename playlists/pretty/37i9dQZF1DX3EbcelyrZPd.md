@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Abigail Chams
+> Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,664 likes - 59 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,716 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 54 | [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 |
 | 55 | [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 |
 | 56 | [No Stress](https://open.spotify.com/track/1qwAufkn1HNoDTLNAxItdv) | [Nandy](https://open.spotify.com/artist/4BAqXsmyKo72kZuG4tkv4m) | [No Stress](https://open.spotify.com/album/4Jx3PlbkvB1Rs25h36gELZ) | 2:36 |
-| 57 | [Wazimu \(feat\. Jaivah\)](https://open.spotify.com/track/66MV06pAlAaVXYwcgFgYf4) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Wazimu \(feat\. Jaivah\)](https://open.spotify.com/album/5SpylV6qKOtcGvkyRiR2Uj) | 3:43 |
-| 58 | [Go](https://open.spotify.com/track/4RuMpok66IGRwuf46PX5xo) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Go](https://open.spotify.com/album/64PZGw0BVsvm8vflfar9Gr) | 2:55 |
-| 59 | [Upendo](https://open.spotify.com/track/6qRTFjQCkdfQKgY68QQr96) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Upendo](https://open.spotify.com/album/1112N3GxCGKwDeJY2dd42W) | 3:45 |
+| 57 | [Ameshanipenda](https://open.spotify.com/track/6XdaZiu1XgMTukzQyWQayq) | [B2k Mnyama](https://open.spotify.com/artist/6hp6heK85J9Yjmmtez7wVx) | [Ameshanipenda](https://open.spotify.com/album/3xcjhkDSK6DYh2rbMiOldF) | 3:45 |
+| 58 | [Wazimu \(feat\. Jaivah\)](https://open.spotify.com/track/66MV06pAlAaVXYwcgFgYf4) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Wazimu \(feat\. Jaivah\)](https://open.spotify.com/album/5SpylV6qKOtcGvkyRiR2Uj) | 3:43 |
+| 59 | [Go](https://open.spotify.com/track/4RuMpok66IGRwuf46PX5xo) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Go](https://open.spotify.com/album/64PZGw0BVsvm8vflfar9Gr) | 2:55 |
+| 60 | [Upendo](https://open.spotify.com/track/6qRTFjQCkdfQKgY68QQr96) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Upendo](https://open.spotify.com/album/1112N3GxCGKwDeJY2dd42W) | 3:45 |
 
-Snapshot ID: `AAAAAB2QhrkOcFI2Ia7+q80xmZr+581U`
+Snapshot ID: `AAAAAHNGF6oKNrUcbSkNO954uMxzHLZj`

@@ -4,7 +4,7 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Genezio x Bamby
 
-709 songs - 1 day 6 hr 34 min
+709 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [I Got You](https://open.spotify.com/track/4nRBgPceAv04r19I9Xn3Tk) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Para Bellum](https://open.spotify.com/album/4N2vTsNIB0calqg7UWXxxu) | 3:23 | 2022-05-20 | 2022-10-14 |
 | [I ja ni](https://open.spotify.com/track/1DqQSNC57l4LxsR7XHDf2m) | [Lijay](https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO), [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [I ja ni](https://open.spotify.com/album/7cGlmlcpOeXTJpzd1KEHHt) | 2:52 | 2025-08-28 | 2025-09-25 |
 | [Ice cream](https://open.spotify.com/track/7GLHAjSbax5SlnwJlUeTwq) | [Liine](https://open.spotify.com/artist/2qnxVuZSDmKCnMgyXImYFg), [DJ Chinwax](https://open.spotify.com/artist/02E9hsI1o5kTbiYlP6Ae8i) | [Ice cream](https://open.spotify.com/album/2lYU4Y33bxMus6FOZxTlCJ) | 1:55 | 2023-02-02 | 2023-04-28 |
+| [Immortal Life](https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Nothing Without God](https://open.spotify.com/album/65clKbczk7FXoDZP4HUWOY) | 2:41 | 2025-11-06 |  |
 | [IMPACT](https://open.spotify.com/track/7MfhyNDciKARpHvx2EEVIL) | [SIKEM](https://open.spotify.com/artist/1E2l9VxEscguzMQiDG81gt) | [IMPACT](https://open.spotify.com/album/4vbePtcsDudDiTjiS6GHgY) | 1:51 | 2025-10-02 | 2025-11-07 |
 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 | 2022-09-01 | 2023-02-03 |
 | [Ina Dancehall](https://open.spotify.com/track/6pihx7G891zvqQ3tUQ1tcP) | [DJ Oneshot](https://open.spotify.com/artist/5HftKAv6XJAKVtIZZ1ybf2), [Hayvee](https://open.spotify.com/artist/4q2VTTo7isKeFWMgunj5mt), [WISHANN ASMA](https://open.spotify.com/artist/3MvZWIRVvQa4tFGyTHi7pd) | [Ina Dancehall](https://open.spotify.com/album/1CXRgqPTB60bNC9AXtXzZX) | 2:46 | 2022-06-23 | 2022-10-07 |
@@ -654,7 +655,6 @@
 | [Tous Les Ken](https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Tous Les Ken](https://open.spotify.com/album/2PMQ5myw3W0f5lRA5aZDDK) | 2:41 | 2023-12-08 | 2024-01-05 |
 | [Tout Koté](https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe) | [Cocotteland](https://open.spotify.com/artist/16KiWnLK09KYEBwztGTMF7), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Tout Koté](https://open.spotify.com/album/1h8jKCAibB11m46mbcFPCN) | 2:06 | 2025-08-28 | 2025-09-25 |
 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 | 2023-06-08 | 2024-05-17 |
-| [Track 1](https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Tremor](https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Tremor](https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU) | 2:06 | 2023-02-23 | 2023-05-26 |
 | [Tropics](https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [P Skinna](https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV), [Liondub](https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB) | [Tropics](https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL) | 2:57 | 2022-01-06 | 2022-04-29 |
 | [Trouble](https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO) | [Chinese Man](https://open.spotify.com/artist/6vgw0jwJkUnW2NR1rzsQU3), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Trouble](https://open.spotify.com/album/6wtD4C6KoazckwXVcUNquC) | 3:02 | 2024-02-01 | 2024-03-01 |

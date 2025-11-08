@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-857 songs - 2 day 7 hr 55 min
+858 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Hurt](https://open.spotify.com/track/50JrXCKNKTV8y0oyWyAHbM) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [Hurt](https://open.spotify.com/album/2SNoAgXeao4wQ63bni0p8C) | 3:12 | 2025-01-17 |  |
 | [Hush](https://open.spotify.com/track/6AlfGbQ59wwGyt2VmbjnZF) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Hush](https://open.spotify.com/album/44izydeupjKkWEGoytnwWH) | 2:03 | 2024-06-21 |  |
 | [HUSH](https://open.spotify.com/track/25leIaVDdC2lgJC1RAkNaS) | [Forrest Taylor](https://open.spotify.com/artist/65B2wTz12IA9U4ydyGHXP2) | [HUSH](https://open.spotify.com/album/7uekRat53bn1qWk6pRvife) | 2:21 | 2024-05-24 | 2024-08-31 |
-| [HYPE](https://open.spotify.com/track/4FbGnd9gdcAATKYXiGL18P) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [HYPE](https://open.spotify.com/album/4CFsbMb5kk72ViQ6XR9j3P) | 2:10 | 2024-08-23 |  |
+| [HYPE](https://open.spotify.com/track/4FbGnd9gdcAATKYXiGL18P) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [HYPE](https://open.spotify.com/album/4CFsbMb5kk72ViQ6XR9j3P) | 2:10 | 2024-08-23 | 2025-11-08 |
 | [Hypnotherapy](https://open.spotify.com/track/3QaO0thybGLSZph9OpeSDi) | [L\*o\*J](https://open.spotify.com/artist/3B4U99cPW8HihTM6ld3jVX), [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU) | [Botanicals](https://open.spotify.com/album/4W3nonV7xCtmchQd4dUSLR) | 3:12 | 2024-02-09 | 2024-04-27 |
 | [I Fear](https://open.spotify.com/track/2iyzSdi8pV0ouscty0d88y) | [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [I Fear](https://open.spotify.com/album/70ADfmqWJgdcydCeVPniiW) | 3:36 | 2024-04-26 | 2024-11-03 |
 | [I Like It](https://open.spotify.com/track/5zfDQrkMPzzZgiOhyGgwLx) | [Thermal Junction](https://open.spotify.com/artist/0AcrSrhJmBpB6guPMP8Oiq) | [I Like It](https://open.spotify.com/album/4t9oPFTeDQKuKwBepIqLhV) | 2:39 | 2025-05-02 | 2025-09-13 |
@@ -607,6 +607,7 @@
 | [Reptilian](https://open.spotify.com/track/3nSyqoqpbYypTYYg4ZCdh0) | [G\-Space](https://open.spotify.com/artist/1yxgjoiYczfFDnh4YYp4t1), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [oddpoison](https://open.spotify.com/artist/4zG3CtbCXZAdr4HKDNAklk) | [The Second Renaissance](https://open.spotify.com/album/2VOvqeL4PkiBLeUKGitic0) | 3:00 | 2023-11-24 | 2024-04-19 |
 | [Resonate](https://open.spotify.com/track/2ATu6Io2QLvnCsgZ4faWDa) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Resonate / Shaman](https://open.spotify.com/album/0OedZsjGySJLYoZjnYMOI7) | 3:03 | 2023-06-23 | 2024-03-17 |
 | [Resonate](https://open.spotify.com/track/4BslxfPzl3zzoSxf5JS57R) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Resonate / Shaman](https://open.spotify.com/album/3ogPWAWqjoQZ4OJSzWp4Em) | 3:03 | 2022-08-19 | 2023-06-02 |
+| [Resurgence](https://open.spotify.com/track/2yhfGCeiE19wDLlHWmWVvT) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd) | [Resurgence](https://open.spotify.com/album/2lNUTiG6bTpVdqztJXdkeT) | 4:36 | 2025-11-07 |  |
 | [Revival](https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Revival](https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b) | 4:50 | 2022-04-08 | 2025-01-29 |
 | [Rhubarb Crumble](https://open.spotify.com/track/1Cm7THvhhuBMZVuP08nkpb) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [Rhubarb Crumble EP](https://open.spotify.com/album/4ByklHL90cfvBGLBbbyel1) | 5:33 | 2022-02-17 | 2022-07-27 |
 | [Ricky Rosé](https://open.spotify.com/track/3OvMUt6wjhyiIp0WDLsPx9) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Ricky Rosé](https://open.spotify.com/album/7bSufwWURYfWb2cu0CeuF5) | 3:48 | 2022-10-21 | 2023-04-16 |

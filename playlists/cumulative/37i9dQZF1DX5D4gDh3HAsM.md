@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-165 songs - 9 hr 40 min
+166 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [My Christmas Night](https://open.spotify.com/track/49LTYbjanIrYyKgUKA2s5R) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 4:08 | 2021-11-12 |  |
 | [My Favorite Things](https://open.spotify.com/track/5UtrHFB3p5mHYaq4x8m5AR) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [My Favorite Things](https://open.spotify.com/album/5LZq1Oc3U93pX25bZ8TvxS) | 2:17 | 2025-10-31 |  |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6NbGDUxwR2WtUSJdYOGcTP) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [O Come, O Come, Emmanuel](https://open.spotify.com/album/3TZD8xDcOESgi2CRn2u8lv) | 4:05 | 2022-11-18 |  |
+| [O Holy Night](https://open.spotify.com/track/2LnKZpRYw8ahkJbELr2nTP) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [O Holy Night](https://open.spotify.com/album/5oqt2DGF7iYaWXc2veO9Nc) | 4:14 | 2025-11-07 |  |
 | [O Lettle Town Of Bethlehem](https://open.spotify.com/track/1IBOildd9ZjEcuuAZJz8fB) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/1qnpNMKpPzIC0eXrzVSh6K) | 4:49 | 2021-11-12 |  |
 | [O Lettle Town Of Bethlehem](https://open.spotify.com/track/38YcOVBqCbMZej01gurFFz) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 4:49 | 2021-11-12 | 2024-04-19 |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/7IQoSi7j7OEYJj0RsRyyJ2) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [December](https://open.spotify.com/album/4NsBiFRTE50Egj4eesK4mG) | 3:10 | 2021-11-12 |  |
@@ -107,7 +108,7 @@
 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2021-11-12 |  |
 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2021-11-12 | 2024-04-19 |
 | [One Star](https://open.spotify.com/track/389Gd4h4EKFUVgetsBauoY) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Hope of Christmas](https://open.spotify.com/album/2nuBdfcmKaFLHy00vENDgo) | 4:35 | 2021-11-12 |  |
-| [Perfect Time Of Year](https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Perfect Time of Year](https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y) | 3:26 | 2023-11-03 |  |
+| [Perfect Time Of Year](https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Perfect Time of Year](https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y) | 3:26 | 2023-11-03 | 2025-11-08 |
 | [Present Enough for Me](https://open.spotify.com/track/3GOCbr4G6alv9ivzbJ5t63) | [Hayley Sales](https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb) | [Present Enough For Me](https://open.spotify.com/album/1DfrTUXWQ899xWQSJRe1nb) | 3:03 | 2024-11-22 |  |
 | [Presente De Natal](https://open.spotify.com/track/18LXMJGsZliL55WLM5RKSD) | [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Christmas Memories](https://open.spotify.com/album/5tISGCwXMNUl3sBigxGRQe) | 4:45 | 2022-11-14 |  |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/0DdRiJLOcekwfwLlAT79wU) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Christmas Songs](https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ) | 2:27 | 2022-11-25 |  |

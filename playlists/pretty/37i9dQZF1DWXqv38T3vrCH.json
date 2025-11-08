@@ -1,12 +1,12 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 336097,
+  "num_followers": 336055,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqPiD9qIRgS5LG125QKqo72iCs6",
+  "snapshot_id": "AAAAANd4WQ3lgls+F+Io7JIEZAnDtM/j",
   "tracks": [
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Burn The Witch",
-      "url": "https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "How Did We Get So Dark?",
         "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 203906,
       "name": "She's Creeping",
       "url": "https://open.spotify.com/track/01VXGDL8Ox3SWmvM8ZyvSB"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 215320,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Constrictor",
-        "url": "https://open.spotify.com/album/3F3JU1MJDN9PgHFwbCvFvV"
+        "name": "Halloween Classics: Hellbent For Halloween",
+        "url": "https://open.spotify.com/album/2OQTV9NC0XWPI3gBBd2UDJ"
       },
       "artists": [
         {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 220666,
-      "name": "Teenage Frankenstein",
-      "url": "https://open.spotify.com/track/3YBIjZM0WDEQRpVcXyH4vx"
+      "duration_ms": 150000,
+      "name": "Them Bones",
+      "url": "https://open.spotify.com/track/0FqQfY1Gc0WdaQ7C1SqFYj"
     }
   ],
   "unique_name": "Headbanger Halloween",

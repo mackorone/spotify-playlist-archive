@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Abubakar
 
-5,213 songs - 13 day 7 hr 8 min
+5,215 songs - 13 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Bakti ke\-IV](https://open.spotify.com/track/28iEHo0zerNPw27C8c7G2P) | [Seiren](https://open.spotify.com/artist/24zsZy59upUE0u9xl1uUAW) | [Bakti ke\-IV](https://open.spotify.com/album/0DyVUW3tQBW4RL4FA9ylvl) | 3:42 | 2025-08-22 | 2025-09-19 |
 | [Balada Ibukota](https://open.spotify.com/track/0ep8KoAjChrYv8kZa5CxoD) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [Balada Ibukota](https://open.spotify.com/album/2yrrZUTQincnscYbyorV3j) | 2:54 | 2025-10-03 | 2025-11-07 |
 | [Balada Keset Welcome](https://open.spotify.com/track/2ZrptqaCywKr3Shpu47toi) | [LIMOCAT](https://open.spotify.com/artist/23rrWkVKy41unv51S65yWp) | [Balada Keset Welcome](https://open.spotify.com/album/7EGuNxcA6FbmjxllWBjDmQ) | 4:19 | 2025-05-01 | 2025-05-23 |
+| [Balap Tikus](https://open.spotify.com/track/0tAguTaj9fDzI4R89Z5SyA) | [Normatif](https://open.spotify.com/artist/4WWtpEd8AB8RBkyGlpJnG1) | [Normatif II: Kejar Dunia 9 \- 5](https://open.spotify.com/album/5ovoxd8sOdeAzqFP4LUZDu) | 3:44 | 2025-11-07 |  |
 | [Baldarina](https://open.spotify.com/track/348oTEZ21QhbUEFWHXeOAB) | [Uncle Wire](https://open.spotify.com/artist/3FRKfLNZdNZP6YcYeoVh3e) | [Baldarina](https://open.spotify.com/album/7oCr0FuHJ5aEaCm1P8sTW8) | 4:31 | 2023-06-01 | 2023-06-16 |
 | [Bali](https://open.spotify.com/track/0IeUHAqawQTxM1Npxd0jJY) | [Adi Widodo](https://open.spotify.com/artist/05tW8IyHXQK0sqDOQQilVS) | [Bali](https://open.spotify.com/album/3DDAFsDnl01yrAaN1Cpzzl) | 5:37 | 2023-02-23 | 2023-03-10 |
 | [Balik Arah](https://open.spotify.com/track/2BbUfHUTIZsokhzrApZzSy) | [SAIVA](https://open.spotify.com/artist/21aguPG8NYw56jG3qwIQZG) | [Balik Arah](https://open.spotify.com/album/7ERDG4GgqVkNL016GHBDmt) | 3:45 | 2024-05-31 | 2024-06-21 |
@@ -2374,7 +2375,7 @@
 | [Kelam](https://open.spotify.com/track/44vyIikUbHb03CV7K7fXAH) | [Quentin](https://open.spotify.com/artist/7DrD0XM0Mh7uzSKqnmxPte) | [Kelam](https://open.spotify.com/album/1pC2qP7AgETq1XQdguloOX) | 4:39 | 2024-07-12 | 2024-08-30 |
 | [Kelam Kujalani](https://open.spotify.com/track/24aPjGtFMztxrlPSI0brM3) | [Vikry Satria Nugraha](https://open.spotify.com/artist/6FFDQrDjRRHMFJfsGK3kQb) | [Kelam Kujalani](https://open.spotify.com/album/4KDH5UrDKkBOogPlrNJtwL) | 4:35 | 2023-04-27 | 2023-05-19 |
 | [Kelas Pekerja](https://open.spotify.com/track/05zAsmJDV9LEzQpxBUTaXr) | [Normatif](https://open.spotify.com/artist/4WWtpEd8AB8RBkyGlpJnG1) | [Kelas Pekerja](https://open.spotify.com/album/23TFGOz94r5hoWTHl433kT) | 3:14 | 2023-06-15 | 2023-06-30 |
-| [Kelas Pekerja](https://open.spotify.com/track/5CrTCLHB4YiBUfgPyUkHtv) | [Normatif](https://open.spotify.com/artist/4WWtpEd8AB8RBkyGlpJnG1) | [Normatif II: Kejar Dunia 9 \- 5](https://open.spotify.com/album/5ovoxd8sOdeAzqFP4LUZDu) | 3:14 | 2025-11-06 |  |
+| [Kelas Pekerja](https://open.spotify.com/track/5CrTCLHB4YiBUfgPyUkHtv) | [Normatif](https://open.spotify.com/artist/4WWtpEd8AB8RBkyGlpJnG1) | [Normatif II: Kejar Dunia 9 \- 5](https://open.spotify.com/album/5ovoxd8sOdeAzqFP4LUZDu) | 3:14 | 2025-11-06 | 2025-11-08 |
 | [Kelepasan](https://open.spotify.com/track/0fgSaE6HD1FKINO8hvpGdg) | [Man Nala](https://open.spotify.com/artist/0BZN1mLAWOYnfAGm7Vs2zR) | [Kelepasan](https://open.spotify.com/album/2DqsdgLnBFt4adQFOv0cZC) | 2:52 | 2023-04-06 | 2023-04-28 |
 | [Keliling Kota](https://open.spotify.com/track/1rgviIhhU8bGydyBmcIFvG) | [Los Garelloz](https://open.spotify.com/artist/0s0FO1ZR5FTPXXqVS7S8p8) | [Keliling Kota](https://open.spotify.com/album/3mhy3uewEreneWQzYoQrk0) | 4:01 | 2024-09-13 | 2024-10-12 |
 | [Kemalaman](https://open.spotify.com/track/1N8WtHRDrjf08dFKN850yl) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Kemalaman](https://open.spotify.com/album/7hlircDHurw6tkARX2iXd3) | 4:29 | 2022-05-26 | 2022-06-10 |
@@ -2880,6 +2881,7 @@
 | [Masih Sama](https://open.spotify.com/track/50n7O5N4B1K25jiRXXcy7z) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Masih Sama](https://open.spotify.com/album/2v3xt1GboNn4UpLacJr2KB) | 3:45 | 2022-02-10 | 2022-02-25 |
 | [Masih Sayang Kamu](https://open.spotify.com/track/0Oh9h9SWwQ7EOsDjOL7Vzn) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Masih Sayang Kamu](https://open.spotify.com/album/6gF55j7Tyj1bWkqsA5lXKx) | 3:42 | 2022-10-13 | 2022-11-12 |
 | [Masih Seperti Dulu](https://open.spotify.com/track/7C7MCnfVKAVEEYVk2HLqmG) | [Kenriz](https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT) | [Masih Seperti Dulu](https://open.spotify.com/album/21w2qKSnq2WQ6qwhWAx96b) | 3:33 | 2025-09-18 | 2025-10-17 |
+| [Masihkah](https://open.spotify.com/track/5fzjmKDsJe5GicHKKBu7Nm) | [Ardhita](https://open.spotify.com/artist/7rVCTKS3L5oYKz2nubmveY) | [Masihkah](https://open.spotify.com/album/0IMj3qsIlUfVOBUyRPJDjd) | 3:50 | 2025-11-07 |  |
 | [Massive And Dangerous](https://open.spotify.com/track/73r57na4Vo1t9WBeXt8ggm) | [Madness On Tha Block](https://open.spotify.com/artist/6xbSe0Pg0QWzTk5fscNbEM) | [Massive And Dangerous](https://open.spotify.com/album/0vdNMmCtFmeq9RaRjxspog) | 3:33 | 2023-05-11 | 2023-05-26 |
 | [Masterpiece](https://open.spotify.com/track/4VMkZPGDRUJ6eb8k5c39Ll) | [FLI](https://open.spotify.com/artist/5xTztTzgKws0k8F4Kj9GX3), [Nik Freak](https://open.spotify.com/artist/0blHB6j3hi15LvzWlCyPcc), [Viori](https://open.spotify.com/artist/7AdCCyCMKObmfPMOrSuP31), [he\-sa](https://open.spotify.com/artist/4gG8KZFvQuyiT30MiKBG3D), [REJECTED\(M\)ONEY](https://open.spotify.com/artist/0eMIGDq2eDoLZZ5932oZ5a), [Catty Beilschmidt](https://open.spotify.com/artist/2pnH9oPGlto9JU17K8idOc), [B'Cozy](https://open.spotify.com/artist/05chi8kkhWwXT89ePGnWVx), [Luqman Ski](https://open.spotify.com/artist/2S9iUTOIFxNOP5Ye8Ge5U2), [Decaak](https://open.spotify.com/artist/7jHYRqNivq1asMOwwyOE8F) | [Masterpiece](https://open.spotify.com/album/3VEfkIvtk6WmzVPdyXP7f0) | 5:27 | 2024-11-07 | 2024-12-06 |
 | [Masterpiece Of The Sky](https://open.spotify.com/track/3ZNriPMbE8L78s6NEvnDwD) | [Sundowners](https://open.spotify.com/artist/3b3Ojt9bJt4NVB7lMUGhHv) | [Masterpiece Of The Sky](https://open.spotify.com/album/5frbDpWuta7IP9WusgSAkl) | 3:50 | 2023-08-31 | 2023-09-20 |

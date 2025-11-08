@@ -10223,6 +10223,24 @@
     },
     {
       "album": {
+        "name": "In A Matter of Time",
+        "url": "https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H"
+      },
+      "artists": [
+        {
+          "name": "thatboykwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155628,
+      "name": "prIDe",
+      "url": "https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX"
+    },
+    {
+      "album": {
         "name": "PRIDE (EPISODE 2)",
         "url": "https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu"
       },
@@ -13226,24 +13244,6 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "thatboykwame",
-          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX"
     },
     {
       "album": {

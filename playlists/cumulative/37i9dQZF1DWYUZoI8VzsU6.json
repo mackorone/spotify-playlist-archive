@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Run From You",
+        "url": "https://open.spotify.com/album/4JvobFBALQHpzPXpoTfnfv"
+      },
+      "artists": [
+        {
+          "name": "Logan Jahnke",
+          "url": "https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206087,
+      "name": "Run From You",
+      "url": "https://open.spotify.com/track/0MFkks40clRTBU42zqzUrq"
+    },
+    {
+      "album": {
         "name": "Actin\u2019 Up Again",
         "url": "https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq"
       },

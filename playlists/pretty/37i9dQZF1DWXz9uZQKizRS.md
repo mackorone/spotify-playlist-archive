@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Natalia Przybysz
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,045 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,069 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 5 | [Nie mam się już czego bać](https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Nie mam się już czego bać](https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo) | 3:18 |
 | 6 | [Materac](https://open.spotify.com/track/4HBK5B7gfwFtwLMt4IBpDn) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Materac](https://open.spotify.com/album/08g2TP8tBCLazG3RvuN4NW) | 3:41 |
 | 7 | [Już nigdy nie spojrzę na morze](https://open.spotify.com/track/52tHHtgfmKXGjkiUwR6siW) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Już nigdy nie spojrzę na morze](https://open.spotify.com/album/6vqdsbdMnylOwGy1IstEO4) | 3:00 |
-| 8 | [Dni, które przed nami](https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [](https://open.spotify.com/album/null) | 6:17 |
+| 8 | [Dni, które przed nami](https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [Tak młodo się nie spotkamy](https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm) | 6:17 |
 | 9 | [GDZIE TRAFIA MIŁOŚĆ, GDY UMIERA](https://open.spotify.com/track/3WH7Cwb58Emk21C75nBTAU) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [GDZIE TRAFIA MIŁOŚĆ, GDY UMIERA](https://open.spotify.com/album/75mmJhjfvKWo4vGxCQK7Dt) | 2:47 |
 | 10 | [Mówię ci nie](https://open.spotify.com/track/003GGuPOhnst98frZ0YXyL) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Mówię ci nie](https://open.spotify.com/album/170qDt11GFzoiEqdgSThfy) | 4:04 |
 | 11 | [wygaszacz ekranu](https://open.spotify.com/track/7xNdxnW1y22eVYjNajj4Iv) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [wygaszacz ekranu](https://open.spotify.com/album/1FEccKVh8K2Ii3wUqXHo7J) | 2:46 |

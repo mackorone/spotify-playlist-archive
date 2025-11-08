@@ -4,7 +4,7 @@
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Hispana en portada.
 
-620 songs - 1 day 10 hr 7 min
+622 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Clásico](https://open.spotify.com/track/2y1gjaqTLPkX8TvtNIgXms) | [THR Cru2](https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn), [Fume871](https://open.spotify.com/artist/4A0zvhdGzPzwgotxI5O3ci) | [Clásico](https://open.spotify.com/album/0pTbMw4LFmKL1UWtq6pwDv) | 3:51 | 2025-02-07 | 2025-05-17 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillz Beatz](https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 | 2022-06-24 | 2023-12-16 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Ziko](https://open.spotify.com/artist/5kjMVFyYkyNXhGccnycCka) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6sgKeauEUQCd6fJLCHcgs7) | 3:14 | 2022-05-26 | 2022-07-29 |
+| [Codigoz](https://open.spotify.com/track/077Z91vFjwHGuG0X8KrIPX) | [Guellaz](https://open.spotify.com/artist/0wux7XrVzIUSgLotAyM6jm), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Deejay Santacruz](https://open.spotify.com/artist/2qrynUZDnUDtUYNGxgPv4o) | [Codigoz](https://open.spotify.com/album/1tDi9NvyeyzQhiVNTeWfyP) | 2:30 | 2025-11-07 |  |
 | [Como Batman](https://open.spotify.com/track/5WnX9eV92t5XTtFa8fRlAD) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Como Batman](https://open.spotify.com/album/3L7hRsR6jJtpxKq9S3zRnC) | 3:20 | 2021-12-30 | 2022-01-14 |
 | [Como Pacman](https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Como Pacman](https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny) | 2:28 | 2024-11-01 |  |
 | [Como Sea](https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:22 | 2021-12-30 | 2024-10-26 |
@@ -612,6 +613,7 @@
 | [Welembe](https://open.spotify.com/track/72PQl7o2MwmgYh52zVTzyl) | [Gona](https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB) | [Origen](https://open.spotify.com/album/4QcGkIGoYLsiygeWhs9AqE) | 3:25 | 2025-08-01 |  |
 | [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 | 2021-12-30 | 2022-01-12 |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-04-07 | 2023-07-29 |
+| [X\-TRA \- Spotify Sessions](https://open.spotify.com/track/0aQWDp9ppbVjZgRd8pFVFh) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Crudo Means Raw \- Spotify Sessions](https://open.spotify.com/album/6aL43UMiBePvZrK2aTN6PC) | 1:59 | 2025-11-07 |  |
 | [Xolombia](https://open.spotify.com/track/6bm4r4ujFDVEQL6N9K9nlY) | [Joes Yawar Cru](https://open.spotify.com/artist/1g3olTTEwu0Dn2kVBpZ6oK), [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk) | [Xolombia](https://open.spotify.com/album/3LA8o8octGluOby15SSpqz) | 3:12 | 2025-06-13 | 2025-10-25 |
 | [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes \(Álbum\)](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 | 2021-12-30 | 2022-05-06 |
 | [YEH!](https://open.spotify.com/track/3svxpEj068o61SeuJSF1a2) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [YEH!](https://open.spotify.com/album/4XEU11qfFESDNtGT4DFC0K) | 2:49 | 2025-10-24 |  |

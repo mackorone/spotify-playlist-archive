@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Rangel Artwork: Isu Kim
 
-3,815 songs - 9 day 6 hr 47 min
+3,816 songs - 9 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3282,6 +3282,7 @@
 | [Swerte Sayo](https://open.spotify.com/track/151u0Jt8E7mRXh10jZpXfP) | [Daniel Cee](https://open.spotify.com/artist/6htV6naf3rsQ9ugrIGojm5) | [Swerte Sayo](https://open.spotify.com/album/4NOR9hhPF52HTELWo2OTYZ) | 3:32 | 2023-04-20 | 2023-05-05 |
 | [swim](https://open.spotify.com/track/5sW1H36FZDAdzVsJtuBQT0) | [seos](https://open.spotify.com/artist/3ARcA6vRUflFo0cG4qgrKW) | [ICARUS](https://open.spotify.com/album/1vZTC82iXUJBVI2c2q77bC) | 3:12 | 2025-10-23 |  |
 | [Swimming](https://open.spotify.com/track/4mfcuIAOZjf8Yb5bY5FRaT) | [Lil Panty](https://open.spotify.com/artist/3ocQOpsiqghIwiXS3frzb8) | [Swimming](https://open.spotify.com/album/57R4rVzZvQYarinnKnrp7B) | 3:04 | 2023-06-01 | 2023-06-16 |
+| [SWISH](https://open.spotify.com/track/6nE8LWTucflSxq8MMOYE2N) | [Bankyu](https://open.spotify.com/artist/6IvROQtaYPleoVZOlxMqwG), [Wavyier](https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw) | [SWISH](https://open.spotify.com/album/5B8st5Ki97PDiMRQO6Sbgc) | 2:41 | 2025-11-06 |  |
 | [SWLYB](https://open.spotify.com/track/3bXMYy75LtK0JKF9i8tE2g) | [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p) | [SWLYB](https://open.spotify.com/album/2dVuuCRoLkimqSBCMpxcec) | 3:28 | 2024-06-13 | 2024-07-12 |
 | [SWMD](https://open.spotify.com/track/2yhVTQrU1Nmbeu2d6pkt0A) | [Lyrus Lee](https://open.spotify.com/artist/6TApVvDDtb3qrJUWxII8VM) | [SWMD](https://open.spotify.com/album/23TvvDP1opaStFGUH324cn) | 2:55 | 2023-07-06 | 2023-07-21 |
 | [Sy](https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG) | [Joshua Khaled](https://open.spotify.com/artist/6keXdTyN2lpda6B1XmVM6v) | [Sy](https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v) | 5:24 | 2023-07-13 | 2023-07-28 |

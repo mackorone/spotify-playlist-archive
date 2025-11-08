@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 165744,
       "name": "Cardinal In The Crossfire",
       "url": "https://open.spotify.com/track/0yWTRzYMR6QvS1LwW2WGEQ"
@@ -6419,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/2zDBGso9IjC6wazLoFuSPO"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154424,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/1xjEEvXd54aZK8uT8Jus3I"
+    },
+    {
+      "album": {
         "name": "It Is What It Is Till It Is What It Isn't",
         "url": "https://open.spotify.com/album/3tTDnSYNjyf37CDZN00u3Y"
       },
@@ -9112,7 +9130,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 239640,
       "name": "Perfect Soul",
       "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
@@ -11003,6 +11021,24 @@
     },
     {
       "album": {
+        "name": "Kids Abandoning Destiny Among Vanity And Ruin",
+        "url": "https://open.spotify.com/album/7MS46A1XwLGtixAH4xjU0E"
+      },
+      "artists": [
+        {
+          "name": "Kadavar",
+          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299680,
+      "name": "Stick It",
+      "url": "https://open.spotify.com/track/074GX4E265eDKx1T4GbMdT"
+    },
+    {
+      "album": {
         "name": "Still Dancing",
         "url": "https://open.spotify.com/album/17lSIMtoGpgfBkJZbjKKQC"
       },
@@ -12003,8 +12039,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Last Night On Earth",
+        "url": "https://open.spotify.com/album/6qkuWN8LUnEJkbFmXRgiah"
       },
       "artists": [
         {
@@ -12245,8 +12281,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
       },
       "artists": [
         {
@@ -12350,42 +12386,6 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Saint Chaos",
-          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1xjEEvXd54aZK8uT8Jus3I"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Kadavar",
-          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/074GX4E265eDKx1T4GbMdT"
     },
     {
       "album": {

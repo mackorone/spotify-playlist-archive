@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: jet van der steen
 
-1,130 songs - 2 day 6 hr 1 min
+1,131 songs - 2 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1130,6 +1130,7 @@
 | [Zoveel Mooie Dagen](https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Zoveel Mooie Dagen](https://open.spotify.com/album/1ksQKLepRaX5VQ7EnklmDm) | 2:29 | 2023-06-22 | 2023-09-29 |
 | [Zoveel Vragen](https://open.spotify.com/track/2eZzjhfVbbVhvviIhANChf) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Zoveel Vragen](https://open.spotify.com/album/1ZHKZorebwH9bA7d9uBuoo) | 2:21 | 2025-04-11 | 2025-06-27 |
 | [Zoë](https://open.spotify.com/track/59gGsyejFwRWsjRywD0iCp) | [Hamza](https://open.spotify.com/artist/5Gj8NmnSAo6ZuGum96pzrB) | [Zoë](https://open.spotify.com/album/0up49ciVSJUKXsjtjaghOH) | 1:59 | 2024-05-16 | 2024-08-02 |
+| [Zuidas Jimmy](https://open.spotify.com/track/3YqsML7aILH28qx53cMJvQ) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Zuidas Jimmy](https://open.spotify.com/album/2CeH2PT1LLHIbaa7BuTpE2) | 2:57 | 2025-11-07 |  |
 | [Zuinig](https://open.spotify.com/track/1443g2sOZtwR7NjDXlSsBv) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Zuinig](https://open.spotify.com/album/0ocZWxeSCHRdeh5ogUbrdA) | 2:52 | 2024-03-07 | 2024-05-24 |
 | [Zwaaien Naar Het Verleden](https://open.spotify.com/track/608qQnvnuZUL8zEqCtXV5l) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Mella](https://open.spotify.com/album/4xXNRMUoZ63lFC8zb0bV86) | 3:01 | 2023-06-22 | 2023-08-18 |
 | [Zwakke Plekken](https://open.spotify.com/track/7v9maReQ2LdCDXMeHePWfE) | [STEFF](https://open.spotify.com/artist/1ngLK13t5KqbnQh8pN0k9i) | [Zwakke Plekken](https://open.spotify.com/album/4NOl6sDrzhDNeC9kDtHOHD) | 2:34 | 2023-03-02 | 2023-06-16 |

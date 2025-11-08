@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Theo Croker",
+  "description": "New jazz for open minds. Cover: Aaron Parks",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -400,6 +400,24 @@
       "duration_ms": 174053,
       "name": "777",
       "url": "https://open.spotify.com/track/11cSwFAYTfXbeqwEvu2DQm"
+    },
+    {
+      "album": {
+        "name": "Lasting Impression",
+        "url": "https://open.spotify.com/album/1avyPXf8rP4eqgbfGHnnQN"
+      },
+      "artists": [
+        {
+          "name": "Brandon Sanders",
+          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443480,
+      "name": "8/4 Beat",
+      "url": "https://open.spotify.com/track/3epFwp7ZHkBXYPdfa5zy5F"
     },
     {
       "album": {
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 396035,
       "name": "Ami's Dance",
       "url": "https://open.spotify.com/track/6grxCw2w7dCPLGaouf2CXX"
@@ -2270,6 +2288,24 @@
       "duration_ms": 241964,
       "name": "Any Moment Now",
       "url": "https://open.spotify.com/track/0ZZ6rr8JkHJ4cj9aFWmtd2"
+    },
+    {
+      "album": {
+        "name": "By All Means",
+        "url": "https://open.spotify.com/album/0Bb8tnCWkiCrZFJ4BSXx9e"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333285,
+      "name": "Anywhere Together",
+      "url": "https://open.spotify.com/track/6y8wzT1tutKxp0R7VjkBem"
     },
     {
       "album": {
@@ -7566,7 +7602,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 207202,
       "name": "Consulate Case",
       "url": "https://open.spotify.com/track/0ftvZIxENBCdDWEeaSOFva"
@@ -8366,6 +8402,24 @@
       "duration_ms": 334000,
       "name": "Dance of the Nile - Arkadia Jazz All-Stars: Magic Moments",
       "url": "https://open.spotify.com/track/7IjMb7VWfdKy8MYKwxRkwv"
+    },
+    {
+      "album": {
+        "name": "Dardahan",
+        "url": "https://open.spotify.com/album/7oa7KIxJa6veQsehgkgsEm"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252269,
+      "name": "Dardahan",
+      "url": "https://open.spotify.com/track/2amCysmN3ggs031rEW9Sh1"
     },
     {
       "album": {
@@ -15076,7 +15130,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 480251,
       "name": "Homage",
       "url": "https://open.spotify.com/track/06pig4VFnQNUsJ1C8TjkEP"
@@ -18699,6 +18753,24 @@
     },
     {
       "album": {
+        "name": "Kumi Lach",
+        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244426,
+      "name": "Kumi Lach",
+      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
+    },
+    {
+      "album": {
         "name": "Ebo Taylor JID022",
         "url": "https://open.spotify.com/album/1iKRvRE0TAb0CgPJtUYTkh"
       },
@@ -19218,7 +19290,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 317789,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
@@ -19906,7 +19978,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 411996,
       "name": "Little River",
       "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
@@ -24079,6 +24151,24 @@
     },
     {
       "album": {
+        "name": "North London Pace",
+        "url": "https://open.spotify.com/album/479mcTmLjF8psjuJLRmh99"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "North London Pace",
+      "url": "https://open.spotify.com/track/361AnXfEJHmjvDpTlJ7VpB"
+    },
+    {
+      "album": {
         "name": "Not Even Close to Far Off",
         "url": "https://open.spotify.com/album/6rHbMw1ZjWeUMh6JDFu1jp"
       },
@@ -27255,6 +27345,40 @@
     },
     {
       "album": {
+        "name": "Promise of Fellowship Kept",
+        "url": "https://open.spotify.com/album/27B7jt1Md3UNaEI8MrEJz8"
+      },
+      "artists": [
+        {
+          "name": "Charlie Peacock",
+          "url": "https://open.spotify.com/artist/4Dld5cUTz6eVReIWx9Dtyl"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Jeff Coffin",
+          "url": "https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D"
+        },
+        {
+          "name": "Scott Mulvahill",
+          "url": "https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn"
+        },
+        {
+          "name": "Roger Smith",
+          "url": "https://open.spotify.com/artist/7d7WpoPwrauo2M0ZQuBESc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642113,
+      "name": "Promise of Fellowship Kept",
+      "url": "https://open.spotify.com/track/5hm3jK67IElspYxdAvB0wu"
+    },
+    {
+      "album": {
         "name": "Promise of Spring",
         "url": "https://open.spotify.com/album/3P2ayHfny4467NGE1KMw2F"
       },
@@ -27938,6 +28062,28 @@
       "duration_ms": 332500,
       "name": "Red Lightning",
       "url": "https://open.spotify.com/track/7z8y7GvjS0X2BwDJGThY7y"
+    },
+    {
+      "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO"
     },
     {
       "album": {
@@ -32534,7 +32680,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 217585,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7a7rZUp3doRbHOyfH8Bpyu"
@@ -33432,7 +33578,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 285333,
       "name": "Tales of Mississippi",
       "url": "https://open.spotify.com/track/42hVqGscO1T9tJlFmC6O74"
@@ -34476,7 +34622,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 243843,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/4ilE6MkpkFz1rKXHDfGFPA"

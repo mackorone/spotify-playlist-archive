@@ -4,7 +4,7 @@
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-230 songs - 13 hr 51 min
+231 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Beside Myself](https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/6Tx3XBJwjJ44clD1dkoKm6) | 3:55 | 2021-06-04 | 2022-07-24 |
 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 | 2022-07-22 | 2023-09-02 |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2023-09-01 |  |
-| [Blue](https://open.spotify.com/track/64TzwGjTpMwofrTDvfDcds) | [Matilda Rowe](https://open.spotify.com/artist/7kXzb6D2RxF6KjfmValKlV) | [Blue](https://open.spotify.com/album/76xxR4qL7NneahIJKzjapk) | 6:11 | 2025-10-10 |  |
+| [Blue](https://open.spotify.com/track/64TzwGjTpMwofrTDvfDcds) | [Matilda Rowe](https://open.spotify.com/artist/7kXzb6D2RxF6KjfmValKlV) | [Blue](https://open.spotify.com/album/76xxR4qL7NneahIJKzjapk) | 6:11 | 2025-10-10 | 2025-11-08 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2023-09-01 |  |
 | [Bravado](https://open.spotify.com/track/1vbnYODenOFCFWxYNRYw1N) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:41 | 2022-07-22 | 2023-09-02 |
 | [Bravado](https://open.spotify.com/track/1ywFWiTDPQcC8JfrX1l0gq) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/7JAjkBEu6WxQDhRY2ebi7w) | 3:41 | 2021-06-04 | 2022-07-29 |
@@ -54,7 +54,7 @@
 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 | 2025-02-21 |  |
 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 | 2021-06-04 | 2023-09-02 |
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-09-01 |  |
-| [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2023-09-01 | 2025-11-01 |
+| [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2023-09-01 |  |
 | [Femme Fatale](https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:39 | 2023-09-01 |  |
 | [Fortune](https://open.spotify.com/track/2d0x9mTqqF7oL1hMgdroX4) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Fortune](https://open.spotify.com/album/4ySNWAn6xZltmBxxeXaC6y) | 3:49 | 2022-07-22 | 2023-06-26 |
 | [Fortune](https://open.spotify.com/track/3pgcazrvz4Rh6NXMkh2oaF) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Walk Soft](https://open.spotify.com/album/7gODKrPTaRE8iICxhmtI2K) | 3:49 | 2022-07-22 | 2022-11-13 |
@@ -102,7 +102,7 @@
 | [I Can't](https://open.spotify.com/track/5oUnDltSLWS7fJHbg6w3Yk) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [I Can't](https://open.spotify.com/album/5SKjyFXFWguGPtmHlD99gs) | 3:13 | 2025-05-30 | 2025-06-14 |
 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 | 2022-07-22 | 2023-09-02 |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-09-01 |  |
-| [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 | 2023-09-18 |  |
+| [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 | 2023-09-18 | 2025-11-08 |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2023-09-01 |  |
 | [I Run So Far](https://open.spotify.com/track/6W9wsXu0E8m66W4IARQt7T) | [Pearl Charles](https://open.spotify.com/artist/5PWyKTCk0kzNytmI0NI2JX) | [Pearl Charles](https://open.spotify.com/album/7uj5ZZprEHLAHvoQRtYHxA) | 3:49 | 2021-06-04 | 2022-07-29 |
 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/5r0mgVWhaI2ZDzrXeXrEhq) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [I Shouldn't Go Anywhere](https://open.spotify.com/album/7AMhMkCD8KUh0q3jEtmP5A) | 3:43 | 2021-06-04 | 2022-07-29 |
@@ -227,6 +227,7 @@
 | [Weatherman \- Live from Spotify London](https://open.spotify.com/track/0Ox05dbHRZulFOI8EOkjdR) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spotify Sessions](https://open.spotify.com/album/4voFh2g1uE7jibfHLx7OlW) | 3:53 | 2021-06-04 | 2022-07-16 |
 | [Weightless](https://open.spotify.com/track/1hq9sGpM9cobP8K2jikFPX) | [Layla](https://open.spotify.com/artist/04BsVprJtIhl2C4fgPEz4W) | [Weightless EP](https://open.spotify.com/album/4Tf1G48GkhM010891HC3Nh) | 4:16 | 2021-06-04 | 2022-07-23 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2023-09-01 |  |
+| [White Lace](https://open.spotify.com/track/1cSZvLQgenBt0rumj2BhfY) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [White Lace](https://open.spotify.com/album/1YAK1eyotMxor9qC3dGuBa) | 5:21 | 2025-11-07 |  |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2023-09-01 |  |
 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 | 2021-06-04 | 2023-09-02 |
 | [Woman Go Wild](https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc) | [Pixie Geldof](https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erDjpZ) | [I'm Yours](https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr) | 3:58 | 2021-06-04 | 2023-09-02 |

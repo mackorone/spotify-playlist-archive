@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 39 songs - 2 hr 39 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 41 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,14 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 30 | [Hold Them Down](https://open.spotify.com/track/3lIgiul24q1uwE8l928s0w) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Ayron Alexander](https://open.spotify.com/artist/69ZOltPRsF5iPkicJQMRZ9), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:03 |
 | 31 | [The Challenge](https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:21 |
 | 32 | [Her Embrace](https://open.spotify.com/track/1wIzJvTTrg1LhuYR54BQ4y) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [In The Light Ensemble](https://open.spotify.com/artist/1WD3T0MmoymGX68JUOZUaD) | [In the Light: A Faustian Tale \(Highlights from the World Premiere Studio Cast Recording\)](https://open.spotify.com/album/4HtJ1YiZQlLUtmRaOJj11N) | 3:35 |
-| 33 | [Guns and Ships](https://open.spotify.com/track/7m9XR7FquXLP1FewdAcNS9) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 2:07 |
-| 34 | [It's Like Poetry](https://open.spotify.com/track/13NbMyCBz3TsENTQIgI3RO) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [It's Like Poetry](https://open.spotify.com/album/2E3RkVfAGuFlikwcYLPSFC) | 2:31 |
-| 35 | [Broken Heart](https://open.spotify.com/track/1hNiqmCEOozAghYTQEbQH6) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Broken Heart](https://open.spotify.com/album/6bc1hlrJy9oULH5LnYNkpv) | 3:27 |
-| 36 | [Master and Apprentice](https://open.spotify.com/track/1fUfmJmdubIkIBn2yIctbi) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Master and Apprentice](https://open.spotify.com/album/686otqGNkQF90lL7Ok3GGQ) | 2:13 |
-| 37 | [Without a Tribe](https://open.spotify.com/track/1j6P0usrnbCDKNMvocxgxq) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Without a Tribe](https://open.spotify.com/album/5PLBQ0CHYtWK82jCyquCvb) | 2:14 |
-| 38 | [How Liberty Dies](https://open.spotify.com/track/3JZw17iEok1bdXdmny1Tco) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [How Liberty Dies](https://open.spotify.com/album/6B8JOR5XGQ6X0PyQkqHWP4) | 2:13 |
-| 39 | [Something To Believe In](https://open.spotify.com/track/4kin4clo4ALSnwb33SYsdE) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2eeKB2KD7VwbWtcovqLzpS) | 3:31 |
+| 33 | [It's Like Poetry](https://open.spotify.com/track/13NbMyCBz3TsENTQIgI3RO) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [It's Like Poetry](https://open.spotify.com/album/2E3RkVfAGuFlikwcYLPSFC) | 2:31 |
+| 34 | [Broken Heart](https://open.spotify.com/track/1hNiqmCEOozAghYTQEbQH6) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Broken Heart](https://open.spotify.com/album/6bc1hlrJy9oULH5LnYNkpv) | 3:27 |
+| 35 | [Master and Apprentice](https://open.spotify.com/track/1fUfmJmdubIkIBn2yIctbi) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Master and Apprentice](https://open.spotify.com/album/686otqGNkQF90lL7Ok3GGQ) | 2:13 |
+| 36 | [Without a Tribe](https://open.spotify.com/track/1j6P0usrnbCDKNMvocxgxq) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Without a Tribe](https://open.spotify.com/album/5PLBQ0CHYtWK82jCyquCvb) | 2:14 |
+| 37 | [How Liberty Dies](https://open.spotify.com/track/3JZw17iEok1bdXdmny1Tco) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [How Liberty Dies](https://open.spotify.com/album/6B8JOR5XGQ6X0PyQkqHWP4) | 2:13 |
+| 38 | [Something To Believe In](https://open.spotify.com/track/4kin4clo4ALSnwb33SYsdE) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2eeKB2KD7VwbWtcovqLzpS) | 3:31 |
+| 39 | [In a Crowd of Thousands](https://open.spotify.com/track/5cdvyKY2z1kySEnUKI0VuO) | [Derek Klena](https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw), [Christy Altomare](https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 3:45 |
+| 40 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 |
+| 41 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 
-Snapshot ID: `AAAGUoMPnpGCe5fhULc4737nATdKHM0T`
+Snapshot ID: `AAAGVo0ZdQ1LoOZj3ORTVIxZJ8MMHMU6`

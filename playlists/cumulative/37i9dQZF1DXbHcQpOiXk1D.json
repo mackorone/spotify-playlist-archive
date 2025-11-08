@@ -3249,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Different Kind of Lonely",
+        "url": "https://open.spotify.com/album/2TzZEKSM0sgG3goO2CN2rd"
+      },
+      "artists": [
+        {
+          "name": "Amber Burgoyne",
+          "url": "https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "Different Kind of Lonely",
+      "url": "https://open.spotify.com/track/5rwDjyEiyz9RJQS71uJ6pN"
+    },
+    {
+      "album": {
         "name": "Discover We Can Fly",
         "url": "https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT"
       },
@@ -5476,7 +5494,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 246317,
       "name": "Higher Spirit",
       "url": "https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq"

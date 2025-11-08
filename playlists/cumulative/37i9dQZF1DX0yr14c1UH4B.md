@@ -2,9 +2,9 @@
 
 ### [Common Thread](https://open.spotify.com/playlist/37i9dQZF1DX0yr14c1UH4B)
 
-> The ultimate songbook ⏳ feat\. Celeste
+> The ultimate songbook ⏳ feat\. JERUB
 
-617 songs - 1 day 10 hr 29 min
+617 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 | 2025-04-25 |
 | [Baby Blue](https://open.spotify.com/track/4HzEoMk9xmhCPekdiz2HqB) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Baby Blue](https://open.spotify.com/album/6pSFH6czd6Co0mDuWxYKue) | 2:39 | 2025-07-17 | 2025-08-15 |
 | [Back 2 Myself](https://open.spotify.com/track/2BDcZhmFHgefTIojJS9ICs) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Back 2 Myself](https://open.spotify.com/album/4sQNVzXSYi43RfISnHt6B2) | 2:34 | 2025-03-28 | 2025-04-25 |
-| [Back to Life](https://open.spotify.com/track/2qUJ7W5pTgFltOc5Xgj14Q) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [](https://open.spotify.com/album/null) | 3:15 | 2025-11-07 |  |
+| [Back to Life](https://open.spotify.com/track/2qUJ7W5pTgFltOc5Xgj14Q) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [The Wonder Years](https://open.spotify.com/album/6NVM9P4sWImd52vyt1Icx0) | 3:15 | 2025-11-07 |  |
 | [Back To Me](https://open.spotify.com/track/6NrhdHt3Pv5xMYxdbJ6GSX) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Back To Me](https://open.spotify.com/album/3gdiiWvOT29OdzKATxcgaP) | 3:04 | 2025-06-19 | 2025-08-01 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-13 | 2025-03-14 |
 | [Bad Routines](https://open.spotify.com/track/6wAelB7Ix0nMKi8u2w5CfK) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [Bad Routines](https://open.spotify.com/album/2lu27gXHwhFrIgTQSlQZ5K) | 2:13 | 2025-07-24 | 2025-09-20 |
@@ -311,6 +311,7 @@
 | [Live First, Love Later](https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Panorama](https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z) | 2:35 | 2024-07-26 | 2024-10-26 |
 | [Loneliness](https://open.spotify.com/track/6fSFZusee1TtCLfxz3BuQ2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Loneliness](https://open.spotify.com/album/0Lxcnu23IVYAYTUw5oHkeY) | 5:37 | 2024-05-31 | 2024-08-17 |
 | [Long Jump](https://open.spotify.com/track/7DwVkuqLkB6AnbXTLyfwMH) | [Ananya](https://open.spotify.com/artist/2Q32KkhT2YnVgCpAvrnhen) | [Long Jump](https://open.spotify.com/album/5flwrpwraQzqY4jAjzhjh4) | 3:56 | 2025-04-24 | 2025-05-16 |
+| [Look How Far We've Come](https://open.spotify.com/track/1R1ptgguwwlGHIY2tmSx8s) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Metanoia](https://open.spotify.com/album/04g6zwCy7vtgIlcd7L1x9R) | 3:04 | 2025-11-07 |  |
 | [Looking Out For You](https://open.spotify.com/track/4VpF2FVYmwP4CuFBIf4Pvn) | [Breagh Isabel](https://open.spotify.com/artist/5nm8xNDJvPX3ncbw3TSaXs) | [Looking Out For You](https://open.spotify.com/album/47EEzjadCu1SNDjzGpkGHL) | 3:14 | 2025-05-29 | 2025-08-01 |
 | [Looking Up](https://open.spotify.com/track/2L255DSg5DJbmHlFrxp2Nq) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/0t6PMy3FcoonbnnSkxTRyf) | 2:25 | 2025-06-26 | 2025-10-03 |
 | [Lose Lose](https://open.spotify.com/track/4QCtIQUKi2wshceTwLN9PI) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Lose Lose](https://open.spotify.com/album/26JxGsEkt4JpXsHn9Vsj3Q) | 3:37 | 2025-08-22 |  |
@@ -549,7 +550,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-05-31 | 2025-01-31 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-08 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-11 |
-| [Track 12](https://open.spotify.com/track/1R1ptgguwwlGHIY2tmSx8s) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-07 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-02 | 2025-05-23 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2025-11-07 |  |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-05-02 | 2025-05-23 |

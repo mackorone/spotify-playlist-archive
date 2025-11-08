@@ -1,12 +1,12 @@
 {
-  "description": "Nieuw: MICHA (nieuwe <a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>\n-artiest), ROSAL\u00cdA, Frenna, Jonna Fraser en meer...",
-  "num_followers": 286545,
+  "description": "Nieuw: MICHA (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a> artiest), ROSAL\u00cdA, Frenna, Jonna Fraser en meer...",
+  "num_followers": 286955,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACV3DURAiyQNl/wDfGjkR2D20G7d",
+  "snapshot_id": "AAAAABTcUAllphTvyzZn/HeSf0xaALRU",
   "tracks": [
     {
       "added_at": "2025-11-06 23:00:20",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
+        "name": "Out The Window",
+        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 256615,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
+      "added_at": "2025-11-06 23:00:20",
+      "album": {
         "name": "Paarden Uit Stuttgart",
         "url": "https://open.spotify.com/album/7K8mqBQpxPRvCAak46Bwaf"
       },
@@ -147,8 +163,24 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 183499,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
+    },
+    {
+      "added_at": "2025-11-06 23:00:20",
+      "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/2bjURBzkemslFuEbyntUFy"
       },
       "artists": [
         {
@@ -181,7 +213,7 @@
         }
       ],
       "duration_ms": 181723,
-      "name": "Sorry Not Sory (feat. Braxton Cook & Tallulah Rose)",
+      "name": "Sorry Not Sorry (feat. Braxton Cook & Tallulah Rose)",
       "url": "https://open.spotify.com/track/29x4dI3F48pWHQvPKNZLVk"
     },
     {
@@ -219,8 +251,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
       },
       "artists": [
         {
@@ -423,8 +455,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Ur an Angel I\u2019m Just Particles",
+        "url": "https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93"
       },
       "artists": [
         {
@@ -459,8 +491,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX"
       },
       "artists": [
         {
@@ -619,8 +651,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
       },
       "artists": [
         {
@@ -655,8 +687,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/0cvt9oZv91NHEbVwGxfWax"
       },
       "artists": [
         {
@@ -664,8 +696,8 @@
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 178480,
+      "name": "Be My Lighthouse",
       "url": "https://open.spotify.com/track/3ueGJ5t7NvUPUXwGx9oTOF"
     },
     {
@@ -694,6 +726,10 @@
         {
           "name": "Vj\u00e8ze Fur",
           "url": "https://open.spotify.com/artist/6iaamBjhb34BzRviFSZliq"
+        },
+        {
+          "name": "STERREN STRALEN OVERAL",
+          "url": "https://open.spotify.com/artist/5jl4sehTF2JahCpwbXvsl9"
         }
       ],
       "duration_ms": 305185,
@@ -843,8 +879,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Options",
+        "url": "https://open.spotify.com/album/2Q80IT96E9b14A2aefeyeh"
       },
       "artists": [
         {
@@ -883,17 +919,13 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "YEBO",
+        "url": "https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7"
       },
       "artists": [
         {
           "name": "WizTheMc",
           "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         }
       ],
       "duration_ms": 162205,
@@ -903,8 +935,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "MOOD CONTROL",
+        "url": "https://open.spotify.com/album/1kWD76hBVHdACbWMNgwqRX"
       },
       "artists": [
         {
@@ -912,8 +944,8 @@
           "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 175820,
+      "name": "POSSESSED",
       "url": "https://open.spotify.com/track/2vQvq4W6IFWqe3UN9iwn4W"
     },
     {
@@ -983,8 +1015,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Nothing Without God",
+        "url": "https://open.spotify.com/album/65clKbczk7FXoDZP4HUWOY"
       },
       "artists": [
         {
@@ -992,15 +1024,15 @@
           "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 161148,
+      "name": "Immortal Life",
       "url": "https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh"
     },
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
       },
       "artists": [
         {
@@ -1175,8 +1207,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR"
       },
       "artists": [
         {
@@ -1247,8 +1279,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
       },
       "artists": [
         {
@@ -1347,8 +1379,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Afters",
+        "url": "https://open.spotify.com/album/0nCB0adZv1ffnrApTIXyXp"
       },
       "artists": [
         {
@@ -1399,8 +1431,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "SHISH",
+        "url": "https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg"
       },
       "artists": [
         {
@@ -1607,8 +1639,8 @@
     {
       "added_at": "2025-11-06 23:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "FILM NOIR",
+        "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
       },
       "artists": [
         {

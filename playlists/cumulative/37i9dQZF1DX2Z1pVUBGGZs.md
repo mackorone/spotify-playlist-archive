@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring freak slug 🧩
 
-737 songs - 1 day 13 hr 10 min
+737 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Miscalculations](https://open.spotify.com/track/1LOAhDFL61ZOYcXeMS0LLM) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Tales of a Knight](https://open.spotify.com/album/6IH5H7UkprcZ3DA8vyrepk) | 3:13 | 2025-06-12 |  |
 | [miss 'make it all about me'](https://open.spotify.com/track/7iIzMtUDTpGTW5AheUQOX9) | [daisy veacock](https://open.spotify.com/artist/3PCWmgzCD4eAIiVGMjBL1M) | [miss 'make it all about me'](https://open.spotify.com/album/3Xkqt5ENkoFphFukAc93SY) | 3:05 | 2025-06-19 | 2025-08-15 |
 | [miss american dream](https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn), [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [miss american dream](https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW) | 3:16 | 2024-06-27 | 2024-09-21 |
-| [Miss June](https://open.spotify.com/track/7v0T7tCD2DMJzF0rpWtCCs) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [](https://open.spotify.com/album/null) | 3:01 | 2025-11-07 |  |
+| [Miss June](https://open.spotify.com/track/7v0T7tCD2DMJzF0rpWtCCs) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Loose Tooth And A Short Skirt](https://open.spotify.com/album/0rpFFe4mOIl3veH6coOl2B) | 3:01 | 2025-11-07 |  |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-27 | 2024-09-21 |
 | [Moan](https://open.spotify.com/track/4FIgywpkh8Xo97yrmztjdR) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Moan](https://open.spotify.com/album/0waU3uVNGidMk3da5Yi4Bj) | 2:01 | 2025-05-22 | 2025-07-25 |
 | [Modern Romance](https://open.spotify.com/track/74Z1PVVlYjCHbG537ZujCV) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Modern Romance](https://open.spotify.com/album/0zbt17XLA4eXMoOJxIB3mO) | 3:44 | 2025-07-10 | 2025-09-19 |
@@ -458,6 +458,7 @@
 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 | 2025-06-26 | 2025-09-05 |
 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [New Mind](https://open.spotify.com/track/7kO3rAu2GgV3Vy6hwWs7L3) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [New Mind](https://open.spotify.com/album/5z2Wtm9imitPqU7jo3IbiA) | 2:46 | 2025-02-21 | 2025-03-28 |
+| [Next To You](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Fleeting](https://open.spotify.com/album/2jRGNs15u6y8wlqUuyCUbJ) | 3:38 | 2025-11-07 |  |
 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 | 2025-08-14 | 2025-10-24 |
 | [Nice to Know You + Sugababes](https://open.spotify.com/track/0TAWeqgZgiXfgsarKOeTVE) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:49 | 2025-10-10 |  |
 | [Not Care \(feat\. Kuan\)](https://open.spotify.com/track/3Cx1NfSZ7g4HjvIRtkWagw) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c), [Kuan](https://open.spotify.com/artist/3a1afMk8ZNndYYBYryMVqj) | [Not Care \(feat\. Kuan\)](https://open.spotify.com/album/3YmnATZKUbd6wBCoh9SOxy) | 2:48 | 2025-06-26 | 2025-09-05 |
@@ -610,7 +611,7 @@
 | [stick](https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [stick](https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq) | 2:19 | 2025-04-11 | 2025-07-04 |
 | [sticky](https://open.spotify.com/track/0k8CJ2q7P9uNT1vh23bJVf) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:26 | 2025-03-07 | 2025-06-27 |
 | [stranger](https://open.spotify.com/track/5xxh3JM4y3zboVTFK5Exzf) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [HONEYCOATED](https://open.spotify.com/album/6eBLl4owVt3F2oK3vnnLAv) | 1:55 | 2025-07-10 | 2025-08-29 |
-| [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [](https://open.spotify.com/album/null) | 2:32 | 2025-11-07 |  |
+| [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 | 2025-11-07 |  |
 | [Strawberry Milkshake](https://open.spotify.com/track/3uRc7RFR66inRX92K0cVYR) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Strawberry Milkshake](https://open.spotify.com/album/7tCPyppaufymUBNnPePsX7) | 3:00 | 2024-07-25 | 2024-08-30 |
 | [Stuck In My Ways](https://open.spotify.com/track/0hzifRG1nDOufBwjQ3Gz87) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Stuck In My Ways](https://open.spotify.com/album/1yaH7AEnH9Bg5bqEwS6AQN) | 3:06 | 2025-06-12 | 2025-08-22 |
 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 | 2025-05-15 | 2025-07-25 |
@@ -671,7 +672,6 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 | 2025-05-09 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 6](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-07 |  |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-27 | 2024-08-09 |
 | [Truck](https://open.spotify.com/track/1jbEwXmHPLx51r0f4Q8uZK) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Truck](https://open.spotify.com/album/5XQm848CtwXrkhpxQpv2cM) | 3:11 | 2025-01-31 | 2025-03-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,671 likes - 108 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,734 likes - 108 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 81 | [The Museum](https://open.spotify.com/track/6VWTEGq1l81ciJnB4DDxOn) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Outer Wilds \(Original Soundtrack\)](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o) | 2:48 |
 | 82 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 |
 | 83 | [The Mind’s Eye](https://open.spotify.com/track/0RYvm6Wf0Z82UuH28lyV5J) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Never Look Away \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0n57OBgkXOdrBngFeje285) | 2:48 |
-| 84 | [Phoenix](https://open.spotify.com/track/6XyixzvvqR4wQUm3x2679w) | [Gentle Game Lullabies](https://open.spotify.com/artist/4aPCPBj93DhSbX1JD6xtk1) | [Gentle Gaming: League of Legends for Piano](https://open.spotify.com/album/2Mtb18jzHX36PQ7FTugoZ4) | 3:25 |
+| 84 | [Phoenix \- from “League of Legends”](https://open.spotify.com/track/6XyixzvvqR4wQUm3x2679w) | [Gentle Game Lullabies](https://open.spotify.com/artist/4aPCPBj93DhSbX1JD6xtk1), [Hélène Choyer](https://open.spotify.com/artist/0dU849E6WTild43pVwMkg7) | [Gentle Gaming: League of Legends for Piano](https://open.spotify.com/album/2Mtb18jzHX36PQ7FTugoZ4) | 3:25 |
 | 85 | [Into The Sea](https://open.spotify.com/track/6gywoZQXz6atqEGt7hponB) | [Stuart Earl](https://open.spotify.com/artist/54T53xiM58rmjU9dbA2Lu8) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 1:39 |
 | 86 | [As Far As We Can Go](https://open.spotify.com/track/0k6LVqdvrIy35mLBmxcYly) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 4:40 |
 | 87 | [Inner Peace](https://open.spotify.com/track/2zJp4auB9hCfO2HycXveZY) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Kung Fu Panda 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/78Cgst6GCkXDVnyzNfUGBT) | 2:25 |

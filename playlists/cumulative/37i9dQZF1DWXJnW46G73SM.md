@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مهى فتوني
 
-1,594 songs - 3 day 16 hr 55 min
+1,596 songs - 3 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [Kharbana](https://open.spotify.com/track/5asPnTcsdinMO66GmZhDC3) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Setta Bel Hob](https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu) | 2:52 | 2022-07-07 | 2022-10-07 |
 | [Khareg 7dood El Madina](https://open.spotify.com/track/3RACRqJmdwFiYXLLPAVxgM) | [Nada Nader](https://open.spotify.com/artist/5LGQwjfTimjVhHHWCVP6Lz), [AMR OMAR](https://open.spotify.com/artist/3FMgXCU1dPKbTexcI0yVND) | [Khareg 7dood El Madina](https://open.spotify.com/album/6yQinmT8srAjhJbCk6y9rf) | 3:28 | 2024-02-16 | 2024-04-26 |
 | [Khatfoony](https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:17 | 2025-07-03 |  |
+| [Khazalni](https://open.spotify.com/track/2nzCYsxnaiaERW1u61aMYm) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Khazalni](https://open.spotify.com/album/6MJTt197mONL1Nsf1sP7Vh) | 4:04 | 2025-11-07 |  |
 | [Kheles El Kalam](https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Kheles El Kalam](https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL) | 2:35 | 2023-07-20 | 2023-08-17 |
 | [Khelset Hayaty](https://open.spotify.com/track/4g6ab01THhAdi0dCImPcLE) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Khelset Hayaty](https://open.spotify.com/album/2F3fLejQ0kLs8Xiltyxv23) | 2:22 | 2022-04-22 | 2022-08-04 |
 | [Khod Debletak](https://open.spotify.com/track/55PIEMFEe6OtUNq3o46EkU) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Khod Debletak](https://open.spotify.com/album/2H6DLbXPJ4fWY3puMZb6Q0) | 2:46 | 2024-02-16 | 2024-02-24 |
@@ -1104,7 +1105,7 @@
 | [امبابه اجمد من باريس](https://open.spotify.com/track/1GhcQBhjlqj9aOx1A4ncJr) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Fishawy](https://open.spotify.com/artist/1vR6L1Tw4k5aneCWTi3li0) | [امبابه اجمد من باريس](https://open.spotify.com/album/3CBAp8DL6WEclLUW6lGo8V) | 3:52 | 2023-05-16 | 2023-06-24 |
 | [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 | 2023-04-20 | 2023-05-23 |
 | [انا انت](https://open.spotify.com/track/1geesXg65OnqOS23Y3aR7K) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [انا انت](https://open.spotify.com/album/0WS5vjac3aHglnEYtEORAb) | 2:37 | 2025-06-12 | 2025-07-04 |
-| [انا بحبك انت](https://open.spotify.com/track/4aFWkLd1yFDudW8F2Q0aMv) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/1tbZsz097ZtRJwVERGqqQg) | 3:09 | 2025-07-10 |  |
+| [انا بحبك انت](https://open.spotify.com/track/4aFWkLd1yFDudW8F2Q0aMv) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/1tbZsz097ZtRJwVERGqqQg) | 3:09 | 2025-07-10 | 2025-11-08 |
 | [انا بكيت](https://open.spotify.com/track/53aBCmnMQpIbWrDo3b9VXI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [عندي كلام](https://open.spotify.com/album/1ftMwFolOx5hURYoTxu7Vu) | 4:20 | 2023-01-27 | 2023-03-08 |
 | [انا بلا فخر](https://open.spotify.com/track/0p1K8ARs8n2fli5c7aOimZ) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [انا بلا فخر](https://open.spotify.com/album/7Ei9Ec11ZWpG1AaJbYqMJb) | 2:32 | 2024-02-20 | 2024-05-08 |
 | [انا بلالوان](https://open.spotify.com/track/0hbr6gxYmA2rpIu8uyfIKL) | [رحاب سليم](https://open.spotify.com/artist/1tkRquDjElKJKzRY15zOWS) | [انا بلالوان](https://open.spotify.com/album/5U5fKY3yenEZd8IX8i0uv6) | 3:09 | 2024-12-13 | 2025-01-24 |
@@ -1387,6 +1388,7 @@
 | [قلبي يا محتاس](https://open.spotify.com/track/7qkS1nBnIiGsjTqLtolIC2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [قلبي يا محتاس](https://open.spotify.com/album/3yh8NV9Z79jNGQRZjtE596) | 2:54 | 2024-01-18 | 2024-02-16 |
 | [قلق](https://open.spotify.com/track/0VJkCpK6wJugvM9iGKLNYP) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Ahmed Gelba](https://open.spotify.com/artist/3M8shshJWVMUkaM49rsjcs) | [قلق](https://open.spotify.com/album/0zoYu353rRR4pfm2fr5Lax) | 2:53 | 2025-02-17 | 2025-05-16 |
 | [قللت من نفسي](https://open.spotify.com/track/3f42ZBoQcnTPJbO9REc9Qi) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [قللت من نفسي](https://open.spotify.com/album/42KJPaJptQyPLHQT1sd0h0) | 4:28 | 2024-11-29 | 2025-01-03 |
+| [قليل الاصل](https://open.spotify.com/track/4PPusTUF6b1bZGWetYybBJ) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [قليل الاصل](https://open.spotify.com/album/37n5izzho3KeUHFQoJe3Fx) | 3:24 | 2025-11-07 |  |
 | [قهوة محوجة](https://open.spotify.com/track/4SlrB9iFb2aVTCcOxC1WoF) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [قهوة محوجة](https://open.spotify.com/album/6J6dMz6RPtPosUBmtBBixk) | 3:07 | 2024-01-25 | 2024-02-16 |
 | [قول كلام](https://open.spotify.com/track/1EXu89n4nUSvdaTQZoH9pV) | [Nourhan El Morshedy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [قول كلام](https://open.spotify.com/album/5gnhLEdsLRoxKIB7x5zVj9) | 4:27 | 2025-01-30 | 2025-04-25 |
 | [قول لا](https://open.spotify.com/track/3rcGZGI1P2lHg1L6LOtDlo) | [Yousra El Gendy](https://open.spotify.com/artist/4NHY6xrFxJwxDxYNl9WZLv) | [قول لا](https://open.spotify.com/album/00USfTA8ZvHaHLGI5FB96v) | 2:41 | 2024-07-01 | 2024-08-03 |
@@ -1496,7 +1498,7 @@
 | [ملك الفرفشة](https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [ملك الفرفشة](https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S) | 3:16 | 2023-07-07 | 2023-08-11 |
 | [مملكتي](https://open.spotify.com/track/5NDAoUtv98f3Lc1cWe7fP3) | [Walid Toufic](https://open.spotify.com/artist/3b9dx7eQwwKtA6ctUq8sd2) | [مملكتي](https://open.spotify.com/album/2hXgXmZIh865wdcdXqS1jP) | 2:50 | 2023-12-01 | 2024-01-19 |
 | [من أول يوم](https://open.spotify.com/track/4hqxXL2H3VMVKLSLOsy37c) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [من أول يوم](https://open.spotify.com/album/3hZW9pUEKNNP4eYTwqYGLm) | 2:36 | 2023-07-22 | 2023-08-18 |
-| [من السبت للخميس](https://open.spotify.com/track/2Y946QiOiau9fPlaSQfjKi) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [وريني](https://open.spotify.com/album/2ZEJ2zD91Vu5Cw4JVlXvWm) | 2:43 | 2025-08-13 |  |
+| [من السبت للخميس](https://open.spotify.com/track/2Y946QiOiau9fPlaSQfjKi) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [وريني](https://open.spotify.com/album/2ZEJ2zD91Vu5Cw4JVlXvWm) | 2:43 | 2025-08-13 | 2025-11-08 |
 | [من ضهر راجل](https://open.spotify.com/track/1bsn3C90tgUAgGIuggIxQD) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [من ضهر راجل](https://open.spotify.com/album/4nHQVBbFyeu4a9ghgDwO5e) | 2:28 | 2025-07-03 | 2025-07-11 |
 | [مهيبرين](https://open.spotify.com/track/1QHglFYlFySKRrR04B9IJM) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [أولاد حريم كريم \(أغاني الفيلم\)](https://open.spotify.com/album/6Lnc9Yc3dWv0BKhCsb1xRN) | 2:45 | 2023-09-01 | 2023-12-22 |
 | [موضوع رجوعنا](https://open.spotify.com/track/3n3qHIdb2dpQwaBpPEYKI2) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [موضوع رجوعنا](https://open.spotify.com/album/15k72PP3lUVocnlPRNjVZQ) | 4:26 | 2024-02-09 | 2024-03-27 |

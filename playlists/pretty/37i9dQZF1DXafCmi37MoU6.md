@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCmi37MoU6.md) - [plain]
 
 > El Hip\-Hop Mexicano es único\. Conoce los 50 tracks esenciales de Toy Selectah y Diego Madrigal
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,256 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,269 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCmi37MoU6.md) - [plain]
 | 24 | [Loco](https://open.spotify.com/track/5LO74yRm8CTQOJxkB3tVgb) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX) | [Loco](https://open.spotify.com/album/2BseJ4aDSGh85hnm5NNGaa) | 3:59 |
 | 25 | [Un Motivo \(Vida Sin Rap No Es Vida\)](https://open.spotify.com/track/5Y9mYovAVqaMNBlldYldG3) | [Sekreto](https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8) | [Un Motivo \(Vida Sin Rap No Es Vida\)](https://open.spotify.com/album/6unuexYpRrEdEEjMuErkyJ) | 4:35 |
 | 26 | [Cuando, cuando](https://open.spotify.com/track/6Cr8ressKXaZ5ch58lkAxs) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Marcapasos](https://open.spotify.com/album/6Jl5cWizNLLLKRjDqIbI6C) | 4:08 |
-| 27 | [Esta Vida Me Encanta \(feat\. Zimple & Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 5:09 |
+| 27 | [Esta Vida Me Encanta \(feat\. Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 4:07 |
 | 28 | [Un Momento](https://open.spotify.com/track/1nVDfIjgVWJqVyUoKhw39u) | [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Hacer Historia](https://open.spotify.com/album/1xIXEM8AkHn3xBSKlxdyXa) | 3:51 |
 | 29 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 |
 | 30 | [Cuando Piensas en Mí](https://open.spotify.com/track/166T5iL97Xaxb35mCV6abl) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Cuando Piensas en Mí](https://open.spotify.com/album/37lc9vW6VRCTxvVQ2wKQSs) | 4:18 |

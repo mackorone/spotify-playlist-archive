@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: SARTHAK BIJALWAN
+> Best of Hindi Hip\-Hop! Cover: vichaar
 
-297 songs - 14 hr 59 min
+298 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Joota Japani](https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Joota Japani](https://open.spotify.com/album/4wGScOi2a1xEpmHNaOii3D) | 2:35 | 2024-01-17 |  |
 | [Jordan](https://open.spotify.com/track/6IKE2HB2eXHNi8Vkn4djb1) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Jordan](https://open.spotify.com/album/4gtmLGXQDzUsBw8UenXF12) | 2:45 | 2025-07-11 | 2025-09-27 |
 | [Josh Mei](https://open.spotify.com/track/4rp5sYagMaZK9TH3S5CG1d) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Josh Mei](https://open.spotify.com/album/02rvMtNftNQhx9Um0lsjdC) | 2:12 | 2025-04-18 | 2025-08-23 |
-| [Kaali Kaali Aankhein](https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Kaali Kaali Aankhein](https://open.spotify.com/album/4kMaciIPljFvOCRGpTdjFw) | 3:26 | 2025-07-04 |  |
+| [Kaali Kaali Aankhein](https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Kaali Kaali Aankhein](https://open.spotify.com/album/4kMaciIPljFvOCRGpTdjFw) | 3:26 | 2025-07-04 | 2025-11-08 |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-03-10 | 2025-01-22 |
 | [Kaise](https://open.spotify.com/track/7lE4hlwqJZE7Q19OGqKyXV) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Junkie](https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL) | 3:04 | 2024-06-13 | 2024-07-04 |
 | [Kala](https://open.spotify.com/track/60VpFHQNkaOIf9REhiRWLt) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [30KEY!](https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y) | [Kala](https://open.spotify.com/album/22MzplKqG60ji9jo6IDsr7) | 2:47 | 2025-06-27 | 2025-07-30 |
@@ -248,6 +248,7 @@
 | [Shana Bann](https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Shana Bann](https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn) | 3:48 | 2025-01-06 | 2025-09-24 |
 | [SHARMEELI](https://open.spotify.com/track/3a0cGrLF6Ac1QqG3PCoIDY) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [SHARMEELI](https://open.spotify.com/album/2uZeb9NCQY76An8LqPMX5K) | 2:10 | 2025-09-26 |  |
 | [Sheher](https://open.spotify.com/track/5fbKzbj3GMXvWpyBUAhXnJ) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Sheher](https://open.spotify.com/album/7Es8qPSX7mg6l0FpfPXkY8) | 3:30 | 2023-03-10 | 2023-10-12 |
+| [SHOR](https://open.spotify.com/track/19zeSEyrjrqz7NH0YCWgJf) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [SHOR](https://open.spotify.com/album/4N6FJhWMuBoXiT3818L3KW) | 3:02 | 2025-11-07 |  |
 | [Shut Up](https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [For The Day One$](https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT) | 2:46 | 2024-07-03 | 2025-01-22 |
 | [SILENCE](https://open.spotify.com/track/3Phlh6RTAyyFHy7cjkoTSK) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [SILENCE](https://open.spotify.com/album/4TQKcToj98khhRJdzBTRei) | 1:52 | 2025-08-22 |  |
 | [SIZE 7](https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Yuvraj Vijay](https://open.spotify.com/artist/352sCHXoSWFV41bH0rnVOZ) | [SIZE 7](https://open.spotify.com/album/5qGFSr2mhi9DqliGs9CND1) | 2:32 | 2024-06-05 | 2025-03-15 |

@@ -2,9 +2,9 @@
 
 ### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: Anne Wilson
+> Tune in here for new and current hits in Contemporary Christian music! Cover: Dan Bremnes
 
-648 songs - 1 day 15 hr 53 min
+650 songs - 1 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 | 2022-02-25 | 2023-10-07 |
 | [Finished With Fighting \- Live Tapes](https://open.spotify.com/track/6m2u5uquboim0YQVBc6Gq8) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [Finished With Fighting \(Live Tapes\)](https://open.spotify.com/album/0MCQ8AtakKqeaDVQfXzEXR) | 5:19 | 2022-05-13 | 2022-08-27 |
 | [Firm Foundation \(He Won't\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/13PDtpRgQ7FT3mdoziwl7Q) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Firm Foundation \(He Won't\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/6fyNpkBi15SKd0PBMdMbsM) | 3:49 | 2022-05-13 | 2023-10-07 |
+| [Fly Away](https://open.spotify.com/track/2UqdshYSXOarPWkOyo7x2S) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Villain](https://open.spotify.com/album/6zoeMcphndW35UHwxgBILr) | 2:48 | 2025-11-07 |  |
 | [Follow You Into The Fire](https://open.spotify.com/track/69wTzxjSNve6gAz5WLaIps) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Flourish](https://open.spotify.com/album/7nigBw0tx1evzzcrTl8zma) | 3:37 | 2022-02-25 | 2022-04-23 |
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-19 | 2023-10-07 |
 | [For God Is With Us](https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:16 | 2022-03-11 | 2023-10-07 |
@@ -258,7 +259,7 @@
 | [How Many Times](https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Worldwide Revival \(Pt\. 1\)](https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r) | 3:12 | 2024-07-19 | 2025-03-15 |
 | [How Many Times \(oh how You love me\)](https://open.spotify.com/track/5dc0HWu0cc0voNz32RSiR1) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [How Many Times \(oh how You love me\)](https://open.spotify.com/album/3noiFOBNrnM85LaH7aBO9r) | 3:11 | 2025-03-14 | 2025-06-08 |
 | [How You Love Me](https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Holy Spirit Come](https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq) | 4:03 | 2022-02-25 | 2023-10-07 |
-| [Human](https://open.spotify.com/track/7IDDporb9t9AjjnGp0apEt) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Human](https://open.spotify.com/album/538iDJcR06Jbn5YujZwE0x) | 3:40 | 2025-08-08 |  |
+| [Human](https://open.spotify.com/track/7IDDporb9t9AjjnGp0apEt) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Human](https://open.spotify.com/album/538iDJcR06Jbn5YujZwE0x) | 3:40 | 2025-08-08 | 2025-11-08 |
 | [Hurt Is](https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Hurt Is](https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b) | 3:03 | 2023-03-10 | 2024-06-08 |
 | [I Am Yours \(Acoustic\)](https://open.spotify.com/track/1UVTNCocUvpEH68QRh30Bu) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [I Am Yours \(Acoustic\)](https://open.spotify.com/album/4TBo79eud1BYeXuOCRiSeK) | 4:27 | 2022-02-25 | 2022-06-25 |
 | [I Believe](https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6), [Wes King](https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep) | [I Believe](https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ) | 3:11 | 2023-10-06 | 2024-06-08 |
@@ -498,7 +499,7 @@
 | [Stand](https://open.spotify.com/track/3tDo6YZzIZlc5gRy31lvJD) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Life Is A Highway: Refueled Duets](https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M) | 3:30 | 2025-06-07 |  |
 | [Stand In Faith](https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Stand In Faith](https://open.spotify.com/album/1UsdGQkoh2wjtHwCCgqCAd) | 3:20 | 2022-02-25 | 2022-04-29 |
 | [Stand In Your Love](https://open.spotify.com/track/7kNzdlOYkZo3qqs53eUoin) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [Stand In Your Love](https://open.spotify.com/album/0hKhv4kTw4CHqcQsxGTCBn) | 3:42 | 2025-04-11 | 2025-07-12 |
-| [Started With You](https://open.spotify.com/track/5PEAU0AlblZBoHPu7h7cvl) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Started With You](https://open.spotify.com/album/3F1B6OAjoD2K3vm0vrXmLw) | 2:52 | 2025-01-17 |  |
+| [Started With You](https://open.spotify.com/track/5PEAU0AlblZBoHPu7h7cvl) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Started With You](https://open.spotify.com/album/3F1B6OAjoD2K3vm0vrXmLw) | 2:52 | 2025-01-17 | 2025-11-08 |
 | [Stay \(Gonna Be Okay\)](https://open.spotify.com/track/3jAlLFdrqwuiyzmKuNm5GQ) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Stay \(Gonna Be Okay\)](https://open.spotify.com/album/3S8ENSSxaobl7GuaZA39hd) | 3:25 | 2024-12-11 |  |
 | [Still](https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Still](https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl) | 3:30 | 2022-05-28 | 2022-07-09 |
 | [STILL \(with Zach Williams\)](https://open.spotify.com/track/3Kv3w1eqprdpV2HHtM55aq) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [STILL \(with Zach Williams\)](https://open.spotify.com/album/4aDh8Dl7HGSqLlPf6GLVTK) | 3:12 | 2025-07-25 |  |
@@ -615,6 +616,7 @@
 | [Where My Joy Comes From](https://open.spotify.com/track/2eWYnZD8g7x7vhNikDTjZa) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Where My Joy Comes From](https://open.spotify.com/album/7JGSP8J3mwi4VdF81Xwvos) | 2:39 | 2024-06-14 | 2024-08-31 |
 | [Where The Glory Is](https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 4:30 | 2022-10-01 | 2022-10-22 |
 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 | 2022-10-01 | 2024-04-19 |
+| [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 | 2025-11-07 |  |
 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 | 2023-10-06 | 2024-06-08 |
 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 | 2025-09-14 |  |
 | [While I Can](https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [While I Can](https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV) | 3:06 | 2023-10-06 | 2024-06-08 |

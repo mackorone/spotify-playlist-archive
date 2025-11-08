@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: <br/>Yazmin Lacey
 
-756 songs - 2 day 4 hr 40 min
+757 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Did It Yesterday](https://open.spotify.com/track/1CB55jCLNOG1Ch11sttXJa) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/0m6WGHrwytB2bwuREPC7uR) | 3:08 | 2022-12-23 | 2023-12-22 |
 | [Did It Yesterday](https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo) | 3:08 | 2022-03-31 | 2022-11-20 |
 | [Did You Know](https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF), [MettaShiba](https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy) | [Did You Know](https://open.spotify.com/album/5NE5pwqeHNLe3w12T6Gxc3) | 3:54 | 2023-06-30 | 2023-08-21 |
+| [Different Kind of Lonely](https://open.spotify.com/track/5rwDjyEiyz9RJQS71uJ6pN) | [Amber Burgoyne](https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9) | [Different Kind of Lonely](https://open.spotify.com/album/2TzZEKSM0sgG3goO2CN2rd) | 3:16 | 2025-10-23 |  |
 | [Discover We Can Fly](https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Discover We Can Fly](https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT) | 3:42 | 2022-07-07 | 2023-02-04 |
 | [Distraction](https://open.spotify.com/track/1RYvG5NlbR0tXBZvdLLDDS) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:25 | 2021-12-17 | 2022-11-13 |
 | [Diversions](https://open.spotify.com/track/5maJJT6lHNA9p7bvLRBzD5) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [Tim Addison](https://open.spotify.com/artist/0qb2OeD9bD0YbVG0Hh20XK) | [Diversions](https://open.spotify.com/album/5kmKc6iKwwXrgfap01X3e7) | 3:42 | 2024-06-14 | 2024-07-12 |
@@ -276,7 +277,7 @@
 | [High](https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik) | 2:56 | 2023-10-19 | 2024-04-12 |
 | [High](https://open.spotify.com/track/7jYF5A0TprR297TCg9MEOO) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/6jqiIg0L9UdADNWA1sCTlu) | 2:56 | 2023-03-08 | 2023-03-09 |
 | [High Up](https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW) | [High Up](https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF) | 3:07 | 2024-08-02 | 2025-09-24 |
-| [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 | 2025-06-05 |  |
+| [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 | 2025-06-05 | 2025-11-08 |
 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 | 2023-12-22 | 2025-01-24 |
 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 | 2024-02-16 | 2024-08-30 |
 | [Hold On, Pt.2](https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [James Chelliah](https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Hold On, Pt.2](https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70) | 2:15 | 2022-02-11 | 2022-11-21 |

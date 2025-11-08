@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-268 songs - 16 hr 10 min
+269 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Nada Será Como Antes](https://open.spotify.com/track/35aZs8uajBzTAhPZQ75HUa) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Nada Será Como Antes](https://open.spotify.com/album/24JuizRECp6bGmiuplgtj8) | 3:29 | 2022-03-22 | 2022-07-18 |
 | [Negão Negra](https://open.spotify.com/track/21C2FVAKx5JqWT6ta3rEIF) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f) | [Negão Negra](https://open.spotify.com/album/7zAaQDWDo7ygq9vqoojQQc) | 3:06 | 2022-02-04 | 2022-07-19 |
 | [Nem um Pio](https://open.spotify.com/track/16F0NsbQaN13csQqlRuv8A) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Joander Cruz](https://open.spotify.com/artist/2SR3AdtfMykYGLzSlRmhKg) | [Nem Um Pio](https://open.spotify.com/album/0ZkaQjyRSEEtIFYoWRSOPE) | 3:27 | 2022-03-22 | 2022-06-21 |
+| [Neon \- Spotify Sessions](https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ana Castela \- Spotify Sessions](https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q) | 3:44 | 2025-11-07 |  |
 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 | 2022-02-04 |  |
 | [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 | 2022-07-04 | 2025-05-18 |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
@@ -195,7 +196,7 @@
 | [Paradise](https://open.spotify.com/track/2X4CPCeIpodiM1sPCYcXtL) | [DJ Center](https://open.spotify.com/artist/1h3GrJokWIvpbdKn6h4Owq), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY) | [Paradise](https://open.spotify.com/album/1NBcAphFK9qE9rAA6LV8t6) | 3:39 | 2022-03-22 | 2024-05-17 |
 | [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 | 2022-02-04 |  |
 | [Pedaço](https://open.spotify.com/track/5U5ZcyWOxsNcojmK3e3Ivs) | [Tom Ribeira](https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY) | [Pedaço](https://open.spotify.com/album/7tylAudKUycYHIbKX4MVJf) | 2:59 | 2025-06-20 |  |
-| [Pegapacapá](https://open.spotify.com/track/51tEvo1E9MOaxRWsmNibNO) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Pegapacapá](https://open.spotify.com/album/0GQTE0kgr87Jsi306VD5zq) | 3:45 | 2025-08-15 |  |
+| [Pegapacapá](https://open.spotify.com/track/51tEvo1E9MOaxRWsmNibNO) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Pegapacapá](https://open.spotify.com/album/0GQTE0kgr87Jsi306VD5zq) | 3:45 | 2025-08-15 | 2025-11-08 |
 | [Pelo Telefone](https://open.spotify.com/track/1xlcibInQBcgyvJSSS36oR) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 2:49 | 2022-03-22 | 2022-04-20 |
 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 | 2023-05-12 | 2023-06-03 |
 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 | 2022-02-04 | 2025-02-15 |

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-384 songs - 21 hr 27 min
+385 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Bring in the Sun](https://open.spotify.com/track/1XuZoGfRIZyUvvHnzPG1Yg) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [A Refreshing Dimension](https://open.spotify.com/album/3OtvM6ApQUDxd09LZMbUj5) | 4:00 | 2022-08-15 | 2025-05-15 |
 | [Brooding](https://open.spotify.com/track/0oCRt1aONzpz97nMTSCvTe) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Brooding](https://open.spotify.com/album/6swTHBD1IWDd3yKUSbfIXL) | 2:28 | 2021-09-17 | 2025-07-16 |
 | [Butterfly Waltz](https://open.spotify.com/track/3IJrQE24xD4buW3KCQ6ChA) | [Facing the Void](https://open.spotify.com/artist/0IcjbbwIRynJJg25UP2nzt) | [Butterfly Waltz](https://open.spotify.com/album/1Hlur9p4ZS1xkkpooBOgIs) | 2:54 | 2020-12-08\* | 2021-05-27 |
-| [Calm Essence](https://open.spotify.com/track/21I5P7i7NOb6qoUTwttb2E) | [Dreamweavers](https://open.spotify.com/artist/7oX6DZ1QAvDb4TbSFPYq3I) | [Calm Essence](https://open.spotify.com/album/485ZOj1OlOoF7DhlZ6AXj2) | 3:15 | 2024-09-19 |  |
+| [Calm Essence](https://open.spotify.com/track/21I5P7i7NOb6qoUTwttb2E) | [Dreamweavers](https://open.spotify.com/artist/7oX6DZ1QAvDb4TbSFPYq3I) | [Calm Essence](https://open.spotify.com/album/485ZOj1OlOoF7DhlZ6AXj2) | 3:15 | 2024-09-19 | 2025-11-08 |
 | [can't sleep](https://open.spotify.com/track/51h8OOwcmfbgkfU8SjcaV7) | [Nova Dust](https://open.spotify.com/artist/5UyiEIfJDSqqBP0lRVQUVI) | [can't sleep](https://open.spotify.com/album/5EQnwpuO2ayCxiNGefURQ1) | 2:12 | 2025-07-15 |  |
 | [Carmel](https://open.spotify.com/track/5N8JUiG7xDh6Qj2bhySXaC) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Carmel](https://open.spotify.com/album/4pQvnenO5YrnuEp1qd24rZ) | 3:48 | 2021-01-15 | 2021-05-27 |
 | [Celestial](https://open.spotify.com/track/0MYcISmg7wKW9LhW3iVN4Y) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf) | [Celestial](https://open.spotify.com/album/0rnNBvMlFPIzxfRkIWZH5w) | 3:01 | 2023-01-27 |  |
@@ -102,7 +102,7 @@
 | [Cordium](https://open.spotify.com/track/5LZoHuzv06Y3xBID5GWy76) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Cordium](https://open.spotify.com/album/3e2AjDN08jKM6SuuTLO2nI) | 2:44 | 2024-07-12 | 2025-10-24 |
 | [Crystal Clear](https://open.spotify.com/track/66GTXFs0Q12Z2xsk4Uvc8e) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Marimba Morning](https://open.spotify.com/album/7tFKm8g3vPBaV5GBPu3Had) | 2:15 | 2022-04-21 | 2025-10-06 |
 | [Dalam Masa Ini](https://open.spotify.com/track/3MsXF2oAtKZnb859w0OjRs) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Dalam Masa Ini](https://open.spotify.com/album/0AMQ4QUXFOThLoI76UxKVA) | 2:14 | 2023-06-23 | 2024-07-25 |
-| [Dancing In](https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Dancing In My Dreams](https://open.spotify.com/album/29qcsRC2UteeNJ6qFWvmIK) | 3:08 | 2022-02-04 | 2025-10-07 |
+| [Dancing In](https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Dancing In My Dreams](https://open.spotify.com/album/29qcsRC2UteeNJ6qFWvmIK) | 3:08 | 2022-02-04 |  |
 | [Daphine](https://open.spotify.com/track/0XwJ2kXGE6glUGOg7BrCPB) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Daphine](https://open.spotify.com/album/75JLBXA0qS480JSDRo10ey) | 3:33 | 2021-10-09 | 2025-01-15 |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2020-12-08\* | 2021-09-17 |
 | [Delicate Dreams](https://open.spotify.com/track/07YnCIEOFsTfnjgWRm1rIU) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Delicate Dreams](https://open.spotify.com/album/4iMk0QHtG45zX77fh5uAtg) | 2:36 | 2025-07-15 |  |
@@ -174,6 +174,7 @@
 | [Homeopat](https://open.spotify.com/track/1GvvgUzaFTeRGn7tCEs6R7) | [Tian Taylor](https://open.spotify.com/artist/0N6kUvm8XIRQd9G36AIuV1) | [Homeopat](https://open.spotify.com/album/3KWiD2DPrTHR5XnJ5fDqp2) | 3:54 | 2021-06-16 | 2022-05-20 |
 | [Hopeful](https://open.spotify.com/track/5xoYe5BbxnfYhJXc923PHR) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Ambient Compilation, Vol\. 4: Sound Therapy](https://open.spotify.com/album/0KAg4h3GArUNPf55oQFWOw) | 4:24 | 2020-12-08\* | 2021-05-27 |
 | [Horizon](https://open.spotify.com/track/4glMhmZqDuP9poJm8937M7) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Horizon](https://open.spotify.com/album/2pgoMua7WxRxudODsXbHYB) | 2:24 | 2024-07-12 | 2025-02-27 |
+| [How Did We Get Here](https://open.spotify.com/track/2DkxGBOvCGHjqMT0xeaC3z) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [How Did We Get Here](https://open.spotify.com/album/4KM98nE6wuWwOxaRV6Dtam) | 5:46 | 2025-10-01 |  |
 | [Hundrede Træer](https://open.spotify.com/track/2N3WIaHGMJVISw9HPUcq4J) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [The Journey Tapes](https://open.spotify.com/album/4Zc9a61Q9FptcK43dZ2XAx) | 4:42 | 2020-12-08\* | 2021-05-27 |
 | [I Came Running](https://open.spotify.com/track/62e6CJOmmYiiwS9yKE5Gg6) | [Ancient Astronauts](https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN) | [We Are To Answer](https://open.spotify.com/album/5YDblirOJpqBmTtrnc8cxz) | 3:59 | 2020-12-08\* | 2021-03-06 |
 | [I Cross the River](https://open.spotify.com/track/1NFbaPu6Ri8mqSeKfiWSs5) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [I Cross the River](https://open.spotify.com/album/0lGggteFImYRkOr9VQG8JT) | 3:32 | 2022-01-06 | 2025-02-27 |
@@ -210,7 +211,7 @@
 | [long lost](https://open.spotify.com/track/7L2ofInqnrSisKJxVPGE6K) | [eternal](https://open.spotify.com/artist/4wGMrwZjdj39HPuCm3Ui6U) | [long lost](https://open.spotify.com/album/2gQ3teUEg1TVZVubUji8Bn) | 2:08 | 2025-07-15 |  |
 | [Looking at the Stars](https://open.spotify.com/track/0oEsb9pPuLAa1pUagDv4BH) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Beauty and Truth](https://open.spotify.com/album/4ZczqJuCVIdZ2JOWDbR5Ie) | 3:13 | 2020-12-08\* | 2021-07-15 |
 | [Lost In Thought](https://open.spotify.com/track/0BSJ1iQEmGibLCPMHGtdo7) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 6:16 | 2020-12-08\* | 2021-05-27 |
-| [Lotus Blume](https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Lotus Blume](https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy) | 3:12 | 2022-09-13 |  |
+| [Lotus Blume](https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Lotus Blume](https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy) | 3:12 | 2022-09-13 | 2025-11-08 |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-10-28 | 2025-09-04 |
 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 | 2022-07-15 | 2025-10-02 |
 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 | 2021-06-16 | 2025-01-15 |

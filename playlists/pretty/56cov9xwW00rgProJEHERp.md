@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,476 likes - 99 songs - 5 hr 41 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,476 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 97 | [Minnie Says \(Would You Be My\) \(with tg.blk\)](https://open.spotify.com/track/3oLcbmHfpsUxHcpaLwBsYy) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Minnie Says \(Would You Be My\) \(with tg.blk\)](https://open.spotify.com/album/28E9lTlZ94wh4LoHa40BAg) | 3:25 |
 | 98 | [Mothers & Daughters](https://open.spotify.com/track/4iVnDUepzYFEMVtQVNYwN4) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Mothers & Daughters](https://open.spotify.com/album/0Qko4tFrzahVbJwI5GVeRJ) | 4:04 |
 | 99 | [Giant Eye](https://open.spotify.com/track/4NfLz4xMhMEkP1aWoWNKeT) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Giant Eye](https://open.spotify.com/album/0jJRp2TU3Xzwr8ebZ0dPXc) | 5:13 |
+| 100 | [chemicals](https://open.spotify.com/track/7AuN02JzwTXPwWL3djCu8y) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [forever and always](https://open.spotify.com/album/2I55s8m8rGt5dAiDUsKMId) | 2:28 |
 
-Snapshot ID: `AAAWJK/Zk/MkkaQdKZtVMC88DZ8IhFf/`
+Snapshot ID: `AAAWJW6joOMCBd/kwYQAMf2hgiyMhoPg`

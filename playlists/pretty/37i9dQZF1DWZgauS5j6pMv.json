@@ -1,13 +1,33 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 347811,
+  "num_followers": 347843,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgji/P1z1sLxfY6P7iL6a/xA031",
+  "snapshot_id": "AAAAAF5AHWQk/C0E3lTOQLDnAzwb5x5n",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:41",
+      "album": {
+        "name": "Yes I Do",
+        "url": "https://open.spotify.com/album/0029KgWSpDdUhKOgCxcUlr"
+      },
+      "artists": [
+        {
+          "name": "Leon Knight",
+          "url": "https://open.spotify.com/artist/0TfMzqbHEk3a4CZ1usZfOY"
+        },
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 164912,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/46TqEftnSGdu9MLaPOrjrP"
+    },
     {
       "added_at": "2025-10-24 04:00:03",
       "album": {
@@ -1327,22 +1347,6 @@
       "duration_ms": 249926,
       "name": "How You Feel",
       "url": "https://open.spotify.com/track/5IFAFA7xKr665r4KguLmkn"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Westside Story",
-        "url": "https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "Westside Story",
-      "url": "https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy"
     },
     {
       "added_at": "2023-07-07 04:01:00",

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9WU5Losjsy8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9WU5Losjsy8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9WU5Losjsy8)
 
-### [Malle Party 2025](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
+### [Après Ski Party 2025](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
 
-> Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
+> Bald gehts wieder auf zur Hütten Gaudi!
 
-186 songs - 9 hr 19 min
+187 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Auf zum Après Ski](https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj) | [Der Partycrasher](https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf) | [Auf zum Après Ski](https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto) | 2:57 | 2024-02-15 | 2024-03-28 |
 | [Auf zum Ballermann](https://open.spotify.com/track/0rezO1PbE9WhVJhhkX8YOA) | [Der Partycrasher](https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf) | [Auf zum Ballermann](https://open.spotify.com/album/2NP14eC2JTyCjnprDgNHxR) | 2:58 | 2024-04-30 | 2025-05-28 |
 | [Auffe aufn Berg](https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz) | [Jägermeister DJ Alex](https://open.spotify.com/artist/1Ob4fbwSOaJu4rbx79jJMk), [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Auffe aufn Berg](https://open.spotify.com/album/1MsuuxBavwmlg23A2KapAr) | 3:51 | 2024-02-08 | 2024-03-28 |
+| [Baila Baila](https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Kings of Günter](https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY), [Immer Hansi](https://open.spotify.com/artist/5pUX4FpriGXvWLiOdcugUH) | [Baila Baila](https://open.spotify.com/album/2evbu0IbU1p0uzcx7g0WBF) | 2:30 | 2025-11-07 |  |
 | [Bayern](https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF) | [Haindling](https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5) | [Zwischenlandung](https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz) | 3:13 | 2024-11-07 | 2025-02-20 |
 | [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 | 2024-11-07 |  |
 | [Berg Rave](https://open.spotify.com/track/5YsCbW9MqDhVEW23zz1vrN) | [NOISETIME](https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC) | [Berg Rave](https://open.spotify.com/album/0ldTriobb4bhr3zsYbUaTi) | 2:00 | 2025-05-22 | 2025-07-15 |
@@ -163,7 +164,7 @@
 | [RESPEKTLOS](https://open.spotify.com/track/2vFtIRRnVeelWIv6SIzTc6) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [RESPEKTLOS](https://open.spotify.com/album/2lMKUB1k6foUaPsfe7yJUD) | 2:21 | 2024-08-30 | 2025-01-02 |
 | [Sarà Perché Ti Amo \- Stereoact Remix](https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk) | [DJ Redblack](https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Sarà Perché Ti Amo \(Stereoact Remix\)](https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX) | 2:02 | 2023-10-20 |  |
 | [Saufen aufm Spielplatz](https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG) | [BroyS](https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [Saufen aufm Spielplatz](https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67) | 4:00 | 2023-07-14 | 2024-04-19 |
-| [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 | 2023-07-14 |  |
+| [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 | 2023-07-14 | 2025-11-08 |
 | [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 | 2023-09-24 |
 | [Schaf](https://open.spotify.com/track/0wD53LCFE5T7wnvu9nohaW) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Chris Tall](https://open.spotify.com/artist/0exB6UwclmlyA9gRpitxTZ) | [Schaf](https://open.spotify.com/album/40wVAvHCbmwu0NHGUumOro) | 2:26 | 2024-11-29 | 2025-03-18 |
 | [Schau mal herein](https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Florian Silbereisen](https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq) | [Schau mal herein](https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7) | 3:03 | 2025-02-19 |  |

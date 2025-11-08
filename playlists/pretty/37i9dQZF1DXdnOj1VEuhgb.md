@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Jefe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,508 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,453 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg) | 2:55 |
 | 2 | [BRAPAP II](https://open.spotify.com/track/5etcvKg0jUs1vRVw1CqBqu) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BRAPAP II](https://open.spotify.com/album/1vbFMbZJjCAAJeW7VmFi9v) | 2:21 |
-| 3 | [HER NEYSE](https://open.spotify.com/track/5UqBTbXIxDVawCa4zBUPtN) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [](https://open.spotify.com/album/null) | 3:12 |
+| 3 | [HER NEYSE](https://open.spotify.com/track/5UqBTbXIxDVawCa4zBUPtN) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [MİLENYUM+](https://open.spotify.com/album/0r6ROuI3w414QKFxN5U1cu) | 3:12 |
 | 4 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 |
 | 5 | [KAYKAY](https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [KAYKAY](https://open.spotify.com/album/29kZS6Qv2zGpM8j0FbUDw1) | 1:47 |
 | 6 | [Yok Hiç Adalet](https://open.spotify.com/track/2n4eNNmJ6KKnRVnBVktcJu) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Delil](https://open.spotify.com/artist/1qE4CSDyGGLsSBOtlWoYqX), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [Yok Hiç Adalet](https://open.spotify.com/album/3OHzlRKjF7ZudmdMm7AeW5) | 2:16 |
 | 7 | [ORTAM](https://open.spotify.com/track/027qx3TzAChB1ZiSlQdJNr) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [ORTAM](https://open.spotify.com/album/1ih1EmRNVB3Ol9nPItnLGr) | 1:58 |
-| 8 | [BLUE LANES](https://open.spotify.com/track/7b6Ds6mdgnMK4OoU4zqFXr) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [](https://open.spotify.com/album/null) | 2:19 |
+| 8 | [BLUE LANES](https://open.spotify.com/track/7b6Ds6mdgnMK4OoU4zqFXr) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [MİLENYUM+](https://open.spotify.com/album/0r6ROuI3w414QKFxN5U1cu) | 2:19 |
 | 9 | [PERDE](https://open.spotify.com/track/7xYtgtwlgXvpiTnXUAkceF) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [BARIŞ](https://open.spotify.com/album/3KuhwFOdVZ8ufC3klz1X5y) | 3:39 |
 | 10 | [YAMYAM](https://open.spotify.com/track/5t44amOMyme3hVNBb8M1WC) | [TAI](https://open.spotify.com/artist/5dFeNfQoaHSqzgS8tyXVKR), [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [YAMYAM](https://open.spotify.com/album/3v3PkjdwdmdvdQwzV5CpIz) | 2:27 |
 | 11 | [PILOT\(MERSIN IDMAN YURDU\)](https://open.spotify.com/track/1iySNgsaCIpLjaJLE87pcF) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [PILOT\(MERSIN IDMAN YURDU\)](https://open.spotify.com/album/6luYwOf2agewcCdcR1bGSj) | 2:14 |

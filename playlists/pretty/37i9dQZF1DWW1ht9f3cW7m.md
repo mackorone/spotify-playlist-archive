@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🥤<br/>cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,478 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,473 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 |
 | 2 | [Feel This Way](https://open.spotify.com/track/4fHWSFWaxdWn75gEYFq4DN) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Quantum](https://open.spotify.com/album/3wwYOqMfZVejIHfh1aGDQi) | 3:33 |
 | 3 | [i don't wanna die today](https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [i don't wanna die today](https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml) | 2:55 |
-| 4 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [](https://open.spotify.com/album/null) | 2:32 |
+| 4 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 |
 | 5 | [Alright, Alright](https://open.spotify.com/track/3coi1T3U5MsiisKkQX9Oza) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Alright, Alright](https://open.spotify.com/album/5LD82ktd0nOVBwwCbFOSJo) | 3:55 |
-| 6 | [Track 6](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Next To You](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Fleeting](https://open.spotify.com/album/2jRGNs15u6y8wlqUuyCUbJ) | 3:38 |
 | 7 | [HABITS](https://open.spotify.com/track/5bU8vnw8Yv4v7IJXz0BhVD) | [Norah Hendriks](https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC) | [HABITS](https://open.spotify.com/album/5PyPmUhNgevIIzKTv2uTmD) | 3:13 |
 | 8 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 |
-| 9 | [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [](https://open.spotify.com/album/null) | 2:49 |
+| 9 | [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:49 |
 | 10 | [Hell](https://open.spotify.com/track/4urDfXfIUt3X4INidnIA4R) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Hell](https://open.spotify.com/album/3A1NxlNj94ve9GwUdp9bXs) | 3:33 |
 | 11 | [Fault Line](https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Fault Line](https://open.spotify.com/album/4oaZCFbDFPktNYKJrTlXf3) | 3:11 |
 | 12 | [wannabe!](https://open.spotify.com/track/1GRm70qZVH8GAjyPIZcpV4) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [wannabe!](https://open.spotify.com/album/0oDjFPkkSXX2xRYvAiyZDN) | 2:12 |

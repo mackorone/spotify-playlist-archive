@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: bloodsports
 
-2,152 songs - 4 day 23 hr 7 min
+2,153 songs - 4 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 | 2024-03-06 | 2024-04-24 |
 | [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 | 2023-02-08 | 2023-04-06 |
 | [ASTRONAUT](https://open.spotify.com/track/3RGQvTnIUzvSWJAMFy5Hg3) | [weyside](https://open.spotify.com/artist/7HySxef0Jg7yvv02PMkjsn) | [ASTRONAUT](https://open.spotify.com/album/3MSwbJJqnCeRZ8Gq3rtDyU) | 2:04 | 2023-03-01 | 2023-03-23 |
+| [AT&T](https://open.spotify.com/track/4Q5sAFJ9qstk1i8bCWesA6) | [Liquid Mike](https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN) | [Hell Is An Airport](https://open.spotify.com/album/7kDCEqBpm37Arcx9jcfjOJ) | 2:18 | 2025-11-07 |  |
 | [Athene](https://open.spotify.com/track/02pXk68MbRpG26YFRxWzJh) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Athene](https://open.spotify.com/album/6pqA7APcsNeUqI7Nqj9Vde) | 3:21 | 2023-07-19 | 2023-11-30 |
 | [Athene](https://open.spotify.com/track/6XOBQaNYtTfmj32QQ6LH3i) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Declarations of the 3am Freeway](https://open.spotify.com/album/7Cd1lfR6NxzCsHFSWCEy6Z) | 3:21 | 2023-11-29 | 2024-01-11 |
 | [atonement](https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [atonement](https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE) | 3:51 | 2022-08-03 | 2022-10-13 |
@@ -395,7 +396,7 @@
 | [City Boi](https://open.spotify.com/track/2T79r0ftR0lUE2xO8jj1Ps) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [City Boi](https://open.spotify.com/album/0IUL1JuO45VuTQxdaVjKPn) | 2:37 | 2024-11-06 | 2025-02-20 |
 | [City Is Taken](https://open.spotify.com/track/70nx9MDLmHCqRCv5BtxHTd) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [City Is Taken](https://open.spotify.com/album/6bX6QkLCwNARg5bUayt2dS) | 3:33 | 2024-02-28 | 2024-06-01 |
 | [Claw Your Way Out](https://open.spotify.com/track/3HjohYDsYZg2KLhYjto8Hq) | [Pluralone](https://open.spotify.com/artist/5jQsMNuCW0iZeFTz6YUK8K) | [Claw Your Way Out](https://open.spotify.com/album/6ZXoRg5L8XMA7M3HC2QOpl) | 3:03 | 2022-02-09 | 2022-04-07 |
-| [Claws](https://open.spotify.com/track/2QOXnqGZN4iulkieCqArjs) | [Liquid Mike](https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN) | [Claws](https://open.spotify.com/album/2aFjW4z5wlqJmOjThdEq9f) | 2:02 | 2025-07-23 |  |
+| [Claws](https://open.spotify.com/track/2QOXnqGZN4iulkieCqArjs) | [Liquid Mike](https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN) | [Claws](https://open.spotify.com/album/2aFjW4z5wlqJmOjThdEq9f) | 2:02 | 2025-07-23 | 2025-11-08 |
 | [Cliché](https://open.spotify.com/track/3m1bdD8K7YvyNP8zACQ6Fw) | [Laura Davidson](https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf) | [Cliché](https://open.spotify.com/album/3OBpcICugDbe4JrTvvQUHJ) | 2:37 | 2023-03-15 | 2023-04-27 |
 | [Close By](https://open.spotify.com/track/5Iec4vloRCVxYC43VfnGop) | [Hard Chiller](https://open.spotify.com/artist/27qVZWcFcgOFp4pbsA7Pvd) | [Close By](https://open.spotify.com/album/70nRAXKz0sngrFAeQd53Xm) | 3:25 | 2024-06-19 | 2024-09-19 |
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-05-29 | 2024-08-22 |

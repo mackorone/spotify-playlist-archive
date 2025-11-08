@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Fikhar",
+        "url": "https://open.spotify.com/album/3kNZbWLbx6SJ0E2ENLE5wE"
+      },
+      "artists": [
+        {
+          "name": "Nandhagopan V",
+          "url": "https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310509,
+      "name": "Fikhar",
+      "url": "https://open.spotify.com/track/7mUHIGHf5T9b8sUhhF2viD"
+    },
+    {
+      "album": {
         "name": "Garuudaa On The Terrace - Season 1",
         "url": "https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x"
       },
@@ -9596,7 +9614,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 200625,
       "name": "Saza - City Sessions, Vol. 2 (Side B)",
       "url": "https://open.spotify.com/track/35PtfO8Xpv2w8jqup2QctA"

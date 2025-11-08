@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: All\u00f4 Fant\u00f4me",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Louis-Charles",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 161182,
       "name": "Attention",
       "url": "https://open.spotify.com/track/3zKo7o00WeEXynWXgSHFw9"
@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "COUTEAU",
+        "url": "https://open.spotify.com/album/75oXz8akEJyvrxpKWnvyIk"
+      },
+      "artists": [
+        {
+          "name": "Louis-Charles",
+          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169012,
+      "name": "COUTEAU",
+      "url": "https://open.spotify.com/track/1csO66FzWCIZvadh0k7w17"
+    },
+    {
+      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -1243,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Demain je pars",
+        "url": "https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209187,
+      "name": "Demain je pars",
+      "url": "https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO"
+    },
+    {
+      "album": {
         "name": "Demande sp\u00e9ciale",
         "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
       },
@@ -1290,7 +1326,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 176091,
       "name": "Dent de lait",
       "url": "https://open.spotify.com/track/5RI0Fux0bYInk8D95nITGc"
@@ -1405,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Doom Pays",
+        "url": "https://open.spotify.com/album/4zSpWehaYe9UBk6nLK2h7E"
+      },
+      "artists": [
+        {
+          "name": "The Dears",
+          "url": "https://open.spotify.com/artist/2qljmykdCfgGy9zUw7UqkX"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186488,
+      "name": "Doom Pays",
+      "url": "https://open.spotify.com/track/4X6cPSDrt3XLzRgBZOVhKL"
+    },
+    {
+      "album": {
         "name": "Doreen",
         "url": "https://open.spotify.com/album/6lmX5j6f9yTnGiQ6agMJ6D"
       },
@@ -1452,7 +1506,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 223506,
       "name": "Dr\u00f4le de temps",
       "url": "https://open.spotify.com/track/5jyVXKVgeXVhErGGIEFMyv"
@@ -2365,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Nouvelles perspectives",
+        "url": "https://open.spotify.com/album/3TUmUMaUyp6sNYqW9gbkP5"
+      },
+      "artists": [
+        {
+          "name": "Carl-\u00c9ric Hudon",
+          "url": "https://open.spotify.com/artist/6NCsXaUZIE2SPXAoWIHdyX"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207207,
+      "name": "Je ne danse pas",
+      "url": "https://open.spotify.com/track/5NiAlSYYpodpeijlHn5i4B"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9bec Core",
         "url": "https://open.spotify.com/album/1aAa3iAeAIOaR9gBggufJc"
       },
@@ -2484,7 +2556,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 199013,
       "name": "Ketchup",
       "url": "https://open.spotify.com/track/6aEDFAIw20ghNgkX6kCFXj"
@@ -2560,7 +2632,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 202041,
       "name": "L'\u00e9cole me tue",
       "url": "https://open.spotify.com/track/6ynTPDBoL9iImUFPdjP3LK"
@@ -2802,6 +2874,24 @@
       "duration_ms": 242800,
       "name": "Le grand \u00e9cart",
       "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
+    },
+    {
+      "album": {
+        "name": "Le gros boutte du b\u00e2ton",
+        "url": "https://open.spotify.com/album/5uzjOGSGDwzD8wcJsjiHrX"
+      },
+      "artists": [
+        {
+          "name": "Yohann Francoz",
+          "url": "https://open.spotify.com/artist/2UWwR5mhtN5Fh29wADoRnT"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219006,
+      "name": "Le gros boutte du b\u00e2ton",
+      "url": "https://open.spotify.com/track/1sFlUEHa1EA9ZDLECwOWdV"
     },
     {
       "album": {
@@ -3162,7 +3252,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 228937,
       "name": "Maison-tison",
       "url": "https://open.spotify.com/track/0krFomY1f9C401AeuG7MCG"
@@ -3479,6 +3569,28 @@
     },
     {
       "album": {
+        "name": "NON",
+        "url": "https://open.spotify.com/album/53Xbz3aHfAaDJ57nEWsoB5"
+      },
+      "artists": [
+        {
+          "name": "Dogo Suicide",
+          "url": "https://open.spotify.com/artist/1lXg4SS0FSJVRiWq98On85"
+        },
+        {
+          "name": "Dominic Pelletier",
+          "url": "https://open.spotify.com/artist/3KuRd3eJbDMVUKalrRw4jZ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139877,
+      "name": "NON",
+      "url": "https://open.spotify.com/track/6ubQAx49EwRtfZDLrQsaIn"
+    },
+    {
+      "album": {
         "name": "Maladie d'amour",
         "url": "https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV"
       },
@@ -3768,6 +3880,24 @@
       "duration_ms": 168853,
       "name": "Parfaite \u00e0 l'\u00e9cran",
       "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/7gM0eFek5dnpFucjdRRO58"
+      },
+      "artists": [
+        {
+          "name": "kkanji",
+          "url": "https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192531,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WTB7gklDUCuL4cScNfjYP"
     },
     {
       "album": {
@@ -4228,7 +4358,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 199574,
       "name": "Rouge Blanc",
       "url": "https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i"
@@ -5262,7 +5392,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 168851,
       "name": "Y a pu d'poude dans poude",
       "url": "https://open.spotify.com/track/7yqBu5Err3V56zeg4bLdMB"
@@ -5320,6 +5450,24 @@
       "duration_ms": 236260,
       "name": "\u00c0 quoi tu penses",
       "url": "https://open.spotify.com/track/7tS2TnBWC05xJ0GXLZ9kTD"
+    },
+    {
+      "album": {
+        "name": "Minivan",
+        "url": "https://open.spotify.com/album/4igqExBKaFZ8dZe1MyOL7z"
+      },
+      "artists": [
+        {
+          "name": "Romeo Rhubarbe",
+          "url": "https://open.spotify.com/artist/10EVMbGMg7bpgsR5m5MQit"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242086,
+      "name": "\u00c7a part avec toi",
+      "url": "https://open.spotify.com/track/6FDTHYLa4jRRAZiUbH5zdI"
     },
     {
       "album": {

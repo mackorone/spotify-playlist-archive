@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 312410,
+  "num_followers": 312430,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "25 Number Ones",
-        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 181932,
-      "name": "You've Never Been This Far Before",
-      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
-    },
-    {
-      "added_at": "2025-10-08 18:42:40",
-      "album": {
         "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 186333,
       "name": "Two More Bottles of Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
+    },
+    {
+      "added_at": "2025-10-08 18:42:40",
+      "album": {
+        "name": "25 Number Ones",
+        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 181932,
+      "name": "You've Never Been This Far Before",
+      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
+        "name": "Oak Ridge Boys Greatest Hits",
+        "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
       },
       "artists": [
         {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Marie Laveau",
-      "url": "https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k"
+      "duration_ms": 174226,
+      "name": "Y'all Come Back Saloon",
+      "url": "https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw"
     }
   ],
   "unique_name": "70s Country",

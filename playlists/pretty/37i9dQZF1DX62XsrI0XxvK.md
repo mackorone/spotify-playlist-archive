@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Wizzy, Fangtatis
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,562 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,565 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY) | [](https://open.spotify.com/album/null) | 2:54 |
+| 1 | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY) | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/album/77YYFOxDJa6IYxQzS2B5q7) | 2:54 |
 | 2 | [Pemula](https://open.spotify.com/track/0vAL8i68jrL5Y5L7jHgShZ) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Pemula](https://open.spotify.com/album/2q8cHBvnDPg1x8xEvof4Lt) | 3:04 |
 | 3 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
 | 4 | [Denganmu](https://open.spotify.com/track/1iLAa3zLXL64rHdqKHsWDo) | [Amabel Odelia](https://open.spotify.com/artist/4PUkvkks3jURfv02pD0FKU) | [A Little Bit Dramatic](https://open.spotify.com/album/0CH6kIXtMB46QJ3H4akna3) | 3:27 |

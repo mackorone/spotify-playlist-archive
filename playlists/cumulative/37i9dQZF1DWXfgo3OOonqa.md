@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,093 songs - 3 day 17 hr 37 min
+2,094 songs - 3 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1920,6 +1920,7 @@
 | [Twogunkid](https://open.spotify.com/track/0kxi8BDubqlXhRqTkuIZe7) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [En paus från internet \- Del 1](https://open.spotify.com/album/3kda21yqjtpYe0WRwgOk00) | 2:16 | 2023-12-06 | 2024-07-19 |
 | [TYSTA BOYS](https://open.spotify.com/track/7aVVIa8xjBUk9hd4UQptiy) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TYSTA BOYS](https://open.spotify.com/album/1dIKGK8GrnjmRtLf8U2wva) | 1:54 | 2025-02-27 | 2025-05-30 |
 | [Tysta leken](https://open.spotify.com/track/32BFjf1Uhyz54qAx9scBim) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Tysta leken](https://open.spotify.com/album/0uaftvwxlm9zFohzHIylME) | 2:41 | 2023-04-06 | 2023-04-28 |
+| [TÄNK](https://open.spotify.com/track/22WDvHFpaNLAND708pdRUI) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [TÄNK](https://open.spotify.com/album/3yofOf4yccca2QnqYNQcjY) | 2:00 | 2025-11-07 |  |
 | [Tänk lite](https://open.spotify.com/track/0lbKDnUwHjdaHJy1pEVubl) | [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM) | [Tänk lite](https://open.spotify.com/album/3NCqRiZBi1309PIMH8l1cC) | 2:24 | 2022-06-17 | 2022-08-26 |
 | [Tårar](https://open.spotify.com/track/5EbnKSZ5Z3iNsGXDg0vKE3) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Tårar](https://open.spotify.com/album/6x8wft9zYkBdnOyZm1IuGP) | 2:51 | 2024-11-28 | 2025-02-11 |
 | [Umbrella](https://open.spotify.com/track/6NDdxXnnjH5dqYqtke97lm) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Umbrella](https://open.spotify.com/album/1QQNiWNsBo3NHjFyMM4I5c) | 2:28 | 2024-10-31 | 2025-03-14 |

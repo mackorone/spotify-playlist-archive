@@ -1,13 +1,145 @@
 {
-  "description": "New jazz for open minds. Cover: Theo Croker",
-  "num_followers": 950026,
+  "description": "New jazz for open minds. Cover: Aaron Parks",
+  "num_followers": 950001,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKGAUqYEidHoPzEOBaqqWmJDvPsa",
+  "snapshot_id": "AAAAAJBt1iu/sI9ReXrpWOlJv+ofDCLv",
   "tracks": [
+    {
+      "added_at": "2025-11-07 16:37:26",
+      "album": {
+        "name": "By All Means",
+        "url": "https://open.spotify.com/album/0Bb8tnCWkiCrZFJ4BSXx9e"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 333285,
+      "name": "Anywhere Together",
+      "url": "https://open.spotify.com/track/6y8wzT1tutKxp0R7VjkBem"
+    },
+    {
+      "added_at": "2025-11-07 16:37:26",
+      "album": {
+        "name": "Dardahan",
+        "url": "https://open.spotify.com/album/7oa7KIxJa6veQsehgkgsEm"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "duration_ms": 252269,
+      "name": "Dardahan",
+      "url": "https://open.spotify.com/track/2amCysmN3ggs031rEW9Sh1"
+    },
+    {
+      "added_at": "2025-11-07 16:37:26",
+      "album": {
+        "name": "North London Pace",
+        "url": "https://open.spotify.com/album/479mcTmLjF8psjuJLRmh99"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "North London Pace",
+      "url": "https://open.spotify.com/track/361AnXfEJHmjvDpTlJ7VpB"
+    },
+    {
+      "added_at": "2025-11-07 16:37:26",
+      "album": {
+        "name": "Kumi Lach",
+        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Kumi Lach",
+      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
+    },
+    {
+      "added_at": "2025-11-07 16:37:26",
+      "album": {
+        "name": "Promise of Fellowship Kept",
+        "url": "https://open.spotify.com/album/27B7jt1Md3UNaEI8MrEJz8"
+      },
+      "artists": [
+        {
+          "name": "Charlie Peacock",
+          "url": "https://open.spotify.com/artist/4Dld5cUTz6eVReIWx9Dtyl"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Jeff Coffin",
+          "url": "https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D"
+        },
+        {
+          "name": "Scott Mulvahill",
+          "url": "https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn"
+        },
+        {
+          "name": "Roger Smith",
+          "url": "https://open.spotify.com/artist/7d7WpoPwrauo2M0ZQuBESc"
+        }
+      ],
+      "duration_ms": 642113,
+      "name": "Promise of Fellowship Kept",
+      "url": "https://open.spotify.com/track/5hm3jK67IElspYxdAvB0wu"
+    },
+    {
+      "added_at": "2025-11-07 16:37:26",
+      "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO"
+    },
+    {
+      "added_at": "2025-11-07 16:37:26",
+      "album": {
+        "name": "Lasting Impression",
+        "url": "https://open.spotify.com/album/1avyPXf8rP4eqgbfGHnnQN"
+      },
+      "artists": [
+        {
+          "name": "Brandon Sanders",
+          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
+        }
+      ],
+      "duration_ms": 443480,
+      "name": "8/4 Beat",
+      "url": "https://open.spotify.com/track/3epFwp7ZHkBXYPdfa5zy5F"
+    },
     {
       "added_at": "2025-10-31 04:00:33",
       "album": {
@@ -67,22 +199,6 @@
       "duration_ms": 200662,
       "name": "eyes wide open (noema)",
       "url": "https://open.spotify.com/track/3qOaqv0ohk5t5LHQorLNqL"
-    },
-    {
-      "added_at": "2025-10-24 04:00:21",
-      "album": {
-        "name": "Little River",
-        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 411996,
-      "name": "Little River",
-      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -239,22 +355,6 @@
       "duration_ms": 401568,
       "name": "Seuss Pants",
       "url": "https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG"
-    },
-    {
-      "added_at": "2025-10-17 04:01:00",
-      "album": {
-        "name": "Tales of Mississippi",
-        "url": "https://open.spotify.com/album/5YqwcpQMAht5EnIHusDgS4"
-      },
-      "artists": [
-        {
-          "name": "Brandon Sanders",
-          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Tales of Mississippi",
-      "url": "https://open.spotify.com/track/42hVqGscO1T9tJlFmC6O74"
     },
     {
       "added_at": "2025-10-17 04:01:00",
@@ -459,26 +559,6 @@
       "duration_ms": 447358,
       "name": "Take Off Your Cool",
       "url": "https://open.spotify.com/track/0Ysimq1w9pwerOtGekE76i"
-    },
-    {
-      "added_at": "2025-09-12 04:22:45",
-      "album": {
-        "name": "Suede",
-        "url": "https://open.spotify.com/album/3tPwSfznRxFsfAWwrptFwT"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        },
-        {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        }
-      ],
-      "duration_ms": 217585,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/7a7rZUp3doRbHOyfH8Bpyu"
     },
     {
       "added_at": "2025-09-19 04:16:20",
@@ -847,26 +927,6 @@
       "duration_ms": 358533,
       "name": "Benny Thanks",
       "url": "https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L"
-    },
-    {
-      "added_at": "2025-04-04 04:00:20",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/4I6RCXzrd9M1cI9anoJu1c"
-      },
-      "artists": [
-        {
-          "name": "Steven Bamidele",
-          "url": "https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6"
-        },
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        }
-      ],
-      "duration_ms": 243843,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/4ilE6MkpkFz1rKXHDfGFPA"
     },
     {
       "added_at": "2025-06-06 04:00:13",
@@ -1267,38 +1327,6 @@
       "duration_ms": 130247,
       "name": "iman",
       "url": "https://open.spotify.com/track/4GWcQfqUzEIGsx2xFuJjcF"
-    },
-    {
-      "added_at": "2025-04-04 04:00:20",
-      "album": {
-        "name": "Consulate Case",
-        "url": "https://open.spotify.com/album/2B2hJboEgiEV4e2oSDMx7s"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 207202,
-      "name": "Consulate Case",
-      "url": "https://open.spotify.com/track/0ftvZIxENBCdDWEeaSOFva"
-    },
-    {
-      "added_at": "2025-04-11 04:00:21",
-      "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 317789,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
     },
     {
       "added_at": "2025-05-23 04:00:21",
@@ -1969,22 +1997,6 @@
       "url": "https://open.spotify.com/track/73L9T4I5ob6qDmsL55mPFX"
     },
     {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "Rhythm, Melody and Harmony",
-        "url": "https://open.spotify.com/album/76iISZ0E026WTuARiTsbKL"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 396035,
-      "name": "Ami's Dance",
-      "url": "https://open.spotify.com/track/6grxCw2w7dCPLGaouf2CXX"
-    },
-    {
       "added_at": "2025-07-14 00:04:48",
       "album": {
         "name": "Dom Salvador JID024",
@@ -2007,26 +2019,6 @@
       "duration_ms": 246379,
       "name": "As Esta\u00e7\u014des",
       "url": "https://open.spotify.com/track/7xifzp3yYwKS9vr3hErSwX"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "Homage",
-        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        },
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 480251,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/06pig4VFnQNUsJ1C8TjkEP"
     },
     {
       "added_at": "2025-06-13 04:00:47",

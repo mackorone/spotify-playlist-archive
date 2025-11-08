@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 凹與山 \(Our Shame\)
 
-797 songs - 2 day 3 hr 59 min
+798 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [沒有終點的旅程](https://open.spotify.com/track/3zVioOgk7Ny6gNaKXJBJ8s) | [Crossing\-跨世兄弟](https://open.spotify.com/artist/78JfivRUsg9hKmS5yIUpol), [楊淨宇](https://open.spotify.com/artist/6vzKW5EhkqIiFD3hoxU9Vb) | [沒有終點的旅程](https://open.spotify.com/album/4lnwaTudIbefL2Y5gt1oHY) | 2:43 | 2025-04-24 | 2025-06-13 |
 | [河床](https://open.spotify.com/track/6Sucn73s1JDJf81hH90Aei) | [憂憂](https://open.spotify.com/artist/3t5mkVPf9oeHvrkNJa41Jt) | [仙湖](https://open.spotify.com/album/7p56xljYONLyXIN9H3vP7P) | 4:23 | 2024-10-24 | 2024-11-29 |
 | [沼澤之王](https://open.spotify.com/track/4NOnXJMy6cbGDEI7ckD9uk) | [Reversing into Garage](https://open.spotify.com/artist/5dnOo3EpTCmEnLwoC4tP78) | [當然無恙](https://open.spotify.com/album/2Of76YsFKAuVmdenA46sAg) | 3:15 | 2024-10-03 | 2024-11-22 |
+| [泡泡](https://open.spotify.com/track/6svH8cx55dJWiVXPPzYAYE) | [越野快餐車](https://open.spotify.com/artist/5xGPYOql3XMjEY5gd2uqAL) | [越野](https://open.spotify.com/album/6QIkei7iQwevR8osNOBkkg) | 4:43 | 2025-11-06 |  |
 | [派](https://open.spotify.com/track/3hkDcO6lcNpBZFW3jYM5I8) | [派拉瑞](https://open.spotify.com/artist/6qIsqBKrIvPwuBoHvhEEUG) | [派](https://open.spotify.com/album/5rQ4LbP9xoy0jsFZhbK6Sd) | 4:02 | 2024-07-25 | 2024-08-16 |
 | [浪漫的最小单位](https://open.spotify.com/track/5h74wcZ0DRJ9iK5wwDZMR9) | [丑橘出逃乐队](https://open.spotify.com/artist/3AocVftAg6M6CoH00s0hWo) | [浪漫的最小单位](https://open.spotify.com/album/7k1kT0gNo27YZFg0u4OJEA) | 3:43 | 2025-06-26 | 2025-07-04 |
 | [浮塵共振](https://open.spotify.com/track/3MB4ZHWVldI8FI2S73IoDU) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0) | [浮塵](https://open.spotify.com/album/3ZztmscN1xI8MpdYNBaYPm) | 4:15 | 2025-04-03 | 2025-05-23 |

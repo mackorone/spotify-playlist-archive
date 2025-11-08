@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Metallica
 
-460 songs - 1 day 8 hr 37 min
+462 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Crank The Heat](https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:42 | 2022-07-01 |  |
 | [Critical Mass](https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO) | [Nuclear Assault](https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU) | [Handle With Care](https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY) | 3:18 | 2022-07-13 |  |
 | [Cult](https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Five Serpent's Teeth](https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK) | 4:51 | 2021-12-17 |  |
+| [Cult Of The Used](https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Cult Of The Used](https://open.spotify.com/album/4hM9lNLvA5cp85q05k05NS) | 4:09 | 2025-11-07 |  |
 | [Curtain Fire](https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Curtain Fire](https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP) | 4:34 | 2021-12-17 |  |
 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 | 2022-12-15 |  |
 | [Darkness Descends](https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94) | [Dark Angel](https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV) | [Darkness Descends](https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw) | 5:47 | 2022-07-13 |  |
@@ -191,7 +192,7 @@
 | [Holding My Breath](https://open.spotify.com/track/6NghMequPvwJEN1NNn0loo) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/2CjKczzR0K77kUR7R1G2Di) | 4:34 | 2021-12-17 | 2022-07-29 |
 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2022-07-13 |  |
 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 | 2021-12-17 |  |
-| [Humanicide](https://open.spotify.com/track/5Lg8OFnLVKJSKgXQJVGpTT) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Humanicide](https://open.spotify.com/album/09guv4nVSZ4DQRhaE3e9vf) | 5:42 | 2021-12-17 |  |
+| [Humanicide](https://open.spotify.com/track/5Lg8OFnLVKJSKgXQJVGpTT) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Humanicide](https://open.spotify.com/album/09guv4nVSZ4DQRhaE3e9vf) | 5:42 | 2021-12-17 | 2025-11-08 |
 | [Humanicide](https://open.spotify.com/track/7KmMhTk07elK9dxu49Owi2) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Humanicide](https://open.spotify.com/album/46AMs0qxmBYUagBy5Dw1Tm) | 5:42 | 2022-07-13 | 2024-04-19 |
 | [Humanoid](https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Humanoid](https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD) | 4:35 | 2024-03-08 |  |
 | [I Am in Command](https://open.spotify.com/track/7AU53yFVENz1sAt3LBldLi) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Never, Neverland](https://open.spotify.com/album/68MPcAtxmP35jvEd4kHxtn) | 3:34 | 2025-05-02 |  |
@@ -221,13 +222,14 @@
 | [Kill as One](https://open.spotify.com/track/3U7bYEYs8GEAh2yyyhErly) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [The Ultra\-Violence](https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA) | 4:59 | 2022-07-13 |  |
 | [Kill the Silence](https://open.spotify.com/track/224yEQIVV5jtW5sFX1f0GO) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Downfall of Mankind](https://open.spotify.com/album/48Wg0oCUOO87Yr5ZGeM8aj) | 3:29 | 2021-12-17 |  |
 | [Killer Of Killers](https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v) | [Zig Zags](https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3) | [Killer Of Killers](https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk) | 3:48 | 2021-12-17 |  |
+| [Killing Season](https://open.spotify.com/track/0N1JV1A4IaV5r2lv5aBL7z) | [Cold Steel](https://open.spotify.com/artist/2inu89bjNrWjp92nEqloP2) | [Discipline & Punish](https://open.spotify.com/album/1X5GOJSZnw74n3hzsJutNj) | 3:03 | 2025-11-07 |  |
 | [King Of The Kill](https://open.spotify.com/track/7tuk6FriAW7gYbFevTGhUB) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Feast](https://open.spotify.com/album/5GGfaOLrxK4U38Y6b2gLoY) | 3:15 | 2022-07-13 | 2022-07-29 |
 | [King of the Kill \- 2013 Version](https://open.spotify.com/track/1gEV4KEZ7QNo7hO8ClhIGl) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Re\-Kill](https://open.spotify.com/album/7hNLVrrT1IUaqM9ltDwGWl) | 3:15 | 2022-07-13 | 2024-04-19 |
 | [Knee Deep In The Dead](https://open.spotify.com/track/0g4AsDH9JRJpfbXuYHAgfe) | [HeXeN](https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3) | [State of Insurgency](https://open.spotify.com/album/5n7u5881lakOouLwI98THI) | 4:01 | 2021-12-17 |  |
 | [Knee Deep in the Dead](https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1) | [HeXeN](https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3) | [State of Insurgency](https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY) | 4:01 | 2022-07-13 | 2024-03-09 |
 | [Last Man Alive](https://open.spotify.com/track/1Ks2UecuMS4C0XVjNhtz0w) | [Whiplash](https://open.spotify.com/artist/1VZpDV00MljTrkukEHFKqZ) | [Power And Pain](https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq) | 3:30 | 2022-07-13 |  |
 | [Last Man Standing](https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Wings of War](https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK) | 5:49 | 2022-07-13 | 2024-04-19 |
-| [Last Man Standing](https://open.spotify.com/track/48wkrVLeg8x3XEkOgkwtHB) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Last Man Standing](https://open.spotify.com/album/6DD5U29WcR6BIXj9hGi8Ny) | 5:49 | 2021-12-17 |  |
+| [Last Man Standing](https://open.spotify.com/track/48wkrVLeg8x3XEkOgkwtHB) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Last Man Standing](https://open.spotify.com/album/6DD5U29WcR6BIXj9hGi8Ny) | 5:49 | 2021-12-17 | 2025-11-08 |
 | [Leave Nothing Behind](https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Leave Nothing Behind](https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl) | 4:11 | 2024-06-27 |  |
 | [Left to Rot](https://open.spotify.com/track/7DvxyQrH2AoV4h8OoiTCDV) | [Warfect](https://open.spotify.com/artist/7CMDtotOom4MIRumUnpzzL) | [Left to Rot](https://open.spotify.com/album/1j6zq4Y2FHyVFmUS7I87mm) | 6:07 | 2021-12-17 | 2022-07-28 |
 | [Legion Of The Damned](https://open.spotify.com/track/3p0f0yvFB5ETwtLcSDlwTS) | [Legion Of The Damned](https://open.spotify.com/artist/3tS2n2PiBzG8Mr8nCfLIJy) | [Malevolent Rapture](https://open.spotify.com/album/2vHh5EDr2ElbddWN1wmz9f) | 3:12 | 2021-12-17 | 2022-07-29 |

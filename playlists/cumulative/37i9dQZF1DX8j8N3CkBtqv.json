@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Shashwat Bulusu, Piyush Ambhore and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Parvaaz, The Yellow Diary and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 161555,
       "name": "2hi2",
       "url": "https://open.spotify.com/track/4g7mhAfH1c607joUYfdCNi"
+    },
+    {
+      "album": {
+        "name": "Marammat",
+        "url": "https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269160,
+      "name": "3am Thoughts",
+      "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
     },
     {
       "album": {
@@ -4038,7 +4056,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 340645,
       "name": "Chaand",
       "url": "https://open.spotify.com/track/0ACh7VKReEyc47vLNS0Gd0"
@@ -4056,7 +4074,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 171173,
       "name": "Chaand",
       "url": "https://open.spotify.com/track/2fz20eNZolwz1QyfPuhRfP"
@@ -6510,7 +6528,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 166061,
       "name": "farebi",
       "url": "https://open.spotify.com/track/0IweqwBllDlpcP1ekPY4KH"
@@ -8637,6 +8655,24 @@
     },
     {
       "album": {
+        "name": "Intehaa",
+        "url": "https://open.spotify.com/album/57hIHWSrlnbFJ7kOcPL6hG"
+      },
+      "artists": [
+        {
+          "name": "Yawar Abdal",
+          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309375,
+      "name": "Intehaa",
+      "url": "https://open.spotify.com/track/5YAbswNlfoc30KCEdom3it"
+    },
+    {
+      "album": {
         "name": "Intezaar",
         "url": "https://open.spotify.com/album/220I4OIAILfxcnEmdlHV7P"
       },
@@ -8648,7 +8684,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 175609,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/75zo4m7jrMcZVbe1gQp3VD"
@@ -11095,6 +11131,24 @@
     },
     {
       "album": {
+        "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
+        "url": "https://open.spotify.com/album/0723LakZfEFENUHxNZ35LT"
+      },
+      "artists": [
+        {
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324063,
+      "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
+      "url": "https://open.spotify.com/track/3oaiL00o9EZjTvmJeocdxy"
+    },
+    {
+      "album": {
         "name": "Kaun Gali Gayo Shyam",
         "url": "https://open.spotify.com/album/58sJCKDuTUMj3hVt3qYggt"
       },
@@ -12628,7 +12682,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 192527,
       "name": "Kuch Na Rahe",
       "url": "https://open.spotify.com/track/5fHW6IdvmeJYzOCXJdWuX8"
@@ -13704,7 +13758,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 215302,
       "name": "Lost You",
       "url": "https://open.spotify.com/track/1TZnTjX5nOrQLCGa1K21Nw"
@@ -13930,6 +13984,32 @@
       "duration_ms": 189714,
       "name": "Maddham",
       "url": "https://open.spotify.com/track/4tYogjyp5Azr6Jyj5ERkam"
+    },
+    {
+      "album": {
+        "name": "maikhana",
+        "url": "https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E"
+      },
+      "artists": [
+        {
+          "name": "Vasu Raina",
+          "url": "https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL"
+        },
+        {
+          "name": "Nanku",
+          "url": "https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p"
+        },
+        {
+          "name": "Lambo Drive",
+          "url": "https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "maikhana",
+      "url": "https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt"
     },
     {
       "album": {
@@ -14420,6 +14500,36 @@
       "duration_ms": 204750,
       "name": "Marham",
       "url": "https://open.spotify.com/track/0mEW7o45RFQiz8H3dN9tXB"
+    },
+    {
+      "album": {
+        "name": "MARYO (feat. Mahira Sharma)",
+        "url": "https://open.spotify.com/album/7nW43VAJT5sQyunJeKblre"
+      },
+      "artists": [
+        {
+          "name": "Noor Mohammad",
+          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
+        },
+        {
+          "name": "Shikha Joshi",
+          "url": "https://open.spotify.com/artist/7aiEauo7tSnrEgxTjIQh0E"
+        },
+        {
+          "name": "Dixit Seth",
+          "url": "https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4"
+        },
+        {
+          "name": "Mahira Sharma",
+          "url": "https://open.spotify.com/artist/0o5cnfOKpV0THKVRD0HwBO"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "MARYO (feat. Mahira Sharma)",
+      "url": "https://open.spotify.com/track/66Ld3SCNj8BwkPpDkszkPr"
     },
     {
       "album": {
@@ -17930,7 +18040,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 161748,
       "name": "Raat",
       "url": "https://open.spotify.com/track/4ISlBceCmec092V1ieWNG7"
@@ -18207,6 +18317,28 @@
     },
     {
       "album": {
+        "name": "Ras Ke Bhare",
+        "url": "https://open.spotify.com/album/4DdckbeFIV5CgeXBjLE2FF"
+      },
+      "artists": [
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        },
+        {
+          "name": "MAYURESH.",
+          "url": "https://open.spotify.com/artist/5Wxldah3QvlSvrJydqVwPo"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Ras Ke Bhare",
+      "url": "https://open.spotify.com/track/4OtOafdgoSVF9VajB1nKmN"
+    },
+    {
+      "album": {
         "name": "Ratiya",
         "url": "https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ"
       },
@@ -18292,7 +18424,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 148218,
       "name": "Ratiyaan",
       "url": "https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz"
@@ -19260,7 +19392,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 204000,
       "name": "Sab Sahi",
       "url": "https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T"
@@ -19330,6 +19462,24 @@
       "duration_ms": 203934,
       "name": "SABAR",
       "url": "https://open.spotify.com/track/6H5pyPWWzFClcVYLSBi562"
+    },
+    {
+      "album": {
+        "name": "Sabki Kahani",
+        "url": "https://open.spotify.com/album/5SkGyMMb683cW0GehC4BPA"
+      },
+      "artists": [
+        {
+          "name": "Antariksh",
+          "url": "https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227878,
+      "name": "Sabki Kahani",
+      "url": "https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw"
     },
     {
       "album": {
@@ -21883,6 +22033,24 @@
     },
     {
       "album": {
+        "name": "Tere Saath",
+        "url": "https://open.spotify.com/album/7nTEXISCDVXzhHP3Nhh978"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139746,
+      "name": "Tere Saath",
+      "url": "https://open.spotify.com/track/7odDwexWWFf4eNCaQj8A4C"
+    },
+    {
+      "album": {
         "name": "Tere Sang",
         "url": "https://open.spotify.com/album/65tU02TOyZFbdYrtt69Fru"
       },
@@ -22278,6 +22446,28 @@
       "duration_ms": 200625,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN"
+    },
+    {
+      "album": {
+        "name": "the party song",
+        "url": "https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ"
+      },
+      "artists": [
+        {
+          "name": "Shikhar",
+          "url": "https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9"
+        },
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184447,
+      "name": "the party song",
+      "url": "https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27"
     },
     {
       "album": {
@@ -24300,7 +24490,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 204927,
       "name": "With You",
       "url": "https://open.spotify.com/track/6aGmg5o7GwDbLRrHYdNHs8"
@@ -24820,6 +25010,24 @@
       "duration_ms": 157009,
       "name": "YOURS TRULY",
       "url": "https://open.spotify.com/track/0f7Q8984eSXkP5q3PMXm02"
+    },
+    {
+      "album": {
+        "name": "Yun Hi Kahin",
+        "url": "https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203392,
+      "name": "Yun Hi Kahin",
+      "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
     },
     {
       "album": {

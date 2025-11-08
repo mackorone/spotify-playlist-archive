@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Shweta Mohan
 
-716 songs - 1 day 18 hr 5 min
+717 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Kanna Pinna](https://open.spotify.com/track/0fa5snUZaaN2koLPG7MwKO) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3) | [Kanna Pinna](https://open.spotify.com/album/03g5WV70pBuLZPlmDUT0qv) | 3:10 | 2023-03-24 | 2024-06-07 |
 | [Kannaamoochi](https://open.spotify.com/track/3PsFYwXnytC7hR2Ev23oLq) | [Anand Sudhan](https://open.spotify.com/artist/7j3EpyzdP3GTNT1wEkqqMo), [Yajeevan](https://open.spotify.com/artist/70cWAz6LxWVbbYiTsMXTWr), [Krishna Kumary](https://open.spotify.com/artist/3HpH2sE2VtmIVGLEsYE0eI) | [Kannaamoochi](https://open.spotify.com/album/5UbrVTI1I3deiyXCa55X5s) | 3:36 | 2023-01-19 | 2023-04-01 |
 | [Kannadi Kannamma](https://open.spotify.com/track/4r7zOAAzRiL2keKpduBhmJ) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60) | [Kannadi Kannamma](https://open.spotify.com/album/0UvWqmEthmKkHKb00l6cdI) | 4:11 | 2022-06-23 | 2022-07-15 |
-| [Kannadi Mugam](https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2) | [Vishnu](https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA) | [Kannadi Mugam](https://open.spotify.com/album/59sCXh6exZFMoCO0eNgvnM) | 3:32 | 2024-12-05 |  |
+| [Kannadi Mugam](https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2) | [Vishnu](https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA) | [Kannadi Mugam](https://open.spotify.com/album/59sCXh6exZFMoCO0eNgvnM) | 3:32 | 2024-12-05 | 2025-11-08 |
 | [Kannadi Valayal](https://open.spotify.com/track/0gDy4cpCWmx0FLKxFqL3zS) | [Gana Docomo Mani](https://open.spotify.com/artist/2MKDy9Gb6IP7bEyTjXLWj2) | [Kannadi Valayal](https://open.spotify.com/album/0y9CDFhebnfOj6HP0A3R9s) | 4:15 | 2022-08-11 | 2022-10-18 |
 | [Kannala Kadhal](https://open.spotify.com/track/4lzgIXbT9hQ0HVlWd4w4Dd) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kannala Kadhal](https://open.spotify.com/album/5I62z1epRIXimxc3ejWc8f) | 2:49 | 2022-11-05 | 2023-02-07 |
 | [Kannamma Eannamma](https://open.spotify.com/track/5nUqv6rpaZg5tnF3XnxIsA) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Kannamma Eannamma](https://open.spotify.com/album/4ZXmtvxSBtCQYJnBUe2qqm) | 3:20 | 2021-12-01 | 2022-11-22 |
@@ -589,6 +589,7 @@
 | [SOODA](https://open.spotify.com/track/3pooF21TkvwlapuPwhfhmT) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Amos Paul](https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9), [Ahashe](https://open.spotify.com/artist/2taTlDnfwjHmQWPf780NP9), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [SOODA](https://open.spotify.com/album/1rwU2JKbH8FpC1sv6m9oKQ) | 3:44 | 2025-04-11 |  |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2022-11-25 | 2023-03-07 |
 | [Sphere of Spirit \- Creative Monkeys](https://open.spotify.com/track/69JrRAmHBSbK7soybReVdN) | [The Gujarathi Street](https://open.spotify.com/artist/0MkEHKh1ZJ1Jhxt6Xfap8R), [Nabeel Cryf](https://open.spotify.com/artist/1LuFENq1h0CJFreyXYbp3p), [Fadel Abdul Rahman](https://open.spotify.com/artist/7Fr2XvS9Ze8tG2HJtU8WYF) | [Sphere of Spirit \- Creative Monkeys](https://open.spotify.com/album/6zcUGj7RoK8mV2TOPk4YPS) | 3:47 | 2022-12-05 | 2023-03-08 |
+| [SRIDEVI](https://open.spotify.com/track/7zUuAXiIkm93o4uExglCXp) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [VENGAYO](https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01) | [SRIDEVI](https://open.spotify.com/album/3o6tfl83PUsbV65V2nKbgX) | 3:43 | 2025-11-07 |  |
 | [Sugasagiye](https://open.spotify.com/track/7tTujQNOJgxYFIoLGH66c0) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 3:53 | 2024-08-12 | 2024-10-15 |
 | [Summertime Kaadhal](https://open.spotify.com/track/3L0p5KOOlxL9InRN6oBXwj) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h) | [Summertime Kaadhal](https://open.spotify.com/album/4PQgAODNFSmImNMjN76aHN) | 2:58 | 2022-05-18 | 2023-06-24 |
 | [Summertime Kaadhal](https://open.spotify.com/track/5nkn93sR9oU8XBuWRnpC44) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h) | [Summertime Kaadhal](https://open.spotify.com/album/0uMFEpvLWVwlb507BCDyiP) | 2:58 | 2022-05-18 | 2023-05-14 |

@@ -21888,7 +21888,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 128126,
       "name": "Iris",
       "url": "https://open.spotify.com/track/2lm8thT1ibHAMk9mT3R4s4"
@@ -23464,7 +23464,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 184503,
       "name": "kanapoja lauluke",
       "url": "https://open.spotify.com/track/4zo6RIT37PhMRN4n2Z1k5b"
@@ -24562,7 +24562,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 162370,
       "name": "kooliaeg",
       "url": "https://open.spotify.com/track/5ek8NlBf5dninkTgel1rvJ"
@@ -35388,7 +35388,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -50987,6 +50987,24 @@
     },
     {
       "album": {
+        "name": "Uueks hommikul",
+        "url": "https://open.spotify.com/album/3TSI8bD2HYxbJMdhK9tap6"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Uueks hommikul",
+      "url": "https://open.spotify.com/track/1a7A3FoOogzD0HnViWe1DU"
+    },
+    {
+      "album": {
         "name": "uus biisi",
         "url": "https://open.spotify.com/album/7mfkfmz3A8mxrYPo6QrtcC"
       },
@@ -54272,6 +54290,24 @@
       "duration_ms": 234324,
       "name": "x2",
       "url": "https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/17ZXj035JRAiA3dFY10GdB"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111725,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/4lA562F7nT6LMkytf2l479"
     },
     {
       "album": {

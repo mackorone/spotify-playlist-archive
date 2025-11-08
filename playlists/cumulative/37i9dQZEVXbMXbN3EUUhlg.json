@@ -4172,6 +4172,32 @@
     {
       "album": {
         "name": "Bandido problem\u00e1tico",
+        "url": "https://open.spotify.com/album/7wOpwhcV6JKW8KE5eCLrr7"
+      },
+      "artists": [
+        {
+          "name": "Dj Gustomares",
+          "url": "https://open.spotify.com/artist/1o1YHZFva6RI2Ve7kjgRzn"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "Iraqui ZL",
+          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Bandido problem\u00e1tico",
+      "url": "https://open.spotify.com/track/4bioqBfAE9nhxwecok2cYB"
+    },
+    {
+      "album": {
+        "name": "Bandido problem\u00e1tico",
         "url": "https://open.spotify.com/album/3cZjFKV6EFUqpO1b6Yhkdl"
       },
       "artists": [
@@ -4194,7 +4220,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 162461,
       "name": "Bandido problem\u00e1tico",
       "url": "https://open.spotify.com/track/6pOSgZYfI73XOsjjZqrIUf"
@@ -15904,7 +15930,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 289313,
       "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS"
@@ -26896,7 +26922,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
@@ -28294,7 +28320,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 160634,
       "name": "Saudade Proibida - Ao Vivo",
       "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
@@ -33122,7 +33148,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 476736,
       "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao Vivo",
       "url": "https://open.spotify.com/track/5QbtKOsjbEGkx0GMiQGBZt"

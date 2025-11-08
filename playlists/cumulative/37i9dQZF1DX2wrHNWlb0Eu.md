@@ -2,9 +2,9 @@
 
 ### [คลั่งรัก](https://open.spotify.com/playlist/37i9dQZF1DX2wrHNWlb0Eu)
 
-> พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้!
+> พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้\. ศิลปิน: GEMINI
 
-224 songs - 13 hr 47 min
+225 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A little thing](https://open.spotify.com/track/0aaASxHyUk8kCiID0f0cNE) | [Peck Palitchoke](https://open.spotify.com/artist/5rbWOWw5jmpe6zbIHCzMpm) | [A little thing](https://open.spotify.com/album/6EKClfFdZr02KfF13xVQf3) | 3:38 | 2023-02-21 | 2023-05-04 |
 | [ABC](https://open.spotify.com/track/7d5HnOYWyxs3L8xf75vyjg) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ABC](https://open.spotify.com/album/4epgYnUh5y1jred3hPdlaE) | 3:44 | 2024-07-15 | 2024-08-24 |
 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 | 2024-07-15 | 2024-08-24 |
-| [Extraordinary](https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG) | 4:01 | 2025-08-17 |  |
+| [Extraordinary](https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG) | 4:01 | 2025-08-17 | 2025-11-08 |
 | [Extraordinary](https://open.spotify.com/track/79yQQnouyRz6n9TEKxbHM5) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/26PnWTLOFIDBLUJpFKSmaz) | 4:01 | 2023-02-10 | 2024-04-19 |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-10-06 | 2024-04-19 |
 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2023-02-10 | 2024-11-25 |
@@ -32,6 +32,7 @@
 | [Pure](https://open.spotify.com/track/3gzO8tyrRN8rWQxvJ3XFSY) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [Pure](https://open.spotify.com/album/1qJcBV0NMrdMZS0vcxNt1J) | 3:03 | 2025-03-21 | 2025-05-31 |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2023-02-10 |  |
 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 | 2024-11-24 |  |
+| [WHAT IF](https://open.spotify.com/track/2bnhi8PyiGiAMuaETsM3Ye) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [WHAT IF](https://open.spotify.com/album/0fOn1MBcLaQ0gGusQBirRT) | 4:12 | 2025-11-07 |  |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2023-02-10 |  |
 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [YOU YOU YOU \- Single](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 | 2023-02-10 |  |
 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 | 2024-11-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Jassin
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,914 likes - 101 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,854 likes - 101 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 5 | [REDE](https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [REDE](https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU) | 1:58 |
 | 6 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 7 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 |
-| 8 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [](https://open.spotify.com/album/null) | 2:43 |
+| 8 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 |
 | 9 | [MAMI](https://open.spotify.com/track/1OsqxSWKQR1WnsLwMw1N2l) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MAMI](https://open.spotify.com/album/0m2iRaAMg7EmOwOEWEHt9H) | 2:06 |
 | 10 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
 | 11 | [Allein](https://open.spotify.com/track/0fUTlRUiqntptZtOSybTl2) | [CIVAN](https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g) | [Allein](https://open.spotify.com/album/4HMufCyHZejSgSmmP97Wzx) | 2:51 |
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 21 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
 | 22 | [ich vermisse dich.](https://open.spotify.com/track/7ltGb3eEdSDc5xVzBnXHiM) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [ich vermisse dich.](https://open.spotify.com/album/713VKMSzMLRzFwxU01dUJ9) | 2:39 |
 | 23 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
-| 24 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [](https://open.spotify.com/album/null) | 2:42 |
+| 24 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 |
 | 25 | [Baltimore \(feat\. Trettmann\)](https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [orange \(Deluxe Version\)](https://open.spotify.com/album/3FbK9vwNoNAQttEOQFWpZZ) | 2:21 |
 | 26 | [Gänsehaut](https://open.spotify.com/track/4Mg3E0QEPAWqbgcDmweYDE) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tagebuch](https://open.spotify.com/album/2W2W5TRADkqW39u9eppWtE) | 2:27 |
 | 27 | [Träumer](https://open.spotify.com/track/6WaYkVZGor0L2VkutbqKNU) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Träumer](https://open.spotify.com/album/0su7e1jq4XBYOcozAXx6Ft) | 2:46 |
 | 28 | [LASS MICH NICHT LOS](https://open.spotify.com/track/3JxhB5TRGsTI1a1mnnQvfH) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [LASS MICH NICHT LOS](https://open.spotify.com/album/0ZfaOo0ihI1eNdOLpiDbDT) | 2:58 |
-| 29 | [Track 5](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [](https://open.spotify.com/album/null) | 0:00 |
+| 29 | [Mega peinlich](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Süß sauer EP](https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6) | 2:50 |
 | 30 | [Mother](https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA +](https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1) | 4:40 |
 | 31 | [069](https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Unzensiert](https://open.spotify.com/album/2e8rOyMcK9LsUwZp6Wt5W0) | 3:42 |
 | 32 | [In meinem Garten](https://open.spotify.com/track/4T9sZmhUcwnAimjnBTl7eW) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [Aus meinem Tagebuch](https://open.spotify.com/album/18lmPK5jSx7uwin7aYqUMb) | 3:32 |

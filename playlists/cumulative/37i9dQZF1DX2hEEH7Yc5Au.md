@@ -2,9 +2,9 @@
 
 ### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
-> 一起來欣賞女性音樂人的精采表現！Cover: 李千娜 \(Nana Lee\)
+> 一起來欣賞女性音樂人的精采表現！Cover: Andr
 
-979 songs - 2 day 16 hr 23 min
+980 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [dumb af](https://open.spotify.com/track/4dTQ7OmJjdV6YmsqNoVo0A) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [dumb af](https://open.spotify.com/album/4xZkNcLXomLf8pc5eM8z59) | 2:54 | 2024-04-30 | 2024-07-03 |
 | [Equal in the Darkness \(Gabry Ponte Remix\)](https://open.spotify.com/track/0209mkkcod3UZ8nYP2TMTy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Equal in the Darkness \(The Remixes\)](https://open.spotify.com/album/13Ctc58yxc9LaKBtq5L6bU) | 3:01 | 2022-01-04 | 2022-03-08 |
 | [Everybody Loves Me \(feat\. OSN\)](https://open.spotify.com/track/4JgKspihSALxCamtUn18ne) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [OSN](https://open.spotify.com/artist/4A2CGVLQ1toami9jfRRYrO) | [Everybody Loves Me](https://open.spotify.com/album/6RTf5ozeT2yY8r9ulviPK4) | 3:31 | 2023-06-06 | 2023-09-06 |
+| [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 | 2025-11-07 |  |
 | [FaceTime](https://open.spotify.com/track/1lg2vQUoFDbAz5oupGoKa2) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [SHA YAN](https://open.spotify.com/album/4CxkDozDcXupIoOgrLC5b8) | 3:34 | 2022-02-01 | 2025-03-05 |
 | [FaceTime](https://open.spotify.com/track/2PNDZp0ultOJrQL4AVENPO) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [SHA YAN](https://open.spotify.com/album/5mBW5XFYqBS5mCBghCzuZE) | 3:34 | 2023-01-31 | 2023-09-06 |
 | [feathers](https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 2:50 | 2025-01-07 | 2025-02-05 |
@@ -360,7 +361,7 @@
 | [單身也可以](https://open.spotify.com/track/7CG7wRsJPHpquZXTOJWyr7) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [單身也可以](https://open.spotify.com/album/10UwR0fP6y6kZ0O5CNOM0Q) | 3:28 | 2023-03-01 | 2023-04-05 |
 | [喵喵咪呀](https://open.spotify.com/track/4sPShxzz0hGB2Ow7aJb4yt) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [喵喵咪呀](https://open.spotify.com/album/6IO908xbixK8SyD9YVIIcG) | 3:23 | 2023-10-03 | 2024-05-01 |
 | [嗶嗶哩巴嗶哩布 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa) | [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [嗶嗶哩巴嗶哩布](https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ) | 2:59 | 2025-02-04 | 2025-03-05 |
-| [嘴巴閉閉](https://open.spotify.com/track/3ZSAuiIj7fJzNBLKahNLDU) | [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [流水席 Flow's Banquet](https://open.spotify.com/album/4IUVCH0duJjB0wvCSJCaed) | 3:51 | 2025-11-04 |  |
+| [嘴巴閉閉](https://open.spotify.com/track/3ZSAuiIj7fJzNBLKahNLDU) | [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [流水席 Flow's Banquet](https://open.spotify.com/album/4IUVCH0duJjB0wvCSJCaed) | 3:51 | 2025-11-04 | 2025-11-08 |
 | [四季](https://open.spotify.com/track/1DNaVy6uH0Mc4D4HNRQvWP) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [失戀無罪](https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX) | 4:51 | 2022-05-31 | 2024-11-06 |
 | [因為你](https://open.spotify.com/track/1WIs6k2cSanUNXQDMzaH62) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [4 U](https://open.spotify.com/album/3s8Q2pYoAO73KDMYOLjTqw) | 4:17 | 2024-04-02 | 2024-06-05 |
 | [因為愛的關係 \- 影集《看看你有多愛我》擁愛主題曲](https://open.spotify.com/track/4tbnbdGyK8cj3i4VDK7udN) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [因為愛的關係 \(影集《看看你有多愛我》擁愛主題曲\)](https://open.spotify.com/album/1URu5l084qcdMfyk3zDVDc) | 3:15 | 2025-11-04 |  |

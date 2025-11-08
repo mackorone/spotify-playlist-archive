@@ -4,7 +4,7 @@
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: Lune
 
-115 songs - 5 hr 0 min
+115 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Erst wenn die Sterne](https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:15 | 2025-10-30 |  |
 | [Evergreen](https://open.spotify.com/track/15IyELrdg32cT3N1NQksUV) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Evergreen](https://open.spotify.com/album/10P9sY4n3L1duh6qWByMN5) | 2:29 | 2025-11-06 |  |
 | [Filmriss](https://open.spotify.com/track/6MXGRSgIS9jHJ0mWlAO75d) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Filmriss](https://open.spotify.com/album/2Fi3qlnWZ6JG0a5lIYHuO9) | 1:56 | 2025-10-24 |  |
+| [fühlichzusehr?](https://open.spotify.com/track/6C2FEYbYYtjiatQk8fkanO) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [fühlichzusehr?](https://open.spotify.com/album/7gZjmUnhZS41kqis2Itjqk) | 3:37 | 2025-11-06 |  |
 | [Für immer](https://open.spotify.com/track/0VVIA89EL4J7esGOoq2xc3) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Für immer](https://open.spotify.com/album/0yuKkwDQKGUMhagslQVqKm) | 2:21 | 2025-10-24 |  |
 | [Geboren um zu leben](https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Geboren um zu leben](https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray) | 2:48 | 2025-10-24 |  |
 | [Glücklich](https://open.spotify.com/track/1QCtEF7Gq6JwvyQp4sibdM) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Glücklich](https://open.spotify.com/album/2Ur8s1MKlthmU3PC2r4Tgd) | 2:28 | 2025-10-24 | 2025-10-31 |
@@ -71,6 +72,7 @@
 | [LETZTER TAG](https://open.spotify.com/track/7l9qt1sUAbqSXXlAMlkrFs) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [LETZTER TAG](https://open.spotify.com/album/0yK0orUAzJF2C06LDJPb3I) | 2:14 | 2025-11-06 |  |
 | [Liebling](https://open.spotify.com/track/4jTkTLwpQ7UFoMxgp153ST) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Liebling](https://open.spotify.com/album/67GN9IEJ6s6fEsrQCkLmbe) | 2:01 | 2025-10-24 | 2025-10-31 |
 | [Lovesick](https://open.spotify.com/track/5ObvmKHmRJntofLvwpP36t) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Lovesick](https://open.spotify.com/album/3AwV2fmBZezk62WPGkRmuH) | 2:15 | 2025-10-24 |  |
+| [Mega peinlich](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Süß sauer EP](https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6) | 2:50 | 2025-11-06 |  |
 | [Mit besten Wünschen](https://open.spotify.com/track/6q4MDW9XtKc0ZgPsDnmhim) | [YOSU](https://open.spotify.com/artist/0rbGvVf9NlLZOTY92SpdxL) | [Mit besten Wünschen](https://open.spotify.com/album/4OvijPT0BJAFirIexQjjVE) | 3:31 | 2025-10-24 | 2025-11-07 |
 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 | 2025-10-30 |  |
 | [NEIN](https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [NEIN](https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT) | 2:10 | 2025-10-30 |  |
@@ -93,8 +95,6 @@
 | [Spiegelbild](https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Spiegelbild](https://open.spotify.com/album/1dz0p7G7H5J6emAIVll695) | 2:37 | 2025-10-30 |  |
 | [Spürst du das auch](https://open.spotify.com/track/2ixJRQMGyC7oWRrH6CbewK) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE), [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Spürst du das auch](https://open.spotify.com/album/4r91wKpYcCe9Vu9VV25jGE) | 2:25 | 2025-10-24 |  |
 | [tanz vor dir](https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [tanz vor dir](https://open.spotify.com/album/5S79DC0vOk4drHwWjRUnbM) | 2:25 | 2025-10-24 | 2025-11-07 |
-| [Track 1](https://open.spotify.com/track/6C2FEYbYYtjiatQk8fkanO) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
-| [Track 5](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 |  |
 | [tu was du nicht lassen kannst.](https://open.spotify.com/track/108VJ9dXI45I6IZb2SYux8) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tu was du nicht lassen kannst.](https://open.spotify.com/album/1ElqUsxfaqFdUt3s8XlImO) | 2:31 | 2025-10-24 |  |
 | [Unbesiegbar](https://open.spotify.com/track/3Sm5fnLXDD4lRP9dSkqIKQ) | [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A) | [Unbesiegbar](https://open.spotify.com/album/0EIfuG6boq1JIaTHUoA4sX) | 2:47 | 2025-10-24 |  |

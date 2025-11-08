@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 142285,
       "name": "Carro de Malandro",
       "url": "https://open.spotify.com/track/7J51wQCGi5RzK7k2k2EDVQ"
@@ -4721,6 +4721,36 @@
     },
     {
       "album": {
+        "name": "Ice e Gin",
+        "url": "https://open.spotify.com/album/1w6AdQBOiBEMgZFN7HHVb9"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "Mc Piedro",
+          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Ice e Gin",
+      "url": "https://open.spotify.com/track/0JMZKldOXJlIlK9R76C6pY"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -5630,7 +5660,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 137757,
       "name": "Mama Eu",
       "url": "https://open.spotify.com/track/6kjyq3ipytfRExqz11P3c3"
@@ -7000,6 +7030,24 @@
       "duration_ms": 158769,
       "name": "NEM A\u00cd",
       "url": "https://open.spotify.com/track/7CHfDDYWBiRH609GKdWgif"
+    },
+    {
+      "album": {
+        "name": "Ana Castela - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224223,
+      "name": "Neon - Spotify Sessions",
+      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
     },
     {
       "album": {

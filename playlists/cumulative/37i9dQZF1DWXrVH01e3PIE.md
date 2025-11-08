@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Lucho SSJ, Dani ibba y LIT killah en la casa del Trap Argentino.
+> Asan en la casa del Trap Argentino.
 
-558 songs - 1 day 3 hr 10 min
+559 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Anti Ley](https://open.spotify.com/track/5niaOOamUPsh23emArQECE) | [MECHAYRXMEO](https://open.spotify.com/artist/7B3Heyhw6s5y9XrxnP8TOx) | [Anti Ley](https://open.spotify.com/album/1ZlkfxcbMjLQAyV46laYtd) | 2:46 | 2025-03-21 | 2025-06-07 |
 | [AP](https://open.spotify.com/track/17A03LcYFHCv33vZrzhwYy) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [AP](https://open.spotify.com/album/27RicP90anwH8Z1etRrB1n) | 3:01 | 2024-06-21 |  |
 | [aPoLLo13](https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [aPoLLo13](https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE) | 2:40 | 2023-05-04 | 2025-06-07 |
+| [Arabes](https://open.spotify.com/track/3ZMU1WwJi8NFszG7Yhyqfb) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Arabes](https://open.spotify.com/album/05Q2crv4Z4rUjWHlZfsLxj) | 2:04 | 2025-11-07 |  |
 | [aura talk](https://open.spotify.com/track/4HTlBVWZuJ0aOmp27tW5CN) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi) | [aura talk](https://open.spotify.com/album/41kv68SyrrGk56ktXLIFTy) | 2:43 | 2025-04-25 | 2025-08-16 |
 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 | 2022-02-04 | 2024-09-28 |
 | [Bad B\*tches](https://open.spotify.com/track/3XQlzdBYy7aXYwdD82WSu7) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [SnipeZ](https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN) | 2:34 | 2022-10-28 | 2023-10-21 |
@@ -311,7 +312,7 @@
 | [Mbappe \- Remix](https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Mbappe \(Remix\)](https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h) | 3:57 | 2025-04-11 | 2025-04-22 |
 | [Me Ama Me Odia](https://open.spotify.com/track/6041gM9Th1ViQcnzkIxnuv) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Me Ama Me Odia](https://open.spotify.com/album/0MB7Wln3Ojj44qEBJIeS2u) | 5:25 | 2025-04-11 | 2025-04-22 |
 | [ME CONVIENE](https://open.spotify.com/track/6f2gN0m9L9SOlw0Y0ZLPCt) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ME CONVIENE](https://open.spotify.com/album/472Rqdk26bvUO36E4ltzfU) | 2:27 | 2023-09-01 | 2024-09-28 |
-| [ME QUEDAN 5 MESES](https://open.spotify.com/track/182wPVU4Vn0v8sXDILASOb) | [Raian Alen](https://open.spotify.com/artist/2ok8bJlcky65l5JaBCfpee) | [ME QUEDAN 5 MESES](https://open.spotify.com/album/42aO5pJrnNcnN8qMueG7Vm) | 2:02 | 2025-10-31 |  |
+| [ME QUEDAN 5 MESES](https://open.spotify.com/track/182wPVU4Vn0v8sXDILASOb) | [Raian Alen](https://open.spotify.com/artist/2ok8bJlcky65l5JaBCfpee) | [ME QUEDAN 5 MESES](https://open.spotify.com/album/42aO5pJrnNcnN8qMueG7Vm) | 2:02 | 2025-10-31 | 2025-11-08 |
 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 | 2025-04-11 | 2025-04-22 |
 | [MENOS MAL](https://open.spotify.com/track/2j0tu91a5OGkKOVLMVhyEX) | [Mike Southside](https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [RESET](https://open.spotify.com/album/2RJAqhDjcD0pB6TeUZlzMM) | 2:35 | 2025-09-12 |  |
 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 | 2022-01-21 | 2024-06-15 |

@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-164 songs - 8 hr 13 min
+165 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 | 2023-10-13 |  |
 | [Saudade Proibida \- Ao Vivo](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Proibida \(Ao Vivo\)](https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa) | 2:40 | 2025-04-04 | 2025-05-17 |
 | [Se Eu Te Procurar](https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Do Jeito que Nóis Gosta 2](https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM) | 2:41 | 2023-10-13 |  |
+| [Se é pra Gente Ficar \(feat\. Wesley Safadão\)](https://open.spotify.com/track/6X5jBkAFu7HE3jigdoVW3r) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Se é pra Gente Ficar \(feat\. Wesley Safadão\)](https://open.spotify.com/album/708cNliAxiocHBCsFZCbIy) | 2:56 | 2025-05-30 |  |
 | [Segue O Plano \- Ao Vivo](https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi) | 2:33 | 2023-10-13 |  |
 | [Sem Direito Ao Amor \(Portuguese Version\)](https://open.spotify.com/track/0TSE0O00JzOy8WrJmo3FI5) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Sem Direito Ao Amor \(Portuguese Version\)](https://open.spotify.com/album/31lds4iqKKZG4kT4zt7bvE) | 3:40 | 2025-05-23 | 2025-05-31 |
 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 | 2023-10-13 | 2025-10-06 |
@@ -156,7 +157,7 @@
 | [Sua Melhor Versão \- Ao Vivo](https://open.spotify.com/track/7nvOKQtlpjQAwLNLhqoO5L) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:56 | 2023-10-13 |  |
 | [Sua Mãe Tá Nessa \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/23rECbM5gMk2GmWKulWHMP) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 | 2023-10-13 | 2024-04-19 |
 | [Sujeito \- Ao Vivo](https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 2:58 | 2023-10-13 |  |
-| [Surra de Cama](https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Surra de Cama](https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf) | 2:58 | 2023-10-13 |  |
+| [Surra de Cama](https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Surra de Cama](https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf) | 2:58 | 2023-10-13 | 2025-11-08 |
 | [Só de Sacanagem \- Ao Vivo](https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 3:03 | 2023-10-13 |  |
 | [Te Assumo \- Ao Vivo](https://open.spotify.com/track/7zIghh6yq3ldfdwU0meLbu) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Te Assumo \(Ao Vivo\)](https://open.spotify.com/album/6yhEh4AnSgSw1PauUw41Rr) | 3:15 | 2024-07-15 |  |
 | [Terapinga \- Ao Vivo](https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Sou do Interior \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V) | 2:56 | 2023-10-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 359004,
+  "num_followers": 359033,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Against The Wall (Acoustic Version)",
-        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
+        "name": "Same Kind Of Different",
+        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 206824,
-      "name": "Against The Wall - Acoustic Version",
-      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
+      "duration_ms": 241292,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Same Kind Of Different",
-        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
+        "name": "Against The Wall (Acoustic Version)",
+        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 241292,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
+      "duration_ms": 206824,
+      "name": "Against The Wall - Acoustic Version",
+      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Unintended [Acoustic Version]",
-        "url": "https://open.spotify.com/album/4h1Etv3O9PHFBwpiZJ8L5b"
-      },
-      "artists": [
-        {
-          "name": "Matt Bellamy",
-          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
-        }
-      ],
-      "duration_ms": 242149,
-      "name": "Unintended - Acoustic Version",
-      "url": "https://open.spotify.com/track/2rx43ysBD4sXw5CuhsAWPT"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "blindfolded (acoustic)",
         "url": "https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 204563,
       "name": "blindfolded (acoustic)",
       "url": "https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Unintended [Acoustic Version]",
+        "url": "https://open.spotify.com/album/4h1Etv3O9PHFBwpiZJ8L5b"
+      },
+      "artists": [
+        {
+          "name": "Matt Bellamy",
+          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
+        }
+      ],
+      "duration_ms": 242149,
+      "name": "Unintended - Acoustic Version",
+      "url": "https://open.spotify.com/track/2rx43ysBD4sXw5CuhsAWPT"
     },
     {
       "added_at": "2024-07-05 19:40:49",

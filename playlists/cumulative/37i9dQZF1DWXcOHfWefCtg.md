@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-85 songs - 4 hr 47 min
+87 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 | 2021-11-12 |  |
 | [Hangin' On To Christmas](https://open.spotify.com/track/1DgsLlwMxd4uywMIYfL1k6) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Hangin' On To Christmas](https://open.spotify.com/album/60cXavBNBPKPGwGS9YNaRk) | 3:39 | 2021-11-12 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2dDmrUXtPSDKfp9LlDhVPM) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4qNDpOGdEumXESG1pdh38A) | 3:04 | 2021-11-19 |  |
+| [I Can't Wait \(For Christmas Time\)](https://open.spotify.com/track/6zSwjpOYyyALTGPN9HCOV5) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [I Can't Wait \(For Christmas Time\)](https://open.spotify.com/album/5IDzBlwfeftvsNFbPiU8OQ) | 2:57 | 2025-11-07 |  |
 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 | 2024-11-29 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5IJtebzTIHk9h3xW3Z2ENd) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [Christmas Time](https://open.spotify.com/album/037BEuITII5Gx7IVQh1ssU) | 4:43 | 2022-12-06 |  |
 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/79XX797KcCCXMQFvgWkU6h) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 4:46 | 2022-12-06 |  |
@@ -92,6 +93,7 @@
 | [Xmas In The Hood](https://open.spotify.com/track/2qMx9EqL28rUQmGI6c9jxp) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Soul Funk Xmas](https://open.spotify.com/album/4FL5Nt8rTgXlBKGEgTCHvU) | 4:47 | 2025-10-03 |  |
 | [Xmas Twist](https://open.spotify.com/track/6jWoQ3rQIs61fYI6tFF45O) | [The Twistin' Kings](https://open.spotify.com/artist/7CwF0SRvwcDYNGbYa4R4Lk) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:42 | 2021-11-12 |  |
 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 | 2021-11-12 |  |
+| [You Feel Like Christmas](https://open.spotify.com/track/0I15p7d8Y81lg130QpfCSI) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [You Feel Like Christmas](https://open.spotify.com/album/4Qv6Ln53wqLxYiAPO60ybA) | 3:59 | 2025-11-07 |  |
 | [You Won't Have To Wait Til Xmas](https://open.spotify.com/track/2cinI0VmjNv5XsvUDlEPvO) | [Lee Rogers](https://open.spotify.com/artist/43h66lHTpDsF4e3EFC3QP6) | [Boss Love: The United Kingdom Collection](https://open.spotify.com/album/6Fh8Gx2zPSXOG37F1AUZIB) | 2:30 | 2022-12-06 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

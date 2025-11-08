@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "aromatics",
+        "url": "https://open.spotify.com/album/0ttsyoz6338CSHJJjpnu4N"
+      },
+      "artists": [
+        {
+          "name": "loutwo",
+          "url": "https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136119,
+      "name": "aromatics",
+      "url": "https://open.spotify.com/track/3pkdDfSB2hc2HiVBBKiSqO"
+    },
+    {
+      "album": {
         "name": "as the mist clears",
         "url": "https://open.spotify.com/album/3cP2btMkisJHb0FNHAVuBE"
       },
@@ -6096,7 +6114,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 133953,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z"
@@ -13332,7 +13350,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 120000,
       "name": "Playing Games",
       "url": "https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn"
@@ -15840,6 +15858,24 @@
       "duration_ms": 128181,
       "name": "slow breath",
       "url": "https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD"
+    },
+    {
+      "album": {
+        "name": "Slow Morns",
+        "url": "https://open.spotify.com/album/20gA8G2MmYOBbJ6GZcU2xj"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Slow Morns",
+      "url": "https://open.spotify.com/track/0Sls4ZDWxFqr3GXeyfSS2s"
     },
     {
       "album": {

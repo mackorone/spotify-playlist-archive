@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Johnny Sellah, SKIEKS, WAWA en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,127 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,137 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Four Seasons](https://open.spotify.com/track/4rE4wH0M37WexhVZN4XDgi) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4), [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Four Seasons](https://open.spotify.com/album/4eb3wiO7BjkMwkZQec4rga) | 2:55 |
 | 2 | [F1](https://open.spotify.com/track/1UDDPcG1brXQnfORhqF6FJ) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [F1](https://open.spotify.com/album/0SKhUMKR1oInVYGKzU04yO) | 2:41 |
-| 3 | [Niks Is Gratis](https://open.spotify.com/track/6Uyr8GqXBVaYvNElC6oQlA) | [Quu.](https://open.spotify.com/artist/7crJO4BrnEaPLTfEHOWg9h), [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Kaiijoeyy](https://open.spotify.com/artist/2sLFJU9P5TVejyGBWozidZ) | [Niks Is Gratis](https://open.spotify.com/album/4GuY4uRD1MT0tZngz2ivWJ) | 2:42 |
+| 3 | [Niks Is Gratis](https://open.spotify.com/track/6Uyr8GqXBVaYvNElC6oQlA) | [Quu.](https://open.spotify.com/artist/7crJO4BrnEaPLTfEHOWg9h), [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Kaijoeyy](https://open.spotify.com/artist/5Ibp4CHqfwCHUgpdKVHbZN) | [Niks Is Gratis](https://open.spotify.com/album/4GuY4uRD1MT0tZngz2ivWJ) | 2:42 |
 | 4 | [Wegdek](https://open.spotify.com/track/6hnPXKpyqxBsOVvYSSWukT) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [Wegdek](https://open.spotify.com/album/4vTVCDdvWZHwmD4dBZDa5A) | 2:45 |
 | 5 | [Señorita](https://open.spotify.com/track/0Yh80YBezb3QnIk9p8nSbI) | [Parsa](https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m), [Stackz](https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS), [73 De Pijp](https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ) | [Señorita](https://open.spotify.com/album/4njkTuKqJoQP01QKqTwkCk) | 1:55 |
 | 6 | [Top tot Teen](https://open.spotify.com/track/67QJTYjnMBq6d2JJ3lqZlT) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Lvv](https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY) | [Top tot Teen](https://open.spotify.com/album/1Mcar4APScn0Lthhf8FTJr) | 2:23 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 46 | [Verstandig](https://open.spotify.com/track/0RiU2lKqcj1EO0tRjF5hKf) | [A3](https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML) | [Verstandig](https://open.spotify.com/album/2lC8phRG5tRWHZFWoPamou) | 3:02 |
 | 47 | [D.I.M](https://open.spotify.com/track/5hx7VG8TAvy3sW9DuYKQxA) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [D.I.M](https://open.spotify.com/album/7MXTvO8RwThj5EZHqjz1sg) | 2:05 |
 | 48 | [HELEMAAL HERRES](https://open.spotify.com/track/7gnyhzKhIKufBX0xmjT35s) | [Rasskulz](https://open.spotify.com/artist/6EG4aueDmBQiVMPfTDku3v), [9V](https://open.spotify.com/artist/1b7dajWPeAyB0hDhs3lyTH) | [HELEMAAL HERRES](https://open.spotify.com/album/4DycpnMgS1gL3dPBwJyYjr) | 3:34 |
-| 49 | [Weg kwijt](https://open.spotify.com/track/63pY7lFL8PciCX6qA3GFuI) | [Matero](https://open.spotify.com/artist/3ZPajb37viy8ugZWkLg7li) | [Weg kwijt](https://open.spotify.com/album/7moKZ7HMD1P14mZQ8XOgrW) | 2:46 |
+| 49 | [Weg kwijt](https://open.spotify.com/track/63pY7lFL8PciCX6qA3GFuI) | [Matero](https://open.spotify.com/artist/3ZPajb37viy8ugZWkLg7li), [David Klein](https://open.spotify.com/artist/5IcNVpb9BiZWOIaqyYvYzk) | [Weg kwijt](https://open.spotify.com/album/7moKZ7HMD1P14mZQ8XOgrW) | 2:46 |
 | 50 | [Kraaiennest \- Zonamo Hoodcypher](https://open.spotify.com/track/5bWV99Bu2xQebDjMINRzRn) | [Zonamo\-Underground](https://open.spotify.com/artist/161uzPzZefQiZ2SSIl7zkb), [Kiddo\-Cee](https://open.spotify.com/artist/7wH3WHmCemROspaw8eKWXY), [MC Lost](https://open.spotify.com/artist/3Tw31Sa6vnZHiyo4P39eQ5), [Maluku](https://open.spotify.com/artist/72nZH5Tr0J5PQZWzSowGFu), [Dharan Rimal](https://open.spotify.com/artist/0ybScfALpfcG1CIi1zLkrQ), [Jojo Wavy](https://open.spotify.com/artist/4xq9B09qPeGipdrCRm7ZbQ), [RQS](https://open.spotify.com/artist/3ehh3BDuRVlDY1II5OpquA) | [Kraaiennest \- Zonamo Hoodcypher](https://open.spotify.com/album/4ob6LqSpyS2NNGEpoj1ndK) | 8:04 |
 | 51 | [Life Changed](https://open.spotify.com/track/6VYOGwuCJGzkpIROYfss13) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il), [EMAGE](https://open.spotify.com/artist/3dHbnberWSCpLL2wOvGBYc) | [Life Changed](https://open.spotify.com/album/1sPya0t7Ht9gPSUyaM0i71) | 2:29 |
 | 52 | [Djoen](https://open.spotify.com/track/2wyo5QYiJr9aWFOSvHZnEB) | [PN](https://open.spotify.com/artist/2R3ccmRzKs416pa2YAUYc1) | [Djoen](https://open.spotify.com/album/2rcGvzyFCwrGp5IxNAn0cn) | 2:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 59 | [Gnumes Gna](https://open.spotify.com/track/7rBkFjCLrbbXzm4D2dy4Ym) | [AB7](https://open.spotify.com/artist/6n6tlB44JuXjIevREM1HqG), [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh) | [Gnumes Gna](https://open.spotify.com/album/6nmyUNhonwSaBTJ21NEpYf) | 2:42 |
 | 60 | [BACKSEAT](https://open.spotify.com/track/7Cc6Bs9VALK1D483fZ8qfw) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il) | [BACKSEAT](https://open.spotify.com/album/4D7vPYvM28l2ZGHIl0n9WS) | 1:49 |
 
-Snapshot ID: `AAAAAP5tZR20N5nXg9iyOPP+Wm6t2gbu`
+Snapshot ID: `AAAAAO6Zzm7lmoBhyZMbgGhYKi6bM/OU`

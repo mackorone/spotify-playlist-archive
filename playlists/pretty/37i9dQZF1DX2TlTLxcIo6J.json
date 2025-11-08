@@ -1,13 +1,97 @@
 {
-  "description": "New songwriters on the horizon from around the world. Cover: WATERBOUTUS",
+  "description": "New songwriters on the horizon from around the world. Cover: RISC",
   "num_followers": 15875,
   "original_name": "RADAR Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqRH4aqEmSLAhnrinp+PaKuKey6",
+  "snapshot_id": "AAAAABeHeMRyiTGZQBlgJN2ju7VGKhDg",
   "tracks": [
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "BEAUTIFUL CHAOS",
+        "url": "https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129683,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt"
+    },
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 163160,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/5QzlDlRuT9D5LdpybJoNYi"
+    },
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "Close to you",
+        "url": "https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 103441,
+      "name": "Close to you",
+      "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
+    },
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "PAID IN MEMORIES",
+        "url": "https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 143880,
+      "name": "*****SHUT UP (with BIG SEAN)*****",
+      "url": "https://open.spotify.com/track/57cXbUfgeJ6N0MqYj429Uw"
+    },
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/3GQ06u8aLZRNKP0UV7BUgB"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "duration_ms": 218947,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/4ByTQKBKzXc3ohxBWaxfJK"
+    },
     {
       "added_at": "2025-09-05 04:00:23",
       "album": {
@@ -745,6 +829,42 @@
       "url": "https://open.spotify.com/track/5DhcEJWVdkPNkJUVnbiUKo"
     },
     {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "STAINS",
+        "url": "https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 346298,
+      "name": "STAINS",
+      "url": "https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT"
+    },
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "Gela",
+        "url": "https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz"
+      },
+      "artists": [
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        },
+        {
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "Headphones",
+      "url": "https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH"
+    },
+    {
       "added_at": "2025-06-04 18:15:42",
       "album": {
         "name": "No Romeo EP",
@@ -775,6 +895,22 @@
       "duration_ms": 245933,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY"
+    },
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -887,6 +1023,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "Policeman",
+        "url": "https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft"
+      },
+      "artists": [
+        {
+          "name": "Natali Noor",
+          "url": "https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Policeman",
+      "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
     },
     {
       "added_at": "2024-09-12 10:00:00",
@@ -1355,6 +1507,26 @@
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "added_at": "2025-11-07 22:33:34",
+      "album": {
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
       "added_at": "2024-09-12 10:00:00",

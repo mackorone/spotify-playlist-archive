@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: The Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,154 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,164 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [There's Something About That Name](https://open.spotify.com/track/7EqzbnOjhFeZ8WTkMcoLXl) | [The Martins](https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB) | [There's Something About That Name](https://open.spotify.com/album/0Hipc9Biwb6AYpY2gYQBTz) | 3:20 |
+| 1 | [Because He Lives](https://open.spotify.com/track/0oCqZ1MAaj7EuTBS74Ayfq) | [The Martins](https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB) | [Because He Lives](https://open.spotify.com/album/3cTnb7JBHIYL6Q96e4YTpq) | 3:58 |
 | 2 | [One More Hallelujah](https://open.spotify.com/track/384RrrnhTnjcHKqv6o6eRs) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [By The Riverside \(Deluxe\)](https://open.spotify.com/album/0KsRZ282ajaz9v7kPJOEaD) | 4:00 |
 | 3 | [Ain't No Satisfaction](https://open.spotify.com/track/01lkLn6h6dltmQIBq55Exd) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Good Answers](https://open.spotify.com/album/54K2pbvi1Aq7FvcvjMaGvH) | 3:09 |
 | 4 | [It Made News In Heaven When I Got Saved](https://open.spotify.com/track/78o6QDN2l5Jv3OeEcuenBO) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [It Made News In Heaven When I Got Saved](https://open.spotify.com/album/2xGFPLQhNVUcTFJozB9QeG) | 2:48 |
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 16 | [Through the Furnace Fire](https://open.spotify.com/track/5ztkQz8pTIDmI6XCfZo0xr) | [Sound Street](https://open.spotify.com/artist/3PU7NuFhIfjJPwyxaavilJ) | [Good Seed](https://open.spotify.com/album/3K1mnlx3gFQh4Iy9uTjjOB) | 3:37 |
 | 17 | [99 1/2 \- Studio Version](https://open.spotify.com/track/2nibTRJU1WdEUylLAz3jvu) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [99 1/2](https://open.spotify.com/album/6QhWm79DHnttk6QX3HtlU2) | 2:42 |
 | 18 | [God Who Redeems](https://open.spotify.com/track/5XWbqp5JY4T42XWQXhnwBu) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [Grateful for the Gospel](https://open.spotify.com/album/1JvcrhIjNDCEib9Enzgtlo) | 3:27 |
-| 19 | [Are You Washed in the Blood?](https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [And Now, Let's Turn to Page…](https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA) | 3:03 |
-| 20 | [You've Already Won](https://open.spotify.com/track/29KMpdBMgH8zPRMYF7Erzy) | [Chosen Road](https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh) | [You've Already Won](https://open.spotify.com/album/4PzFcJxB40QOAp4kEemBMU) | 5:40 |
-| 21 | [I'd Rather Have Jesus](https://open.spotify.com/track/4fhpTimL1Dfy879fUEEJxa) | [Gene McDonald](https://open.spotify.com/artist/19X4ofoCzM24w2qkiWiHrc) | [Forgiven and Free](https://open.spotify.com/album/1X9LNCjtYHbkXHT7x4pUvN) | 4:05 |
-| 22 | [Believe For It](https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Believe](https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl) | 4:01 |
-| 23 | [\(More Than A\) Hollow Hallelujah](https://open.spotify.com/track/7tbdulhnyIxuxpT3dRO149) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Praise & Worship: More Than A Hollow Hallelujah](https://open.spotify.com/album/4DhwZKd4ZfV41G6bDoERZC) | 5:53 |
-| 24 | [Unspoken Request](https://open.spotify.com/track/6twhBwsKg8IPd0idLy5Zit) | [The McKameys](https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF) | [Precious Seed](https://open.spotify.com/album/5zcwC7WEsxsCrduTt3frvl) | 3:16 |
+| 19 | [Wonderful, Counselor \(feat\. Katy Peach\)](https://open.spotify.com/track/3y0CrBe1mvayMIIBWJnYSt) | [Hillcrest Nashville](https://open.spotify.com/artist/1tJxp3TsAB4fyE1q1TR9Pc), [Katy Peach](https://open.spotify.com/artist/23yT0ld6sGN7eSVbRwYs71) | [The Name That Changed the World](https://open.spotify.com/album/5GuOj8c8yy5PNhrCyRsmym) | 4:16 |
+| 20 | [Are You Washed in the Blood?](https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [And Now, Let's Turn to Page…](https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA) | 3:03 |
+| 21 | [You've Already Won](https://open.spotify.com/track/29KMpdBMgH8zPRMYF7Erzy) | [Chosen Road](https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh) | [You've Already Won](https://open.spotify.com/album/4PzFcJxB40QOAp4kEemBMU) | 5:40 |
+| 22 | [I'd Rather Have Jesus](https://open.spotify.com/track/4fhpTimL1Dfy879fUEEJxa) | [Gene McDonald](https://open.spotify.com/artist/19X4ofoCzM24w2qkiWiHrc) | [Forgiven and Free](https://open.spotify.com/album/1X9LNCjtYHbkXHT7x4pUvN) | 4:05 |
+| 23 | [Believe For It](https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Believe](https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl) | 4:01 |
+| 24 | [\(More Than A\) Hollow Hallelujah](https://open.spotify.com/track/7tbdulhnyIxuxpT3dRO149) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Praise & Worship: More Than A Hollow Hallelujah](https://open.spotify.com/album/4DhwZKd4ZfV41G6bDoERZC) | 5:53 |
 | 25 | [Everybody Needs Jesus](https://open.spotify.com/track/4pMbcHvslEFVQmLEu4dTrs) | [Vestal Goodman](https://open.spotify.com/artist/6CHoGb3HjH5ZHA3K6l6C6D), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Vestal & Friends II](https://open.spotify.com/album/2zywWUBpkskUPs2cCSoj1J) | 3:15 |
 | 26 | [Can I Get A Witness](https://open.spotify.com/track/61DSQo98OtVeCI2U1JVUBz) | [Act Of Congress](https://open.spotify.com/artist/5pcRkpZHW0fibP8wxh0s48) | [Can I Get A Witness](https://open.spotify.com/album/5Wnwe3xCiSfT1UgskNX9XD) | 3:43 |
 | 27 | [Best Thing](https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Bigger Than Sunday](https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 49 | [Goodness and Mercy \(feat\. Todd Smith\)](https://open.spotify.com/track/2jU3vCrlb4hirmjq8DnAjn) | [Lee Park Worship](https://open.spotify.com/artist/2gqep75ws6SMcHFl45cghA), [Shane Dunlap](https://open.spotify.com/artist/4bp86PmlkB4udKMBveIOlX), [Todd Smith](https://open.spotify.com/artist/3ByH7rh6XDnP76d5Traoxy) | [Goodness and Mercy \(feat\. Todd Smith\)](https://open.spotify.com/album/3BsifoJiIJfv12TfDxSjkA) | 3:42 |
 | 50 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 |
 
-Snapshot ID: `AAAAAKxUknUDEIwZYDOYwkjalXm3D0Yl`
+Snapshot ID: `AAAAADx2lDb4H9WMjCrgyBPjqynpXjOw`

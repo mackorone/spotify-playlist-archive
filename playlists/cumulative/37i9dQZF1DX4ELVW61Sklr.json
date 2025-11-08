@@ -912,7 +912,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 265927,
       "name": "Greatest Gift",
       "url": "https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 234889,
       "name": "I\u2019ll Be Home For Christmas",
       "url": "https://open.spotify.com/track/504nGhJlqAHhetXtDvAXI4"
@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Skip My House",
+        "url": "https://open.spotify.com/album/1fOjzK6YS7bpxbTC4nsOpm"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186085,
+      "name": "Skip My House",
+      "url": "https://open.spotify.com/track/4FHs1JTMBEHiN6qQxJ0ZlM"
+    },
+    {
+      "album": {
         "name": "Sleigh",
         "url": "https://open.spotify.com/album/0uclO2Rx8I2zKd3AWRmpHs"
       },
@@ -2699,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/7l1fYvDxNH1VjC3k8d1rAE"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228453,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/3bQFCjE08xLa4ftAQABSt3"
+    },
+    {
+      "album": {
         "name": "Christmas With Brandy",
         "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
       },
@@ -2892,7 +2928,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 145925,
       "name": "The Greatest Gift",
       "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
@@ -3088,6 +3124,28 @@
       "duration_ms": 188885,
       "name": "This Christmas - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8"
+    },
+    {
+      "album": {
+        "name": "This Christmas I'm Coming Home",
+        "url": "https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180974,
+      "name": "This Christmas I'm Coming Home",
+      "url": "https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y"
     },
     {
       "album": {

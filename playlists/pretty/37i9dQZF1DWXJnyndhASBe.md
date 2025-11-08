@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,936 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,009 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [PLN](https://open.spotify.com/track/380IZtWd0kGFzRt2Z28Z7A) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [PLN](https://open.spotify.com/album/0VbL50uEFrHvhN8P2SNFFQ) | 2:30 |
 | 50 | [Bieg](https://open.spotify.com/track/3vfJqM3HgkJp1LObfg9jww) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh), [spazma](https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7) | [Ten Sam Stan \(Deluxe\)](https://open.spotify.com/album/3GeyvjdKIlIsadsBP57910) | 1:32 |
 
-Snapshot ID: `AAAAAPu+kucii/mzHqDz47FSn7+wbzWO`
+Snapshot ID: `AAAAAGzyYoT50CCEwkYdFAhkfau71hum`

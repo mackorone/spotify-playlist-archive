@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Minelli, Busta Rhymes
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,589 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,600 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7 zile](https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [7 zile](https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE) | 2:38 |
-| 2 | [Track 8](https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Azucar](https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Mixed Feelings](https://open.spotify.com/album/6P21kzrMNOGSULxDw47nXD) | 2:21 |
 | 3 | [Pe pământ](https://open.spotify.com/track/3AkZgnB0MbEU2AR2clX4Na) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Pe pământ](https://open.spotify.com/album/1tFybnLIxi3vByK36lpLX9) | 3:13 |
 | 4 | [Cămașa](https://open.spotify.com/track/0vabm7nnXssXJehhwT4rzW) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Cămașa](https://open.spotify.com/album/6CfrIhvwy7mTL18pXJSHqF) | 2:33 |
 | 5 | [Ti\-amintesc de Cineva](https://open.spotify.com/track/0lHWFezHugWATHEX0B5VRQ) | [Klaudia](https://open.spotify.com/artist/5wcAymSIbNcOaEBgxDZnxq), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Ti\-amintesc de Cineva](https://open.spotify.com/album/68ZFu2NbB7aO1dQTdBSGmy) | 3:10 |

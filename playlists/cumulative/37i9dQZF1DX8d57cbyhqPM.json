@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tontons Franglish et KeBlack.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Rsko.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 178786,
       "name": "BANGER",
       "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
@@ -7849,6 +7849,28 @@
     },
     {
       "album": {
+        "name": "Melo Ghetto",
+        "url": "https://open.spotify.com/album/5sVbH8pfdzBHfPdEKnTkpF"
+      },
+      "artists": [
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Melo Ghetto",
+      "url": "https://open.spotify.com/track/60XfVgoW5gfURIWUZLimjQ"
+    },
+    {
+      "album": {
         "name": "Meridian & Special",
         "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
       },
@@ -8096,7 +8118,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 171537,
       "name": "Mood",
       "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
@@ -10557,6 +10579,28 @@
     },
     {
       "album": {
+        "name": "Jeune prince",
+        "url": "https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155973,
+      "name": "Pression",
+      "url": "https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS"
+    },
+    {
+      "album": {
         "name": "Pretty Girl Pack",
         "url": "https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N"
       },
@@ -11048,6 +11092,24 @@
       "duration_ms": 441413,
       "name": "Se Yo",
       "url": "https://open.spotify.com/track/1dNDtsCf0m5aQ6SdpgyTo1"
+    },
+    {
+      "album": {
+        "name": "Chair de poule (Sens interdit)",
+        "url": "https://open.spotify.com/album/2l3ZqUd9xnKAHLqiEPNG8p"
+      },
+      "artists": [
+        {
+          "name": "Ferre Gola",
+          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413053,
+      "name": "Sens interdit",
+      "url": "https://open.spotify.com/track/3hYY8L4NB3kukmKwJpPZbX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Schlotte, laurin
 
-1,484 songs - 2 day 21 hr 57 min
+1,484 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Arsch an Arsch.](https://open.spotify.com/track/6d3BPRJsNJuTeRTUwFpyKR) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Arsch an Arsch.](https://open.spotify.com/album/1p5zV40t8D6uyaEQeTwf2j) | 3:17 | 2025-09-04 | 2025-10-10 |
 | [Arsenalplatz](https://open.spotify.com/track/2BflyD6iRTJJffvVqmMtk5) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Arsenalplatz](https://open.spotify.com/album/6xztgC0pES1sRIA3v1JTTh) | 2:55 | 2025-09-11 | 2025-11-07 |
 | [Art und Weise](https://open.spotify.com/track/1yh0I7f6gMQLZF5wr7RHLx) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Art und Weise](https://open.spotify.com/album/0f9er9ha0bbTwoZsdP5myK) | 3:29 | 2023-06-01 | 2023-06-23 |
-| [Athena.](https://open.spotify.com/track/3KmZ2jOha2rVbY4UbVNYdr) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [](https://open.spotify.com/album/null) | 4:32 | 2025-11-06 |  |
+| [Athena.](https://open.spotify.com/track/3KmZ2jOha2rVbY4UbVNYdr) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Athena.](https://open.spotify.com/album/2nr4cjZQ6hIxaAL8nnT249) | 4:32 | 2025-11-06 |  |
 | [atlantik](https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [atlantik](https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f) | 2:54 | 2024-03-28 | 2024-06-28 |
 | [Atlantis](https://open.spotify.com/track/0k5rxeLt6sECi6Qi2YFoBX) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [Atlantis](https://open.spotify.com/album/6CyoXyEcAXocu15E4ui3Q1) | 1:50 | 2025-05-01 | 2025-06-27 |
 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 | 2024-03-07 | 2024-06-28 |
@@ -260,7 +260,7 @@
 | [Dahinter ist blau](https://open.spotify.com/track/0904VlvpzpJa8UR6vQiDtk) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Dahinter ist blau](https://open.spotify.com/album/2JSazwh5Chyqj6X7QGxjNJ) | 1:36 | 2024-06-27 | 2024-07-19 |
 | [Damals](https://open.spotify.com/track/4h6ts4YFc1FYC9CzQCRoIn) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Damals](https://open.spotify.com/album/0cFl7GKxwsIDOOXoH2cUuw) | 3:38 | 2025-06-19 | 2025-07-11 |
 | [Dana](https://open.spotify.com/track/7xeEJ9mZIUnqHPAmHILcEp) | [Tua](https://open.spotify.com/artist/1GXnXJCevXK2b7qDAwdU5u) | [Tua](https://open.spotify.com/album/0w7dWcmkgst1TJXDzUoZG8) | 3:36 | 2025-02-13 | 2025-02-15 |
-| [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [](https://open.spotify.com/album/null) | 2:43 | 2025-11-06 |  |
+| [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 | 2025-11-06 |  |
 | [Danke dass du mich verlassen hast](https://open.spotify.com/track/1D3iM8TeSYE9HqoIT0ATd3) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Danke dass du mich verlassen hast](https://open.spotify.com/album/6Z2C1VCW2k8vJl2DQ0IXiD) | 3:17 | 2023-03-09 | 2023-09-15 |
 | [darth vader](https://open.spotify.com/track/0cCNOiul92riHmV1DHPdr4) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [rückwärts auf dem heimweg](https://open.spotify.com/album/4PtW0vPRbmiOQ6LgNzBkg7) | 2:48 | 2024-09-05 | 2024-09-20 |
 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 | 2024-09-19 | 2025-02-15 |
@@ -521,6 +521,7 @@
 | [Gezeiten](https://open.spotify.com/track/4SSVmxpjJbhKgkJPDZnaim) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Gezeiten](https://open.spotify.com/album/644TqEJsIFd8zpPJYM5AEg) | 2:45 | 2025-07-24 | 2025-10-17 |
 | [Gib her was dich kaputt macht](https://open.spotify.com/track/1mGvGbF4qKoRQy4hdpDnqR) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Gib her was dich kaputt macht](https://open.spotify.com/album/4yrfckEAdy9HRpemsJzMr6) | 3:43 | 2023-11-09 | 2023-12-12 |
 | [Gift](https://open.spotify.com/track/1yZKrZVefeicRY2OuhbxfB) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Gift](https://open.spotify.com/album/1RFWXLqxR7tP7hyunSO13H) | 2:56 | 2025-02-13 | 2025-02-15 |
+| [Girl aus der Stadt](https://open.spotify.com/track/5hXvca7JFK38NYzAoqlmrV) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [junges Ding](https://open.spotify.com/album/7FryAEw96VkzJGawpS2naQ) | 2:43 | 2025-11-06 |  |
 | [Girls](https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Girls](https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL) | 3:08 | 2023-03-02 | 2023-09-15 |
 | [gladiolen](https://open.spotify.com/track/1XObGR5yiTCQDANRyxddSB) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [gladiolen](https://open.spotify.com/album/2bqh2nCPi1TQACW7e9aHP8) | 1:44 | 2025-07-10 | 2025-10-10 |
 | [glasaugen](https://open.spotify.com/track/6djkV1yYg9Bbm99sogepBZ) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [glasaugen](https://open.spotify.com/album/7cjjZ5z3waqWScR42vrgQM) | 2:04 | 2025-10-23 |  |
@@ -1260,7 +1261,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 9](https://open.spotify.com/track/5hXvca7JFK38NYzAoqlmrV) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

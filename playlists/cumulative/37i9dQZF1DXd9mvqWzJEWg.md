@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: QUE DJ, DJ Lag
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: General C'mamane
 
-512 songs - 1 day 21 hr 25 min
+514 songs - 1 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bhenga Bhenga](https://open.spotify.com/track/1LyMrf9CVlDp2omeqslPy8) | [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG), [NovaBoy](https://open.spotify.com/artist/5a5pPolZDAfOWDAYY8YyAy) | [Bhenga Bhenga](https://open.spotify.com/album/1wCYjOt7uZjcASoUzoixZh) | 6:27 | 2025-07-31 |  |
 | [Bhola Le Mali](https://open.spotify.com/track/5ABaeKundEW92qCpRnK5nM) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Baba KaSimba](https://open.spotify.com/artist/2NezpaqBRDLiAPkOQmojuF) | [Bhola Le Mali](https://open.spotify.com/album/5nZRG1U1Vz920yOIEnlDtQ) | 4:34 | 2025-08-21 |  |
 | [Bhuwa's Party](https://open.spotify.com/track/4pOKeo4Omk7ZjueaOr7IIM) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Bhuwa G](https://open.spotify.com/artist/6d1P6DJxCWIjnR6GI9qhdI), [Sizwe Mdlalose](https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Solan Lo](https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq), [DJ Pepe](https://open.spotify.com/artist/4I54IHr2hrvOAQjUF0smrI), [Kwah](https://open.spotify.com/artist/1uJMiYEOwN2sqk8Nyd11SQ) | [Bhuwa's Party](https://open.spotify.com/album/2TjEOCa9yiWD1Ud3w14NgN) | 5:38 | 2023-08-17 | 2024-09-13 |
+| [Big Spender](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 5:12 | 2025-11-07 |  |
 | [Black Bird](https://open.spotify.com/track/6IWC5q7y3HgtGdkwKdxh3D) | [Griffit Vigo](https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom) | [Black Bird](https://open.spotify.com/album/4n766KiFqP5YopYt6RpBTi) | 6:40 | 2025-01-23 | 2025-02-07 |
 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 | 2025-02-06 | 2025-02-21 |
 | [Bless Them](https://open.spotify.com/track/6hQkZHn6ktTAPb3YdYF15M) | [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC), [Aries Rose](https://open.spotify.com/artist/18MjyoHifvEC3g6yfSPeH4), [Dj Lifa](https://open.spotify.com/artist/39R1LzjsKyNu8YiJuhvURu) | [Gqom With Criteria](https://open.spotify.com/album/11DC9g3od8oiWrVg2ZKrXQ) | 5:32 | 2023-08-24 | 2024-09-13 |
@@ -231,6 +232,7 @@
 | [Iyebo](https://open.spotify.com/track/0UkR0OnVVwWR5P2GuCH4XN) | [Dj Baphakele](https://open.spotify.com/artist/5EZfm5TuxPaE71IK4DN3Hn) | [Iyebo](https://open.spotify.com/album/02b85JNYNEQVz1nK7FB5HC) | 5:06 | 2025-02-20 | 2025-05-09 |
 | [iYebo iYebobo \(Gqom\)](https://open.spotify.com/track/1I7zGf8n8LY1nZY1Hsjnwl) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG), [Mtaka Tee](https://open.spotify.com/artist/6cKAA4ItTTcO3G3al2DOaL), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J) | [Amagalelo Egqom](https://open.spotify.com/album/0OtKCnIcrKbRyD4ujMYeq5) | 6:10 | 2024-12-12 | 2024-12-20 |
 | [Iyebobo \(feat\. CowBoii & ShennyDaDeejay\)](https://open.spotify.com/track/4BOvXbHa6Q6hYuwkWRJeYO) | [Shaun Stylist](https://open.spotify.com/artist/4MsFYMTaEW4pyz5elLDzTp), [Candy Flow RSA](https://open.spotify.com/artist/1b5fRGLPLWV69MK4HGohFo), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [ShennyDaDeejay](https://open.spotify.com/artist/0X0or8ECPXZc84oBEekeOH) | [Iyebobo \(feat\. CowBoii & ShennyDaDeejay\)](https://open.spotify.com/album/1Y4oCcZfGB00yc6V3YDg53) | 6:54 | 2024-12-05 | 2025-01-17 |
+| [Iyobisi](https://open.spotify.com/track/7zojPQCAffyBpPMRJhO8J2) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [JnrScabha](https://open.spotify.com/artist/61gMpjSOP5Bb8LqT2RpVTf), [Senarh](https://open.spotify.com/artist/4DKQzNgfbzTyNJtOtvAhbn) | [Iyobisi](https://open.spotify.com/album/7enb6Mzmoiuq58VjKbLGYq) | 4:16 | 2025-11-07 |  |
 | [Iza Mawala](https://open.spotify.com/track/3htTQssbDB6Xx6B5YZVkmA) | [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl) | [Iza Mawala](https://open.spotify.com/album/4ckzn1xPhgxaRKhp3ND00O) | 3:50 | 2024-11-15 |  |
 | [Izigqibo Zakho 2.0](https://open.spotify.com/track/1Bailok9p8aLTZdcIM2hIv) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Minollar](https://open.spotify.com/artist/6MPpktX34Rx5MFNQyGaAXP) | [Love and Light](https://open.spotify.com/album/5uZSDxYI3OqMbBY8FzR5Dt) | 5:41 | 2022-08-04 | 2023-08-25 |
 | [Izinyembezi ZoThando](https://open.spotify.com/track/4twcXJPUrzMy2dLnhVNRCC) | [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL), [Sunnyboy](https://open.spotify.com/artist/56kr2TsEQwtIAcS7dejb92) | [My 21st\(Gqom Version\)](https://open.spotify.com/album/6YQkHfbgmdi5kWTlTlIHbZ) | 6:07 | 2025-02-20 | 2025-04-23 |

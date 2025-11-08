@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 78282,
+  "num_followers": 78280,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Otra Noche de Llorar",
-        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 266737,
       "name": "CAJU",
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Otra Noche de Llorar",
+        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "al romper la burbuja",
-        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 234445,
-      "name": "pesimista",
-      "url": "https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 198650,
       "name": "Lara",
       "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 234445,
+      "name": "pesimista",
+      "url": "https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -896,8 +896,8 @@
       },
       "artists": [
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+          "name": "Nic",
+          "url": "https://open.spotify.com/artist/2gkxJPrQK782uTBGA29w5k"
         }
       ],
       "duration_ms": 215418,
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Transespacial",
-        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
-      },
-      "artists": [
-        {
-          "name": "Fitti",
-          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Feliz e Triste",
-      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "IRADOH",
         "url": "https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 169484,
       "name": "Longe De Mim",
       "url": "https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Transespacial",
+        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
+      },
+      "artists": [
+        {
+          "name": "Fitti",
+          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Feliz e Triste",
+      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod"
+      },
+      "artists": [
+        {
+          "name": "Cassio Vianna Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3u82f9AHow4ZrhStBZvamR"
+        }
+      ],
+      "duration_ms": 452573,
+      "name": "Flight 962",
+      "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Radam\u00e9s",
         "url": "https://open.spotify.com/album/5OnZTYpYQJLDs4QaP7NM0C"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 278463,
       "name": "Concerto No. 4 para Viol\u00e3o e Orquestra de Cordas \"\u00c0 Brasileira\": II. Lento",
       "url": "https://open.spotify.com/track/4VjFEwFFezqzCMGBTJ966y"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod"
-      },
-      "artists": [
-        {
-          "name": "Cassio Vianna Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3u82f9AHow4ZrhStBZvamR"
-        }
-      ],
-      "duration_ms": 452573,
-      "name": "Flight 962",
-      "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
     },
     {
       "added_at": "2025-09-17 15:00:09",

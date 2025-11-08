@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Cult Of The Used",
+        "url": "https://open.spotify.com/album/4hM9lNLvA5cp85q05k05NS"
+      },
+      "artists": [
+        {
+          "name": "Death Angel",
+          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249072,
+      "name": "Cult Of The Used",
+      "url": "https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N"
+    },
+    {
+      "album": {
         "name": "Curtain Fire",
         "url": "https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP"
       },
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 342280,
       "name": "Humanicide",
       "url": "https://open.spotify.com/track/5Lg8OFnLVKJSKgXQJVGpTT"
@@ -3899,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "Discipline & Punish",
+        "url": "https://open.spotify.com/album/1X5GOJSZnw74n3hzsJutNj"
+      },
+      "artists": [
+        {
+          "name": "Cold Steel",
+          "url": "https://open.spotify.com/artist/2inu89bjNrWjp92nEqloP2"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183108,
+      "name": "Killing Season",
+      "url": "https://open.spotify.com/track/0N1JV1A4IaV5r2lv5aBL7z"
+    },
+    {
+      "album": {
         "name": "Feast",
         "url": "https://open.spotify.com/album/5GGfaOLrxK4U38Y6b2gLoY"
       },
@@ -4018,7 +4054,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 349386,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/48wkrVLeg8x3XEkOgkwtHB"

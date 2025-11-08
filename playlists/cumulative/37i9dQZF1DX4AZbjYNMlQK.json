@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Maria Becerra",
+  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: David Bisbal",
   "name": "Feliz Navidad",
   "tracks": [
     {
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 260143,
       "name": "El Tamborilero",
       "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 255125,
       "name": "Human Nature - En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Todo Es Posible En Navidad (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4QWP3XZIkvXSp5s5VgOy6q"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249080,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0UJe4H1dCiTk51ux3tW6jU"
+    },
+    {
+      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 191457,
       "name": "Roz\u00e1ndome",
       "url": "https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD"

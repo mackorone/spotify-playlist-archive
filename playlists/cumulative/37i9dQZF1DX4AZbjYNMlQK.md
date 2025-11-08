@@ -2,9 +2,9 @@
 
 ### [Feliz Navidad](https://open.spotify.com/playlist/37i9dQZF1DX4AZbjYNMlQK)
 
-> Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
+> Fresh & new Christmas songs para los días festivos\. Cover: David Bisbal
 
-198 songs - 10 hr 38 min
+199 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [El Mejor Regalo](https://open.spotify.com/track/5PNGu7VLAg5cznoJ9trohF) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [El Mejor Regalo](https://open.spotify.com/album/1mEfHecK8f4IttPQqoICQQ) | 2:40 | 2023-12-08 | 2024-04-19 |
 | [El Niño del Tambor](https://open.spotify.com/track/7pFXmdN6QMqwBc4ME6qptI) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [La Mejor Música Navideña](https://open.spotify.com/album/1JWEolxSf2FPXP8akSKPrW) | 4:18 | 2022-12-18 | 2022-12-20 |
 | [El pequeño tamborilero](https://open.spotify.com/track/4IGpk6yRhP3Vk5t3NxIzSR) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 3:03 | 2021-12-15 | 2022-12-20 |
-| [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 | 2022-11-25 |  |
+| [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 | 2022-11-25 | 2025-11-08 |
 | [El Tamborilero](https://open.spotify.com/track/5af5UpJpIh6KKDjpHW99YJ) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Feliz Navidad](https://open.spotify.com/album/4lLFP1YjoYBN36q3XfmVjl) | 3:40 | 2021-12-15 | 2022-11-26 |
 | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4) | 4:02 | 2024-10-17 |  |
 | [Esta Navidad](https://open.spotify.com/track/26I1JLJM7vns3zSlKKEvbX) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Esta Navidad](https://open.spotify.com/album/5zw4mHXQxQDEKh1hUTBUvy) | 3:50 | 2021-12-15 | 2022-12-19 |
@@ -84,7 +84,7 @@
 | [gracias navidad](https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [gracias navidad](https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW) | 4:11 | 2023-12-01 |  |
 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 | 2022-12-19 |  |
 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 | 2022-12-19 |  |
-| [Human Nature \- En Español](https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 4:15 | 2022-12-19 |  |
+| [Human Nature \- En Español](https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 4:15 | 2022-12-19 | 2025-11-08 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I'll Be Home For Christmas](https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX) | 2:58 | 2022-12-19 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/71Eb9RfYpKqmUB5kUkjfHt) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [Noel Es Navidad](https://open.spotify.com/album/3npLN8rO2sxZb2jbzEWmFI) | 3:05 | 2023-11-17 | 2024-03-16 |
 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 | 2021-12-15 | 2022-12-20 |
@@ -128,6 +128,7 @@
 | [Navidad Llegó](https://open.spotify.com/track/5GHpwFfnHcj7kC4RaDkQ4u) | [Alejandra Miguez](https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6) | [Navidad Llegó](https://open.spotify.com/album/1kZuuVkiGyFc2LpNbkfzmw) | 3:58 | 2024-11-15 | 2024-12-08 |
 | [Navidad Navidad](https://open.spotify.com/track/1d22ht3d8DTsth5dUfbgwZ) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Navidad Navidad](https://open.spotify.com/album/0q3WxfSpGFRKBn060efmip) | 2:22 | 2022-12-19 | 2023-12-09 |
 | [Navidad Sin Ti](https://open.spotify.com/track/54xXNECMC5RPXOGYYfYyTS) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Navidad Sin Ti](https://open.spotify.com/album/0vfbRwJqaEy1RT063cvsYq) | 2:43 | 2022-12-19 |  |
+| [Navidad Sin Ti](https://open.spotify.com/track/0UJe4H1dCiTk51ux3tW6jU) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Todo Es Posible En Navidad \(Edición Especial\)](https://open.spotify.com/album/4QWP3XZIkvXSp5s5VgOy6q) | 4:09 | 2025-11-07 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 4:14 | 2021-12-15 | 2022-12-20 |
 | [Navidad Sin Ti](https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP) | 3:29 | 2021-12-15 | 2022-12-19 |
 | [Navidad Sin Ti \- Radio Version](https://open.spotify.com/track/2Db34X2w44TI9rJdqUDjHB) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti \(Radio Version\)](https://open.spotify.com/album/02PaeXrAxgcSm2IdQE7upl) | 3:12 | 2023-11-17 | 2024-12-19 |
@@ -156,7 +157,7 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 | 2022-12-19 |  |
 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6BhqbJluxEaIk6ILy03YFS) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:30 | 2021-12-15 | 2022-12-19 |
 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Mi Navidad](https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK) | 2:30 | 2022-11-08 | 2022-12-20 |
-| [Rozándome](https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:11 | 2022-11-25 | 2025-11-07 |
+| [Rozándome](https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:11 | 2022-11-25 |  |
 | [Santa](https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Santa](https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI) | 3:00 | 2022-12-19 | 2023-11-14 |
 | [Santa](https://open.spotify.com/track/337mfRQq0EimDHkR3iQGTy) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Santa](https://open.spotify.com/album/3wYfjSTIqSbV5bRw3nhu81) | 3:21 | 2024-12-06 |  |
 | [Santa Baby](https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Santa Baby](https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq) | 2:55 | 2023-11-21 |  |

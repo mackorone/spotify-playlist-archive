@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> bands and tracks on the rise in heavy music\. Cover: Banshee
+> bands and tracks on the rise in heavy music\. Cover: Castle Rat
 
-338 songs - 19 hr 43 min
+343 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Burning Throne](https://open.spotify.com/track/7AL1DLcTLWyQ77xueiH8QJ) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/6Yq21ajQ4U8heAmedI5Iho) | 3:27 | 2022-11-04 | 2023-01-14 |
 | [Burying Brightness](https://open.spotify.com/track/3nyfxtCg9RD30h3aTnbVFW) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Burying Brightness](https://open.spotify.com/album/4B4bNthhcQ9ph657TTYsbG) | 3:27 | 2022-09-30 | 2023-03-03 |
 | [BUST IT](https://open.spotify.com/track/2VR50MI5hLSYnYRC1mAQOx) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [Ras Bootin'](https://open.spotify.com/artist/1waYSMSmhL2nSqLb3XBRSh), [EMMETH](https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy) | [BUST IT](https://open.spotify.com/album/1JaVsCab59Ls8hIjSMg6Eg) | 2:51 | 2022-09-16 | 2023-01-06 |
+| [By Divide](https://open.spotify.com/track/6I3Lurb6sNFq23PTHLmflX) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [By Divide](https://open.spotify.com/album/7fMZQwzhuShKjhcExFMqmz) | 4:05 | 2025-11-07 |  |
 | [Call of the Witch](https://open.spotify.com/track/5THPCPokg7K1oN9VkT10nl) | [Kissing Candice](https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS) | [Call of the Witch](https://open.spotify.com/album/10FJOcVWSolAkejeUxpPSA) | 1:14 | 2022-07-29 | 2022-10-15 |
 | [Can't Take This Away](https://open.spotify.com/track/69xZZJ0lSlw6PgDOXdIP3R) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [Can't Take This Away](https://open.spotify.com/album/02TZLTvmL28QjqPIEHUiWY) | 2:42 | 2022-10-14 | 2023-03-25 |
 | [Carry My Own Torch](https://open.spotify.com/track/42B8UsJCOI7kC2yoABBULa) | [Firewalker](https://open.spotify.com/artist/5IeFfgx0s1a3ny8dFyz5si) | [Hell Bent](https://open.spotify.com/album/6kmwWlNdCsUkStiJxZxV2R) | 1:49 | 2024-07-15 | 2024-12-11 |
@@ -92,6 +93,7 @@
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-07-29 | 2022-08-20 |
 | [Divination](https://open.spotify.com/track/6GTe0kb9Q1e2FtLk7orlBS) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Divination](https://open.spotify.com/album/20ZWGstNwsVm92ZKenLcPa) | 3:45 | 2024-07-15 | 2024-12-11 |
 | [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 | 2022-07-29 | 2022-11-19 |
+| [Doesn't Feel Like Home](https://open.spotify.com/track/2CTmBlHAZhm9gQyRFgKuMS) | [LIMBS](https://open.spotify.com/artist/6iXX6v3cFowf2ikYwA6uHX) | [Doesn't Feel Like Home](https://open.spotify.com/album/3fXJCR6e7wTlMnTr4COtDv) | 3:20 | 2025-11-07 |  |
 | [Drown With Me](https://open.spotify.com/track/6pw10ovi5o7d44PKAgIG9h) | [False Saints](https://open.spotify.com/artist/70b0lU3W9kVBBXzlNNGaEk) | [Echoes Of The Broken](https://open.spotify.com/album/5KVuRyYjxptuue1B9a8rEt) | 3:26 | 2025-10-24 |  |
 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 | 2023-01-06 | 2024-07-16 |
 | [Egomania](https://open.spotify.com/track/32Awf6Cs0vi7Tx9ROc202z) | [Black Dog](https://open.spotify.com/artist/0APfor8NzwpP33bnr3pFsP) | [Slow Death Society](https://open.spotify.com/album/3p1RCA4yNRNSmMbrjTZH9Z) | 2:27 | 2022-09-23 | 2022-11-19 |
@@ -171,6 +173,7 @@
 | [Lice](https://open.spotify.com/track/7i7eU2wx577tHLW2Vt1EWI) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Lice](https://open.spotify.com/album/5lEWhmhXFXiMH9O6Wu27aD) | 2:26 | 2023-01-13 | 2023-05-19 |
 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 | 2023-01-06 | 2024-07-16 |
 | [Like the Fourth Wall](https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3) | [BLACKSHAPE](https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH) | [Like the Fourth Wall](https://open.spotify.com/album/2ZG0myg8s6IjllpeN6riOs) | 5:43 | 2025-09-05 |  |
+| [liminal](https://open.spotify.com/track/0UNS40gaUO0Qj8a8nsYa1A) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [liminal](https://open.spotify.com/album/2nqQGn3FKAPHzGKuqSzVzo) | 3:14 | 2025-11-07 |  |
 | [Live Not Fantasize](https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Live Not Fantasize](https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd) | 2:59 | 2024-12-10 | 2025-10-18 |
 | [Living Is Easy](https://open.spotify.com/track/0kEGZei9rQQYttjDyEQ4rj) | [Agriculture](https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY) | [Living is Easy](https://open.spotify.com/album/1mG8PRelbGsmFPaXIt9dRg) | 7:03 | 2024-07-15 | 2025-06-07 |
 | [Lodestar](https://open.spotify.com/track/7vswktCNnXnBpQkxxAqooz) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Lodestar](https://open.spotify.com/album/0sdYUDZUqwdXXVE3RWbHsD) | 3:55 | 2025-08-22 | 2025-10-04 |
@@ -238,6 +241,7 @@
 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2024-07-15 | 2025-08-16 |
 | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/track/6Evx0j5rPXT2QDihyAYBvZ) | [RXPTRS](https://open.spotify.com/artist/6wZR4nBBIVGgEzBBtkzkJ8) | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/album/6kE2Vk9b5omyj9nfDbXgFf) | 3:49 | 2022-07-29 | 2022-10-01 |
 | [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 | 2024-07-15 | 2025-09-06 |
+| [Row Zero](https://open.spotify.com/track/4TgJdKhrwTpRPNpUHMIfMm) | [Rabbit Cult](https://open.spotify.com/artist/3nv8z7TDLduEcN9mhGURA1) | [Row Zero](https://open.spotify.com/album/44MfCXXTJEEh6Bh7ZGbGN1) | 3:44 | 2025-11-07 |  |
 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 | 2022-07-29 | 2022-10-01 |
 | [Sakura](https://open.spotify.com/track/522MnoBIHF3f27a4epAH0w) | [Nobody Has Heart](https://open.spotify.com/artist/2Jcxk0Vy05WM5tRAWMcJez) | [Sakura](https://open.spotify.com/album/0xGDN7ZZD9cuRmg9HpBH3A) | 2:31 | 2023-03-24 | 2024-07-16 |
 | [SAW](https://open.spotify.com/track/5plHlHptZcNkPaenanRdT1) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 2:05 | 2023-01-27 | 2024-07-16 |
@@ -287,6 +291,7 @@
 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 | 2022-07-29 | 2023-01-14 |
 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 | 2024-07-15 | 2025-06-21 |
 | [The Future Says Thank You](https://open.spotify.com/track/0ZJ2BP0U1H8uhy0LnYDXjk) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/6RHap8m4NlsvCq2v2fPvCP) | 3:38 | 2022-07-29 | 2022-09-17 |
+| [The Great Attractor](https://open.spotify.com/track/1QPlwUrQnpe9qgm21rqbjH) | [MAVIS](https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf) | [The Great Attractor](https://open.spotify.com/album/0jegoX0kueF0NQwWr2XK4Y) | 4:00 | 2025-11-07 |  |
 | [The Hunt](https://open.spotify.com/track/5OmePrjGCL3dSla3Fx3ws3) | [Breakdown of Sanity](https://open.spotify.com/artist/20reGZ0TQPGvwx5U4xx6D8) | [The Hunt](https://open.spotify.com/album/2eih2wArYhmr3X6Un0R9Rd) | 4:26 | 2025-06-06 | 2025-10-04 |
 | [The Killing Womb](https://open.spotify.com/track/7m33lSfrWtRfQDG6QmKP0L) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 2:32 | 2022-07-29 | 2022-08-20 |
 | [The Other Side](https://open.spotify.com/track/3o9soRptwDhjVZ5IW0c2OG) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [The Other Side](https://open.spotify.com/album/6pzWHJIhb1m0bynoFZzx7Q) | 3:34 | 2022-07-29 | 2022-08-20 |

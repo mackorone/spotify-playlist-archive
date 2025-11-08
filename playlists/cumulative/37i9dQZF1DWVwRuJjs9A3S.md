@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Amanda Bergman.
 
-996 songs - 2 day 9 hr 42 min
+997 songs - 2 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Afterlife](https://open.spotify.com/track/382AY3JoSEeJm7hcNcNAaC) | [Clara Malby](https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH) | [Afterlife](https://open.spotify.com/album/4C5QWB028FldaxBsMeRatb) | 3:27 | 2025-01-23 | 2025-04-18 |
 | [Aging Young Women](https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Aging Young Women](https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V) | 4:01 | 2025-10-30 |  |
 | [Agnes](https://open.spotify.com/track/3ueuKx5ItkRoIinsjUtN14) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Hate Me For This](https://open.spotify.com/album/3AWwgYgmsw5BzxKEpF3Nyr) | 2:32 | 2025-01-02 | 2025-02-07 |
-| [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [](https://open.spotify.com/album/null) | 3:39 | 2025-11-06 |  |
+| [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-06 |  |
 | [All Day](https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [All Day](https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO) | 2:37 | 2024-06-27 | 2024-10-11 |
 | [All I Know](https://open.spotify.com/track/1NWSpstvgDu0W7ghBXBaba) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [All I Know](https://open.spotify.com/album/1mvUZJ7QcRW0ShFU8lZEsa) | 2:35 | 2024-10-17 | 2024-12-06 |
 | [All I Want](https://open.spotify.com/track/0nrBYMziJMKR7u3ylc1iSE) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:09 | 2025-02-06 | 2025-04-18 |
@@ -340,6 +340,7 @@
 | [Gå för glory](https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Gå för glory](https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a) | 3:26 | 2025-01-16 | 2025-04-18 |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 | 2025-10-17 |
 | [Halfway Gone](https://open.spotify.com/track/1rfX0CC3vDK6K5SgVmAZYx) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Halfway Gone](https://open.spotify.com/album/5ciWbAgjpNqsG3COHjBjxo) | 4:06 | 2025-10-30 |  |
+| [HANDS](https://open.spotify.com/track/64QFjvDeg3YVf9oGkASVx3) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [HANDS](https://open.spotify.com/album/2KTzR18cs1Oj7US8wUXFvi) | 2:55 | 2025-11-07 |  |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-25 | 2024-10-11 |
 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 | 2025-02-27 | 2025-04-25 |
 | [Havet](https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD) | [Marcus Berggren](https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv) | [Havet](https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo) | 4:22 | 2024-08-15 | 2024-09-27 |
@@ -613,6 +614,7 @@
 | [Not Now Kids](https://open.spotify.com/track/5QJbZk6ieUNlOiKXv4nHx5) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:04 | 2024-09-26 | 2024-11-15 |
 | [not your cherry](https://open.spotify.com/track/6b1NQHfoth2oU8QF8CGjrk) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [not your cherry](https://open.spotify.com/album/6O3K7cjvA2YwLMyA1awAMf) | 3:21 | 2024-06-27 | 2024-08-16 |
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-27 | 2025-06-20 |
+| [November](https://open.spotify.com/track/3wxe1sxClKHMW73z9hnL4y) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Om du behöver mig](https://open.spotify.com/album/0Df1JBTZ6Qg2V2JN26W9CZ) | 3:48 | 2025-11-06 |  |
 | [Now And Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now And Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 | 2025-01-02 | 2025-02-14 |
 | [Nära \(tills döden skiljer oss åt\) kanske...](https://open.spotify.com/track/6q21tm64mQM6klFPAJCSOY) | [Tolleby](https://open.spotify.com/artist/3oU8vjtO6xFtZmHorhRI7F) | [Nära \(tills döden skiljer oss åt\) kanske...](https://open.spotify.com/album/3b0sXy1KXT6yCpTnqsV93R) | 3:35 | 2024-10-24 | 2024-12-06 |
 | [Obsidian](https://open.spotify.com/track/2dDsELaxxDab2q7gLWdxa7) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Obsidian](https://open.spotify.com/album/7eWtdsUFf4rw4Xpb3ckEB6) | 3:44 | 2024-11-14 | 2025-01-24 |
@@ -896,13 +898,12 @@
 | [Tjuven](https://open.spotify.com/track/1SRJYK2h7ITaLFYuRQYhmC) | [CIVIL POLIS](https://open.spotify.com/artist/1s0yejjUPTegZhGOxK2SsZ), [Infinite Mass](https://open.spotify.com/artist/0vrtC9TrcdezrJZshpwLkg) | [Tjuven](https://open.spotify.com/album/0OAmCLkx2ISXJLMWHnl0vw) | 3:35 | 2024-10-25 | 2025-02-21 |
 | [To a New Day](https://open.spotify.com/track/68VxRbvBOxc1q3VQtzwur2) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Sønderjysk Pigekor](https://open.spotify.com/artist/0OYX2MQG7fkZ5eaSA9ZC09) | [To a New Day](https://open.spotify.com/album/4PAlZMe3jbqDfXkY08XLfn) | 3:44 | 2024-07-25 | 2024-08-23 |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 | 2024-08-02 |
-| [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [](https://open.spotify.com/album/null) | 3:53 | 2025-11-06 |  |
+| [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 | 2025-11-06 |  |
 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 | 2025-09-11 |  |
 | [Today](https://open.spotify.com/track/4o2a6L5thxAs8qg82M7kOW) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Today](https://open.spotify.com/album/3o6YvXZItpJmL7wUWSA6uy) | 4:56 | 2025-09-04 |  |
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
-| [Track 3](https://open.spotify.com/track/3wxe1sxClKHMW73z9hnL4y) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |
 | [trash paradise, moonlight](https://open.spotify.com/track/1T906XVun8dtijlUmrE4E0) | [haisonne](https://open.spotify.com/artist/0SGm5nFXYtiL33xIJTW7jZ) | [trash paradise, moonlight](https://open.spotify.com/album/29T2Ys3uewbbuMva3CbCsw) | 3:40 | 2024-06-27 | 2024-08-09 |

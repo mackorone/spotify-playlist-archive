@@ -1,13 +1,29 @@
 {
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Cover: JIALING",
-  "num_followers": 254337,
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring Romy. ",
+  "num_followers": 254308,
   "original_name": "Club Resistance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKM19rxvyy8vO4NdRZdre00c4Ujf",
+  "snapshot_id": "AAAAAKLSFljHP+E8fm0P0oyGPdBZMwmM",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:44",
+      "album": {
+        "name": "Love Who You Love",
+        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "Love Who You Love",
+      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
+    },
     {
       "added_at": "2025-10-24 16:26:57",
       "album": {
@@ -79,6 +95,30 @@
       "duration_ms": 174080,
       "name": "PRINCESA PORRO (with HELLOLOLA)",
       "url": "https://open.spotify.com/track/4k1copzAL7F5UiEbsq6AYX"
+    },
+    {
+      "added_at": "2025-11-07 05:00:44",
+      "album": {
+        "name": "MachineGirl (Dorian Electra & FREE JIMI Remix)",
+        "url": "https://open.spotify.com/album/6iNzS4zA3n4x3iJG705N8c"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        },
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        },
+        {
+          "name": "FREE JIMI",
+          "url": "https://open.spotify.com/artist/0S3uHVwh6XhFE69pO20yJf"
+        }
+      ],
+      "duration_ms": 136020,
+      "name": "MachineGirl - Dorian Electra & FREE JIMI Remix",
+      "url": "https://open.spotify.com/track/1IArcwspHzvBydO9Tp2XOF"
     },
     {
       "added_at": "2025-10-24 16:26:57",
@@ -157,6 +197,22 @@
       "url": "https://open.spotify.com/track/47AVZ6U30HmixCjSfFQFda"
     },
     {
+      "added_at": "2025-11-07 05:00:44",
+      "album": {
+        "name": "PRESS X",
+        "url": "https://open.spotify.com/album/5fIHkB8RI8ieqvGfPGKM4Y"
+      },
+      "artists": [
+        {
+          "name": "Evissimax",
+          "url": "https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv"
+        }
+      ],
+      "duration_ms": 235531,
+      "name": "MISS MAX",
+      "url": "https://open.spotify.com/track/58dDRolmHM5yH9HM2I6djH"
+    },
+    {
       "added_at": "2025-10-24 16:26:57",
       "album": {
         "name": "GAGATRON",
@@ -191,6 +247,26 @@
       "duration_ms": 190222,
       "name": "RADIO (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx"
+    },
+    {
+      "added_at": "2025-11-07 05:00:44",
+      "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/6ubqFqjORrgU1hLvhRwecV"
+      },
+      "artists": [
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        },
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/03JGl2Yz9dBE2XSUuVgAgk"
     },
     {
       "added_at": "2025-10-24 16:26:57",
@@ -295,6 +371,26 @@
       "duration_ms": 150117,
       "name": "Swans",
       "url": "https://open.spotify.com/track/7dGgTB3iEE4bsBwv3hMaYK"
+    },
+    {
+      "added_at": "2025-11-07 05:00:44",
+      "album": {
+        "name": "You're My Baby",
+        "url": "https://open.spotify.com/album/38C9fECQYVCTQGFo77QHoV"
+      },
+      "artists": [
+        {
+          "name": "GOME",
+          "url": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+        },
+        {
+          "name": "Michael Cignarale",
+          "url": "https://open.spotify.com/artist/7CgEx3HP2QJP3R9QMaRTip"
+        }
+      ],
+      "duration_ms": 206334,
+      "name": "You're My Baby",
+      "url": "https://open.spotify.com/track/4ubPRQc3A3Mvl44kCBUZ6M"
     },
     {
       "added_at": "2025-10-24 16:26:57",
@@ -675,22 +771,6 @@
     {
       "added_at": "2025-10-24 16:26:57",
       "album": {
-        "name": "Just Not Cute",
-        "url": "https://open.spotify.com/album/2QoBgE08gFPMieaebjr8D8"
-      },
-      "artists": [
-        {
-          "name": "LOVEFOXY",
-          "url": "https://open.spotify.com/artist/11pW7chJfzATeandApxMBo"
-        }
-      ],
-      "duration_ms": 394160,
-      "name": "Just Not Cute",
-      "url": "https://open.spotify.com/track/6Lr9s4byjOdhwLYDPxshHD"
-    },
-    {
-      "added_at": "2025-10-24 16:26:57",
-      "album": {
         "name": "Smoking section",
         "url": "https://open.spotify.com/album/714PQIsdn0zzDfSaGEWiX5"
       },
@@ -827,42 +907,6 @@
       "duration_ms": 121273,
       "name": "365 featuring shygirl",
       "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
-    },
-    {
-      "added_at": "2025-10-24 16:26:57",
-      "album": {
-        "name": "Bruv Parade",
-        "url": "https://open.spotify.com/album/3VSItadIssVnqfu13Oxuek"
-      },
-      "artists": [
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Bruv Parade",
-      "url": "https://open.spotify.com/track/3v5wBZXYpdSQEbixvZE2xM"
-    },
-    {
-      "added_at": "2025-10-24 16:26:57",
-      "album": {
-        "name": "Bikini",
-        "url": "https://open.spotify.com/album/5h8jDlF8q3G6beoaNK3pE8"
-      },
-      "artists": [
-        {
-          "name": "FLOSS",
-          "url": "https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ"
-        },
-        {
-          "name": "3arthquaker",
-          "url": "https://open.spotify.com/artist/1hetzmORNUorQZwY7Fw349"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Bikini",
-      "url": "https://open.spotify.com/track/6rIYjB6ClfgeSfdWeETrY9"
     },
     {
       "added_at": "2025-10-24 16:26:57",
@@ -1035,38 +1079,6 @@
       "duration_ms": 180899,
       "name": "Juicy Juice (feat. Marie Davidson)",
       "url": "https://open.spotify.com/track/1EAadJeM4oPkNIYMjG8zDH"
-    },
-    {
-      "added_at": "2025-10-24 16:26:57",
-      "album": {
-        "name": "Tan Lines",
-        "url": "https://open.spotify.com/album/5zl6YCrrq5HLsBEPRdQpC4"
-      },
-      "artists": [
-        {
-          "name": "Blue Hawaii",
-          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
-        }
-      ],
-      "duration_ms": 127376,
-      "name": "Tan Lines",
-      "url": "https://open.spotify.com/track/1CJSB4iFWu94tcEttW6wrE"
-    },
-    {
-      "added_at": "2025-10-24 16:26:57",
-      "album": {
-        "name": "ID FREAK",
-        "url": "https://open.spotify.com/album/4rvhvhht2Iu6N1pKL7mvZo"
-      },
-      "artists": [
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "ID FREAK",
-      "url": "https://open.spotify.com/track/4wa2L8IhcIqZguWJeULKE1"
     },
     {
       "added_at": "2025-10-24 16:26:57",

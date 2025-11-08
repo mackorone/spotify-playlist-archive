@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Little Old You",
+        "url": "https://open.spotify.com/album/03l56jZga0CX7974DFt74d"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192677,
+      "name": "Little Old You",
+      "url": "https://open.spotify.com/track/1DOxXwapZRaMXYeoCaFQow"
+    },
+    {
+      "album": {
         "name": "Little Ripples",
         "url": "https://open.spotify.com/album/1KTUxhYigbkoHMT6MkQn8R"
       },

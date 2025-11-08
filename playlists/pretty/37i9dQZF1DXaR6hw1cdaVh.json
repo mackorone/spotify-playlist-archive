@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2978,
+  "num_followers": 2977,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Il Meglio Di Domenico Modugno",
+        "url": "https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL"
+      },
+      "artists": [
+        {
+          "name": "Domenico Modugno",
+          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Nel blu dipinto di blu",
+      "url": "https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "Quando (feat. Neri Per Caso)",
         "url": "https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 201730,
       "name": "Quando (feat. Neri Per Caso)",
       "url": "https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Il Meglio Di Domenico Modugno",
-        "url": "https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL"
-      },
-      "artists": [
-        {
-          "name": "Domenico Modugno",
-          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Nel blu dipinto di blu",
-      "url": "https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1"
     },
     {
       "added_at": "2025-03-03 09:30:09",

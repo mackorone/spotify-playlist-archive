@@ -1069,6 +1069,32 @@
     },
     {
       "album": {
+        "name": "Carols With St. Paul's Cathedral Choir",
+        "url": "https://open.spotify.com/album/5tgFtQhKZyykOsgbpHBSvU"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "St. Paul's Cathedral Choir",
+          "url": "https://open.spotify.com/artist/4Psmt0Ic0BpoXNg5skm46Q"
+        },
+        {
+          "name": "Andrew Carwood",
+          "url": "https://open.spotify.com/artist/2qiN7C6MoDKUmkEGZpuToZ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286173,
+      "name": "In The Bleak Midwinter",
+      "url": "https://open.spotify.com/track/4dpMymUCAQOTdC99bUk9Zn"
+    },
+    {
+      "album": {
         "name": "Silent Night - 25 Carols of Peace & Tranquility",
         "url": "https://open.spotify.com/album/6EnGpnM3JoyVG6oa7l9ujw"
       },
@@ -1098,34 +1124,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258666,
-      "name": "In the bleak mid-winter",
+      "name": "In the Bleak Midwinter",
       "url": "https://open.spotify.com/track/4nUVdV40QXXLiURFgNO3q6"
-    },
-    {
-      "album": {
-        "name": "Carols With St. Paul's Cathedral Choir",
-        "url": "https://open.spotify.com/album/5tgFtQhKZyykOsgbpHBSvU"
-      },
-      "artists": [
-        {
-          "name": "Gustav Holst",
-          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
-        },
-        {
-          "name": "St. Paul's Cathedral Choir",
-          "url": "https://open.spotify.com/artist/4Psmt0Ic0BpoXNg5skm46Q"
-        },
-        {
-          "name": "Andrew Carwood",
-          "url": "https://open.spotify.com/artist/2qiN7C6MoDKUmkEGZpuToZ"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 286173,
-      "name": "In The Bleak Midwinter",
-      "url": "https://open.spotify.com/track/4dpMymUCAQOTdC99bUk9Zn"
     },
     {
       "album": {
@@ -1889,6 +1889,32 @@
     },
     {
       "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/2IfPdn5qYxHNlik5Zb7fKT"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152546,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1MUk881Qv9Caiw9jxLk6qR"
+    },
+    {
+      "album": {
         "name": "Harmonious Voices: An Acapella Christmas",
         "url": "https://open.spotify.com/album/5pVny6olyOzXV3nA2LSs6Q"
       },
@@ -1970,32 +1996,6 @@
       "duration_ms": 246680,
       "name": "Silent Night (Arr. Jonathan Rathbone)",
       "url": "https://open.spotify.com/track/0lD2XInGbG1BCQZ60CCqYS"
-    },
-    {
-      "album": {
-        "name": "Christmas Carols",
-        "url": "https://open.spotify.com/album/2IfPdn5qYxHNlik5Zb7fKT"
-      },
-      "artists": [
-        {
-          "name": "Franz Xaver Gruber",
-          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
-        },
-        {
-          "name": "Choir of King's College, Cambridge",
-          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
-        },
-        {
-          "name": "Stephen Cleobury",
-          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
-        }
-      ],
-      "date_added": "2024-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152546,
-      "name": "Silent Night, Holy Night",
-      "url": "https://open.spotify.com/track/1MUk881Qv9Caiw9jxLk6qR"
     },
     {
       "album": {

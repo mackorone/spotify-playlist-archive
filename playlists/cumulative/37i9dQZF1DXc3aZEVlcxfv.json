@@ -2933,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "Worship & Rap (WAR)",
+        "url": "https://open.spotify.com/album/43SIoLKM59lL603KWslN8D"
+      },
+      "artists": [
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231915,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3SNJP6cLLCofkKucLeuuLq"
+    },
+    {
+      "album": {
         "name": "Found Me",
         "url": "https://open.spotify.com/album/3OGLzkjQ9X0CYGcAw1PI77"
       },
@@ -8337,24 +8355,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Drakare",
-          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
-        }
-      ],
-      "date_added": "2025-11-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3SNJP6cLLCofkKucLeuuLq"
-    },
-    {
-      "album": {
         "name": "Trust in You",
         "url": "https://open.spotify.com/album/6hTxgKcqFko2RnxpX30Xhi"
       },
@@ -8511,7 +8511,7 @@
     },
     {
       "album": {
-        "name": "Victory Sounds",
+        "name": "Victory Sounds (Live)",
         "url": "https://open.spotify.com/album/2Oy6IEUCepPjnfW8IUBSRp"
       },
       "artists": [

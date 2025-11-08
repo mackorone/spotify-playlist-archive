@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-521 songs - 1 day 12 hr 7 min
+522 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Association](https://open.spotify.com/track/3R3TcJoVDWDWrQnTpppHrH) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Association](https://open.spotify.com/album/0b2EpyMTEpP3sXmQjS2EME) | 6:10 | 2022-05-21 |  |
 | [ATAMA WARUI](https://open.spotify.com/track/5oSgXXvC6HM2HGsi3b2ZL8) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [HARDCORE SYNDROME 14](https://open.spotify.com/album/0kErHEeF6I9gufV6WPrfY3) | 3:20 | 2020-08-19 |  |
 | [Avalanche](https://open.spotify.com/track/4CexYDRQsAWF8somtg2JFb) | [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [The Far East Hard Session](https://open.spotify.com/album/0ycwBDwDuhW2mjwtoBGbXv) | 4:34 | 2019-05-03 |  |
+| [AYAKASHI](https://open.spotify.com/track/2lGHcwiOOUB74QSzsvuX9P) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Joe Fight](https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u) | [AYAKASHI](https://open.spotify.com/album/257rsNevRVxyF9BkOp1kN0) | 2:14 | 2025-11-07 |  |
 | [B.A.B.Y.L.O.N](https://open.spotify.com/track/0uxultM0frsLPo5EM8ZCfV) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Break Out Black](https://open.spotify.com/album/19itekbCskAsTR4uo2Jty8) | 3:33 | 2019-02-03 |  |
 | [BACK COVER](https://open.spotify.com/track/0FXmeFkw4Ppw0cYL3ea2u2) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Kick's For Liberation 7](https://open.spotify.com/album/5xOr34N3SqxVt3Yh8LjQ8D) | 5:45 | 2020-08-19 |  |
 | [Back on fear](https://open.spotify.com/track/65V32OFV3C8yrOJI0zjm4O) | [Teranoid](https://open.spotify.com/artist/2MiQFnpoHKu41t5OhyniDv) | [HARDCORE SYNDROME 5](https://open.spotify.com/album/3nD0NLFmi02hHA5qEWCyi3) | 5:10 | 2019-02-25 |  |

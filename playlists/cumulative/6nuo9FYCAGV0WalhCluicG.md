@@ -4,7 +4,7 @@
 
 > From the roads to the globe, UK Rap is life\. The hottest new UK rap, hip\-hop, grime, &amp; drill in 2025\. Cover: Nemzzz
 
-105 songs - 4 hr 56 min
+106 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/track/4z5mxHbpuduI70kTrpSVHE) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/album/12FL8xj82cP89DW2uaUcmK) | 3:12 | 2025-10-03 |  |
 | [Dave & Cench](https://open.spotify.com/track/3m3hE5azyaQ7KiRxQqA5wy) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Dave & Cench](https://open.spotify.com/album/4X46JtuirowygMy9fyM0Kd) | 2:34 | 2025-10-03 |  |
 | [Dave & Cench](https://open.spotify.com/track/71raWXND5TNMYFSekTtVxT) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Dave & Cench](https://open.spotify.com/album/6V36kPsGconYDc3sqARpLg) | 2:34 | 2025-10-03 |  |
+| [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/album/38XV0JAqCJk6RRyrB1JIU0) | 3:01 | 2025-11-07 |  |
 | [Doubted Me](https://open.spotify.com/track/6UtbpIkvZkL3eODRJ8QuHQ) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Meekzness](https://open.spotify.com/album/2puF8hJFMPoEaYMaSHTZ8F) | 2:46 | 2025-10-03 |  |
 | [Dream Chasers](https://open.spotify.com/track/7BsPY0XegahF8df7K8RoOo) | [N8tive](https://open.spotify.com/artist/3TFkBnOgExKva6GvdF2ZL2) | [Dream Chasers](https://open.spotify.com/album/6iJ5AKE0njQxwPae3N3Cve) | 3:40 | 2025-10-03 |  |
 | [Embellishments](https://open.spotify.com/track/3XWxiU3qDMdmr9xgC0Xg6D) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Embellishments](https://open.spotify.com/album/7KKeaAAYBMT02ACJK50Tn8) | 2:09 | 2025-10-03 |  |

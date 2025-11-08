@@ -4,7 +4,7 @@
 
 > peach is an indie pop playlist 🥤<br/>cover: Holly Humberstone
 
-440 songs - 23 hr 47 min
+440 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Neverland](https://open.spotify.com/track/0c2ro5OrQWif5Bijw9Ax0a) | [søftbleach](https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17) | [Neverland](https://open.spotify.com/album/2Fug7sEPUUHvAmpMbOqOoJ) | 3:38 | 2025-10-02 |  |
 | [New House](https://open.spotify.com/track/4iFDZY8bdYH6SnSJW42etB) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [New House](https://open.spotify.com/album/5GKHuStPx9mEkRe3W1kelC) | 3:20 | 2025-06-12 | 2025-09-20 |
 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 | 2024-06-14 | 2025-01-24 |
+| [Next To You](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Fleeting](https://open.spotify.com/album/2jRGNs15u6y8wlqUuyCUbJ) | 3:38 | 2025-11-07 |  |
 | [No One Knows Me Like You](https://open.spotify.com/track/3FzpkUEmfv11Ieke2d3PYW) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [No One Knows Me Like You](https://open.spotify.com/album/2q71WQoXKuYGriTiys8Z5Q) | 3:57 | 2025-09-25 |  |
 | [Not That Bad](https://open.spotify.com/track/1LbRznfgudwSZrfSsXLbZ9) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Not That Bad](https://open.spotify.com/album/1mN2r4sHJcGGFGybBbM0Ze) | 2:52 | 2025-10-23 |  |
 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 | 2024-09-20 | 2025-02-15 |
@@ -316,7 +317,7 @@
 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 | 2025-08-07 | 2025-11-07 |
 | [Praying Mantis](https://open.spotify.com/track/2kKEe3yPOh6ZdNbZnZnB3x) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Praying Mantis](https://open.spotify.com/album/2JLl4NMrwZKKrsnO2lxGWX) | 3:06 | 2025-05-15 | 2025-07-11 |
 | [pretty world](https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [pretty world](https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G) | 3:41 | 2025-01-24 | 2025-04-09 |
-| [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [](https://open.spotify.com/album/null) | 2:49 | 2025-11-07 |  |
+| [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:49 | 2025-11-07 |  |
 | [Problem Child](https://open.spotify.com/track/74HpGJEl1eGyK16eOYiQFN) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Problem Child](https://open.spotify.com/album/3o4TWee7kX0DeIyHYf68XH) | 2:19 | 2024-06-14 | 2024-08-22 |
 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 | 2024-07-12 | 2025-05-02 |
 | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/track/0Onrt3Z8Q1AKS1KbhtyD9I) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/album/41DncHDKfjpnIUmbDMiFWb) | 3:45 | 2025-05-01 | 2025-06-13 |
@@ -373,7 +374,7 @@
 | [Stay For Good](https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Stay For Good](https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs) | 3:25 | 2024-09-20 | 2025-05-07 |
 | [STAY WITH ME!](https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [STAY WITH ME!](https://open.spotify.com/album/1xfGHGxqx8MnPf6aRs2P0J) | 3:07 | 2025-04-12 | 2025-06-06 |
 | [Still Miss It](https://open.spotify.com/track/0To7UL26sSXpE7IeggODNM) | [MJ Fretwell](https://open.spotify.com/artist/5nV10lEukOPVQxYBkDtgqc) | [Still Miss It](https://open.spotify.com/album/1o0RP5OO9NkHV9wIEqj0oI) | 3:06 | 2025-06-12 | 2025-08-15 |
-| [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [](https://open.spotify.com/album/null) | 2:32 | 2025-11-07 |  |
+| [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 | 2025-11-07 |  |
 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2025-10-09 |  |
 | [Such is Life](https://open.spotify.com/track/0WQsR56r32IvdGegnoznmt) | [Cristii](https://open.spotify.com/artist/6x94lLcb4e8J1hzX9iNCYD) | [Such is Life](https://open.spotify.com/album/7fU7zuZkU4zMe48KnL6BMu) | 3:17 | 2025-08-07 | 2025-09-12 |
 | [Sugar](https://open.spotify.com/track/60HY8TH6tjKd64nwK6H73j) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Sugar](https://open.spotify.com/album/2r0295YFUjpfgBT889SZOl) | 4:02 | 2025-05-29 | 2025-08-15 |
@@ -400,7 +401,6 @@
 | [to be free](https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [to be free](https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI) | 3:50 | 2025-01-24 | 2025-05-16 |
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 | 2025-05-02 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-27 |
-| [Track 6](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-07 |  |
 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 | 2024-06-14 | 2024-07-13 |
 | [Tulips](https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Tulips](https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv) | 3:18 | 2024-06-14 | 2024-07-13 |
 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 | 2025-06-12 | 2025-08-15 |

@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-149 songs - 10 hr 1 min
+150 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [signs](https://open.spotify.com/track/5VPLN8Ln6X5EUtsTH56WTJ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [signs](https://open.spotify.com/album/7y5kwWqB3lqrhqgAfpHXpO) | 2:49 | 2024-11-15 |  |
 | [So Will I \(100 Billion X\) \- Live](https://open.spotify.com/track/3LQCScj7cBoC2mt7CoKlyP) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [So Will I \(100 Billion X\) \[Live\]](https://open.spotify.com/album/28sPr0oWHphyRdWSPceidb) | 7:07 | 2024-05-24 |  |
 | [Somebody Prayed](https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:46 | 2024-05-31 |  |
+| [SOUL ON FIRE](https://open.spotify.com/track/4ku6qDhFfNaCsEwP9FKZGx) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [SOUL ON FIRE](https://open.spotify.com/album/76EjH70Arb6rsnXRQfA05r) | 1:57 | 2025-11-07 |  |
 | [Sound Of Heaven](https://open.spotify.com/track/6drDEHrFUutQCSXpW6ApcF) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Sound Of Heaven](https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9) | 3:20 | 2024-07-26 |  |
 | [Stand](https://open.spotify.com/track/3bV1iS1qWgbS9hGqM45wyj) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stand](https://open.spotify.com/album/6QVcVdbZCcNmrZSgAu0BJo) | 3:29 | 2024-09-13 | 2025-09-20 |
 | [Stars](https://open.spotify.com/track/1QKtl5FOh7JgKM5HEt1EaG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/75RnYnEkzvvOmksDhEivMq) | 2:54 | 2025-09-05 | 2025-10-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Ysa C",
+  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Jerry Di, Hamilton, Maisak",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -882,6 +882,24 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
+    },
+    {
+      "album": {
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
     },
     {
       "album": {
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 140531,
       "name": "LA BUENA VIDA",
       "url": "https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E"
@@ -3046,7 +3064,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 194666,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk"
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 153401,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0kfTRces8TqfRbtoj6QQye"
@@ -4726,7 +4744,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 194851,
       "name": "Rico",
       "url": "https://open.spotify.com/track/43xojBCuvMdcCFA0puNGWC"
@@ -5825,6 +5843,28 @@
     },
     {
       "album": {
+        "name": "Tiempo Al Tiempo (feat. Goyo)",
+        "url": "https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "Tiempo Al Tiempo (feat. Goyo)",
+      "url": "https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU"
+    },
+    {
+      "album": {
         "name": "TIKTOK N.02",
         "url": "https://open.spotify.com/album/0nXyzgKIoCWwkroN4N2jJt"
       },
@@ -5956,6 +5996,24 @@
       "duration_ms": 301428,
       "name": "Todita RMX",
       "url": "https://open.spotify.com/track/4a1zarsLq1i7EDnutpy3kl"
+    },
+    {
+      "album": {
+        "name": "Todo Se Supera",
+        "url": "https://open.spotify.com/album/6yuunIfINN48eEwBvD37T0"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Todo Se Supera",
+      "url": "https://open.spotify.com/track/4CaC69iESuAoTEJ3wN0DRd"
     },
     {
       "album": {
@@ -6586,6 +6644,32 @@
       "duration_ms": 159776,
       "name": "Wapa",
       "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+    },
+    {
+      "album": {
+        "name": "Wapa (Remix)",
+        "url": "https://open.spotify.com/album/45V2HrcN52duWmzzXjkQqV"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Wapa - Remix",
+      "url": "https://open.spotify.com/track/06RpXuLcw8SQn8kBlMLMvP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-141 songs - 4 hr 55 min
+142 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Animal Count](https://open.spotify.com/track/1RtnalL9YfEjOVtI9YMAHl) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Sooo Wiggly Vol\. 2](https://open.spotify.com/album/2YSBAA5ij7uuezojPkpWYc) | 1:03 | 2024-04-26 |  |
 | [Animal Dance Song](https://open.spotify.com/track/3MHXbXqDZOrVLupLxny45E) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 5](https://open.spotify.com/album/0YPFWkQvhIj14v2LDs0wS1) | 2:51 | 2022-02-01 |  |
 | [Animal Dance Song](https://open.spotify.com/track/4FwDRTQdk1FmiVTCLLeeKn) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:51 | 2022-07-25 | 2024-04-19 |
+| [Animal Noises are FUN!](https://open.spotify.com/track/3DgK52iIN6WIBQD6DG7pwm) | [Unka Munka](https://open.spotify.com/artist/4EJjX7DT5FJC2XUmgtBpXL) | [Animal Noises are FUN!](https://open.spotify.com/album/5GBH3MwHz5RmQmo3NDiamu) | 3:15 | 2025-11-07 |  |
 | [Animal Sounds Song](https://open.spotify.com/track/1GZLVOiMleNK19yYOHSWTE) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/6TkfhNkfCi1WKoXIhcJOII) | 2:32 | 2022-02-01 |  |
 | [Animal Sounds Song](https://open.spotify.com/track/1Y6yUVFfvlWmkt9D227NAL) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:32 | 2022-07-25 | 2024-04-19 |
 | [Animal Sounds Song](https://open.spotify.com/track/6ARV6Hi3CgN4iUtDUJfIZ9) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Animals of the World](https://open.spotify.com/album/1UVpE8K9czwRpKC6xys6Dt) | 2:32 | 2022-07-25 | 2022-11-13 |

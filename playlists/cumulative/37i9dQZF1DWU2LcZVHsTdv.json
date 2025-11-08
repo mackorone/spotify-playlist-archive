@@ -3903,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "Saved",
+        "url": "https://open.spotify.com/album/6hQaSoZpkoPIk0MC85Hn3n"
+      },
+      "artists": [
+        {
+          "name": "The Jack Wharff Band",
+          "url": "https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214889,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/2AJjGdc0WV9Iz67mfsvUy9"
+    },
+    {
+      "album": {
         "name": "Not That Fancy",
         "url": "https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ"
       },

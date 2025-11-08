@@ -2,13 +2,13 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre 📸 Winona Riders
+> Más vivo que nunca, más nuestro que siempre 📸 Dillom
 
-424 songs - 1 day 2 hr 18 min
+426 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Solo Aire\)](https://open.spotify.com/track/67T8PyehRL5DjkBSJLUy2U) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [\(Solo Aire\)](https://open.spotify.com/album/2w1lSIsDXVry6h7LquJkog) | 3:10 | 2025-05-05 |  |
+| [\(Solo Aire\)](https://open.spotify.com/track/67T8PyehRL5DjkBSJLUy2U) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [\(Solo Aire\)](https://open.spotify.com/album/2w1lSIsDXVry6h7LquJkog) | 3:10 | 2025-05-05 | 2025-11-08 |
 | [03.10 pm](https://open.spotify.com/track/79vJknY5yQxlhOD5GtMNRT) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [03.10 pm](https://open.spotify.com/album/6z6DglLQsqOGzZlLAsbRBr) | 3:50 | 2024-06-14 |  |
 | [200 Monos](https://open.spotify.com/track/5tC4Y8NJGK3quJEdVVP6a9) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [200 Monos](https://open.spotify.com/album/7JV9A7P1hZrWrrMtFx7RPI) | 4:10 | 2023-11-10 | 2024-09-07 |
 | [33](https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Facu Soto](https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB) | [33](https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T) | 3:27 | 2023-04-14 | 2024-03-08 |
@@ -341,6 +341,7 @@
 | [Regresar al Cuerpo](https://open.spotify.com/track/71u7FtnJxZPqvdHqzyo8qS) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Regresar al Cuerpo](https://open.spotify.com/album/60kAJYfszVgUglDQDoCZiK) | 3:03 | 2023-11-17 | 2024-02-24 |
 | [Reloj De Plastilina](https://open.spotify.com/track/39TSahzhyETcOxJSoXyFoi) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Reloj De Plastilina](https://open.spotify.com/album/6FGgUO2s8saavc4DGHvvzf) | 2:36 | 2024-03-22 | 2024-09-21 |
 | [Rock es rock!](https://open.spotify.com/track/7mearCDj7s3ztuwX3BS6Ph) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rock es rock! / Hijos de la tempestad / Cuando sane tu corazón / Mujer Amante](https://open.spotify.com/album/2N5ILDgxaUUz8MftHtymYb) | 3:51 | 2024-10-24 | 2025-04-30 |
+| [Rojo Profundo](https://open.spotify.com/track/23uZ2cVSSecPQBhKtU9xSY) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Rojo Profundo](https://open.spotify.com/album/78uTzESVkmihOHuIuSio9H) | 3:03 | 2025-11-07 |  |
 | [Rola de Primera](https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Rola de Primera](https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1) | 3:37 | 2023-10-26 | 2024-03-16 |
 | [Roma](https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:48 | 2025-07-18 |  |
 | [Rompela](https://open.spotify.com/track/3BSA7eRvD25S4oX4rdngpU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 1:44 | 2024-09-12 | 2025-03-08 |
@@ -400,6 +401,7 @@
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2022-06-24 | 2022-12-17 |
 | [Tu Razón de Ser](https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Tu Razón de Ser](https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn) | 3:26 | 2023-08-25 |  |
 | [Ufa! Otro Día en el Paraíso](https://open.spotify.com/track/5896IL788Bi7KewRduDn50) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Ufa! Otro Día en el Paraíso](https://open.spotify.com/album/3yJ9xlmv5wbyK6cm2Iqdur) | 3:38 | 2024-06-28 | 2024-07-27 |
+| [Ultimamente](https://open.spotify.com/track/3zrLsCr0cnFe2JxrSM64Cc) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Francisco Charco](https://open.spotify.com/artist/5ijGwdfVkIvawofd3jGp2b) | [Ultimamente](https://open.spotify.com/album/7cFz5pcbNiO0g4ke9uAmHe) | 4:02 | 2025-11-07 |  |
 | [Ultra Free](https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Ultra Free](https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w) | 3:00 | 2022-07-08 | 2022-11-03 |
 | [Ultraliviano](https://open.spotify.com/track/5YxKjA5ucbct0NveO3OlU4) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [El Día Fuera Del Tiempo](https://open.spotify.com/album/7m4xVZzJ2B32BwchIPFvI0) | 4:30 | 2024-07-26 |  |
 | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/track/1mr6dXlWBIiSjTY44bcEhs) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/album/3PbE2A6hMQIejFQUHImi5U) | 3:01 | 2022-07-29 | 2023-01-28 |
@@ -408,7 +410,7 @@
 | [Un Minuto](https://open.spotify.com/track/51gDC3jTJuDSIboyidAmjV) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Un Minuto](https://open.spotify.com/album/6ZW9nNW0G5FKVynTlatZpI) | 3:49 | 2025-09-12 |  |
 | [Una y Otra Vez](https://open.spotify.com/track/4odPPgH2sPMadY0nKws2pW) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/4HbrGsJV51qvPJnmDaMvhK) | 2:10 | 2022-06-24 | 2022-07-29 |
 | [Una y Otra Vez](https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R) | 2:10 | 2022-07-15 | 2022-11-12 |
-| [Vamos a Cazarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 | 2025-06-27 |  |
+| [Vamos a Cazarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 | 2025-06-27 | 2025-11-08 |
 | [Veneno](https://open.spotify.com/track/1oEiPMu3QKXsFNvNE8EU2R) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Veneno](https://open.spotify.com/album/40QUXWbQyuTJ98c0B1wJc8) | 2:41 | 2022-06-24 | 2023-09-27 |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-06-24 | 2025-05-23 |
 | [Verte De Cerca](https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Verte De Cerca](https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD) | 3:03 | 2024-12-20 |  |

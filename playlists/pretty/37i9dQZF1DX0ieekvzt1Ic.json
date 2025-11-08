@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in India. \nCover: Taylor Swift",
-  "num_followers": 559456,
+  "num_followers": 559472,
   "original_name": "Hot Hits India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP3L2an8jRSjqIaQfs04PBtZto32",
+  "snapshot_id": "AAAAAFCxqA8cj4w/c7jDYgO4GK9BDt3O",
   "tracks": [
     {
       "added_at": "2025-10-17 07:28:41",
@@ -135,6 +135,26 @@
       "duration_ms": 133220,
       "name": "Dame Un Grrr",
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
+    },
+    {
+      "added_at": "2025-11-07 05:48:15",
+      "album": {
+        "name": "Play (The Remixes)",
+        "url": "https://open.spotify.com/album/3SVt9F02xRJpTHkiPR72rm"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Symmetry (feat. Karan Aujla) - Remix",
+      "url": "https://open.spotify.com/track/6Pd2kxiyTsbKdEAI1ghXg6"
     },
     {
       "added_at": "2025-10-17 07:28:41",
@@ -399,26 +419,6 @@
       "duration_ms": 116492,
       "name": "Callin' U (Tamally Maak)",
       "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
-    },
-    {
-      "added_at": "2025-10-17 07:28:41",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "added_at": "2025-10-17 07:28:41",

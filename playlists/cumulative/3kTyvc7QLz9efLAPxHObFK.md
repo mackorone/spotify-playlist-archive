@@ -4,7 +4,7 @@
 
 > 
 
-2,660 songs - 5 day 18 hr 38 min
+2,663 songs - 5 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Acid God](https://open.spotify.com/track/3PY8S3RuyyKxlQ8S1ekDfK) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [Acid God](https://open.spotify.com/album/0pxUMsQrZRh22bR8g4TydQ) | 2:26 | 2024-12-14 |  |
 | [ACID NIGHTMARE](https://open.spotify.com/track/1PfXE3kFVFcm8jI4As49Gp) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41), [Dirty Blood](https://open.spotify.com/artist/05hMDHpBnf422wImbQm2kT) | [ACID NIGHTMARE](https://open.spotify.com/album/5Mf1MO1LJzrX624eLYdRyK) | 3:17 | 2024-05-17 |  |
 | [Acid Rain](https://open.spotify.com/track/5KlVbtMqWyBxGq2OWQMTjB) | [Qlarabelle](https://open.spotify.com/artist/0OFH5neCOMOLrAuKpf6fwf), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [Acid Rain](https://open.spotify.com/album/6lFUbwnJmbdW52aNy13roV) | 2:52 | 2023-03-18 |  |
+| [ACIDWARE](https://open.spotify.com/track/3xcEQV7NpvJSHHBUU7uXlf) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [ACIDWARE](https://open.spotify.com/album/48q08CeSNE6cru2vEKWJbA) | 3:02 | 2025-11-07 |  |
 | [Activation](https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Activation](https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES) | 2:55 | 2024-03-10 |  |
 | [ADAM \- Extended Ver.](https://open.spotify.com/track/7D81RKvDlRj7VQRMzVyRdx) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [Fabuloustars](https://open.spotify.com/album/2qheP0UaggqWpFz9RrMX3I) | 3:50 | 2022-08-17 |  |
 | [Addicted](https://open.spotify.com/track/5iLyI8LnSGP7y48JKGfCoh) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Addicted](https://open.spotify.com/album/2EqVo5W8w8jHlXE3eIDIqe) | 2:55 | 2023-11-10 |  |
@@ -314,6 +315,7 @@
 | [break my fall](https://open.spotify.com/track/4FXkURKF4IMC95tWxGedIo) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [RE\-PULZE](https://open.spotify.com/artist/5YR9VKJNA2pGS1Ic4I2vmd) | [break my fall](https://open.spotify.com/album/7m2ruQyu7nXygkTwQophSU) | 4:15 | 2025-05-26 |  |
 | [BREAK OUT](https://open.spotify.com/track/1FPMl6wGUAP5lbNAUjwQCp) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [BREAK OUT \-The Final\-](https://open.spotify.com/album/2WWZWSdE7qgWd3i13eg9sS) | 4:23 | 2023-05-01 |  |
 | [BREAK THE BASS](https://open.spotify.com/track/7fCi4wYvAdTsNTWZ7NK8NZ) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [NO TIME TO REST](https://open.spotify.com/album/0rUQml5IfdUfJVnGfz9nM2) | 3:48 | 2025-06-07 |  |
+| [BREAK THE CORE](https://open.spotify.com/track/4r7PFwP5R65s7IQSgZmMja) | [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf) | [BREAK THE CORE](https://open.spotify.com/album/2FVFnuFKVzD8ZVxhd7BPto) | 2:33 | 2025-11-07 |  |
 | [Break The Music](https://open.spotify.com/track/71FOAuDQS1zEm2wq1Iv4HX) | [Vau Boy](https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Break The Music](https://open.spotify.com/album/6llKbSbDj8yenoNzBlJ9PL) | 2:53 | 2022-10-05 |  |
 | [BREAK THE RULES](https://open.spotify.com/track/2YnudP0bFwjaTJtGNDGdJp) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1), [Revellers](https://open.spotify.com/artist/3RVR2qsX7eMGtYw5Pr9AkF) | [BREAK THE RULES](https://open.spotify.com/album/4BbXQzf1IDiTPprii45I4m) | 1:58 | 2023-02-25 |  |
 | [Break The Silence \(Official Classified Anthem\)](https://open.spotify.com/track/4yYDbpyVxuRiWuQdry1wFl) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka), [MC Barricade](https://open.spotify.com/artist/0MujEliHJaRbiboLFxk2xw) | [Break The Silence \(Official Classified Anthem\)](https://open.spotify.com/album/0T3QGOZ69qKmTQkQWX1WlL) | 3:01 | 2024-03-18 |  |
@@ -1720,6 +1722,7 @@
 | [Oh My Core](https://open.spotify.com/track/4yMORM9aHVaQBXgZwvRvGB) | [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG) | [Abusive Brutality](https://open.spotify.com/album/73Wc0B9RnQzm4ChUqNTqi9) | 3:48 | 2022-11-29 |  |
 | [OLDSCHOOL RAVER](https://open.spotify.com/track/1OXLGKOT0kzisuL5R128Jr) | [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [OLDSCHOOL RAVER](https://open.spotify.com/album/7cW80EX77zhe0lS0L54GqB) | 2:30 | 2025-08-22 |  |
 | [Oldschool Vibe](https://open.spotify.com/track/20aATMUbhkYPqvj98ROwqP) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Kamikaze](https://open.spotify.com/artist/6QzshKdtq6NS0Jac1nMn6I) | [Supermax](https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM) | 4:20 | 2022-08-11 |  |
+| [OMG!! \(feat\. DJ Noriken\)](https://open.spotify.com/track/0FORMQ3QMF2yIMu6mZrHHW) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [NO HERO](https://open.spotify.com/album/4Ri9luwHwCxfsoVzt9Qhb6) | 3:06 | 2025-11-07 |  |
 | [On Fire](https://open.spotify.com/track/05X5EEUF98ivpyyMcXiZly) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD) | [On Fire](https://open.spotify.com/album/5TzA4F1jF2pW9XKx41tmoE) | 2:51 | 2024-01-26 |  |
 | [ON FIRE](https://open.spotify.com/track/3Ys1nZZAhSituWrry5GMCy) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [ON FIRE](https://open.spotify.com/album/2QulYRKxTMkqiljPzvQfjU) | 2:23 | 2024-03-26 |  |
 | [On My Head](https://open.spotify.com/track/6OkWQE67ED5iKiAvOY7XvU) | [Fyloh](https://open.spotify.com/artist/3VLpd6XZs2Q6OQRaIomc5h), [Vengeance](https://open.spotify.com/artist/0rkZewDpEnFUDab7m5A4Tz) | [The Next Gen V8](https://open.spotify.com/album/3a17W77oxHl06n3oJg7P6N) | 2:38 | 2025-06-06 |  |

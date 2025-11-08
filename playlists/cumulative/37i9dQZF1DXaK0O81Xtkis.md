@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Kid Sistr
+> a little indie, a little pop, soda featuring Del Water Gap
 
-1,479 songs - 3 day 1 hr 44 min
+1,484 songs - 3 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Family Out Of Friends](https://open.spotify.com/track/7tfHEAIiDswTzXPHuAG8Qb) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let The Light In](https://open.spotify.com/album/7bM1GKA0zREafTz0rmbtBk) | 3:05 | 2025-06-06 | 2025-08-06 |
 | [fan behavior](https://open.spotify.com/track/2HWJELHnneoKGVe0mRFeeD) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:01 | 2022-05-27 | 2022-06-04 |
 | [fantasize](https://open.spotify.com/track/3oXJgKRmoopOfS1g4ss71k) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [fantasize](https://open.spotify.com/album/1E9TSanNO7qOudlINg2C4u) | 1:54 | 2023-01-27 | 2023-04-09 |
+| [Fantasy](https://open.spotify.com/track/23zspOaDtWuHh0bZaCo3PZ) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Fickle Friends](https://open.spotify.com/album/77NcQbJCAIoymd5Z0VCJre) | 3:13 | 2025-11-07 |  |
 | [Father Time \(10am\)](https://open.spotify.com/track/1gr4SwXkiwhaHFAkFneIpA) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Father Time \(10am\)](https://open.spotify.com/album/6CiNSkolG9MwDaKYidLERu) | 2:27 | 2025-04-11 | 2025-06-07 |
 | [FAVORITE PART](https://open.spotify.com/track/1ssq7tSefgoZkTSTrI51rg) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [FAVORITE PART](https://open.spotify.com/album/2ozUR3Sj5ZBn9W5zsMusVu) | 2:59 | 2022-12-02 | 2023-03-25 |
 | [favorite song](https://open.spotify.com/track/1DY1Jql0kdvh8r7HZiyZMe) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [favorite song](https://open.spotify.com/album/6JtejGkfjMcru8aO4opjAX) | 1:58 | 2023-05-26 | 2023-06-24 |
@@ -845,6 +846,7 @@
 | [Maybe I Do](https://open.spotify.com/track/1IEcpd2OmAA9KNO6cfTn4D) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Going, Going, Gone \(For Good\)](https://open.spotify.com/album/1GdBkNNiNakqBcBBu9Z0f1) | 2:37 | 2025-08-29 |  |
 | [maybe money](https://open.spotify.com/track/7LslekRtdFPRxkRlyC8vkC) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [maybe money](https://open.spotify.com/album/0lWMNJDiYO0EcjYO7O2cAC) | 2:23 | 2022-04-22 | 2022-06-11 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 | 2022-08-20 |
+| [me with no shirt on](https://open.spotify.com/track/4kfbeIjJ5jgiAqgKlRIuUs) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [me with no shirt on](https://open.spotify.com/album/3ChvAG8hqJnQjg6hV4Ise2) | 2:48 | 2025-11-07 |  |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 | 2024-04-19 |
 | [Mean girls featuring julian casablancas](https://open.spotify.com/track/11J4S7N9cyB1Xvx2ClzTkt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:46 | 2024-10-11 | 2025-01-04 |
 | [Medical Attention](https://open.spotify.com/track/331XiSC8eOEhnG0zINJfyl) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Medical Attention](https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe) | 2:56 | 2023-04-14 | 2023-07-01 |
@@ -1046,6 +1048,7 @@
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-15 |
 | [Repeat Caller](https://open.spotify.com/track/69zIlo9KqVoQjenSCh10Wb) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Repeat Caller](https://open.spotify.com/album/4gmKqHoxwAaQw7meJMJ1Mz) | 2:21 | 2021-11-05 | 2022-01-22 |
 | [Replace Me](https://open.spotify.com/track/2WbIdh9RxH4V0xv465tQzQ) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Replace Me](https://open.spotify.com/album/5Z5eUGnz4aZrWjHJF5PBr5) | 3:17 | 2022-03-04 | 2022-04-29 |
+| [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 | 2025-11-07 |  |
 | [Ribbon Around The Bomb](https://open.spotify.com/track/1xeUlQsm3i9aAry71kXbhY) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/3VZZs7wrm6CME7Fk82NRyj) | 2:34 | 2022-01-28 | 2022-03-18 |
 | [ricochet](https://open.spotify.com/track/76xzDSAEc0bnRykhiOaekb) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [ricochet](https://open.spotify.com/album/1OTf7RvlqRhUqLHnzeFBEV) | 3:07 | 2025-04-04 | 2025-06-07 |
 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 | 2024-10-11 | 2025-02-15 |
@@ -1106,6 +1109,7 @@
 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 | 2022-06-10 | 2022-08-20 |
 | [seventeen](https://open.spotify.com/track/5P4PW71fDmfehRrxBuG9OF) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [seventeen](https://open.spotify.com/album/2jtVwe611s3mqw6Vre4AYx) | 3:01 | 2025-01-24 | 2025-04-12 |
 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 | 2025-01-31 | 2025-03-15 |
+| [She Goes](https://open.spotify.com/track/2Ma85rvlh6V6a66O4AYruD) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [She Goes](https://open.spotify.com/album/0UPsFm6WSOwkWQH8Q0sMKF) | 3:03 | 2025-11-07 |  |
 | [she got a thing about her](https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [she got a thing about her](https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy) | 2:18 | 2025-07-11 | 2025-09-21 |
 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 | 2022-07-22 | 2022-10-15 |
 | [Sheryl Crow](https://open.spotify.com/track/3YDMI9nKu5mbYYt0ODKkSu) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I hope you're well in these crazy times](https://open.spotify.com/album/4jJpB6oqm4IiyyUYqetD7i) | 3:02 | 2022-08-12 | 2022-09-03 |
@@ -1133,6 +1137,7 @@
 | [Sleepyhead](https://open.spotify.com/track/0swLKGvJZnbROxhHggpVBa) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/10nDX7ZVSymEXVDQxtemR8) | 3:14 | 2024-02-16 | 2024-02-24 |
 | [Sleepyhead](https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD) | 3:14 | 2024-02-09 | 2024-02-23 |
 | [Slide](https://open.spotify.com/track/7BzduEaTDTxEhZvLJbZWW2) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/1VJQGEoTco7jhMvYjJhZzR) | 2:35 | 2022-09-16 | 2022-09-24 |
+| [Small Town Joan of Arc](https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 3:51 | 2025-11-07 |  |
 | [small town rodeo](https://open.spotify.com/track/02C7ei5KXnTXaEWx9HgdvD) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [small town rodeo](https://open.spotify.com/album/5mIoN9gFgzMj4LdNmdARaz) | 4:21 | 2024-11-11 | 2025-01-25 |
 | [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-02 | 2022-09-17 |
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-08-19 | 2022-12-03 |

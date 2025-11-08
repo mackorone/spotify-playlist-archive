@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: DJ Snake x Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,985 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,005 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [](https://open.spotify.com/album/null) | 2:59 |
+| 1 | [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 2:59 |
 | 2 | [Lift Me Up](https://open.spotify.com/track/4rKW43kduFZw8OsBmkNG9m) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up](https://open.spotify.com/album/4z4oGhZVugYZfPrgeuomfo) | 2:55 |
 | 3 | [Stay A Little Longer](https://open.spotify.com/track/07rPGAMTFCeRrpJjQXyrQ7) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Stay A Little Longer](https://open.spotify.com/album/79u6HQ838dC9MxAUkXHvS6) | 2:27 |
 | 4 | [Louder For The People](https://open.spotify.com/track/17WMOvV72qNwwEIHxE1Kio) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Bassment Sessions Vol\. 1](https://open.spotify.com/album/5KtqixaETmnEiyG1Pyzp42) | 2:44 |

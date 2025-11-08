@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-997 songs - 2 day 16 hr 59 min
+998 songs - 2 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -848,6 +848,7 @@
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-17 | 2022-09-09 |
 | [Tesselation](https://open.spotify.com/track/3BIzHNxAQbRTY4LCp1oMR1) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:32 | 2022-07-11 | 2022-11-17 |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-04-20 | 2023-04-15 |
+| [The Ballet](https://open.spotify.com/track/2ydWEPlcHn1zPdQIGnifgM) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu) | [A Hundred Alibis](https://open.spotify.com/album/5pBP3gp4Xm7jNUoylvFhhN) | 4:00 | 2025-11-07 |  |
 | [The Best of It \(feat\. La Roux\)](https://open.spotify.com/track/0p5BWstYrO0VNHXwgJohJB) | [Whyte Horses](https://open.spotify.com/artist/67tGvTTG36JaxuJ0UBkMzu), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Empty Words](https://open.spotify.com/album/6IdGCkDHRBGWRSAZqd1mHR) | 2:29 | 2021-04-02 | 2022-04-20 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-02-18 | 2022-07-12 |
 | [The Botanist](https://open.spotify.com/track/7ezLCYYElreJTHe7KyuKTG) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [Habitat](https://open.spotify.com/album/3glCxDLdGv7lRijvfycOEC) | 4:30 | 2023-12-01 | 2024-02-17 |

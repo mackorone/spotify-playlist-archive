@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Thomas Day
+> Discover your favorite new chill pop songs\. Cover: Isabel LaRosa
 
-1,786 songs - 3 day 22 hr 23 min
+1,787 songs - 3 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [Heaven](https://open.spotify.com/track/7zzl5nLmPPkAwk2MRIUpa4) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Heaven](https://open.spotify.com/album/7zvlOXQgusNzrFMADWbz8G) | 2:49 | 2021-02-09 | 2021-09-11 |
 | [Heavy Hearted](https://open.spotify.com/track/5Q5N972OC5NyUX1RqriQUf) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Emma Sameth](https://open.spotify.com/artist/0hac78iy32k7qYWLp6RPaz) | [Heavy Hearted](https://open.spotify.com/album/6Aru6H31ZQhvg45c7u2c0r) | 2:44 | 2021-03-06 | 2021-04-10 |
 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 | 2022-08-19 | 2022-10-18 |
+| [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 | 2025-11-07 |  |
 | [Hercules](https://open.spotify.com/track/4ryBIxbxQa30yxSmE8R6gF) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Hercules](https://open.spotify.com/album/2D79Ri1kZUCadrqVBcnqF9) | 3:28 | 2021-02-12 | 2021-05-08 |
 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 | 2023-09-15 | 2023-10-07 |
 | [here, alone, again](https://open.spotify.com/track/36yrRl61EcLYpTgiy2MB8V) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [love & limerence](https://open.spotify.com/album/7B4gJ3EYgyZw98HCvcUZRA) | 4:23 | 2024-06-21 | 2025-05-03 |

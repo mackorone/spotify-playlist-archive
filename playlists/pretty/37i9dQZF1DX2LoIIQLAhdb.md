@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,762 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,771 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 6 | [Please](https://open.spotify.com/track/1JxkfYFfPb8vZDncVbQien) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:03 |
 | 7 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 8 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 |
-| 9 | [Meilleurs](https://open.spotify.com/track/7gJljj1TljM6tc860T9yai) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [](https://open.spotify.com/album/null) | 2:56 |
+| 9 | [Meilleurs](https://open.spotify.com/track/7gJljj1TljM6tc860T9yai) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:56 |
 | 10 | [Discret](https://open.spotify.com/track/6eNd2xLnFgbcbb7Yv2OSLp) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Discret](https://open.spotify.com/album/1gJUwC37VZGJGxZSmFtYRY) | 3:08 |
 | 11 | [M'en Aller](https://open.spotify.com/track/4yMKFwzdBXs7sH9zvOVeAA) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [M'en Aller](https://open.spotify.com/album/2I84m5gBW8jck2PEHrkIn9) | 2:28 |
 | 12 | [Too close \(feat\. Rsko\)](https://open.spotify.com/track/0ZygVk1kxnwT6HRMprEnxV) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:56 |

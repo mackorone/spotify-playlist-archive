@@ -6205,6 +6205,28 @@
     },
     {
       "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO"
+    },
+    {
+      "album": {
         "name": "Refractions",
         "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
       },
@@ -7898,7 +7920,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 191217,
       "name": "That Thang",
       "url": "https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI"

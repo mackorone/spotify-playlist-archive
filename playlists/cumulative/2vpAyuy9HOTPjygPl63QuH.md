@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,321 songs - 5 day 10 hr 56 min
+2,322 songs - 5 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2310,6 +2310,7 @@
 | [Yellow Wave](https://open.spotify.com/track/75kHwisoH6GuszNXUnpIwH) | [Antho Decks](https://open.spotify.com/artist/1nPH0F1TGQSBWHa76MKBie), [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Yellow Wave](https://open.spotify.com/album/41ntcOxm4ds8OSWc7tjPFI) | 3:35 | 2023-10-06 | 2023-10-14 |
 | [You](https://open.spotify.com/track/64XuVVslGI3wdiz1nbFRcp) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [You](https://open.spotify.com/album/3loEQDP8cVTqbspSywER7u) | 5:29 | 2023-06-30 | 2023-07-16 |
 | [You Ate That](https://open.spotify.com/track/7yzQDORKaih65753uwmR89) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [You Ate That](https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq) | 3:16 | 2024-03-15 | 2024-05-02 |
+| [You Do Change](https://open.spotify.com/track/1VFNr2P8GqtCpO8rZRyTKQ) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [You Do Change](https://open.spotify.com/album/69nsTwzOHJ6OWx9jHRZ41L) | 3:17 | 2025-11-07 |  |
 | [You Don't Know \(feat\. PVC\)](https://open.spotify.com/track/17f8MQbbICShN6ChgIbmwb) | [Double Agent](https://open.spotify.com/artist/4BwhvsUVmhKmN2VuD8sUMM), [PVC](https://open.spotify.com/artist/2MhBByeZkfHW85qngIOjrK) | [You Don't Know \(feat\. PVC\)](https://open.spotify.com/album/5GoSswuHq1gZm8EvClZgrz) | 3:15 | 2023-09-15 | 2023-09-23 |
 | [You Feel](https://open.spotify.com/track/5rsxpe0Jqg804aRryqw7Hs) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [You Feel](https://open.spotify.com/album/00le7WzuiUjS7C6zl5lzdu) | 3:00 | 2023-11-17 | 2023-12-09 |
 | [You Got It](https://open.spotify.com/track/4TaEDUmbRR4t69Z7RwoWmQ) | [TYPE3](https://open.spotify.com/artist/4KdMZjTfXrkQ5v2IlGuj6S) | [You Got It](https://open.spotify.com/album/5PC1Objhufq1wettIi5kYM) | 3:37 | 2022-10-28 | 2022-11-06 |

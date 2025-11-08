@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-286 songs - 17 hr 22 min
+287 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Red Letter Blueprint \(feat\. Jason Crabb\)](https://open.spotify.com/track/4Fva7xZy5rnslgLQZdNFYC) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Red Letter Blueprint \(feat\. Jason Crabb\)](https://open.spotify.com/album/0CQjyCJ1EO1FQAMUAlzZ00) | 3:34 | 2025-02-07 |  |
 | [Rich](https://open.spotify.com/track/5Oa6OS9SMCGYn1cVDpdt7s) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Rich](https://open.spotify.com/album/29cO6aoKc7Ced6oa4WeoQl) | 3:55 | 2024-04-19 |  |
 | [River Of Life](https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [River Of Life](https://open.spotify.com/album/6vF3ktUVSaC3IEtZHZwU3b) | 2:49 | 2021-12-10 | 2025-06-30 |
+| [Saved](https://open.spotify.com/track/2AJjGdc0WV9Iz67mfsvUy9) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [Saved](https://open.spotify.com/album/6hQaSoZpkoPIk0MC85Hn3n) | 3:34 | 2025-11-07 |  |
 | [Seven Minutes In Heaven](https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Not That Fancy](https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ) | 4:24 | 2023-10-06 |  |
 | [She Loves Jesus](https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [She Loves Jesus](https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs) | 4:00 | 2022-10-28 |  |
 | [Shine](https://open.spotify.com/track/1391pTC3PlDqAWZTNUkdPc) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [The Messenger](https://open.spotify.com/album/70od9008rtHk29AYSgp24n) | 2:41 | 2025-03-21 |  |

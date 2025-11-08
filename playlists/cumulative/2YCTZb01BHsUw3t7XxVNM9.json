@@ -767,6 +767,32 @@
     },
     {
       "album": {
+        "name": "AYAKASHI",
+        "url": "https://open.spotify.com/album/257rsNevRVxyF9BkOp1kN0"
+      },
+      "artists": [
+        {
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+        },
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        },
+        {
+          "name": "Joe Fight",
+          "url": "https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "AYAKASHI",
+      "url": "https://open.spotify.com/track/2lGHcwiOOUB74QSzsvuX9P"
+    },
+    {
+      "album": {
         "name": "Break Out Black",
         "url": "https://open.spotify.com/album/19itekbCskAsTR4uo2Jty8"
       },

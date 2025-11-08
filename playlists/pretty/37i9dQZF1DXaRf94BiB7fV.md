@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Akhrieze
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,820 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,839 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Awful Lot](https://open.spotify.com/track/7xJGztH5VcMYWIWoil9keA) | [Akhrieze](https://open.spotify.com/artist/5LEo97DRGE5i2krjX1h7NN) | [Awful Lot](https://open.spotify.com/album/7vQHEr9tWUzS0Ttty1coGs) | 4:07 |
 | 2 | [Tere Jaisa](https://open.spotify.com/track/4u0s3AqFOyKoJRAkV7K0O4) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Tere Jaisa](https://open.spotify.com/album/5sfzEaovmgPxEUgE72pkoV) | 3:31 |
 | 3 | [Laapata](https://open.spotify.com/track/7DNoJNilpWehvLd9wEWZ2o) | [Karan Verma](https://open.spotify.com/artist/6KUJM9toJ1TiUsiu48YunV) | [PARICHAY](https://open.spotify.com/album/1UXfZCipniL0TJC9djWJw4) | 3:38 |
-| 4 | [Na Jaane Kyun](https://open.spotify.com/track/1Zc1JkCj4nQBJjlHdJJrjZ) | [Rishabh Talreja](https://open.spotify.com/artist/0tauAPaarPXfzEklKMBvFY), [Nandukishore Babu](https://open.spotify.com/artist/4xw6hVhRYOEd2fwVYOYnlS), [Swar Srivastava](https://open.spotify.com/artist/7ffR42zNQataIaYT9eXixl) | [Na Jaane Kyun](https://open.spotify.com/album/24Yzs8Q4xQ4Ndq6M9K7lFU) | 2:35 |
+| 4 | [Na Jaane Kyun](https://open.spotify.com/track/1Zc1JkCj4nQBJjlHdJJrjZ) | [Rishabh Talreja](https://open.spotify.com/artist/0tauAPaarPXfzEklKMBvFY), [Nandukishore Babu](https://open.spotify.com/artist/4xw6hVhRYOEd2fwVYOYnlS), [Swar Srivastava](https://open.spotify.com/artist/4ilNVtUiJoyQ1qkMYm4ChI) | [Na Jaane Kyun](https://open.spotify.com/album/24Yzs8Q4xQ4Ndq6M9K7lFU) | 2:35 |
 | 5 | [Kyun Yeh Raat](https://open.spotify.com/track/2xKJXhqMCjIt94ZtvxGRxj) | [Chinmoy Kashyap](https://open.spotify.com/artist/1Ks1j3W7EIP0i8LOcigEU1) | [Kyun Yeh Raat](https://open.spotify.com/album/5tK6oPVcsfKNrGwR1d1F64) | 3:48 |
 | 6 | [Dil Ne Kaha](https://open.spotify.com/track/0UjGo3nujyOVrnoF9iipM2) | [Mainak Chakraborty](https://open.spotify.com/artist/4imbvliWDpVwkEtI1JGhv4) | [Dil Ne Kaha](https://open.spotify.com/album/3aB4GzXTVocoq7NIxENmwn) | 2:24 |
 | 7 | [Pehla Nasha](https://open.spotify.com/track/5CJgfgf0ZV5O534KUnnses) | [Bhavesh Malviya](https://open.spotify.com/artist/1vRE5tnt5vMUo4ML4ZWQAt), [Prerna Shah](https://open.spotify.com/artist/6xUh3N2fP6S03AcotQEdDN) | [Pehla Nasha](https://open.spotify.com/album/0SOeln6C6uvoLeERZugjFK) | 3:59 |
-| 8 | [Meri Jaan](https://open.spotify.com/track/2Wb3NaR9o72yhLq1uMPZJ1) | [Jash Mistry](https://open.spotify.com/artist/7j1Z5SWANtkeKy8A49oKB8), [Aastha T.](https://open.spotify.com/artist/06JBlJhwD4VTMu1BWQdtVd) | [Meri Jaan](https://open.spotify.com/album/4EyeCC6Mvv9mXFVmDTgjwn) | 3:25 |
+| 8 | [Meri Jaan](https://open.spotify.com/track/2Wb3NaR9o72yhLq1uMPZJ1) | [Aastha T.](https://open.spotify.com/artist/06JBlJhwD4VTMu1BWQdtVd), [Jash Mistry](https://open.spotify.com/artist/7j1Z5SWANtkeKy8A49oKB8) | [Meri Jaan](https://open.spotify.com/album/4EyeCC6Mvv9mXFVmDTgjwn) | 3:25 |
 | 9 | [JAANA](https://open.spotify.com/track/2YQo7aCOlLjq7ReonEjT54) | [Mitesh Bhatt](https://open.spotify.com/artist/5V2zDXAqpJilI0wgIYiojJ) | [JAANA](https://open.spotify.com/album/66AwPVyxXp3d0MakpuIKKi) | 3:14 |
 | 10 | [20 Something](https://open.spotify.com/track/2PmkxEUGG1epRsaZ2q6mFs) | [Nitansha](https://open.spotify.com/artist/28md3cATWZym2dKsfv8wvH), [BaddMint](https://open.spotify.com/artist/45jH2n7CFwqGXgsHUcxnP3) | [20 Something](https://open.spotify.com/album/6ngfEYJnkSKku48AOHLDai) | 3:32 |
 | 11 | [Dur Kahi Na Jaa Tu](https://open.spotify.com/track/3WSQsfAgTtyfQamWXkOMvd) | [KnoXx](https://open.spotify.com/artist/5RcpRxAwu6hjd2pFg0OdZw), [Aayushi Chatterjee](https://open.spotify.com/artist/6yZUAqALJomS24oZt9kuKR), [Somil Beats](https://open.spotify.com/artist/7IuRc4MaKaIlqp6fujYsEi) | [Dur Kahi Na Jaa Tu](https://open.spotify.com/album/76KR8wnJRymKt92rNhAG2b) | 3:51 |

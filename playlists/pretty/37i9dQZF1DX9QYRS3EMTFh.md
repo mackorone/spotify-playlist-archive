@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Genezio x Bamby
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,308 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,346 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 18 | [Shake It To The Max \(FLY\) \- Kalash & Maureen Remix](https://open.spotify.com/track/6J9aDPnmDkiPAxWhwLV8Zr) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Shake It To The Max \(FLY\) \(Kalash & Maureen Remix\)](https://open.spotify.com/album/6bwAGOb3zI1RJBBd9e0Vle) | 3:01 |
 | 19 | [C'est OK](https://open.spotify.com/track/4omJx1VW817ijn44U8wjJ9) | [Shad Hottaboy](https://open.spotify.com/artist/3LWw4ar9kTrbOgTUvyZQjW), [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj) | [C'est OK](https://open.spotify.com/album/0d0Jmx75KNiVjU6QQfogcp) | 2:26 |
 | 20 | [GANGSTA](https://open.spotify.com/track/0xbK2OxyqU9dx2UJYz4HpN) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [GANGSTA](https://open.spotify.com/album/40yllSwcv1D4J5jspTMHiW) | 2:12 |
-| 21 | [Track 1](https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [](https://open.spotify.com/album/null) | 0:00 |
+| 21 | [Immortal Life](https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Nothing Without God](https://open.spotify.com/album/65clKbczk7FXoDZP4HUWOY) | 2:41 |
 | 22 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |
 | 23 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 |
 | 24 | [After Party](https://open.spotify.com/track/2h4iv646rdK3LAFiFCzoXM) | [Keros\-N](https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc), [Dj Wycked](https://open.spotify.com/artist/5iVBgUUfoM6U8z0WZyj8q8) | [After Party](https://open.spotify.com/album/5y4duNZhMwI98Du6YOTqap) | 2:41 |

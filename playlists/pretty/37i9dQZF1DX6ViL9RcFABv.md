@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma edição especial de Pop PT, com a co\-curadoria única de Diogo Piçarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,354 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,384 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 23 | [Quanto Tempo Tem](https://open.spotify.com/track/2Ydka52H6YTx151H9uB9Lf) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Quanto Tempo Tem](https://open.spotify.com/album/0fN3KrSOFJ89X9NXPhSvke) | 3:23 |
 | 24 | [Dancemos Um Slow](https://open.spotify.com/track/0FfRzV2SWi46X02Hi8dO4P) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi) | [Recantigas \- As Canções de Miguel Araújo](https://open.spotify.com/album/39eVM72MnmYcyNIiDVLmwj) | 3:46 |
 | 25 | [Marta](https://open.spotify.com/track/0roOynoUgJjttisZcczNuA) | [S\. PEDRO](https://open.spotify.com/artist/5k3R2vdBtoL88QHXGqZN56) | [Tudo Ao Mesmo Tempo](https://open.spotify.com/album/2YF6gKJWmS5ZZEKsGPonH1) | 3:17 |
-| 26 | [Pedaço De Bom Caminho](https://open.spotify.com/track/12mSyoPyGcxkh97T4vQl6L) | [Afonso Dubraz](https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe) | [](https://open.spotify.com/album/null) | 2:43 |
+| 26 | [Pedaço De Bom Caminho](https://open.spotify.com/track/12mSyoPyGcxkh97T4vQl6L) | [Afonso Dubraz](https://open.spotify.com/artist/1krhmZyrplaD7bcGcYviSe) | [Plano B \- Parte 1](https://open.spotify.com/album/2oLjFcjNEEE92R8KCFSpsC) | 2:43 |
 | 27 | [Tu na Tua](https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [Tu na Tua](https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO) | 2:48 |
 | 28 | [Melhor Sem Ti](https://open.spotify.com/track/1f00PICONoIkjQ8rkqqFCA) | [Beatriz Abrunhosa](https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF) | [Melhor Sem Ti](https://open.spotify.com/album/06KrHJWst0BR90qhrjaXpj) | 3:06 |
 | 29 | [Pobre Ex\-Namorado](https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pobre Ex\-Namorado](https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc) | 2:53 |

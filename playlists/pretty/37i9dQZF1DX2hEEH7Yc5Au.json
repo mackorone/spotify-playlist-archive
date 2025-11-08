@@ -1,13 +1,29 @@
 {
-  "description": "\u4e00\u8d77\u4f86\u6b23\u8cde\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u91c7\u8868\u73fe\uff01Cover: \u674e\u5343\u5a1c (Nana Lee)",
-  "num_followers": 18029,
+  "description": "\u4e00\u8d77\u4f86\u6b23\u8cde\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u91c7\u8868\u73fe\uff01Cover: Andr",
+  "num_followers": 18032,
   "original_name": "EQUAL Taiwan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMm6vd9UgtNRsdUVJc7xXZw2tDqF",
+  "snapshot_id": "AAAAALXIlTAu/5bOR6elZhdWD77e5jOh",
   "tracks": [
+    {
+      "added_at": "2025-11-07 08:12:59",
+      "album": {
+        "name": "FACES",
+        "url": "https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "duration_ms": 245449,
+      "name": "FACES",
+      "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
+    },
     {
       "added_at": "2025-11-04 16:00:04",
       "album": {
@@ -275,26 +291,6 @@
     {
       "added_at": "2025-11-04 16:00:04",
       "album": {
-        "name": "\u6d41\u6c34\u5e2d Flow's Banquet",
-        "url": "https://open.spotify.com/album/4IUVCH0duJjB0wvCSJCaed"
-      },
-      "artists": [
-        {
-          "name": "Flowstrong",
-          "url": "https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH"
-        },
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        }
-      ],
-      "duration_ms": 231504,
-      "name": "\u5634\u5df4\u9589\u9589",
-      "url": "https://open.spotify.com/track/3ZSAuiIj7fJzNBLKahNLDU"
-    },
-    {
-      "added_at": "2025-11-04 16:00:04",
-      "album": {
         "name": "Caramel Eyes \u7126\u7cd6\u773c",
         "url": "https://open.spotify.com/album/1EREz4UadSHlXclMRhKrfm"
       },
@@ -427,6 +423,22 @@
       "duration_ms": 176450,
       "name": "\u5c0f\u5e33",
       "url": "https://open.spotify.com/track/0OeGki4h7vr4XX852Xs8lh"
+    },
+    {
+      "added_at": "2025-11-04 16:00:04",
+      "album": {
+        "name": "Hidden Card \u85cf\u62db",
+        "url": "https://open.spotify.com/album/5tGDjZXlNj85kXxlRPVg7A"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "duration_ms": 129440,
+      "name": "Rotator (200708)",
+      "url": "https://open.spotify.com/track/2lgafirWBgHZLbSwrelsgL"
     },
     {
       "added_at": "2025-11-04 16:00:04",
@@ -695,22 +707,6 @@
       "duration_ms": 220611,
       "name": "\u6211\u7121\u6cd5\u518d\u966a\u8457\u4f60\u6d41\u6d6a",
       "url": "https://open.spotify.com/track/5MaUEX9I7A3fqEItQlUV2j"
-    },
-    {
-      "added_at": "2025-11-04 16:00:04",
-      "album": {
-        "name": "Hidden Card \u85cf\u62db",
-        "url": "https://open.spotify.com/album/5tGDjZXlNj85kXxlRPVg7A"
-      },
-      "artists": [
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        }
-      ],
-      "duration_ms": 129440,
-      "name": "Rotator (200708)",
-      "url": "https://open.spotify.com/track/2lgafirWBgHZLbSwrelsgL"
     },
     {
       "added_at": "2025-11-04 16:00:04",

@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: ALICIA DC
 
-1,082 songs - 2 day 10 hr 58 min
+1,083 songs - 2 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,7 +858,6 @@
 | [too pretty \(to be worried\)](https://open.spotify.com/track/7ta7gwuiwwTGjeuXPTPRPF) | [kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [too pretty \(to be worried\)](https://open.spotify.com/album/2rnZ19XUfUyG8UMhYzKY4V) | 3:33 | 2025-08-07 | 2025-09-05 |
 | [Touch Yourself](https://open.spotify.com/track/4FOrfiTwMXgS41g9L5GN3I) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Touch Yourself](https://open.spotify.com/album/5nZPMnu5Z6Zjj7e3or4cwZ) | 3:16 | 2024-10-10 | 2024-11-09 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-09-27 |
-| [Track 3](https://open.spotify.com/track/6uLt2hCnQhjcB4RBOa9NjA) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [TRACK D](https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq) | [DAC](https://open.spotify.com/artist/7pE2X4frEyOmquxv8QFoZA), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [TRACK D](https://open.spotify.com/album/1garuMkV5LtsyoPJ9DifbB) | 2:10 | 2024-12-12 | 2025-01-24 |
 | [Transportation Blues](https://open.spotify.com/track/5ndaof6VTnydQJaYliSHYG) | [Stopgap](https://open.spotify.com/artist/60dCRxcmRMSw9WovWPtI8g) | [Transportation Blues](https://open.spotify.com/album/53h0nva44FuOhRdSAULeYb) | 4:35 | 2024-11-08 | 2024-11-29 |
 | [Trial & Error](https://open.spotify.com/track/3XFbOVSEIjHN2ZGRcoWqU1) | [The Benjamin Daniels](https://open.spotify.com/artist/4Wy7nvuhxWC7w6Qk0yombI) | [Awake For Too Long](https://open.spotify.com/album/1cVq9N3vJcsYcrZ3t6XmWF) | 4:33 | 2024-11-21 | 2025-01-03 |
@@ -960,8 +959,9 @@
 | [人啊](https://open.spotify.com/track/1ByyUaLSi4OpiQRUFmZPD7) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [在](https://open.spotify.com/album/3Wuw2KINOhZrZCxLsAr3op) | 1:04 | 2025-10-30 |  |
 | [今天的樣子](https://open.spotify.com/track/5T5uegUfdaLf6JbNItlW3n) | [J.En Cheo](https://open.spotify.com/artist/6a4zj3BAL2o9RWOlyKpKhr) | [今天的樣子](https://open.spotify.com/album/2Y3ctAKv0NfZeE6Lysn8xW) | 4:08 | 2024-10-10 | 2024-11-09 |
 | [他從我的指尖溜走](https://open.spotify.com/track/5rv5nPjS0gywkwMFzgEaLp) | [Lauren Woo](https://open.spotify.com/artist/25ef1wPlMzJDegKdmkFzRa), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [他從我的指尖溜走](https://open.spotify.com/album/3xnNes9ZUq3RHc8WBYSzU9) | 4:20 | 2024-12-19 | 2025-05-02 |
-| [你有满意吗](https://open.spotify.com/track/6xSocWeOUZpNyY26uHQNNX) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [交叉路口 Junctions](https://open.spotify.com/album/0DSORZ2N82j2vXV5b2WYN7) | 4:16 | 2025-11-06 |  |
+| [你有满意吗](https://open.spotify.com/track/6xSocWeOUZpNyY26uHQNNX) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [交叉路口 Junctions](https://open.spotify.com/album/0DSORZ2N82j2vXV5b2WYN7) | 4:16 | 2025-11-06 | 2025-11-08 |
 | [你有滿意嗎](https://open.spotify.com/track/2FIxAgNJfyhAFzDwJI1jZV) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [你有滿意嗎](https://open.spotify.com/album/1VOkhMPKUgKtFRRJvRUN10) | 4:16 | 2025-09-12 | 2025-10-31 |
+| [你有滿意嗎](https://open.spotify.com/track/40eHoT7z5wLboiWXZuN3ih) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [交叉路口 Junctions](https://open.spotify.com/album/6shAWWZ2xrAjXgVPk11KZI) | 4:16 | 2025-11-07 |  |
 | [你的關係，不關於我](https://open.spotify.com/track/5tQ1mEucjeK7NNo124w4Y5) | [Wendy 胡繢頤](https://open.spotify.com/artist/2aasQQcvsJBJXt5nAvBBIF) | [你的關係，不關於我](https://open.spotify.com/album/2kMw7cCZx4x3DsZC3HiSGf) | 4:35 | 2025-06-26 | 2025-08-01 |
 | [你說過](https://open.spotify.com/track/7K1PjUuhK4ymSPK7znVQeH) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [你說過](https://open.spotify.com/album/3J1xi2lwV9EoNMoQmyI2UF) | 3:18 | 2025-09-22 | 2025-11-07 |
 | [你難道就沒有想起我](https://open.spotify.com/track/0ALeZsRHeUzejvS3pAc8JT) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [你難道就沒有想起我](https://open.spotify.com/album/6OzCokXMl47MXVle6Qnven) | 4:00 | 2025-10-16 |  |
@@ -980,7 +980,7 @@
 | [只要你能快樂](https://open.spotify.com/track/5mw77lp6lmQ4vHRQGOFAxy) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [只要你能快樂](https://open.spotify.com/album/1BkiyX9Y9HE3QEIbRz3S95) | 4:50 | 2024-07-25 | 2024-09-27 |
 | [可是他叫我寶A](https://open.spotify.com/track/4J6eYl9UWoTmTkFwyA2IeT) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [可是他叫我寶A](https://open.spotify.com/album/5LUOB5pTg6PYLeCxpGH0D6) | 3:43 | 2024-09-05 | 2024-11-09 |
 | [各自安好](https://open.spotify.com/track/6rauywWxeziJyCMApoAQga) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [何美 Homei](https://open.spotify.com/artist/5QixSnzERRtf6ZQOFrtazj) | [各自安好](https://open.spotify.com/album/6i3Jno5F9EF342DDBVuDQY) | 3:47 | 2024-07-18 | 2024-11-22 |
-| [听你](https://open.spotify.com/track/3T0ezwxS0KHGqVBPMARAmD) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [交叉路口 Junctions](https://open.spotify.com/album/0DSORZ2N82j2vXV5b2WYN7) | 3:51 | 2025-11-06 |  |
+| [听你](https://open.spotify.com/track/3T0ezwxS0KHGqVBPMARAmD) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [交叉路口 Junctions](https://open.spotify.com/album/0DSORZ2N82j2vXV5b2WYN7) | 3:51 | 2025-11-06 | 2025-11-08 |
 | [哎哟大过年的你 不要那么Lazy](https://open.spotify.com/track/50OQ2FRGxMGUDS0z3tEhUb) | [Hazelle Teo](https://open.spotify.com/artist/2shQPKXnXcGMlyi48AuCQT) | [哎哟大过年的你 不要那么Lazy](https://open.spotify.com/album/6RH0myJRKcixDYDIwls2gK) | 3:16 | 2024-12-26 | 2025-02-14 |
 | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi) | 3:55 | 2024-06-27 | 2024-07-05 |
 | [回到那天](https://open.spotify.com/track/5Yrm4mEAsl9IkU3GzFNQ6z) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [回到那天](https://open.spotify.com/album/7aBVFpqUnNVl8CfK5PcVF5) | 3:31 | 2024-11-21 | 2025-05-30 |
@@ -1056,6 +1056,7 @@
 | [絕不絕](https://open.spotify.com/track/080IlSWjzRLzNfnXrREgGd) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [絕不絕](https://open.spotify.com/album/53x4QgrGbXltqPtqU6h33a) | 3:46 | 2024-07-25 | 2024-10-04 |
 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康鈞](https://open.spotify.com/artist/5jgY0JNTJ7nWvBHbToKDM3) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 | 2025-08-14 | 2025-09-05 |
 | [老婆 WIFEY](https://open.spotify.com/track/33OF6XmqCZGQW3tPnYx4WM) | [ISMECHANGFU](https://open.spotify.com/artist/75Rf39N3uKbhTpTtTeDnVh) | [老婆 WIFEY](https://open.spotify.com/album/2YZGlj1l8mR9qj5iKr3W4f) | 2:08 | 2025-11-06 |  |
+| [聽你](https://open.spotify.com/track/6uLt2hCnQhjcB4RBOa9NjA) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [交叉路口 Junctions](https://open.spotify.com/album/6shAWWZ2xrAjXgVPk11KZI) | 3:51 | 2025-11-06 |  |
 | [自己](https://open.spotify.com/track/6vWZE2pG3nxdi7pDc4afyd) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [自己](https://open.spotify.com/album/3DVwrr9zO2NwWiH0RYycsM) | 3:02 | 2024-10-24 | 2024-12-20 |
 | [自己 \(SG:SW 2024 優異作曲獎、最高人氣獎\)](https://open.spotify.com/track/5w3urenYOtXqrQitHTZSxA) | [meixuan](https://open.spotify.com/artist/4YtoSwLEvfuE7gFcoo3duS) | [自己 \(SG:SW 2024 優異作曲獎、最高人氣獎\)](https://open.spotify.com/album/2UQes541DxI1LzH71LP6ki) | 3:10 | 2025-01-16 | 2025-03-21 |
 | [自己一個人](https://open.spotify.com/track/7vRvzhbkXkviVczo1UNBKc) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [自己一個人](https://open.spotify.com/album/4msKtvuvLM2xtpeGSfsLLc) | 4:06 | 2025-07-10 | 2025-08-22 |

@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Rana Türkyılmaz
 
-540 songs - 1 day 6 hr 47 min
+540 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Benden Yana](https://open.spotify.com/track/0vkLLptI8J1EEwL8kIXbXW) | [Bozukçalar](https://open.spotify.com/artist/27UnVk35f1D6SLcbvt1DEt) | [Benden Yana](https://open.spotify.com/album/6IxFdZSrOXlgSyl6yTflRr) | 3:12 | 2025-09-12 | 2025-10-01 |
 | [Beni Affet](https://open.spotify.com/track/7crC0yrn33WswLAOpccCVV) | [Odak](https://open.spotify.com/artist/2ATbp7pcNszIzMJDNi8UaC) | [Beni Affet](https://open.spotify.com/album/1x1p8Rqns9jbrIvuzfWUGN) | 4:53 | 2024-11-28 | 2024-12-20 |
 | [Beni Anla](https://open.spotify.com/track/0dTusB8JKDynGkqGkgvLPS) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Beni Anla](https://open.spotify.com/album/3lG4KrGHKQ0RmZ25Zdo60C) | 4:31 | 2024-06-28 | 2024-12-13 |
+| [Beni Hiç Sevmiyor Musun](https://open.spotify.com/track/6FbfH9yRPzpsik3hgWjf7x) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [Kara Kutu](https://open.spotify.com/album/6CS6GeDYF0ywQbX7wSbuu0) | 3:06 | 2025-11-06 |  |
 | [Beni Odana Götür](https://open.spotify.com/track/4vkv90zZzg2ADcm0o5Bio7) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Beni Odana Götür](https://open.spotify.com/album/04bCH97C7th5nTIPrRggUS) | 3:05 | 2025-10-23 |  |
 | [Beni Uslandıran](https://open.spotify.com/track/6ilybSvuvQcCQCo5QwOfuG) | [Furkan Usta](https://open.spotify.com/artist/5P0tauk5zPVxRoay1mvQVg) | [Beni Uslandıran](https://open.spotify.com/album/5mUYo7lBAGQeCH9cNRBvS9) | 3:07 | 2025-09-04 | 2025-09-20 |
 | [Benim Annem Cumartesi](https://open.spotify.com/track/4nnL9DsffF3l1kcQGYv3UM) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Benim Annem Cumartesi](https://open.spotify.com/album/37YBibpnGZKbx5odcnxBUz) | 5:10 | 2024-08-29 | 2024-09-20 |
@@ -433,7 +434,6 @@
 | [Teker Teker \- Rashit Greatest Shits](https://open.spotify.com/track/5XUq3iPEa2oJEx1VUNMzu8) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Teker Teker \(Rashit Greatest Shits\)](https://open.spotify.com/album/35sEDxZ1aPwBXNgfNwtynH) | 3:12 | 2025-04-03 | 2025-04-18 |
 | [Tekrardan](https://open.spotify.com/track/0CRoh5OzdM8OT7GhAQFBNn) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Tekrardan](https://open.spotify.com/album/7EMujW6Y1PeNPGLFji1IlP) | 3:02 | 2025-02-13 |  |
 | [TELAŞK](https://open.spotify.com/track/6BJOpJ3yLeUY5rDCKPCIxg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [TELAŞK](https://open.spotify.com/album/4EE6Qv3NZpEU3j4beiGyrw) | 3:22 | 2024-08-15 | 2024-09-06 |
-| [Track 10](https://open.spotify.com/track/6FbfH9yRPzpsik3hgWjf7x) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Travmalar ve Palavralar](https://open.spotify.com/track/1dWNn3QvzV3qtyRez5oZ3R) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Travmalar ve Palavralar](https://open.spotify.com/album/6nO7PnasRGDCz6JRzET7Fq) | 3:38 | 2025-10-16 |  |
 | [Tövbeler Olsun](https://open.spotify.com/track/7MWjzXxPHI3Y4ExcxNbnpk) | [Murat Kekilli](https://open.spotify.com/artist/1av8oluskzg2mOBajdzRI9) | [Tövbeler Olsun](https://open.spotify.com/album/0JIDhXi2fxhFE0azejZLwb) | 3:12 | 2025-10-16 | 2025-11-07 |
 | [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-28 | 2024-12-20 |

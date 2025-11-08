@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454440,
+      "name": "Call on Me",
+      "url": "https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m"
+    },
+    {
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 454186,
       "name": "Call On Me - Eric Prydz vs. Retarded Funk Mix",
       "url": "https://open.spotify.com/track/4ieGbTX96ZdYxprIR7vBVY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,453 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,449 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 4 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 5 | [So weit weg \(Molekül\)](https://open.spotify.com/track/159fuPmAvLhTE2YyDruzbP) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [So weit weg \(Molekül\)](https://open.spotify.com/album/1mhWLC9dyvkSkIJZPaEfsN) | 2:31 |
 | 6 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
-| 7 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [](https://open.spotify.com/album/null) | 2:43 |
+| 7 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 |
 | 8 | [AUTO](https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [AUTO](https://open.spotify.com/album/66KrOYM5q4DWdEO0Lxk8vq) | 2:51 |
 | 9 | [vielleicht fehlst du mir](https://open.spotify.com/track/6e4ntmP3oc63oA7pt7ixjg) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [vielleicht fehlst du mir](https://open.spotify.com/album/20f16ZQ8Pj9dMxoQMF1Y03) | 2:35 |
 | 10 | [Method Acting](https://open.spotify.com/track/0waRqqT3XMM1UzZkSZGnd3) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Method Acting](https://open.spotify.com/album/2tz2LLDjbdRZXaWsYwRAtA) | 2:47 |

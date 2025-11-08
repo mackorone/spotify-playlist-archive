@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from The Belair Lip Bombs
 
-2,062 songs - 4 day 20 hr 38 min
+2,067 songs - 4 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Dizzy](https://open.spotify.com/track/3Ub91jxLv1QKAa6hUVElf9) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [Dizzy](https://open.spotify.com/album/3HEwXCIMXuF6c3ggpNlWOR) | 2:37 | 2022-06-14 | 2022-06-25 |
 | [Do You Feel It?](https://open.spotify.com/track/0c54axqgjePfHBDx1rCNd0) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Do You Feel It?](https://open.spotify.com/album/4YexdPdPqNbt0wf4PJ8inn) | 2:06 | 2023-03-24 | 2023-06-10 |
 | [Do You Remember The Times](https://open.spotify.com/track/54MoFn8dZpwraIs6k4gqtR) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Do You Remember the Times](https://open.spotify.com/album/71EttYAmo79L1BdHIRo1KM) | 3:44 | 2021-06-07 | 2022-04-12 |
+| [Do You Want Me Around?](https://open.spotify.com/track/4cSSt4oVF80ZCbwwvwOtfp) | [Pretty Jane](https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq) | [Public Intimacy](https://open.spotify.com/album/2vIWpVYIR50J0kyK2b9MYM) | 2:55 | 2025-11-07 |  |
 | [Do You?](https://open.spotify.com/track/2gkvkeDHP6Ek6fiIHcjdbV) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Do You?](https://open.spotify.com/album/4XjrrQbXfmeDOhHJLc49AN) | 3:19 | 2024-05-03 | 2024-07-13 |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-03-29 | 2024-08-24 |
 | [Dog](https://open.spotify.com/track/7klqS8ANxWfwFatHuDsL49) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Dog](https://open.spotify.com/album/7bAF7iBRtYTLSk3kzxRhdH) | 4:03 | 2025-06-27 |  |
@@ -1396,6 +1397,7 @@
 | [Petals](https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Petals](https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq) | 4:01 | 2022-06-10 | 2022-07-02 |
 | [Pharmacist](https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:04 | 2023-03-03 | 2023-04-29 |
 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-06 | 2022-08-13 |
+| [Phoebe's Song](https://open.spotify.com/track/2TYVG6dKbHGb2nA3H7Mlqa) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Phoebe's Song](https://open.spotify.com/album/40wmLOiUiOIz1lRqKqC4KV) | 3:59 | 2025-11-07 |  |
 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 | 2024-01-05 | 2024-04-13 |
 | [Pick Up That Knife](https://open.spotify.com/track/5ZcOoawIU0JU1se1prra62) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Pick Up That Knife](https://open.spotify.com/album/1s702unXFRlxgzQ5uZfAp0) | 4:21 | 2025-07-25 | 2025-09-20 |
 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 | 2025-03-21 | 2025-07-26 |
@@ -1510,6 +1512,7 @@
 | [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-01-19 | 2024-03-02 |
 | [Rushh](https://open.spotify.com/track/1MKgLYh5VC8n1wKyeMe20n) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Rushh](https://open.spotify.com/album/1pKT67ESmAHQsVxdfSRbsx) | 3:10 | 2022-07-01 | 2022-07-30 |
 | [Safeandsound](https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Safeandsound](https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA) | 4:37 | 2025-03-14 | 2025-09-20 |
+| [Sage](https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Liquorice](https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV) | 4:04 | 2025-11-07 |  |
 | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/track/4j8Dz7TdDXoJ2z5zhqEwYX) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/album/6EPQ8xP6KHop02y6abUX3u) | 2:53 | 2021-06-07 | 2022-06-11 |
 | [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 | 2023-04-07 | 2023-07-22 |
 | [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-07 | 2023-04-10 |
@@ -1613,6 +1616,7 @@
 | [Slowly](https://open.spotify.com/track/1bMV1Dw8B2feFudpLAdZQ8) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Slowly](https://open.spotify.com/album/79y81CFMfBcPq0B0qlEjwM) | 3:18 | 2024-11-01 | 2025-03-15 |
 | [Slowly](https://open.spotify.com/track/3METNlutAzAhnNKgzZBA1a) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Slowly](https://open.spotify.com/album/6SvGZhGt46WiZayR9bB1ox) | 3:05 | 2021-06-07 | 2022-04-20 |
 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-06-30 | 2023-09-09 |
+| [Small Town Joan of Arc](https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 3:51 | 2025-11-07 |  |
 | [Smello Coffee](https://open.spotify.com/track/7I0f1ZuxL5hj4zAMhYfhVR) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Smello Coffee](https://open.spotify.com/album/19z5CTEg4X1SN7sSypMuHN) | 4:08 | 2022-04-15 | 2022-06-11 |
 | [Smoking Again](https://open.spotify.com/track/6xwtRUcCmIyC8WdzvEcvs1) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Smoking Again](https://open.spotify.com/album/3Py4Ssqx8NXu3nHZsm3BHz) | 4:16 | 2023-10-20 | 2023-11-04 |
 | [Snake at the Altar](https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Snake at the Altar](https://open.spotify.com/album/5HquJB12UiWeUK0f4T5meF) | 2:58 | 2023-10-27 | 2024-01-20 |
@@ -1713,6 +1717,7 @@
 | [Sunflower](https://open.spotify.com/track/7cgOMe29XE860oSL4vEYQi) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Sunflower](https://open.spotify.com/album/6tVjmW6pnVsd5HgntHDCOe) | 3:27 | 2022-06-25 | 2022-08-27 |
 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 | 2024-11-22 | 2025-02-08 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 | 2022-08-06 |
+| [Super Bowl Sunday](https://open.spotify.com/track/2DhgYThIurQNm0pX2Qch0l) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Super Bowl Sunday](https://open.spotify.com/album/0g9t5WgcuOWDBvtfXG3gZn) | 3:34 | 2025-11-07 |  |
 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 | 2024-07-26 | 2024-10-12 |
 | [Super New China](https://open.spotify.com/track/1V0C0Agg6kJuWfWpUFnL0J) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [CUATRO](https://open.spotify.com/album/4kcUDR8z5GXs5IVh4qzSCL) | 2:59 | 2023-10-13 | 2024-02-10 |
 | [Superbloomer](https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Superbloomer](https://open.spotify.com/album/43M8szELX9et29YildxYbP) | 4:37 | 2023-11-03 | 2024-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! October ambassador: <a href="spotify:artist:6ihYEkLlAWkafYVAvEkMd0">Danique</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,442 likes - 105 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,441 likes - 105 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

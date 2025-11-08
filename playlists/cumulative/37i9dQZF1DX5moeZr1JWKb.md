@@ -2,9 +2,9 @@
 
 ### [Los Gallos](https://open.spotify.com/playlist/37i9dQZF1DX5moeZr1JWKb)
 
-> Estas son las grandes voces del Hip Hop\. Foto: Delfina Dib
+> Estas son las grandes voces del Hip Hop\. Foto: Crudo Means Raw
 
-181 songs - 9 hr 51 min
+183 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Juntas y Revueltas](https://open.spotify.com/track/6fUunh7NpHXcOcpUmmPlOO) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Juntas y Revueltas](https://open.spotify.com/album/0tho8q03ovJdFZZ1n72JQO) | 2:34 | 2024-11-08 | 2024-12-07 |
 | [ke será de mí](https://open.spotify.com/track/2Nbv8V7VtWUohwHmtFBJ9y) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [TOY LOKAZO](https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn) | 2:43 | 2023-08-04 | 2023-08-12 |
 | [KILÓMETRO CERO](https://open.spotify.com/track/5ynzg8MEPGDZ8SP11rxdnA) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [KILÓMETRO CERO](https://open.spotify.com/album/6AWgDlLJ4Fvt9tHhNRBUw3) | 2:13 | 2023-08-11 |  |
-| [La Buena](https://open.spotify.com/track/2yRQQj2Ruy0YmLCR9IxJQg) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [La Buena](https://open.spotify.com/album/4B5tgpCUblPnqMu5qcQ3Si) | 3:10 | 2025-10-24 |  |
+| [La Buena](https://open.spotify.com/track/2yRQQj2Ruy0YmLCR9IxJQg) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [La Buena](https://open.spotify.com/album/4B5tgpCUblPnqMu5qcQ3Si) | 3:10 | 2025-10-24 | 2025-11-08 |
 | [La Escuela](https://open.spotify.com/track/1yNR6HRqPOABW8eusg0qAO) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [La Escuela](https://open.spotify.com/album/2wjVKjLqiuQkEkNBkrM3ib) | 4:35 | 2023-11-10 |  |
 | [La Junta](https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [La Junta](https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV) | 3:54 | 2023-05-26 | 2024-08-24 |
 | [La Llave del Universo](https://open.spotify.com/track/5DFu8B851bdNDpKipQsoFW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:49 | 2023-05-26 | 2024-04-19 |
@@ -111,7 +111,8 @@
 | [NASSY](https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp) | [NASSY](https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo) | 2:22 | 2024-08-30 | 2024-10-05 |
 | [Negras Intenciones](https://open.spotify.com/track/74fj6POMz8SY1HVQEU41Ws) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ) | [Negras Intenciones](https://open.spotify.com/album/4jFYTMgkowk7OgoPVKmyWq) | 2:29 | 2024-02-23 | 2024-04-20 |
 | [Negras Intenciones](https://open.spotify.com/track/7pWK9idSNGg6qUvnwUvBc8) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [La Costa Nostra](https://open.spotify.com/album/5j9SyZb3KSc3iqHJa3AM1S) | 2:29 | 2023-05-26 | 2024-04-19 |
-| [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 | 2023-05-26 |  |
+| [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 | 2023-05-26 | 2025-11-08 |
+| [NO COPIO \- Spotify Sessions](https://open.spotify.com/track/0Ya4so4l8h8K9XZ3qlS9b8) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Crudo Means Raw \- Spotify Sessions](https://open.spotify.com/album/6aL43UMiBePvZrK2aTN6PC) | 3:19 | 2025-11-07 |  |
 | [No Está en Venta](https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2023-05-26 | 2024-04-19 |
 | [No Está En Venta](https://open.spotify.com/track/3w1bk17tZucjuuVE4gPvc4) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [No Está En Venta](https://open.spotify.com/album/2D2Q3l7DjVVcR4fF1n1g1H) | 4:00 | 2024-02-23 |  |
 | [No Se Sobrepase](https://open.spotify.com/track/3FXGe1es7PX9UgBQvLGk2r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [No Se Sobrepase](https://open.spotify.com/album/1u9AhrCsNV1rpokYfUr7zC) | 3:03 | 2023-05-26 | 2024-10-12 |
@@ -184,6 +185,7 @@
 | [Vietnam](https://open.spotify.com/track/1gtAPROOGbBhQ5tF739PWF) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Ce Qei](https://open.spotify.com/artist/6hvy5R4OHFkZBLMgCUqOG1) | [Neo Templo](https://open.spotify.com/album/5IB0A17Q3A0zKgwYoA3U8B) | 2:48 | 2025-10-24 |  |
 | [Volante de Creación](https://open.spotify.com/track/3plVXGSjqy9iS4gwwqo94D) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Volante de Creación](https://open.spotify.com/album/10ROnwGbK5D0xBPCRpD7nP) | 3:09 | 2023-05-26 | 2023-07-01 |
 | [Vuelve Y Juega](https://open.spotify.com/track/169Stxh6ZnHavcCrwFcE1S) | [Anyone/Cualkiera](https://open.spotify.com/artist/1mVVNTPZrLkxfnB7Wc1Xh1), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Go Die](https://open.spotify.com/album/4X4f0vzyh2JQTQwh38XlQ2) | 2:28 | 2023-05-26 |  |
+| [X\-TRA \- Spotify Sessions](https://open.spotify.com/track/0aQWDp9ppbVjZgRd8pFVFh) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Crudo Means Raw \- Spotify Sessions](https://open.spotify.com/album/6aL43UMiBePvZrK2aTN6PC) | 1:59 | 2025-11-07 |  |
 | [Ya fue](https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Ya fue](https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g) | 3:04 | 2025-03-28 |  |
 | [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 | 2023-05-26 | 2025-02-22 |
 | [Zidane](https://open.spotify.com/track/08LuJTtXnSdxPXCWYMxyw7) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0) | [Zidane](https://open.spotify.com/album/494RIxej15bIVBqS2NVMXc) | 3:01 | 2023-05-26 |  |

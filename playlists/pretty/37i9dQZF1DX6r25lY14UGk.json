@@ -1,13 +1,121 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 76866,
+  "num_followers": 76994,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANpXVUXNKijse5uTBYOy06UBm5EK",
+  "snapshot_id": "AAAAAAH5v71wAR06rmLt2FQXcqNwYlX4",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Baby Shark x Doggyland Remix [Do The Shark!] (feat. Snoop Dogg)",
+        "url": "https://open.spotify.com/album/3OUlDogpJxXsJTbgw3Rwb0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        },
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 154434,
+      "name": "Baby Shark x Doggyland Remix [Do The Shark!] (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/3py0jklpnEtsJUxiiMmQer"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Deliver the Music",
+        "url": "https://open.spotify.com/album/4DMYslIGpxcQs7Lf7iKYQX"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 113881,
+      "name": "Deliver the Music",
+      "url": "https://open.spotify.com/track/1KYc8TOjuKXoehgTXU3CWl"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Thank You Heroes (Skye's Music Party)",
+        "url": "https://open.spotify.com/album/2cVc5yZjRAlhlBS3HzVheJ"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 124030,
+      "name": "Thank You Heroes - Skye's Music Party",
+      "url": "https://open.spotify.com/track/1HvJd2Zj7eMncXb4ljRk76"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "The Glittery Trail",
+        "url": "https://open.spotify.com/album/6iK4HzEN1zg6xvqJt6SoDe"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 30588,
+      "name": "The Glittery Trail",
+      "url": "https://open.spotify.com/track/52YR2W820xBQiPFJxpZKQY"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Little Old You",
+        "url": "https://open.spotify.com/album/03l56jZga0CX7974DFt74d"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "duration_ms": 192677,
+      "name": "Little Old You",
+      "url": "https://open.spotify.com/track/1DOxXwapZRaMXYeoCaFQow"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "If You're Thankful and You Know It",
+        "url": "https://open.spotify.com/album/3hDpR9lSKumneCWfeeuZPQ"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 98684,
+      "name": "If You're Thankful and You Know It",
+      "url": "https://open.spotify.com/track/2KHf86tval7jWIqYa7Qjtx"
+    },
     {
       "added_at": "2025-10-31 04:00:31",
       "album": {
@@ -27,6 +135,22 @@
       "duration_ms": 106708,
       "name": "Four Seasons",
       "url": "https://open.spotify.com/track/6rORlgBILt7hESfgmW0YKj"
+    },
+    {
+      "added_at": "2025-10-17 04:00:47",
+      "album": {
+        "name": "Animal Noises are FUN!",
+        "url": "https://open.spotify.com/album/5GBH3MwHz5RmQmo3NDiamu"
+      },
+      "artists": [
+        {
+          "name": "Unka Munka",
+          "url": "https://open.spotify.com/artist/4EJjX7DT5FJC2XUmgtBpXL"
+        }
+      ],
+      "duration_ms": 195496,
+      "name": "Animal Noises are FUN!",
+      "url": "https://open.spotify.com/track/3DgK52iIN6WIBQD6DG7pwm"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -135,22 +259,6 @@
       "duration_ms": 144609,
       "name": "Floor Is Lava",
       "url": "https://open.spotify.com/track/6MjNU15BCzdgQBGLV717Rn"
-    },
-    {
-      "added_at": "2025-10-17 04:00:47",
-      "album": {
-        "name": "Animal Noises are FUN!",
-        "url": "https://open.spotify.com/album/5GBH3MwHz5RmQmo3NDiamu"
-      },
-      "artists": [
-        {
-          "name": "Unka Munka",
-          "url": "https://open.spotify.com/artist/4EJjX7DT5FJC2XUmgtBpXL"
-        }
-      ],
-      "duration_ms": 195496,
-      "name": "Animal Noises are FUN!",
-      "url": "https://open.spotify.com/track/3DgK52iIN6WIBQD6DG7pwm"
     },
     {
       "added_at": "2025-10-17 04:00:47",

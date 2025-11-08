@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,488 likes - 103 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,643 likes - 103 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 47 | [Joy to the World](https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Joy to the World](https://open.spotify.com/album/4vGvjUVOgYlQHh5YK0ObWS) | 2:21 |
 | 48 | [Skating \- Cover](https://open.spotify.com/track/27pVQURWH2HTpuca6nOWRO) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Skating \(Cover\)](https://open.spotify.com/album/1H3FeVZu31Ca6Mq1ndCPMg) | 2:19 |
 | 49 | [Somewhere In My Memory](https://open.spotify.com/track/4mYAvFmB61UBYf2mq8EhJD) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Somewhere In My Memory](https://open.spotify.com/album/1cR6hkvpDDGIkdxikJgQGO) | 2:38 |
-| 50 | [Driving Home for Christmas](https://open.spotify.com/track/5AOxcIbAt8YbNk2Y1HGPaY) | [Saint Swithun](https://open.spotify.com/artist/24skfwQl61Uz1Alg6J7A4Z), [Christmas Piano Instrumental](https://open.spotify.com/artist/6gG2Sish6nE9tfU6pBxXOu), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [Driving Home for Christmas](https://open.spotify.com/album/25uhApTUFy999s8qPyFX6f) | 3:00 |
+| 50 | [Driving Home for Christmas](https://open.spotify.com/track/5AOxcIbAt8YbNk2Y1HGPaY) | [Saint Swithun](https://open.spotify.com/artist/24skfwQl61Uz1Alg6J7A4Z) | [Driving Home for Christmas](https://open.spotify.com/album/25uhApTUFy999s8qPyFX6f) | 3:00 |
 | 51 | [Merry Christmas Darling](https://open.spotify.com/track/5MG6m5v9d4w6Syfsr8X9uB) | [Phoenix Hills](https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY) | [Merry Christmas Darling](https://open.spotify.com/album/2Ldd7oaPiBXIGXB3YUSDjo) | 2:32 |
 | 52 | [A Christmas Miracle](https://open.spotify.com/track/6nLOZrA0Fn1ajDOisfavAP) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [A Christmas Miracle](https://open.spotify.com/album/5FR3Vn7j8uksRq0425hvKs) | 2:17 |
 | 53 | [We Wish You A Merry Christmas](https://open.spotify.com/track/33oWrOSdm08XaAUAjexoQB) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [We Wish You A Merry Christmas](https://open.spotify.com/album/4eLVHkM1ou5ynSKdBtXu82) | 2:12 |

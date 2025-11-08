@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,156 songs - 3 day 12 hr 12 min
+1,157 songs - 3 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,7 +699,7 @@
 | [One Heart One Soul](https://open.spotify.com/track/0XJ91I6smUYRzRCGbU2N4b) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:56 | 2021-12-17 | 2022-05-28 |
 | [One Night in Tokyo](https://open.spotify.com/track/2TZtQt10Ajm3wB4MoqluZj) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:07 | 2022-07-08 | 2022-08-20 |
 | [One Night in Tokyo](https://open.spotify.com/track/4ug7b6iy2tYn3OryBRrGkH) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [One Night in Tokyo](https://open.spotify.com/album/0N6GRmCIEbki82Eitec7e0) | 3:07 | 2021-12-17 | 2022-07-29 |
-| [One Of Us Will Be Next](https://open.spotify.com/track/35bKgNh5mdHvtOsHUBHgEW) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [One Of Us Will Be Next](https://open.spotify.com/album/3CZHmf17F6Q58OMiMaA2u9) | 4:21 | 2025-10-03 |  |
+| [One Of Us Will Be Next](https://open.spotify.com/track/35bKgNh5mdHvtOsHUBHgEW) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [One Of Us Will Be Next](https://open.spotify.com/album/3CZHmf17F6Q58OMiMaA2u9) | 4:21 | 2025-10-03 | 2025-11-08 |
 | [One with the Gun](https://open.spotify.com/track/3aaWmV0z0oQqibw4xEViXW) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [One with the Gun](https://open.spotify.com/album/2NVNMjbOnObqLYkjIB0uao) | 3:10 | 2021-12-29 | 2022-07-29 |
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/2y7VOZpPlP8kZHG764vrzQ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/0T3R63wtZ2N4OjkcohYeqO) | 3:02 | 2022-03-25 | 2022-04-17 |
 | [Opaline](https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Devoured by the Mouth of Hell](https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l) | 3:21 | 2024-11-22 |  |
@@ -1145,6 +1145,7 @@
 | [Wolves Of War](https://open.spotify.com/track/5ciIVxJBbI45h6wvLKxFT7) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Interludium \(Deluxe Version\)](https://open.spotify.com/album/6GT4LxMljVb8iEe4G3vgJk) | 3:58 | 2023-04-14 | 2023-07-16 |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-03-08 | 2024-07-13 |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-07-25 |
+| [Would You Walk With Me Through Hell](https://open.spotify.com/track/7i1Z0H568DE25JZTGkCQeB) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [Would You Walk With Me Through Hell](https://open.spotify.com/album/4ZPrSeieiq4GpCgUifuuY4) | 4:35 | 2025-11-07 |  |
 | [Wrath \(Bring Fire\)](https://open.spotify.com/track/3BWtsGjISgoXVesKCpEA8Q) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Wrath \(Bring Fire\)](https://open.spotify.com/album/2ZzijYl8kDv92rHYPXu1dc) | 3:33 | 2025-05-02 | 2025-07-03 |
 | [WRONG END OF THE KNIFE](https://open.spotify.com/track/5HQVggVFebVhn765vhWz7J) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [...'Til The World's Blind](https://open.spotify.com/album/7c2mlvKNDXM8Y2AnPg6azN) | 3:32 | 2024-11-22 | 2025-02-01 |
 | [Year Of The Dragon](https://open.spotify.com/track/2dybzipzkpcPA4DZZkLnPJ) | [All For Metal](https://open.spotify.com/artist/7pwIx2j4SX0cLAgPrIkv27) | [Gods Of Metal \(Year Of The Dragon\)](https://open.spotify.com/album/0PTbTBttAKA3cOx9Bnumdv) | 3:18 | 2024-08-23 | 2024-12-16 |

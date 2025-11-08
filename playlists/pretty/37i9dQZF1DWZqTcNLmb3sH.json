@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kantara : Chapter 1",
-  "num_followers": 65412,
+  "num_followers": 65536,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACGQxfoYyaheodEoUlTy6Vfp+n0t",
+  "snapshot_id": "AAAAAE9e4MJPQs8KsfY6PIuZazC2zBiW",
   "tracks": [
     {
       "added_at": "2025-10-10 16:20:11",
@@ -93,6 +93,30 @@
       "url": "https://open.spotify.com/track/5RnYzMwHMlV8RBxGsd6S3c"
     },
     {
+      "added_at": "2025-11-07 11:52:03",
+      "album": {
+        "name": "Chikiri Chikiri (From \"Peddi\") [KANNADA]",
+        "url": "https://open.spotify.com/album/3hplpn69teVBpqRHXst7Tv"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 273036,
+      "name": "Chikiri Chikiri (From \"Peddi\") [KANNADA]",
+      "url": "https://open.spotify.com/track/6VFnycWPc7lTOPqzMsNygy"
+    },
+    {
       "added_at": "2025-11-04 10:08:48",
       "album": {
         "name": "Bloody Love (From \"Cult\")",
@@ -115,6 +139,34 @@
       "duration_ms": 242456,
       "name": "Bloody Love (From \"Cult\")",
       "url": "https://open.spotify.com/track/5YlJdr1ncaNBCUW2Idym1J"
+    },
+    {
+      "added_at": "2025-11-07 09:35:28",
+      "album": {
+        "name": "Kaalji Nakko Karo (From \"Udaala\")",
+        "url": "https://open.spotify.com/album/1tIQMujt2kiZySPjvHHsbB"
+      },
+      "artists": [
+        {
+          "name": "Chetan - Daavy",
+          "url": "https://open.spotify.com/artist/0VVvrLAbnAzjjDfJ19PmyD"
+        },
+        {
+          "name": "Balu Belagundi",
+          "url": "https://open.spotify.com/artist/0ka7DD1vGnXu92ZrhiKXUF"
+        },
+        {
+          "name": "Srusti Shamanur",
+          "url": "https://open.spotify.com/artist/6Ca8wqqBIZeNmiAagEjNrf"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 194273,
+      "name": "Kaalji Nakko Karo (From \"Udaala\")",
+      "url": "https://open.spotify.com/track/5zBtlNTFOAMd0ivF8FxhtK"
     },
     {
       "added_at": "2025-11-04 10:12:45",

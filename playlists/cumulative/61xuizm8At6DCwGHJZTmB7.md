@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-660 songs - 2 day 15 hr 46 min
+661 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 | 2025-07-11 |  |
 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 | 2022-05-27 | 2023-04-15 |
 | [How Great Is The Greatness Of God \- Live](https://open.spotify.com/track/01CUfTSNq5ezINj1MyGuBr) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [How Great Is The Greatness Of God \(Live\)](https://open.spotify.com/album/1QSwnSoqgAPTq3T1vmaRMK) | 3:44 | 2024-10-18 |  |
+| [How Great Thou Art](https://open.spotify.com/track/36BSCJokEke5nqVvGxTiJs) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [HOLY](https://open.spotify.com/album/3UWJtNJgw056wOIQzWhKKT) | 16:47 | 2025-11-07 |  |
 | [How Many Times](https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Worldwide Revival \(Pt\. 1\)](https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r) | 3:12 | 2024-07-19 | 2025-06-28 |
 | [How You Do It](https://open.spotify.com/track/1S9WH9pMtICzkYvmsjH1wH) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc) | [How You Do It](https://open.spotify.com/album/4E1ib0EKYCeMIcMzFs3SFI) | 4:03 | 2025-07-18 |  |
 | [Hurry \- Live](https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Revival Nights \(Pt\. 2\) \[Live\]](https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21) | 6:30 | 2022-02-17 | 2022-06-10 |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,138 likes - 200 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,117 likes - 200 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bubble Tea](https://open.spotify.com/track/7AITmTmsWKNhSHfEzFj0u2) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [BATIQ BABES](https://open.spotify.com/artist/7h0pQYA0kjWq5wBPPZEGYy) | [Round Two](https://open.spotify.com/album/7ishPIDroRbuu9SWO4cy5M) | 4:03 |
-| 2 | [The Curse \(Blood Of An Innocent Is Spilled\) \- Remix](https://open.spotify.com/track/6MPLwGUU6XDWGAb5nvZe08) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Shhau](https://open.spotify.com/artist/5lGmqgqW47rK8j5h89o493) | [The Curse \(Blood Of An Innocent Is Spilled\) \[Remix\]](https://open.spotify.com/album/4ELWQoaKlRfyTn3DU6ThV5) | 6:35 |
-| 3 | [Dream Hands](https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Tristan Cappel](https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4) | [Dream Hands](https://open.spotify.com/album/0tCca2CrrAxPesHzRMa5vF) | 3:10 |
-| 4 | [Chicago Four](https://open.spotify.com/track/0ItbJ3oUSk9eca9cLaPiAB) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj) | [Chicago Four](https://open.spotify.com/album/6nGxNNR7dnQ1PWxyOn7FcV) | 3:33 |
-| 5 | [Parallel](https://open.spotify.com/track/19FzgTmZaepdeXBqHm87VD) | [DAWSON](https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02), [Lewis McCallum](https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn) | [Parallel](https://open.spotify.com/album/01Gi66AgxBlxs47qLBKOJg) | 2:52 |
-| 6 | [Resonance](https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Resonance](https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y) | 3:58 |
-| 7 | [verdigris](https://open.spotify.com/track/1xRLIZjXpB1QhPs1uYvQAK) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [verdigris](https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o) | 3:20 |
+| 1 | [Avalon](https://open.spotify.com/track/7s15F9HPVogG0TlxnsIubI) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I) | [Avalon](https://open.spotify.com/album/5GuZG5gMmFkcV142gM2SvI) | 2:33 |
+| 2 | [Bubble Tea](https://open.spotify.com/track/7AITmTmsWKNhSHfEzFj0u2) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [BATIQ BABES](https://open.spotify.com/artist/7h0pQYA0kjWq5wBPPZEGYy) | [Round Two](https://open.spotify.com/album/7ishPIDroRbuu9SWO4cy5M) | 4:03 |
+| 3 | [The Curse \(Blood Of An Innocent Is Spilled\) \- Remix](https://open.spotify.com/track/6MPLwGUU6XDWGAb5nvZe08) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Shhau](https://open.spotify.com/artist/5lGmqgqW47rK8j5h89o493) | [The Curse \(Blood Of An Innocent Is Spilled\) \[Remix\]](https://open.spotify.com/album/4ELWQoaKlRfyTn3DU6ThV5) | 6:35 |
+| 4 | [Dream Hands](https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Tristan Cappel](https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4) | [Dream Hands](https://open.spotify.com/album/0tCca2CrrAxPesHzRMa5vF) | 3:10 |
+| 5 | [Chicago Four](https://open.spotify.com/track/0ItbJ3oUSk9eca9cLaPiAB) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj) | [Chicago Four](https://open.spotify.com/album/6nGxNNR7dnQ1PWxyOn7FcV) | 3:33 |
+| 6 | [Parallel](https://open.spotify.com/track/19FzgTmZaepdeXBqHm87VD) | [DAWSON](https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02), [Lewis McCallum](https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn) | [Parallel](https://open.spotify.com/album/01Gi66AgxBlxs47qLBKOJg) | 2:52 |
+| 7 | [Resonance](https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Resonance](https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y) | 3:58 |
 | 8 | [high vibrations](https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [high vibrations](https://open.spotify.com/album/7icKH7oDXCA2m6V6tks0XO) | 5:35 |
 | 9 | [32\. Dip \(108\)](https://open.spotify.com/track/2AKRp397r2BIbTzrOyTJdd) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [32\. Dip \(108\)](https://open.spotify.com/album/4mVYlX9obxUJAiwzvPgJkb) | 2:48 |
 | 10 | [Eclipse the Moon](https://open.spotify.com/track/0bvuAdxKXmf9FGA4vb37hK) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Eclipse the Moon](https://open.spotify.com/album/1HLQWCaeOjWfHfRYPmkoGu) | 3:27 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `AAAAAG/IQbalnmrmMCYCRtRGsVj6KIKT`
+Snapshot ID: `AAAAABtwFA2dS99tQp6TADUfLXcbU1SL`

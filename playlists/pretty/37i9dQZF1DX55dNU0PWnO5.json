@@ -1,13 +1,29 @@
 {
   "description": "Jazzy blips and blops. Cover: Theo Croker",
-  "num_followers": 581138,
+  "num_followers": 581117,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/IQbalnmrmMCYCRtRGsVj6KIKT",
+  "snapshot_id": "AAAAABtwFA2dS99tQp6TADUfLXcbU1SL",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:30",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/5GuZG5gMmFkcV142gM2SvI"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/7s15F9HPVogG0TlxnsIubI"
+    },
     {
       "added_at": "2025-10-24 04:00:02",
       "album": {
@@ -123,26 +139,6 @@
       "duration_ms": 238794,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY"
-    },
-    {
-      "added_at": "2025-05-16 04:00:08",
-      "album": {
-        "name": "verdigris",
-        "url": "https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o"
-      },
-      "artists": [
-        {
-          "name": "SERAPHINE NOIR",
-          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
-        },
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        }
-      ],
-      "duration_ms": 200949,
-      "name": "verdigris",
-      "url": "https://open.spotify.com/track/1xRLIZjXpB1QhPs1uYvQAK"
     },
     {
       "added_at": "2025-03-21 04:00:38",

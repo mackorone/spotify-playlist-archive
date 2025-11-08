@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Ledisi",
-  "num_followers": 161936,
+  "num_followers": 161996,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL",
+  "snapshot_id": "AAAAAIWr/kJy7JkH4nT6CiaY4mrhUtVC",
   "tracks": [
+    {
+      "added_at": "2025-11-07 05:00:29",
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 276589,
+      "name": "The Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR"
+    },
     {
       "added_at": "2025-10-24 04:00:02",
       "album": {
@@ -1583,22 +1599,6 @@
       "duration_ms": 228840,
       "name": "Without A Chance",
       "url": "https://open.spotify.com/track/0VUEGVGAi8GaHRCkxBM4ww"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "Summer Me, Winter Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Kra5Q1eSEG9RKBfeaVtId"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 273711,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/1DM6Y08ZEwciBCfM9DuGck"
     },
     {
       "added_at": "2024-04-12 04:01:00",

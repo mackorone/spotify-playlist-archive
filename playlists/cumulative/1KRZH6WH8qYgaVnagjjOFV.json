@@ -2183,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "SOUL ON FIRE",
+        "url": "https://open.spotify.com/album/76EjH70Arb6rsnXRQfA05r"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117100,
+      "name": "SOUL ON FIRE",
+      "url": "https://open.spotify.com/track/4ku6qDhFfNaCsEwP9FKZGx"
+    },
+    {
+      "album": {
         "name": "Sound Of Heaven",
         "url": "https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9"
       },

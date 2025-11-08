@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Masego and music for your soul.",
+  "description": "Moonchild and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 300006,
       "name": "2 High",
       "url": "https://open.spotify.com/track/3wJayRoqU20jGZ7XmjCM3L"
@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Is There Anybody Home? (Part 2)",
+        "url": "https://open.spotify.com/album/2Oz6kdTU95cJ6hm39moLER"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164306,
+      "name": "Act of God / Force Majeure",
+      "url": "https://open.spotify.com/track/3mGGgCB6VwLoA4WvI5X0xs"
+    },
+    {
+      "album": {
         "name": "act right",
         "url": "https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
@@ -4517,6 +4535,28 @@
     },
     {
       "album": {
+        "name": "Cookin' The Books",
+        "url": "https://open.spotify.com/album/7g8umHHch7OK2x7tuWLJOp"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Stella Angelico",
+          "url": "https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240733,
+      "name": "Brighter (feat. Stella Angelico)",
+      "url": "https://open.spotify.com/track/0Ad2T7UWsd1x4Orlb5DV9Z"
+    },
+    {
+      "album": {
         "name": "Broadway",
         "url": "https://open.spotify.com/album/2FrItGjAv1zRFUF8rKmYag"
       },
@@ -5089,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "Candycrush",
+        "url": "https://open.spotify.com/album/4lzlcepHrqqSFLjJXBgUM1"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Candycrush",
+      "url": "https://open.spotify.com/track/3vGaZLl90LVC8ghGEb1IV9"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Be Replaced",
         "url": "https://open.spotify.com/album/1Nza8gymgRpQ4fpaeVcHc9"
       },
@@ -5580,7 +5638,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 246146,
       "name": "Children of the Baked Potato",
       "url": "https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b"
@@ -10751,6 +10809,32 @@
     },
     {
       "album": {
+        "name": "Strong / For Yourself",
+        "url": "https://open.spotify.com/album/6z24gEgV9GAWPQ9M9lsbWd"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Chris Dave",
+          "url": "https://open.spotify.com/artist/47QVivvsr75CIPVaeg9Puf"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258838,
+      "name": "For Yourself",
+      "url": "https://open.spotify.com/track/1qVwvsoPI8prmUjoIW6DV2"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc"
       },
@@ -11547,6 +11631,24 @@
     },
     {
       "album": {
+        "name": "ghosted",
+        "url": "https://open.spotify.com/album/6NNQuKvbvvTzPYsZRwn1Ma"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "ghosted",
+      "url": "https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb"
+    },
+    {
+      "album": {
         "name": "Princess Forever",
         "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
       },
@@ -11780,7 +11882,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 210026,
       "name": "Go Now",
       "url": "https://open.spotify.com/track/6rXnPIUlGK2IFH6FfnAiFV"
@@ -12850,7 +12952,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 203326,
       "name": "Happy Survival (feat. Khruangbin)",
       "url": "https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la"
@@ -13979,6 +14081,24 @@
     },
     {
       "album": {
+        "name": "Human Mind",
+        "url": "https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192459,
+      "name": "Human Mind",
+      "url": "https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN"
       },
@@ -14470,6 +14590,32 @@
       "duration_ms": 148004,
       "name": "I Still Need Love",
       "url": "https://open.spotify.com/track/0Kxzo7sUXDDlJoWiLkBucY"
+    },
+    {
+      "album": {
+        "name": "I Still Need Love 2",
+        "url": "https://open.spotify.com/album/5k8TVXm9BY6jhn8NkNf3el"
+      },
+      "artists": [
+        {
+          "name": "The Twilite Tone",
+          "url": "https://open.spotify.com/artist/5EN5PSLo1TWbgFTQwlxKmz"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248026,
+      "name": "I Still Need Love 2",
+      "url": "https://open.spotify.com/track/6kI8kCr1vgO1Xb6nz2QGiU"
     },
     {
       "album": {
@@ -19822,6 +19968,24 @@
       "duration_ms": 193333,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/4t3xe8J6wX6tQZO6AC1I6N"
+      },
+      "artists": [
+        {
+          "name": "GeeJay",
+          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/2nwrnSPwGVMuU2pAbw9m58"
     },
     {
       "album": {
@@ -26984,7 +27148,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 161763,
       "name": "sound(e)scape",
       "url": "https://open.spotify.com/track/4VyC4YNRxOCHH0RGAFbuin"
@@ -28636,7 +28800,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 258946,
       "name": "Taka",
       "url": "https://open.spotify.com/track/5kMHEF0XECJEpgrJaDohqv"
@@ -29517,6 +29681,24 @@
     },
     {
       "album": {
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "album": {
         "name": "The Pressure",
         "url": "https://open.spotify.com/album/6S537c2GkBxgh9Pd0QSpn9"
       },
@@ -30080,7 +30262,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-08",
       "duration_ms": 290666,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"

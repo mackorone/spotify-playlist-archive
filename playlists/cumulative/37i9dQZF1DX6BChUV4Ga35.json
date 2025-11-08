@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Animal Noises are FUN!",
+        "url": "https://open.spotify.com/album/5GBH3MwHz5RmQmo3NDiamu"
+      },
+      "artists": [
+        {
+          "name": "Unka Munka",
+          "url": "https://open.spotify.com/artist/4EJjX7DT5FJC2XUmgtBpXL"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195496,
+      "name": "Animal Noises are FUN!",
+      "url": "https://open.spotify.com/track/3DgK52iIN6WIBQD6DG7pwm"
+    },
+    {
+      "album": {
         "name": "Blippi Tunes, Vol. 3",
         "url": "https://open.spotify.com/album/6TkfhNkfCi1WKoXIhcJOII"
       },

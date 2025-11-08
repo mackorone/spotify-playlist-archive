@@ -4,40 +4,40 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Lemony Rug
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,708 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,716 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/1s3w1ze8uQWSgNc9ZXc6rf) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [1000 Pieces](https://open.spotify.com/track/1s3w1ze8uQWSgNc9ZXc6rf) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Uppercut](https://open.spotify.com/album/5UdNNstyCjoxQWebmfdFWS) | 2:59 |
 | 2 | [Gleichgewicht](https://open.spotify.com/track/0dPx0rIo9u1qKI8dlerZxI) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Gleichgewicht](https://open.spotify.com/album/6RgNl2YoD9BlM59TpsMuqe) | 2:53 |
 | 3 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
 | 4 | [The World \(AR\)](https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [The World \(AR\)](https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6) | 3:47 |
-| 5 | [Track 14](https://open.spotify.com/track/1K54QSGXlDIQsMVCBTgiO2) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [follow the sun](https://open.spotify.com/track/1K54QSGXlDIQsMVCBTgiO2) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [everyone, outside \(deluxe\)](https://open.spotify.com/album/7yLzVmA46Pq0yluVHBrPgc) | 3:36 |
 | 6 | [Desire](https://open.spotify.com/track/0CIhZRnWVxg6HgFk7Ie5tl) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Desire](https://open.spotify.com/album/2Tts0G0f3H0uAh16heeuhv) | 3:05 |
 | 7 | [WONDERFUL](https://open.spotify.com/track/2KlnNibs8vbh1ulZ7124vI) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY](https://open.spotify.com/album/1XCxwBhOgN3o8E6YSkWZk2) | 3:22 |
 | 8 | [Goodnight Tonight](https://open.spotify.com/track/2SOOBnWrWkLAhWO6OcG6GH) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Goodnight Tonight](https://open.spotify.com/album/2aUACZUKbeEIdxwjPsDnhd) | 3:55 |
-| 9 | [Small Town Joan of Arc](https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [](https://open.spotify.com/album/null) | 3:51 |
+| 9 | [Small Town Joan of Arc](https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 3:51 |
 | 10 | [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 |
 | 11 | [The God of Lying \(feat\. IDLES\)](https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The God Of Lying \(feat\. IDLES\)](https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho) | 3:09 |
-| 12 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [](https://open.spotify.com/album/null) | 5:38 |
+| 12 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 |
 | 13 | [Monster](https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:00 |
 | 14 | [My Favourite Batman](https://open.spotify.com/track/4yqVA4DVe9dX8gvp9kWZMG) | [Agassi](https://open.spotify.com/artist/4hwyUVEeFkzvnGJXyU0Qti) | [My Favourite Batman](https://open.spotify.com/album/0CTRXqpcC0pH5Fk4Bt4EbC) | 1:52 |
 | 15 | [Broken Time](https://open.spotify.com/track/1CzMzrCEvKt9KonxHj9Ehw) | [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [Broken Time](https://open.spotify.com/album/5VOWV3Uk7m3blMc9dx9eaR) | 2:45 |
-| 16 | [Juice](https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [](https://open.spotify.com/album/null) | 4:29 |
+| 16 | [Juice](https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Night Light](https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR) | 4:29 |
 | 17 | [Home](https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Home](https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH) | 1:59 |
 | 18 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
 | 19 | [Pajarito](https://open.spotify.com/track/7KkE9CPv39UKKphAnRMsEs) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Pajarito](https://open.spotify.com/album/59kNzYG2XC92tcsyQI2gPz) | 1:40 |
-| 20 | [Track 1](https://open.spotify.com/track/3w3dmuLrKGTMg7ce3O4FYc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [Something Casual](https://open.spotify.com/track/3w3dmuLrKGTMg7ce3O4FYc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Something Casual](https://open.spotify.com/album/1l63h2CYnKWPNu7Z2OiWBH) | 3:29 |
 | 21 | [Sunflower](https://open.spotify.com/track/5kyXEW5O2nyZaF70NABISJ) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Sunflower](https://open.spotify.com/album/4ixDSfWrVEmn2gMsHwF3MH) | 4:12 |
 | 22 | [Terrified](https://open.spotify.com/track/4iumrJXLqSLXtEZFu3shak) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Terrified](https://open.spotify.com/album/5pFXRj7a16k8Pjy12UMrzC) | 3:43 |
 | 23 | [Drive](https://open.spotify.com/track/3DZ6lJZq2bWrfZ3sZGcLzc) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Drive](https://open.spotify.com/album/3d0vmFLZpMBd4SO9SM9d4l) | 2:46 |
 | 24 | [don't call me](https://open.spotify.com/track/4w2HzPpHkzeD0tGiNvtKWP) | [SCHRAMM](https://open.spotify.com/artist/15eXysq80jazu6dKxed7BU) | [don't call me](https://open.spotify.com/album/1aWgJL7NYFg7fIi33ORNVI) | 3:18 |
-| 25 | [Candle](https://open.spotify.com/track/1nVShgCXxO3N7CAXoVNCdp) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [](https://open.spotify.com/album/null) | 3:06 |
+| 25 | [Candle](https://open.spotify.com/track/1nVShgCXxO3N7CAXoVNCdp) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [COSPLAY](https://open.spotify.com/album/2y9KTl1MXK8jgH40zwh11X) | 3:06 |
 | 26 | [desperate eyes](https://open.spotify.com/track/6stiell19WTK49tscdoYgl) | [emi](https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85) | [desperate eyes](https://open.spotify.com/album/1zaMfWaDGNpWIguuJm0WJ1) | 2:34 |
-| 27 | [Sage](https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [](https://open.spotify.com/album/null) | 4:04 |
+| 27 | [Sage](https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Liquorice](https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV) | 4:04 |
 | 28 | [Idle Hands](https://open.spotify.com/track/6hIa3mchluRTGllmMZWX1E) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Idle Hands](https://open.spotify.com/album/05mS63sM2Zt7oVd2BPznCk) | 3:05 |
 | 29 | [Journey](https://open.spotify.com/track/0zY0unabSzSlEQixscOsod) | [Rooftop Sailors](https://open.spotify.com/artist/6mb1RaofmS4hb1JhSZ19PY) | [CHROMASONIC](https://open.spotify.com/album/0c6zdiFzs3Nll6XQyYe1zS) | 3:43 |
-| 30 | [Track 4](https://open.spotify.com/track/4cpbe6NFv4D6ZhhseFxzbn) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 30 | [Emily](https://open.spotify.com/track/4cpbe6NFv4D6ZhhseFxzbn) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Killer](https://open.spotify.com/album/42fS5G4YXzoi4iz2pztDLP) | 3:43 |
 | 31 | [In My Heart \(The Rent is Free\)](https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB) | 4:33 |
 | 32 | [Remember](https://open.spotify.com/track/6imLYLEQJ8FUEw56IXln8g) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Remember](https://open.spotify.com/album/6rw9nyRdzT8q3iLZBkvsL7) | 3:23 |
 | 33 | [Find Some Time](https://open.spotify.com/track/1YOcbA76G7mP0qH2g40039) | [Baywaves](https://open.spotify.com/artist/7kULJWiOy0sxftIcc0cFHk) | [What We Came For](https://open.spotify.com/album/4kB5VThpP9s3Oj2MitlPvN) | 3:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Ain't Nobody Making Me High](https://open.spotify.com/track/3MneCEeEwmHI6yG4EucrNI) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Shy Bairns Get Nowt](https://open.spotify.com/album/7pp7ITOUmw1nU7pKK21boY) | 3:18 |
 | 90 | [Under the Radar](https://open.spotify.com/track/1z6X1Ivh5sS0B5PiICf7P3) | [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Under the Radar](https://open.spotify.com/album/46XrLCJxmys1swpt0kOYhD) | 3:22 |
 
-Snapshot ID: `AAAAAKYeP/U+qPZdBhvFYXDS3gzsP2oK`
+Snapshot ID: `AAAAAKtmSLAR0YlNhnMaAwEjt41aeuA0`

@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
 
-888 songs - 1 day 22 hr 59 min
+889 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [READY STEADY](https://open.spotify.com/track/1XKGvkaS5Ubc2fOzdY5KbF) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [READY STEADY](https://open.spotify.com/album/1SwEQbjcuC9zfWlsvShmzZ) | 3:05 | 2024-12-20 | 2025-03-10 |
 | [Real OG](https://open.spotify.com/track/5BXyxtygessa26UMpTB3Gf) | [Kriss Reeve](https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS) | [Real OG](https://open.spotify.com/album/4NXKhfYIiyMPkWXFLxXKEw) | 3:03 | 2025-04-27 | 2025-07-13 |
 | [Reasons](https://open.spotify.com/track/07wxoKnyPZnrRtzcRX917e) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Reasons](https://open.spotify.com/album/3gYJNB9aT8weYejDegHbTX) | 3:18 | 2024-01-15 | 2024-01-30 |
+| [Rebaixado](https://open.spotify.com/track/5Vgjfoe3uNcWuW91AOl8xO) | [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [Rebaixado](https://open.spotify.com/album/4v0PuFcjpicEewZUJwWGaJ) | 3:14 | 2025-11-08 |  |
 | [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 | 2024-08-25 | 2024-10-14 |
 | [Reload](https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg) | [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [Reload](https://open.spotify.com/album/5PbhhWEN3BsplhcFBTDIAH) | 3:52 | 2023-12-31 | 2024-01-09 |
 | [Reposado](https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3) | [OKAYVAL](https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ) | [Reposado](https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS) | 3:02 | 2025-07-18 | 2025-10-05 |

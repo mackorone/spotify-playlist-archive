@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: MELODOWNZ
 
-1,370 songs - 2 day 15 hr 51 min
+1,371 songs - 2 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -936,6 +936,7 @@
 | [PRETTY](https://open.spotify.com/track/3j9dzoKjSbYAopfrwkXFmn) | [Fedi](https://open.spotify.com/artist/1wxgPiEj3LckS64IQSkzNj) | [PRETTY](https://open.spotify.com/album/1FJJkXw7T488YeO10c6191) | 1:59 | 2023-03-30 | 2023-06-30 |
 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 | 2023-10-19 | 2024-02-16 |
 | [Pretty Lies](https://open.spotify.com/track/3eoC0wfs5yy14YeHW98mje) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Pretty Lies](https://open.spotify.com/album/7siS5C7R6cB8ysAHpXxink) | 2:31 | 2023-10-05 | 2024-03-15 |
+| [prIDe](https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [In A Matter of Time](https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H) | 2:35 | 2025-11-06 |  |
 | [PRIDE \- EPISODE 2](https://open.spotify.com/track/5N32A33Xtf216gEBTUgnMr) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [PRIDE \(EPISODE 2\)](https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu) | 2:15 | 2024-05-16 | 2024-09-13 |
 | [Prisoner](https://open.spotify.com/track/6OsKteNYckuH9PzkPH8ijU) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [KILL THE DEAD](https://open.spotify.com/album/28ZkakRoyR48ojYgVugcM8) | 2:54 | 2024-08-08 | 2024-11-08 |
 | [Proper](https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Sinning Winning Living](https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk) | 3:22 | 2023-10-05 | 2024-02-16 |
@@ -1051,6 +1052,7 @@
 | [SHAKE \(feat\. BLESSED\)](https://open.spotify.com/track/2ujRJ2xKrKUutv1HJbbnwf) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Spriteschool Vol\. 2](https://open.spotify.com/album/5PJjXIWGJZrYzfOtt15ZGw) | 3:14 | 2022-09-08 | 2022-11-11 |
 | [She](https://open.spotify.com/track/5aBrc1XB2jd9tltcJhQxl4) | [Exl](https://open.spotify.com/artist/6j5lxsz5UsEHXTgkwVC4ie) | [She](https://open.spotify.com/album/50SSqSW0Q2Y76Zknrrd90A) | 3:36 | 2025-03-06 | 2025-05-23 |
 | [she bad](https://open.spotify.com/track/1Ze5qnuu2BzvaELenO9srs) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [she bad](https://open.spotify.com/album/1HizeAlq9MSJIF89gQ7bAd) | 2:48 | 2024-12-19 | 2025-01-17 |
+| [She Will \(with Day1\)](https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [She Will \(with Day1\)](https://open.spotify.com/album/4s3oBsSVqaIkNLvSrts2Ob) | 3:44 | 2025-11-07 |  |
 | [Shelly](https://open.spotify.com/track/1BN1dmG0qmEDUcGJHhUiRH) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [Shelly](https://open.spotify.com/album/3QZBubJYumSQsFMuvnlFm9) | 2:29 | 2022-03-21 | 2022-06-10 |
 | [Sheplife \- P\-Money Remix](https://open.spotify.com/track/4m4fpOa4tHET7FZExQkPOn) | [Briggs](https://open.spotify.com/artist/7w4WTXFJlYzm8Zv90ilzfu), [P\-Money](https://open.spotify.com/artist/2Q13jBmo9llBTWdgnZMzyS) | [Sheplife \- 10th Anniversary](https://open.spotify.com/album/0iIKFKdkyJQvIEwnkFFjpc) | 3:30 | 2024-08-23 | 2024-10-18 |
 | [SHININ' \(Feat\. Raf Receipt\)](https://open.spotify.com/track/3FrExUhyBL0p9qKL092BbA) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [SHININ' \(Feat\. Raf Receipt\)](https://open.spotify.com/album/5JOL0dZtr7PTxQx4G1oNRA) | 1:56 | 2024-04-19 | 2024-08-09 |
@@ -1220,7 +1222,6 @@
 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 | 2025-10-23 |  |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 2](https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |
@@ -1355,7 +1356,7 @@
 | [XMAS TRAP](https://open.spotify.com/track/3HQJsvOpRLEFHZzxJHUlYg) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [XMAS TRAP](https://open.spotify.com/album/3OuCwKjvGrK5rYEeHus3kZ) | 1:59 | 2023-11-23 | 2024-04-26 |
 | [Y U MAD](https://open.spotify.com/track/2Yf3r73NcKFFUCq7wndpy1) | [Nina Lee Kisses](https://open.spotify.com/artist/6FKYu75Gp3JHZte2LUVynB) | [DREAMVIEW](https://open.spotify.com/album/6cBcZcxez5xrax7EujLjKZ) | 2:28 | 2022-06-09 | 2022-07-01 |
 | [Y.F.S](https://open.spotify.com/track/29Q12mmRY6wLCIn3NfKv2I) | [Saph](https://open.spotify.com/artist/4Nd10hN4v1KNKpCj8vHpOd), [Raggadat Cris](https://open.spotify.com/artist/6i4nnmw5KnkFqmLEH7QkJJ) | [Y.F.S](https://open.spotify.com/album/17cLV6EqgL993Ywe6BHgG7) | 2:28 | 2023-03-09 | 2023-08-18 |
-| [Ya Heard](https://open.spotify.com/track/74jZDbTiHgF0Z0aH6BRM0H) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Ya Heard](https://open.spotify.com/album/1F9b1dOb07h3GqSyQMtzkm) | 2:20 | 2025-10-09 |  |
+| [Ya Heard](https://open.spotify.com/track/74jZDbTiHgF0Z0aH6BRM0H) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Ya Heard](https://open.spotify.com/album/1F9b1dOb07h3GqSyQMtzkm) | 2:20 | 2025-10-09 | 2025-11-08 |
 | [Ya Rab](https://open.spotify.com/track/1m5D1gtZgpoN5ehQV9U5Gp) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Ya Rab](https://open.spotify.com/album/5IqvVDo3c4nupExAKBcri4) | 3:23 | 2022-08-25 | 2023-02-24 |
 | [YALLAH!](https://open.spotify.com/track/35xJ6qdU2LpbeQ6xODmraE) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [YALLAH!](https://open.spotify.com/album/2xXrc2ZU2tAu6V9P7nPbBz) | 2:37 | 2023-01-19 | 2023-06-16 |
 | [Yankees](https://open.spotify.com/track/6ZhHwo6QoIuXpAuXhHxUnM) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Yankees](https://open.spotify.com/album/4EpiNdEJwtW1aLXpgKToG0) | 2:05 | 2022-08-18 | 2023-03-10 |

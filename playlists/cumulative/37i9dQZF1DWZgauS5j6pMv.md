@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-491 songs - 1 day 4 hr 41 min
+492 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [We Belong](https://open.spotify.com/track/4UWuluqabYpNZGoqNVGmBI) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [We Belong](https://open.spotify.com/album/1CswJNzuinL7ezwVCQPPLr) | 4:01 | 2024-03-01 | 2024-04-19 |
 | [We Do It Together](https://open.spotify.com/track/4y17IJimZ69gyuZnJC0xyy) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Aequoreus](https://open.spotify.com/album/3cQeB6HJkmYpLQHM9nQlSp) | 3:49 | 2025-02-21 |  |
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-05-07 | 2022-07-16 |
-| [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 | 2023-06-16 |  |
+| [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 | 2023-06-16 | 2025-11-08 |
 | [What Can We Do? \(feat\. Nate Dogg\)](https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 2:56 | 2020-11-20 | 2022-01-29 |
 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 | 2022-04-01 | 2022-07-02 |
 | [What's the Move](https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [What's the Move](https://open.spotify.com/album/431U10Fvg2NtgECribydtZ) | 3:07 | 2023-09-22 | 2024-06-08 |
@@ -488,6 +488,7 @@
 | [Worthy](https://open.spotify.com/track/3wW5QHrAR5ZTUQq0KUU7Cz) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Top of the World](https://open.spotify.com/album/5HUQK5qMKyPnM8mo314pgD) | 3:05 | 2022-05-27 | 2022-11-13 |
 | [YeahYeahYeah](https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [YeahYeahYeah](https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU) | 5:17 | 2022-10-07 | 2023-02-18 |
 | [Yellow Daze](https://open.spotify.com/track/1MeoURhRLribQiy7BZReBV) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Yellow Daze](https://open.spotify.com/album/5nrHNWI8YfZYzdFtVN973m) | 2:57 | 2024-06-07 | 2024-09-17 |
+| [Yes I Do](https://open.spotify.com/track/46TqEftnSGdu9MLaPOrjrP) | [Leon Knight](https://open.spotify.com/artist/0TfMzqbHEk3a4CZ1usZfOY), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Yes I Do](https://open.spotify.com/album/0029KgWSpDdUhKOgCxcUlr) | 2:44 | 2025-11-07 |  |
 | [You Are In My System](https://open.spotify.com/track/2kSStoNv9O3SLvOXebvuVt) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Always There: 1981\-2021 \(40 Years & Still Groovin’\)](https://open.spotify.com/album/1gcxfIY8oeRYr203cTsjVP) | 5:43 | 2021-10-22 | 2022-09-24 |
 | [You Are In My System](https://open.spotify.com/track/4EM5tC6fQI3tuJpya8Z2gm) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [You Are In My System](https://open.spotify.com/album/5LKTVi5SNVzjTrYnwDNPiT) | 5:43 | 2021-10-22 | 2022-07-29 |
 | [You Don't Know](https://open.spotify.com/track/3HnTqNXder7RZTksBVxMVo) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Chasing The Sun](https://open.spotify.com/album/0XUnao2RyJiTQIHPnWdwP9) | 3:47 | 2020-11-20 | 2022-04-09 |

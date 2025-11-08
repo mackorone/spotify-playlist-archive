@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40702,
+  "num_followers": 40711,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQqTgAAAAAAjkchs9ng++2+wMvk5eIU7",
+  "snapshot_id": "aQvlAAAAAABX6MxNKzWgnoO6EgolxuLZ",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JAH-VAN",
         "url": "https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 284466,
       "name": "Meu Bem Querer - JAH-VAN",
       "url": "https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": null,
