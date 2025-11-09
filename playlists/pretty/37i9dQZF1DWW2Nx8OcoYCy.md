@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,803 likes - 117 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,817 likes - 117 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 116 | [Bloodshot](https://open.spotify.com/track/2H5qmwsDwaYA0oKiCTVQbX) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Daylight Dreaming](https://open.spotify.com/album/2sOM708UFfXAT1NYeo29vW) | 3:08 |
 | 117 | [Taishi\-Koto, Pt\. 1](https://open.spotify.com/track/00Mq0hS3zng2cXevsuXpsV) | [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Polymood](https://open.spotify.com/album/43jf6TiIKBsUkYcXbcaXlN) | 2:29 |
 
-Snapshot ID: `AAAAACcaGQIRaUC95BtxFsuWGlMnE5hH`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

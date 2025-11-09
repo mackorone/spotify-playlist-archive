@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,725 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,764 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 45 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 |
 | 46 | [Cool Temper](https://open.spotify.com/track/30AtTTXstHEVGpZVWrM8iM) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:25 |
 | 47 | [Aboki](https://open.spotify.com/track/0JbBVIBfhayLLsKG6pTJ06) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Aboki](https://open.spotify.com/album/1alweGRwffgnQuovKvYOe1) | 3:40 |
-| 48 | [Repete](https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8) | [Blackmagic \(Version 2.0\)](https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW) | 3:38 |
-| 49 | [My Car](https://open.spotify.com/track/2eFJKElZ98vRvWChxh1niz) | [Tony Tetuila](https://open.spotify.com/artist/7fypMlrHKV3ziGuvZkSYoX), [ICE K, PASTO GOODY GOODY](https://open.spotify.com/artist/5EYJENlwor1tQ52BITpvRI) | [My Car](https://open.spotify.com/album/3U6bIPNzVzzt4sJ2mIjFmw) | 4:08 |
+| 48 | [My Car](https://open.spotify.com/track/2eFJKElZ98vRvWChxh1niz) | [Tony Tetuila](https://open.spotify.com/artist/7fypMlrHKV3ziGuvZkSYoX), [ICE K, PASTO GOODY GOODY](https://open.spotify.com/artist/5EYJENlwor1tQ52BITpvRI) | [My Car](https://open.spotify.com/album/3U6bIPNzVzzt4sJ2mIjFmw) | 4:08 |
+| 49 | [Repete](https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8) | [Blackmagic \(Version 2.0\)](https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW) | 3:38 |
 | 50 | [African Queen \- Remastered Version](https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:20 |
 
 Snapshot ID: `AAAAANL05TQNvzAaWONZHzyKGhCyACiu`

@@ -2,7 +2,7 @@
 
 ### [Corridos Prohibidos](https://open.spotify.com/playlist/37i9dQZF1DWU43UtgmzCjN)
 
-> Pa' toda la raza pesada\. Los Huracanes del Norte en portada
+> Pa' toda la raza pesada\. Los Originales de San Juan en portada.
 
 91 songs - 4 hr 41 min
 

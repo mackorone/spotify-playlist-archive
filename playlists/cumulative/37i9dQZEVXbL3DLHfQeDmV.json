@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "BELIEVE ME",
+        "url": "https://open.spotify.com/album/1LBs1WQPHDTRfl0QTQOPTG"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        },
+        {
+          "name": "CA$PAR",
+          "url": "https://open.spotify.com/artist/5QlHGPrtXeYq5YtSCpxy87"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "BELIEVE ME",
+      "url": "https://open.spotify.com/track/7GSuaw85xC0x7HlWkwDPqm"
+    },
+    {
+      "album": {
         "name": "bittersweet",
         "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
       },
@@ -164,7 +186,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -200,7 +222,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 185152,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
@@ -305,6 +327,24 @@
     },
     {
       "album": {
+        "name": "EsDeeKid Black Beatles",
+        "url": "https://open.spotify.com/album/3Zqb8ZYj9N2REcZxMDAi17"
+      },
+      "artists": [
+        {
+          "name": "xkt_074",
+          "url": "https://open.spotify.com/artist/2lSRNgnfgX4nRrcOpRxqHO"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155109,
+      "name": "EsDeeKid Black Beatles",
+      "url": "https://open.spotify.com/track/2WfuwHaw1Hzhks79Lt52qP"
+    },
+    {
+      "album": {
         "name": "EYES CLOSED (with ZAYN)",
         "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
       },
@@ -385,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Fidelio",
+        "url": "https://open.spotify.com/album/7pQWc2Fpk4E79bbwIk5DSN"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154366,
+      "name": "Fidelio",
+      "url": "https://open.spotify.com/track/4IBTU8b4bM3ycYYrvwcURk"
+    },
+    {
+      "album": {
         "name": "Fool's Gold",
         "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
       },
@@ -454,7 +512,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -506,7 +564,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -598,7 +656,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 64525,
       "name": "Goosebumps Original Theme Song",
       "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
@@ -694,7 +752,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
@@ -712,7 +770,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 79523,
       "name": "Harry Potter - Trap Remix",
       "url": "https://open.spotify.com/track/08mbeGhGSQaNheBe2DzpRc"
@@ -850,7 +908,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 144866,
       "name": "I Put a Spell On You",
       "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
@@ -1252,7 +1310,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -1354,7 +1412,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c"
@@ -1568,7 +1626,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
@@ -1644,7 +1702,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 238786,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
@@ -1669,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Spaceship",
+        "url": "https://open.spotify.com/album/6zXbAwv9ldkMDd1r8ThzN1"
+      },
+      "artists": [
+        {
+          "name": "Marsolo",
+          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173696,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/3BjL0WoqXRFX0TjBZYJUwX"
+    },
+    {
+      "album": {
         "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
       },
@@ -1680,7 +1756,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -1848,7 +1924,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -1974,7 +2050,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 204133,
       "name": "Things That Go Bump In The Night",
       "url": "https://open.spotify.com/track/4dyoQtmjsgoTuF4VIReyE1"
@@ -2018,7 +2094,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"

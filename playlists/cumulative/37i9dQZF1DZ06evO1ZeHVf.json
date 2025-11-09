@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Christmas Is All In The Heart",
+        "url": "https://open.spotify.com/album/5twXrXNzd4LiJC0Dmrl8w0"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308200,
+      "name": "Christmas Is All In The Heart",
+      "url": "https://open.spotify.com/track/0V6nlqHGMXrp8tyo2oelRq"
+    },
+    {
+      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -1312,7 +1334,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 227335,
       "name": "Never Have to Be Alone",
       "url": "https://open.spotify.com/track/4vqP4vqgzzSfMZr6E0KTmf"

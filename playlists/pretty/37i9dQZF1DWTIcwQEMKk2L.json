@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72136,
+  "num_followers": 72144,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Knowing Myself",
-        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Knowing Myself",
-      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
         "name": "Schutter",
         "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
+        "name": "Knowing Myself",
+        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Knowing Myself",
+      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Anya",
-        "url": "https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f"
-      },
-      "artists": [
-        {
-          "name": "Ray Love",
-          "url": "https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Anya",
-      "url": "https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
         "name": "Piano Hits Chill",
         "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 230000,
       "name": "Say You Wont Let Go",
       "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Anya",
+        "url": "https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f"
+      },
+      "artists": [
+        {
+          "name": "Ray Love",
+          "url": "https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Anya",
+      "url": "https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Can't We Be Friends",
-        "url": "https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3"
-      },
-      "artists": [
-        {
-          "name": "Algot Aelster",
-          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
-        }
-      ],
-      "duration_ms": 130873,
-      "name": "Can't We Be Friends",
-      "url": "https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 118016,
       "name": "Kleine Forelle",
       "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Can't We Be Friends",
+        "url": "https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "duration_ms": 130873,
+      "name": "Can't We Be Friends",
+      "url": "https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -555,38 +555,6 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "I got it secondhand",
-        "url": "https://open.spotify.com/album/5qjZGP5e9vKkbPYSGPQLXx"
-      },
-      "artists": [
-        {
-          "name": "Winola Weber",
-          "url": "https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL"
-        }
-      ],
-      "duration_ms": 182111,
-      "name": "I got it secondhand",
-      "url": "https://open.spotify.com/track/3EKA6gbbXL07UX9Txi9ad0"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "Astral",
-        "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
-      },
-      "artists": [
-        {
-          "name": "Elsa Gifford",
-          "url": "https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "Astral",
-      "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
         "name": "Lib\u00e9lula",
         "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
       },
@@ -619,6 +587,22 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
+        "name": "I got it secondhand",
+        "url": "https://open.spotify.com/album/5qjZGP5e9vKkbPYSGPQLXx"
+      },
+      "artists": [
+        {
+          "name": "Winola Weber",
+          "url": "https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL"
+        }
+      ],
+      "duration_ms": 182111,
+      "name": "I got it secondhand",
+      "url": "https://open.spotify.com/track/3EKA6gbbXL07UX9Txi9ad0"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
         "name": "Fall Pieces",
         "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
+      },
+      "artists": [
+        {
+          "name": "Elsa Gifford",
+          "url": "https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
       },
@@ -647,6 +647,42 @@
       "duration_ms": 157250,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Reggimi",
+        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
+      },
+      "artists": [
+        {
+          "name": "Natalino Serafin",
+          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Reggimi",
+      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Kiss the Rain",
+        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "Chris Snelling",
+          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+        }
+      ],
+      "duration_ms": 170783,
+      "name": "Kiss the Rain",
+      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -683,38 +719,18 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Kiss the Rain",
-        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
+        "name": "Clear Day",
+        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
       },
       "artists": [
         {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        },
-        {
-          "name": "Chris Snelling",
-          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
         }
       ],
-      "duration_ms": 170783,
-      "name": "Kiss the Rain",
-      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "Reggimi",
-        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
-      },
-      "artists": [
-        {
-          "name": "Natalino Serafin",
-          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Reggimi",
-      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
+      "duration_ms": 165000,
+      "name": "Clear Day",
+      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -731,22 +747,6 @@
       "duration_ms": 151000,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "Before last month",
-        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
-      },
-      "artists": [
-        {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
-        }
-      ],
-      "duration_ms": 124238,
-      "name": "Before last month",
-      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -783,34 +783,18 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Clear Day",
-        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+        "name": "Before last month",
+        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
       },
       "artists": [
         {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Clear Day",
-      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "5th Avenue",
-        "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
-      },
-      "artists": [
-        {
-          "name": "Kyrie Barnes",
-          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
-        }
-      ],
-      "duration_ms": 146006,
-      "name": "5th Avenue",
-      "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
+      "duration_ms": 124238,
+      "name": "Before last month",
+      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -831,22 +815,6 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
-      },
-      "artists": [
-        {
-          "name": "Arto Ferrara",
-          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
-        }
-      ],
-      "duration_ms": 147029,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
         "name": "A Perceptual Process",
         "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
       },
@@ -863,6 +831,38 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
+        "name": "5th Avenue",
+        "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
+      },
+      "artists": [
+        {
+          "name": "Kyrie Barnes",
+          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
+        }
+      ],
+      "duration_ms": 146006,
+      "name": "5th Avenue",
+      "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "duration_ms": 147029,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
         "name": "Am I the Only One?",
         "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 177071,
       "name": "Break My Heart, Love",
       "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
+      },
+      "artists": [
+        {
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
-      },
-      "artists": [
-        {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
         "name": "Quand vous souriez",
         "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
       },
@@ -987,6 +987,38 @@
       "duration_ms": 118250,
       "name": "Quand vous souriez",
       "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Nefelibata",
+        "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
+      },
+      "artists": [
+        {
+          "name": "Jeanelle Bolduc",
+          "url": "https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Nefelibata",
+      "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -1023,6 +1055,22 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
+        "name": "In The Stillness",
+        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
+      },
+      "artists": [
+        {
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+        }
+      ],
+      "duration_ms": 184389,
+      "name": "Grounded Mind",
+      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
         "name": "Leave The Bottle",
         "url": "https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl"
       },
@@ -1035,22 +1083,6 @@
       "duration_ms": 218455,
       "name": "Leave The Bottle",
       "url": "https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "Nefelibata",
-        "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
-      },
-      "artists": [
-        {
-          "name": "Jeanelle Bolduc",
-          "url": "https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Nefelibata",
-      "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -1071,82 +1103,18 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
       },
       "artists": [
         {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
         }
       ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "In The Stillness",
-        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
-      },
-      "artists": [
-        {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
-        }
-      ],
-      "duration_ms": 184389,
-      "name": "Grounded Mind",
-      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "Rest Well, My Good Friend",
-        "url": "https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi"
-      },
-      "artists": [
-        {
-          "name": "Angus Grove",
-          "url": "https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Rest Well, My Good Friend",
-      "url": "https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -1163,6 +1131,22 @@
       "duration_ms": 166683,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
         "name": "Qu\u00e9rete a ti mesmo",
         "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 165511,
       "name": "Qu\u00e9rete a ti mesmo",
       "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Rest Well, My Good Friend",
+        "url": "https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi"
+      },
+      "artists": [
+        {
+          "name": "Angus Grove",
+          "url": "https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Rest Well, My Good Friend",
+      "url": "https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
-      },
-      "artists": [
-        {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Piano Songs",
+        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
+      },
+      "artists": [
+        {
+          "name": "Purple Tulips",
+          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -1299,22 +1315,6 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
-        "name": "Piano Songs",
-        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
-      },
-      "artists": [
-        {
-          "name": "Purple Tulips",
-          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
     },
     {
       "added_at": "2025-10-20 07:41:38",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-10-20 07:41:38",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
-      },
-      "artists": [
-        {
-          "name": "Alice Frohde",
-          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
-    },
-    {
-      "added_at": "2025-10-20 07:41:38",
-      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+    },
+    {
+      "added_at": "2025-10-20 07:41:38",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
+      },
+      "artists": [
+        {
+          "name": "Alice Frohde",
+          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
     },
     {
       "added_at": "2025-10-20 07:41:38",

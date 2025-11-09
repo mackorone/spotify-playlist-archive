@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:4Uwx6qzRn0kA9sz6cCDpBO">Tkandz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,330 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,362 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 12 | [Geek \(feat\. BloodHound Q50\)](https://open.spotify.com/track/4FAZbGMqZCPkqmUMG3pGn8) | [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Geek \(feat\. BloodHound Q50\)](https://open.spotify.com/album/2AoFldiXyIwpn04BkHvRs3) | 1:52 |
 | 13 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 | 14 | [on point](https://open.spotify.com/track/59kHIvX9m7qOCFxB83gFyc) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [on point](https://open.spotify.com/album/45hDUiwhiTYMWlhRnk0c6h) | 2:32 |
-| 15 | [RAIN](https://open.spotify.com/track/6Y5NUfyedmDMqDOzwKI95u) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7), [Nevanotworkin](https://open.spotify.com/artist/66D3zvYXWSr9ZhrS1hMIO2) | [RAIN](https://open.spotify.com/album/6AkIcgIIcyA8msosLynDjD) | 2:06 |
+| 15 | [RAIN](https://open.spotify.com/track/6Y5NUfyedmDMqDOzwKI95u) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7), [Nevanotworkin](https://open.spotify.com/artist/2JLiQ7ECnyXIbuTrqF9n0s) | [RAIN](https://open.spotify.com/album/6AkIcgIIcyA8msosLynDjD) | 2:06 |
 | 16 | [Hoes Be Mad](https://open.spotify.com/track/4Eon806kqIVQCbq7ULjpKg) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Hoes Be Mad](https://open.spotify.com/album/6x7qZPUUne0i7EvTV4ENvL) | 1:46 |
 | 17 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |
 | 18 | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/track/7hl163jL1Lk22WleccRcQX) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 2:50 |

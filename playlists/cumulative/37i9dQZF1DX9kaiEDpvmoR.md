@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-463 songs - 1 day 3 hr 7 min
+464 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [På Måndag](https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Livet, döden, skiten däremellan](https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9) | 2:58 | 2025-01-23 |  |
 | [Queen Of Pearls](https://open.spotify.com/track/584mfOg5T8fMsHmYCAZTN2) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Queen Of Pearls](https://open.spotify.com/album/6Y3pdvenWGtaC1zsi0Snlt) | 2:57 | 2024-06-27 | 2024-08-16 |
 | [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-03 |  |
+| [RANSOMS](https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [RANSOMS](https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7) | 3:03 | 2025-11-06 |  |
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-08 | 2025-04-04 |
 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-27 | 2025-04-04 |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-15 | 2025-01-23 |
@@ -345,7 +346,7 @@
 | [Seven Days Of Heaven](https://open.spotify.com/track/4FdVXLaBpWLNshAzXP4WAa) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Seven Days Of Heaven](https://open.spotify.com/album/1xfkNCZQmq4sGKRxTpOFe9) | 3:35 | 2025-05-08 | 2025-06-16 |
 | [Show Me](https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Show Me](https://open.spotify.com/album/2iX8n3q3raSUgt3J1ejovV) | 3:38 | 2024-06-27 | 2024-08-09 |
 | [Sign](https://open.spotify.com/track/1HiMLlD5OBUqoKNMNBMgTV) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Sign](https://open.spotify.com/album/5WhLbhoV8ZB4P0SxceezKc) | 3:07 | 2024-12-05 | 2025-05-16 |
-| [Sign on the Window](https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Sign on the Window](https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx) | 3:03 | 2025-06-05 |  |
+| [Sign on the Window](https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Sign on the Window](https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx) | 3:03 | 2025-06-05 | 2025-11-09 |
 | [Siljans strand](https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Siljans strand / Midsommarvisa](https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw) | 3:46 | 2024-06-27 | 2024-09-13 |
 | [Silverregn](https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Silverregn / Återvänd till mig](https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95) | 5:54 | 2025-01-23 | 2025-09-17 |
 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 | 2025-05-30 |

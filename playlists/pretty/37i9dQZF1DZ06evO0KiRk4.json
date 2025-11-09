@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 574094,
+  "num_followers": 574150,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADlPyBkCEk+tF6JU5zudeqV",
+  "snapshot_id": "aQ02gAAAAAAEj7yU4f2nBpC0XIRIkqpk",
   "tracks": [
     {
       "added_at": null,
@@ -211,38 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "Cosmic Love",
-      "url": "https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ceremonials",
         "url": "https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g"
       },
@@ -263,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
       "artists": [
         {
@@ -272,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 263936,
-      "name": "Witch Dance",
-      "url": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
+      "duration_ms": 255906,
+      "name": "Cosmic Love",
+      "url": "https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU"
     },
     {
       "added_at": null,
@@ -299,6 +267,22 @@
       "duration_ms": 291192,
       "name": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)",
       "url": "https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 263936,
+      "name": "Witch Dance",
+      "url": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
     },
     {
       "added_at": null,
@@ -335,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 230136,
-      "name": "Kraken",
-      "url": "https://open.spotify.com/track/4BswiLDcr4ChDGl2NrfhC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 214666,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "Kraken",
+      "url": "https://open.spotify.com/track/4BswiLDcr4ChDGl2NrfhC1"
     },
     {
       "added_at": null,
@@ -399,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 271404,
-      "name": "Music by Men",
-      "url": "https://open.spotify.com/track/1oHxIq2EEXHzPcNo3MJQjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish That You Were Here (From \u201cMiss Peregrine\u2019s Home For Peculiar Children\u201d Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1uqahF2HRLrjnU1VE2D0r6"
       },
@@ -427,6 +395,22 @@
       "duration_ms": 402797,
       "name": "Wish That You Were Here - From \u201cMiss Peregrine\u2019s Home for Peculiar Children\u201d Original Motion Picture",
       "url": "https://open.spotify.com/track/1FrrRHxMKVvd85O3gancxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 271404,
+      "name": "Music by Men",
+      "url": "https://open.spotify.com/track/1oHxIq2EEXHzPcNo3MJQjQ"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 361188,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Drumming Song",
+      "url": "https://open.spotify.com/track/6hIaLSND7Fo2Kd8NPVoyjg"
     }
   ],
   "unique_name": "This Is Florence + The Machine",

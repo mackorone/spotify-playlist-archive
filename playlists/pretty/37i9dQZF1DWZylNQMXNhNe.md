@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,362 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,408 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 22 | [Sideral](https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Sideral](https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ) | 2:49 |
 | 23 | [Eu Adoro](https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [DJ ÅNJO](https://open.spotify.com/artist/2dYbMv07G72igGiZeFkctO), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [Eu Adoro](https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW) | 2:37 |
 | 24 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 3:06 |
-| 25 | [Putífero Pro Max](https://open.spotify.com/track/5Raqxm1zg9Kd5gm9MXiRw5) | [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc), [ZUMBICORE](https://open.spotify.com/artist/7mJo0mAHZ97aIjoHfeJeXN), [Jonas kaik](https://open.spotify.com/artist/4arZfUmA1DbiqMYab9wLB8), [Kalef Castro](https://open.spotify.com/artist/65UPl7SfgEtJRmkfHUsjbn) | [Putífero Pro Max](https://open.spotify.com/album/7nrYxHELVPbJWxKuXrcFZv) | 2:06 |
-| 26 | [De Quinta A Domingo](https://open.spotify.com/track/3DPpnsH5S0269NXaD2uZ3v) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [De Quinta A Domingo](https://open.spotify.com/album/0UFiIp4aj71h2CEAymFy7T) | 3:17 |
+| 25 | [De Quinta A Domingo](https://open.spotify.com/track/3DPpnsH5S0269NXaD2uZ3v) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [De Quinta A Domingo](https://open.spotify.com/album/0UFiIp4aj71h2CEAymFy7T) | 3:17 |
+| 26 | [Putífero Pro Max](https://open.spotify.com/track/5Raqxm1zg9Kd5gm9MXiRw5) | [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc), [ZUMBICORE](https://open.spotify.com/artist/7mJo0mAHZ97aIjoHfeJeXN), [Jonas kaik](https://open.spotify.com/artist/4arZfUmA1DbiqMYab9wLB8), [Kalef Castro](https://open.spotify.com/artist/65UPl7SfgEtJRmkfHUsjbn) | [Putífero Pro Max](https://open.spotify.com/album/7nrYxHELVPbJWxKuXrcFZv) | 2:06 |
 | 27 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 |
 | 28 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
 | 29 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 |

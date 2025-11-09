@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Charlotte de Witte, Bazart, ROSALÍA and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,506 likes - 97 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,519 likes - 97 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

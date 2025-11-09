@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "El 04",
+        "url": "https://open.spotify.com/album/6sAO8JZsJdWIA0x1g53CAq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "El 04",
+      "url": "https://open.spotify.com/track/6igq3Wr66N1lbjNs216aHw"
+    },
+    {
+      "album": {
         "name": "Somos Leyenda",
         "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 142971,
       "name": "Soy Me\u00f1o",
       "url": "https://open.spotify.com/track/1UtqU8fzHsapHGxAITKVhL"

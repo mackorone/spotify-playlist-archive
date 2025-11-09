@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Logan Staats
 
-630 songs - 1 day 14 hr 14 min
+632 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Dusty Bottles](https://open.spotify.com/track/79eXcwwGDoGby7NxPOW0vw) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dusty Bottles](https://open.spotify.com/album/1O0K1b7OZDchLrM0ifo9d9) | 3:30 | 2022-05-13 | 2022-07-29 |
 | [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 | 2022-09-10 |
 | [Easier and Harder](https://open.spotify.com/track/2l1EdoGlGhbhkbbnjV1Bf9) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Goldie Hawn / Easier and Harder / When You Miss Someone / Tanqueray](https://open.spotify.com/album/6G20apxio3xFWZGqv90Auf) | 2:56 | 2023-03-03 | 2023-04-15 |
-| [East Wind](https://open.spotify.com/track/5w5jYQS9ke1bIGugVZZVNm) | [Caley Watts](https://open.spotify.com/artist/1UEaSQZqsJcuaDQfvz6mp2) | [East Wind](https://open.spotify.com/album/0VNAd70EMJvdCMzwTkGH0c) | 5:41 | 2024-11-22 |  |
+| [East Wind](https://open.spotify.com/track/5w5jYQS9ke1bIGugVZZVNm) | [Caley Watts](https://open.spotify.com/artist/1UEaSQZqsJcuaDQfvz6mp2) | [East Wind](https://open.spotify.com/album/0VNAd70EMJvdCMzwTkGH0c) | 5:41 | 2024-11-22 | 2025-11-09 |
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2023-04-21 | 2024-09-21 |
 | [Easygoing](https://open.spotify.com/track/6oFAJFw5D8HjQFCWwf3XFr) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing](https://open.spotify.com/album/3bXAVr8a2qBMETr34sSNt0) | 3:53 | 2024-06-14 | 2025-02-08 |
 | [Easygoing \(more easy\)](https://open.spotify.com/track/43j2yjXjpaCyh6FE1JcTWl) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing \(more easy\)](https://open.spotify.com/album/3pFa9QipbSv9OiHkEUCG4C) | 4:16 | 2025-10-06 |  |
@@ -241,7 +241,7 @@
 | [Goodbye Trouble](https://open.spotify.com/track/5jcMIkw7HBD02Z3oI3Fbjo) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Goodbye Trouble](https://open.spotify.com/album/1BxhcoV21AWpz404R7odYt) | 3:00 | 2024-04-25 | 2024-05-12 |
 | [Grandfather](https://open.spotify.com/track/6Mf7qSGGEDuxV95aQpf9Ty) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Grandfather](https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX) | 4:24 | 2022-05-20 | 2022-09-17 |
 | [Great Goodbye](https://open.spotify.com/track/2lhm5FumxSB6DGKQCvlLCo) | [Cynthia Hamar](https://open.spotify.com/artist/22GLcgW0TkIpnDgVp9Igo6) | [Joint & Marrow](https://open.spotify.com/album/6ciXz796jqwH4nU2odt48Z) | 4:13 | 2022-09-23 | 2023-04-22 |
-| [Great Joy & Happiness](https://open.spotify.com/track/5lCWCkOGJCLzPELPq2YLZv) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Great Joy & Happiness](https://open.spotify.com/album/0BvusUW8PEc3iknPMOTmPs) | 2:30 | 2025-08-29 |  |
+| [Great Joy & Happiness](https://open.spotify.com/track/5lCWCkOGJCLzPELPq2YLZv) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Great Joy & Happiness](https://open.spotify.com/album/0BvusUW8PEc3iknPMOTmPs) | 2:30 | 2025-08-29 | 2025-11-09 |
 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 | 2022-08-26 | 2022-11-12 |
 | [Hanging Out In My Head](https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5) | 2:49 | 2025-10-24 |  |
 | [Happiness](https://open.spotify.com/track/1Ux0HxLYv01rjlFWqdzOOK) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Happiness](https://open.spotify.com/album/1lIydjc4cvMVytPC6kBXdu) | 3:08 | 2024-11-22 | 2025-03-08 |
@@ -442,6 +442,7 @@
 | [Peacemaker](https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Peacemaker](https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ) | 3:53 | 2023-09-15 | 2023-12-12 |
 | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI) | 3:35 | 2024-08-16 | 2025-11-07 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-31 | 2025-11-07 |
+| [Pipe Dream](https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Disappearing Days](https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY) | 2:41 | 2025-11-07 |  |
 | [Pitch Black](https://open.spotify.com/track/24v9Z8Q7Ohbee93YyPns0m) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:58 | 2022-05-13 | 2022-11-12 |
 | [Pitchin' fits](https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 3:47 | 2023-04-21 | 2025-10-18 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-04-21 | 2025-01-24 |
@@ -495,6 +496,7 @@
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 | 2022-09-17 |
 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 | 2023-08-04 | 2025-10-18 |
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 | 2023-04-22 |
+| [She Got Away](https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [She Got Away](https://open.spotify.com/album/6OZXJ8W9I1SCt4kARa8Iks) | 2:44 | 2025-11-07 |  |
 | [Shooting at the Moon](https://open.spotify.com/track/6BiT0rQrxNTbglW7jBPd5D) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Shooting at the Moon](https://open.spotify.com/album/1WoVKktys2ml21iQ7nPFum) | 3:19 | 2022-06-03 | 2022-07-09 |
 | [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 | 2025-10-06 |  |
 | [Shreveport to L.A.](https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz) | [Mike Plume](https://open.spotify.com/artist/2bTUu34JOWSVnqOSeFmCcr) | [Shreveport to L.A.](https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH) | 3:59 | 2022-05-13 | 2022-08-13 |

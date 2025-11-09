@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ROSALÍA, Giorgia, Geolier, Sayf, Katy Perry e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,711 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,719 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 9 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 |
 | 10 | [Mio Cristo Piange Diamanti](https://open.spotify.com/track/0hVZnH3f3xmudcfCFLdw1V) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:29 |
 | 11 | [The God of Lying \(feat\. IDLES\)](https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The God Of Lying \(feat\. IDLES\)](https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho) | 3:09 |
-| 12 | [SUPERSTAR](https://open.spotify.com/track/6gMgNwiz4aQ1PzuZBTzYap) | [Paola Iezzi](https://open.spotify.com/artist/29IpqxHCIFMvvGOPHIFRWv) | [Superstar](https://open.spotify.com/album/2vhSvsLIXrWsjwoVL82gdg) | 3:05 |
+| 12 | [Superstar](https://open.spotify.com/track/6gMgNwiz4aQ1PzuZBTzYap) | [Paola Iezzi](https://open.spotify.com/artist/29IpqxHCIFMvvGOPHIFRWv) | [Superstar](https://open.spotify.com/album/2vhSvsLIXrWsjwoVL82gdg) | 3:05 |
 | 13 | [LITORALE](https://open.spotify.com/track/7IeVKhtFH7gvESfogtMjUz) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ANIMA NERA](https://open.spotify.com/album/1kqn44VolE6qTZ3agg53P2) | 2:49 |
 | 14 | [Telephone Tango](https://open.spotify.com/track/00JmBr4rYb4Iq0cXNHBgK9) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Telephone Tango](https://open.spotify.com/album/3VKZZmGmlbKvRa6Jn0XLZK) | 3:04 |
 | 15 | [All'Acqua Ghiacciata](https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [All'Acqua Ghiacciata](https://open.spotify.com/album/5e3aisU48dK0bZvjPJUFzW) | 3:47 |

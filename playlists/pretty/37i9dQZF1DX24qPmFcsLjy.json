@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 137869,
+  "num_followers": 137910,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 228426,
       "name": "Pride (In The Name Of Love) - Remastered 2009",
       "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Seventh One",
-        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 269226,
-      "name": "Stop Loving You",
-      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Feargal Sharkey",
         "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 281800,
       "name": "A Good Heart",
       "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Seventh One",
+        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 269226,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Belgie",
-        "url": "https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc"
-      },
-      "artists": [
-        {
-          "name": "Het Goede Doel",
-          "url": "https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ"
-        }
-      ],
-      "duration_ms": 360706,
-      "name": "Belgie ... (Is Er Leven Op Pluto ...)",
-      "url": "https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Best Of Anita Meyer",
         "url": "https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213773,
       "name": "Why Tell Me Why",
       "url": "https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Belgie",
+        "url": "https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc"
+      },
+      "artists": [
+        {
+          "name": "Het Goede Doel",
+          "url": "https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ"
+        }
+      ],
+      "duration_ms": 360706,
+      "name": "Belgie ... (Is Er Leven Op Pluto ...)",
+      "url": "https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4"
     },
     {
       "added_at": "2024-07-09 16:44:07",

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 493480,
+  "num_followers": 493570,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -351,30 +351,6 @@
     {
       "added_at": "2025-10-31 14:22:36",
       "album": {
-        "name": "Trov\u00e3o",
-        "url": "https://open.spotify.com/album/55V5KmUeLWxWAyOF50seSS"
-      },
-      "artists": [
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 198181,
-      "name": "Trov\u00e3o",
-      "url": "https://open.spotify.com/track/5OZT5cotLxLMBYONtioAZ4"
-    },
-    {
-      "added_at": "2025-10-31 14:22:36",
-      "album": {
         "name": "Toda Forma De Amor (Remix)",
         "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 160645,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
+    },
+    {
+      "added_at": "2025-10-31 14:22:36",
+      "album": {
+        "name": "Trov\u00e3o",
+        "url": "https://open.spotify.com/album/55V5KmUeLWxWAyOF50seSS"
+      },
+      "artists": [
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 198181,
+      "name": "Trov\u00e3o",
+      "url": "https://open.spotify.com/track/5OZT5cotLxLMBYONtioAZ4"
     },
     {
       "added_at": "2025-10-31 14:22:36",
@@ -883,46 +883,6 @@
     {
       "added_at": "2025-10-31 14:22:36",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2025-10-31 14:22:36",
-      "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2025-10-31 14:22:36",
-      "album": {
         "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
         "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
       },
@@ -975,26 +935,42 @@
     {
       "added_at": "2025-10-31 14:22:36",
       "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
       "artists": [
         {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Windy City Classics",
-          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
-        },
-        {
-          "name": "Lucas Borchardt",
-          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
         }
       ],
-      "duration_ms": 187741,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2025-10-31 14:22:36",
+      "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2025-10-31 14:22:36",
@@ -1015,6 +991,30 @@
       "duration_ms": 166299,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
+      "added_at": "2025-10-31 14:22:36",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
+      },
+      "artists": [
+        {
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Windy City Classics",
+          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
+        },
+        {
+          "name": "Lucas Borchardt",
+          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
     },
     {
       "added_at": "2025-10-31 14:22:36",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2025-10-31 14:22:36",
       "album": {
-        "name": "Halfway (feat. Twan Ray)",
-        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        }
-      ],
-      "duration_ms": 158416,
-      "name": "Halfway (feat. Twan Ray)",
-      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
-    },
-    {
-      "added_at": "2025-10-31 14:22:36",
-      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1223,6 +1199,30 @@
     {
       "added_at": "2025-10-31 14:22:36",
       "album": {
+        "name": "Halfway (feat. Twan Ray)",
+        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "duration_ms": 158416,
+      "name": "Halfway (feat. Twan Ray)",
+      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+    },
+    {
+      "added_at": "2025-10-31 14:22:36",
+      "album": {
         "name": "Z\u00e9 do caro\u00e7o",
         "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-31 14:22:36",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2025-10-31 14:22:36",
-      "album": {
         "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
         "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 300432,
       "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
       "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+    },
+    {
+      "added_at": "2025-10-31 14:22:36",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2025-10-31 14:22:36",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2025-10-31 14:22:36",
       "album": {
+        "name": "Foreplay (Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
+      },
+      "artists": [
+        {
+          "name": "Flowavez",
+          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Foreplay - Radio Edit",
+      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
+    },
+    {
+      "added_at": "2025-10-31 14:22:36",
+      "album": {
         "name": "Summertime Sadness",
         "url": "https://open.spotify.com/album/68FOiKlSQI0SKc8exqAtVM"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 219000,
       "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
       "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
-    },
-    {
-      "added_at": "2025-10-31 14:22:36",
-      "album": {
-        "name": "Foreplay (Radio Edit)",
-        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
-      },
-      "artists": [
-        {
-          "name": "Flowavez",
-          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Foreplay - Radio Edit",
-      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
     },
     {
       "added_at": "2025-10-31 14:22:36",

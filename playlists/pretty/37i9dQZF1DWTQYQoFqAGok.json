@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64283,
+  "num_followers": 64289,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -743,30 +743,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
-      },
-      "artists": [
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Alberto Medina",
-          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
-        },
-        {
-          "name": "Pablo Prieto",
-          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
-        }
-      ],
-      "duration_ms": 428720,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Orquesta Moderna",
         "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 285508,
       "name": "Guapanguito",
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
+      },
+      "artists": [
+        {
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Alberto Medina",
+          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
+        },
+        {
+          "name": "Pablo Prieto",
+          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
+        }
+      ],
+      "duration_ms": 428720,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -831,6 +831,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+      },
+      "artists": [
+        {
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+        }
+      ],
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Amaneceres",
         "url": "https://open.spotify.com/album/6IbnxAPwtYL8uJtgiYgJVG"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 273880,
       "name": "Amaneceres",
       "url": "https://open.spotify.com/track/21lSntIcuSdGdV0m4LesLz"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
-      },
-      "artists": [
-        {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
-        }
-      ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2024-08-29 03:09:23",

@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Del Water Gap
 
-1,484 songs - 3 day 2 hr 1 min
+1,485 songs - 3 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1215,6 +1215,7 @@
 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 | 2023-02-18 |
 | [Stupid Questions](https://open.spotify.com/track/7C9znPRuIPDj20Tzqvm7kf) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Stupid Questions / Hates Me Yet \(222\)](https://open.spotify.com/album/5DH8t4WxqcHhn59AwbtiVt) | 2:52 | 2025-06-20 | 2025-08-02 |
 | [Stupid Song](https://open.spotify.com/track/109p6uZX2HZOaPGUGdzwYI) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Stupid Song](https://open.spotify.com/album/3XFQ1yrmUFcqWodP3MTfMf) | 3:19 | 2022-03-04 | 2022-04-29 |
+| [Sucker Punch](https://open.spotify.com/track/6lT1D6MI2NUpDUlrRVFL7g) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Sucker Punch](https://open.spotify.com/album/4geWEPMfEaMOsfMC05rfB0) | 3:23 | 2025-11-08 |  |
 | [Suckerpunch](https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Suckerpunch](https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx) | 2:34 | 2025-10-03 |  |
 | [SUCKS TO BE YOU](https://open.spotify.com/track/2SxOhyynYiT50CVnycBbpz) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [SUCKS TO BE YOU](https://open.spotify.com/album/7LUrppJjWs913S0gJjQGIp) | 2:14 | 2024-08-02 | 2024-09-10 |
 | [Suddenly Okay](https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7) | 3:03 | 2024-02-09 | 2024-03-30 |

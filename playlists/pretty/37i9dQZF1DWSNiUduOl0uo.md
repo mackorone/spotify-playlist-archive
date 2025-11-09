@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNiUduOl0uo.md) - [plain]
 
 > Relive the glory days of the 90s and 00s when Girl Power ruled the music world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,043 likes - 55 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,079 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,702 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,702 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 | 24 | [Human Beings \- Atjazz Remix](https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Human Beings \(Remixes\)](https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F) | 6:54 |
 | 25 | [ELYODCIRE](https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 4:18 |
 | 26 | [I Found](https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:01 |
-| 27 | [Cosmic Signs](https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dedication EP](https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX) | 3:13 |
+| 27 | [Same Thing \- Vocal Mix](https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Maiya James](https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6) | [Same Thing](https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP) | 6:19 |
 | 28 | [April](https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 7:50 |
 | 29 | [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 |
-| 30 | [Chocolate Puddin' \- FNX Omar Remix](https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Chocolate Puddin'](https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7) | 6:28 |
-| 31 | [We Call Love](https://open.spotify.com/track/5e6hni5EtDjcZcgFYYqPH2) | [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [The Drawing Board](https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL) | 6:19 |
-| 32 | [Same Thing \- Vocal Mix](https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Maiya James](https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6) | [Same Thing](https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP) | 6:19 |
+| 30 | [Cosmic Signs](https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dedication EP](https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX) | 3:13 |
+| 31 | [Chocolate Puddin' \- FNX Omar Remix](https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Chocolate Puddin'](https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7) | 6:28 |
+| 32 | [We Call Love](https://open.spotify.com/track/5e6hni5EtDjcZcgFYYqPH2) | [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [The Drawing Board](https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL) | 6:19 |
 | 33 | [Let's Invade the Amazon \- Yoruba Soul Mix](https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc) | [Casbah 73](https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Let's Invade the Amazon \(Yoruba Soul Mix\)](https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL) | 6:22 |
 | 34 | [Everything in Its Right Place](https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Erro](https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK) | [Exit Music \- Songs with Radio Heads EP 4](https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh) | 6:38 |
 | 35 | [MOSS](https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 3:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 | 46 | [Syrundipetty](https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 3:42 |
 | 47 | [We Call Love](https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG) | [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [We Call Love](https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv) | 6:18 |
 | 48 | [Build a Fire](https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 1:49 |
-| 49 | [Cucumber Sweat](https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Cucumber Sweat](https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H) | 3:32 |
-| 50 | [No Way](https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 6:01 |
+| 49 | [Black Woman Cry](https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 8:34 |
+| 50 | [Cucumber Sweat](https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Cucumber Sweat](https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H) | 3:32 |
 
-Snapshot ID: `aQvlAAAAAAC9eUFOe3keJ455ttvCIQtD`
+Snapshot ID: `aQ02gAAAAADtvtCyeZmmbIymIqpGYorj`

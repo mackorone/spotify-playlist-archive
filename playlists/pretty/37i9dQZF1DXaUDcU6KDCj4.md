@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Whitney
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,784 likes - 175 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,796 likes - 175 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 10 | [Where It's From](https://open.spotify.com/track/7HXsGkoqW7EeAFkY3KKxSN) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Where It's From / Hard To Make Money](https://open.spotify.com/album/2Fn1YRUMizPMQUEgGTojL2) | 3:14 |
 | 11 | [I Went to the Levee](https://open.spotify.com/track/3muN3Ligfjws6oPgUtTpAQ) | [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Don't Call Me Baby](https://open.spotify.com/album/1MWyBGAfYok6QLMrotjJg6) | 3:37 |
 | 12 | [off day](https://open.spotify.com/track/1oRVV0MGr5jza6NAGEQ2Nd) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [off day](https://open.spotify.com/album/1nIu38uixi5e1RFBpv25TE) | 3:12 |
-| 13 | [Leave \- Bonus Track](https://open.spotify.com/track/1J9rjkTGB48gkXEYr1bZFu) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [George](https://open.spotify.com/album/2WCrgpZ3OFFyNj8M0wRgz6) | 3:40 |
+| 13 | [Leave \(Bonus Track\)](https://open.spotify.com/track/1J9rjkTGB48gkXEYr1bZFu) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [George](https://open.spotify.com/album/2WCrgpZ3OFFyNj8M0wRgz6) | 3:40 |
 | 14 | [Every Scar](https://open.spotify.com/track/43SRkE6MyiNXHXGeHO7Tg9) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [Every Scar](https://open.spotify.com/album/0GKOGR382B4pDrLJVBH4Xc) | 2:57 |
 | 15 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:58 |
 | 16 | [Peru](https://open.spotify.com/track/5EU1VTFCSe7PPE1P3MFxGN) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Through This Fire Across from Peter Balkan](https://open.spotify.com/album/23wXSnurzNp56xCyGBPQ65) | 3:54 |

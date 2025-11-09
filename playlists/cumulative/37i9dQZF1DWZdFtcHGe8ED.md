@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Metallica
 
-462 songs - 1 day 8 hr 45 min
+463 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Humanicide](https://open.spotify.com/track/7KmMhTk07elK9dxu49Owi2) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Humanicide](https://open.spotify.com/album/46AMs0qxmBYUagBy5Dw1Tm) | 5:42 | 2022-07-13 | 2024-04-19 |
 | [Humanoid](https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Humanoid](https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD) | 4:35 | 2024-03-08 |  |
 | [I Am in Command](https://open.spotify.com/track/7AU53yFVENz1sAt3LBldLi) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Never, Neverland](https://open.spotify.com/album/68MPcAtxmP35jvEd4kHxtn) | 3:34 | 2025-05-02 |  |
+| [I DON'T CARE](https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8) | [Rebellix](https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O) | [I DON'T CARE](https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B) | 3:13 | 2025-11-07 |  |
 | [I Sever](https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Cycle of Suffering](https://open.spotify.com/album/667otcFavTltYttK0VqcVm) | 5:08 | 2022-07-13 | 2024-04-19 |
 | [I Sever](https://open.spotify.com/track/5a8lCmvaBHjwSqpxH75pLz) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [I Sever](https://open.spotify.com/album/0PzccQNvgYHMXKmMm5QtIi) | 5:08 | 2021-12-17 | 2022-07-28 |
 | [Idle Hands](https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [Idle Hands](https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU) | 3:44 | 2024-03-08 |  |
@@ -300,7 +301,7 @@
 | [Perpetual Chaos](https://open.spotify.com/track/5Qk5KU60bM84nUt7kyyMPG) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2DJTZaqrWVPoIRgWtMTgPy) | 3:39 | 2021-12-17 | 2022-07-28 |
 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 | 2021-12-17 |  |
 | [Phantom Graves](https://open.spotify.com/track/58RBSrRamSP8hhrYpvJYqe) | [Accuser](https://open.spotify.com/artist/5QCQHF5hJbsMFtE4dY0Ifq) | [Phantom Graves](https://open.spotify.com/album/5ozspVZcxfm1RIee5CKmWK) | 3:59 | 2021-12-17 | 2022-03-03 |
-| [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 | 2024-06-10 |  |
+| [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 | 2024-06-10 | 2025-11-09 |
 | [Planet Eaters](https://open.spotify.com/track/0Z7vzeA4iARryELXvgLrpw) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Planet Eaters](https://open.spotify.com/album/1ShyesD8tBxk8NWmdIXjF3) | 5:32 | 2021-12-17 | 2022-02-11 |
 | [Pleasure to Kill](https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc) | 4:08 | 2022-07-13 | 2023-11-02 |
 | [Pleasure to Kill](https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [1985\-1992 Past Life Trauma](https://open.spotify.com/album/22Ad1HDSVfWzPfOwY4DyG6) | 4:09 | 2022-07-13 | 2022-07-15 |

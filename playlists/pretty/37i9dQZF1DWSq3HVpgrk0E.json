@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Young Thug",
-  "num_followers": 273107,
+  "num_followers": 273090,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-10-17 08:56:00",
       "album": {
+        "name": "SHOW ME LOVE (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/4jZicC7cLLn9dQt4vGvtNh"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "SHOW ME LOVE (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo"
+    },
+    {
+      "added_at": "2025-10-17 08:56:00",
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 344571,
       "name": "Victory Lap Five",
       "url": "https://open.spotify.com/track/7vV6MiU4BHLuNyu4P87z9k"
-    },
-    {
-      "added_at": "2025-10-17 08:56:00",
-      "album": {
-        "name": "SHOW ME LOVE (feat. Tory Lanez)",
-        "url": "https://open.spotify.com/album/4jZicC7cLLn9dQt4vGvtNh"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "SHOW ME LOVE (feat. Tory Lanez)",
-      "url": "https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo"
     },
     {
       "added_at": "2025-10-17 08:56:00",

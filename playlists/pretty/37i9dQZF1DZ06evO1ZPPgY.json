@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 231011,
+  "num_followers": 231048,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADjAtKp9HllBfxfJzWQRtap",
+  "snapshot_id": "aQ02gAAAAADLZeM2G71S79s5BODtGmrU",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love To Sing The Songs I Sing",
-        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "I Love To Sing The Songs I Sing",
-      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Icon Is Love",
         "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 301440,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 305600,
-      "name": "If You Know, Won't You Tell Me",
-      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
+      "duration_ms": 342360,
+      "name": "Which Way is Up",
+      "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Staying Power",
-        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 342360,
-      "name": "Which Way is Up",
-      "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
+      "duration_ms": 305600,
+      "name": "If You Know, Won't You Tell Me",
+      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: DJ Snake & Stray Kids\)
 
-258 songs - 13 hr 33 min
+259 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 2:59 | 2025-11-07 |  |
 | [In the morning \- English Ver.](https://open.spotify.com/track/4GNMnhLF0sfDxXbEjAl2TA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [In the morning \(English Ver.\)](https://open.spotify.com/album/5jDFUDs30zMukAEk81Fveg) | 2:52 | 2021-12-20 | 2022-06-01 |
 | [Ito](https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Ito](https://open.spotify.com/album/4kZPJgs4OcK4AXHlEbIwuU) | 4:03 | 2021-12-20 | 2022-08-30 |
+| [i’m like that \(feat\. Loco\)](https://open.spotify.com/track/2pxKB19fIuNoP7l3YuWZCh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [i’m like that \(feat\. Loco\)](https://open.spotify.com/album/5LzADECg642S1CvXPymtQ0) | 2:15 | 2025-11-09 |  |
 | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY) | 3:59 | 2024-08-30 |  |
 | [Jacuzzi](https://open.spotify.com/track/3WS8Wul8jTZg9jvmN8556Q) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [DJ FLICT](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX) | [Jacuzzi](https://open.spotify.com/album/3OZaC0jqmBwWn1CEScwzlt) | 2:51 | 2023-10-13 | 2025-07-11 |
 | [jellyous \(Feat\. Sophie Powers\)](https://open.spotify.com/track/1hAAuDuBSaoIkgSb7Lyakt) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [jellyous \(Feat\. Sophie Powers\)](https://open.spotify.com/album/0XKtGPLlJMTOP4DmhRpOwg) | 2:43 | 2025-08-01 |  |

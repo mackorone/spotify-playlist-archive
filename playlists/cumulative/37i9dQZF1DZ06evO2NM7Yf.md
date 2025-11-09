@@ -4,7 +4,7 @@
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 3 min
+69 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,8 @@
 | [cupids on cocaine](https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [cupids on cocaine](https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC) | 2:28 | 2024-10-20 | 2025-01-07 |
 | [cupids on cocaine](https://open.spotify.com/track/1a8I2Xf2oz9wUcYUJq5vxF) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:28 | 2025-07-25 | 2025-10-11 |
 | [cupids on cocaine](https://open.spotify.com/track/2q9w5xYo26ly8nFMnGQEcV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:28 | 2025-01-07 | 2025-07-18 |
+| [Dancing with the Devil](https://open.spotify.com/track/1NVUAB4CT1mKBdLKkQphrr) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:34 | 2025-11-09 |  |
+| [Disco Dystopia](https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:16 | 2025-11-09 |  |
 | [Dive Bar Opera](https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Dive Bar Opera](https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn) | 2:26 | 2025-07-20 |  |
 | [DO YOU LIKE ME?](https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DO YOU LIKE ME?](https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS) | 2:57 | 2024-04-19 | 2024-12-03 |
 | [DO YOU LIKE ME?](https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:57 | 2025-10-11 |  |
@@ -48,7 +50,10 @@
 | [God Damn Baby](https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [God Damn Baby](https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR) | 3:12 | 2025-09-10 |  |
 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 | 2024-01-10 | 2025-10-07 |
 | [guitar center](https://open.spotify.com/track/2KL350smdGutz70FYGjVkP) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp) | 3:07 | 2025-10-07 |  |
+| [Hedonistic](https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:39 | 2025-11-09 |  |
 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 | 2024-01-10 |  |
+| [I've got a bad feeling...](https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:22 | 2025-11-09 |  |
+| [Introduction](https://open.spotify.com/track/7FVYj2QfqGOfC06kiX4u14) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 1:15 | 2025-11-09 |  |
 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 | 2024-01-11 | 2025-08-02 |
 | [jesus christ in a mini skirt](https://open.spotify.com/track/24zNxMViyAoKKKqiJ6bAEp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:00 | 2025-08-02 |  |
 | [jesus christ in a mini skirt](https://open.spotify.com/track/3NBUJUIw8KQ5yjZ3QIySoJ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:00 | 2025-05-16 | 2025-07-01 |

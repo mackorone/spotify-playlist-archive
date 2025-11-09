@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈 Morad in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,032 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,077 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 27 | [Scama](https://open.spotify.com/track/4yoixiIoVeayqPFfAxIYo1) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [Scama](https://open.spotify.com/album/1sq14uYbikBnVfn1xB5erA) | 2:03 |
 | 28 | [Fammi Un Sorriso](https://open.spotify.com/track/02YGjSuE9z5UJQclMUaNUk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Fammi Un Sorriso](https://open.spotify.com/album/0N0fLWG8aHBO83FOMU26AF) | 2:56 |
 | 29 | [Willy Wonka](https://open.spotify.com/track/2bdn9JRP2J0T48V35BLjCP) | [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [Willy Wonka](https://open.spotify.com/album/1pvX4ZwsxdyRzcqtBwBGKf) | 3:03 |
-| 30 | [Quelli Di Ieri](https://open.spotify.com/track/3cqSUFBFcXEKWymWcnETpa) | [Luche](https://open.spotify.com/artist/6wlBSVujlSki49SPJvsSSG), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 3:32 |
+| 30 | [Quelli Di Ieri](https://open.spotify.com/track/3cqSUFBFcXEKWymWcnETpa) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 3:32 |
 | 31 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
 | 32 | [VRP](https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:28 |
 | 33 | [Wish \(feat\. Trippie Redd\) \- Trippie Mix](https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 2:56 |

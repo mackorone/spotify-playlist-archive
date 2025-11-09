@@ -1,33 +1,13 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 673,
+  "num_followers": 674,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACfd1prXz2Am++fgEd4DG7P",
+  "snapshot_id": "aQ02gAAAAAC/UHaBM3fk4UoCqwW83G/k",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Blemishes",
-        "url": "https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "No Blemishes",
-      "url": "https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,6 +55,26 @@
       "duration_ms": 168000,
       "name": "Infrared Dot Com",
       "url": "https://open.spotify.com/track/3b5I57tVspSA7lohEzaHAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Blemishes",
+        "url": "https://open.spotify.com/album/3SNDgPKTmIwRMFrBGQsXoX"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "No Blemishes",
+      "url": "https://open.spotify.com/track/43bRvhfCFnGBX6Dk8v41wz"
     },
     {
       "added_at": null,
@@ -542,11 +542,15 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Double Dee",
+          "url": "https://open.spotify.com/artist/0VCa5LsylPVCUo93jxHCYe"
         }
       ],
-      "duration_ms": 181132,
-      "name": "Evil Genius",
-      "url": "https://open.spotify.com/track/1QJzaFcIyh8EJ6SJ3itXRf"
+      "duration_ms": 182857,
+      "name": "Early Worms Get Birds",
+      "url": "https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm"
     },
     {
       "added_at": null,
@@ -571,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 184910,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE PRYCE YOU PAY",
         "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
       },
@@ -611,6 +595,26 @@
       "duration_ms": 183000,
       "name": "LOOT-CRATIVE",
       "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 184910,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
     },
     {
       "added_at": null,
@@ -655,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 127089,
-      "name": "Deliver Us from Evil",
-      "url": "https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -699,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 127089,
+      "name": "Deliver Us from Evil",
+      "url": "https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ultimate Dump Gawd",
         "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },
@@ -719,42 +723,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "POTLUCK",
-        "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
+        "name": "THE PRYCE YOU PAY",
+        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
       },
       "artists": [
         {
-          "name": "Bruiser Wolf",
-          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+          "name": "Slik Jack",
+          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
+        },
+        {
+          "name": "Vincent Pryce",
+          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
+        },
+        {
+          "name": "Troy Dunnit",
+          "url": "https://open.spotify.com/artist/05dKYqnKFrjD0Fs4D7G00z"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 157290,
-      "name": "Beat The Charge",
-      "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 188414,
-      "name": "Final Destination",
-      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
+      "duration_ms": 151807,
+      "name": "DUHM PAYD",
+      "url": "https://open.spotify.com/track/3a5tWiIFOG4vBjKeIo6hB7"
     },
     {
       "added_at": null,
@@ -783,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 188414,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ultimate Dump Gawd",
         "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },
@@ -803,6 +815,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "POTLUCK",
+        "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
+      },
+      "artists": [
+        {
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 157290,
+      "name": "Beat The Charge",
+      "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 146807,
+      "name": "Wit out a Question",
+      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -819,6 +871,26 @@
       "duration_ms": 162909,
       "name": "Yzerman",
       "url": "https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 170736,
+      "name": "The Intent of Vengeance",
+      "url": "https://open.spotify.com/track/5XCsMIbMrgG4NPaFd66UtY"
     },
     {
       "added_at": null,
@@ -860,57 +932,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 146807,
-      "name": "Wit out a Question",
-      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 149681,
-      "name": "Plot Armor",
-      "url": "https://open.spotify.com/track/1DQPhJkeklnFKOgUsIajnM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE PRYCE YOU PAY",
-        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
-      },
-      "artists": [
-        {
-          "name": "Slik Jack",
-          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
-        },
-        {
-          "name": "Vincent Pryce",
-          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
-        },
-        {
-          "name": "Troy Dunnit",
-          "url": "https://open.spotify.com/artist/05dKYqnKFrjD0Fs4D7G00z"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 151807,
-      "name": "DUHM PAYD",
-      "url": "https://open.spotify.com/track/3a5tWiIFOG4vBjKeIo6hB7"
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
     },
     {
       "added_at": null,
@@ -939,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 134269,
-      "name": "Look What You Done",
-      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -975,26 +979,6 @@
       "duration_ms": 69608,
       "name": "Midsommar",
       "url": "https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Homefront",
-      "url": "https://open.spotify.com/track/3ZUhAydlzZ3FrF16Lu8Q2u"
     },
     {
       "added_at": null,
@@ -1023,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Homefront",
+      "url": "https://open.spotify.com/track/3ZUhAydlzZ3FrF16Lu8Q2u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -1039,26 +1043,6 @@
       "duration_ms": 120187,
       "name": "Big George Bombs",
       "url": "https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Mile Stare",
-        "url": "https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz"
-      },
-      "artists": [
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 198191,
-      "name": "1000 Mile Stare",
-      "url": "https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

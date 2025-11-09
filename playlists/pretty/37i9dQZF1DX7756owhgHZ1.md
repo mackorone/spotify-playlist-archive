@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,393 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,396 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 72 | [Freightliner](https://open.spotify.com/track/3ass5xSh5ws3AyTF2l8cCq) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Fuel for the Hate Game](https://open.spotify.com/album/1ECqsVdmpgQRtnxFNCdnuS) | 3:17 |
 | 73 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
 | 74 | [Dig That Groove Baby](https://open.spotify.com/track/55uBQHjRdaAzmc6hE8BYPI) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad \- The Anthology](https://open.spotify.com/album/1ylwIEzDsRNab1Z0lqnJ2c) | 2:31 |
-| 75 | [Anarchy In the UK](https://open.spotify.com/track/6jx7pKjpXKuQdXXPI3H8qY) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [The Sex Pistols](https://open.spotify.com/album/5hv8m1pBKCMBf3kYNExaz4) | 3:33 |
+| 75 | [Anarchy In the UK](https://open.spotify.com/track/6jx7pKjpXKuQdXXPI3H8qY) | [Sex Pistols](https://open.spotify.com/artist/6YPoyiSukfYsHIaDKb2wu2) | [The Sex Pistols](https://open.spotify.com/album/5hv8m1pBKCMBf3kYNExaz4) | 3:33 |
 
 Snapshot ID: `AAAAANM4zAK0oyVZKBYVoYfuGocViKtM`

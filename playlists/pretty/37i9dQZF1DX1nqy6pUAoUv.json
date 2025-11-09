@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 171646,
+  "num_followers": 171633,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Prospect Hill: The American Songster Omnibus",
-        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 170456,
-      "name": "Georgia Drumbeat",
-      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Lorraine",
         "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
+        "name": "Prospect Hill: The American Songster Omnibus",
+        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
         }
       ],
-      "duration_ms": 275800,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
+      "duration_ms": 170456,
+      "name": "Georgia Drumbeat",
+      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1503,6 +1487,22 @@
       "duration_ms": 236394,
       "name": "In the Kingdom of Dreams",
       "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "From Where I Started",
-        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW"
       },
       "artists": [
         {
-          "name": "Sera Cahoone",
-          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Time to Give",
-      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
+      "duration_ms": 231263,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C"
     }
   ],
   "unique_name": "Contemporary Folk",

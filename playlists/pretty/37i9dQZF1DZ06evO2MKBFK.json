@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637080,
+  "num_followers": 636984,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADUc55c2K+c58k2RiEzUduA",
+  "snapshot_id": "aQ02gAAAAACaywkq7q5SWer0F/dnEL7H",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BEST OF BIGBANG 2006-2014",
-        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Baby Baby - Japanese Version",
-      "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 233320,
       "name": "Always",
       "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE BEST OF BIGBANG 2006-2014",
+        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Baby Baby - Japanese Version",
+      "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
     },
     {
       "added_at": null,

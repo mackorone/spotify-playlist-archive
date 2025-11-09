@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 38 | [No One Cries Forever](https://open.spotify.com/track/3GUIY6vXdNA0z2tkW8yCjh) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [No One Cries Forever](https://open.spotify.com/album/2v6r3pOiKcDQ36A29iKTkF) | 2:45 |
 | 39 | [The Long Way](https://open.spotify.com/track/6IqtVAAmmFYYyUJ38KzP2E) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [The Long Way](https://open.spotify.com/album/6SOZRzxy6hlUsV6g7DCcuc) | 4:01 |
 | 40 | [Gulzar](https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD) | 3:09 |
-| 41 | [Comfortable](https://open.spotify.com/track/2wpbd3TMjF3zuJhSwln1iX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Comfortable](https://open.spotify.com/album/4IyNzsMpD1ztwKGEgQjsxC) | 2:26 |
-| 42 | [Hope That I Go First](https://open.spotify.com/track/6ITZgBVNjWEjuS0KxWwE60) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 2:45 |
+| 41 | [Hope That I Go First](https://open.spotify.com/track/6ITZgBVNjWEjuS0KxWwE60) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 2:45 |
+| 42 | [Comfortable](https://open.spotify.com/track/2wpbd3TMjF3zuJhSwln1iX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Comfortable](https://open.spotify.com/album/4IyNzsMpD1ztwKGEgQjsxC) | 2:26 |
 | 43 | [Wax On Wax Off](https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj) | 2:51 |
 | 44 | [Discovering You](https://open.spotify.com/track/3exJk2UsZJz4SFAIXoDt4i) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [New Stage](https://open.spotify.com/album/29ZHoZziuOvmkSArdiUXAw) | 2:32 |
 | 45 | [Down Easy](https://open.spotify.com/track/4VMtyHM4MTW8DKtxas8K16) | [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Down Easy](https://open.spotify.com/album/7eSICnVsgASy2NGJtSxkxj) | 3:42 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 131 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 132 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `AcA+3AAAAADs6GFYP04diDvSY/0Y7k/P`
+Snapshot ID: `AcBEaAAAAAD6FjjG2LTWAEcsa+mvUbMn`

@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect dinner.",
-  "num_followers": 140933,
+  "num_followers": 140935,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
+        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 142746,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 213933,
       "name": "Easy to Come Home",
       "url": "https://open.spotify.com/track/3UZ8WlceXd5kDmnpNvA8Dd"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
-        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
-        }
-      ],
-      "duration_ms": 142746,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 138533,
       "name": "Ain't Nothing Like The Real Thing",
       "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "The Baby Huey Story: The Living Legend",
         "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 203373,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 208555,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Express Yourself (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 229653,
       "name": "Express Yourself - Remastered Version",
       "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Bet Ain't Worth the Hand",
-      "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Inspiration Information/ Wings Of Love",
         "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 252200,
       "name": "Inspiration Information",
       "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Bet Ain't Worth the Hand",
+      "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 211426,
       "name": "Wake up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Down in the Valley - Mono; 2018 Remaster",
-      "url": "https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Down in the Valley - Mono; 2018 Remaster",
+      "url": "https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 455640,
       "name": "Something",
       "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/6kEe268WsSL0bE5KPeaq8X"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Fantasy - Single Version",
-      "url": "https://open.spotify.com/track/3YcusdF0VAb25wLvmvJDJ6"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Mmm... Gumbo? [ International Version ]",
         "url": "https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 239213,
       "name": "What Will It Be?",
       "url": "https://open.spotify.com/track/5Z6Y7HWyIQJ1Y5DaepehAp"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/6kEe268WsSL0bE5KPeaq8X"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Fantasy - Single Version",
+      "url": "https://open.spotify.com/track/3YcusdF0VAb25wLvmvJDJ6"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Bet Ain't Worth the Hand / Bad Bad News",
+        "url": "https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/5OtaRmEFDEDWIwxpqOgf03"
       },
@@ -2619,6 +2635,22 @@
       "duration_ms": 308973,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/12Ht0EOxXboCpbW58Wxxdf"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Shake You Down",
+        "url": "https://open.spotify.com/album/5l3jMPHay7Jfy1ziPIKBro"
+      },
+      "artists": [
+        {
+          "name": "Gregory Abbott",
+          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "Shake You Down",
+      "url": "https://open.spotify.com/track/6AyURVQJn9o8qwiYvE37nG"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2803,22 +2835,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Bet Ain't Worth the Hand / Bad Bad News",
-        "url": "https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "The Addict",
         "url": "https://open.spotify.com/album/2HFb5wiy7PY5u11FhHzkCK"
       },
@@ -2987,22 +3003,6 @@
       "duration_ms": 224000,
       "name": "This Girl (feat. Kylie Auldist)",
       "url": "https://open.spotify.com/track/5rjPINVemhJJL3JUiXLeV1"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Shake You Down",
-        "url": "https://open.spotify.com/album/5l3jMPHay7Jfy1ziPIKBro"
-      },
-      "artists": [
-        {
-          "name": "Gregory Abbott",
-          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
-        }
-      ],
-      "duration_ms": 244373,
-      "name": "Shake You Down",
-      "url": "https://open.spotify.com/track/6AyURVQJn9o8qwiYvE37nG"
     },
     {
       "added_at": "2025-08-08 09:33:38",

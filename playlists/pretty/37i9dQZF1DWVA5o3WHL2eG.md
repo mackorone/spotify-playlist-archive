@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: lovehead
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,996 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,009 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 6 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 |
 | 7 | [erdnussallergie](https://open.spotify.com/track/4eBDKj52bjWGqmxiEYkQTp) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [erdnussallergie](https://open.spotify.com/album/0durMZegCQh5kZ9S3gVtg5) | 1:53 |
 | 8 | [IHR MÖCHTEGERN](https://open.spotify.com/track/6M1SZZHz3FRPFQlrCotp7G) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Schwesta Ewa](https://open.spotify.com/artist/7jDSMakHqXFe8kIaXfz8jD) | [IHR MÖCHTEGERN](https://open.spotify.com/album/6ygqkJXeFxSTMM1FXK15CA) | 2:23 |
-| 9 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
-| 10 | [Das schönste Mädchen der Welt](https://open.spotify.com/track/54h7GhGTN7expLX1qYVe8P) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Das schönste Mädchen der Welt](https://open.spotify.com/album/2fuitv9wX2nfqTOLrPvoQh) | 3:00 |
+| 9 | [Das schönste Mädchen der Welt](https://open.spotify.com/track/54h7GhGTN7expLX1qYVe8P) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Das schönste Mädchen der Welt](https://open.spotify.com/album/2fuitv9wX2nfqTOLrPvoQh) | 3:00 |
+| 10 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
 | 11 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 |
 | 12 | [Erst wenn die Sterne](https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:15 |
 | 13 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 41 | [Vintage](https://open.spotify.com/track/72oK96eyMnh3DRMXivcuZN) | [ACE TEE](https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm) | [Vintage](https://open.spotify.com/album/72wT4Jzqk847duVsMqfluJ) | 2:08 |
 | 42 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
 | 43 | [I see all my girls](https://open.spotify.com/track/7nSAxvTZ6MLWmo9tNwhzMQ) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [4 stages of sleep](https://open.spotify.com/album/7L5bocORkONslMh2gG8I1z) | 3:43 |
-| 44 | [Memphis](https://open.spotify.com/track/5ESCkKKAhKZTTZ0sQ4dk0R) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Everything Got Too Sci\-Fi To Be Disco EP](https://open.spotify.com/album/0JdKdy348b4fYIsQdsnX2V) | 2:27 |
-| 45 | [Bibis Beauty Palace](https://open.spotify.com/track/3TtiIluPhmqx8AOcXY5GMN) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW), [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q) | [Bibis Beauty Palace](https://open.spotify.com/album/0oNvl7gA4wuRMpRcI5LzrA) | 2:15 |
+| 44 | [Bibis Beauty Palace](https://open.spotify.com/track/3TtiIluPhmqx8AOcXY5GMN) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW), [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q) | [Bibis Beauty Palace](https://open.spotify.com/album/0oNvl7gA4wuRMpRcI5LzrA) | 2:15 |
+| 45 | [Memphis](https://open.spotify.com/track/5ESCkKKAhKZTTZ0sQ4dk0R) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Everything Got Too Sci\-Fi To Be Disco EP](https://open.spotify.com/album/0JdKdy348b4fYIsQdsnX2V) | 2:27 |
 | 46 | [Petermännchen](https://open.spotify.com/track/2DHBePFET5uDtgt4OsKW6o) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Petermännchen](https://open.spotify.com/album/7Avqdl8JUHE7etZqSBd1PG) | 3:31 |
 | 47 | [Keep Talking](https://open.spotify.com/track/44jfB9HKuDpXn8RjzSxh5Y) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Keep Talking](https://open.spotify.com/album/6G6vBapM0ttf4Z8JPgXD2u) | 3:27 |
 | 48 | [Working In The Garden](https://open.spotify.com/track/1bHzayckfk3pnjzWeZynbf) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Working In The Garden](https://open.spotify.com/album/6BklUKKOfYdvlDTDlHPC8p) | 2:49 |

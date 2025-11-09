@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4999,
+  "num_followers": 4998,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAUOgXO/9jbDOp/3sJQWD8g",
+  "snapshot_id": "aQ02gAAAAAAumJjKZ3sP3X3NyhQAEptC",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 148069,
-      "name": "Rainbow Cadillac",
-      "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "While You Wait",
         "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 208149,
       "name": "Come First",
       "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 148069,
+      "name": "Rainbow Cadillac",
+      "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eenie Meenie",
-        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 142175,
-      "name": "Eenie Meenie",
-      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tate Tuesday, Vol. 1",
         "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 126400,
       "name": "Super Sick",
       "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eenie Meenie",
+        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 142175,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/73UsWRce52p5IBTy8gDf4M"
+      },
+      "artists": [
+        {
+          "name": "Izye",
+          "url": "https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 171431,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/1crxMZzlCfCFMcuBID0Exf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 168094,
       "name": "Hey Ladies",
       "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/73UsWRce52p5IBTy8gDf4M"
-      },
-      "artists": [
-        {
-          "name": "Izye",
-          "url": "https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 171431,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/1crxMZzlCfCFMcuBID0Exf"
     },
     {
       "added_at": null,
@@ -983,22 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+        "name": "Kim (with Baby Tate)",
+        "url": "https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 192057,
-      "name": "Don\u2019t Even Think About It (with Baby Tate)",
-      "url": "https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK"
+      "duration_ms": 158740,
+      "name": "Kim (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt"
     }
   ],
   "unique_name": "This Is Baby Tate",

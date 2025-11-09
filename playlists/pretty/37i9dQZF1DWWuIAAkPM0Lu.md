@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Saveus, Saint clara, Bless You og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,292 likes - 105 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,293 likes - 105 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

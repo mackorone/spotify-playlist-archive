@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze",
-  "num_followers": 103086,
+  "num_followers": 103136,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Most High - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
-    },
-    {
       "added_at": "2025-10-31 00:01:29",
       "album": {
         "name": "Head 2 Core",
@@ -1103,6 +1087,22 @@
       "duration_ms": 146264,
       "name": "Head 2 Core",
       "url": "https://open.spotify.com/track/0MOiNpIjZcHegtStf7gCY7"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Most High - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1193,26 +1193,6 @@
       "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
     },
     {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Zion",
-        "url": "https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 535991,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Better Me",
@@ -1227,6 +1207,22 @@
       "duration_ms": 505147,
       "name": "Be Lifted (Live)",
       "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
+    },
+    {
+      "added_at": "2025-09-05 00:01:24",
+      "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 438200,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1253,36 +1249,24 @@
       "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
     },
     {
-      "added_at": "2025-09-05 00:01:24",
+      "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Only King Forever",
-        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+        "name": "Zion",
+        "url": "https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 438200,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
-    },
-    {
-      "added_at": "2025-09-26 00:01:31",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO"
-      },
-      "artists": [
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 346500,
-      "name": "Ebenezer (My Helper)",
-      "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
+      "duration_ms": 535991,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 154588,
       "name": "Pretty Day",
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
+    },
+    {
+      "added_at": "2025-09-26 00:01:31",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 346500,
+      "name": "Ebenezer (My Helper)",
+      "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
-      "added_at": "2025-10-03 00:01:16",
-      "album": {
-        "name": "4Love (Live at CRC, Pretoria, 2025)",
-        "url": "https://open.spotify.com/album/0g3BcSfCAuRn5bXAhFT7CI"
-      },
-      "artists": [
-        {
-          "name": "CRC Music",
-          "url": "https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7"
-        }
-      ],
-      "duration_ms": 383876,
-      "name": "That's What You Do",
-      "url": "https://open.spotify.com/track/3LmoUZyMBnZxCaCuc3QZaK"
-    },
-    {
       "added_at": "2025-05-30 00:01:31",
       "album": {
         "name": "Pray For Me",
@@ -1399,6 +1383,22 @@
       "duration_ms": 166000,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
+    },
+    {
+      "added_at": "2025-10-03 00:01:16",
+      "album": {
+        "name": "4Love (Live at CRC, Pretoria, 2025)",
+        "url": "https://open.spotify.com/album/0g3BcSfCAuRn5bXAhFT7CI"
+      },
+      "artists": [
+        {
+          "name": "CRC Music",
+          "url": "https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7"
+        }
+      ],
+      "duration_ms": 383876,
+      "name": "That's What You Do",
+      "url": "https://open.spotify.com/track/3LmoUZyMBnZxCaCuc3QZaK"
     },
     {
       "added_at": "2024-11-29 04:30:29",
@@ -1501,6 +1501,22 @@
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
     },
     {
+      "added_at": "2025-05-30 00:01:31",
+      "album": {
+        "name": "Sound The Alarm (Anazao)",
+        "url": "https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        }
+      ],
+      "duration_ms": 382789,
+      "name": "Sound The Alarm (Anazao)",
+      "url": "https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA"
+    },
+    {
       "added_at": "2025-01-07 00:01:28",
       "album": {
         "name": "This Year (Remix)",
@@ -1519,22 +1535,6 @@
       "duration_ms": 162782,
       "name": "This Year - Remix",
       "url": "https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7"
-    },
-    {
-      "added_at": "2025-05-30 00:01:31",
-      "album": {
-        "name": "Sound The Alarm (Anazao)",
-        "url": "https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm"
-      },
-      "artists": [
-        {
-          "name": "Deborah Billyben",
-          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
-        }
-      ],
-      "duration_ms": 382789,
-      "name": "Sound The Alarm (Anazao)",
-      "url": "https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -1569,24 +1569,68 @@
       "url": "https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2025-10-24 00:01:23",
       "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+        "name": "Alagbara",
+        "url": "https://open.spotify.com/album/1kypOCpT6scvbCNE177L2W"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
         },
         {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+          "name": "WeAreTheNew",
+          "url": "https://open.spotify.com/artist/1lVM02LC8pM8pxbnmtDeKw"
+        },
+        {
+          "name": "Pastor Shola Okodugha",
+          "url": "https://open.spotify.com/artist/2CcSi56yoYs8faHU3hceZw"
+        },
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        },
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        },
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Kelvin Nkwoala",
+          "url": "https://open.spotify.com/artist/7hBJrXHYfY6Pi4l4kG36p7"
+        },
+        {
+          "name": "Victorious Lucas",
+          "url": "https://open.spotify.com/artist/4VZkSLOrUCES0y6noPKn3A"
+        },
+        {
+          "name": "James Vincent",
+          "url": "https://open.spotify.com/artist/4XFX8zfCKhKfwmpKQG0fJO"
+        },
+        {
+          "name": "Eunice Jossy",
+          "url": "https://open.spotify.com/artist/6D5Ls3TSy4pTtpEBGbQcZM"
+        },
+        {
+          "name": "Bada Godwin",
+          "url": "https://open.spotify.com/artist/3OpSfWD36e1vwrf16uou9F"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        },
+        {
+          "name": "Unabridged",
+          "url": "https://open.spotify.com/artist/3aO45HJLoEIUUsMlqNcQrx"
         }
       ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+      "duration_ms": 398774,
+      "name": "Alagbara",
+      "url": "https://open.spotify.com/track/5z9tMTGaBdOs0UccZ5v3XJ"
     }
   ],
   "unique_name": "Be Lifted ",

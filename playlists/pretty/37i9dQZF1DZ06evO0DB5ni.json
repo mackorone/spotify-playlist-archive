@@ -1,29 +1,13 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 883706,
+  "num_followers": 883940,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAB+4V6+kQeAvK13CGuohhLm",
+  "snapshot_id": "aQ02gAAAAAAqjtt+uf2OCDX9azjfTlmo",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/1oLoLphydD0kRsMnTvP8NM"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 183456,
-      "name": "Mi Decisi\u00f3n",
-      "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
-    },
     {
       "added_at": null,
       "album": {
@@ -203,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/1oLoLphydD0kRsMnTvP8NM"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 183456,
+      "name": "Mi Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 182480,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "42 18",
-        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 183315,
-      "name": "Vibra Perfecta",
-      "url": "https://open.spotify.com/track/1VvYHOnT8CdfpN0EYTELB2"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
       "duration_ms": 212186,
       "name": "Que Dar\u00eda",
       "url": "https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "42 18",
+        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 183315,
+      "name": "Vibra Perfecta",
+      "url": "https://open.spotify.com/track/1VvYHOnT8CdfpN0EYTELB2"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "42 18",
-        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 139759,
-      "name": "Safo En El Amor",
-      "url": "https://open.spotify.com/track/3nwVXnH87Q9f1RaAODNoyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atento Aviso ... Rey Sin Reina",
         "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 154918,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "42 18",
+        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 139759,
+      "name": "Safo En El Amor",
+      "url": "https://open.spotify.com/track/3nwVXnH87Q9f1RaAODNoyl"
     },
     {
       "added_at": null,

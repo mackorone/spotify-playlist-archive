@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a> 💪💥
 
-445 songs - 23 hr 57 min
+446 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/track/6jtNk2zqbiZ9S7l6Gcp78A) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/album/5NsU3AvjQswUoFEkuqSCSw) | 3:02 | 2022-07-22 | 2023-11-04 |
 | [2 The Brain](https://open.spotify.com/track/1sR0NZ42EGY6bW2lidiC45) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [2 The Brain](https://open.spotify.com/album/7fVwQzo8mG4GlPAhHn5ElW) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 | 2024-05-10 |  |
+| [Adrenaline](https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Adrenaline](https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj) | 2:35 | 2025-11-07 |  |
 | [AETHER \- Hex Cougar Remix](https://open.spotify.com/track/0JT6aP58HKQ80VrXSVD8cK) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [AETHER \(Hex Cougar Remix\)](https://open.spotify.com/album/6lEL2qnKiGsbpvDEtcc9lN) | 4:03 | 2021-11-19 | 2022-01-08 |
 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-30 | 2025-09-03 |
 | [AIRPLANE MODE](https://open.spotify.com/track/27K16LGxXQaTGAUTTIAJju) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [ABBY M.](https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM) | [AIRPLANE MODE](https://open.spotify.com/album/7s3UIQN7qZ5ubYklMaW4Cf) | 2:36 | 2025-07-25 | 2025-08-26 |
@@ -144,7 +145,7 @@
 | [Forgive Forget](https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Forgive Forget](https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs) | 3:18 | 2024-01-12 | 2024-02-13 |
 | [Fuck It Up](https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [Fuck It Up](https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3) | 2:12 | 2025-01-07 |  |
 | [FUCK IT UP](https://open.spotify.com/track/5s5Iv5IJ0hz0KDLXi14jRY) | [M?STIC](https://open.spotify.com/artist/0xlnHj0LM8ohKxoVEu56L4), [808GONG](https://open.spotify.com/artist/0JjEnXvT2nZMKYGmkZY5qC), [KEWL JERK](https://open.spotify.com/artist/0OCxBT7jOo0arczn7H4aKT) | [FUCK IT UP](https://open.spotify.com/album/3lnshycm7c7Kv24RpPTXWb) | 2:53 | 2021-11-19 | 2022-01-08 |
-| [fw me \(dirty\)](https://open.spotify.com/track/23bMrDNmqXJYfe8cY6Sw49) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:50 | 2025-01-17 |  |
+| [fw me \(dirty\)](https://open.spotify.com/track/23bMrDNmqXJYfe8cY6Sw49) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:50 | 2025-01-17 | 2025-11-09 |
 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-27 | 2023-09-11 |
 | [Gainz](https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr) | 3:53 | 2021-11-19 | 2023-06-08 |
 | [Gainz](https://open.spotify.com/track/767R2eTuR9fBn4k82zLiXd) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/42kbR7t1IBBHkyvTPEkZk0) | 3:53 | 2023-07-14 | 2023-12-16 |

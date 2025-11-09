@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "LA PLEBADA",
+        "url": "https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189240,
+      "name": "LA PLEBADA",
+      "url": "https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX"
+    },
+    {
+      "album": {
         "name": "Piensa en Mi",
         "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },

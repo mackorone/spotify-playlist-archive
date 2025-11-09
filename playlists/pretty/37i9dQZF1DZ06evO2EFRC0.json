@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97101,
+  "num_followers": 97110,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAByifJrvxUjrI3J04oEA9yd",
+  "snapshot_id": "aQ02gAAAAAD4btdlEeBD4h1f2sD7kML3",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 380342,
-      "name": "Ex\u00e1ltate",
-      "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 437460,
-      "name": "Dios ha sido bueno",
-      "url": "https://open.spotify.com/track/7dhiLa8Fvcdhzs6cpC4Osp"
+      "duration_ms": 371788,
+      "name": "Si puedes creer",
+      "url": "https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
+      "duration_ms": 380342,
+      "name": "Ex\u00e1ltate",
+      "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 371788,
-      "name": "Si puedes creer",
-      "url": "https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da"
+      "duration_ms": 437460,
+      "name": "Dios ha sido bueno",
+      "url": "https://open.spotify.com/track/7dhiLa8Fvcdhzs6cpC4Osp"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proyecto AA",
-        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 268565,
-      "name": "Quiero Levantar mis Manos",
-      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Iglesia",
         "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 355417,
       "name": "\u00c9l Siempre Reina",
       "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proyecto AA",
+        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 268565,
+      "name": "Quiero Levantar mis Manos",
+      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
     },
     {
       "added_at": null,
@@ -919,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
       "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 93254,
-      "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
+      "duration_ms": 227291,
+      "name": "Ll\u00e9name Se\u00f1or",
+      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
     }
   ],
   "unique_name": "This Is Marcos Witt",

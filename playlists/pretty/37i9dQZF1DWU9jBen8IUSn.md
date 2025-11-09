@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > <a href="spotify:artist:1moxjboGR7GNWYIMWsRjgG">Florence</a> shares a witchy collection of songs to scream to, ahead of her Halloween release: <a href="https://open.spotify.com/prerelease/3lITBGaOl88npL8uh67JX0?si=5ddecff79fb5482e">Everybody Scream</a>\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,747 likes - 49 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,728 likes - 49 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

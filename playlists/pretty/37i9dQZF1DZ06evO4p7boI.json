@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95934,
+  "num_followers": 95928,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAYFTJe+baMrUV0prm4ivpa",
+  "snapshot_id": "aQ02gAAAAAA0BUdktJwZ5TeymZ17yhDu",
   "tracks": [
     {
       "added_at": null,
@@ -831,26 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Misery Loves Company",
-        "url": "https://open.spotify.com/album/4So2cgWi3q7Ieb9ItvC8TY"
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
       },
       "artists": [
         {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        },
-        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Money Musik",
-          "url": "https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o"
         }
       ],
-      "duration_ms": 166644,
-      "name": "Power Of A Dollar Interlude",
-      "url": "https://open.spotify.com/track/6karkMKGimOzHXzR5ib5td"
+      "duration_ms": 150679,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
     },
     {
       "added_at": null,
@@ -871,18 +863,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baller",
-        "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
+        "name": "Misery Loves Company",
+        "url": "https://open.spotify.com/album/4So2cgWi3q7Ieb9ItvC8TY"
       },
       "artists": [
         {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Money Musik",
+          "url": "https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o"
         }
       ],
-      "duration_ms": 150679,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
+      "duration_ms": 166644,
+      "name": "Power Of A Dollar Interlude",
+      "url": "https://open.spotify.com/track/6karkMKGimOzHXzR5ib5td"
     },
     {
       "added_at": null,

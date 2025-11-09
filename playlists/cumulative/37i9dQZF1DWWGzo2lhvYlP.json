@@ -6109,6 +6109,24 @@
     },
     {
       "album": {
+        "name": "shady",
+        "url": "https://open.spotify.com/album/0Tq1fXfkBJHlGSCcC0E78p"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128230,
+      "name": "shady",
+      "url": "https://open.spotify.com/track/3WCcDNT4MecCulBiLMBETx"
+    },
+    {
+      "album": {
         "name": "she's all i wanna be",
         "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
       },

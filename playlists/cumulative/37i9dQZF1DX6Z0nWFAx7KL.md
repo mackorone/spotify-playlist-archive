@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-338 songs - 16 hr 43 min
+339 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [If I Have To](https://open.spotify.com/track/3YL13hNz8ssxUsPHG7GgUP) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Morane](https://open.spotify.com/artist/6UaAGwEkZDSzBtMbfPcDeB) | [If I Have To](https://open.spotify.com/album/4QuTyx5bLbYPRqzhUymkID) | 4:06 | 2024-11-14 | 2025-02-08 |
 | [ilomilo](https://open.spotify.com/track/5zZaxeRo4e09KUJ5sbEC7Q) | [MBNN](https://open.spotify.com/artist/0ZXntjSej6WUvpEMkRgwKJ), [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [ilomilo](https://open.spotify.com/album/2OcIdyZT6qespG0S1MuxYY) | 3:01 | 2022-09-15 | 2022-11-17 |
 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 | 2022-09-15 | 2024-03-21 |
-| [In This Life](https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [In This Life](https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA) | 2:41 | 2025-02-20 |  |
+| [In This Life](https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [In This Life](https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA) | 2:41 | 2025-02-20 | 2025-11-09 |
 | [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-10-21 | 2024-12-15 |
 | [Inside My Love](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Inside My Love](https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ) | 2:28 | 2024-03-21 | 2024-04-19 |
 | [Inside My Love](https://open.spotify.com/track/47yLW6AY0mHHVMKlTGssZj) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Inside My Love](https://open.spotify.com/album/2OisRBCsbL1WNwFmenCQbR) | 2:28 | 2024-07-26 | 2024-12-13 |
@@ -283,6 +283,7 @@
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2023-11-27 | 2024-02-08 |
 | [Summer Jams](https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams](https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ) | 2:17 | 2022-09-22 | 2024-03-21 |
 | [Summer Stars](https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Summer Stars](https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3) | 2:30 | 2022-09-15 | 2024-08-02 |
+| [Sun In The Cold](https://open.spotify.com/track/4UINrzSXtc1blrnqo00Atj) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [LOWEN](https://open.spotify.com/artist/1Otld2dXsrd1KlFeqWzd0f), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sun In The Cold](https://open.spotify.com/album/4FTwEjOp3Y6J1D0zQPhM3g) | 2:24 | 2025-11-06 |  |
 | [Sun Is Rising](https://open.spotify.com/track/0PoUwYvKs4n36lSbVgHqjC) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG) | [Sun Is Rising](https://open.spotify.com/album/22NUPu3hXxi59AC1yJpNxk) | 1:59 | 2025-05-27 | 2025-09-11 |
 | [Sunday Monday](https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Sunday Monday](https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq) | 2:27 | 2022-12-22 | 2024-03-21 |
 | [Sunlight](https://open.spotify.com/track/595M3e9mqepEd19NGVEABi) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sunlight](https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM) | 3:49 | 2023-10-02 | 2024-09-11 |

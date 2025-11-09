@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-657 songs - 2 day 6 hr 21 min
+658 songs - 2 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Eledumare \- Live](https://open.spotify.com/track/26UUHxn7Mhbav9oJIwhqYc) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Eledumare \(Live\)](https://open.spotify.com/album/4ikbG2W4WG6spfFQ6fNrTc) | 7:07 | 2025-08-22 | 2025-10-03 |
 | [ELIYAH](https://open.spotify.com/track/4VcrZkamuQXvxDhQFV8d9V) | [Funmi Reks](https://open.spotify.com/artist/1W7gXp0BPYb8wyQAnv4eGt) | [ELIYAH](https://open.spotify.com/album/1MYoiymSXTzSjo8jZgxJwC) | 5:15 | 2025-07-04 | 2025-07-26 |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-09-15 | 2024-03-16 |
-| [ELOHIM ADONAI](https://open.spotify.com/track/47hgEqmFIjuJlp3B8XO8ry) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [ELOHIM ADONAI](https://open.spotify.com/album/7qOScbDDN7wgkhDD2WmkU7) | 4:38 | 2025-10-03 |  |
+| [ELOHIM ADONAI](https://open.spotify.com/track/47hgEqmFIjuJlp3B8XO8ry) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [ELOHIM ADONAI](https://open.spotify.com/album/7qOScbDDN7wgkhDD2WmkU7) | 4:38 | 2025-10-03 | 2025-11-09 |
 | [Elshaddai](https://open.spotify.com/track/0cgMhBiowzRrrtDKl8KW7I) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Elshaddai](https://open.spotify.com/album/5F2aaUqBT7CVRB8reEi69R) | 5:20 | 2025-09-05 | 2025-10-03 |
 | [Emmanuel](https://open.spotify.com/track/6c5UMnCmZBski9aytlYIra) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Emmanuel](https://open.spotify.com/album/1BITuUt6zjCQP1cTcy8cgc) | 5:25 | 2024-01-05 | 2024-03-19 |
 | [Emmanuel Reloaded](https://open.spotify.com/track/6AsF3FYa3dpc31GwRPUjnF) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Emmanuel Reloaded](https://open.spotify.com/album/2xbcCQD5ATKq4Z6AYl6RfB) | 9:19 | 2025-06-06 | 2025-06-27 |
@@ -166,6 +166,7 @@
 | [En Toi](https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [En Toi](https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh) | 3:13 | 2024-04-12 | 2024-05-24 |
 | [EPHPHATHA](https://open.spotify.com/track/6VMUu3ZzyZ0JWxebwGHNrL) | [Deborah Ajayi](https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA) | [EPHPHATHA](https://open.spotify.com/album/3rHMJcx5EM67HGJspt7Cy1) | 9:43 | 2025-07-04 | 2025-07-29 |
 | [Ephphatha](https://open.spotify.com/track/7ny949XutTsiuf3nHSQ30g) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Ephphatha](https://open.spotify.com/album/7conlllzLwMtLnBndRiF29) | 3:52 | 2024-01-26 | 2024-02-16 |
+| [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 | 2025-11-07 |  |
 | [Eternal Devotion](https://open.spotify.com/track/4hO1FS2Nom4rieV4BbmVjN) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Eternal Devotion](https://open.spotify.com/album/44BGggg88XxgEgDDvevclI) | 4:33 | 2025-10-17 |  |
 | [Ever Present Help](https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Archbishop Benson Idahosa](https://open.spotify.com/artist/5KnKKG1eEW3o6Hf159ZZh9) | [Ever Present Help](https://open.spotify.com/album/2QBRXDYPqNvpKnWm2DBh7u) | 5:29 | 2025-02-07 | 2025-06-27 |
 | [Ever Present Help](https://open.spotify.com/track/53XKGgUszQqBX19YQmgv9e) | [Yanga Sobetwa](https://open.spotify.com/artist/1T2eBbz7Lx7N24h9VJGKt7) | [Ever Present Help](https://open.spotify.com/album/67e4V32SoyG6rzAoV7syFj) | 7:37 | 2025-07-25 | 2025-10-17 |

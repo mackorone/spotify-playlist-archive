@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,858 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,857 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 12 | [ricochet](https://open.spotify.com/track/41zRFZskGaj9msEL43fJjD) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:07 |
 | 13 | [Different](https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Different](https://open.spotify.com/album/2gMqEdAujugcErSftyzTki) | 3:20 |
 | 14 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 |
-| 15 | [Dumped](https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Dumped](https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW) | 2:43 |
+| 15 | [Twenty Something](https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Twenty Something](https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6) | 3:09 |
 | 16 | [reading into it](https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:00 |
-| 17 | [Twenty Something](https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Twenty Something](https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6) | 3:09 |
+| 17 | [Dumped](https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Dumped](https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW) | 2:43 |
 | 18 | [I Can't Be Your Friend](https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:51 |
 | 19 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 |
 | 20 | [contact high](https://open.spotify.com/track/3GoIbfB3OTD3qAgTpptFcR) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 4:10 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 26 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 | 27 | [are you curious?](https://open.spotify.com/track/5LK1DcgHrVHOU00bQwTQG6) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:14 |
 
-Snapshot ID: `aQvlAAAAAABJkgg2AfsKjHgd8T3L/nwJ`
+Snapshot ID: `aQ02gAAAAADnmBojvmgrVoLnwnFWORQL`

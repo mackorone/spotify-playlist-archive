@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 195565,
+  "num_followers": 195577,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAfURSkblfR5cOApocP81uf",
+  "snapshot_id": "aQ02gAAAAABlKc48bR5BD3s8WIAfqZ4O",
   "tracks": [
     {
       "added_at": null,
@@ -739,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+        "name": "The Very Best Of Louis Armstrong",
+        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Kiss Of Fire",
-      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
+      "duration_ms": 190640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
     },
     {
       "added_at": null,
@@ -791,28 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Louis Armstrong",
-        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Louis Armstrong Sparks, Nevada 1964!",
-        "url": "https://open.spotify.com/album/0ftx4EQvBU4jcu6DoQKUxm"
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 180146,
-      "name": "When It's Sleepy Time Down South",
-      "url": "https://open.spotify.com/track/4PuIJl5DnSPDzQ0SpL6CAb"
+      "duration_ms": 186573,
+      "name": "Kiss Of Fire",
+      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 199893,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louis Armstrong Sparks, Nevada 1964!",
+        "url": "https://open.spotify.com/album/0ftx4EQvBU4jcu6DoQKUxm"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "When It's Sleepy Time Down South",
+      "url": "https://open.spotify.com/track/4PuIJl5DnSPDzQ0SpL6CAb"
     },
     {
       "added_at": null,

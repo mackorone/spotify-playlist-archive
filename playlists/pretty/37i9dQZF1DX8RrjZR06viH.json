@@ -1,6 +1,6 @@
 {
   "description": "H\u00f8sten er her! \ud83c\udf42\n",
-  "num_followers": 101967,
+  "num_followers": 102103,
   "original_name": "h\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
-        "name": "Lost and found",
-        "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        },
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 194785,
-      "name": "Lost and found",
-      "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
         "name": "Det g\u00e5r bra",
         "url": "https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF"
       },
@@ -355,18 +335,22 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
-        "name": "Villblomst",
-        "url": "https://open.spotify.com/album/6V7q09UKUA7NIsUHQUnm2e"
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
       },
       "artists": [
         {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 157208,
-      "name": "Villblomst",
-      "url": "https://open.spotify.com/track/5VGfYVvq36GeUPG4DAPUAL"
+      "duration_ms": 194785,
+      "name": "Lost and found",
+      "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
     },
     {
       "added_at": "2025-11-06 23:00:14",
@@ -387,6 +371,22 @@
       "duration_ms": 304760,
       "name": "Southern Star (feat. AURORA)",
       "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
+        "name": "Villblomst",
+        "url": "https://open.spotify.com/album/6V7q09UKUA7NIsUHQUnm2e"
+      },
+      "artists": [
+        {
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+        }
+      ],
+      "duration_ms": 157208,
+      "name": "Villblomst",
+      "url": "https://open.spotify.com/track/5VGfYVvq36GeUPG4DAPUAL"
     },
     {
       "added_at": "2025-11-06 23:00:14",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
-        "name": "I'm Still",
-        "url": "https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "I'm Still",
-      "url": "https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 184120,
       "name": "A Lovestory",
       "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
+        "name": "I'm Still",
+        "url": "https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "I'm Still",
+      "url": "https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr"
     },
     {
       "added_at": "2025-11-06 23:00:14",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
+        "name": "Again, for the first time",
+        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Alchemy (Living Is Not For The Heart)",
+      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
         "name": "Sover du",
         "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 187281,
       "name": "G\u00e5 bli lykkelig, du",
       "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2025-11-06 23:00:14",
@@ -1079,26 +1095,6 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
-        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
-        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        },
-        {
-          "name": "Lars Vaular",
-          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "S\u00e5 easy",
-      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
@@ -1115,6 +1111,26 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
+        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
+        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        },
+        {
+          "name": "Lars Vaular",
+          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "S\u00e5 easy",
+      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
     },
     {
       "added_at": "2025-11-06 23:00:14",
@@ -1167,6 +1183,22 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
         "name": "Solgangsbrisen",
         "url": "https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6"
       },
@@ -1187,6 +1219,22 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
+        "name": "Real To Me",
+        "url": "https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 190522,
+      "name": "Real To Me",
+      "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
         "name": "eu te amo beb\u00ea",
         "url": "https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH"
       },
@@ -1203,22 +1251,6 @@
       "duration_ms": 106649,
       "name": "eu te amo beb\u00ea",
       "url": "https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     },
     {
       "added_at": "2025-11-06 23:00:14",
@@ -1339,6 +1371,22 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/5uRciE7HeFREekWm21S2qC"
+      },
+      "artists": [
+        {
+          "name": "Oklahoma",
+          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
+        }
+      ],
+      "duration_ms": 182510,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/1C5zAJjoB3cdMBu7Xse28r"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
         "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
         "url": "https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf"
       },
@@ -1371,22 +1419,6 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
-        "name": "LOVELIFE",
-        "url": "https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "LOVELIFE",
-      "url": "https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
         "name": "Synd synd synd",
         "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
       },
@@ -1403,6 +1435,22 @@
     {
       "added_at": "2025-11-06 23:00:14",
       "album": {
+        "name": "LOVELIFE",
+        "url": "https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "LOVELIFE",
+      "url": "https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl"
+    },
+    {
+      "added_at": "2025-11-06 23:00:14",
+      "album": {
         "name": "Movie Star",
         "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
       },
@@ -1415,58 +1463,6 @@
       "duration_ms": 236210,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/5uRciE7HeFREekWm21S2qC"
-      },
-      "artists": [
-        {
-          "name": "Oklahoma",
-          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
-        }
-      ],
-      "duration_ms": 182510,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/1C5zAJjoB3cdMBu7Xse28r"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
-        "name": "D\u00e5rlig id\u00e9",
-        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 132616,
-      "name": "D\u00e5rlig id\u00e9",
-      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
-    },
-    {
-      "added_at": "2025-11-06 23:00:14",
-      "album": {
-        "name": "Ingen vil elsk d\u00e6 (feat. Sval)",
-        "url": "https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy"
-      },
-      "artists": [
-        {
-          "name": "Regnv\u00e6r",
-          "url": "https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki"
-        },
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 138982,
-      "name": "Ingen vil elsk d\u00e6 (feat. Sval)",
-      "url": "https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh"
     }
   ],
   "unique_name": "h\u00f8st i lufta",

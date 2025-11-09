@@ -4,7 +4,7 @@
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-97 songs - 6 hr 32 min
+98 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:37 | 2022-11-04 |  |
 | [Burning of the Midnight Lamp](https://open.spotify.com/track/36SULeBeglappJysOY6WzQ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:39 | 2022-11-05 | 2024-06-21 |
 | [Burning of the Midnight Lamp \- Take 30](https://open.spotify.com/track/7yJwYJF6rOSLJ4my1AGyvG) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Burning of the Midnight Lamp \(Take 30\)](https://open.spotify.com/album/1ULItm1dXYvHkVaRy32lod) | 3:37 | 2025-10-03 | 2025-10-26 |
-| [Castles Made of Sand](https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:48 | 2022-11-04 |  |
+| [Castles Made of Sand](https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:48 | 2022-11-04 | 2025-11-09 |
+| [Castles Made of Sand \- Backwards Guitar](https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Bold As Love](https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81) | 3:04 | 2025-11-09 |  |
 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 | 2022-11-04 |  |
 | [Catfish Blues \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967](https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP) | 8:13 | 2023-12-13 | 2024-01-15 |
 | [Chuck Wein Introduction \- Live In Maui, 1970](https://open.spotify.com/track/6ZmOfbPSylxWUv1M9lpBgS) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live In Maui](https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy) | 1:46 | 2022-11-04 | 2022-12-19 |
@@ -95,7 +96,7 @@
 | [The Star Spangled Banner \- Woodstock Festival Excerpt](https://open.spotify.com/track/57im5UyAqXFTO6IfbjDOnx) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 0:42 | 2023-03-22 | 2023-07-06 |
 | [The Wind Cries Mary](https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:20 | 2022-11-04 |  |
 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 | 2022-11-04 |  |
-| [Up From The Skies](https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:57 | 2024-02-16 | 2024-05-29 |
+| [Up From The Skies](https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:57 | 2024-02-16 |  |
 | [Valleys of Neptune](https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:45 | 2024-10-07 |  |
 | [Valleys of Neptune](https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Valleys Of Neptune](https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg) | 4:02 | 2022-11-04 | 2024-10-07 |
 | [Villanova Junction Blues](https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 1:44 | 2024-08-21 |  |
@@ -104,6 +105,6 @@
 | [Wait Until Tomorrow](https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:02 | 2022-11-06 |  |
 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 | 2022-11-04 |  |
 | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/track/70rXufdV46M4efDKvJbtHV) | [Curtis Knight & The Squires](https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl), [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l) | 0:56 | 2024-01-27 | 2024-08-25 |
-| [You Got Me Floatin' \- Take 1](https://open.spotify.com/track/4nquW9ilWb4tSdHAgiY9UP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [You Got Me Floatin' \(Take 1\)](https://open.spotify.com/album/53pDh8gJozG4hzhdtCxzNS) | 3:20 | 2025-10-12 |  |
+| [You Got Me Floatin' \- Take 1](https://open.spotify.com/track/4nquW9ilWb4tSdHAgiY9UP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [You Got Me Floatin' \(Take 1\)](https://open.spotify.com/album/53pDh8gJozG4hzhdtCxzNS) | 3:20 | 2025-10-12 | 2025-11-09 |
 
 \*This playlist was first scraped on 2022-11-05. Prior content cannot be recovered.

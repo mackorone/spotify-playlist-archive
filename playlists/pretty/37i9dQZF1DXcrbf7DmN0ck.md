@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 
 > While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! \(글로벌 베일드 뮤지션의 공개 모집을 기다리며 국내 최정상 보컬들의 음악을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,140 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,144 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 | 40 | [Hug Me](https://open.spotify.com/track/1dAN9YSEram61KezA9X8lx) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Lo9ve3r4s](https://open.spotify.com/album/3KNUfrK6zYLoZ0X4LUj3wy) | 4:34 |
 | 41 | [Love in the Milky Way Cafe](https://open.spotify.com/track/6cxbaStUOFS9Ssz3bHVVDJ) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1.0](https://open.spotify.com/album/6txh5BwvszxNWi54efJThn) | 2:52 |
 | 42 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 |
-| 43 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 |
+| 43 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 |
 | 44 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
 | 45 | [Dreamed a dream](https://open.spotify.com/track/0tumsfaXAjtZKqF5Vi2QFH) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [C](https://open.spotify.com/album/4wvtBBEkkjPHfyWXPkwmF6) | 3:20 |
 | 46 | [이밤의 끝을 잡고](https://open.spotify.com/track/6inhDQvmr0zKLsBIU1hgkq) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [김조한 베스트](https://open.spotify.com/album/2D1ApDyL7ikmIVb8XbOZuq) | 5:14 |

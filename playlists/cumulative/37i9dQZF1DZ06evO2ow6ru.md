@@ -4,7 +4,7 @@
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 8 min
+97 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 | 2023-03-19 | 2025-10-24 |
 | [Calm Down \(A Little Bit Calmer Now\)](https://open.spotify.com/track/1ubpxD40x6D9eI5jFqq8qq) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Calmer Now\)](https://open.spotify.com/album/3fDkswLzRGVWKXR8Mxkn3t) | 3:08 | 2023-05-27 | 2023-06-24 |
 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 | 2023-08-13 | 2023-09-16 |
-| [Cigarettes & Sabotage](https://open.spotify.com/track/2pVgY14uMtB3vcAgwbidvd) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:52 | 2025-10-19 |  |
+| [Cigarettes & Sabotage](https://open.spotify.com/track/2pVgY14uMtB3vcAgwbidvd) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:52 | 2025-10-19 | 2025-11-09 |
 | [Coffee Shop Soundtrack](https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up Or Shut Up](https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt) | 3:01 | 2023-03-19 |  |
 | [Coffee Shop Soundtrack \- ATL's Version](https://open.spotify.com/track/2aC1jd0ehB0Zh8WYxwFZQ4) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Forever Sessions \(Vol\. 1\)](https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE) | 2:56 | 2024-08-26 | 2025-02-04 |
 | [Crashed The Wedding 2.0](https://open.spotify.com/track/17vZdUGKVSMpg3pvi4Tmtn) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Greatest Hits 2.0 \(Guest Features Edition\)](https://open.spotify.com/album/2XWO1jEuigClyJgkMvk3rx) | 2:40 | 2023-11-10 | 2025-07-13 |
@@ -44,7 +44,7 @@
 | [Good Times](https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:44 | 2023-03-19 |  |
 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 | 2024-09-20 |  |
 | [I'd Be Fine \(If I Never Saw You Again\)](https://open.spotify.com/track/4XHpjfFokgNyARkjUS79G9) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:59 | 2023-03-19 | 2024-05-17 |
-| [If These Sheets Were States](https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 | 2023-03-19 | 2025-11-08 |
+| [If These Sheets Were States](https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 | 2023-03-19 |  |
 | [Jasey Rae](https://open.spotify.com/track/1oTtOTbcP8waTv4wPsCqSm) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up Or Shut Up](https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt) | 3:38 | 2024-05-04 |  |
 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 | 2023-12-15 | 2024-05-02 |
 | [Jasey Rae \- ATL's Version](https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Forever Sessions \(Vol\. 1\)](https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE) | 3:42 | 2024-08-25 | 2025-05-24 |
@@ -95,7 +95,8 @@
 | [The Reckless And The Brave](https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 | 2023-03-22 | 2025-02-17 |
 | [The Sound of Letting Go](https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:39 | 2023-03-19 |  |
 | [The Way You Miss Me](https://open.spotify.com/track/6Gu9DQoTMkJGVwnewBo2ij) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:40 | 2024-05-11 | 2024-07-19 |
-| [The Weather](https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Weather](https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9) | 2:51 | 2025-07-13 |  |
+| [The Weather](https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Weather](https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9) | 2:51 | 2025-07-13 | 2025-11-09 |
+| [The Weather](https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:51 | 2025-11-09 |  |
 | [Therapy](https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:44 | 2023-03-19 |  |
 | [Time\-Bomb](https://open.spotify.com/track/0ydyPs14G4gAp2L1fWIhpV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/4LShkr6gPRWh5v0VUVNW0q) | 3:29 | 2023-03-19 | 2023-06-09 |
 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 | 2023-06-08 |  |

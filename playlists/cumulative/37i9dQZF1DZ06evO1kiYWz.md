@@ -4,7 +4,7 @@
 
 > This is Campo De Almas.\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 3 min
+79 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ecos De La Noche](https://open.spotify.com/track/5AbeaaNXyUj2o9WciFfAxc) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 5:07 | 2023-08-25 | 2025-10-17 |
 | [El Diablo \(En Vivo\)](https://open.spotify.com/track/5JsWKLiaYIc0A7qKpyFc4x) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 2:43 | 2023-08-25 |  |
 | [El Día Final](https://open.spotify.com/track/1XolDtkpqrqUg5qZPlaVpL) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Antología \(1994\-2007\)](https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB) | 4:23 | 2023-08-25 |  |
+| [El Hombre Sin Nombre](https://open.spotify.com/track/3D0jQkIAwzPxQVrJS8jCC1) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 5:05 | 2025-11-09 |  |
 | [El Olvido](https://open.spotify.com/track/2wCGjgOObAwJL9j3Fkil6s) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 4:38 | 2023-08-25 |  |
 | [El Secreto \( En Vivo\)](https://open.spotify.com/track/6IaXpvo7TDorwXLYdTcbW3) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Siempre Estuviste Ahí](https://open.spotify.com/album/0y40mqdz6q5YAcOZeUEV4R) | 6:00 | 2023-08-25 |  |
 | [El Silencio](https://open.spotify.com/track/1rQXWoYkKm4VjYETDC2Gdc) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 3:06 | 2023-08-25 |  |
@@ -43,7 +44,7 @@
 | [Eternamente](https://open.spotify.com/track/1FXTzWOiyEM9fas51dnPDH) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 3:30 | 2025-02-22 | 2025-02-24 |
 | [Gris](https://open.spotify.com/track/1xDTqhyb1FhvhCGjcaW6j5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:18 | 2023-08-25 |  |
 | [Incomprensión](https://open.spotify.com/track/6yvlcXWT0DdbU3u2z5J487) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 4:46 | 2023-08-25 | 2025-03-26 |
-| [Invisible](https://open.spotify.com/track/7F7au7a9ZDSeu2f3fFAW7w) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 3:53 | 2025-03-18 |  |
+| [Invisible](https://open.spotify.com/track/7F7au7a9ZDSeu2f3fFAW7w) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 3:53 | 2025-03-18 | 2025-11-09 |
 | [Jamás Dormir](https://open.spotify.com/track/6Hj9iTGNgeYQXse9VTV5MJ) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 2:32 | 2023-10-01 | 2025-08-07 |
 | [Juliana](https://open.spotify.com/track/6qwH1tErqu8MY2cGc9AqVS) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 5:36 | 2023-08-25 |  |
 | [Juro Que No Morí](https://open.spotify.com/track/6eiXpdDC7CzLtiglXi1SaF) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 4:16 | 2023-08-25 |  |

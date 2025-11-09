@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "El Deseo De O\u00edr Tu Voz",
+        "url": "https://open.spotify.com/album/4C3mFwi92IBnHiix1cmyXI"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299666,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/44eTZfJoqPmHsB9AW4onQp"
+    },
+    {
+      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 253178,
       "name": "Mentiras I",
       "url": "https://open.spotify.com/track/2inQuIiMh57WacRsHO6xkF"

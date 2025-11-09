@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > Sonido independiente y nacional\. Foto: Potra
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,506 likes - 118 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,501 likes - 118 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 117 | [Alas Rosadas](https://open.spotify.com/track/14YNYZiyT5QrKgLXSGxDpP) | [Julia Arbós](https://open.spotify.com/artist/1B5s6KerZjNiMjZAzRULyp), [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Alas Rosadas](https://open.spotify.com/album/1bCAxxDnO6FLiXoIUs9DGH) | 4:00 |
 | 118 | [Un Ángel Para Tu Soledad](https://open.spotify.com/track/0paoacUiJg3KaJWI4UQeQm) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [Un Ángel Para Tu Soledad](https://open.spotify.com/album/5FrGWO6KCgBT6P0VCigAmo) | 3:34 |
 
-Snapshot ID: `AAAAADRpbuJqdm5oGQBOB7w4nsKuJwkW`
+Snapshot ID: `AAAAADp2tymWtIgFkvUTtMLkk2/Ej8kh`

@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 17820,
+  "num_followers": 17892,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,26 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
+        "name": "wo ai ni",
+        "url": "https://open.spotify.com/album/09bLG3oFSKVqvPG3tk5AzV"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        },
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        }
+      ],
+      "duration_ms": 213700,
+      "name": "wo ai ni - Shinichi Osawa Remix",
+      "url": "https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
         "name": "KURU KURU HARAJUKU",
         "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
       },
@@ -635,26 +655,6 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
-        "name": "wo ai ni",
-        "url": "https://open.spotify.com/album/09bLG3oFSKVqvPG3tk5AzV"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        },
-        {
-          "name": "Shinichi Osawa",
-          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        }
-      ],
-      "duration_ms": 213700,
-      "name": "wo ai ni - Shinichi Osawa Remix",
-      "url": "https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
         "name": "Combo",
         "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 166613,
       "name": "Combo",
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
+        "name": "ON-Netoh",
+        "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
+      },
+      "artists": [
+        {
+          "name": "DJ Nobu",
+          "url": "https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9"
+        }
+      ],
+      "duration_ms": 375875,
+      "name": "Wwww",
+      "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
     },
     {
       "added_at": "2025-11-07 08:48:49",
@@ -691,18 +707,22 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
-        "name": "ON-Netoh",
-        "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
       },
       "artists": [
         {
-          "name": "DJ Nobu",
-          "url": "https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9"
+          "name": "\u52e2\u559c\u904a",
+          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
         }
       ],
-      "duration_ms": 375875,
-      "name": "Wwww",
-      "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
+      "duration_ms": 163255,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
     },
     {
       "added_at": "2025-11-07 08:48:49",
@@ -723,22 +743,22 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
+        "name": "Darkside 2075",
+        "url": "https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z"
       },
       "artists": [
         {
-          "name": "\u52e2\u559c\u904a",
-          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
+          "name": "Coakira",
+          "url": "https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K"
         },
         {
-          "name": "Yohji Igarashi",
-          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+          "name": "monoqlom",
+          "url": "https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg"
         }
       ],
-      "duration_ms": 163255,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+      "duration_ms": 165999,
+      "name": "From The Darkside (monoqlom Remix)",
+      "url": "https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m"
     },
     {
       "added_at": "2025-11-07 08:48:49",
@@ -767,26 +787,6 @@
       "duration_ms": 232558,
       "name": "Life, Dream, Love",
       "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
-        "name": "Darkside 2075",
-        "url": "https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z"
-      },
-      "artists": [
-        {
-          "name": "Coakira",
-          "url": "https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K"
-        },
-        {
-          "name": "monoqlom",
-          "url": "https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg"
-        }
-      ],
-      "duration_ms": 165999,
-      "name": "From The Darkside (monoqlom Remix)",
-      "url": "https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m"
     },
     {
       "added_at": "2025-11-07 08:48:49",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/5ou0IPh4SoYYIY6WDaP4iP"
-      },
-      "artists": [
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
-        },
-        {
-          "name": "Carpainter",
-          "url": "https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/5mobDbNXNDmjAa0vfiAbB4"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
         "name": "Walk Through The 8th (Incl. DJ WADA Remix)",
         "url": "https://open.spotify.com/album/602TXtDh9LyAyVCl8Yejtb"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 365557,
       "name": "Walk Through The 8th - DJ WADA Remix",
       "url": "https://open.spotify.com/track/231LOBMBTxZROggsyhV3d9"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5ou0IPh4SoYYIY6WDaP4iP"
+      },
+      "artists": [
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        },
+        {
+          "name": "Carpainter",
+          "url": "https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/5mobDbNXNDmjAa0vfiAbB4"
     },
     {
       "added_at": "2025-11-07 08:48:49",

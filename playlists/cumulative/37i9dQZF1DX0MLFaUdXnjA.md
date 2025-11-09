@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: SIENNA SPIRO
 
-2,460 songs - 5 day 12 hr 20 min
+2,461 songs - 5 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1933,6 +1933,7 @@
 | [something like this](https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [something like this](https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR) | 2:49 | 2025-09-12 |  |
 | [Something To Do](https://open.spotify.com/track/1kWboh3AQlWKzSGSd6Jaep) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once](https://open.spotify.com/album/4wPLBGPd0RsGB1nYuRsss8) | 3:13 | 2022-11-11 | 2022-12-13 |
 | [Something You Can Hold](https://open.spotify.com/track/3qqlyGEO02ZoW8OwYhuMq8) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Something You Can Hold](https://open.spotify.com/album/4pcO6I05CFVRHzNtLx9Gvs) | 2:59 | 2024-04-26 | 2024-06-15 |
+| [Something You Do](https://open.spotify.com/track/61G7t6N3nAgdUSCHaKMXSt) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Something You Do](https://open.spotify.com/album/5nva0GpwF5LjRvjdNKLOxM) | 3:19 | 2025-11-08 |  |
 | [Somethin’ Bout A Beer](https://open.spotify.com/track/7nJZFldr6TBFHY6hWtpCJI) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Somethin’ Bout A Beer](https://open.spotify.com/album/2P0jFtw0wN8BIu2O2FQsKA) | 3:03 | 2025-06-27 | 2025-08-23 |
 | [sometimes](https://open.spotify.com/track/6McnQuTA2dpArD3QTrD8A7) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [sometimes](https://open.spotify.com/album/6oYIQkhBuGzoXSjClZmWB1) | 2:36 | 2021-08-28 | 2021-12-11 |
 | [sometimes](https://open.spotify.com/track/5CwA7YPNAcXVJmazELgRc0) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [sometimes](https://open.spotify.com/album/7Gk405ileQ0t9VFLo1YE9A) | 2:43 | 2020-10-16 | 2021-02-19 |
@@ -2388,7 +2389,7 @@
 | [Who Would Have Thought](https://open.spotify.com/track/1ws2DVEGJD2d12aDm4zqic) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Who Would Have Thought](https://open.spotify.com/album/5PaiwfRbaB0igbVr3nf1Mh) | 4:04 | 2020-04-26\* | 2020-11-21 |
 | [Why](https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Why](https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C) | 3:26 | 2024-08-16 | 2024-10-19 |
 | [Why Do The Pills Work](https://open.spotify.com/track/1YEEihRixYjaaJCu9rMMx7) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Why Do The Pills Work](https://open.spotify.com/album/1tmExGHhllwIVt0DKEfgmG) | 3:36 | 2025-03-21 | 2025-05-10 |
-| [Wi$h Li$t](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:27 | 2025-10-03 |  |
+| [Wi$h Li$t](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:27 | 2025-10-03 | 2025-11-09 |
 | [Wicked Nature](https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones \(Deluxe\)](https://open.spotify.com/album/3eRt3LACTqStCVgGaXWoBp) | 3:01 | 2025-05-16 | 2025-08-02 |
 | [Wide Open](https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Wide Open](https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x) | 3:09 | 2023-07-14 | 2023-08-03 |
 | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/track/6NHQNFSpBaBvTHTt96dhfy) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/album/0XKpLb1bh3PvdQ7BaPRA29) | 4:03 | 2021-06-26 | 2021-07-17 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20603,
+  "num_followers": 20604,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADap/DoNHlNHFWPEl9yt46K",
+  "snapshot_id": "aQ02gAAAAAC21mEhIoK4XZbd51z4qzvb",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "This or That",
-      "url": "https://open.spotify.com/track/1LUjANKJvZMnrITUExaKb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Downtown: Life Under The Gun",
         "url": "https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 313253,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0zOD30TPDwjfECV1kkUkOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "This or That",
+      "url": "https://open.spotify.com/track/1LUjANKJvZMnrITUExaKb8"
     },
     {
       "added_at": null,

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Giorgia in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,923 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,925 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PARADOSSALE](https://open.spotify.com/track/1E3bg4sPGZzyK4qatexweB) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:08 |
 | 2 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
 | 3 | [FOTOGRAFIA](https://open.spotify.com/track/78F6s5j8febWk0ICOAIxjM) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [FOTOGRAFIA](https://open.spotify.com/album/33uyidreFCPnfn0sgERJeR) | 3:44 |
-| 4 | [SUPERSTAR](https://open.spotify.com/track/6gMgNwiz4aQ1PzuZBTzYap) | [Paola Iezzi](https://open.spotify.com/artist/29IpqxHCIFMvvGOPHIFRWv) | [Superstar](https://open.spotify.com/album/2vhSvsLIXrWsjwoVL82gdg) | 3:05 |
+| 4 | [Superstar](https://open.spotify.com/track/6gMgNwiz4aQ1PzuZBTzYap) | [Paola Iezzi](https://open.spotify.com/artist/29IpqxHCIFMvvGOPHIFRWv) | [Superstar](https://open.spotify.com/album/2vhSvsLIXrWsjwoVL82gdg) | 3:05 |
 | 5 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
 | 6 | [TRA LE LUNE E LE DUNE](https://open.spotify.com/track/1SjWttp0uxEZFDjfVpTdN0) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:06 |
 | 7 | [Mio Cristo Piange Diamanti](https://open.spotify.com/track/0hVZnH3f3xmudcfCFLdw1V) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,493 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,559 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 42 | [OLHO MARROM \- Ao Vivo em Lisboa](https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [OLHO MARROM \- Ao Vivo em Lisboa](https://open.spotify.com/album/4fa3lwn2vSLUTz3HNqcJzM) | 2:25 |
 | 43 | [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 |
 | 44 | [Retrovisor](https://open.spotify.com/track/4QZqSqxdcgAbtZle4MS4ph) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão Vol\. 01](https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc) | 3:05 |
-| 45 | [Bandido problemático](https://open.spotify.com/track/4bioqBfAE9nhxwecok2cYB) | [Dj Gustomares](https://open.spotify.com/artist/1o1YHZFva6RI2Ve7kjgRzn), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [Iraqui ZL](https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS) | [Bandido problemático](https://open.spotify.com/album/7wOpwhcV6JKW8KE5eCLrr7) | 2:42 |
+| 45 | [Bandido problemático](https://open.spotify.com/track/6pOSgZYfI73XOsjjZqrIUf) | [Dj Gustomares](https://open.spotify.com/artist/1o1YHZFva6RI2Ve7kjgRzn), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [Iraqui ZL](https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS), [Dream Records](https://open.spotify.com/artist/0t58OzGlJIIcczoHSH0GwS) | [Bandido problemático](https://open.spotify.com/album/3cZjFKV6EFUqpO1b6Yhkdl) | 2:42 |
 | 46 | [Grau de Maluca \- Ao Vivo](https://open.spotify.com/track/4W9nFl732s6NdToGaCfiSl) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [+ Amor, + Música Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0PGX05DaiCQoOTlNRKg8q2) | 2:52 |
 | 47 | [Resumindo \- Ao Vivo](https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:25 |
 | 48 | [DENTRO DA LAND ROVER \- Ao Vivo](https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [DEBAIXO DO MEU CHAPÉU, Vol\. 2](https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg) | 2:39 |
 | 49 | [Saudade Proibida \- Ao Vivo](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Proibida \(Ao Vivo\)](https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa) | 2:40 |
 | 50 | [Última Noite \- Solo](https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:34 |
 
-Snapshot ID: `MKFgoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MKK0eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Nikos Makropoulos
 
-212 songs - 11 hr 49 min
+212 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Horis Esena Den Iparho](https://open.spotify.com/track/7xGfCLpA8UdempaJ5EnSr5) | [Harry Varthakouris](https://open.spotify.com/artist/1SaOXUm6hMFbMdAzAT5ZWd) | [Horis Esena Den Iparho](https://open.spotify.com/album/0byNCHqjkdDFaO2Zcw7xQI) | 4:14 | 2025-09-11 | 2025-10-01 |
 | [I Agapi Ayti](https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [I Agapi Ayti](https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ) | 3:36 | 2024-06-27 | 2025-04-06 |
 | [I Agapi Den Pouliete](https://open.spotify.com/track/7gKXdujNQ4VdNKOqNn6Xvx) | [Stamatis Gonidis](https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk) | [I Agapi Den Pouliete](https://open.spotify.com/album/3EkrU87ngQd7QP4uAXnapa) | 3:22 | 2025-05-01 | 2025-05-16 |
+| [I Apofasi](https://open.spotify.com/track/70n4CO7lbTM7igJXszoK9P) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [11 Me Liga Logia](https://open.spotify.com/album/5nEWR0VKb4FVUEVn1wD0Oe) | 4:34 | 2025-11-06 |  |
 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 | 2024-06-27 | 2025-05-16 |
 | [I Gynaika Pou Agapaei](https://open.spotify.com/track/3ScLAuuzL6RGISttGvuo3D) | [Stamatis Gonidis](https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk), [Vasilis Dimas](https://open.spotify.com/artist/3TQLcQaZaJ81spBgSvooqK) | [I Gynaika Pou Agapaei](https://open.spotify.com/album/789yaKKLfY6X4qUUWqMGdP) | 3:52 | 2024-09-26 | 2024-10-11 |
 | [Ipa Sou Htenistou](https://open.spotify.com/track/1N9xnNu9keI3Jd0UDOnQ9Q) | [Christos Dantis](https://open.spotify.com/artist/1TKXk9QDdArvRAKdW2sMyc) | [Ipa Sou Htenistou](https://open.spotify.com/album/4A6zWpwWUhwHcPbtHEMPi6) | 2:00 | 2025-09-25 | 2025-10-10 |
@@ -208,7 +209,6 @@
 | [To Vale](https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Vale](https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk) | 3:27 | 2024-11-21 |  |
 | [To Velos](https://open.spotify.com/track/6TFPOMN57JxaKdfkxwB4YQ) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [To Velos](https://open.spotify.com/album/3BxWWqlUWJ0551CLIJBD2H) | 2:49 | 2025-01-30 | 2025-02-14 |
 | [To Viografiko](https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [To Viografiko](https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr) | 3:25 | 2024-11-14 |  |
-| [Track 2](https://open.spotify.com/track/70n4CO7lbTM7igJXszoK9P) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Trelos Gia Sena \- Den Tha Figeis Makria \- Katse Kai Metra \- 2024 Live](https://open.spotify.com/track/47Mwkz2SSCReqoC74u86Az) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Parea Me Ton Pano \- Live](https://open.spotify.com/album/2l6v9zoA8e61cZ0DAHsVth) | 4:23 | 2024-10-24 | 2024-11-29 |
 | [Trexe](https://open.spotify.com/track/1BOqkrm3T91AWJzAPiht2K) | [Manolis Mitsias](https://open.spotify.com/artist/0iPmB3x32r1vp0nL4gsjMo) | [Trexe](https://open.spotify.com/album/1pFCqfyjdMYkDAfTr0SKXB) | 2:54 | 2025-05-08 | 2025-05-30 |
 | [Vrohi](https://open.spotify.com/track/0U3eLgukBcUQZwUPkH4pv8) | [Pashalis Terzis](https://open.spotify.com/artist/1va4ozW68yYx2bjxzk29gs), [Thodoris Papadopoulos](https://open.spotify.com/artist/60MVWaWqiw6tjbFeCVXcHP) | [Vrohi](https://open.spotify.com/album/6GrOYbShrsxh3MiKwvaWKk) | 3:41 | 2025-01-16 | 2025-01-31 |

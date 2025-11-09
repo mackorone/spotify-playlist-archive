@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 657239,
+  "num_followers": 657353,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACA9VccO74wZhIYDAhBvf6e",
+  "snapshot_id": "aQ02gAAAAADvs0h+65Q9RxjE1RRLdHkI",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 332080,
-      "name": "Child Bride - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/1cSpwDLPDrb5UsPFtHFEfr"
+      "duration_ms": 150040,
+      "name": "Gun in Every Home - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/0yXxTdtAn5WQiLXpoxMkbl"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 150040,
-      "name": "Gun in Every Home - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/0yXxTdtAn5WQiLXpoxMkbl"
+      "duration_ms": 332080,
+      "name": "Child Bride - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/1cSpwDLPDrb5UsPFtHFEfr"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Youngstown",
-      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
+      "duration_ms": 295493,
+      "name": "Letter To You",
+      "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

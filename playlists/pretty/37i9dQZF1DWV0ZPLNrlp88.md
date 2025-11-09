@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,323 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,331 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 23 | [不感症](https://open.spotify.com/track/4aVc2n7b6UwdZR5iFPAaE7) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [不感症](https://open.spotify.com/album/7LG2WjVZXC1YkGol9mtR4B) | 3:36 |
 | 24 | [Solitude](https://open.spotify.com/track/0avajXJPgNOx6DITi0LDjP) | [海月街](https://open.spotify.com/artist/5dXQ16IBRDe9DxdTGrqeGd) | [Solitude](https://open.spotify.com/album/1mFv7JkMGJXhzBhWfikKxC) | 1:52 |
 | 25 | [Rain Man](https://open.spotify.com/track/4GgMD85nzTzCKwhxLHR0Fd) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Rain Man](https://open.spotify.com/album/0IuDiY44pkodTzxDF8zgih) | 3:30 |
-| 26 | [この街](https://open.spotify.com/track/78QP0s0aIDU7oxdxXHlEvE) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [この街](https://open.spotify.com/album/4so3JXt9CEWwvDC3RO6ZrU) | 3:08 |
+| 26 | [この街](https://open.spotify.com/track/78QP0s0aIDU7oxdxXHlEvE) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [salasa](https://open.spotify.com/artist/7fTXmRaHT8PVQs2GSHJEr5) | [この街](https://open.spotify.com/album/4so3JXt9CEWwvDC3RO6ZrU) | 3:08 |
 | 27 | [Fool](https://open.spotify.com/track/4QKU8aa4C6jyKWgL9D3FPw) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [Gaze](https://open.spotify.com/album/4xyOt9CYKH17IYE8RFhr6v) | 3:30 |
 | 28 | [今を抱きしめて](https://open.spotify.com/track/3ZF2nGBsBYnAJylIEGslbZ) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [今を抱きしめて](https://open.spotify.com/album/5Pna8aXR0HdRtjqrevSumt) | 4:42 |
 | 29 | [君の街まで](https://open.spotify.com/track/1jR58W3o9o3FgdSEtwB71R) | [雪国](https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD) | [shion](https://open.spotify.com/album/3IpOKmxriX0F6FGRdEmi2n) | 4:00 |

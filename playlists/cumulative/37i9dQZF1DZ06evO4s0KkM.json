@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202218,
+      "name": "A Hero Among Many - Bonus Track",
+      "url": "https://open.spotify.com/track/3yI2BTqHNS9Y3avILyXjQc"
+    },
+    {
+      "album": {
         "name": "Singles Collection Vol. 2",
         "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 261862,
       "name": "I Wish You Were Here",
       "url": "https://open.spotify.com/track/078MAirupKl43OeGplw8aW"
@@ -1324,10 +1342,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 234133,
       "name": "Paying My Way",
       "url": "https://open.spotify.com/track/6MSzeTzRq4ZMH4VwJs7XMy"
+    },
+    {
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
     },
     {
       "album": {
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 162853,
       "name": "The Lonesome Boatman",
       "url": "https://open.spotify.com/track/1eX5SoCjIWCIS3TGoZ6upR"
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 162853,
       "name": "The Lonesome Boatman",
       "url": "https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD"

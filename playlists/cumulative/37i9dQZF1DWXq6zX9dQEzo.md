@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-852 songs - 1 day 16 hr 37 min
+853 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Cafeteria](https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [Cafeteria](https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5) | 2:56 | 2022-05-28 | 2022-07-25 |
 | [Call Out to God](https://open.spotify.com/track/6nrpncu6Hrxhnro5UkpamX) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Call Out to God](https://open.spotify.com/album/4hBKh6GskXcejisoRefLXU) | 3:00 | 2025-06-09 | 2025-08-08 |
 | [Came For It All](https://open.spotify.com/track/1VBEsSJhh3HGkz7XNt85OK) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [George Rose](https://open.spotify.com/artist/28h0WaWhmOoJ4t1eWfH0Er) | [Came For It All](https://open.spotify.com/album/2nYf6yyUwlPmdSLyYe5Gzi) | 3:34 | 2022-04-30 | 2022-07-28 |
+| [CAMPAIGN](https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [CAMPAIGN](https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy) | 2:49 | 2025-11-07 |  |
 | [Can I Get a?](https://open.spotify.com/track/2cQqvbAQKrarRBa5XfTwlW) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Can I Get a?](https://open.spotify.com/album/4kpTwKon5LK1rEKBOogwHm) | 2:30 | 2022-07-17 | 2022-07-29 |
 | [Can't Stop Me Now](https://open.spotify.com/track/4vpLGBnFcUH6EMe2x7Ea49) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Can't Stop Me Now](https://open.spotify.com/album/6lFWejEgVENvEti8Hn7WmL) | 2:07 | 2024-08-02 |  |
 | [Can't Tell It All](https://open.spotify.com/track/4bvNwqjzJbbmUDClgpCTG0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:42 | 2022-02-04 | 2023-08-12 |
@@ -404,7 +405,7 @@
 | [JESUS MUZIK II](https://open.spotify.com/track/5tRNZBnDRIJPCLGn4tw7tZ) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS) | [Anike \(formerly Wande\): The Rap Pack](https://open.spotify.com/album/1yvDuuaDhznzTmytT6MnKw) | 2:36 | 2025-04-04 | 2025-09-20 |
 | [JIMMY NEWTRON](https://open.spotify.com/track/2ScaSZVzLC6GdrZXH0w8JO) | [Josh P](https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ) | [JIMMY NEWTRON](https://open.spotify.com/album/7aX7QAJFvLma89TtEtIrIc) | 2:14 | 2025-04-04 |  |
 | [JOHN GOTTI](https://open.spotify.com/track/0jh5wtzeQIDJ0zhxZTj1dl) | [Jay Sanon](https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu), [A\-Dub White](https://open.spotify.com/artist/0fIrICgUetNRbRQxq3yxyZ), [Justcallmedt](https://open.spotify.com/artist/7EHTupr4wX3dZxNZTMS83R) | [JOHN GOTTI](https://open.spotify.com/album/3G67GdSxZYH2ZqvrthfDBj) | 2:11 | 2025-04-04 |  |
-| [JOKER CARD](https://open.spotify.com/track/2xKnIJCJUuRPE4bdFQchZi) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [JOKER CARD](https://open.spotify.com/album/1v2dgCI3lM9AwOhHakTFfC) | 2:19 | 2025-02-07 |  |
+| [JOKER CARD](https://open.spotify.com/track/2xKnIJCJUuRPE4bdFQchZi) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [JOKER CARD](https://open.spotify.com/album/1v2dgCI3lM9AwOhHakTFfC) | 2:19 | 2025-02-07 | 2025-11-09 |
 | [Jonah](https://open.spotify.com/track/4cWDgGTClNmfdscTIjPUy8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Jonah](https://open.spotify.com/album/3dymiggXTLt85VuUagBcjH) | 3:18 | 2022-05-28 | 2022-07-25 |
 | [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 | 2022-10-01 | 2023-12-25 |
 | [Joy In Chaos](https://open.spotify.com/track/3pHJFnVrlqbn1li6mLEnQg) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Joy In Chaos](https://open.spotify.com/album/3WRJgByarkX8rP1mZ0fuIq) | 2:05 | 2025-03-07 | 2025-09-20 |

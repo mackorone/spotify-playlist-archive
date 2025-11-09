@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 18693,
+  "num_followers": 18712,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADbHHKbYY/g3IfJX7vWv2oF",
+  "snapshot_id": "aQ02gAAAAABU+9jxUgDmDFn/IrfnF7p7",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 184269,
-      "name": "La Lleca",
-      "url": "https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 184269,
+      "name": "La Lleca",
+      "url": "https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
-        "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
-      "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De M\u00fasica Ligera",
         "url": "https://open.spotify.com/album/43XjEzLIOIU3xBqE2GMrKB"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 193906,
       "name": "De M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/3h3CZSh3SP1et9rBQlxLMG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
+        "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
+      "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
     },
     {
       "added_at": null,

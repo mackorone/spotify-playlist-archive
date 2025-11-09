@@ -313,6 +313,32 @@
     },
     {
       "album": {
+        "name": "Verandah Santa",
+        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Joseph Twist",
+          "url": "https://open.spotify.com/artist/4vqRn6DNiHVKFn8CEdNpW9"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166421,
+      "name": "Let's Play Verandah Santa",
+      "url": "https://open.spotify.com/track/5RHu1lEOgISB5oPiU34clO"
+    },
+    {
+      "album": {
         "name": "Dance Mode!",
         "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
       },

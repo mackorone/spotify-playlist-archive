@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-958 songs - 2 day 15 hr 20 min
+959 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Labor](https://open.spotify.com/track/5mebhNwj9TqwjeyGvBAIcT) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Labor Days](https://open.spotify.com/album/3zJMNOxnbHWG2rZwswnSM2) | 2:32 | 2023-08-04 |  |
 | [Landlines](https://open.spotify.com/track/5akuJANUZArqcqFXGyBYWH) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 2:58 | 2024-01-09 |  |
 | [Landlines](https://open.spotify.com/track/3VKxyE7OxbxTcTfardM9pU) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp) | 2:58 | 2024-08-11 | 2024-12-02 |
+| [Laraaji](https://open.spotify.com/track/16FAYkEsOXF3RXJWhkSrx0) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Mercy](https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi) | 2:23 | 2025-11-08 |  |
 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 | 2023-12-21 |  |
 | [Laughing Hieroglyphic](https://open.spotify.com/track/0YVDEtkT2SjdR5w7uIFcrj) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Down There](https://open.spotify.com/album/6ttLfw2Z9Wbxu3paarz6h0) | 6:49 | 2024-10-26 |  |
 | [Leather & Lace](https://open.spotify.com/track/33Z5vF0bF0OyZWabDcXgbB) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs) | 2:01 | 2023-12-03 | 2024-01-07 |
@@ -663,7 +664,7 @@
 | [Quivering In Time](https://open.spotify.com/track/20droT4qrvOsNlAhUpuI2r) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Quivering In Time](https://open.spotify.com/album/0C0mGs17Sqyfbty2Fkii82) | 6:36 | 2022-05-18 |  |
 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 | 2022-08-19 |  |
 | [Radio Free Europe](https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur](https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q) | 4:05 | 2023-08-14 |  |
-| [Rain Dance](https://open.spotify.com/track/7vAuvUggnyjtuAu77pfapf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 3:23 | 2024-01-15 |  |
+| [Rain Dance](https://open.spotify.com/track/7vAuvUggnyjtuAu77pfapf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 3:23 | 2024-01-15 | 2025-11-09 |
 | [Ramona Park Legend Pt\. 1](https://open.spotify.com/track/1wjyGxvNK5POKbIfNroB3E) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 0:36 | 2022-04-15 | 2024-03-19 |
 | [Ramona Reborn](https://open.spotify.com/track/4dMRURWuPZmjpAMeNqvUkt) | [Delicate Steve](https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5) | [Positive Force](https://open.spotify.com/album/2aZxhSUDHeE3tXSlWvao1w) | 3:09 | 2024-01-03 |  |
 | [Rang Tang Ring Toon](https://open.spotify.com/track/2HZRjBrPeo3HwyZVUZxK62) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 3:29 | 2024-05-09 | 2024-05-10 |

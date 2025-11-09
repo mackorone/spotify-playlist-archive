@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Al Mundo Paz",
+        "url": "https://open.spotify.com/album/3Igum84LXJIRuJt4TiRcyD"
+      },
+      "artists": [
+        {
+          "name": "NewSpring Worship",
+          "url": "https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM"
+        },
+        {
+          "name": "Charlee Buitrago",
+          "url": "https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216460,
+      "name": "Al Mundo Paz",
+      "url": "https://open.spotify.com/track/6dHuVIYYyZ67U6k9MmFarl"
+    },
+    {
+      "album": {
         "name": "Al Mundo Paz (Al\u00e9grense)",
         "url": "https://open.spotify.com/album/0JdUZVJDDu3vQMCU5hQ6Ai"
       },
@@ -1699,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/7dkXbTzCNrbLeLwEBDjBrC"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Rosado",
+          "url": "https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185008,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/2hh3NHe6Z3JyC11wwkHTBG"
+    },
+    {
+      "album": {
         "name": "Joy To Our World",
         "url": "https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1"
       },
@@ -1772,7 +1812,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 157289,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/4zmMCpzxy9mt4gW8C0Uufk"
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 233578,
       "name": "Hosanna - Naci\u00f3 el Salvador",
       "url": "https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7"

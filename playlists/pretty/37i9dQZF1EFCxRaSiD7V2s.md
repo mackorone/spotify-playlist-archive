@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539 likes - 279 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 279 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 55 | [Why You Fall](https://open.spotify.com/track/4WuC0yxuU6MT71nCgWODRp) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 5:21 |
 | 56 | [Skinny Dipping](https://open.spotify.com/track/3EZ0S3mfoXnHrLExD5p5LR) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 1:54 |
 | 57 | [Nighty Night](https://open.spotify.com/track/2IwN0YJUCXz97UZVQV9MB0) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Jukebox the Ghost & Jenny Owen Youngs](https://open.spotify.com/album/1uoCeITzSPJXxbmqn74P6X) | 3:04 |
-| 58 | [From Here](https://open.spotify.com/track/4CEjZm0BKYDk9mQV7aN9QT) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 2:16 |
-| 59 | [Love Bomb](https://open.spotify.com/track/2xAfukY5A9CDNQpytRsOki) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Love Bomb](https://open.spotify.com/album/5FG6rO0YX0Xi4bgSM4B7Vf) | 2:46 |
+| 58 | [Love Bomb](https://open.spotify.com/track/2xAfukY5A9CDNQpytRsOki) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Love Bomb](https://open.spotify.com/album/5FG6rO0YX0Xi4bgSM4B7Vf) | 2:46 |
+| 59 | [From Here](https://open.spotify.com/track/4CEjZm0BKYDk9mQV7aN9QT) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 2:16 |
 | 60 | [Temporary Goodbye](https://open.spotify.com/track/3T7BvwvgrFwBg8Cmyi6q6q) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 2:29 |
 | 61 | [Baby Let's Pretend](https://open.spotify.com/track/1W1sWmPOD8XFZ5GOQ3T9mn) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 2:31 |
 | 62 | [Things We Don't Need Anymore](https://open.spotify.com/track/7G9gZs9Dwt3UpXAkXkW58F) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Maybe This Christmas, Vol\. 6: Holiday Cheer](https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux) | 2:58 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 278 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 279 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AcA+5gAAAAAKwLB01GzVm6jofl8l84Oq`
+Snapshot ID: `AcBEhgAAAACZ1vA2aJpzNex1u8cIYtGS`

@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 178480,
+  "num_followers": 178495,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
-        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 255293,
-      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
         "name": "Groove it",
         "url": "https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 214026,
       "name": "\u30ca\u30a4\u30c8\u30b0\u30eb\u30fc\u30f4",
       "url": "https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
+        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
+        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
         "name": "from JAPAN 2",
         "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 275973,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
+        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 207707,
+      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "I'll be with you",
-        "url": "https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        },
-        {
-          "name": "Nigel Tay",
-          "url": "https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN"
-        }
-      ],
-      "duration_ms": 214432,
-      "name": "I'll be with you",
-      "url": "https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
         "name": "Purple Dream",
         "url": "https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q"
       },
@@ -1151,22 +1131,6 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -1187,6 +1151,42 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
+        "name": "I'll be with you",
+        "url": "https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        },
+        {
+          "name": "Nigel Tay",
+          "url": "https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN"
+        }
+      ],
+      "duration_ms": 214432,
+      "name": "I'll be with you",
+      "url": "https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
-      },
-      "artists": [
-        {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
         "name": "CYM",
         "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 249090,
       "name": "CYM",
       "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+      },
+      "artists": [
+        {
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "\u541b\u3068drive",
-        "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 259615,
-      "name": "\u541b\u3068drive",
-      "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
         "name": "Torie",
         "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 234380,
       "name": "Torie",
       "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
+        "name": "\u541b\u3068drive",
+        "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 259615,
+      "name": "\u541b\u3068drive",
+      "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
+        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
+      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/3o9n8SBtyXzVvNvrA2KUNV"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
-        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
       },
       "artists": [
         {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 220960,
-      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
-      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -1523,22 +1539,6 @@
       "duration_ms": 244752,
       "name": "RIDE ON TIME",
       "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
-        "name": "COLD MOON",
-        "url": "https://open.spotify.com/album/2VK88BTRRpqp47phCpXAEh"
-      },
-      "artists": [
-        {
-          "name": "\u964d\u5e61 \u611b",
-          "url": "https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD"
-        }
-      ],
-      "duration_ms": 262808,
-      "name": "COLD MOON",
-      "url": "https://open.spotify.com/track/3sqd7YCOuzBJKvqJgf0A6v"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
         "name": "Love, lala ~Koi no Yukue~",
         "url": "https://open.spotify.com/album/2Qjye8N457m39dN7gIrXBT"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 225529,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
+        "name": "COLD MOON",
+        "url": "https://open.spotify.com/album/2VK88BTRRpqp47phCpXAEh"
+      },
+      "artists": [
+        {
+          "name": "\u964d\u5e61 \u611b",
+          "url": "https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD"
+        }
+      ],
+      "duration_ms": 262808,
+      "name": "COLD MOON",
+      "url": "https://open.spotify.com/track/3sqd7YCOuzBJKvqJgf0A6v"
     },
     {
       "added_at": "2025-11-04 15:00:05",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-11-04 15:00:05",
       "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 325898,
+      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
+      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
+    },
+    {
+      "added_at": "2025-11-04 15:00:05",
+      "album": {
         "name": "Fly By Day feat. JU!iE",
         "url": "https://open.spotify.com/album/2P2wW01AXfJBEeXrbsp6WC"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 298775,
       "name": "Fly By Day feat. JU!iE",
       "url": "https://open.spotify.com/track/6lf526fjTu6uSodMWM2f25"
-    },
-    {
-      "added_at": "2025-11-04 15:00:05",
-      "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 325898,
-      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
-      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
     },
     {
       "added_at": "2025-11-04 15:00:05",

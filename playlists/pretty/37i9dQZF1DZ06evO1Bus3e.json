@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12482,
+  "num_followers": 12483,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAAr4nPAIJ3uQ0Wny46CvzZ",
+  "snapshot_id": "aQ02gAAAAABRVyLm95nz7Cd4/+wAmbz0",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente Chaka",
-        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
+        "name": "ALGO LEVE EN VIVO",
+        "url": "https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh"
       },
       "artists": [
         {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        },
+        {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Gente Chaka",
-      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
+      "duration_ms": 197929,
+      "name": "Vida Peligrosa (En Vivo)",
+      "url": "https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT"
     },
     {
       "added_at": null,
@@ -223,22 +219,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALGO LEVE EN VIVO",
-        "url": "https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh"
+        "name": "Gente Chaka",
+        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
       },
       "artists": [
         {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        },
-        {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
         }
       ],
-      "duration_ms": 197929,
-      "name": "Vida Peligrosa (En Vivo)",
-      "url": "https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT"
+      "duration_ms": 212400,
+      "name": "Gente Chaka",
+      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
     },
     {
       "added_at": null,

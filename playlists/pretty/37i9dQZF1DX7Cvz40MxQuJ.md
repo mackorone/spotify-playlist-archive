@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 
 > it’s giving medieval castlecore✨🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,197 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,332 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 | 61 | [Fantazia Upon a Ground, Z\. 731](https://open.spotify.com/track/5i0BVXQhBB4HsFvMUsv3o1) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Les Musiciens De Saint\-Julien](https://open.spotify.com/artist/3BOobwybtBO4mg4PDHRL5Q), [François Lazarevitch](https://open.spotify.com/artist/1w0VWTx6MNhPyOiUdqlEwm) | [Purcell: Songs & Dances](https://open.spotify.com/album/1t1qYcX0EJkhIFEXjUV5JK) | 4:46 |
 | 62 | [12 Violin Sonatas, Op\. 5 / Sonata No\. 11 in E Major: 4\. Gavotta\. Allegro](https://open.spotify.com/track/6fArafZVZkg6UPkwEpwVBJ) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [Arthur Grumiaux](https://open.spotify.com/artist/0DfXBLdnI4KVzyNua2rZ8Q), [Riccardo Castagnone](https://open.spotify.com/artist/6iKtrCOlECzcCzGaBo5dHm) | [Baroque Dance](https://open.spotify.com/album/55cs1VtJkHiHxuVk4RcPBh) | 0:47 |
 | 63 | [Water Music Suite No\. 1 in F Major, HWV 348: VII\. Bourrée](https://open.spotify.com/track/52LP8tg1v41rSf5O0sbbmz) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [The English Concert](https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA), [Trevor Pinnock](https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83) | [Handel: Water Music](https://open.spotify.com/album/0xlGxj0FhnTeLoTYHhG0sN) | 2:07 |
-| 64 | [Quan je voy le duç](https://open.spotify.com/track/3wRVUvHXCeZoZ7XAtId665) | [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Ecco la Primavera \- Florentine Music of the 14th Century](https://open.spotify.com/album/1ZvEo8SLwqyeVVzfxzm42r) | 2:22 |
+| 64 | [Quan je voy le duç](https://open.spotify.com/track/3wRVUvHXCeZoZ7XAtId665) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Ecco la Primavera \- Florentine Music of the 14th Century](https://open.spotify.com/album/1ZvEo8SLwqyeVVzfxzm42r) | 2:22 |
 | 65 | [Tavern of Heroes](https://open.spotify.com/track/0KIcB3cswZWWStWOW4IVez) | [Valkyrion](https://open.spotify.com/artist/1xkBfXFYaz0S8m15508YIn) | [Medieval Tavern](https://open.spotify.com/album/7kDxfTsQqPPaRXlWOgXjk5) | 1:28 |
 
 Snapshot ID: `AAAAAFi0HarSI9LCwwj+T+Cc9pHkbcZh`

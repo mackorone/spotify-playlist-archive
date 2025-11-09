@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAErYEf5rmAzXiOpAxD8uji",
+  "snapshot_id": "aQ02gAAAAACfzHorrcrz4IcUjk/gEG3w",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Break The Jaw",
-      "url": "https://open.spotify.com/track/1s28bDyZPvFl8OPKOPgYdN"
-    },
     {
       "added_at": null,
       "album": {
@@ -103,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "Break The Jaw",
+      "url": "https://open.spotify.com/track/1s28bDyZPvFl8OPKOPgYdN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Take Two",
-      "url": "https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -151,30 +135,6 @@
       "duration_ms": 280293,
       "name": "Song In My Head",
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
-      "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
     },
     {
       "added_at": null,
@@ -211,6 +171,30 @@
       "duration_ms": 298920,
       "name": "Skeletree",
       "url": "https://open.spotify.com/track/3rGu21P8XTUi1PhqvKCTe1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
+      "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
     },
     {
       "added_at": null,
@@ -255,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 273235,
       "name": "Life According To Raechel",
       "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 330903,
-      "name": "Shore",
-      "url": "https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 330903,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 246573,
       "name": "Pin It Down",
       "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "My Full Name",
-      "url": "https://open.spotify.com/track/54BTdSX1jqE366VPHeGfWh"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "My Full Name",
+      "url": "https://open.spotify.com/track/54BTdSX1jqE366VPHeGfWh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Billboard Heart",
         "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 282200,
       "name": "Let Me Go (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 46803,
-      "name": "Shatter Into Form I",
-      "url": "https://open.spotify.com/track/6EMoj6E5RIx4i3H3tJFI7V"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 46803,
+      "name": "Shatter Into Form I",
+      "url": "https://open.spotify.com/track/6EMoj6E5RIx4i3H3tJFI7V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 226626,
       "name": "Impressions (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Mummy",
-      "url": "https://open.spotify.com/track/6HZlaijnxTAJvnDGpyCc5o"
     },
     {
       "added_at": null,
@@ -559,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+        "name": "A Bridge To Far",
+        "url": "https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU"
       },
       "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+      "duration_ms": 221181,
+      "name": "Guardians",
+      "url": "https://open.spotify.com/track/2KX0OVjpyfXO8vRwxVTj2F"
     },
     {
       "added_at": null,
@@ -591,6 +579,22 @@
       "duration_ms": 203373,
       "name": "Don\u2019t Let Me Down Again",
       "url": "https://open.spotify.com/track/7rEeIaUe3cqW8lkVThboZc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": null,
@@ -839,22 +843,6 @@
       "duration_ms": 237493,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Common Language",
-      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

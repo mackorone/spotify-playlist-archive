@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Drake Milligan",
-  "num_followers": 405468,
+  "num_followers": 405443,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-11-07 05:01:32",
       "album": {
-        "name": "Fort Worth",
-        "url": "https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8"
-      },
-      "artists": [
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        },
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 216796,
-      "name": "Fort Worth",
-      "url": "https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5"
-    },
-    {
-      "added_at": "2025-11-07 05:01:32",
-      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 254836,
       "name": "Worry is a Sickness",
       "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
+    },
+    {
+      "added_at": "2025-11-07 05:01:32",
+      "album": {
+        "name": "Fort Worth",
+        "url": "https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8"
+      },
+      "artists": [
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        },
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 216796,
+      "name": "Fort Worth",
+      "url": "https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5"
     },
     {
       "added_at": "2025-11-07 05:01:32",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-11-07 05:01:32",
       "album": {
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+    },
+    {
+      "added_at": "2025-11-07 05:01:32",
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": "2025-11-07 05:01:32",
-      "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2025-11-07 05:01:32",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-11-07 05:01:32",
       "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
-    },
-    {
-      "added_at": "2025-11-07 05:01:32",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 241523,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
+    },
+    {
+      "added_at": "2025-11-07 05:01:32",
+      "album": {
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
     },
     {
       "added_at": "2025-11-07 05:01:32",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-11-07 05:01:32",
       "album": {
+        "name": "Green in Colorado",
+        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196833,
+      "name": "Green in Colorado",
+      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
+    },
+    {
+      "added_at": "2025-11-07 05:01:32",
+      "album": {
         "name": "Never Again One More Time",
         "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 178284,
       "name": "Never Again One More Time",
       "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
-    },
-    {
-      "added_at": "2025-11-07 05:01:32",
-      "album": {
-        "name": "Green in Colorado",
-        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196833,
-      "name": "Green in Colorado",
-      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
     },
     {
       "added_at": "2025-11-07 05:01:32",

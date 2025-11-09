@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1020358,
+  "num_followers": 1020306,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -315,38 +315,6 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1"
-      },
-      "artists": [
-        {
-          "name": "breathe.",
-          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
-        }
-      ],
-      "duration_ms": 204100,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -367,6 +335,38 @@
       "duration_ms": 213706,
       "name": "Good At Breaking Hearts",
       "url": "https://open.spotify.com/track/6J4JyWGym75LACyBWqipKv"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "duration_ms": 204100,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -435,6 +435,26 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Mood Talk",
+          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
+        }
+      ],
+      "duration_ms": 226280,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
         "name": "All Roads",
         "url": "https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 177882,
       "name": "By The Lake",
       "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Mood Talk",
-          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 251160,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
         "name": "Views/Octopus EP",
         "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 181599,
       "name": "Pretty Little Thing",
       "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 251160,
-      "name": "Black Car",
-      "url": "https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238479,
-      "name": "S.I.T.L.",
-      "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
         "name": "Glimmer of God",
         "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 192840,
       "name": "Bubba",
       "url": "https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238479,
+      "name": "S.I.T.L.",
+      "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
-        "name": "After the First Kiss",
-        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 396157,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
         "name": "Leisurevision",
         "url": "https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M"
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
       },
       "artists": [
         {
-          "name": "SadGirl",
-          "url": "https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 170434,
-      "name": "Little Queenie (2023 Remastered Version)",
-      "url": "https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj"
+      "duration_ms": 396157,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -959,6 +943,22 @@
       "duration_ms": 188764,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M"
+      },
+      "artists": [
+        {
+          "name": "SadGirl",
+          "url": "https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Little Queenie (2023 Remastered Version)",
+      "url": "https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
-        "name": "Haunted Disc",
-        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 203864,
-      "name": "Digital Girl",
-      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
         "name": "Pixie Dust",
         "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 183716,
       "name": "Pixie Dust",
       "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 203864,
+      "name": "Digital Girl",
+      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
-        "name": "Moon Soul",
-        "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
-      },
-      "artists": [
-        {
-          "name": "Moon Soul",
-          "url": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5"
-        }
-      ],
-      "duration_ms": 66000,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
         "name": "What\u2019s In The Tea?",
         "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
       },
@@ -1339,22 +1323,6 @@
       "duration_ms": 173052,
       "name": "What\u2019s In The Tea?",
       "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 150402,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -1375,6 +1343,22 @@
       "duration_ms": 182259,
       "name": "WOOF",
       "url": "https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 150402,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -1407,6 +1391,22 @@
       "duration_ms": 182453,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
+        "name": "Moon Soul",
+        "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
+      },
+      "artists": [
+        {
+          "name": "Moon Soul",
+          "url": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5"
+        }
+      ],
+      "duration_ms": 66000,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
     },
     {
       "added_at": "2025-04-21 16:38:19",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-04-21 16:38:19",
       "album": {
-        "name": "Hypnotherapy",
-        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 205821,
-      "name": "Hypnotherapy",
-      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
-    },
-    {
-      "added_at": "2025-04-21 16:38:19",
-      "album": {
         "name": "It's All a Bit Fuzzy",
         "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo"
+    },
+    {
+      "added_at": "2025-04-21 16:38:19",
+      "album": {
+        "name": "Hypnotherapy",
+        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 205821,
+      "name": "Hypnotherapy",
+      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
     },
     {
       "added_at": "2025-04-21 16:38:19",

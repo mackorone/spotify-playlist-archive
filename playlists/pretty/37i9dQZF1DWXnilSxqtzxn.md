@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnilSxqtzxn.md) - [plain]
 
 > A collection of the greatest names to ever grace the Jazz Cafe stage\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,857 likes - 68 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,874 likes - 68 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-260 songs - 16 hr 34 min
+261 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [La Canción Del Velero](https://open.spotify.com/track/1wV4Iied30083fVXBMJpJV) | [La Fiesta](https://open.spotify.com/artist/4eYgRQtOzycNEUh4pwp1wf) | [Dicen](https://open.spotify.com/album/3O0KlT4zFXkLKtXJyTo9OM) | 3:35 | 2024-06-18 |  |
 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 | 2023-06-09 | 2024-04-19 |
 | [La Cucaracha](https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7) | [El Combo Dominicano](https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb) | [La Cucaracha](https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1) | 4:04 | 2023-06-09 |  |
+| [La fiesta](https://open.spotify.com/track/2SXnEn6n0IqcGsHZjJMcSo) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Colores](https://open.spotify.com/album/1Scgivd40jqSf5QybT3Itq) | 2:53 | 2025-07-02 |  |
 | [La flaca](https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca \- Edición 10º Aniversario](https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp) | 4:21 | 2023-06-09 |  |
 | [La flaca](https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:21 | 2023-06-09 | 2023-06-16 |
 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 | 2022-08-11 |  |
@@ -243,7 +244,7 @@
 | [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 | 2023-06-09 |  |
 | [Traicionera](https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:49 | 2022-08-11 | 2023-06-10 |
 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:18 | 2022-08-11 | 2023-02-18 |
-| [Un Rayo de Sol](https://open.spotify.com/track/6mUQ6NW9WRcCuSsi4kzdlf) | [Los Diablos](https://open.spotify.com/artist/1iTBMIseDKB2IoKlmlGvyp) | [70s los Anos Jovenes \- la Coleccion](https://open.spotify.com/album/7JFT8yBfrCYgoVo5tBtbQf) | 3:33 | 2024-06-18 |  |
+| [Un Rayo de Sol](https://open.spotify.com/track/6mUQ6NW9WRcCuSsi4kzdlf) | [Los Diablos](https://open.spotify.com/artist/1iTBMIseDKB2IoKlmlGvyp) | [70s los Anos Jovenes \- la Coleccion](https://open.spotify.com/album/7JFT8yBfrCYgoVo5tBtbQf) | 3:33 | 2024-06-18 | 2025-11-09 |
 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:56 | 2025-07-02 |  |
 | [Vaina Loca](https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:56 | 2022-08-11 | 2023-06-10 |
 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 | 2023-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,275 likes - 95 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,274 likes - 95 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 26 | [So Right \(feat\. Yuna\)](https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [So Right \(feat\. Yuna\)](https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk) | 3:08 |
 | 27 | [Don't Blame It On Love](https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Don't Blame It On Love](https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv) | 3:17 |
 | 28 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
-| 29 | [ANGRY HEARTS](https://open.spotify.com/track/78ZSpNggaGhHY1HdcjGJr4) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [ANGRY HEARTS](https://open.spotify.com/album/3H9mOpsztHarggXBOaNTsB) | 3:22 |
+| 29 | [ANGRY HEARTS](https://open.spotify.com/track/78ZSpNggaGhHY1HdcjGJr4) | [Charlie Heat](https://open.spotify.com/artist/6JyAc1u7DJRsWOSOjLCRxU), [Yuna](https://open.spotify.com/artist/0ZPIcWSwxn3NnnCAtUTbdj) | [ANGRY HEARTS](https://open.spotify.com/album/3H9mOpsztHarggXBOaNTsB) | 3:22 |
 | 30 | [Stay Where You Are](https://open.spotify.com/track/1hCss2zjMPOdWFbr5Ryf3F) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/4gHiYSPUmmPoTT8h4AHHaS) | 3:29 |
 | 31 | [Invisible](https://open.spotify.com/track/2ialELOk7yrM8Nfo87sifD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/6d4uU5wOssH9hunnIOfbQZ) | 3:48 |
 | 32 | [Crush](https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:03 |

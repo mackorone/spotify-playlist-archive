@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1633,
+  "num_followers": 1634,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABi5nx64Nvo/rKaQXsdMRkV",
+  "snapshot_id": "aQ02gAAAAAAOX3gzMfyYdyQ7BOL63MV0",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Dale Biberon",
-      "url": "https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt"
+      "duration_ms": 163226,
+      "name": "Ritmo Caliente",
+      "url": "https://open.spotify.com/track/0JMPuoi9vvGyWrPm9f8j3V"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 163226,
-      "name": "Ritmo Caliente",
-      "url": "https://open.spotify.com/track/0JMPuoi9vvGyWrPm9f8j3V"
+      "duration_ms": 204600,
+      "name": "Dale Biberon",
+      "url": "https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA PLEBADA",
+        "url": "https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "LA PLEBADA",
+      "url": "https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dale Biberon",
         "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
       },
@@ -555,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popurr\u00ed",
         "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
       },
@@ -575,22 +607,6 @@
       "duration_ms": 645067,
       "name": "Popurr\u00ed",
       "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piensa en Mi",
         "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Muevelo Bien",
-      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
+      "duration_ms": 171346,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
       "duration_ms": 161053,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Muevelo Bien",
+      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Hombre Muerto",
-      "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Pachanga",
         "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 438733,
       "name": "Popurr\u00ed: Charanga / Pachanga",
       "url": "https://open.spotify.com/track/1ZJYFOo6v9v4Y9r2I3W3eS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Hombre Muerto",
+      "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
     }
   ],
   "unique_name": "This Is Banda Zarape",

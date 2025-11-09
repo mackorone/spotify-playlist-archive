@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Leon Vynehall
 
-381 songs - 23 hr 45 min
+382 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [On and On \(Till the End of Us\)](https://open.spotify.com/track/0fQf23AVDUFO3ra88x61hx) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1FKKx9w0SyP341MkT0mf4K) | 5:26 | 2021-10-28 | 2023-04-30 |
 | [On and On \(Till the End of Us\)](https://open.spotify.com/track/2ugQ6rCdoQ5TSF2JZvhzgl) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [On and On \(Till the End of Us\)](https://open.spotify.com/album/3TmABFDEL1pZ7e4xk0IwDB) | 5:26 | 2021-10-28 | 2023-04-29 |
 | [On and On \(Till the End of Us\)](https://open.spotify.com/track/7EpEum94WKQsGwqsYbwzQc) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn) | 5:26 | 2021-10-28 | 2024-03-02 |
+| [ON&ON](https://open.spotify.com/track/69UYgpv6dhNOA5Ld8vjD9l) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ON&ON](https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh) | 4:03 | 2025-11-07 |  |
 | [One And Only](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [One And Only](https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8) | 3:42 | 2025-05-08 |  |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-03-01 | 2025-01-17 |
 | [One Thousand Waves](https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [One Thousand Waves](https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC) | 3:46 | 2024-07-18 | 2025-02-14 |
@@ -298,7 +299,7 @@
 | [Shapeshift](https://open.spotify.com/track/0sYHnDAAx6sM5PBvNL1bKB) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Shapeshift](https://open.spotify.com/album/2RUbKHZHSV3ehikTjFBYD5) | 4:50 | 2025-04-17 |  |
 | [She Waits](https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [She Waits](https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d) | 2:57 | 2025-10-03 |  |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2024-02-23 | 2024-07-27 |
-| [Shooting Star](https://open.spotify.com/track/7tMI32k7JL5O5P8l2ASsA9) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Shooting Star](https://open.spotify.com/album/6p108Q4eYfBH64JRreIriV) | 3:19 | 2025-10-03 |  |
+| [Shooting Star](https://open.spotify.com/track/7tMI32k7JL5O5P8l2ASsA9) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Shooting Star](https://open.spotify.com/album/6p108Q4eYfBH64JRreIriV) | 3:19 | 2025-10-03 | 2025-11-09 |
 | [Show the Way](https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Show the Way](https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J) | 4:21 | 2025-04-17 | 2025-10-04 |
 | [Shut My Mouth](https://open.spotify.com/track/5cI4oDkASkMmaXxMVNzqKK) | [The Valla](https://open.spotify.com/artist/4YhQHwK37kKWxXGiNbCu1R) | [Shut My Mouth](https://open.spotify.com/album/0mTMooSBjeE2INrKU8AVqf) | 3:26 | 2021-10-28 | 2024-02-02 |
 | [Sister Infinity \- Edit](https://open.spotify.com/track/2FmxpCtAKpL2VT7abM5Jeq) | [HARD FEELINGS](https://open.spotify.com/artist/62leN9NRMUgDfPzshm7K5L) | [Sister Infinity](https://open.spotify.com/album/1sDjnXH9RgKCRPi2tczLy7) | 3:19 | 2021-10-28 | 2024-02-23 |

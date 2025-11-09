@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Listen to the song that says what hearts couldn’t\. 'Usey Kehna' from Tere Ishk Mein is out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,084 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,240 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

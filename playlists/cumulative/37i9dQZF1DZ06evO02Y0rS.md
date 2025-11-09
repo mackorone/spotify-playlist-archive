@@ -4,7 +4,7 @@
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-107 songs - 8 hr 4 min
+108 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Flutter](https://open.spotify.com/track/118jpM7D5hnAEYJ6EzEY3G) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flutter](https://open.spotify.com/album/2RJzEXouslaRTm2EecGPcm) | 4:44 | 2022-01-15 | 2022-01-31 |
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-01-27 | 2024-06-24 |
 | [Fold \- Mixed](https://open.spotify.com/track/0dl55Rny3g7RzDOFfLbVsJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Global Underground \#46: ANNA \- Lisbon](https://open.spotify.com/album/3yLFAvONNAOKGodAW4QOOl) | 4:47 | 2024-06-24 | 2024-08-28 |
-| [For A Day \- Bonobo Remix](https://open.spotify.com/track/5JnmTaJ2ce5tz2hBcx3ksf) | [The Miserable Rich](https://open.spotify.com/artist/6ASVzA153Iu1hul6Jw1rWG), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [For A Day Remixes](https://open.spotify.com/album/1kkzmDFnNOkua0A217UeZq) | 3:47 | 2025-09-17 |  |
+| [For A Day \- Bonobo Remix](https://open.spotify.com/track/5JnmTaJ2ce5tz2hBcx3ksf) | [The Miserable Rich](https://open.spotify.com/artist/6ASVzA153Iu1hul6Jw1rWG), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [For A Day Remixes](https://open.spotify.com/album/1kkzmDFnNOkua0A217UeZq) | 3:47 | 2025-09-17 | 2025-11-09 |
 | [Frenemies \- feat\. Hak Baker, Bonobo, Damon Albarn, Otim Alpha, Mélissa Hié & Ophélia Hié](https://open.spotify.com/track/3EC9PXfg2PMRcya0ng7rlc) | [Africa Express](https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Otim Alpha](https://open.spotify.com/artist/07uMqKd2ikfAnQiyF0bNlV), [Mélissa Hié](https://open.spotify.com/artist/1vjbKbbpLTjIlCvlnVVmGt), [Ophélia Hié](https://open.spotify.com/artist/0UiKPbwDJsliBBk4V5n2u4) | [Africa Express Presents..\. Bahidorá](https://open.spotify.com/album/3KMZGvFIB8djCFognOb1Op) | 5:21 | 2025-07-27 | 2025-07-31 |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-15 | 2022-05-28 |
 | [From You](https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:30 | 2022-10-13 |  |
@@ -105,6 +105,7 @@
 | [Something for Windy](https://open.spotify.com/track/48ppHBSOoD5Iz1gV3pjfOC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 1:11 | 2022-09-09 | 2025-03-21 |
 | [Stay The Same](https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:44 | 2022-01-15 |  |
 | [Stay The Same \- Radio Edit](https://open.spotify.com/track/1a2utV5yxcl9UQrZnYC5DJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Stay The Same](https://open.spotify.com/album/3kh6B7Mxp9Od8QWDLsq8Ap) | 3:30 | 2023-03-06 | 2025-03-08 |
+| [Sugar Rhyme](https://open.spotify.com/track/3exminmsbdqZKm1mdFrLOp) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:47 | 2025-11-09 |  |
 | [Ten Tigers](https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:03 | 2022-03-24 |  |
 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 | 2022-01-15 |  |
 | [The Keeper](https://open.spotify.com/track/5hmf3hRQMaDIWuZT1zX3ue) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:48 | 2022-04-10 |  |

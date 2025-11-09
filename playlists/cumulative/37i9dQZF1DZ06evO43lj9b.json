@@ -429,6 +429,28 @@
     },
     {
       "album": {
+        "name": "Feed Me Your Love",
+        "url": "https://open.spotify.com/album/4p6oGoxRZvCAcbhuwF8Rjs"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Soulsociety",
+          "url": "https://open.spotify.com/artist/1jQbHWXe0zA2ZcrS6ngzPc"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Feed Me Your Love",
+      "url": "https://open.spotify.com/track/6HSLTou3stVB46VMEiNK1N"
+    },
+    {
+      "album": {
         "name": "Cherry Bomb",
         "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
       },
@@ -510,7 +532,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 403800,
       "name": "Good Vibrations - Kerri's Mad Mix",
       "url": "https://open.spotify.com/track/4IcB22Vd7pYjqeO3qCgIk0"

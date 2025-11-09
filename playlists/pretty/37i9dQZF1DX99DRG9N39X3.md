@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 
 ### [10s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX99DRG9N39X3)
 
-> These songs rocked the 10s\. Cover: Twenty One Pilots
+> These songs rocked the 10s\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,527 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,442 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

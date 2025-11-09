@@ -1,13 +1,33 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 14683,
+  "num_followers": 14699,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADchz+HcGvFu35WOm5cAuOz",
+  "snapshot_id": "aQ02gAAAAADvwjYF9SShYKyWKJttd2yB",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Lot (with Victony)",
+        "url": "https://open.spotify.com/album/6V4dnyT8bItiBHRwQwh0IR"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "A Lot (with Victony)",
+      "url": "https://open.spotify.com/track/7MAUCyUl1hbCJg20W6ecJK"
+    },
     {
       "added_at": null,
       "album": {
@@ -295,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 158690,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -323,6 +327,22 @@
       "duration_ms": 202958,
       "name": "Risk",
       "url": "https://open.spotify.com/track/7ElIoXjT2p1bcDzsUL3X89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 158690,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
     },
     {
       "added_at": null,
@@ -411,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Sawa",
-      "url": "https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -467,6 +467,26 @@
       "duration_ms": 226000,
       "name": "Jaga Jaga (with Babyboy AV)",
       "url": "https://open.spotify.com/track/7vCTeLGRwAkLqZr1fphHg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Sawa",
+      "url": "https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk"
     },
     {
       "added_at": null,
@@ -783,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypertension",
-        "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 168504,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 108823,
       "name": "NAIJA SHAWTY (feat. Victony)",
       "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypertension",
+        "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 168504,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv"
     },
     {
       "added_at": null,
@@ -883,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nataraja",
         "url": "https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L"
       },
@@ -919,6 +919,26 @@
       "duration_ms": 187500,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
     },
     {
       "added_at": null,
@@ -959,26 +979,6 @@
       "duration_ms": 170088,
       "name": "More",
       "url": "https://open.spotify.com/track/3KROMpk1iSj0NgebYd6E3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace and Love",
-        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Saint Tropez",
-      "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
     }
   ],
   "unique_name": "This Is Victony",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  NDX A.K.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,847 likes - 98 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,964 likes - 98 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

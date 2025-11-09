@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 105407,
+  "num_followers": 105411,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFlvsT5HWhgxbz96wSoGGQEr5EZF",
+  "snapshot_id": "AAAAAPwnTolyk9eMrsrqvn1UsqQTH6Ms",
   "tracks": [
     {
       "added_at": "2025-10-30 23:00:21",
@@ -231,26 +231,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 223898,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/0m00au0MMoII2767mu4sj7"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Stay (Ely Oaks Version)",
         "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 159246,
       "name": "Stay - Ely Oaks Version",
       "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 223898,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/0m00au0MMoII2767mu4sj7"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -415,26 +415,18 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         }
       ],
-      "duration_ms": 187298,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -471,18 +463,26 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 204285,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+      "duration_ms": 187298,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Let Me Think About It Again",
+        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Let Me Think About It Again",
+      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "I WANT YOUR LOVE",
         "url": "https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 122008,
       "name": "I WANT YOUR LOVE",
       "url": "https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Let Me Think About It Again",
-        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Let Me Think About It Again",
-      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "When You're Lonely",
         "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 159103,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1631,30 +1631,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Lost My Way",
-        "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "July",
-          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
-        }
-      ],
-      "duration_ms": 142700,
-      "name": "Lost My Way",
-      "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Heavy Steady",
         "url": "https://open.spotify.com/album/5QcJ5jvAO1DV1sAOyugAz4"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 160629,
       "name": "Elektro",
       "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Lost My Way",
+        "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "duration_ms": 142700,
+      "name": "Lost My Way",
+      "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
     },
     {
       "added_at": "2025-10-30 23:00:21",

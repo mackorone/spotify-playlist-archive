@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatoD1BSWRau.md) - [plain]
 
 > Listen to your favorite songs from Marvel’s Guardians of the Galaxy — including music from Vol\. 3 \(written and directed by James Gunn\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,396,724 likes - 96 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,396,600 likes - 96 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

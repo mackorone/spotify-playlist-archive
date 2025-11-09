@@ -11,11 +11,11 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 1 | [Yıkılana Kadar](https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Yıkılana Kadar](https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg) | 3:00 |
 | 2 | [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 |
 | 3 | [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 |
-| 4 | [Pişmanım](https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Pişmanım](https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ) | 2:17 |
-| 5 | [Sevda Çiçeğim](https://open.spotify.com/track/0qtIlEt4OwRDmEa1h20vVm) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Sevda Çiçeğim](https://open.spotify.com/album/1fHTjgzDEir3cw3dc7qcTy) | 4:08 |
-| 6 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
-| 7 | [Soft Öpücük](https://open.spotify.com/track/7sJ1cyZrmhqHaFVvD2xBkj) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Soft Öpücük](https://open.spotify.com/album/15Z5zDLAWBPP0GjIiVHzlK) | 3:18 |
-| 8 | [Yas Tutarak](https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Yas Tutarak](https://open.spotify.com/album/7uPqReZ6mc48CYTDVyKAkn) | 2:50 |
+| 4 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
+| 5 | [Pişmanım](https://open.spotify.com/track/0GjsxUigEnfo2OZr0pYrc1) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Pişmanım](https://open.spotify.com/album/0Ow2w8J3f8HzCt9g6xBttQ) | 2:17 |
+| 6 | [Yas Tutarak](https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Yas Tutarak](https://open.spotify.com/album/7uPqReZ6mc48CYTDVyKAkn) | 2:50 |
+| 7 | [Sevda Çiçeğim](https://open.spotify.com/track/0qtIlEt4OwRDmEa1h20vVm) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Sevda Çiçeğim](https://open.spotify.com/album/1fHTjgzDEir3cw3dc7qcTy) | 4:08 |
+| 8 | [Soft Öpücük](https://open.spotify.com/track/7sJ1cyZrmhqHaFVvD2xBkj) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Soft Öpücük](https://open.spotify.com/album/15Z5zDLAWBPP0GjIiVHzlK) | 3:18 |
 | 9 | [yazık ettin](https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yazık ettin](https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF) | 2:50 |
 | 10 | [Harbi Güzel](https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Harbi Güzel](https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW) | 2:55 |
 | 11 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 29 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 |
 | 30 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 |
 
-Snapshot ID: `AAAAkYzpa7QAgyO/wL97rCXMhjhym5v3`
+Snapshot ID: `AAAAkxn6WL7kdzKnI+UqrDu2mSV5xgIV`

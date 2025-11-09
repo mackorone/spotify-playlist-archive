@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 222620,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/7ztpISTetVPoca640QDqZn"
@@ -13653,6 +13653,24 @@
     },
     {
       "album": {
+        "name": "DWA RAZY TYLE",
+        "url": "https://open.spotify.com/album/0dBQpbBxl5s041GAA5vLja"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127211,
+      "name": "DWA RAZY TYLE",
+      "url": "https://open.spotify.com/track/2nIyuz4f11SjDi32mcSCnL"
+    },
+    {
+      "album": {
         "name": "Dwoje ludzie\u0144k\u00f3w",
         "url": "https://open.spotify.com/album/6LKxswBVj57QxwDfDSl22s"
       },
@@ -21267,6 +21285,28 @@
     },
     {
       "album": {
+        "name": "FRIEND7",
+        "url": "https://open.spotify.com/album/3w81DXj7OQi8EdeAnynDKg"
+      },
+      "artists": [
+        {
+          "name": "FRIENDZ",
+          "url": "https://open.spotify.com/artist/5X3ccL1CnxYsGjAXD0k7es"
+        },
+        {
+          "name": "\u0141obuzy",
+          "url": "https://open.spotify.com/artist/4wJtkZRfieBICxs8onRjy6"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "Jak Ta LALA",
+      "url": "https://open.spotify.com/track/6YxlYt5sCNlaCF32MuZfir"
+    },
+    {
+      "album": {
         "name": "OIO",
         "url": "https://open.spotify.com/album/17ogXGc4j4i2r7rwWea0KS"
       },
@@ -23724,7 +23764,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 172549,
       "name": "KIEROWNIK",
       "url": "https://open.spotify.com/track/1pl6TiCoKfRGkQ2Miyvy9f"
@@ -26852,7 +26892,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -37508,7 +37548,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Patolove",
       "url": "https://open.spotify.com/track/24Gw6xOLcc028XPZJBQeEr"
@@ -39038,7 +39078,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 191600,
       "name": "POKOLOROWANA",
       "url": "https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u"
@@ -43296,7 +43336,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"
@@ -46166,7 +46206,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -46184,7 +46224,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -50536,7 +50576,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -54848,7 +54888,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 152853,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2WFSy9WBAdKH8RnwL5deH2"

@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342167,
+  "num_followers": 342160,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 126580,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Whistle (feat. Bertie Scott)",
         "url": "https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 126580,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 202333,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2025-02-14 16:04:15",

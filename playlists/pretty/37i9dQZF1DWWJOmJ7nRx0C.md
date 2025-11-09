@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Bad Omens
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,787 likes - 74 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,900 likes - 74 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

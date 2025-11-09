@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,227 likes - 79 songs - 3 hr 58 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,226 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 1 | [Dior \(with Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
 | 2 | [Funky Beat \(feat\. Chuck D\)](https://open.spotify.com/track/5cIV5cbhIjmotHAx0zDCbj) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L) | [Funky Beat \(feat\. Chuck D\)](https://open.spotify.com/album/2nPdHTkN5CSTsuuMn16QWt) | 2:36 |
 | 3 | [Baby Baby](https://open.spotify.com/track/6TVbM5us3GqQmY2kx8C83W) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Baby Baby](https://open.spotify.com/album/6PUQG8FDAAoav6lSORKCKy) | 2:37 |
 | 4 | [Act A Fool](https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8) | [Charlie Powell](https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru) | [Act A Fool](https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh) | 2:31 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAXWo1Vafq+B2gE1jMqJfd8",
+  "snapshot_id": "aQ02gAAAAAAj5E2eKaXWpGwDePQxCP61",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,30 @@
       "duration_ms": 339306,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/1pENs9KwjanSp0JgmmfiTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Sequence for Ga\u00efa",
+      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
     },
     {
       "added_at": null,
@@ -539,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dessner: Towards the Forest",
+        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Towards the Forest",
+      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
         "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
       },
@@ -563,26 +607,6 @@
       "duration_ms": 459213,
       "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
       "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dessner: Towards the Forest",
-        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
-      },
-      "artists": [
-        {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Towards the Forest",
-      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
     },
     {
       "added_at": null,
@@ -1059,6 +1083,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
+        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 385493,
+      "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
+      "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -1083,30 +1131,6 @@
       "duration_ms": 372066,
       "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
       "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
-        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 385493,
-      "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
-      "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
     },
     {
       "added_at": null,
@@ -1187,6 +1211,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sensations",
+        "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Nessun dorma (From \"Turandot\")",
+      "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations - La vie en rose",
         "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
       },
@@ -1215,34 +1267,6 @@
       "duration_ms": 264013,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sensations",
-        "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Nessun dorma (From \"Turandot\")",
-      "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
     },
     {
       "added_at": null,
@@ -1300,8 +1324,8 @@
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+          "name": "Ennio Moriconne",
+          "url": "https://open.spotify.com/artist/2yndP9zpcSeLDIDV2ZYotM"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -1310,11 +1334,19 @@
         {
           "name": "Jerome Ducros",
           "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 166946,
-      "name": "La Boh\u00e8me",
-      "url": "https://open.spotify.com/track/6PoC48qnjs0unMECXSyNax"
+      "duration_ms": 206586,
+      "name": "Chi mai",
+      "url": "https://open.spotify.com/track/4NyVobuooQ1CGec0vSGE5K"
     },
     {
       "added_at": null,
@@ -1339,34 +1371,6 @@
       "duration_ms": 725066,
       "name": "Cello Sonata in G Minor, Op. 19: I. Lento. Allegro moderato",
       "url": "https://open.spotify.com/track/7rPScHteucZYSGvCRvsajt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 397426,
-      "name": "Haydn: Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
-      "url": "https://open.spotify.com/track/04aXsPy6G40WjH7qOwYrH6"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

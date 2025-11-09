@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 
 > <a href="spotify:artist:1vK8NnrPlBlF34LaiFX1SK">Funk Tribu</a>'s favorite tracks\. Updated regularly\. Curated by Funk Tribu\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,637 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,673 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 | 16 | [Phoenix \- Linds Remix](https://open.spotify.com/track/6mJAdFghoTt9r0vio9eWEj) | [Linds](https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc), [DJ BLIK](https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE), [DJ POLKOMTEL](https://open.spotify.com/artist/1VuAnQWU5OzXL7Yf57bn70) | [Phoenix \(Linds Remix\)](https://open.spotify.com/album/36v1cNv4yT8eAUNJA80Sg1) | 4:32 |
 | 17 | [Hydraulics](https://open.spotify.com/track/6i33GRpRyCn6PKLBqjdUEA) | [6 SENSE](https://open.spotify.com/artist/2dPsIUgqi2kTYEJHoDGaJN) | [Hydraulics EP](https://open.spotify.com/album/0nHD7H6iCeH7ApCiewk6f5) | 4:37 |
 | 18 | [Rock the Beat](https://open.spotify.com/track/0ZlIEQY9tn5EKGK2PCCLDH) | [Colmage](https://open.spotify.com/artist/0obMvusjJEJfZlC1TWF5Om), [Dankz](https://open.spotify.com/artist/4oREA9KYcBTchR0RPjSi9K) | [Rock the Beat](https://open.spotify.com/album/2Jory1ffFN7BpTtq4wsc3y) | 5:24 |
-| 19 | [Switch](https://open.spotify.com/track/6JjxNCdvwq2NdSAYr3Qmu0) | [JØR](https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz) | [Switch](https://open.spotify.com/album/2u6qIlsuCcuT9lP1C3ftBE) | 3:45 |
+| 19 | [Switch](https://open.spotify.com/track/6JjxNCdvwq2NdSAYr3Qmu0) | [JOR](https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz) | [Switch](https://open.spotify.com/album/2u6qIlsuCcuT9lP1C3ftBE) | 3:45 |
 | 20 | [Spectral Bells](https://open.spotify.com/track/0Yfb937yM0d5f6os0W9IWc) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Spectral Bells](https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP) | 3:13 |
 | 21 | [Call Me Babe](https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Call Me Babe](https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM) | 2:44 |
 | 22 | [Side To Side](https://open.spotify.com/track/0bRzCl937W9PlTCknGfcW8) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Side To Side](https://open.spotify.com/album/6JVkZUMQ00zjGfZmSvZbsX) | 2:28 |

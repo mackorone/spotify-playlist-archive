@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "100 Dage",
+        "url": "https://open.spotify.com/album/6v2mw7Ktt4KpucZiOBVEx5"
+      },
+      "artists": [
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161287,
+      "name": "100 Dage",
+      "url": "https://open.spotify.com/track/54WSNfT05On5JHcr43kbYn"
+    },
+    {
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -6289,6 +6307,24 @@
     },
     {
       "album": {
+        "name": "Loveflow",
+        "url": "https://open.spotify.com/album/57IDaHW7D6NiQobBXxFVF3"
+      },
+      "artists": [
+        {
+          "name": "Saveus",
+          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196726,
+      "name": "Carry Your Heart",
+      "url": "https://open.spotify.com/track/6yUEGYXngxmtRvcDXX0HbU"
+    },
+    {
+      "album": {
         "name": "AFRO DANSKER II",
         "url": "https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW"
       },
@@ -10882,7 +10918,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 202453,
       "name": "Elsker Dig S\u00e5 Meget",
       "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
@@ -12217,6 +12253,24 @@
     },
     {
       "album": {
+        "name": "fake det.",
+        "url": "https://open.spotify.com/album/0V6fexqaJFGHt7QgyqPVra"
+      },
+      "artists": [
+        {
+          "name": "JONATHAN",
+          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "fake det.",
+      "url": "https://open.spotify.com/track/4Uzd424jdC17hD8AqFp77g"
+    },
+    {
+      "album": {
         "name": "Fald Ned (feat. Mille)",
         "url": "https://open.spotify.com/album/3TnLXjzFVfmy8qKZmrwPhx"
       },
@@ -12936,7 +12990,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 205869,
       "name": "Fire Uger",
       "url": "https://open.spotify.com/track/2fGbVht5HksMkvkIXvlPzc"
@@ -14528,7 +14582,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 193678,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/1MriMVVs0upyrXtArsWep5"
@@ -14550,7 +14604,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 193678,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/7sUvmhKZF9VVZLKXqTIp0x"
@@ -26250,7 +26304,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 122812,
       "name": "Marcelo",
       "url": "https://open.spotify.com/track/5dRw9iWHJYEw3eAVu20JhJ"

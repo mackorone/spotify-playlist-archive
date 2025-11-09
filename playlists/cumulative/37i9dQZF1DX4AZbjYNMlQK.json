@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 171535,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 255125,
       "name": "Human Nature - En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 191457,
       "name": "Roz\u00e1ndome",
       "url": "https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD"
@@ -2986,6 +2986,24 @@
       "duration_ms": 201851,
       "name": "Santa",
       "url": "https://open.spotify.com/track/337mfRQq0EimDHkR3iQGTy"
+    },
+    {
+      "album": {
+        "name": "SANTA",
+        "url": "https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "SANTA - Tengo Un Crush Contigo",
+      "url": "https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som"
     },
     {
       "album": {

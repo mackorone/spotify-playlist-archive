@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 122849,
+  "num_followers": 122873,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
         "name": "Fatteliku (Live in Athens 1987)",
         "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
       },
@@ -583,6 +567,38 @@
       "duration_ms": 643022,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
+        "name": "Daddy Lumba Essentials",
+        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 337606,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 182226,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -647,22 +663,6 @@
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M"
     }
   ],
   "unique_name": "Classic Afropop",

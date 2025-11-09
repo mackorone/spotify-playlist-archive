@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Madeon \\m/",
-  "num_followers": 346310,
+  "num_followers": 346320,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
+        "name": "Skull n Bones",
+        "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Skull n Bones",
+      "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
         "name": "Napalm",
         "url": "https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 204214,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
-        "name": "Skull n Bones",
-        "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
-      },
-      "artists": [
-        {
-          "name": "Stileto",
-          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Skull n Bones",
-      "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        },
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 169243,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
         "name": "Shivering",
         "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 300916,
       "name": "Shivering",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 169243,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
+        "name": "CHOKE",
+        "url": "https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 160457,
+      "name": "CHOKE (with grandson & Zero 9:36)",
+      "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ"
       },
@@ -1459,30 +1483,6 @@
       "duration_ms": 126129,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
-        "name": "CHOKE",
-        "url": "https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        },
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        }
-      ],
-      "duration_ms": 160457,
-      "name": "CHOKE (with grandson & Zero 9:36)",
-      "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
-        "name": "Save The Cat",
-        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 172404,
-      "name": "Save The Cat",
-      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 237203,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
+        "name": "Save The Cat",
+        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 172404,
+      "name": "Save The Cat",
+      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
-        "name": "Not My Night",
-        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Not My Night",
-      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
         "name": "MELLODEATH Tapes Vol. I",
         "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 195692,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
-      },
-      "artists": [
-        {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
-        }
-      ],
-      "duration_ms": 186822,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 186822,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -2207,30 +2207,6 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
-        "name": "Forget My Name",
-        "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "CRYBLOOD",
-          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
-        }
-      ],
-      "duration_ms": 254896,
-      "name": "Forget My Name",
-      "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -2251,6 +2227,30 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
+        "name": "Forget My Name",
+        "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "CRYBLOOD",
+          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
+        }
+      ],
+      "duration_ms": 254896,
+      "name": "Forget My Name",
+      "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
         "name": "Buried Beneath You",
         "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 211013,
       "name": "Buried Beneath You",
       "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2025-11-07 23:57:17",

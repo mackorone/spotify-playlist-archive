@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Bella Kay
 
-2,222 songs - 4 day 21 hr 55 min
+2,223 songs - 4 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,7 +864,7 @@
 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 | 2024-04-19 | 2024-06-08 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-02-22 | 2022-04-21 |
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2021-06-02 | 2022-04-01 |
-| [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-30 |  |
+| [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-30 | 2025-11-09 |
 | [Here's To Another](https://open.spotify.com/track/4Ob4ZQ6yiB6WhFGcZaC5qo) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Here's To Another](https://open.spotify.com/album/5HhdWgcutL2dYPUazA2OO0) | 3:07 | 2021-03-27 | 2021-05-27 |
 | [HERE'S YOUR SONG](https://open.spotify.com/track/5ipcN7k8N08XaMyd9rcFOO) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [DOUCHEBAG](https://open.spotify.com/album/5sOT5yZQuYyM8Qzrw7yQL3) | 3:34 | 2020-10-16 | 2021-05-31 |
 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 | 2021-01-18 | 2022-10-08 |
@@ -1506,6 +1506,7 @@
 | [PARTY W OUT ME](https://open.spotify.com/track/1y5pHb1686VfUAjaypoYG4) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/3QjPIxdyzpOXHbuE0RE8BO) | 2:29 | 2022-07-01 | 2022-07-23 |
 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 | 2024-11-01 | 2025-01-29 |
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2021-01-23 | 2021-05-20 |
+| [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 | 2025-11-07 |  |
 | [Pastel Auras](https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Pastel Auras](https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf) | 3:20 | 2022-07-22 | 2022-08-06 |
 | [Patience Etc...](https://open.spotify.com/track/0beASpqOl0WWQOfsYZAgGC) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Patience Etc...](https://open.spotify.com/album/682COg3eFbuAfOBQJmwnAE) | 3:30 | 2022-01-14 | 2022-04-21 |
 | [PDA](https://open.spotify.com/track/4R8M7LBaiGPR77dYRMJJlI) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PDA](https://open.spotify.com/album/1yyjVQNw4bUrVQgEzcE1A9) | 3:27 | 2021-05-03 | 2021-05-04 |

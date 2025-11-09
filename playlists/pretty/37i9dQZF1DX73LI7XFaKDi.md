@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 
 > There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red, streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,304 likes - 76 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,305 likes - 76 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

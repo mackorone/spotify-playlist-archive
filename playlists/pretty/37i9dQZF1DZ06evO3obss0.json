@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 148010,
+  "num_followers": 148238,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABZY8ucuBWHzt+XR/5jgqAF",
+  "snapshot_id": "aQ02gAAAAAAvkYAgTzLtgflwIx1iCFTA",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natalie Don\u2019t",
+        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Natalie Don't",
+      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moi",
         "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 174693,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natalie Don\u2019t",
-        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Natalie Don't",
-      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
     },
     {
       "added_at": null,
@@ -727,30 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BED (David Guetta Festival Mix)",
-        "url": "https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "BED - David Guetta Festival Mix",
-      "url": "https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can\u2019t Change Me (feat. Raye)",
         "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
@@ -775,18 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Montreux Jazz Festival",
-        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+        "name": "BED (David Guetta Festival Mix)",
+        "url": "https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd"
       },
       "artists": [
         {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 419683,
-      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
+      "duration_ms": 235200,
+      "name": "BED - David Guetta Festival Mix",
+      "url": "https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 91780,
       "name": "Mary Jane vs Graeme Blevins. - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/2TI2gRkaJek6ZH0KehqwcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Montreux Jazz Festival",
+        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 419683,
+      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decline",
-        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 188172,
-      "name": "Decline",
-      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
         "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 143499,
       "name": "The Thrill Is Gone Requiem. - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/6e1u6VSqa1f4zITKX4aTmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decline",
+        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 188172,
+      "name": "Decline",
+      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
     },
     {
       "added_at": null,

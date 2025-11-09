@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 162868,
+  "num_followers": 162871,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADDgiP20wU31IVIR6n8qjRL",
+  "snapshot_id": "aQ02gAAAAABW+/ba/LRlKA0bQY5GgjHd",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 345000,
       "name": "Promises",
       "url": "https://open.spotify.com/track/5fsPTygQAwCBh9IoZKKyCa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go Tell It on the Mountain",
+        "url": "https://open.spotify.com/album/5jALa7ehuLZPfid0647dbN"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Go Tell It on the Mountain - Instrumental Version",
+      "url": "https://open.spotify.com/track/3rGXC8NpUS5YmPlTda0ilp"
     },
     {
       "added_at": null,
@@ -171,30 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That I Need",
         "url": "https://open.spotify.com/album/2QsAwF0l3ftb6qInTKlXls"
       },
@@ -215,6 +211,30 @@
       "duration_ms": 184000,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/4qRGQCvqygDcfVw8REV2Fz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": null,
@@ -783,6 +803,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamond (I See The Glory) feat. Mara Justine",
+        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 343953,
+      "name": "Diamond (I See the Glory) feat. Mara Justine",
+      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Problems (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
       },
@@ -831,34 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond (I See The Glory) feat. Mara Justine",
-        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
-        }
-      ],
-      "duration_ms": 343953,
-      "name": "Diamond (I See the Glory) feat. Mara Justine",
-      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Move Your Heart",
         "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
       },
@@ -883,6 +903,26 @@
       "duration_ms": 621222,
       "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
       "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 565833,
+      "name": "Kingdom(feat. Chandler Moore, Naomi Raine)",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {
       "added_at": null,
@@ -939,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 565833,
-      "name": "Kingdom(feat. Chandler Moore, Naomi Raine)",
-      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
@@ -983,6 +1003,26 @@
       "duration_ms": 469125,
       "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
       "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 421165,
+      "name": "My Life Is In Your Hands (feat.Chandler Moore)",
+      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
     },
     {
       "added_at": null,
@@ -1035,26 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 421165,
-      "name": "My Life Is In Your Hands (feat.Chandler Moore)",
-      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -1083,6 +1103,38 @@
       "duration_ms": 225768,
       "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
       "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathe - EP",
+        "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 326500,
+      "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
+      "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
     },
     {
       "added_at": null,
@@ -1127,38 +1179,6 @@
       "duration_ms": 231161,
       "name": "Came Too Far (feat. Maverick City Music & My Mom)",
       "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breathe - EP",
-        "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 326500,
-      "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
-      "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
     },
     {
       "added_at": null,
@@ -1223,30 +1243,6 @@
       "duration_ms": 513188,
       "name": "Yes & Amen",
       "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lonely Dirt Road (feat. Maverick City Music and Nick Day)",
-        "url": "https://open.spotify.com/album/2c6G5kgUjQO93Q7WbMbCmP"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        }
-      ],
-      "duration_ms": 251886,
-      "name": "Lonely Dirt Road",
-      "url": "https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ"
     }
   ],
   "unique_name": "This Is Maverick City Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,713 likes - 57 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,679 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 56 | [Iron Wine](https://open.spotify.com/track/1ukTxyB0zGtrgsUqkR6yZp) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Magic Of The Sale](https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye) | 3:27 |
 | 57 | [Outbound](https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Outbound](https://open.spotify.com/album/04PB5ijhEf7SJnQp1D1G9K) | 3:47 |
 
-Snapshot ID: `AAAAAMcWRuwlPdNKVkU0mXCCj41whRY4`
+Snapshot ID: `AAAAAH27JtM1o7WMxh3Y9+Uzv1N1UdU2`

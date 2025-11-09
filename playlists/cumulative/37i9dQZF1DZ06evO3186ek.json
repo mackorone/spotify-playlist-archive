@@ -799,6 +799,28 @@
     },
     {
       "album": {
+        "name": "Go Tell It on the Mountain",
+        "url": "https://open.spotify.com/album/5jALa7ehuLZPfid0647dbN"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195416,
+      "name": "Go Tell It on the Mountain - Instrumental Version",
+      "url": "https://open.spotify.com/track/3rGXC8NpUS5YmPlTda0ilp"
+    },
+    {
+      "album": {
         "name": "God Problems (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
       },
@@ -1590,7 +1612,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 251886,
       "name": "Lonely Dirt Road",
       "url": "https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ"

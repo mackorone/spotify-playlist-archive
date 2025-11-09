@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Niños Bravos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,370 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,376 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 14 | [Historias de mi madre](https://open.spotify.com/track/0KYPXalufEdTN32XRy7hHf) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Historias de mi madre](https://open.spotify.com/album/0HVLItjkoFLo6rAIhdPJQU) | 4:19 |
 | 15 | [Walking](https://open.spotify.com/track/3t7Mv4p7c4S7gXFxFJa7lp) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM) | [Walking](https://open.spotify.com/album/7iXDXvjMc3IXvQhMnLVU0N) | 3:38 |
 | 16 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/4Cm7RD603oQOB9vPZm92xx) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/0ysQ9rMzgChnl3Qn2Ofmbu) | 3:15 |
-| 17 | [Soy adicto](https://open.spotify.com/track/11kGIr2kn8ocBFd6XiUqJY) | [Tigre y Diamante](https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf) | [Soy adicto](https://open.spotify.com/album/4AI158XdZWF4oCH8X5bvEI) | 2:29 |
+| 17 | [Soy adicto \- Tigre y Diamante Edit](https://open.spotify.com/track/11kGIr2kn8ocBFd6XiUqJY) | [Tigre y Diamante](https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf) | [Soy adicto](https://open.spotify.com/album/4AI158XdZWF4oCH8X5bvEI) | 2:29 |
 | 18 | [No te necesito para ser feliz](https://open.spotify.com/track/3X2sHFaJlakwX31ngq88d6) | [La Maravillosa Orquesta del Alcohol](https://open.spotify.com/artist/1vBn5Puz4mdZopZEHq1QDq), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [No te necesito para ser feliz](https://open.spotify.com/album/2bXPANmjU7Hkse3hz5Csap) | 3:52 |
 | 19 | [Domingo Químico](https://open.spotify.com/track/4J2Jg5GbkorubO7AqoIyfr) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Domingo Químico](https://open.spotify.com/album/5rlrMv8gLMxVEt4m3LSWjv) | 3:06 |
 | 20 | [Quinto Asalto](https://open.spotify.com/track/2PN3S1ZJxkwXvWRZxrdycO) | [Nepal Nepal](https://open.spotify.com/artist/5IgKw66ky3FmSx4GZftWvc) | [PROBLEMAS](https://open.spotify.com/album/5va9scm2bmjZZnwvoigQZ3) | 4:34 |

@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: ROSALÍA
 
-1,145 songs - 2 day 7 hr 42 min
+1,146 songs - 2 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1064,6 +1064,7 @@
 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 | 2025-08-14 | 2025-08-29 |
 | [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 | 2025-02-13 | 2025-02-21 |
 | [Vrijgezel](https://open.spotify.com/track/51C9ZDKG7RG8QIeQoCf6we) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [FRNKIE](https://open.spotify.com/artist/6gVw7sj444868peBFpH0O4) | [Koude Kermis](https://open.spotify.com/album/2UZ05NpzJ76d06VBQrKWtv) | 2:19 | 2024-10-03 | 2024-11-15 |
+| [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 | 2025-11-08 |  |
 | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK) | 2:34 | 2025-10-30 | 2025-11-07 |
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-05-26 | 2025-08-05 |
 | [wacht niet](https://open.spotify.com/track/6Vp77dpK9nn9RAhyxQ5D8O) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [wacht niet](https://open.spotify.com/album/3oSok1QJ9AjsMfDalJtMwb) | 2:42 | 2025-01-29 | 2025-02-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1132702,
+  "num_followers": 1132849,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACPxQB2NhsnuhtjMjrZWpOe",
+  "snapshot_id": "aQ02gAAAAAA4Ed10gv5Zp90YFfMrJyiu",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 249946,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt"
+      "duration_ms": 225333,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4kRMsLX7bJqjIfK44qJ9h6"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4kRMsLX7bJqjIfK44qJ9h6"
+      "duration_ms": 249946,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt"
     },
     {
       "added_at": null,

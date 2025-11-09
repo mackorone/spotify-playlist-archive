@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,857 likes - 80 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,874 likes - 80 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 14 | [Jesus te Amamos \- Ao Vivo](https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Jesus te Amamos \(Ao Vivo\)](https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL) | 6:55 |
 | 15 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 |
 | 16 | [Inflama \- Ao Vivo](https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Inflama \(Ao Vivo\)](https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8) | 6:51 |
-| 17 | [O Céu Se Abre](https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Céu Se Abre](https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK) | 4:30 |
-| 18 | [Acalma o Meu Coração](https://open.spotify.com/track/0G3egcGAAVtb5KxPLWBrny) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração](https://open.spotify.com/album/7qgxEdBaUA9QyWYwnq4Kdl) | 3:56 |
+| 17 | [Acalma o Meu Coração](https://open.spotify.com/track/0G3egcGAAVtb5KxPLWBrny) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração](https://open.spotify.com/album/7qgxEdBaUA9QyWYwnq4Kdl) | 3:56 |
+| 18 | [O Céu Se Abre](https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Céu Se Abre](https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK) | 4:30 |
 | 19 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
 | 20 | [Tua Glória Me Abraça \- Ao Vivo](https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tua Glória Me Abraça \(Ao Vivo\)](https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa) | 5:27 |
 | 21 | [Amor Infinito / A Mensagem da Cruz \- Ao Vivo](https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Amor Infinito / A Mensagem da Cruz \(Ao Vivo\)](https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI) | 5:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
 | 80 | [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 |
 
-Snapshot ID: `AAAAANdVQXB5ZShGRg0+BqWnFewgj4Mz`
+Snapshot ID: `AAAAAKzXzKUHNYPM32onNEcHmqnSXweW`

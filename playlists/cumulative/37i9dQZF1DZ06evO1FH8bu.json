@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Neck Deep (Dumbfuck Edition)",
+        "url": "https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224004,
+      "name": "You Should See Me Now",
+      "url": "https://open.spotify.com/track/0s8BLMagjuEEqxqJj4HEHG"
+    },
+    {
+      "album": {
         "name": "You Should See Me Now",
         "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 224004,
       "name": "You Should See Me Now",
       "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"

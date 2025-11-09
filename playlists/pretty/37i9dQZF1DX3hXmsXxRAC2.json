@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 356926,
+  "num_followers": 356987,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 300853,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "D\u00e9jame Vivir",
         "url": "https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 250880,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 300853,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2"
     },
     {
       "added_at": "2024-07-02 23:46:15",

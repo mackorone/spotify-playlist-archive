@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 87846,
+  "num_followers": 87873,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAC/vfDHFfRSCL9VBdTZNTKh",
+  "snapshot_id": "aQ02gAAAAACRS8PUo/bDKU50amfWUAPY",
   "tracks": [
     {
       "added_at": null,
@@ -562,15 +562,11 @@
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 204146,
-      "name": "Egoista",
-      "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
+      "duration_ms": 195866,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
     },
     {
       "added_at": null,
@@ -634,11 +630,15 @@
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
+      "duration_ms": 204146,
+      "name": "Egoista",
+      "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
     },
     {
       "added_at": null,

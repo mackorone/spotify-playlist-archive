@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Marco Luka
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 94,062 likes - 100 songs - 5 hr 48 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 94,053 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 56 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 |
 | 57 | [Kalema](https://open.spotify.com/track/4sePl6ATbS3EmwH6eEYK67) | [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Kalema](https://open.spotify.com/album/7k6J6Ny3fBM4FVOmW6YpKu) | 2:47 |
 | 58 | [Summer's Ending Soon](https://open.spotify.com/track/3nTjq4UCsLiydG4q84TVyK) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Summer's Ending Soon](https://open.spotify.com/album/5l7DaIRmCWdVZE6zTmIrR2) | 6:51 |
-| 59 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 59 | [Dior \(with Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
 | 60 | [Brand New](https://open.spotify.com/track/20bwjMLtBeWBu5AGvyUoKJ) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Brand New](https://open.spotify.com/album/0u3xhApvlJaSq0z8GHswV5) | 2:05 |
 | 61 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 62 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 |

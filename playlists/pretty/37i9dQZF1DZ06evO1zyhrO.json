@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103702,
+  "num_followers": 103701,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAC7OHSS6Or4ZqXCgS7Sw7Oa",
+  "snapshot_id": "aQ02gAAAAADmugi5KBTBq+VHUZF1aiCY",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment Pt. 2",
-        "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
       "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+          "name": "Kirsten Joy",
+          "url": "https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil"
         }
       ],
-      "duration_ms": 200403,
-      "name": "Commitment Pt. 2",
-      "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
+      "duration_ms": 209133,
+      "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
+      "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
     },
     {
       "added_at": null,
@@ -619,26 +619,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+        "name": "Commitment Pt. 2",
+        "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
       },
       "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "Kirsten Joy",
-          "url": "https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
         }
       ],
-      "duration_ms": 209133,
-      "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
-      "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
+      "duration_ms": 200403,
+      "name": "Commitment Pt. 2",
+      "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 184354,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/5VXdYLJ62WPtRfb597kRP1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 184354,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/5VXdYLJ62WPtRfb597kRP1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story Goes...",
         "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 259640,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 197690,
-      "name": "In Your Hands",
-      "url": "https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk"
     },
     {
       "added_at": null,
@@ -803,42 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 198340,
-      "name": "Leave The Light On",
-      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing Like This",
-        "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Nothing Like This",
-      "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
+      "duration_ms": 197690,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk"
     },
     {
       "added_at": null,
@@ -863,6 +823,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nothing Like This",
+        "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Nothing Like This",
+      "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "duration_ms": 198340,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story Goes...",
         "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
@@ -879,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
         }
       ],
-      "duration_ms": 182315,
-      "name": "Last Chance With You",
-      "url": "https://open.spotify.com/track/7pcOpIuZdi1A8z0GOXzrkF"
+      "duration_ms": 204800,
+      "name": "My Heart's Been Waiting for You - feat. Duvall",
+      "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
     },
     {
       "added_at": null,
@@ -915,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
         }
       ],
-      "duration_ms": 204800,
-      "name": "My Heart's Been Waiting for You - feat. Duvall",
-      "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
+      "duration_ms": 182315,
+      "name": "Last Chance With You",
+      "url": "https://open.spotify.com/track/7pcOpIuZdi1A8z0GOXzrkF"
     },
     {
       "added_at": null,

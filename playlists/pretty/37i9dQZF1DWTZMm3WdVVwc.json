@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 24875,
+  "num_followers": 24879,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u5439\u304d\u96f6\u308c\u308b\u7a0b\u306eI\u3001\u54c0\u3001\u611b",
-        "url": "https://open.spotify.com/album/52VpmFJsozdaIAepSTn1Sg"
-      },
-      "artists": [
-        {
-          "name": "Creep Hyp",
-          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
-        }
-      ],
-      "duration_ms": 250911,
-      "name": "\u6182\u3001\u71e6\u3005",
-      "url": "https://open.spotify.com/track/3yJBEaVWZ5HmUp8nGtHbWt"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 298040,
       "name": "\u708e\u3068\u68ee\u306e\u30ab\u30fc\u30cb\u30d0\u30eb",
       "url": "https://open.spotify.com/track/5kDz0Wrx0UpaVRttDZ4KtI"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u5439\u304d\u96f6\u308c\u308b\u7a0b\u306eI\u3001\u54c0\u3001\u611b",
+        "url": "https://open.spotify.com/album/52VpmFJsozdaIAepSTn1Sg"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "duration_ms": 250911,
+      "name": "\u6182\u3001\u71e6\u3005",
+      "url": "https://open.spotify.com/track/3yJBEaVWZ5HmUp8nGtHbWt"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -549,6 +549,22 @@
       "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
     },
     {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "silent",
+        "url": "https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "duration_ms": 308921,
+      "name": "silent",
+      "url": "https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2"
+    },
+    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "eyes",
@@ -615,22 +631,6 @@
       "duration_ms": 218500,
       "name": "I'm Blessed",
       "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "silent",
-        "url": "https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg"
-      },
-      "artists": [
-        {
-          "name": "SEKAI NO OWARI",
-          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
-        }
-      ],
-      "duration_ms": 308921,
-      "name": "silent",
-      "url": "https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/3doATATHVivzB3EJqZS1eG"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u30d5\u30a7\u30a4\u30af\u30d5\u30a1\u30fc",
-        "url": "https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc"
-      },
-      "artists": [
-        {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Kiroro\u306e\u3046\u305f \u2460",
@@ -999,6 +983,22 @@
       "duration_ms": 345086,
       "name": "\u51ac\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30d5\u30a7\u30a4\u30af\u30d5\u30a1\u30fc",
+        "url": "https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1025,20 +1025,20 @@
       "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
+      "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "\u305d\u3046\u304b\u306a",
-        "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
       },
       "artists": [
         {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 263866,
-      "name": "\u307e\u3063\u767d",
-      "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
+      "duration_ms": 274000,
+      "name": "Snow Men",
+      "url": "https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1057,20 +1057,20 @@
       "url": "https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "YELLOW DANCER",
-        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+        "name": "\u305d\u3046\u304b\u306a",
+        "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Snow Men",
-      "url": "https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy"
+      "duration_ms": 263866,
+      "name": "\u307e\u3063\u767d",
+      "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
+        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "duration_ms": 231638,
+      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
         "name": "What's Going On?",
         "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 232760,
       "name": "\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
-        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
-        }
-      ],
-      "duration_ms": 231638,
-      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
-      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Slow time lover",
-        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 241810,
-      "name": "Slow time lover",
-      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "WINTER SONG",
@@ -1335,6 +1319,22 @@
       "duration_ms": 285533,
       "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Slow time lover",
+        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 241810,
+      "name": "Slow time lover",
+      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u6b69\u307f",
-        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
-      },
-      "artists": [
-        {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
-        }
-      ],
-      "duration_ms": 230809,
-      "name": "\u6b69\u307f",
-      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "snow love",
         "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 206461,
       "name": "snow love",
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u6b69\u307f",
+        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "duration_ms": 230809,
+      "name": "\u6b69\u307f",
+      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
-        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
-      },
-      "artists": [
-        {
-          "name": "Ken Hirai",
-          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
-        }
-      ],
-      "duration_ms": 339773,
-      "name": "even if",
-      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u51ac\u306e\u4e88\u611f",
@@ -1515,6 +1499,22 @@
       "duration_ms": 201462,
       "name": "\u51ac\u306e\u4e88\u611f",
       "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
+        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
+      },
+      "artists": [
+        {
+          "name": "Ken Hirai",
+          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
+        }
+      ],
+      "duration_ms": 339773,
+      "name": "even if",
+      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u30b1\u30c4\u306e\u5d50 \uff5e\u51acBEST\uff5e",
+        "url": "https://open.spotify.com/album/6iedA9ZZslROEaEjLFnesy"
+      },
+      "artists": [
+        {
+          "name": "Ketsumeishi",
+          "url": "https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh"
+        }
+      ],
+      "duration_ms": 367000,
+      "name": "\u51ac\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/2N6MR0SNYzGHlApOwbmA2w"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "Stateless feat. YonYon",
@@ -1603,22 +1619,6 @@
       "duration_ms": 211447,
       "name": "Stateless feat. YonYon",
       "url": "https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u30b1\u30c4\u306e\u5d50 \uff5e\u51acBEST\uff5e",
-        "url": "https://open.spotify.com/album/6iedA9ZZslROEaEjLFnesy"
-      },
-      "artists": [
-        {
-          "name": "Ketsumeishi",
-          "url": "https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh"
-        }
-      ],
-      "duration_ms": 367000,
-      "name": "\u51ac\u7269\u8a9e",
-      "url": "https://open.spotify.com/track/2N6MR0SNYzGHlApOwbmA2w"
     },
     {
       "added_at": "2025-03-11 22:40:18",

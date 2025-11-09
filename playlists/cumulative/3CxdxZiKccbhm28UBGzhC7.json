@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5HFHCbXFgWSVg6wzUlDTRu"
+      },
+      "artists": [
+        {
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Less Is More",
+      "url": "https://open.spotify.com/track/7w3fpRHULr70wtGdPfMufh"
+    },
+    {
+      "album": {
         "name": "Suck It and See",
         "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
       },

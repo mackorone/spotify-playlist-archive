@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 41197,
+  "num_followers": 41210,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAwIV3dNcZoSQX5U980VD1k",
+  "snapshot_id": "aQ02gAAAAAD6yLHPZDhJzg5+/rreOm6y",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 222732,
-      "name": "De A De Veras",
-      "url": "https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.M.8.",
         "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 271541,
       "name": "D.M.8.",
       "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 222732,
+      "name": "De A De Veras",
+      "url": "https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Notas Musicales",
+        "url": "https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 250991,
+      "name": "Notas Musicales",
+      "url": "https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mente Activa",
         "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 169216,
       "name": "Mente Activa",
       "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Notas Musicales",
-        "url": "https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 250991,
-      "name": "Notas Musicales",
-      "url": "https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69"
     },
     {
       "added_at": null,

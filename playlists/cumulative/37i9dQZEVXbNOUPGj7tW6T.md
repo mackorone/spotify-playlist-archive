@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-870 songs - 2 day 0 hr 47 min
+871 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 | 2024-11-30 | 2024-12-17 |
 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2025-06-03 | 2025-07-05 |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-04-16 | 2024-01-04 |
+| [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 | 2025-11-08 |  |
 | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8) | 3:38 | 2024-07-19 | 2024-09-08 |
 | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-07-13 | 2024-07-20 |
 | [Culiacan](https://open.spotify.com/track/20iFe0nIF1BefqYeTFtXYN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Desire](https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz) | 2:51 | 2025-03-24 | 2025-04-02 |
@@ -821,7 +822,7 @@
 | [Una Velita](https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Una Velita](https://open.spotify.com/album/2HQzboxa5GyWpk2aiPP5i6) | 3:59 | 2024-09-21 | 2024-09-23 |
 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 | 2022-02-23 | 2022-05-08 |
 | [Universidad](https://open.spotify.com/track/2XbsqBrOdYjm0OLBEepID7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Universidad](https://open.spotify.com/album/3hqIUFKHSl6tnlKIY8tRF9) | 2:36 | 2025-06-21 | 2025-06-23 |
-| [UWAIE](https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:52 | 2025-09-04 |  |
+| [UWAIE](https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:52 | 2025-09-04 | 2025-11-09 |
 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 | 2024-08-22 | 2025-05-26 |
 | [Uy Que Fla](https://open.spotify.com/track/0naXP8NPnvr5hr3jTTFIRp) | [Nahuel Villarreal](https://open.spotify.com/artist/3oicup76WOZkjyseuNUr1d), [Sol Castaño](https://open.spotify.com/artist/1fn4lWUqF4bxpH9TD6pWpe), [Brili](https://open.spotify.com/artist/5NKsLum6csga03nsbpyUuR) | [Uy Que Fla](https://open.spotify.com/album/29h4m995K9lIemUilgLazD) | 2:51 | 2024-05-01 | 2024-05-03 |
 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão EP 01 \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm) | 2:20 | 2024-10-07 | 2024-11-08 |

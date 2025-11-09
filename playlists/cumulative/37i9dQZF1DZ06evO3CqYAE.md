@@ -4,7 +4,7 @@
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-94 songs - 8 hr 35 min
+95 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [How great You are](https://open.spotify.com/track/6PAzJWolKN6mcZrZvqu26j) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Most High](https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS) | 5:19 | 2023-04-02 | 2024-03-05 |
 | [I'm In Awe \- Live](https://open.spotify.com/track/2NT0Fle45H8CvQpWZzasFD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:54 | 2024-03-03 | 2024-05-29 |
 | [Igwe](https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:27 | 2023-04-02 |  |
+| [Imela](https://open.spotify.com/track/6CHnff0Bu5k1uUvLmrtQF0) | [Believe Joseph](https://open.spotify.com/artist/4qMuIl03HzGaIehHQxEYeu), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Imela](https://open.spotify.com/album/0ppqpCnXDLy2phDJWD97kV) | 4:09 | 2025-11-09 |  |
 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 | 2023-04-16 |  |
 | [Imenem](https://open.spotify.com/track/7kX7zB3FrmhGgdMA19s7cf) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:46 | 2025-06-12 |  |
 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 | 2023-04-02 |  |

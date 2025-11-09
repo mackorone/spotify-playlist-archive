@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain]
 
 > The worst monsters are the ones we create\. Listen to the music from The Witcher, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,464 likes - 215 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,490 likes - 215 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain]
 | 214 | [Last Stand](https://open.spotify.com/track/5xTlXm9MgKYNZ324Vg3keT) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 2:14 |
 | 215 | [End of an Age](https://open.spotify.com/track/21kzD1vtXg46q1jsucd2nl) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz), [BLÁNID](https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 3:51 |
 
-Snapshot ID: `AAAAAGWqUzcOD5wx+yztgd7jqz10BqCU`
+Snapshot ID: `AAAAAJ2enjraSF+yjXPIHpt44ZkZ1ZPQ`

@@ -4,7 +4,7 @@
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Francamente
 
-1,060 songs - 2 day 6 hr 8 min
+1,060 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [SILTRI](https://open.spotify.com/track/3mKWCo0xL10BWAW81AbXlE) | [AGA](https://open.spotify.com/artist/6o1ZHc5cD5f0ob011mOkpj) | [SILTRI / TRONA](https://open.spotify.com/album/7dmMOmbdBY2bCcdiNhVtih) | 1:55 | 2025-10-30 |  |
 | [simile a te](https://open.spotify.com/track/1DOjEpQij5Z012XIgeHbFz) | [otto x otto](https://open.spotify.com/artist/63pXwqJjzmf6ACEsu1RABb) | [simile a te](https://open.spotify.com/album/5M9BFiLAqhwybMRoGhKPqV) | 2:44 | 2025-03-20 | 2025-04-18 |
 | [Siracusa](https://open.spotify.com/track/2elD3oYlWLWIdyX4qUtAxX) | [ZANI](https://open.spotify.com/artist/0O4N2Ygu1I6YUN1KWCw2DT) | [Siracusa](https://open.spotify.com/album/5m1m9o5DdqdGBOj5mExmo9) | 3:23 | 2025-08-28 | 2025-09-26 |
+| [Sirene \(con Brunori Sas\) \- Live](https://open.spotify.com/track/3qCKwVEjfFyJvYxLxJbCRU) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/4PtgjgBKGsJLZVjA14WFvU) | 3:33 | 2025-11-06 |  |
 | [SISSI 2](https://open.spotify.com/track/7kOXcYjbXmUW2dTF6DRdsV) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI 2](https://open.spotify.com/album/3RRSr7oDLfuUHVMI8ajtOJ) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [SISTEMARSI](https://open.spotify.com/track/3fLzgb9uGcb1hJTkNFnwrc) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 2:44 | 2025-07-10 | 2025-09-12 |
 | [Siviglia](https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6) | [CACTUS](https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK) | [Sette di Cuori](https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG) | 3:21 | 2024-10-17 | 2024-12-18 |
@@ -956,7 +957,6 @@
 | [TOTALE](https://open.spotify.com/track/6sTNI8mbeqDgf5GuMjcmYE) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS), [CELESTIALE](https://open.spotify.com/artist/0TZXw5ARnLJjN18OJ2aiMJ) | [TOTALE](https://open.spotify.com/album/6L6z1wI8n7dgG7H0IC1d43) | 2:43 | 2025-07-03 | 2025-08-08 |
 | [Tra il cielo e le strade](https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Tra il cielo e le strade](https://open.spotify.com/album/1bDTbS6anSQaUC6SxCuEUX) | 3:43 | 2025-03-07 | 2025-05-09 |
 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 | 2025-11-06 |  |
-| [Track 12](https://open.spotify.com/track/3qCKwVEjfFyJvYxLxJbCRU) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-06 |  |
 | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/track/0OK7GFhrMmMVzHppXk3DSv) | [Foramacchia](https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr), [Fiabba](https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT) | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/album/0GxhWR52oyRYwp9SgBcjhk) | 2:44 | 2025-10-30 |  |
 | [tranquillo](https://open.spotify.com/track/39H2HXOZKUXaEe8HWpnn91) | [Pietro Motta](https://open.spotify.com/artist/4lA1XzmKtms1zw2iSnurDR) | [tranquillo](https://open.spotify.com/album/7KuilzwYnBWVUjkBiIyL5g) | 3:08 | 2025-10-16 |  |
 | [Trentasette denti](https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb) | [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa) | [TUFFO](https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS) | 3:34 | 2024-10-10 | 2025-01-24 |

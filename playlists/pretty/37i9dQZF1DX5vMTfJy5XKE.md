@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,137 likes - 109 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,323 likes - 109 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

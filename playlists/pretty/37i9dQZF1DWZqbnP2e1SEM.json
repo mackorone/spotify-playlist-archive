@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325188,
+  "num_followers": 325177,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
-        "name": "Dior (feat. Chrystal)",
+        "name": "Dior (with Chrystal)",
         "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
       },
       "artists": [
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 169159,
-      "name": "Dior (feat. Chrystal)",
+      "name": "Dior (with Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
     },
     {
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
-        "name": "Back It Up",
-        "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        }
-      ],
-      "duration_ms": 156398,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "duration_ms": 156398,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
     },
     {
       "added_at": "2025-08-28 23:00:34",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
-        "name": "Man On The Moon: The End Of Day (Int'l Version)",
-        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Day 'N' Nite - Crookers Remix",
-      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
         "name": "Afters",
         "url": "https://open.spotify.com/album/1ijY6TU6pZ8AtvwnWnLip1"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 124545,
       "name": "Afters",
       "url": "https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
+        "name": "Man On The Moon: The End Of Day (Int'l Version)",
+        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Day 'N' Nite - Crookers Remix",
+      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
     },
     {
       "added_at": "2025-08-28 23:00:34",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
-      },
-      "artists": [
-        {
-          "name": "Toman",
-          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
-        }
-      ],
-      "duration_ms": 245972,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
         "name": "Push The Tempo",
         "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "duration_ms": 245972,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
         "name": "Angel of Mine",
         "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 162741,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "added_at": "2025-08-28 23:00:34",
@@ -1519,22 +1535,6 @@
       "duration_ms": 220538,
       "name": "Go Back (feat. Julia Church)",
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
-        "name": "Sippin' Yak",
-        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 146230,
-      "name": "Sippin' Yak",
-      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "added_at": "2025-08-28 23:00:34",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
-      },
-      "artists": [
-        {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
         "name": "I need to know",
         "url": "https://open.spotify.com/album/4dvap2kLDTcRL4NI8etXwd"
       },
@@ -1879,18 +1859,22 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
-        "name": "ENDZ061",
-        "url": "https://open.spotify.com/album/66l4BIequxiDPjxXoH900j"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
       },
       "artists": [
         {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Time Away",
-      "url": "https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr"
+      "duration_ms": 160000,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
     },
     {
       "added_at": "2025-08-28 23:00:34",
@@ -1919,6 +1903,22 @@
       "duration_ms": 160602,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
       "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
+        "name": "ENDZ061",
+        "url": "https://open.spotify.com/album/66l4BIequxiDPjxXoH900j"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Time Away",
+      "url": "https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr"
     },
     {
       "added_at": "2025-08-28 23:00:34",

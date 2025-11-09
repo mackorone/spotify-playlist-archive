@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ana Torroja en portada.",
-  "num_followers": 93615,
+  "num_followers": 93617,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -363,26 +363,22 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "Me Pasa (Piscis)",
-        "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
+        "name": "ella brilla",
+        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
         },
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "ASTROPICAL",
-          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 201529,
-      "name": "Me Pasa (Piscis)",
-      "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
+      "duration_ms": 263600,
+      "name": "ella brilla",
+      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
     },
     {
       "added_at": "2025-10-24 07:24:35",
@@ -403,22 +399,26 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "ella brilla",
-        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+        "name": "Me Pasa (Piscis)",
+        "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
       },
       "artists": [
         {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         },
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
         }
       ],
-      "duration_ms": 263600,
-      "name": "ella brilla",
-      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
+      "duration_ms": 201529,
+      "name": "Me Pasa (Piscis)",
+      "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
     },
     {
       "added_at": "2025-10-24 07:24:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "El Vuelo",
-        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 191892,
-      "name": "El Vuelo",
-      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
-    },
-    {
-      "added_at": "2025-10-24 07:24:35",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 157021,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
+    },
+    {
+      "added_at": "2025-10-24 07:24:35",
+      "album": {
+        "name": "El Vuelo",
+        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 191892,
+      "name": "El Vuelo",
+      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
     },
     {
       "added_at": "2025-10-24 07:24:35",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
+    },
+    {
+      "added_at": "2025-10-24 07:24:35",
+      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
-    },
-    {
-      "added_at": "2025-10-24 07:24:35",
-      "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
     },
     {
       "added_at": "2025-10-24 07:24:35",
@@ -783,18 +783,22 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "para ti: querida amiga",
-        "url": "https://open.spotify.com/album/41Xi6hQy7ywcAEB4zTEhB6"
+        "name": "karma",
+        "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
       },
       "artists": [
         {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
         }
       ],
-      "duration_ms": 137786,
-      "name": "el ni\u00f1o bueno",
-      "url": "https://open.spotify.com/track/6WW6JomwQgE8GWNt4pF6vP"
+      "duration_ms": 150960,
+      "name": "karma",
+      "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
     },
     {
       "added_at": "2025-10-24 07:24:35",
@@ -831,22 +835,18 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "karma",
-        "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
+        "name": "para ti: querida amiga",
+        "url": "https://open.spotify.com/album/41Xi6hQy7ywcAEB4zTEhB6"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
         }
       ],
-      "duration_ms": 150960,
-      "name": "karma",
-      "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
+      "duration_ms": 137786,
+      "name": "el ni\u00f1o bueno",
+      "url": "https://open.spotify.com/track/6WW6JomwQgE8GWNt4pF6vP"
     },
     {
       "added_at": "2025-10-24 07:24:35",
@@ -883,18 +883,22 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "vienes o vas?",
-        "url": "https://open.spotify.com/album/43485os867PpeGvfNwp5bB"
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC"
       },
       "artists": [
         {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 153103,
-      "name": "vienes o vas?",
-      "url": "https://open.spotify.com/track/2zDJ3vv52l9dKjAM7BUnLN"
+      "duration_ms": 153610,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
     }
   ],
   "unique_name": "Oye Pop",

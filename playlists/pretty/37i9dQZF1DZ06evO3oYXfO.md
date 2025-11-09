@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,367 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,402 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 26 | [Neon Knights](https://open.spotify.com/track/7r2QK941qra9MDQIllJdZs) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 3:51 |
 | 27 | [Never Say Die \- 2009 Remaster](https://open.spotify.com/track/42aY1pEcjp3GWENE6LUPnx) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Never Say Die!](https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw) | 3:47 |
 | 28 | [Supernaut \- 2009 Remaster](https://open.spotify.com/track/03qx2RKyfJ4gPXMYvYN8Pt) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 4:41 |
-| 29 | [Behind the Wall of Sleep \- 2009 Remaster](https://open.spotify.com/track/5JYanX4zPe3uX3nShgE0qR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:37 |
-| 30 | [Symptom of the Universe \(2009 Remaster\)](https://open.spotify.com/track/5ycQsfTMPFfexQ6Teu5EjV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 6:29 |
+| 29 | [Symptom of the Universe \(2009 Remaster\)](https://open.spotify.com/track/5ycQsfTMPFfexQ6Teu5EjV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 6:29 |
+| 30 | [Behind the Wall of Sleep \- 2009 Remaster](https://open.spotify.com/track/5JYanX4zPe3uX3nShgE0qR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:37 |
 | 31 | [Killing Yourself to Live \(2009 Remaster\)](https://open.spotify.com/track/1qykMIVb09E9dv6BylCUab) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:38 |
 | 32 | [The Mob Rules](https://open.spotify.com/track/5tCj1nLQ9fE2DEd3BEl8Vl) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 3:12 |
-| 33 | [Sleeping Village \- 2009 Remaster](https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:46 |
-| 34 | [Hole in the Sky \(2009 Remaster\)](https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 3:59 |
+| 33 | [Hole in the Sky \(2009 Remaster\)](https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 3:59 |
+| 34 | [Sleeping Village \- 2009 Remaster](https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:46 |
 | 35 | [Zeitgeist](https://open.spotify.com/track/4HFRItYjNrcwT6Vbtbk2i4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 4:37 |
 | 36 | [Lady Evil](https://open.spotify.com/track/2VZ9U830gFLrgR7aRW3OfR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:22 |
 | 37 | [Tomorrow's Dream \- 2009 Remaster](https://open.spotify.com/track/7gygnGtI9S3TE9Z5Yrqhig) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Don't Start \(Too Late\) \(2009 Remaster\)](https://open.spotify.com/track/1Vb3gPjEpJ6eOPL7Mjs4Ka) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 0:49 |
 | 50 | [Laguna Sunrise \- 2009 Remaster](https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 2:50 |
 
-Snapshot ID: `aQvlAAAAAABlRk7BdeiMbgRQyEbIXnQU`
+Snapshot ID: `aQ02gAAAAABmTwqcGHQ9daPm8w57zpke`

@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 130443,
+  "num_followers": 130511,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -451,8 +451,8 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
-        "name": "Escaladizzy II",
-        "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
+        "name": "Shakabulizzy (Remix)",
+        "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
       },
       "artists": [
         {
@@ -460,21 +460,13 @@
           "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         },
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 213559,
-      "name": "Escaladizzy II",
-      "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
+      "duration_ms": 175000,
+      "name": "Shakabulizzy - Remix",
+      "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
     },
     {
       "added_at": "2025-11-07 00:01:36",
@@ -643,8 +635,8 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
-        "name": "Shakabulizzy (Remix)",
-        "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
+        "name": "Escaladizzy II",
+        "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
       "artists": [
         {
@@ -652,13 +644,21 @@
           "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Shakabulizzy - Remix",
-      "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
+      "duration_ms": 213559,
+      "name": "Escaladizzy II",
+      "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
     },
     {
       "added_at": "2025-11-07 00:01:36",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 181606,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
-    },
-    {
-      "added_at": "2025-11-07 00:01:36",
-      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 184821,
-      "name": "INDUSTRY MACHINE",
-      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
     },
     {
       "added_at": "2025-11-07 00:01:36",
@@ -843,6 +827,22 @@
       "duration_ms": 180688,
       "name": "Calculate II - II",
       "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
+    },
+    {
+      "added_at": "2025-11-07 00:01:36",
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 184821,
+      "name": "INDUSTRY MACHINE",
+      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
     },
     {
       "added_at": "2025-11-07 00:01:36",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
+        "name": "To Be A Man",
+        "url": "https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 169494,
+      "name": "To Be A Man",
+      "url": "https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu"
+    },
+    {
+      "added_at": "2025-11-07 00:01:36",
+      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 139695,
       "name": "Hip Hop Messiah",
       "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
-    },
-    {
-      "added_at": "2025-11-07 00:01:36",
-      "album": {
-        "name": "To Be A Man",
-        "url": "https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 169494,
-      "name": "To Be A Man",
-      "url": "https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu"
     },
     {
       "added_at": "2025-11-07 00:01:36",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 138614,
+      "name": "Al-Jannah",
+      "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
+    },
+    {
+      "added_at": "2025-11-07 00:01:36",
+      "album": {
         "name": "Gaddem",
         "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 131592,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
-    },
-    {
-      "added_at": "2025-11-07 00:01:36",
-      "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 138614,
-      "name": "Al-Jannah",
-      "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
     },
     {
       "added_at": "2025-11-07 00:01:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
-        "name": "Barrystar Vol. 1",
-        "url": "https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA"
-      },
-      "artists": [
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "See Me See God (SMSG)",
-      "url": "https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H"
-    },
-    {
-      "added_at": "2025-11-07 00:01:36",
-      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2025-11-07 00:01:36",
+      "album": {
+        "name": "Barrystar Vol. 1",
+        "url": "https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "See Me See God (SMSG)",
+      "url": "https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H"
     },
     {
       "added_at": "2025-11-07 00:01:36",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
+    },
+    {
+      "added_at": "2025-11-07 00:01:36",
+      "album": {
         "name": "Spaghetti",
         "url": "https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx"
       },
@@ -1323,18 +1339,22 @@
     {
       "added_at": "2025-11-07 00:01:36",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
+      "duration_ms": 155789,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "added_at": "2025-11-07 00:01:36",
@@ -1359,26 +1379,6 @@
       "duration_ms": 161344,
       "name": "On a Kentro (feat. L.A.X)",
       "url": "https://open.spotify.com/track/2Cz1ppqlF9Ozk1UgumS7Oc"
-    },
-    {
-      "added_at": "2025-11-07 00:01:36",
-      "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "added_at": "2025-11-07 00:01:36",

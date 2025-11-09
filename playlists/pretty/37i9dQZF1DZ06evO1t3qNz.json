@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 50663,
+  "num_followers": 50720,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAB2q+RQNxAsbOHUJZze3gbA",
+  "snapshot_id": "aQ02gAAAAACV7IlPnpQ6s8qlbbIhZpzS",
   "tracks": [
     {
       "added_at": null,
@@ -166,15 +166,11 @@
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 173361,
-      "name": "Dirty (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4"
+      "duration_ms": 178472,
+      "name": "It Ain't Right",
+      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
     },
     {
       "added_at": null,
@@ -238,11 +234,15 @@
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 178472,
-      "name": "It Ain't Right",
-      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4"
     },
     {
       "added_at": null,

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: مهى فتوني
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: آمال ماهر
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,101 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,149 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [مأساة](https://open.spotify.com/track/7EaXHV6fnXKdXtU3z3WDjw) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [مأساة](https://open.spotify.com/album/29GcXePhytJTaaObLlOSOh) | 4:21 |
-| 2 | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/track/4HsAeZ9hbj3YsI10ww3vFn) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/album/1kt8RaftlYDHnL76bpTknX) | 4:29 |
-| 3 | [يادي الكسفه](https://open.spotify.com/track/2aIRqlnEJ4k14TWs37eOzV) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [يادي الكسفه](https://open.spotify.com/album/1sGAurPqa4a4afDENNUEyc) | 4:08 |
-| 4 | [Khazalni](https://open.spotify.com/track/2nzCYsxnaiaERW1u61aMYm) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Khazalni](https://open.spotify.com/album/6MJTt197mONL1Nsf1sP7Vh) | 4:04 |
+| 1 | [Khazalni](https://open.spotify.com/track/2nzCYsxnaiaERW1u61aMYm) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Khazalni](https://open.spotify.com/album/6MJTt197mONL1Nsf1sP7Vh) | 4:04 |
+| 2 | [مأساة](https://open.spotify.com/track/7EaXHV6fnXKdXtU3z3WDjw) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [مأساة](https://open.spotify.com/album/29GcXePhytJTaaObLlOSOh) | 4:21 |
+| 3 | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/track/4HsAeZ9hbj3YsI10ww3vFn) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/album/1kt8RaftlYDHnL76bpTknX) | 4:29 |
+| 4 | [يادي الكسفه](https://open.spotify.com/track/2aIRqlnEJ4k14TWs37eOzV) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [يادي الكسفه](https://open.spotify.com/album/1sGAurPqa4a4afDENNUEyc) | 4:08 |
 | 5 | [كلكوا فله](https://open.spotify.com/track/6XE6ywXuV0tAa76a59w1VP) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [كلكوا فله](https://open.spotify.com/album/0oh75L2L6qQrs9NshlUXQ4) | 2:18 |
 | 6 | [El Segn Law Kan Genena](https://open.spotify.com/track/0TZNS87SGYRescCC4U8kAT) | [Dallo](https://open.spotify.com/artist/04xF9pcBH9WrpWbpMHmPIG) | [El Segn Law Kan Genena](https://open.spotify.com/album/2MA5gkXaJtBKmuuBKh8V34) | 2:19 |
 | 7 | [باشا \(من فيلم قصر الباشا\)](https://open.spotify.com/track/7xzXV6rUspGbYr9yaHPSh3) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [باشا \(من فيلم قصر الباشا\)](https://open.spotify.com/album/4wpq7hS78juDYEjgP1kuFZ) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [بذمتك](https://open.spotify.com/track/5cBJuOGVoLdo9d0yv78S8R) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [بذمتك](https://open.spotify.com/album/4Rg8YtcK72ShhxLBpo6vvH) | 3:31 |
 | 60 | [بشكرك](https://open.spotify.com/track/3A3el8szrcS0b8NatGShND) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [بشكرك](https://open.spotify.com/album/0bmvIRb1VLf9JGQuPlaWCo) | 4:08 |
 
-Snapshot ID: `AAAAAE+A0C6jC/QXxKfyAad8iCZzpNXI`
+Snapshot ID: `AAAAAJQ75BxvazxHReYldllC2mfNUTeE`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Francamente
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,339 likes - 113 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,342 likes - 113 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Telephone Tango](https://open.spotify.com/track/00JmBr4rYb4Iq0cXNHBgK9) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Telephone Tango](https://open.spotify.com/album/3VKZZmGmlbKvRa6Jn0XLZK) | 3:04 |
 | 2 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 |
-| 3 | [Track 12](https://open.spotify.com/track/3qCKwVEjfFyJvYxLxJbCRU) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Sirene \(con Brunori Sas\) \- Live](https://open.spotify.com/track/3qCKwVEjfFyJvYxLxJbCRU) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/4PtgjgBKGsJLZVjA14WFvU) | 3:33 |
 | 4 | [All'Acqua Ghiacciata](https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [All'Acqua Ghiacciata](https://open.spotify.com/album/5e3aisU48dK0bZvjPJUFzW) | 3:47 |
 | 5 | [Come fossero per noi](https://open.spotify.com/track/3qkihBpM8x91XjsJLLKAtG) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Nuovo Amore Passato](https://open.spotify.com/album/6nBcN6Rfl9nyw1D8N2V888) | 3:19 |
 | 6 | [Un giorno triste \(feat\. Gemitaiz\)](https://open.spotify.com/track/1ADf9yY4ATx5Sg64SeGMlW) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 2:43 |

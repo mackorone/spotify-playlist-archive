@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Jazeek x Luciano
 
-378 songs - 16 hr 6 min
+379 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Baddest in Germany](https://open.spotify.com/track/68riJ0IgArc6va32ihh57s) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Baddest in Germany](https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci) | 2:20 | 2025-07-17 | 2025-08-08 |
 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 | 2024-06-28 | 2024-10-25 |
 | [Baile \(feat\. Amo, Haaland936 & Kauta\)](https://open.spotify.com/track/6p5snXqHBtG6rjO7bwiGZT) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [Baile \(feat\. Amo, Haaland936 & Kauta\)](https://open.spotify.com/album/4aEpO1voUnPH8zHZlovtpc) | 2:02 | 2024-06-28 | 2025-06-20 |
-| [BAILE VEM](https://open.spotify.com/track/3DkQyW0ELaOrJCKmGqHeia) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [NORFWEST](https://open.spotify.com/album/3iPZNiMDvOSLIgb3v6M9Fb) | 2:05 | 2025-11-06 |  |
+| [BAILE VEM](https://open.spotify.com/track/3DkQyW0ELaOrJCKmGqHeia) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [NORFWEST](https://open.spotify.com/album/3iPZNiMDvOSLIgb3v6M9Fb) | 2:05 | 2025-11-06 | 2025-11-09 |
 | [BALLON D'OR](https://open.spotify.com/track/1cSBFQlsXoEDYhnzhR3CiS) | [BARÉ](https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4), [Skandal](https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV), [Bayor](https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne), [Kenan](https://open.spotify.com/artist/3iNULJ7Pzkesh8xo72Xy9e) | [BALLON D'OR](https://open.spotify.com/album/6U5UrUArfXqSJgZH12DDfC) | 2:34 | 2024-12-09 | 2024-12-20 |
 | [BANDIT](https://open.spotify.com/track/3ThmZJ7LQ3C20FpxU5kXJB) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [BANDIT](https://open.spotify.com/album/1xqiL9v6vHRyhIl6q5iWc4) | 2:20 | 2024-06-28 | 2025-03-04 |
 | [Bandolero](https://open.spotify.com/track/3iDNccJyQi7iePQINWVL6a) | [Veysel](https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ) | [Bandolero](https://open.spotify.com/album/5iVW91ZkWIK4gP8b1RQP3X) | 2:29 | 2025-10-09 |  |
@@ -383,6 +383,7 @@
 | [Zeit ist Geld](https://open.spotify.com/track/6A8yt5nUqOyBMWpnfxF1kP) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Zeit ist Geld](https://open.spotify.com/album/5thGMRVpw4Uv3IttUkS57o) | 2:46 | 2025-06-19 | 2025-07-25 |
 | [Zelle](https://open.spotify.com/track/0MLKvQX64ZyzNkXJwQ6jZw) | [Jiyo](https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [Zelle](https://open.spotify.com/album/0m7rVcss5XRw1b8OOHDFcU) | 2:17 | 2024-09-02 | 2024-12-10 |
 | [Zemer](https://open.spotify.com/track/1RC4uLbhnXE6bZUVXlJKky) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Zemer](https://open.spotify.com/album/1ycMDahcVTL9gMDQG6Sr2I) | 2:14 | 2024-08-21 |  |
+| [Zieh Zieh](https://open.spotify.com/track/5BsS41PRBAXs7EibiFdvPp) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Zieh Zieh](https://open.spotify.com/album/5u5bKLkbu0chTbmvTvQgKq) | 2:13 | 2025-11-06 |  |
 | [Zimmer 582](https://open.spotify.com/track/1wsxoHOqXop0YHoNAB5SqG) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Zimmer 582](https://open.spotify.com/album/46eYkIUSrWVOGPEcxPcgpY) | 2:42 | 2025-04-17 | 2025-04-25 |
 | [ZOE](https://open.spotify.com/track/6ilShkVwoV3360sb3JIJWd) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [ZOE](https://open.spotify.com/album/0LcczDP99Tz2qWoEQFtNrQ) | 2:48 | 2025-08-21 |  |
 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis où t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 | 2025-04-17 |  |

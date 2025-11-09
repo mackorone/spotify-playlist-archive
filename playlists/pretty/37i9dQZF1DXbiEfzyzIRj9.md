@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Fred again.., CA7RIEL&Paco Amoroso
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,020 likes - 110 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,023 likes - 110 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 31 | [Forever](https://open.spotify.com/track/2v45e15OQW3oDQahWh6k4v) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Forever](https://open.spotify.com/album/5oDGnSjHiW7VE4Bn4qBNzW) | 3:28 |
 | 32 | [In the Air](https://open.spotify.com/track/67JFEyBI4GQfdrofRhTSbe) | [Seimei](https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V), [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24) | [In the Air](https://open.spotify.com/album/6wncpVeTXZ6qiBbEcqYJPr) | 4:54 |
 | 33 | [love has come again](https://open.spotify.com/track/3kbZzQlb5eGnbvVGRwEdC6) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [love has come again](https://open.spotify.com/album/5EzYeY5OweurlSgqoYj3QR) | 5:09 |
-| 34 | [DRUMKEEPER](https://open.spotify.com/track/72PbmMAGNVRUaCXr4Zrd5b) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [SG](https://open.spotify.com/artist/3u4n3D4ZmfXHiPdF71FLst) | [DRUMKEEPER](https://open.spotify.com/album/0vU2JOptdMzKGa1JBWeiRz) | 3:56 |
+| 34 | [DRUMKEEPER \(feat\. SG\)](https://open.spotify.com/track/72PbmMAGNVRUaCXr4Zrd5b) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG) | [DRUMKEEPER \(feat\. SG\)](https://open.spotify.com/album/0vU2JOptdMzKGa1JBWeiRz) | 3:56 |
 | 35 | [Milk](https://open.spotify.com/track/0pqghHQoDVBTcsImBKFmHy) | [Fold](https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Milk](https://open.spotify.com/album/68G2TuOcCbppcvHnltw6Ms) | 4:09 |
 | 36 | [ko cuore](https://open.spotify.com/track/6SuOMLn460vOrcIe01RMBC) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:01 |
 | 37 | [Bad Luck](https://open.spotify.com/track/6csDhb03N9jdJUmkif5UmG) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Bad Luck / Feel](https://open.spotify.com/album/0P5lz9M9GgAOmkPpOhDs2B) | 3:05 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABJ/xCdxd2wbVkkDBoidfi1",
+  "snapshot_id": "aQ02gAAAAADxfA5BFHOl6oy3g74pglPi",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Honey Jack",
+      "url": "https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Crush (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 222022,
       "name": "To Have You Stay",
       "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Honey Jack",
-      "url": "https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You'll Think Of Me",
-        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "You'll Think Of Me",
-      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -407,22 +391,6 @@
       "duration_ms": 207906,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "I Need A Drink",
-      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
     },
     {
       "added_at": null,
@@ -443,6 +411,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "I Need A Drink",
+      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You'll Think Of Me",
+        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "You'll Think Of Me",
+      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONE HOUSE DOWN (from the girl next door)",
         "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
       },
@@ -455,6 +455,26 @@
       "duration_ms": 202920,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        }
+      ],
+      "duration_ms": 229165,
+      "name": "Here I Am Gone",
+      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
     },
     {
       "added_at": null,
@@ -495,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ONE HOUSE DOWN (from the girl next door)",
+        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Crush (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
       },
@@ -515,22 +551,6 @@
       "duration_ms": 212121,
       "name": "One and Only You (Reprise)",
       "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ONE HOUSE DOWN (from the girl next door)",
-        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "Bar Fight",
-      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
     },
     {
       "added_at": null,
@@ -567,26 +587,6 @@
       "duration_ms": 202986,
       "name": "How To Get The Girl",
       "url": "https://open.spotify.com/track/3JJ2CkNEBTYSLaefgOopB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        }
-      ],
-      "duration_ms": 229165,
-      "name": "Here I Am Gone",
-      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
     },
     {
       "added_at": null,

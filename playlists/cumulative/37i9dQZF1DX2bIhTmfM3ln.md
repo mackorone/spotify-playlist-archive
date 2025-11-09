@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-874 songs - 1 day 18 hr 20 min
+875 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 | 2022-03-18 | 2022-10-22 |
 | [Falling Again](https://open.spotify.com/track/6d6v4qRPqlf3C6yTWLPOCj) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Before the Sun Comes Down](https://open.spotify.com/album/0rLkSDDGpI42RBMc7QaP1I) | 2:40 | 2024-01-26 | 2024-02-03 |
 | [Falling In Love](https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Falling In Love](https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1) | 3:10 | 2025-05-23 | 2025-08-01 |
+| [Famous](https://open.spotify.com/track/5lnVBqFqrRnIC3GjlVtcsF) | [Shizzi](https://open.spotify.com/artist/1247AZNYLxb33DmPibFLZZ), [Tayor](https://open.spotify.com/artist/5tTQdgqZhfM7pWvJlrhWyP) | [Famous](https://open.spotify.com/album/27xKWxefDq7DJ9uYjbnkGB) | 2:53 | 2025-11-07 |  |
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-03 | 2023-06-10 |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-05 | 2023-01-20 |
 | [Fear Love](https://open.spotify.com/track/19oxoR5S1ChfKRMd6qdRgx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fear Love](https://open.spotify.com/album/45pBZzzVyvcLUu3pjh8BVF) | 2:55 | 2023-09-29 | 2023-10-05 |
@@ -873,7 +874,7 @@
 | [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 | 2023-01-13 | 2023-05-05 |
 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-08-08 |  |
 | [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 | 2024-09-27 | 2025-10-17 |
-| [You](https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [You](https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos) | 2:32 | 2025-09-19 |  |
+| [You](https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [You](https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos) | 2:32 | 2025-09-19 | 2025-11-09 |
 | [YOU AND ME](https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv) | [PapaRaZzle](https://open.spotify.com/artist/4hfjJtqZRM6khacMfYHwTL) | [YOU AND ME](https://open.spotify.com/album/2Lx9x55fGEtryAOZhXorMF) | 2:41 | 2025-05-23 | 2025-08-26 |
 | [You Are](https://open.spotify.com/track/6jI9XYNr5wSkULVVPSHzvP) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [KANI: A Bantama Story](https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE) | 3:47 | 2025-11-07 |  |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-13 |

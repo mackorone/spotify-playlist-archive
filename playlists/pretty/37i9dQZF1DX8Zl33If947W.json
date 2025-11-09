@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 196893,
+  "num_followers": 196943,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -735,38 +735,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Blaue Augen",
-        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Blaue Augen",
-      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
-        "name": "Es ist Juli",
-        "url": "https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD"
-      },
-      "artists": [
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Regen und Meer",
-      "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Was Muss Muss - Best Of",
         "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Es ist Juli",
+        "url": "https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Regen und Meer",
+      "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Blaue Augen",
+        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 167873,
+      "name": "Blaue Augen",
+      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -999,18 +999,18 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Aversion",
-        "url": "https://open.spotify.com/album/47nHL2h2ttmF1rOcF75Lm4"
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
       "artists": [
         {
-          "name": "Antilopen Gang",
-          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
         }
       ],
-      "duration_ms": 242972,
-      "name": "Verliebt",
-      "url": "https://open.spotify.com/track/40Coe8lqUkFfDjWWrjx9X6"
+      "duration_ms": 207480,
+      "name": "Halt mich",
+      "url": "https://open.spotify.com/track/5zuWCYgg7PbIB1ytoaSbLP"
     }
   ],
   "unique_name": "Liebeslieder",

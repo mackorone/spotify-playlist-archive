@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "CAMPAIGN",
+        "url": "https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169528,
+      "name": "CAMPAIGN",
+      "url": "https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM"
+    },
+    {
+      "album": {
         "name": "Can I Get a?",
         "url": "https://open.spotify.com/album/4kpTwKon5LK1rEKBOogwHm"
       },
@@ -8296,7 +8314,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 139419,
       "name": "JOKER CARD",
       "url": "https://open.spotify.com/track/2xKnIJCJUuRPE4bdFQchZi"

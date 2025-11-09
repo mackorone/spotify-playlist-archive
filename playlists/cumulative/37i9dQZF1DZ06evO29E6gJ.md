@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-102 songs - 4 hr 46 min
+104 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Corrido De Felipe Angeles](https://open.spotify.com/track/04WwCNKM6hbBAc9IJ5d01f) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Villistas Con Los Alegres De Terán](https://open.spotify.com/album/3dehFGTHz2s4e17HNEgiK3) | 4:30 | 2022-06-01 | 2022-11-30 |
 | [Corrido De Pedro Infante](https://open.spotify.com/track/0iHQIzCXXBuQG23sX1Wl1q) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Ojos De Pancha](https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX) | 2:48 | 2022-06-01 | 2022-07-31 |
 | [Cuando Salgo A Los Campos](https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Frente a Frente Los Alegres de Terán vs Los Invasores de Nuevo León](https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf) | 2:31 | 2022-06-01 | 2024-09-18 |
+| [Cuando Salgo a los Campos](https://open.spotify.com/track/0SOD8pdZCJhoAxrAWWgkQ4) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Auténticos](https://open.spotify.com/album/5I5SvTMBc6VE5kuE19Fwzj) | 2:31 | 2025-11-09 |  |
 | [Cuando Salgo a los Campos](https://open.spotify.com/track/2IQrTSpuWkKMOLK9PXrpbY) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Auténticos](https://open.spotify.com/album/0NN0YMPL5sbbr8eVw82QcS) | 2:31 | 2024-09-18 | 2025-03-04 |
 | [Cuatro Milpas](https://open.spotify.com/track/4dvpL6KEvqwcibf5Sm7TqU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [El Rosalito](https://open.spotify.com/album/2k8xoNgEwu8xMeZ6FaC9FZ) | 2:26 | 2024-12-14 |  |
 | [Cuatro Milpas](https://open.spotify.com/track/2GapsLaCJN57fkVBmQiJ3P) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Nostalgia Norteña](https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu) | 3:04 | 2022-06-01 | 2024-11-13 |
@@ -35,7 +36,7 @@
 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 | 2022-06-01 |  |
 | [El Cuervo Y El Escribano](https://open.spotify.com/track/4zc9IeFLfP38imKJgRzuNc) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Alma Enamorada](https://open.spotify.com/album/0Hhcxil7ucwHVQgVxxIJTc) | 2:37 | 2022-08-13 | 2024-06-26 |
 | [El Descalzo](https://open.spotify.com/track/2Srq6EvHcJNVFYK1UA4EfA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Las Nortenitas](https://open.spotify.com/artist/19Me5XQWAtXf5pwZXmO9Rt) | [Contestadas](https://open.spotify.com/album/4cjI91TZkZfMf7FbvyljiY) | 2:45 | 2022-10-07 | 2022-10-12 |
-| [El Desengaño](https://open.spotify.com/track/2yf4wPZj5vGoCWDj5IhP8s) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Mano A Mano](https://open.spotify.com/album/7AqygqPGx2duxufK7woexa) | 2:32 | 2025-11-01 |  |
+| [El Desengaño](https://open.spotify.com/track/2yf4wPZj5vGoCWDj5IhP8s) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Mano A Mano](https://open.spotify.com/album/7AqygqPGx2duxufK7woexa) | 2:32 | 2025-11-01 | 2025-11-09 |
 | [El Desgastado](https://open.spotify.com/track/21Slc5ctUKCzBLzDiRxwuq) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:53 | 2022-06-01 | 2022-09-20 |
 | [El Golpe Traidor](https://open.spotify.com/track/7bBKjaJ2bU7iLagUNwtJrW) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:26 | 2022-06-01 |  |
 | [El Troquero](https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Puras De Pegue](https://open.spotify.com/album/5f2FwofNEjUSa8RlqSyMSc) | 3:03 | 2023-12-21 |  |
@@ -76,7 +77,8 @@
 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7HDNA0t9icJttiRSGN44mv) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 3:17 | 2025-04-05 | 2025-04-11 |
 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7x32CubDcgMfgemGbEw58j) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 3:17 | 2025-04-12 |  |
 | [Mi Unico Camino](https://open.spotify.com/track/4LWoe4xNQ8DcI1ky9fr0yR) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:36 | 2022-08-16 | 2022-10-13 |
-| [Moneda Sin Valor](https://open.spotify.com/track/7w4ZgZxpCt3Ulc4SuUH3ec) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 3:10 | 2023-03-19 |  |
+| [Moneda Sin Valor](https://open.spotify.com/track/3fRqJK9IGjuPFlbFbxCzl6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR) | 3:09 | 2025-11-09 |  |
+| [Moneda Sin Valor](https://open.spotify.com/track/7w4ZgZxpCt3Ulc4SuUH3ec) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 3:10 | 2023-03-19 | 2025-11-09 |
 | [Moneda Sin Valor](https://open.spotify.com/track/1lBnOCmKx7JSpxMpZauJsU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Grandes Exitos Con Los Grandes Del Norte](https://open.spotify.com/album/3gVyzNysh0fdwJItrrxr35) | 3:11 | 2022-06-01 | 2023-03-20 |
 | [Morena Mia](https://open.spotify.com/track/4RN25DnLFUFJYh1Uqf7TR4) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Siguen En La Honda Nortena](https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr) | 2:28 | 2024-09-20 | 2025-02-13 |
 | [Morena Mia](https://open.spotify.com/track/5INk7O0D5NndGyvTZb3ZTZ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [30 Éxitos los Alegres de Teran, CD 2](https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF) | 2:28 | 2025-02-16 |  |

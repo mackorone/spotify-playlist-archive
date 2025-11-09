@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3205,
+  "num_followers": 3204,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABNgs8Rtbc6kLPac5fm6yQz",
+  "snapshot_id": "aQ02gAAAAAC3Himv4F8Cguxp7ifciNFk",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
@@ -243,22 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         },
         {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 158249,
-      "name": "OPUESTOS",
-      "url": "https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh"
+      "duration_ms": 208240,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
     },
     {
       "added_at": null,
@@ -279,6 +259,26 @@
       "duration_ms": 315000,
       "name": "Solegrande",
       "url": "https://open.spotify.com/track/1ucbZ6xHcfJEpZXecucLfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 158249,
+      "name": "OPUESTOS",
+      "url": "https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 239082,
-      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
-      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "m\u00fasica para una pel\u00edcula que no existe",
         "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 94000,
       "name": "lilia",
       "url": "https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 239082,
+      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
+      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
     },
     {
       "added_at": null,
@@ -652,9 +652,29 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 212500,
-      "name": "R\u00edo",
-      "url": "https://open.spotify.com/track/2MC2qmGcoY7PcNV1NmhDAj"
+      "duration_ms": 219449,
+      "name": "Hbls Mucho",
+      "url": "https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OPTEMOS",
+        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "OPTEMOS",
+      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
     },
     {
       "added_at": null,
@@ -683,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OPTEMOS",
-        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "OPTEMOS",
-      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Fantas\u00eda",
         "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 205320,
       "name": "Este Final",
       "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 230921,
+      "name": "beso",
+      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 230921,
-      "name": "beso",
-      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fue Solo un Sue\u00f1o",
         "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 229000,
       "name": "Fue Solo un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/7HOiXAYWzXNh37P8DROZaJ"
-      },
-      "artists": [
-        {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Te Choca Te Checa",
-      "url": "https://open.spotify.com/track/1Twvcodfxn69xkCHNghbQr"
     },
     {
       "added_at": null,
@@ -835,6 +815,26 @@
       "duration_ms": 90875,
       "name": "caballos",
       "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/7HOiXAYWzXNh37P8DROZaJ"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "Te Choca Te Checa",
+      "url": "https://open.spotify.com/track/1Twvcodfxn69xkCHNghbQr"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 94000,
+      "name": "presente",
+      "url": "https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Out Cold (Deluxe Version)",
         "url": "https://open.spotify.com/album/0qQ5zadXGyGteQKihv2hl7"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 203633,
       "name": "Hasta la Fantas\u00eda",
       "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 94000,
-      "name": "presente",
-      "url": "https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

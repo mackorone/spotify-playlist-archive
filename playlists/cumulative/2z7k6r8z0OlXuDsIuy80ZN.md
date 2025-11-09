@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-351 songs - 18 hr 18 min
+352 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-03-15 |  |
 | [Carita Linda](https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Carita Linda](https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD) | 3:23 | 2025-05-10 |  |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-09-07 | 2025-05-18 |
-| [Carpe Diem](https://open.spotify.com/track/4l7qXzZrZnr2RUgSVSKtnD) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/4z0e3892fwI3YfdHL2k5BQ) | 4:00 | 2025-04-20 |  |
+| [Carpe Diem](https://open.spotify.com/track/4l7qXzZrZnr2RUgSVSKtnD) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/4z0e3892fwI3YfdHL2k5BQ) | 4:00 | 2025-04-20 | 2025-11-09 |
 | [Carretera y manta](https://open.spotify.com/track/4RgqBP0RY3pQY3Z3d3fKnf) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Carretera y manta](https://open.spotify.com/album/3DlIRvWPWudQaYZOclzabT) | 2:43 | 2022-08-27 | 2023-01-07 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-12-24 | 2023-03-19 |
 | [Ciao Amore](https://open.spotify.com/track/1oWw1Jiq75Zo2BTaCKndfU) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN), [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Ciao Amore](https://open.spotify.com/album/1cty6itPVYtpgSFOopJsQr) | 2:45 | 2025-06-28 |  |
@@ -340,6 +340,7 @@
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-12-03 | 2023-07-09 |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-07-01 | 2024-03-17 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-08-05 | 2024-07-14 |
+| [Veinticinco](https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Veinticinco](https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh) | 2:44 | 2025-11-08 |  |
 | [Viernes](https://open.spotify.com/track/2tx7mEfR9lXzTi2Sbags7T) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Viernes](https://open.spotify.com/album/4r1Zyd80QdexPl8wan52t3) | 2:46 | 2025-07-26 | 2025-10-19 |
 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2023-12-09 | 2024-04-14 |
 | [Volver a Nacer](https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Noctalgia](https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE) | 3:16 | 2024-08-10 | 2024-12-15 |

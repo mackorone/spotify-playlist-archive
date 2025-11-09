@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,201 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,282 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 17 | [ole](https://open.spotify.com/track/5GktrSt0vCcZjJALP61bak) | [fat jon](https://open.spotify.com/artist/5Fmr3KeGe2IAVFmMxUq1sD) | [samurai champloo music record departure](https://open.spotify.com/album/1sY71XLUTXSayYmvfayYKA) | 3:27 |
 | 18 | [Eyes Closed](https://open.spotify.com/track/0e7Zh5sczPvNV40Y9f5ujU) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Eyes Closed](https://open.spotify.com/album/0thdFPy1sf2iLHQCcvcRui) | 2:10 |
 | 19 | [Worldwide](https://open.spotify.com/track/6Qs9NTmOxaPs4gEcho8hJa) | [edbl & Kazuki Isogai](https://open.spotify.com/artist/1HaUUmKiUSfsXH0PfgdZcI), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl × Kazuki Sessions](https://open.spotify.com/album/2BPyV8AqbtLq5mlmDvnzIh) | 3:43 |
-| 20 | [Heidi](https://open.spotify.com/track/66hNd1s6k5KZ617mUoBkWq) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Heidi](https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6) | 2:15 |
+| 20 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
 | 21 | [\#02 untitled](https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [\#02 untitled](https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK) | 4:17 |
-| 22 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
+| 22 | [Heidi](https://open.spotify.com/track/66hNd1s6k5KZ617mUoBkWq) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Heidi](https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6) | 2:15 |
 | 23 | [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 |
 | 24 | [June](https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Consider The Flowers](https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy) | 2:24 |
 | 25 | [Stories & Studies](https://open.spotify.com/track/0tKmZJqFwmQ539WrqWrMYM) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Stories & Studies](https://open.spotify.com/album/6GThZMuDzGscijM6iM5dcc) | 1:52 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 46 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 |
 | 47 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 |
 | 48 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
-| 49 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 |
-| 50 | [Clair de lune](https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Clair de lune](https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY) | 3:24 |
+| 49 | [Clair de lune](https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Clair de lune](https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY) | 3:24 |
+| 50 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 |
 
 Snapshot ID: `AAAAALflzozweoxcofnZWTd6N7sfZwTm`

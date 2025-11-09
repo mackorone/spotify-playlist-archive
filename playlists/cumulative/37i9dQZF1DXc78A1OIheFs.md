@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-311 songs - 17 hr 54 min
+312 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Admit to that](https://open.spotify.com/track/0DIuALdrcZzqyOxbYBqJxo) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Yellow Chapter](https://open.spotify.com/album/20X24Co7k0ySrKdWCRvWPO) | 4:44 | 2024-10-24 | 2025-04-11 |
 | [Afterthought](https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Afterthought](https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2) | 3:24 | 2024-12-12 | 2025-02-01 |
 | [Ain't Just Dreaming](https://open.spotify.com/track/5Oj6jg9NrV8dYlXDNB6Uu5) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A), [The NZ Team](https://open.spotify.com/artist/7rI9VYVp3JYh32FbZME6ip), [Ellesse Andrews](https://open.spotify.com/artist/1mDua6s6MkNJ7WZc9xBFaP), [Max Brown](https://open.spotify.com/artist/7zV7e9gbkoifHMZYxW3Bh6) | [Ain't Just Dreaming](https://open.spotify.com/album/7wU7TF5kEnSJnobM4HcB1m) | 3:21 | 2024-05-20 | 2024-11-08 |
+| [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 | 2025-11-06 |  |
 | [AKL Girls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKL Girls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 | 2024-09-26 | 2025-01-31 |
 | [ALL MINE](https://open.spotify.com/track/0Yg2JX24pCRIcqZRC5aJU8) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [ALL MINE](https://open.spotify.com/album/2HfQH6Lgw5niuKPPSPJ9RD) | 2:38 | 2025-06-12 |  |
 | [All Night](https://open.spotify.com/track/5koR0ccU16Uknn5Rvm93g2) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [All Night](https://open.spotify.com/album/296ZqgLJupUJJsoCnYCN8X) | 3:40 | 2025-02-06 | 2025-06-20 |
@@ -259,7 +260,7 @@
 | [Slo Mo](https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Slo Mo](https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j) | 8:14 | 2024-10-24 | 2024-12-26 |
 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-08-15 |  |
 | [So Easy](https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Soft Power](https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C) | 3:28 | 2024-11-28 | 2025-06-12 |
-| [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 | 2024-08-22 |  |
+| [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 | 2024-08-22 | 2025-11-09 |
 | [Some Kind of Angel](https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Some Kind of Angel / Split Lip](https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw) | 4:34 | 2024-08-15 | 2025-01-04 |
 | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt) | 2:32 | 2025-04-24 |  |
 | [Stand Straight](https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [SLO MO](https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ) | 5:35 | 2024-11-07 | 2025-01-15 |

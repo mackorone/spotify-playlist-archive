@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : IDIOT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,854 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,859 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
 | 42 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 43 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 |
-| 44 | [אליפלט 2.0](https://open.spotify.com/track/6gCFROAeubD5aIa8iatVjB) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [אליפלט 2.0](https://open.spotify.com/album/7JcKgKzBwslDAqqtt6Vla6) | 5:18 |
-| 45 | [כמה יופי יש](https://open.spotify.com/track/6vYwxSKsDKE6GZQugBxmDG) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [כמה יופי יש](https://open.spotify.com/album/0VkPzoyQx30S58HkI7Mi8l) | 3:54 |
+| 44 | [כמה יופי יש](https://open.spotify.com/track/6vYwxSKsDKE6GZQugBxmDG) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [כמה יופי יש](https://open.spotify.com/album/0VkPzoyQx30S58HkI7Mi8l) | 3:54 |
+| 45 | [אליפלט 2.0](https://open.spotify.com/track/6gCFROAeubD5aIa8iatVjB) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [אליפלט 2.0](https://open.spotify.com/album/7JcKgKzBwslDAqqtt6Vla6) | 5:18 |
 | 46 | [לחוש את האור](https://open.spotify.com/track/4hr4NNBxDsyjo4RwQQ5Rz8) | [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM), [The White Screen](https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7) | [לחוש את האור](https://open.spotify.com/album/3sQ17Eb8DLEgAuZVu54P3R) | 3:45 |
 | 47 | [In Stereo](https://open.spotify.com/track/6VBbmDuYFGj4xAxLM79JB7) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [Tom Sanders](https://open.spotify.com/artist/7JPYQ0pXUIZVWVE1fRT7FU) | [In Stereo](https://open.spotify.com/album/44B9VnE86HRFjcYVEEg0lz) | 4:26 |
 | 48 | [זה בדיוק מה שאתה אוהב](https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP) | 3:00 |

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 272005,
+  "num_followers": 272057,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MKFgoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MKK0eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "DWA RAZY TYLE",
+        "url": "https://open.spotify.com/album/0dBQpbBxl5s041GAA5vLja"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "duration_ms": 127211,
+      "name": "DWA RAZY TYLE",
+      "url": "https://open.spotify.com/track/2nIyuz4f11SjDi32mcSCnL"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
         "url": "https://open.spotify.com/album/1o1JLfKESFIoGR6ssuy8Pl"
@@ -37,7 +53,7 @@
       "url": "https://open.spotify.com/track/4WU8ZRMoonGLw00lXLOvpY"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "2039: Z\u0141OTE PIASKI",
         "url": "https://open.spotify.com/album/0kOoe3zE19AKMyYcCEFubt"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/5tCxCYuFA57AhVtHqxP7kr"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "Muzyka Popularna",
         "url": "https://open.spotify.com/album/4gkNKj0RfEpaiT7D9tAvEU"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/0TfBoSPyJlGOGYtFXeGQnH"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "mmmaybach",
         "url": "https://open.spotify.com/album/7MRTup7GD3gPttZBOirVDe"
@@ -113,23 +129,7 @@
       "url": "https://open.spotify.com/track/7sgaYfG76FeGdXOgTd9MRp"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "Baciata",
-        "url": "https://open.spotify.com/album/2Swgs4e19ysNnoRo0HC3Ru"
-      },
-      "artists": [
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Baciata",
-      "url": "https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "FIKU MIKU",
         "url": "https://open.spotify.com/album/5uUpFJdEbRcsap5IoBd1GJ"
@@ -145,7 +145,23 @@
       "url": "https://open.spotify.com/track/5JUs80EV0MeJ3s2atMaPjr"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "Baciata",
+        "url": "https://open.spotify.com/album/2Swgs4e19ysNnoRo0HC3Ru"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Baciata",
+      "url": "https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "Zabior\u0119 Ci\u0119 Tam",
         "url": "https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B"
@@ -165,39 +181,7 @@
       "url": "https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "HATERS GONNA HATE",
-        "url": "https://open.spotify.com/album/24fMrVsrmV4l0SFnNzPlS6"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 167590,
-      "name": "HATERS GONNA HATE",
-      "url": "https://open.spotify.com/track/0hCUiGTin4FZbZc5lML7GG"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "Genera\u0142",
         "url": "https://open.spotify.com/album/1GqNXK7ZG4tKCWem9isOCt"
@@ -217,7 +201,79 @@
       "url": "https://open.spotify.com/track/6uh2Q3k0s7KbwhhaRDzXjt"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "HATERS GONNA HATE",
+        "url": "https://open.spotify.com/album/24fMrVsrmV4l0SFnNzPlS6"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 167590,
+      "name": "HATERS GONNA HATE",
+      "url": "https://open.spotify.com/track/0hCUiGTin4FZbZc5lML7GG"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "Belly Dance",
+        "url": "https://open.spotify.com/album/2we9uL36F3x5YpxCCTdbpu"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Belly Dance",
+      "url": "https://open.spotify.com/track/2NDY6DWsQCQFuccgid7rvE"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "AUTOBANA",
+        "url": "https://open.spotify.com/album/02OCl2zABMrk1LPTV5dwAe"
+      },
+      "artists": [
+        {
+          "name": "Bungee",
+          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
+        },
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "duration_ms": 156051,
+      "name": "AUTOBANA",
+      "url": "https://open.spotify.com/track/0vXF9MYrwHYCyeuHrSQvs5"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -249,31 +305,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "AUTOBANA",
-        "url": "https://open.spotify.com/album/02OCl2zABMrk1LPTV5dwAe"
-      },
-      "artists": [
-        {
-          "name": "Bungee",
-          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
-        },
-        {
-          "name": "Skolim",
-          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
-        },
-        {
-          "name": "CrackHouse",
-          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
-        }
-      ],
-      "duration_ms": 156051,
-      "name": "AUTOBANA",
-      "url": "https://open.spotify.com/track/0vXF9MYrwHYCyeuHrSQvs5"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -289,23 +321,7 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "Belly Dance",
-        "url": "https://open.spotify.com/album/2we9uL36F3x5YpxCCTdbpu"
-      },
-      "artists": [
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Belly Dance",
-      "url": "https://open.spotify.com/track/2NDY6DWsQCQFuccgid7rvE"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "3347",
         "url": "https://open.spotify.com/album/0hYMkjmSD1OKHbgPfh6W7B"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/7Ki2wz0F38lWnwBOLRkyIV"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "Mi\u0142o\u015b\u0107",
         "url": "https://open.spotify.com/album/4JciAzHLmwtoNcY0Sv05GC"
@@ -341,47 +357,7 @@
       "url": "https://open.spotify.com/track/7vngxLe77dR1mliZnVhtXd"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "EX UMBRA AD LIBERTATEM",
-        "url": "https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q"
-      },
-      "artists": [
-        {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
-        },
-        {
-          "name": "Anita Lipnicka",
-          "url": "https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK"
-        },
-        {
-          "name": "Luxon",
-          "url": "https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Nie b\u00f3j si\u0119 ba\u0107",
-      "url": "https://open.spotify.com/track/2ABVSOvhp1IgaWoCi26sD0"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "INTERLUDIUM",
         "url": "https://open.spotify.com/album/3p6MAvK3MoWfAoSd85osMl"
@@ -405,43 +381,51 @@
       "url": "https://open.spotify.com/track/0gZ6aSidViW10soPaibyFa"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
-        "name": "A nie m\u00f3wi\u0142em?",
-        "url": "https://open.spotify.com/album/3NJuag7R7RxVnIF2g29xPe"
+        "name": "TAK TO LATA (feat. Tuszol)",
+        "url": "https://open.spotify.com/album/1CVMCAIJgzv1l4gveUofRd"
       },
       "artists": [
         {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+          "name": "Bungee",
+          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
         },
         {
-          "name": "Oskar83",
-          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+          "name": "Tuszol",
+          "url": "https://open.spotify.com/artist/2NupdKQTai02YaVo2umpDW"
         }
       ],
-      "duration_ms": 179571,
-      "name": "Multisport",
-      "url": "https://open.spotify.com/track/1ZIscVoYHftgA5STle5cPo"
+      "duration_ms": 179142,
+      "name": "TAK TO LATA (feat. Tuszol)",
+      "url": "https://open.spotify.com/track/6dpH1qquecoX7w9gTRkdzz"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+        "name": "EX UMBRA AD LIBERTATEM",
+        "url": "https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        },
+        {
+          "name": "Anita Lipnicka",
+          "url": "https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK"
+        },
+        {
+          "name": "Luxon",
+          "url": "https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc"
         }
       ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+      "duration_ms": 215466,
+      "name": "Nie b\u00f3j si\u0119 ba\u0107",
+      "url": "https://open.spotify.com/track/2ABVSOvhp1IgaWoCi26sD0"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "2039: Z\u0141OTE PIASKI",
         "url": "https://open.spotify.com/album/0kOoe3zE19AKMyYcCEFubt"
@@ -461,7 +445,59 @@
       "url": "https://open.spotify.com/track/36YPFA4lT3K8Xtsmr2HtBH"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "A nie m\u00f3wi\u0142em?",
+        "url": "https://open.spotify.com/album/3NJuag7R7RxVnIF2g29xPe"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        }
+      ],
+      "duration_ms": 179571,
+      "name": "Multisport",
+      "url": "https://open.spotify.com/track/1ZIscVoYHftgA5STle5cPo"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "NAPISZ JAK B\u0118DZIESZ",
         "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
@@ -481,7 +517,23 @@
       "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "PRO8L3M",
+        "url": "https://open.spotify.com/album/6BMJvX4lhUreGv4n6hC2QI"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/7t3iKbFf34FK5syqppOlIx"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
@@ -505,10 +557,10 @@
       "url": "https://open.spotify.com/track/0opYvODIONdV6edM316xO8"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
-        "name": "PRO8L3M",
-        "url": "https://open.spotify.com/album/6BMJvX4lhUreGv4n6hC2QI"
+        "name": "Ground Zero Mixtape",
+        "url": "https://open.spotify.com/album/4jri1WGY01xNetAXhHv4d9"
       },
       "artists": [
         {
@@ -516,12 +568,68 @@
           "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
         }
       ],
-      "duration_ms": 202506,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/7t3iKbFf34FK5syqppOlIx"
+      "duration_ms": 181600,
+      "name": "Ground Zero",
+      "url": "https://open.spotify.com/track/7gPbVDk8Es7AVHTLUFq6CU"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "duration_ms": 217850,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/1U7ZU4sJsMDzHSA7n333BJ"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "POW POW",
+        "url": "https://open.spotify.com/album/5QiddCKmbpB2JTo03Dl6ML"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        },
+        {
+          "name": "Dajczman",
+          "url": "https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2"
+        }
+      ],
+      "duration_ms": 154054,
+      "name": "POW POW",
+      "url": "https://open.spotify.com/track/0RgYjo6BqSxhPXus5e4DDR"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "Muzyka Komercyjna (Deluxe)",
         "url": "https://open.spotify.com/album/0btfWeG02knwyMwwTjySgo"
@@ -541,75 +649,7 @@
       "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "TAK TO LATA (feat. Tuszol)",
-        "url": "https://open.spotify.com/album/1CVMCAIJgzv1l4gveUofRd"
-      },
-      "artists": [
-        {
-          "name": "Bungee",
-          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
-        },
-        {
-          "name": "Tuszol",
-          "url": "https://open.spotify.com/artist/2NupdKQTai02YaVo2umpDW"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "TAK TO LATA (feat. Tuszol)",
-      "url": "https://open.spotify.com/track/6dpH1qquecoX7w9gTRkdzz"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "Ground Zero Mixtape",
-        "url": "https://open.spotify.com/album/4jri1WGY01xNetAXhHv4d9"
-      },
-      "artists": [
-        {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Ground Zero",
-      "url": "https://open.spotify.com/track/7gPbVDk8Es7AVHTLUFq6CU"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "EX UMBRA AD LIBERTATEM",
         "url": "https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q"
@@ -625,23 +665,23 @@
       "url": "https://open.spotify.com/track/2BG7eli63SGzeJaWn3wiSw"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
-        "name": "PRO8L3M",
-        "url": "https://open.spotify.com/album/6BMJvX4lhUreGv4n6hC2QI"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 251400,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/1088WwNMjp0QWvEP3aOgsf"
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "Akademia Sztuk Pi\u0119knych",
         "url": "https://open.spotify.com/album/2pzDm1usjCxQGw8nYU8nkZ"
@@ -665,99 +705,7 @@
       "url": "https://open.spotify.com/track/2S13g8BhBuFzkGpwDw1ONM"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "King Sento 2",
-        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
-      },
-      "artists": [
-        {
-          "name": "Sentino",
-          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
-        },
-        {
-          "name": "BNP",
-          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
-        }
-      ],
-      "duration_ms": 217850,
-      "name": "CASABLANCA",
-      "url": "https://open.spotify.com/track/1U7ZU4sJsMDzHSA7n333BJ"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "Gdzie m\u00f3j dom?",
-        "url": "https://open.spotify.com/album/3ex3T8zjsgKoSP9ajrXv2l"
-      },
-      "artists": [
-        {
-          "name": "Young Multi",
-          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Gdzie m\u00f3j dom?",
-      "url": "https://open.spotify.com/track/27b2Zk06wjXGyn3vGsmeJQ"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "APOROFOBIA II",
-        "url": "https://open.spotify.com/album/0V1PzQBgGgmwtUxWVU5Z0i"
-      },
-      "artists": [
-        {
-          "name": "Sentino",
-          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "DYLEMAT",
-      "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "NAPISZ JAK B\u0118DZIESZ",
         "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
@@ -781,27 +729,59 @@
       "url": "https://open.spotify.com/track/2XjSsK9NKNcojJwzmLdIWG"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
-        "name": "POW POW",
-        "url": "https://open.spotify.com/album/5QiddCKmbpB2JTo03Dl6ML"
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
       },
       "artists": [
         {
-          "name": "Fagata",
-          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "Dajczman",
-          "url": "https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 154054,
-      "name": "POW POW",
-      "url": "https://open.spotify.com/track/0RgYjo6BqSxhPXus5e4DDR"
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "PRO8L3M",
+        "url": "https://open.spotify.com/album/6BMJvX4lhUreGv4n6hC2QI"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        }
+      ],
+      "duration_ms": 251400,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/1088WwNMjp0QWvEP3aOgsf"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "APOROFOBIA II",
+        "url": "https://open.spotify.com/album/0V1PzQBgGgmwtUxWVU5Z0i"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "DYLEMAT",
+      "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "Azizam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/5sMuyadLnubEwk09lksAI5"
@@ -821,23 +801,111 @@
       "url": "https://open.spotify.com/track/364eTs3RlpoSNwvBySg0D5"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
-        "name": "Tarcho Terror",
-        "url": "https://open.spotify.com/album/5MSOlbfRiWEjL8VhZilRCd"
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
       "artists": [
         {
-          "name": "Otsochodzi",
-          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 157575,
-      "name": "Luty",
-      "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "KIEROWNIK",
+        "url": "https://open.spotify.com/album/3VefAkpACw9xRiopjJ4w9F"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "duration_ms": 172549,
+      "name": "KIEROWNIK",
+      "url": "https://open.spotify.com/track/1pl6TiCoKfRGkQ2Miyvy9f"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "Miss Dior",
+        "url": "https://open.spotify.com/album/6zYAuHh481ES1KOoptEQtQ"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "Miss Dior",
+      "url": "https://open.spotify.com/track/08gvD5pFucRIkh16bN5qRA"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "Gdzie m\u00f3j dom?",
+        "url": "https://open.spotify.com/album/3ex3T8zjsgKoSP9ajrXv2l"
+      },
+      "artists": [
+        {
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Gdzie m\u00f3j dom?",
+      "url": "https://open.spotify.com/track/27b2Zk06wjXGyn3vGsmeJQ"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/1l58295uREa2T8qG0MWn8L"
+      },
+      "artists": [
+        {
+          "name": "Bajorson",
+          "url": "https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS"
+        },
+        {
+          "name": "Dawid Obserwator",
+          "url": "https://open.spotify.com/artist/17TxUtKcfnsMuLJ7GF0gBC"
+        },
+        {
+          "name": "Dj Killer",
+          "url": "https://open.spotify.com/artist/5oxxdyb3stTvWUtlisvfyD"
+        },
+        {
+          "name": "David Tango",
+          "url": "https://open.spotify.com/artist/30AY4WR8v4YL1XN2mX1dzP"
+        }
+      ],
+      "duration_ms": 222620,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/7ztpISTetVPoca640QDqZn"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
@@ -853,79 +921,7 @@
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "POKOLOROWANA",
-        "url": "https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1"
-      },
-      "artists": [
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "POKOLOROWANA",
-      "url": "https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "100 dni do matury",
-        "url": "https://open.spotify.com/album/4cA2a9w1gSzJEIdbhwUrsH"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Schodki",
-      "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
-      "album": {
-        "name": "Art Brut 2",
-        "url": "https://open.spotify.com/album/2KP6z31HQChZVDzpeurU2i"
-      },
-      "artists": [
-        {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
-        }
-      ],
-      "duration_ms": 152853,
-      "name": "Zadzwo\u0144 do mnie",
-      "url": "https://open.spotify.com/track/2WFSy9WBAdKH8RnwL5deH2"
-    },
-    {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
         "name": "PUK PUK",
         "url": "https://open.spotify.com/album/7pqKPOmsEYM0gjkh3OOGa1"
@@ -957,40 +953,56 @@
       "url": "https://open.spotify.com/track/1qGwUUBUYu9akvnqMjbMVn"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
-        "name": "Miss Dior",
-        "url": "https://open.spotify.com/album/6zYAuHh481ES1KOoptEQtQ"
+        "name": "FRIEND7",
+        "url": "https://open.spotify.com/album/3w81DXj7OQi8EdeAnynDKg"
       },
       "artists": [
         {
-          "name": "MODELKI",
-          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+          "name": "FRIENDZ",
+          "url": "https://open.spotify.com/artist/5X3ccL1CnxYsGjAXD0k7es"
         },
         {
-          "name": "V\u0142odarski",
-          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+          "name": "\u0141obuzy",
+          "url": "https://open.spotify.com/artist/4wJtkZRfieBICxs8onRjy6"
         }
       ],
-      "duration_ms": 123750,
-      "name": "Miss Dior",
-      "url": "https://open.spotify.com/track/08gvD5pFucRIkh16bN5qRA"
+      "duration_ms": 149610,
+      "name": "Jak Ta LALA",
+      "url": "https://open.spotify.com/track/6YxlYt5sCNlaCF32MuZfir"
     },
     {
-      "added_at": "2025-11-07 14:04:44",
+      "added_at": "2025-11-08 14:19:35",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "Sprzeda\u0142em dupe",
+        "url": "https://open.spotify.com/album/1AkTsEOIzzXstrDsRQHKcu"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Zdech\u0142y Osa",
+          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
         }
       ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
+      "duration_ms": 160000,
+      "name": "Patolove",
+      "url": "https://open.spotify.com/track/24Gw6xOLcc028XPZJBQeEr"
+    },
+    {
+      "added_at": "2025-11-08 14:19:35",
+      "album": {
+        "name": "Tarcho Terror",
+        "url": "https://open.spotify.com/album/5MSOlbfRiWEjL8VhZilRCd"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        }
+      ],
+      "duration_ms": 157575,
+      "name": "Luty",
+      "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
     }
   ],
   "unique_name": "Top 50 - Poland",

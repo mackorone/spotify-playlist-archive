@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Teagan
 
-701 songs - 1 day 13 hr 8 min
+702 songs - 1 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Kiss Me Hard](https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Kiss Me Hard](https://open.spotify.com/album/1U7stlcv1Z4m4UDSRei2vM) | 2:52 | 2024-11-15 | 2025-03-21 |
 | [Kiss Me Like You're Leaving](https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Kiss Me Like You're Leaving](https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM) | 3:40 | 2025-05-01 | 2025-06-16 |
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-07-31 | 2025-10-04 |
+| [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-07 |  |
 | [Lady In Red](https://open.spotify.com/track/2ObQRuTvP7PfyMS5Y6t4i3) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [Lady In Red](https://open.spotify.com/album/20Y0YMEtd5ifcSZ0s1SuYy) | 2:35 | 2025-07-31 | 2025-08-30 |
 | [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 | 2024-12-19 | 2025-07-25 |
 | [Last Christmas](https://open.spotify.com/track/3hQC2nVz2db4Fkzq2g8KxE) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Last Christmas](https://open.spotify.com/album/29yymyZiWHuL5ZyJ3JEMRd) | 3:34 | 2024-11-21 | 2024-12-06 |
@@ -489,7 +490,7 @@
 | [Rome](https://open.spotify.com/track/3EeqxEASod30snAB9dePR0) | [Aimée Britannia](https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7) | [Rome](https://open.spotify.com/album/29EVH059QDp9V6TMKkrUtl) | 3:28 | 2025-10-03 | 2025-10-17 |
 | [Runner](https://open.spotify.com/track/6K566wKOjEE5YNcWztHtnJ) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Runner](https://open.spotify.com/album/4guZ1Kq4wUJB9soOCFIPbv) | 3:21 | 2025-07-03 | 2025-08-30 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-21 | 2025-03-21 |
-| [Sacrifice](https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:18 | 2025-08-21 |  |
+| [Sacrifice](https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:18 | 2025-08-21 | 2025-11-09 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-03-14 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-01-16 | 2025-04-11 |
 | [Salt & Lime](https://open.spotify.com/track/2AJtc0ASFIqKSNh9Mn9n1b) | [Rouxé](https://open.spotify.com/artist/3yGjyAxNng3PQFUw1RaSum), [BigDig](https://open.spotify.com/artist/0npVqd6cPBjPbDqvYaCNU7) | [Salt & Lime](https://open.spotify.com/album/1ka1vf8v3iSYXrI6Qu9Csi) | 3:39 | 2025-07-10 | 2025-07-18 |

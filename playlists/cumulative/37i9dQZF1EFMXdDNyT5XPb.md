@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 6 hr 9 min
+121 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adrenaline](https://open.spotify.com/track/2eR6FzowkVYAOBdZrO1VPj) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:30 | 2024-05-01 |  |
 | [Alive \(The Edge\) \[feat\. ROOKIES\]](https://open.spotify.com/track/739YZgrNRHLB0CDs2xfWFj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:13 | 2024-05-01 |  |
 | [All About a Girl](https://open.spotify.com/track/1KO9sRiIZhRDKpu7MAFkBV) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:15 | 2024-05-01 |  |
+| [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 | 2025-11-08 |  |
 | [All I Care About Is You](https://open.spotify.com/track/1rcEuqhEEc8GPbfNpxujBL) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:02 | 2024-05-01 | 2025-06-29 |
 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 | 2025-06-28 |  |
 | [All My Life](https://open.spotify.com/track/73GVjYWUni8NSkMkOfex1P) | [CHARLS](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [All My Life](https://open.spotify.com/album/0Ilv0FUHDwpsVM4YjxqQ6W) | 3:57 | 2024-05-01 |  |

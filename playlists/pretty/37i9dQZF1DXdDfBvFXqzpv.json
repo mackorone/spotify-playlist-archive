@@ -927,6 +927,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "papi bones (feat. shygirl)",
+      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/0BgqTlqcgaDljoUlVrOzwO"
       },
@@ -991,6 +1011,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Raging (feat. Kodaline)",
+        "url": "https://open.spotify.com/album/1lmuf0jQIFOnFOSV2x4RyX"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 224486,
+      "name": "Raging (feat. Kodaline)",
+      "url": "https://open.spotify.com/track/6DsFZITJMPnh8z5XewfVmL"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Me Gusta (with Cardi B & Myke Towers)",
         "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
       },
@@ -1011,46 +1051,6 @@
       "duration_ms": 180788,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "papi bones (feat. shygirl)",
-      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Raging (feat. Kodaline)",
-        "url": "https://open.spotify.com/album/1lmuf0jQIFOnFOSV2x4RyX"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 224486,
-      "name": "Raging (feat. Kodaline)",
-      "url": "https://open.spotify.com/track/6DsFZITJMPnh8z5XewfVmL"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "Malemolencia",
-      "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 194453,
       "name": "Let It Roll",
       "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "Malemolencia",
+      "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Postpone",
-      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Talkie Walkie",
         "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 223373,
       "name": "Surfing on a Rocket",
       "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Postpone",
+      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Purple Yellow Red and Blue",
-      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Rips in Jeans",
         "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 163459,
       "name": "Rips in Jeans",
       "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2022-11-02 14:00:00",

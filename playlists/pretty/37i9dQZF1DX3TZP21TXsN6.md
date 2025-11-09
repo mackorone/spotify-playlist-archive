@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Johnny Sellah, SKIEKS, WAWA en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,137 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,139 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 9 | [CRIP WALK](https://open.spotify.com/track/0VcGaolKJGsF0xMmslG3gX) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [CRIP WALK](https://open.spotify.com/album/4yAj58Ret1oxGVyisjMKNv) | 2:14 |
 | 10 | [100.000 Mistakes](https://open.spotify.com/track/3NXJXHUMrd3Hj3bAlPKaOj) | [Tramo](https://open.spotify.com/artist/6iScCoy2D7zw7MLWNZETTb), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [100.000 Mistakes](https://open.spotify.com/album/0ikY46np7sr8m4dH4Wr12k) | 2:08 |
 | 11 | [Kleine Man](https://open.spotify.com/track/3GZ5exMXuvvgUnV3SUtbXm) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp) | [Kleine Man](https://open.spotify.com/album/1ks92KUqypI0EaSSl00bin) | 3:00 |
-| 12 | [Voor Me Ex](https://open.spotify.com/track/4q3M1kvgLjocIwmqxuQl0w) | [FARAO](https://open.spotify.com/artist/5Ckvy2QqS5gUPOiPzCaXSm), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Voor Me Ex](https://open.spotify.com/album/1E5nAcMK8fZ7EM9d1f7xhe) | 2:03 |
+| 12 | [Voor m’n Ex](https://open.spotify.com/track/4q3M1kvgLjocIwmqxuQl0w) | [FARAO](https://open.spotify.com/artist/5Ckvy2QqS5gUPOiPzCaXSm), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Voor m’n Ex](https://open.spotify.com/album/1E5nAcMK8fZ7EM9d1f7xhe) | 2:03 |
 | 13 | [Minimaal 5m](https://open.spotify.com/track/6Uh96Ysg3UNteyZQejyZpo) | [Lavinnio](https://open.spotify.com/artist/4iJcUwlYdqkwZNVEiCJAYt), [Della](https://open.spotify.com/artist/7eWWFCSHZYcLaeRLkcuVEy) | [Minimaal 5m](https://open.spotify.com/album/32exJzhormqKITdYBX2U3E) | 2:52 |
 | 14 | [Poster](https://open.spotify.com/track/0I5ZwJITzR5BzbLq9XcQSK) | [Marou](https://open.spotify.com/artist/6XKHfRztUtj98C92TgOr41) | [Poster](https://open.spotify.com/album/3kUecw7iTj9i0XUcmjZ7v8) | 2:08 |
 | 15 | [Deuren](https://open.spotify.com/track/42jy2xGOTW1w8zsSf9HKMZ) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [DORTA](https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO) | [Deuren](https://open.spotify.com/album/5t07wAr09HD0LS0nEIPthD) | 2:30 |

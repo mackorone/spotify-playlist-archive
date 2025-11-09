@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 69 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
 | 70 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/2nuQAULY22Sm8s4LsALj84) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:08 |
 | 71 | [Over & Over](https://open.spotify.com/track/5yxZgGzAoRUntxuqBeiX7a) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Over & Over](https://open.spotify.com/album/1SAh2fP7h6BYUlNtZvlTj0) | 3:34 |
-| 72 | [Shock](https://open.spotify.com/track/6cS8DvSGYojElW2XB3NNVM) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Shock](https://open.spotify.com/album/4IPN0EOPic8pdQRRaNYW3A) | 2:22 |
-| 73 | [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 |
+| 72 | [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 |
+| 73 | [Shock](https://open.spotify.com/track/6cS8DvSGYojElW2XB3NNVM) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Shock](https://open.spotify.com/album/4IPN0EOPic8pdQRRaNYW3A) | 2:22 |
 | 74 | [Alone With You](https://open.spotify.com/track/6dy7jbH9rsUT3pZ68BBAsp) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/4RW0gk4pBLqsgmJ97vCsS8) | 4:36 |
 | 75 | [Feels Like](https://open.spotify.com/track/0LikEGIzNK5qoLtlCnhLn8) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [Puzzles](https://open.spotify.com/album/2tRCZOp6egFlp7ZINBNuaW) | 3:46 |
 | 76 | [Running](https://open.spotify.com/track/7nbie4Zppu51kPiEiKaZKD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:52 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 137 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 138 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AcA+3AAAAADznXNSi3SmCaRjWBpwoxAa`
+Snapshot ID: `AcBEpAAAAAByPr+1R5ioTY8Fq0tkBIZy`

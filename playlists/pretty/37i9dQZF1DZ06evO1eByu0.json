@@ -1,33 +1,13 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162411,
+  "num_followers": 162412,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABP+8LoPUxCapJMIC0eeXRU",
+  "snapshot_id": "aQ02gAAAAABGtdwKHU4SalwvWILfYCRn",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "ImaginAline Vol. 1",
-        "url": "https://open.spotify.com/album/3elIuQQa3iiBMjXjOwmhWP"
-      },
-      "artists": [
-        {
-          "name": "ImaginAline",
-          "url": "https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 171892,
-      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5r5jvQaOVreZYuxMLkulSE"
-    },
     {
       "added_at": null,
       "album": {
@@ -859,6 +839,26 @@
       "duration_ms": 185480,
       "name": "O Barco Balan\u00e7ou",
       "url": "https://open.spotify.com/track/1XoHbczW2WUPOJAUTmXLz5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Nazareno",
+        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "O Nazareno",
+      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
     }
   ],
   "unique_name": "This Is Aline Barros",

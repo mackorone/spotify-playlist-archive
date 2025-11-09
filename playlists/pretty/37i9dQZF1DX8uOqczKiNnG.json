@@ -1,6 +1,6 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 99891,
+  "num_followers": 99901,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
         }
       ],
-      "duration_ms": 175520,
-      "name": "Fuiste M\u00eda un Verano",
-      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
         }
       ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+      "duration_ms": 175520,
+      "name": "Fuiste M\u00eda un Verano",
+      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x"
-      },
-      "artists": [
-        {
-          "name": "Tango",
-          "url": "https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Amor de Primavera",
-      "url": "https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Cuero Caliente",
         "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 222693,
       "name": "El Momento En Que Est\u00e1s",
       "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x"
+      },
+      "artists": [
+        {
+          "name": "Tango",
+          "url": "https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Amor de Primavera",
+      "url": "https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC"
     },
     {
       "added_at": "2024-06-12 23:42:51",

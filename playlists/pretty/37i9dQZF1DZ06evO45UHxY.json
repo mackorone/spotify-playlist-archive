@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAC3BHyDQFCJSREpodqOqTiE",
+  "snapshot_id": "aQ02gAAAAAAoL9KBVvLTog4TZ3TT0O6S",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tropicalandia",
+        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Me Vas a Querer",
+      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baladas de Banda",
         "url": "https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO"
       },
@@ -556,41 +572,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 175368,
-      "name": "Pies de Chicle",
-      "url": "https://open.spotify.com/track/1UPH534fJWHjmlgNkntVxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tropicalandia",
-        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Me Vas a Querer",
-      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Califas y Sus Cumbias Calientes, Vol. 1",
-        "url": "https://open.spotify.com/album/5oPRkto48eDXdlHehBWY4I"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Mu\u00e9veme el Pollo",
-      "url": "https://open.spotify.com/track/0V2BArW7hihAeaHorTRkfE"
+      "duration_ms": 184006,
+      "name": "El Traficante",
+      "url": "https://open.spotify.com/track/584f81SKtZ8du0bfsz8mNM"
     },
     {
       "added_at": null,
@@ -611,6 +595,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Califas y Sus Cumbias Calientes, Vol. 1",
+        "url": "https://open.spotify.com/album/5oPRkto48eDXdlHehBWY4I"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Mu\u00e9veme el Pollo",
+      "url": "https://open.spotify.com/track/0V2BArW7hihAeaHorTRkfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Tropical, Vol. 8",
+        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Cumbiando Con Zeta",
+      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorprendente",
         "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
       },
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 184006,
-      "name": "El Traficante",
-      "url": "https://open.spotify.com/track/584f81SKtZ8du0bfsz8mNM"
+      "duration_ms": 175368,
+      "name": "Pies de Chicle",
+      "url": "https://open.spotify.com/track/1UPH534fJWHjmlgNkntVxy"
     },
     {
       "added_at": null,
@@ -659,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Tropical, Vol. 8",
-        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
+        "name": "Tropicalandia, Vol. II",
+        "url": "https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc"
       },
       "artists": [
         {
@@ -668,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Cumbiando Con Zeta",
-      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
+      "duration_ms": 210653,
+      "name": "Dime Lo Que Quieras",
+      "url": "https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
       "duration_ms": 180001,
       "name": "Cobardemente",
       "url": "https://open.spotify.com/track/2FiUBzxN2JsGcIoQnKyBg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tropicalandia, Vol. II",
-        "url": "https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Dime Lo Que Quieras",
-      "url": "https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A"
     },
     {
       "added_at": null,

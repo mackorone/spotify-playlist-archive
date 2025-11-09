@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,314 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,284 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [Amo](https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Amo](https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1) | 3:39 |
 | 75 | [Va Pa' Largo](https://open.spotify.com/track/5hUUPFyteR0Fdiewtwj3EP) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Va Pa' Largo](https://open.spotify.com/album/1zedRAmOvIjof8CUNCNFog) | 2:43 |
 
-Snapshot ID: `AAAAAHjwmR07um3Q/vrKPB+V1SxSg0Q2`
+Snapshot ID: `AAAAAJH54REFBIjqQDIElUjwEz/uqnWx`

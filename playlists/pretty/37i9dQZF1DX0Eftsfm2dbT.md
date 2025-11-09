@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Charlu
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,059 likes - 97 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,067 likes - 97 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 6 | [Mad Japanese](https://open.spotify.com/track/3QNnLFh8a9798ttghZoQJr) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Cahier](https://open.spotify.com/album/7IzV57bt9rfbrNuDRoSpoa) | 2:07 |
 | 7 | [FR WIFI](https://open.spotify.com/track/53KgUEleZumOJqpyLYYZmF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FR WIFI](https://open.spotify.com/album/68Xc6nf9ZXXuGllxaANgIa) | 2:02 |
 | 8 | [Summertime Freestyle ’25 \(feat\. Campanella\) \- Remix](https://open.spotify.com/track/3f6V7L0cQ285G8r7hivwqu) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [Summertime Freestyle ’25 \(feat\. Campanella\) \[Remix\]](https://open.spotify.com/album/4kqCj74Thj25tE7E3MnvSi) | 3:40 |
-| 9 | [この街](https://open.spotify.com/track/78QP0s0aIDU7oxdxXHlEvE) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [この街](https://open.spotify.com/album/4so3JXt9CEWwvDC3RO6ZrU) | 3:08 |
+| 9 | [この街](https://open.spotify.com/track/78QP0s0aIDU7oxdxXHlEvE) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [salasa](https://open.spotify.com/artist/7fTXmRaHT8PVQs2GSHJEr5) | [この街](https://open.spotify.com/album/4so3JXt9CEWwvDC3RO6ZrU) | 3:08 |
 | 10 | [Crown \(feat\. 7\)](https://open.spotify.com/track/2Q0Yo5PjgoMNw5QWKUeySD) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Crown \(feat\. 7\)](https://open.spotify.com/album/0JXmXd8jh6ydRdKfEYO1nW) | 2:27 |
 | 11 | [Dear Friends \(feat\. Shuto, Miyauchi & dengaryu\)](https://open.spotify.com/track/3mKjSJfHlLzuKUQTLYWa4V) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Shuto](https://open.spotify.com/artist/25LbZVdqAdvceFjT5kSjIH), [Miyauchi](https://open.spotify.com/artist/3aj6QgNq3sqlvW2PvB3bCB), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Dear Friends \(feat\. Shuto, Miyauchi & dengaryu\)](https://open.spotify.com/album/52qL8YELixUNGobelet4df) | 3:29 |
 | 12 | [Blood In My Hood](https://open.spotify.com/track/0liqMNwIAWrP0R8FNmiimd) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Blood In My Hood](https://open.spotify.com/album/58eNZah36Wsn5QLD95HQxH) | 3:17 |

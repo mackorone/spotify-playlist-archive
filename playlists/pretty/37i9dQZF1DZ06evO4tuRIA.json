@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 99800,
+  "num_followers": 99825,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACF9R9H2G0bpmx1Jh6WO10I",
+  "snapshot_id": "aQ02gAAAAABj0EcP06P23acfDmgCxhnp",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tito Torbellino Jr.",
-          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
-        }
-      ],
-      "duration_ms": 169877,
-      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
-      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/48Mp7g8NKCWL2otrKdmY9m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tito Torbellino Jr.",
+          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
+        }
+      ],
+      "duration_ms": 169877,
+      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
+      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 141197,
+      "name": "El Amor No Va Conmigo",
+      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 194929,
       "name": "Chevrolet 4X4",
       "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 141197,
-      "name": "El Amor No Va Conmigo",
-      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
     },
     {
       "added_at": null,
@@ -775,22 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
       "artists": [
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 164790,
-      "name": "De Bajo Perfil",
-      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
+      "duration_ms": 191652,
+      "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
     },
     {
       "added_at": null,
@@ -819,26 +823,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+        "name": "Niveleando Cuh II",
+        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 191652,
-      "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
+      "duration_ms": 164790,
+      "name": "De Bajo Perfil",
+      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        }
+      ],
+      "duration_ms": 159509,
+      "name": "LOS ESPA\u00d1OLES",
+      "url": "https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
       "duration_ms": 159486,
       "name": "Bien Motivado (feat. Banda La Fantastica)",
       "url": "https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        }
-      ],
-      "duration_ms": 159509,
-      "name": "LOS ESPA\u00d1OLES",
-      "url": "https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L7X",
         "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 150144,
       "name": "EN VERGUIZA",
       "url": "https://open.spotify.com/track/21Kwv0vWICbiM5OBSzGDuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
     },
     {
       "added_at": null,

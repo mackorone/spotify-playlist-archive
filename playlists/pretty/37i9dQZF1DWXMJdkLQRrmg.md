@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,033 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,074 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 57 | [City of Angels \(Acoustic\)](https://open.spotify.com/track/7Jw6Rs78eNe7PfnYz8lRII) | [Jared Leto](https://open.spotify.com/artist/3CtGQ3zIoltHY9CYiuY7op), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Dallas Buyers Club \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5Eq7NDVWgHCPnkLloTg36m) | 4:26 |
 | 58 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
 | 59 | [Muscle Museum \- Live Acoustic Version KCRW 8/3/99](https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Muscle Museum](https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU) | 4:44 |
-| 60 | [blindfolded \(acoustic\)](https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded \(acoustic\)](https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW) | 3:24 |
-| 61 | [Unintended \- Acoustic Version](https://open.spotify.com/track/2rx43ysBD4sXw5CuhsAWPT) | [Matt Bellamy](https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR) | [Unintended \[Acoustic Version\]](https://open.spotify.com/album/4h1Etv3O9PHFBwpiZJ8L5b) | 4:02 |
+| 60 | [Unintended \- Acoustic Version](https://open.spotify.com/track/2rx43ysBD4sXw5CuhsAWPT) | [Matt Bellamy](https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR) | [Unintended \[Acoustic Version\]](https://open.spotify.com/album/4h1Etv3O9PHFBwpiZJ8L5b) | 4:02 |
+| 61 | [blindfolded \(acoustic\)](https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded \(acoustic\)](https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW) | 3:24 |
 | 62 | [Sleepwalking \- Unplugged](https://open.spotify.com/track/1oADRDNPNzmNl50HRiQhQD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking Reimagined](https://open.spotify.com/album/2f8uR6f3g5RbcQbP9PFOC6) | 2:55 |
 | 63 | [Like a Child \- Piano Demo](https://open.spotify.com/track/7wZmK348C8gLNsrnlGZP0P) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:37 |
 | 64 | [Feels Like Falling in Love \- Alternate Version](https://open.spotify.com/track/0pzeklIkrqOfc1eeleQ3px) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Feels Like Falling in Love \(Alternate Version\)](https://open.spotify.com/album/5mFDzpbFYmeiHKEEumKXyt) | 3:58 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 69 | [Raised By Wolves \- Acoustic](https://open.spotify.com/track/3XRmEtVkmKIPmDVoM8VY7u) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Raised By Wolves \(Acoustic\)](https://open.spotify.com/album/4tHRq8E2f6Vjcmr5geYZU4) | 3:12 |
 | 70 | [Plastic Heart \- Acoustic](https://open.spotify.com/track/5qzW6FTcGGmV6oRmIefnQf) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart \(Acoustic\)](https://open.spotify.com/album/48kvEsX3tVZ0kSjWLKI1mF) | 2:55 |
 | 71 | [Something Loud \(Acoustic Version\)](https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud \(Acoustic Version\)](https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v) | 3:20 |
-| 72 | [Never Said Goodbye \- Stripped](https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Never Said Goodbye \(Stripped\)](https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj) | 3:22 |
-| 73 | [The Liars Club \- Acoustic](https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club \(Acoustic\)](https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG) | 4:12 |
+| 72 | [The Liars Club \- Acoustic](https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club \(Acoustic\)](https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG) | 4:12 |
+| 73 | [Never Said Goodbye \- Stripped](https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Never Said Goodbye \(Stripped\)](https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj) | 3:22 |
 | 74 | [Complete Collapse \- Acoustic](https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Acoustic\)](https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64) | 3:04 |
 | 75 | [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 |
 

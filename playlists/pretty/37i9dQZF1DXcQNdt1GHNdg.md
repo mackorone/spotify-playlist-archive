@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,027 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,214 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 8 | [Ranjhea](https://open.spotify.com/track/0XzQsVLirMJgbQXXc1mPYb) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 2:38 |
 | 9 | [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 |
 | 10 | [Dhurandhar \- Title Track \(From "Dhurandhar"\)](https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Charanjit Ahuja](https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj), [Muhammad Sadiq](https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD), [Ranjit Kaur](https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY), [Babu Singh Maan](https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d) | [Dhurandhar \- Title Track \(From "Dhurandhar"\)](https://open.spotify.com/album/6WN60ZpoljxxwYluAGxvqn) | 2:35 |
-| 11 | [Vailly](https://open.spotify.com/track/4als7gBOm186193CZM94l1) | [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Vailly](https://open.spotify.com/album/1R2dCRsPOl8PwFia117B8f) | 2:53 |
+| 11 | [Vailly](https://open.spotify.com/track/4als7gBOm186193CZM94l1) | [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Vailly](https://open.spotify.com/album/1R2dCRsPOl8PwFia117B8f) | 2:53 |
 | 12 | [Jatt Anthem 2.0](https://open.spotify.com/track/5G813j7wexBQBTOJY4aRWn) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Desi Rockstar 3](https://open.spotify.com/album/4ECLwdMJqkSbrqFNY4Cu1U) | 3:05 |
 | 13 | [3am In Gillco](https://open.spotify.com/track/1oMW4IqpV4ulyFYk16YzSl) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [3am In Gillco](https://open.spotify.com/album/2xKR9o0kFAitgPrfymGw5t) | 3:19 |
 | 14 | [KALA JADOO](https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [KALA JADOO](https://open.spotify.com/album/3wnuRJKW9gBIeG2hrP3Tf4) | 2:46 |

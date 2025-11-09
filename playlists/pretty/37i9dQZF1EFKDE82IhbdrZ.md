@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,457 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,7 +286,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 276 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 |
 | 277 | [Those Days](https://open.spotify.com/track/2MFZ0TXAD6FfLNYnpwdM1E) | [Taylor Berrett](https://open.spotify.com/artist/1tCanPo942hgj1AMNaGU88) | [Great Falls](https://open.spotify.com/album/3BBBzg7Gp3PuAw1uXYza9m) | 3:38 |
 | 278 | [Girls Like To Dance](https://open.spotify.com/track/0yz6Foxl87rSSCybnVf48g) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:46 |
-| 279 | [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 |
+| 279 | [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/07ecu4L3OlVaE3r4TcxBe1) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 |
 | 280 | [GETTING GOOD](https://open.spotify.com/track/7u9qDUSnIWLw1LGXqZTOas) | [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm) | [GETTING GOOD](https://open.spotify.com/album/3zG9QIML4blpU1el4tRu7x) | 3:51 |
 | 281 | [Cooter Huntin'](https://open.spotify.com/track/18hqKr0aVnYl96uizjyzLc) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Must Be The Country](https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6) | 3:46 |
 | 282 | [Do Me Wrong](https://open.spotify.com/track/2SKAnc55tnFHfBW3f5ng7D) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 2:40 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcA+vgAAAADR7ojF4F/fyFUU4xpwDiUn`
+Snapshot ID: `AcBEmgAAAADK6bc5S7H+y7Jx84h+Oog+`

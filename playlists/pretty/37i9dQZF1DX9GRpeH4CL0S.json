@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 810372,
+  "num_followers": 810462,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 269373,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
       "artists": [
         {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/7ysDeat0kDelEE7M6MUwXZ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 277840,
       "name": "Show Me How to Live",
       "url": "https://open.spotify.com/track/21tuvt3CXIsNquc32v8jpc"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Hounds of Love (2018 Remaster)",
         "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2727,6 +2727,22 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Banquet",
+      "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/6Gv1zpuMsO4XfWSw22YQhP"
       },
@@ -2759,18 +2775,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
       },
       "artists": [
         {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Banquet",
-      "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2787,22 +2803,6 @@
       "duration_ms": 279293,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Everything All The Time",
         "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
       },
@@ -3075,6 +3059,22 @@
       "duration_ms": 211546,
       "name": "Cute Without the \"E\" (Cut From the Team)",
       "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Kid A",
-        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Idioteque",
-      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Definitely Maybe",
         "url": "https://open.spotify.com/album/4wXjHwpYza7sCw1vKKSfOm"
       },
@@ -3219,6 +3203,22 @@
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/6etTGUYDxGHcqHYI4xBr1w"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Kid A",
+        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Idioteque",
+      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
     }
   ],
   "unique_name": "Essential Alternative",

@@ -4,7 +4,7 @@
 
 > Pumpkin Spice everything  🧡
 
-348 songs - 18 hr 34 min
+349 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dieser Sommer](https://open.spotify.com/track/1mNZy3V8CrvH3MolrOuhjA) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Dieser Sommer](https://open.spotify.com/album/3he4eOv3L7dCAF0ree527e) | 2:06 | 2025-05-22 | 2025-07-20 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-26 |  |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-07-26 |  |
+| [Divinize](https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:03 | 2025-11-07 |  |
 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-07-26 | 2023-10-28 |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-07-26 | 2024-04-19 |
 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 | 2024-04-19 | 2024-07-02 |
@@ -145,7 +146,7 @@
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2024-01-19 | 2025-08-02 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-09-26 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-19 | 2025-08-02 |
-| [ich glaub ich](https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [ich glaub ich](https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN) | 2:46 | 2025-10-16 |  |
+| [ich glaub ich](https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [ich glaub ich](https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN) | 2:46 | 2025-10-16 | 2025-11-09 |
 | [impstr](https://open.spotify.com/track/5TVdAbllNYNBXQhG0h74lY) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [impstr](https://open.spotify.com/album/5TxPb4YrQ6LUz3RY9Jgohr) | 2:46 | 2023-10-27 | 2023-11-10 |
 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-11-09 | 2024-12-21 |
 | [In Der Zeit Verlieren](https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [alfons.](https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin) | [In Der Zeit Verlieren](https://open.spotify.com/album/131JPd43brI7u4ad651rj8) | 2:38 | 2024-04-19 |  |

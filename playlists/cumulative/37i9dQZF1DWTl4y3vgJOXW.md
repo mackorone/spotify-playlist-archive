@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Giannis Antetokounmpo
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Aaron Gordon
 
 858 songs - 1 day 19 hr 51 min
 

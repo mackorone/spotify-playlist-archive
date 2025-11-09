@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 463626,
+  "num_followers": 463555,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "FREAKY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
         "name": "SLUT ME OUT (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "FREAKY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
     },
     {
       "added_at": "2025-06-20 04:00:58",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "You Don\u2019t Love Me",
-        "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 157332,
-      "name": "You Don\u2019t Love Me",
-      "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 212293,
       "name": "FINE AS CAN BE (feat. Latto)",
       "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
+        "name": "You Don\u2019t Love Me",
+        "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 157332,
+      "name": "You Don\u2019t Love Me",
+      "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
     }
   ],
   "unique_name": "Pressure",

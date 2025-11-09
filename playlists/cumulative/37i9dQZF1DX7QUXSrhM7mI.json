@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 187787,
       "name": "First Love",
       "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
@@ -4816,6 +4816,24 @@
       "duration_ms": 140482,
       "name": "Something Stupid",
       "url": "https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS"
+    },
+    {
+      "album": {
+        "name": "Something You Do",
+        "url": "https://open.spotify.com/album/5nva0GpwF5LjRvjdNKLOxM"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Lomis",
+          "url": "https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199078,
+      "name": "Something You Do",
+      "url": "https://open.spotify.com/track/61G7t6N3nAgdUSCHaKMXSt"
     },
     {
       "album": {

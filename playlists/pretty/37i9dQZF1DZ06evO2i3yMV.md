@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,585 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,588 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 33 | [Floating \- feat\. Candy Crush Saga](https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Floating \(feat\. Candy Crush Saga\)](https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t) | 2:53 |
 | 34 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 |
 | 35 | [Soul to Seoul](https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:29 |
-| 36 | [Strange Froot](https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Young Art Sound II](https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH) | 2:33 |
-| 37 | [Death by Disco](https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:57 |
+| 36 | [Death by Disco](https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:57 |
+| 37 | [Strange Froot](https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Young Art Sound II](https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH) | 2:33 |
 | 38 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 |
 | 39 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
 | 40 | [Switch It](https://open.spotify.com/track/4wAQAt1l5Wb4E85TOHf7VE) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 49 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 50 | [Lune](https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:02 |
 
-Snapshot ID: `aQvlAAAAAAAcN3HY/uXvc4eognYI7yFH`
+Snapshot ID: `aQ02gAAAAABdez79ihQSqDm2IbmVUvwZ`

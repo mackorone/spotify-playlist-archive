@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 475119,
+  "num_followers": 475337,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -174,6 +174,10 @@
         {
           "name": "Malaa",
           "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Rich Rocka",
+          "url": "https://open.spotify.com/artist/5zyFGZT9upznN1km4yW6GQ"
         }
       ],
       "duration_ms": 196576,
@@ -1181,24 +1185,20 @@
       "url": "https://open.spotify.com/track/6M0SaRmFS11nGhw1UfosW1"
     },
     {
-      "added_at": "2025-08-08 04:00:44",
+      "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "Whiplash",
-        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+        "name": "Shook Ones, PT. III",
+        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "SOFI",
-          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
         }
       ],
-      "duration_ms": 195114,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
+      "duration_ms": 218398,
+      "name": "Shook Ones, PT. III",
+      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
     },
     {
       "added_at": "2025-10-17 04:00:51",
@@ -1221,20 +1221,24 @@
       "url": "https://open.spotify.com/track/6TAMsRE0hTKQUUJNTd2hKc"
     },
     {
-      "added_at": "2025-09-12 04:00:12",
+      "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Shook Ones, PT. III",
-        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
       },
       "artists": [
         {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
         }
       ],
-      "duration_ms": 218398,
-      "name": "Shook Ones, PT. III",
-      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
+      "duration_ms": 195114,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1547,22 +1551,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "You Love It",
-        "url": "https://open.spotify.com/album/4i0ATZ8vK7NOfeX7WXYJlg"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "You Love It",
-      "url": "https://open.spotify.com/track/77VuGG7OFBluUr4rbsXNWa"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "Force",
         "url": "https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK"
       },
@@ -1579,6 +1567,62 @@
       "duration_ms": 164544,
       "name": "Force",
       "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "You Love It",
+        "url": "https://open.spotify.com/album/4i0ATZ8vK7NOfeX7WXYJlg"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "You Love It",
+      "url": "https://open.spotify.com/track/77VuGG7OFBluUr4rbsXNWa"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Count On You",
+        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Count On You",
+      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
       "added_at": "2025-09-26 04:00:09",
@@ -1603,42 +1647,18 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Grove St. Party",
-        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
       },
       "artists": [
         {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
         }
       ],
-      "duration_ms": 170307,
-      "name": "Grove St. Party",
-      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Count On You",
-        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Sian-Lee",
-          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Count On You",
-      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2025-09-19 04:00:36",
@@ -1691,82 +1711,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Rock My World",
-        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Rock My World",
-      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
-    },
-    {
-      "added_at": "2025-10-10 04:00:35",
-      "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "FOREIGN",
         "url": "https://open.spotify.com/album/5jrKedsVRq5yQFIRq7m6Jc"
       },
@@ -1791,6 +1735,66 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Puku",
+          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Rock My World",
+      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2025-10-10 04:00:35",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
       },
@@ -1807,6 +1811,34 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "THE MADNESS (With I.D.O.)",
+        "url": "https://open.spotify.com/album/1kMwgaN52w0jP58pbuhO84"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        },
+        {
+          "name": "I.D.O.",
+          "url": "https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe"
+        }
+      ],
+      "duration_ms": 193376,
+      "name": "THE MADNESS (With I.D.O.)",
+      "url": "https://open.spotify.com/track/7GYaiFYGr2AXZgEIjSLtm6"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1875,34 +1907,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "THE MADNESS (With I.D.O.)",
-        "url": "https://open.spotify.com/album/1kMwgaN52w0jP58pbuhO84"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        },
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        },
-        {
-          "name": "I.D.O.",
-          "url": "https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe"
-        }
-      ],
-      "duration_ms": 193376,
-      "name": "THE MADNESS (With I.D.O.)",
-      "url": "https://open.spotify.com/track/7GYaiFYGr2AXZgEIjSLtm6"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
       },
@@ -1941,22 +1945,6 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2025-08-29 04:00:41",
-      "album": {
-        "name": "Rockin",
-        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Rockin",
-      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
-    },
-    {
       "added_at": "2025-08-08 04:00:44",
       "album": {
         "name": "MAMI",
@@ -1977,6 +1965,22 @@
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     },
     {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Rockin",
+        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Rockin",
+      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
+    },
+    {
       "added_at": "2025-08-22 04:00:29",
       "album": {
         "name": "Mind Eraser",
@@ -1995,22 +1999,6 @@
       "duration_ms": 193125,
       "name": "Mind Eraser",
       "url": "https://open.spotify.com/track/4Pqea5CRhmJZjn4VytoUPf"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "No Matter",
-        "url": "https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "No Matter",
-      "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2035,6 +2023,22 @@
       "duration_ms": 225000,
       "name": "N9",
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
     },
     {
       "added_at": "2025-09-19 04:00:36",
@@ -2227,6 +2231,22 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Reposado",
+        "url": "https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Reposado",
+      "url": "https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Something To Believe In",
         "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
       },
@@ -2239,22 +2259,6 @@
       "duration_ms": 146953,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Red Velvet",
-        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Red Velvet",
-      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
     },
     {
       "added_at": "2025-08-29 04:00:41",
@@ -2319,18 +2323,18 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Reposado",
-        "url": "https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS"
+        "name": "Red Velvet",
+        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
       },
       "artists": [
         {
-          "name": "OKAYVAL",
-          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         }
       ],
-      "duration_ms": 182769,
-      "name": "Reposado",
-      "url": "https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3"
+      "duration_ms": 168440,
+      "name": "Red Velvet",
+      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
     },
     {
       "added_at": "2025-08-08 04:00:44",

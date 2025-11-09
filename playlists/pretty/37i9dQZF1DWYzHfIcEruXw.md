@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,577 likes - 74 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,612 likes - 74 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 73 | [Crow Song](https://open.spotify.com/track/3gvA4qesNQ2HyBVr34i1q3) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/6zdGnjO1xFsPr3eEIrjQec) | 4:08 |
 | 74 | [Timeless](https://open.spotify.com/track/28w02Xi8OGUwnilatNXR4r) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [Timeless](https://open.spotify.com/album/30cP6HQWCsakG0Anp9opBx) | 3:55 |
 
-Snapshot ID: `AAAAAI+RHCuKE2bqfNVI7xHIi7EO2nTN`
+Snapshot ID: `AAAAAOx65pCnjm1a8gOBHL/NeRSm0o0g`

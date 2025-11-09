@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 817058,
+  "num_followers": 817148,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-09-26 04:00:16",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
-    },
-    {
-      "added_at": "2025-09-26 04:00:16",
-      "album": {
         "name": "Mr. Saturday Night",
         "url": "https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 186549,
       "name": "Mr. Saturday Night",
       "url": "https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH"
+    },
+    {
+      "added_at": "2025-09-26 04:00:16",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2025-09-26 04:00:16",

@@ -4,7 +4,7 @@
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 7 min
+30 songs - 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [It Was Yesterday](https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:05 | 2025-07-20 |  |
 | [La canción de Bluey \(Español \- Latinoamérica\)](https://open.spotify.com/track/18oXrfb62Kn2GtU2Kqi4qM) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [La canción de Bluey \(Español \- Latinoamérica\)](https://open.spotify.com/album/6WTHRiGPgH0ZsIROsUkkB5) | 1:04 | 2025-07-20 |  |
 | [Le générique de Bluey \(French Version\)](https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Le générique de Bluey \(French Version\)](https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi) | 1:04 | 2025-07-20 | 2025-10-21 |
+| [Let's Play Verandah Santa](https://open.spotify.com/track/5RHu1lEOgISB5oPiU34clO) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Joseph Twist](https://open.spotify.com/artist/4vqRn6DNiHVKFn8CEdNpW9) | [Verandah Santa](https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ) | 2:46 | 2025-11-09 |  |
 | [Lollipop Yum Yum Yum](https://open.spotify.com/track/3GbQCr7UQdmrmQ195pYPHQ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:01 | 2025-07-20 | 2025-09-02 |
 | [Muffin Drive](https://open.spotify.com/track/4mzi4GUFtCoLLmNUd9jTzh) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:10 | 2025-07-20 |  |
 | [Octopus \(feat\. King Stingray\)](https://open.spotify.com/track/2SYVVaCRhGLLdTxHqfqJGY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Octopus \(feat\. King Stingray\)](https://open.spotify.com/album/5R9jx9v2UWrFaF4QXjHWsn) | 2:41 | 2025-07-20 | 2025-11-03 |

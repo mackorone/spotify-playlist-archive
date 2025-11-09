@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 562015,
+  "num_followers": 562026,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
+        "name": "Tolong",
+        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 250322,
+      "name": "Tolong",
+      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
         "name": "I Just Couldn't Save You Tonight (Story of Kale - Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 219600,
       "name": "I Just Couldn't Save You Tonight - Story of Kale - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
-        "name": "Tolong",
-        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 250322,
-      "name": "Tolong",
-      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
     },
     {
       "added_at": "2025-05-05 23:09:10",

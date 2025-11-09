@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Soundtype",
-  "num_followers": 47236,
+  "num_followers": 47260,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,22 @@
     {
       "added_at": "2025-11-05 01:43:43",
       "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+        "name": "Asleep Above Creatures",
+        "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
       },
       "artists": [
         {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+          "name": "Misaki Umei",
+          "url": "https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO"
+        },
+        {
+          "name": "Antonio Loureiro",
+          "url": "https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD"
         }
       ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+      "duration_ms": 291040,
+      "name": "Go around in circles",
+      "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
     },
     {
       "added_at": "2025-11-05 01:43:43",
@@ -307,22 +311,18 @@
     {
       "added_at": "2025-11-05 01:43:43",
       "album": {
-        "name": "Asleep Above Creatures",
-        "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
       "artists": [
         {
-          "name": "Misaki Umei",
-          "url": "https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO"
-        },
-        {
-          "name": "Antonio Loureiro",
-          "url": "https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD"
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
         }
       ],
-      "duration_ms": 291040,
-      "name": "Go around in circles",
-      "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     },
     {
       "added_at": "2025-11-05 01:43:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-05 01:43:43",
       "album": {
-        "name": "Zatto",
-        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
-      },
-      "artists": [
-        {
-          "name": "Nariaki",
-          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
-        }
-      ],
-      "duration_ms": 367966,
-      "name": "Zatto",
-      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
-    },
-    {
-      "added_at": "2025-11-05 01:43:43",
-      "album": {
         "name": "Two of Me (From \"Star Wars: Visions Vol. 3 - BLACK\")",
         "url": "https://open.spotify.com/album/45WO6jELMPfhOh5aGGi46X"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 448633,
       "name": "Two of Me - From \"Star Wars: Visions Vol. 3 - BLACK\"",
       "url": "https://open.spotify.com/track/788HcUEG6qDMhyBUOcSv8V"
+    },
+    {
+      "added_at": "2025-11-05 01:43:43",
+      "album": {
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "duration_ms": 367966,
+      "name": "Zatto",
+      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
     },
     {
       "added_at": "2025-11-05 01:43:43",
@@ -631,6 +631,26 @@
     {
       "added_at": "2025-11-05 01:43:43",
       "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz"
+      },
+      "artists": [
+        {
+          "name": "Nao Kodama",
+          "url": "https://open.spotify.com/artist/1W2RWaK40Bo6xTSgkPAPNL"
+        },
+        {
+          "name": "THE BED ROOM TAPE",
+          "url": "https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk"
+        }
+      ],
+      "duration_ms": 176647,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/3ftvzizngsBG6wkmkLbcZr"
+    },
+    {
+      "added_at": "2025-11-05 01:43:43",
+      "album": {
         "name": "Singularity",
         "url": "https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS"
       },
@@ -799,22 +819,6 @@
     {
       "added_at": "2025-11-05 01:43:43",
       "album": {
-        "name": "Mangalitza",
-        "url": "https://open.spotify.com/album/6xN1h5RJ2NHtpETgnlGRul"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Mangalitza",
-      "url": "https://open.spotify.com/track/7DWtk6QvKl0k9Bk0jvnEyl"
-    },
-    {
-      "added_at": "2025-11-05 01:43:43",
-      "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
@@ -831,18 +835,18 @@
     {
       "added_at": "2025-11-05 01:43:43",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc"
+        "name": "Mangalitza",
+        "url": "https://open.spotify.com/album/6xN1h5RJ2NHtpETgnlGRul"
       },
       "artists": [
         {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 262311,
-      "name": "Love Theme From Spartacus",
-      "url": "https://open.spotify.com/track/7lhUU1b6OTUIxSYd4gmZwh"
+      "duration_ms": 183000,
+      "name": "Mangalitza",
+      "url": "https://open.spotify.com/track/7DWtk6QvKl0k9Bk0jvnEyl"
     },
     {
       "added_at": "2025-11-05 01:43:43",
@@ -875,22 +879,18 @@
     {
       "added_at": "2025-11-05 01:43:43",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc"
       },
       "artists": [
         {
-          "name": "Nao Kodama",
-          "url": "https://open.spotify.com/artist/1W2RWaK40Bo6xTSgkPAPNL"
-        },
-        {
-          "name": "THE BED ROOM TAPE",
-          "url": "https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk"
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
         }
       ],
-      "duration_ms": 176647,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/3ftvzizngsBG6wkmkLbcZr"
+      "duration_ms": 262311,
+      "name": "Love Theme From Spartacus",
+      "url": "https://open.spotify.com/track/7lhUU1b6OTUIxSYd4gmZwh"
     },
     {
       "added_at": "2025-11-05 01:43:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,269 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,295 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 2 | [Calling for Peace](https://open.spotify.com/track/4buW4ERMvr8u1QTG2k9Jl5) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Faders](https://open.spotify.com/artist/1to02GbmzsvkwAWDtKNtwn) | [Sacred Geometry](https://open.spotify.com/album/0CYafEex5MyTsJUfScXI3b) | 8:59 |
 | 3 | [Crazy People \- Victor Ruiz Remix](https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Crazy People \(Victor Ruiz Remix\)](https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac) | 7:14 |
 | 4 | [Gracias a la Vida \- Victor Ruiz Remix](https://open.spotify.com/track/5vUYZ2rVqQHkZufW6PWmwF) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Gracias a la Vida \(Victor Ruiz Remix\)](https://open.spotify.com/album/4gvBFJbHDzyXIKK96hK0Jz) | 6:25 |
-| 5 | [Everything Done](https://open.spotify.com/track/66nRIVQe3VCVha8TpWb7DU) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS), [JØR](https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG) | [Various Artist, Vol\. 6 \- 4 Years](https://open.spotify.com/album/6zKrUCc1yKmlLtEiexsq2A) | 6:18 |
+| 5 | [Everything Done](https://open.spotify.com/track/66nRIVQe3VCVha8TpWb7DU) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS), [JOR](https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG) | [Various Artist, Vol\. 6 \- 4 Years](https://open.spotify.com/album/6zKrUCc1yKmlLtEiexsq2A) | 6:18 |
 | 6 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
 | 7 | [Na Le \- Phaxe Remix](https://open.spotify.com/track/2TbB5iWJtLRCP7xIy8Zh5E) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN) | [Na Le \(Phaxe Remix\)](https://open.spotify.com/album/6caV8eLYgWB5g93DNeZXvE) | 6:58 |
 | 8 | [WIND](https://open.spotify.com/track/1UhzFALHc9kjh3UqRJjR02) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [WIND](https://open.spotify.com/album/63He7s0muq7kACjVOGszvC) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Billyrrom \*👉 <a href="https://spice.eplus.jp/articles/341877">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,279 likes - 95 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,286 likes - 95 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 61 | [SPEEDY](https://open.spotify.com/track/1JI4JA7l6zU1Nt4lume1xO) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [SPEEDY](https://open.spotify.com/album/1yZUe1BXtIvTvI4h9adP6h) | 3:05 |
 | 62 | [Crown \(feat\. 7\)](https://open.spotify.com/track/2Q0Yo5PjgoMNw5QWKUeySD) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Crown \(feat\. 7\)](https://open.spotify.com/album/0JXmXd8jh6ydRdKfEYO1nW) | 2:27 |
 | 63 | [バイオリン](https://open.spotify.com/track/0b19ZdZoxf3lmGSEVnHIWr) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [バイオリン](https://open.spotify.com/album/1NgNWtG58r30GoNe5fdUpw) | 2:25 |
-| 64 | [この街](https://open.spotify.com/track/78QP0s0aIDU7oxdxXHlEvE) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [この街](https://open.spotify.com/album/4so3JXt9CEWwvDC3RO6ZrU) | 3:08 |
+| 64 | [この街](https://open.spotify.com/track/78QP0s0aIDU7oxdxXHlEvE) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [salasa](https://open.spotify.com/artist/7fTXmRaHT8PVQs2GSHJEr5) | [この街](https://open.spotify.com/album/4so3JXt9CEWwvDC3RO6ZrU) | 3:08 |
 | 65 | [This Christmas I'm Coming Home](https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [This Christmas I'm Coming Home](https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2) | 3:00 |
 | 66 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:39 |
 | 67 | [Coming Home This Christmas \- From "A Very Jonas Christmas Movie"](https://open.spotify.com/track/5WinrM87TaUBLxOOCeACBi) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Coming Home This Christmas \(From "A Very Jonas Christmas Movie"\)](https://open.spotify.com/album/77If4wJxFyWmlucy2j1gaY) | 3:24 |

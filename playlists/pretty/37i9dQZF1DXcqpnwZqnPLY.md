@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqpnwZqnPLY.md) - [plain]
 
 > enjoy the PLAVE Asia Tour  \[DASH: Quantum Leap\] LIVE SET including the voices of them on stage! \(플레이브의 무대 멘트와 목소리가 포함된 \[DASH: Quantum Leap\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,359 likes - 23 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,381 likes - 23 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  Johnny Drille ",
-  "num_followers": 258132,
+  "num_followers": 258177,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,18 @@
     {
       "added_at": "2025-11-07 00:01:33",
       "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2025-11-07 00:01:33",
@@ -339,18 +335,38 @@
     {
       "added_at": "2025-11-07 00:01:33",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+      "duration_ms": 195600,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+    },
+    {
+      "added_at": "2025-11-07 00:01:33",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2025-11-07 00:01:33",
@@ -371,22 +387,6 @@
       "duration_ms": 180594,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
-    },
-    {
-      "added_at": "2025-11-07 00:01:33",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2025-11-07 00:01:33",
@@ -575,6 +575,30 @@
     {
       "added_at": "2025-11-07 00:01:33",
       "album": {
+        "name": "Ifeoma",
+        "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
+      },
+      "artists": [
+        {
+          "name": "Ozedikus",
+          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
+        },
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "BoiGizmo",
+          "url": "https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ifeoma",
+      "url": "https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD"
+    },
+    {
+      "added_at": "2025-11-07 00:01:33",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -599,26 +623,6 @@
     {
       "added_at": "2025-11-07 00:01:33",
       "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Realness",
-      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2025-11-07 00:01:33",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/5rO5Egb0HA6eYwU5aCq1eZ"
       },
@@ -635,26 +639,22 @@
     {
       "added_at": "2025-11-07 00:01:33",
       "album": {
-        "name": "Ifeoma",
-        "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
       "artists": [
         {
-          "name": "Ozedikus",
-          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         },
         {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        },
-        {
-          "name": "BoiGizmo",
-          "url": "https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Ifeoma",
-      "url": "https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD"
+      "duration_ms": 133624,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
     },
     {
       "added_at": "2025-11-07 00:01:33",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-11-07 00:01:33",
       "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
-    },
-    {
-      "added_at": "2025-11-07 00:01:33",
-      "album": {
         "name": "Qing Madi (Deluxe)",
         "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "added_at": "2025-11-07 00:01:33",
+      "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
     },
     {
       "added_at": "2025-11-07 00:01:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,796 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,780 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 23 | [Unoriginal](https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unoriginal / Black\-Eyed Susan Climb](https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO) | 2:58 |
 | 24 | [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 |
 | 25 | [In The Stars](https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [In The Stars](https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ) | 2:39 |
-| 26 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
-| 27 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
+| 26 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
+| 27 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
 | 28 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
 | 29 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 30 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 35 | [Daisy](https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Daisy](https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI) | 2:44 |
 | 36 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
 | 37 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 |
-| 38 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 |
-| 39 | [Love That Girl](https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP) | 3:04 |
+| 38 | [Love That Girl](https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP) | 3:04 |
+| 39 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 |
 | 40 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 |
 | 41 | [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 |
 | 42 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 46 | [Note to self](https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Note to self](https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ) | 2:45 |
 | 47 | [The Love On High](https://open.spotify.com/track/6ZkmO5UIyAu3WpA7Nlke2A) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [The Love On High](https://open.spotify.com/album/3JZ7COehvZULxvVmefJGTk) | 3:44 |
 | 48 | [In Yer Eyes](https://open.spotify.com/track/653CiFgNM4q48b8F0Chrfs) | [Roger Sellers](https://open.spotify.com/artist/4StOjWLB3i8HMqZwbCKv29), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [In Yer Eyes](https://open.spotify.com/album/5AcTqM5Yz8NCuXuFo1cDRm) | 2:18 |
-| 49 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
-| 50 | [Can Feel It](https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Can Feel It](https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn) | 2:33 |
+| 49 | [Can Feel It](https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Can Feel It](https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn) | 2:33 |
+| 50 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
 
 Snapshot ID: `AAAAADFZ6OgA5lV9J4UZDEbQ1ORUhN4H`

@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168599,
+      "name": "Stateside + Kylie Minogue",
+      "url": "https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY"
+    },
+    {
+      "album": {
         "name": "Stateside + Kylie Minogue",
         "url": "https://open.spotify.com/album/5iuZ2FU5x1ZmzhAfwWxUqV"
       },
@@ -790,7 +812,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 168599,
       "name": "Stateside + Kylie Minogue",
       "url": "https://open.spotify.com/track/3iuu6ZFCbePCwQy3WOvUgO"

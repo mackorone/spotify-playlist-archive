@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,909 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,908 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 42 | [Dear Yessie](https://open.spotify.com/track/7CF1huK3rloG4qZhp9ruor) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:09 |
 | 43 | [SCAR](https://open.spotify.com/track/1k9bH40gL6lCMIgHOsTDP8) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:06 |
 | 44 | [\*\*RIDIN \(with LIL WAYNE\)\*\*](https://open.spotify.com/track/1dxUGC87QHVjKwE8COBJmz) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 3:22 |
-| 45 | [Phone Calls](https://open.spotify.com/track/4DgR4zgbO0vW5rYwyYUM6V) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Phone Calls](https://open.spotify.com/album/2hyqzu8QYVj8RazBhNZr7N) | 3:01 |
-| 46 | [DOPE](https://open.spotify.com/track/5e1XbU08FpBzNaK1XdKyvu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:37 |
+| 45 | [DOPE](https://open.spotify.com/track/5e1XbU08FpBzNaK1XdKyvu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:37 |
+| 46 | [Phone Calls](https://open.spotify.com/track/4DgR4zgbO0vW5rYwyYUM6V) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Phone Calls](https://open.spotify.com/album/2hyqzu8QYVj8RazBhNZr7N) | 3:01 |
 | 47 | [Saint Nobody](https://open.spotify.com/track/3ZFekh9adaBDBxugiWwIJU) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:13 |
 | 48 | [ANKLES](https://open.spotify.com/track/3ZWHzPucGUZvgNleqllzdK) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:49 |
 | 49 | [SAME SIDE](https://open.spotify.com/track/6KpQ6CbTu0j1GYrsv4WQDZ) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:10 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 73 | [Where Do We Come From? \(feat\. ISHMAEL & Elle Yaya\)](https://open.spotify.com/track/6RJjHt3ZaghTvtlu53AgeJ) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [ISHMAEL](https://open.spotify.com/artist/5zjOfDUpwoXpMQcWV9ULD4), [Elle Yaya](https://open.spotify.com/artist/5LmRH2CD6Qqn1H8Zc36dMR) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 6:09 |
 | 74 | [Brand New](https://open.spotify.com/track/4X8wy3qfk5GHUtR9JyrjR2) | [Young Quicks](https://open.spotify.com/artist/5WtvL5NDnjl0j1V29dpy9p) | [Young, Fly & Latino \(Y.F.L\)](https://open.spotify.com/album/1D6CZYk8M3RIbeVgDipD87) | 3:54 |
 
-Snapshot ID: `AcA+5gAAAAAiW/y7fo1JFhx99NQ43h36`
+Snapshot ID: `AcBEhgAAAABt+BB17oGvdsg+22Jc/f5P`

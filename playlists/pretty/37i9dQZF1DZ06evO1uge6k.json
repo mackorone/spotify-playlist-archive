@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 258758,
+  "num_followers": 258778,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABOxw7mU8CWzURJsFlBlN1L",
+  "snapshot_id": "aQ02gAAAAAAvT48+Zb/5Y0kXTmQ83Gra",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Futura (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Chartreuse",
-      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 440946,
       "name": "Sure Got Cold After the Rain Fell",
       "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Futura (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Chartreuse",
+      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Asleep in the Desert (Instrumental)",
-      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 211773,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Asleep in the Desert (Instrumental)",
+      "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
     },
     {
       "added_at": null,

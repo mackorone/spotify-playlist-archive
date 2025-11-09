@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,153 likes - 215 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,177 likes - 215 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 107 | [슬픈 언약식](https://open.spotify.com/track/4fjszCyp9aPlac5nTpxYPJ) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [4Love](https://open.spotify.com/album/0gEHgjhOKYuP73SzPRDf8w) | 4:39 |
 | 108 | [마지막 약속](https://open.spotify.com/track/6GzhacPOP82WUlTLCatTPY) | [Kim Jung Min](https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8) | [4Love](https://open.spotify.com/album/0gEHgjhOKYuP73SzPRDf8w) | 4:14 |
 | 109 | [달팽이 Dalpaeng\-I](https://open.spotify.com/track/1P1see6BFCpb2gW21rnsTo) | [Panic](https://open.spotify.com/artist/3eoKFuA8UvKVvzufhFAHPj) | [Panic](https://open.spotify.com/album/11Y8sqw2PC59xdaBJ7HIGM) | 4:55 |
-| 110 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
+| 110 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
 | 111 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 |
 | 112 | [Good old days](https://open.spotify.com/track/5Kh4U2f0W2Kz7zRilOMwth) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Good old days](https://open.spotify.com/album/6X25SlTOwDCA7bxvMZfsoo) | 3:52 |
 | 113 | [애인있어요](https://open.spotify.com/track/4URhM3wSAEInGlRMSVr2Go) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [윤일상 작곡가 21주년 기념 앨범 \(I'm 21\)](https://open.spotify.com/album/2wPaUFZ3cWN0zhjFSl6PyL) | 4:08 |

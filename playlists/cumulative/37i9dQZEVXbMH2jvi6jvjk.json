@@ -5270,7 +5270,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 348346,
       "name": "Bafoo 10.9",
       "url": "https://open.spotify.com/track/5ST4yffWs8WSIG9lPiNTor"
@@ -16508,7 +16508,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -18366,7 +18366,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -29960,7 +29960,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 442691,
       "name": "Mabebuza - Mdu aka TRP Remix",
       "url": "https://open.spotify.com/track/15goPz747cpNjWQP2sjo2D"
@@ -40584,7 +40584,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -45448,7 +45448,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 327457,
       "name": "Sohlala Sisonke",
       "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
@@ -53368,7 +53368,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 280502,
       "name": "UQAMBA AMANGA",
       "url": "https://open.spotify.com/track/3RTLQmVu82YxZfIMOp0jH1"
@@ -54804,7 +54804,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 297903,
       "name": "Wa Inama",
       "url": "https://open.spotify.com/track/4BVq8iuuhqjcwhHh6t8SP9"
@@ -56610,7 +56610,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
@@ -58280,6 +58280,28 @@
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "album": {
+        "name": "Imbewu",
+        "url": "https://open.spotify.com/album/2qhmwFbtFFwCSLtYLtlRvA"
+      },
+      "artists": [
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390802,
+      "name": "You Try",
+      "url": "https://open.spotify.com/track/5fMJe6MwbPYBFtBrQCf7pq"
     },
     {
       "album": {

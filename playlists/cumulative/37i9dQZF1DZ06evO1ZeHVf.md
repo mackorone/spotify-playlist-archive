@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-105 songs - 8 hr 20 min
+106 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blessed Assurance](https://open.spotify.com/track/0W8YA8ADcKFDyOTaoK85ue) | [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Celebrating Fisk! \(The 150th Anniversary Album\)](https://open.spotify.com/album/4t8yqojKdA0scdvd53jXkF) | 3:40 | 2024-06-23 |  |
 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 | 2022-09-14 | 2023-06-30 |
 | [Bridge Over Troubled Water \(with CeCe Winans\) \- Live VH1 Honors \- June 22, 1995](https://open.spotify.com/track/767NCpvhtPBaQKsHWEGbHh) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [I Go To The Rock: The Gospel Music Of Whitney Houston](https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn) | 5:34 | 2023-03-27 | 2024-02-01 |
+| [Christmas Is All In The Heart](https://open.spotify.com/track/0V6nlqHGMXrp8tyo2oelRq) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Christmas Is All In The Heart](https://open.spotify.com/album/5twXrXNzd4LiJC0Dmrl8w0) | 5:08 | 2025-11-09 |  |
 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 | 2022-09-14 |  |
 | [Come Jesus Come](https://open.spotify.com/track/5H54ytOuf58gezNGEkXzsp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:58 | 2024-06-01 |  |
 | [Come Jesus Come](https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB) | 4:58 | 2024-03-19 | 2024-06-01 |
@@ -76,7 +77,7 @@
 | [More Than What I Wanted](https://open.spotify.com/track/5eDAm9j65OVuw3jTiO9IYS) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:27 | 2022-09-14 | 2024-05-22 |
 | [My Tribute \(To God Be The Glory\)](https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Tribute \(To God Be The Glory\)](https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt) | 5:41 | 2023-10-10 | 2024-07-21 |
 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 | 2022-09-14 | 2025-02-21 |
-| [Never Have to Be Alone](https://open.spotify.com/track/4vqP4vqgzzSfMZr6E0KTmf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall In Love](https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz) | 3:47 | 2025-02-22 |  |
+| [Never Have to Be Alone](https://open.spotify.com/track/4vqP4vqgzzSfMZr6E0KTmf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall In Love](https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz) | 3:47 | 2025-02-22 | 2025-11-09 |
 | [Never Lost](https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:10 | 2022-09-14 |  |
 | [No Greater \- Live](https://open.spotify.com/track/5PcQV7HNDr2c1mpSoRirgt) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:42 | 2022-09-19 | 2022-10-13 |
 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 | 2022-09-14 |  |

@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/2pm7K14nHj2fLrpU8j9bit"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 268178,
       "name": "Anh \u0110\u00e3 Quen V\u1edbi C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/39KWnPNEvbXt423CzjvBfA"
@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 262495,
       "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
       "url": "https://open.spotify.com/track/7fCeYpR02Q8JVuD88hJZVT"
@@ -9250,7 +9250,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 234166,
       "name": "Gi\u1edd Th\u00ec",
       "url": "https://open.spotify.com/track/7mblTCdc14ylJ1JW71MODb"
@@ -10952,7 +10952,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -13342,7 +13342,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 266758,
       "name": "Love is",
       "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
@@ -17137,6 +17137,28 @@
     },
     {
       "album": {
+        "name": "N\u1eafng \u1ea4m Trong Tim",
+        "url": "https://open.spotify.com/album/6jZ0FX8aJ2nPzdeyNicLKc"
+      },
+      "artists": [
+        {
+          "name": "Duongg",
+          "url": "https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT"
+        },
+        {
+          "name": "Dadeon",
+          "url": "https://open.spotify.com/artist/5gDFBVkaR6YfR6QVuOY9o6"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248341,
+      "name": "N\u1eafng \u1ea4m Trong Tim",
+      "url": "https://open.spotify.com/track/3rIQPhzwnHiF3PzfFVnXp5"
+    },
+    {
+      "album": {
         "name": "Gi\u1ea3m C\u00e1c C\u1ea3m Gi\u00e1c",
         "url": "https://open.spotify.com/album/2r0zGXDrc5oKwXDQiXUVRP"
       },
@@ -18366,7 +18388,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 202999,
       "name": "PH\u00d3NG Z\u00ccN Z\u00ccN",
       "url": "https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p"
@@ -20444,7 +20466,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -22958,7 +22980,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -23770,7 +23792,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 237931,
       "name": "t\u00e2m tr\u00ed lang thang",
       "url": "https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG"

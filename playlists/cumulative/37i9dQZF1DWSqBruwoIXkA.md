@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Sabrina Sterling
 
-990 songs - 2 day 6 hr 29 min
+991 songs - 2 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-17 | 2025-01-05 |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-02-16 | 2024-02-28 |
 | [do all my friends hate me?](https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [do all my friends hate me?](https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa) | 3:24 | 2022-02-11 | 2024-12-07 |
+| [Do You Hate Me Now](https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Do You Hate Me Now](https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s) | 3:27 | 2025-11-07 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-19 | 2023-08-05 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-16 | 2024-04-27 |
@@ -277,7 +278,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2025-05-19 |
 | [Finish Line](https://open.spotify.com/track/3O9zNcKGwoNLq4vUSqPekJ) | [HANA](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Finish Line](https://open.spotify.com/album/0lHlWcm8GT3PGJWxYIhAJJ) | 2:10 | 2025-08-15 | 2025-09-14 |
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-13 | 2025-03-26 |
-| [First Love](https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [First Love](https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l) | 3:41 | 2025-08-01 |  |
+| [First Love](https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [First Love](https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l) | 3:41 | 2025-08-01 | 2025-11-09 |
 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 | 2021-12-17 | 2022-12-17 |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2023-11-21 |  |
 | [Fled Into The Night](https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Fled Into The Night](https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM) | 4:07 | 2025-03-28 | 2025-07-19 |

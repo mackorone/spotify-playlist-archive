@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18238,
+  "num_followers": 18237,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACNxDsTDaIBZrrEgD8Qajwa",
+  "snapshot_id": "aQ02gAAAAADucEGclIZ77Zu0POHuS42w",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 181261,
-      "name": "Licking on a Knife for Fun",
-      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk the Plank",
         "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
@@ -511,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panty Raid (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
       "artists": [
         {
@@ -520,9 +504,25 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 205786,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
+      "duration_ms": 205786,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
     },
     {
       "added_at": null,

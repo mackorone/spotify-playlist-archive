@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 159716,
+  "num_followers": 159734,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABU2tOGcQZwdpfU84uB39qE",
+  "snapshot_id": "aQ02gAAAAAB7xBTgPyfDepAnXkXIPDCt",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfo",
-        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354706,
-      "name": "Ana Mile",
-      "url": "https://open.spotify.com/track/2BEAGKMLWkDmhAUECvoq5C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaginacion",
         "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 292360,
       "name": "Ni Como Amiga Ni Como Amante",
       "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354706,
+      "name": "Ana Mile",
+      "url": "https://open.spotify.com/track/2BEAGKMLWkDmhAUECvoq5C"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo De Tambores",
-        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Debiera Olvidarla",
-      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cielo De Tambores",
+        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Debiera Olvidarla",
+      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Aventura...La Historia",
-        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Miserable",
-      "url": "https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROPICALIA",
         "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 220880,
       "name": "Con Dinero y Sin Dinero",
       "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1ales de Humo",
-        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Mujer de Novela",
-      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Alto En El Camino",
         "url": "https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 290373,
       "name": "Un Alto En El Camino",
       "url": "https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Mujer de Novela",
+      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Prueba De Fuego",
-        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 309746,
-      "name": "Mec\u00e1nico",
-      "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Huellas Del Pasado",
         "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 306893,
       "name": "Es Mejor No Despertar",
       "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "Mec\u00e1nico",
+      "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"
     },
     {
       "added_at": null,

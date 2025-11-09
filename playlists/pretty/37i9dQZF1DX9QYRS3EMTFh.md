@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Genezio x Bamby
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,346 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,381 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 10 | [Emoji Pêche](https://open.spotify.com/track/258OblSwifjdaXY6Br7vak) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 2:18 |
 | 11 | [La Police](https://open.spotify.com/track/0N1g86AFnZYqVb8xdj8MM0) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [La Police](https://open.spotify.com/album/5VqUJorpGVVOVFMHSXYinY) | 2:17 |
 | 12 | [KADDRYO](https://open.spotify.com/track/2GOfDqnHKoF0dLmTojvl69) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i) | [KADDRYO](https://open.spotify.com/album/7ch3uXOiA1xhP0poFTPOzS) | 2:30 |
-| 13 | [Close your mouth](https://open.spotify.com/track/5dnEH0346mwytvMaUx8wcZ) | [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Close your mouth](https://open.spotify.com/album/58s3gr38PJ6dOhsd6NGvat) | 2:08 |
+| 13 | [Close your mouth](https://open.spotify.com/track/5dnEH0346mwytvMaUx8wcZ) | [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Close your mouth](https://open.spotify.com/album/58s3gr38PJ6dOhsd6NGvat) | 2:25 |
 | 14 | [La Belette](https://open.spotify.com/track/2MUVuW834R2Ep08eyXFAZx) | [Kamelon Officiel](https://open.spotify.com/artist/0k3C7u1fCchhNMHbcBy9xN), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [La Belette](https://open.spotify.com/album/4K0F2zMCMwMYRNT2tEqvqO) | 1:41 |
 | 15 | [Quint It](https://open.spotify.com/track/5gdPDCKm6bMvopOjBrTBY8) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa) | [Quint It](https://open.spotify.com/album/68xBB8xbXUa3f3li27DvCi) | 2:43 |
 | 16 | [Party Shot](https://open.spotify.com/track/0QR4UZpqW5nTP0Yfzbgh1o) | [JAEL.](https://open.spotify.com/artist/4uSiUFmHAA3iUt7oRxd7ra), [Twan Tee](https://open.spotify.com/artist/6gQATiGSeX6Q46h5HFJlWo) | [Party Shot](https://open.spotify.com/album/2205WdLRw4tZOA3wgxXgPm) | 3:14 |

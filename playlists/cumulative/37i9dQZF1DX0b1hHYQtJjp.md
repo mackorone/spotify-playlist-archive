@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Katy Perry
 
-2,323 songs - 5 day 7 hr 58 min
+2,324 songs - 5 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,7 @@
 | [Dark Skies](https://open.spotify.com/track/6md6TywIVmybRn604WiPdu) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Dark Skies](https://open.spotify.com/album/02sx3jt3ifjyr8Yfq6XY0V) | 3:14 | 2023-04-07 | 2023-05-20 |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-30 | 2024-10-19 |
 | [David Byrne Does Hard Times](https://open.spotify.com/track/5LJ5YEEuLmD9bk9PEYiUFI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [David Byrne Does Hard Times](https://open.spotify.com/album/1O2vvoFvP44PCOFdxLHzst) | 3:03 | 2024-04-19 | 2024-04-27 |
-| [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 | 2025-09-24 |  |
+| [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 | 2025-09-24 | 2025-11-09 |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-31 | 2023-09-30 |
 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 | 2020-07-18 | 2020-09-11 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-14 | 2023-09-23 |
@@ -2266,6 +2266,7 @@
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-10-07 | 2022-11-22 |
 | [WOMAN LIKE THAT](https://open.spotify.com/track/3qo55kZpzioiSTdJH6KRng) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [I'M A HURRICANE I'M A WOMAN IN LOVE](https://open.spotify.com/album/78F7SDu1qKH4umdw2T6pVo) | 3:05 | 2025-05-02 | 2025-05-10 |
 | [Won't Be Long Now](https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Won't Be Long Now](https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc) | 3:15 | 2022-12-09 | 2023-04-01 |
+| [Won't Force You](https://open.spotify.com/track/4fsaFXJwoADL5w4iw9IKJO) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Won't Force You](https://open.spotify.com/album/6jzHblS8sSvp157rtAyLtp) | 3:26 | 2025-11-08 |  |
 | [WONDER](https://open.spotify.com/track/0CiuZFNZwkuNt9HowIDXEg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:24 | 2024-09-20 | 2024-10-19 |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2021-06-16 | 2021-07-04 |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-09 | 2023-03-11 |

@@ -16311,6 +16311,28 @@
     },
     {
       "album": {
+        "name": "NUOVOSPAZIOTEMPO",
+        "url": "https://open.spotify.com/album/4PtgjgBKGsJLZVjA14WFvU"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        },
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213203,
+      "name": "Sirene (con Brunori Sas) - Live",
+      "url": "https://open.spotify.com/track/3qCKwVEjfFyJvYxLxJbCRU"
+    },
+    {
+      "album": {
         "name": "SISSI 2",
         "url": "https://open.spotify.com/album/3RRSr7oDLfuUHVMI8ajtOJ"
       },
@@ -17826,24 +17848,6 @@
       "duration_ms": 210001,
       "name": "Tra le tue braccia (feat. Cosmo)",
       "url": "https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Emma Nolde",
-          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/3qCKwVEjfFyJvYxLxJbCRU"
     },
     {
       "album": {

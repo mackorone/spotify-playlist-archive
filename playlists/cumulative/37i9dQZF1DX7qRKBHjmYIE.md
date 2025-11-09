@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Rawayana.
 
-947 songs - 2 day 3 hr 2 min
+948 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 | 2023-09-29 | 2023-10-14 |
 | [Got To Give It Up](https://open.spotify.com/track/4JmZyfkzXWN7pHJsJpN6XP) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/4cRB1vYHEoasDzu5HN5k2D) | 6:01 | 2023-09-29 | 2023-10-14 |
 | [Gotas de Vinagre](https://open.spotify.com/track/0ovEQlFuK4AU89CxuV9TYj) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U), [Baldomero Azuela](https://open.spotify.com/artist/7mZL9KnRJTbjxBcWkvfSqj) | [Calma](https://open.spotify.com/album/6WUxFQT1CLGyitjEXkfmRS) | 5:19 | 2021-12-02 | 2022-01-25 |
-| [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 | 2025-05-30 |  |
+| [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 | 2025-05-30 | 2025-11-09 |
 | [Gringuita](https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Gringuita](https://open.spotify.com/album/3yoLKFEw3Ukn9l9np8JCrV) | 2:40 | 2023-11-03 | 2024-01-27 |
 | [Gualero REFF12.31](https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Gualero REFF12.31](https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH) | 3:21 | 2023-11-24 | 2024-02-24 |
 | [GUAPA](https://open.spotify.com/track/5c7hCvAfvS1c9X27L8hFZF) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [GUAPA](https://open.spotify.com/album/2zYm7ggrjv0Xkj13BNuyHH) | 2:52 | 2025-03-14 | 2025-08-25 |
@@ -489,6 +489,7 @@
 | [Love You Like A Love Song](https://open.spotify.com/track/3Ge27Zxv9DLpYenWdoUyVJ) | [Kauai45](https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD) | [Love You Like A Love Song](https://open.spotify.com/album/52oyEMc0XE02mCIGFJ1bys) | 1:21 | 2023-02-17 | 2023-05-13 |
 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 | 2023-10-20 | 2024-04-13 |
 | [low key](https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [low key](https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF) | 4:14 | 2024-01-19 | 2024-04-13 |
+| [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 | 2025-11-07 |  |
 | [luchador](https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [luchador ep](https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0) | 2:22 | 2023-11-17 | 2024-01-29 |
 | [Lucid Dream](https://open.spotify.com/track/0EH9R67SvlEYGFwdVpa6bB) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Lucid Dream](https://open.spotify.com/album/61fX7FNQK2NvtK16unJ8Uj) | 3:07 | 2021-12-02 | 2022-01-25 |
 | [LULUNA](https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [LULUNA](https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq) | 3:08 | 2024-01-12 | 2024-04-19 |

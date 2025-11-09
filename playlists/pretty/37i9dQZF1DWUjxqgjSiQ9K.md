@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Art Aguilera y Ivette & Ivon Lopez
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,109 likes - 80 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,232 likes - 80 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

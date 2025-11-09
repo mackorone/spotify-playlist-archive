@@ -4,7 +4,7 @@
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-98 songs - 5 hr 16 min
+99 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Für Dich](https://open.spotify.com/track/3QYi6nQ5sDi4eNh0DHZujh) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Meine Welt](https://open.spotify.com/album/7JtC00X1uVQvI5R2NcKFcX) | 4:30 | 2025-03-26 | 2025-06-04 |
 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 | 2023-02-13 |  |
 | [Für immer ab jetzt](https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Für immer ab jetzt](https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339) | 3:51 | 2025-03-26 |  |
+| [Halt mich](https://open.spotify.com/track/5zuWCYgg7PbIB1ytoaSbLP) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:27 | 2025-03-26 |  |
 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 | 2023-02-13 | 2024-02-11 |
 | [Home Again](https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4), [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Home Again](https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I) | 3:27 | 2023-03-06 | 2025-01-14 |
 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 | 2023-02-13 |  |
@@ -87,7 +88,7 @@
 | [Unique](https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:42 | 2023-03-06 | 2024-02-10 |
 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 | 2024-02-09 |  |
 | [Verdammt, ich lieb Dich \- 2020 Remastered](https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Reim \(Expanded Edition\)](https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg) | 3:40 | 2023-02-13 | 2023-11-04 |
-| [Verliebt](https://open.spotify.com/track/40Coe8lqUkFfDjWWrjx9X6) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Aversion](https://open.spotify.com/album/47nHL2h2ttmF1rOcF75Lm4) | 4:02 | 2025-03-26 |  |
+| [Verliebt](https://open.spotify.com/track/40Coe8lqUkFfDjWWrjx9X6) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Aversion](https://open.spotify.com/album/47nHL2h2ttmF1rOcF75Lm4) | 4:02 | 2025-03-26 | 2025-11-09 |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB) | 2:41 | 2023-02-13 | 2024-02-10 |
 | [Versprich mir du gehst](https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 | 2024-02-09 | 2024-05-09 |
 | [Vielleicht Vielleicht](https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:27 | 2023-02-13 |  |

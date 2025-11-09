@@ -4,7 +4,7 @@
 
 > catch a vibe 🌹
 
-253 songs - 13 hr 36 min
+254 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [i like just how you like me](https://open.spotify.com/track/5kJ45QtERi21dHsz2rrOyG) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [i like just how you like me](https://open.spotify.com/album/6kmbGstkhw2sC5v1D41yoH) | 2:20 | 2025-09-20 |  |
 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 | 2024-03-28 | 2025-06-18 |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-03-28 | 2024-09-03 |
+| [if this ain't love](https://open.spotify.com/track/2iDAqP8Cf6Co7OHrOit1sG) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [if this ain't love](https://open.spotify.com/album/73UqeuhxfLQ0oDxIl1Oylg) | 3:36 | 2025-10-15 |  |
 | [In The Night](https://open.spotify.com/track/2EUHzaq7xrJNMayRzaoH9Z) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/1jzqiffupvhniPZB4aBNEv) | 3:49 | 2024-07-23 | 2024-12-23 |
 | [Irrational](https://open.spotify.com/track/1AAk3NJuimLgWIFjiOgtig) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Irrational](https://open.spotify.com/album/2V8e3GhVApzKrBgVTYgnCo) | 3:14 | 2024-03-28 | 2024-12-20 |
 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2024-07-12 | 2024-07-24 |
@@ -220,7 +221,7 @@
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2024-03-28 | 2025-02-14 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-17 |  |
 | [Sweet Lies](https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Sweet Lies](https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q) | 3:41 | 2024-09-02 | 2025-01-24 |
-| [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-16 |  |
+| [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-16 | 2025-11-09 |
 | [Take A Chance](https://open.spotify.com/track/0iWw7j4fBQ95Q4SpPLkrAL) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Can't Call Me Baby / Take A Chance](https://open.spotify.com/album/2QGqQ0lPmPyiTTFW3pUZHG) | 3:47 | 2024-11-07 | 2024-12-20 |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/5jcimR2X6OBkosIqPrhdi8) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 2:58 | 2024-03-28 | 2025-02-14 |
 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 | 2024-09-02 | 2025-02-14 |

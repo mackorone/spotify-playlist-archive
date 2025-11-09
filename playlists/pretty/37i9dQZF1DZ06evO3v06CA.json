@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203477,
+  "num_followers": 203478,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACew8Bwk6Av93TKUGTMy/h0",
+  "snapshot_id": "aQ02gAAAAADS3vihqO9JXGD6wT4qld+i",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 183133,
       "name": "Somewhere Between",
       "url": "https://open.spotify.com/track/4sQv8jRGdmFquqCZkU3KSk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Workin' Man: Willie Sings Merle",
+        "url": "https://open.spotify.com/album/4HalQbvT1dCgW2VEkEt990"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 138173,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/2YBS5PydLsiKqUwMoRkMzI"
     },
     {
       "added_at": null,
@@ -535,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Waylon Jennings",
-        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Good Hearted Woman",
-      "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Classic",
         "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
       },
@@ -571,6 +567,26 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
     },
     {
       "added_at": null,
@@ -851,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire & Brimstone",
         "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
       },
@@ -875,26 +911,6 @@
       "duration_ms": 181173,
       "name": "Welcome To Hazeville",
       "url": "https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
     },
     {
       "added_at": null,
@@ -1059,6 +1075,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
       },
@@ -1075,22 +1107,6 @@
       "duration_ms": 211146,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
     },
     {
       "added_at": null,
@@ -1187,6 +1203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 185409,
+      "name": "Funny How Time Slips Away",
+      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
@@ -1223,22 +1255,6 @@
       "duration_ms": 229333,
       "name": "Eu S\u00f3 Penso em Voc\u00ea (Always On My Mind) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 185409,
-      "name": "Funny How Time Slips Away",
-      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
     },
     {
       "added_at": null,
@@ -1291,34 +1307,6 @@
       "duration_ms": 142666,
       "name": "I Can Get off on You - Remastered",
       "url": "https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Roll Me Up",
-      "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
     }
   ],
   "unique_name": "This Is Willie Nelson",

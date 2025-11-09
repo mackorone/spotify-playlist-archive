@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Sn\u00f5\u00f5per",
-  "num_followers": 471268,
+  "num_followers": 471260,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "You Should See Me Now",
-        "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 224004,
-      "name": "You Should See Me Now",
-      "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Afraid To Die",
         "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 182216,
       "name": "Afraid To Die",
       "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "You Should See Me Now",
+        "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 224004,
+      "name": "You Should See Me Now",
+      "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
     },
     {
       "added_at": "2025-10-03 13:40:04",
@@ -655,22 +655,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "The Crucible Of Life",
-        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
+        "name": "Who\u2019s Having Fun?",
+        "url": "https://open.spotify.com/album/23p4BaOChW46rIFZAnuoJr"
       },
       "artists": [
         {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        },
-        {
-          "name": "Intervals",
-          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
         }
       ],
-      "duration_ms": 159414,
-      "name": "Love & Co.",
-      "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
+      "duration_ms": 172242,
+      "name": "Who\u2019s Having Fun?",
+      "url": "https://open.spotify.com/track/3AQU5I1rfYAPorSF4RyK31"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -691,34 +687,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Who\u2019s Having Fun?",
-        "url": "https://open.spotify.com/album/23p4BaOChW46rIFZAnuoJr"
+        "name": "The Crucible Of Life",
+        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
       },
       "artists": [
         {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 172242,
-      "name": "Who\u2019s Having Fun?",
-      "url": "https://open.spotify.com/track/3AQU5I1rfYAPorSF4RyK31"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
-      },
-      "artists": [
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        },
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
         }
       ],
-      "duration_ms": 208970,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
+      "duration_ms": 159414,
+      "name": "Love & Co.",
+      "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -739,6 +723,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 208970,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Salsa Verde",
         "url": "https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 204704,
       "name": "Salsa Verde",
       "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Hablame Bonito",
+        "url": "https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 175793,
+      "name": "Hablame Bonito",
+      "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
     },
     {
       "added_at": "2025-10-03 13:40:04",
@@ -771,22 +787,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Hablame Bonito",
-        "url": "https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 175793,
-      "name": "Hablame Bonito",
-      "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "State Champs",
         "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 188399,
       "name": "Silver Cloud",
       "url": "https://open.spotify.com/track/4Tb2rQNklBSl7WrSzFPVy4"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Radioactive Dreams",
-        "url": "https://open.spotify.com/album/71CTf366ZVym2w6ett4dAV"
-      },
-      "artists": [
-        {
-          "name": "Chat Pile",
-          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
-        },
-        {
-          "name": "Hayden Pedigo",
-          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Radioactive Dreams",
-      "url": "https://open.spotify.com/track/4av7jI8GRkkmstLsviD63M"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -851,6 +831,26 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Radioactive Dreams",
+        "url": "https://open.spotify.com/album/71CTf366ZVym2w6ett4dAV"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        },
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Radioactive Dreams",
+      "url": "https://open.spotify.com/track/4av7jI8GRkkmstLsviD63M"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "Blow It",
+        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 164283,
+      "name": "Blow It",
+      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Erasure",
         "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Blow It",
-        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 164283,
-      "name": "Blow It",
-      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
       "added_at": "2025-10-03 13:40:04",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "Wrong Side of Heaven",
+        "url": "https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2"
+      },
+      "artists": [
+        {
+          "name": "End It",
+          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+        }
+      ],
+      "duration_ms": 95789,
+      "name": "Billion Dollar Question",
+      "url": "https://open.spotify.com/track/0uMKLjmS5t3w4q2XffDQt6"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Gnash",
         "url": "https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Wrong Side of Heaven",
-        "url": "https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2"
+        "name": "SLEEP WHEN I'M DEAD",
+        "url": "https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9"
       },
       "artists": [
         {
-          "name": "End It",
-          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
         }
       ],
-      "duration_ms": 95789,
-      "name": "Billion Dollar Question",
-      "url": "https://open.spotify.com/track/0uMKLjmS5t3w4q2XffDQt6"
+      "duration_ms": 146677,
+      "name": "SLEEP WHEN I'M DEAD",
+      "url": "https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1155,38 +1171,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Circulate",
-        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 159537,
-      "name": "Circulate",
-      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "SLEEP WHEN I'M DEAD",
-        "url": "https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 146677,
-      "name": "SLEEP WHEN I'M DEAD",
-      "url": "https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Sweet",
         "url": "https://open.spotify.com/album/4UE9iLgjXaU4oYmZPqOzN4"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 198457,
       "name": "Who's Laughing Now",
       "url": "https://open.spotify.com/track/1Rwn5PAnp6YrRGg93F5pj1"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Circulate",
+        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 159537,
+      "name": "Circulate",
+      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "U Should Not Be Doing That / Facts",
+        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 206659,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "No One Was Driving The Car",
         "url": "https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN"
       },
@@ -1291,34 +1307,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "U Should Not Be Doing That / Facts",
-        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
+        "name": "TREK",
+        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
       },
       "artists": [
         {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
         }
       ],
-      "duration_ms": 206659,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Earthkeeper",
-        "url": "https://open.spotify.com/album/1T8drhwbWC7ksyrXvR8O0n"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 242230,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/547YHEDFzD5h3hlJSrJAR8"
+      "duration_ms": 208866,
+      "name": "HARDSTYLE",
+      "url": "https://open.spotify.com/track/5GmH8zSn6ri8ftbJDR8rE7"
     }
   ],
   "unique_name": "Today's Punk",

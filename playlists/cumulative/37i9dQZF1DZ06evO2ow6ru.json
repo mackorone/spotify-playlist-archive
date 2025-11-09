@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 172508,
       "name": "Cigarettes & Sabotage",
       "url": "https://open.spotify.com/track/2pVgY14uMtB3vcAgwbidvd"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 199405,
       "name": "If These Sheets Were States",
       "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
@@ -1650,10 +1650,28 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 171553,
       "name": "The Weather",
       "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
+    },
+    {
+      "album": {
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
     },
     {
       "album": {

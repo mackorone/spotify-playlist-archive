@@ -4,7 +4,7 @@
 
 > Journey through the sounds of South African Jazz\. Cover: giuliette price
 
-319 songs - 1 day 8 hr 0 min
+320 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Isponono](https://open.spotify.com/track/3MhNRnh7ipFyhSqv6RKnxm) | [PARAS "SIBALUKHULU" DLAMINI](https://open.spotify.com/artist/35LbDw5rYHgaFDEfN0O4n6) | [Ingoma Busuku](https://open.spotify.com/album/3rVbfPQmwijCqfrswFsHwO) | 3:30 | 2025-06-13 | 2025-06-20 |
 | [J.G\. at Nikki's](https://open.spotify.com/track/7dOVLEg8njJySnPiHXweTu) | [Feya Faku](https://open.spotify.com/artist/1dfNDAODPlsiimrbpTuvXb) | [Impilo](https://open.spotify.com/album/6XD1Euv3XUt8ACFsgd2kA3) | 4:06 | 2025-06-24 | 2025-08-30 |
 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 | 2022-05-12 | 2024-05-17 |
-| [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 | 2025-10-24 |  |
+| [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 | 2025-10-24 | 2025-11-09 |
 | [Joyous](https://open.spotify.com/track/4eZg8lxVThElRnwl6ZHqBX) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [The Ancestors](https://open.spotify.com/artist/7ePHKxo2J01bxBoXF3ikyy) | [Brownswood 10](https://open.spotify.com/album/0VyTXdyXEsKzrvI6h566GY) | 6:38 | 2022-04-28 | 2022-11-13 |
 | [Joyous](https://open.spotify.com/track/1dznd0YJ26B9NIUJcQZOKh) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/6Kf1JMtmpxC4ffNnv1keSl) | 6:38 | 2023-11-01 | 2023-11-17 |
 | [Joyous](https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/7bOWCR37vGgWis6Nwi7aMC) | 6:43 | 2022-04-28 | 2023-03-18 |
@@ -213,6 +213,7 @@
 | [Piano Edit](https://open.spotify.com/track/3S9Hy5ymQZyVDVS6OabuZC) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/4AQs1TiZ7g8HMTMz1DakM5) | 4:22 | 2025-06-24 | 2025-08-30 |
 | [Piece of Ground](https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [What Is Wrong With Groovin'](https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs) | 4:25 | 2023-09-29 | 2025-05-30 |
 | [Pink Sunset](https://open.spotify.com/track/761V4Wr2AVIKdJtV5o5czc) | [The Unity Band](https://open.spotify.com/artist/1bCno1jVp2qYgeHYLagBnd) | [Breaking Bread](https://open.spotify.com/album/6M46nDC2qUNcCeuSLS0AWq) | 6:23 | 2023-08-25 | 2024-08-16 |
+| [Pitso \(3rd Movement\)](https://open.spotify.com/track/6Klw4Wxy6t1DcuFUkap0Iu) | [Diteboho](https://open.spotify.com/artist/0sBaDk1LSWeJAbxcXf4lvc) | [Inner Gaze](https://open.spotify.com/album/5VunFoN1MsB0pTcMYNHnUK) | 3:03 | 2025-11-07 |  |
 | [Prayer](https://open.spotify.com/track/45rFXj6zMsy5WICsFu83mb) | [BandaBanda & The Crocodiles](https://open.spotify.com/artist/4fGYO2jfAKQYa4gyjMrRhH) | [Africado](https://open.spotify.com/album/0qIUwch0zfEtS24JO6Y3DK) | 5:09 | 2022-04-28 | 2023-08-26 |
 | [Prayer for Nkosi, Pt\. 2](https://open.spotify.com/track/0PfVyANYegV6krdO2cjD8q) | [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4) | [Africans in Space](https://open.spotify.com/album/23MvA3cqTJoiGLQV8Bil0N) | 5:06 | 2023-11-01 | 2023-11-17 |
 | [Promenade](https://open.spotify.com/track/0CXt2Bj9qskjdluQaOWwLP) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:39 | 2022-04-28 | 2022-10-07 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 523550,
+  "num_followers": 523568,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Bailables de Cuba, Vol. 2",
+        "url": "https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX"
+      },
+      "artists": [
+        {
+          "name": "Son Damas",
+          "url": "https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM"
+        }
+      ],
+      "duration_ms": 309054,
+      "name": "Soy Cubana",
+      "url": "https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Cuba Isla Bella",
         "url": "https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 284266,
       "name": "Cuba Isla Bella",
       "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Bailables de Cuba, Vol. 2",
-        "url": "https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX"
-      },
-      "artists": [
-        {
-          "name": "Son Damas",
-          "url": "https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM"
-        }
-      ],
-      "duration_ms": 309054,
-      "name": "Soy Cubana",
-      "url": "https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F"
     },
     {
       "added_at": "2025-03-07 06:00:25",

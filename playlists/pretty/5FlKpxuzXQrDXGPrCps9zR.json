@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAAA87dnmkON1MSbz3YcZge02ebeV9cI",
+  "snapshot_id": "AAAA9cOmMepnxPp4GpEih7OBGyAS1eoP",
   "tracks": [
     {
       "added_at": "2025-02-12 14:37:54",
@@ -731,6 +731,38 @@
       "duration_ms": 183026,
       "name": "So Am I",
       "url": "https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG"
+    },
+    {
+      "added_at": "2025-11-08 13:01:58",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 188802,
+      "name": "bandaids",
+      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
+    },
+    {
+      "added_at": "2025-11-08 13:02:02",
+      "album": {
+        "name": "Don't Click Play",
+        "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 148215,
+      "name": "World\u2019s Smallest Violin",
+      "url": "https://open.spotify.com/track/0O58EzrtVcjP0XLXnyKTXR"
     }
   ],
   "unique_name": "THE playlist",

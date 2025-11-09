@@ -974,7 +974,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 191752,
       "name": "Afsos",
       "url": "https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf"
@@ -5902,7 +5902,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
@@ -10352,6 +10352,32 @@
       "duration_ms": 198035,
       "name": "Jaanam (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/7bzR0C8NhnBA79iTXUCJ7o"
+    },
+    {
+      "album": {
+        "name": "Almost Loved",
+        "url": "https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190129,
+      "name": "Jaane Na Tu",
+      "url": "https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA"
     },
     {
       "album": {
@@ -19792,7 +19818,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 148666,
       "name": "Raat Ke Shikari",
       "url": "https://open.spotify.com/track/7oFrQLTu7Bi1xmTYLbBxHf"
@@ -21448,7 +21474,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 213288,
       "name": "Sang Rahiyo",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
@@ -23674,7 +23700,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -23704,7 +23730,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -23796,7 +23822,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 350095,
       "name": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
       "url": "https://open.spotify.com/track/39aHB0LHPLDZNwVhMf3DNH"
@@ -24098,7 +24124,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"
@@ -27602,7 +27628,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 303680,
       "name": "Zara Sa",
       "url": "https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79"

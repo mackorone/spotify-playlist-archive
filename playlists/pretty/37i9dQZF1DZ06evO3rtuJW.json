@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35081,
+  "num_followers": 35084,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAA6NnXwGdzl08KC1ckfBZhb",
+  "snapshot_id": "aQ02gAAAAAB75yvk6S3qKykDjdTBEtOF",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feet On Land",
+        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 152658,
+      "name": "Feet On Land",
+      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shiesty Season - Spring Deluxe",
         "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 168648,
       "name": "Switch it Up (feat. G Herbo, No More Heroes)",
       "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feet On Land",
-        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 152658,
-      "name": "Feet On Land",
-      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/4mPG2ZrIPbEMe2KIkjrig9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rookie Of The Year",
         "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
       },
@@ -603,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Money (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "Pink Money (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -651,22 +643,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luca Brasi 4",
-        "url": "https://open.spotify.com/album/2MrBg0bmBOii342VanrH6v"
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
       },
       "artists": [
         {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 100476,
+      "name": "Blitz",
+      "url": "https://open.spotify.com/track/56Er42sQAQXExUp5TuDnte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Money (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 144010,
-      "name": "Thuggin",
-      "url": "https://open.spotify.com/track/3uZDY0QgBOg6GIxCHy6L2S"
+      "duration_ms": 164586,
+      "name": "Pink Money (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
     },
     {
       "added_at": null,
@@ -691,6 +703,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luca Brasi 4",
+        "url": "https://open.spotify.com/album/2MrBg0bmBOii342VanrH6v"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 144010,
+      "name": "Thuggin",
+      "url": "https://open.spotify.com/track/3uZDY0QgBOg6GIxCHy6L2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 190646,
+      "name": "Longevity",
+      "url": "https://open.spotify.com/track/1DoUK8xVHImACABHPSz7Vh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Swerv",
         "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
@@ -703,6 +751,22 @@
       "duration_ms": 176981,
       "name": "Influence",
       "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -731,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
       },
       "artists": [
         {
@@ -740,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+      "duration_ms": 181607,
+      "name": "Where Would I Be?",
+      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
     },
     {
       "added_at": null,
@@ -799,6 +863,26 @@
       "duration_ms": 256052,
       "name": "Same Me",
       "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "Thank Me (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/6cMDoVNZ9qCiDQGUdV3Mbh"
     },
     {
       "added_at": null,
@@ -863,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 173405,
+      "name": "Win Again",
+      "url": "https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to Fazoland (Anniversary Edition)",
         "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
       },
@@ -879,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STILL GHETTO",
-        "url": "https://open.spotify.com/album/53Zq6FOvF9HDlDvS8KJ12k"
-      },
-      "artists": [
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        },
-        {
-          "name": "THF Law",
-          "url": "https://open.spotify.com/artist/71llkA0kopB8HdhpsqpdjR"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Texas Shit",
-      "url": "https://open.spotify.com/track/557NXk72PWUFiCZ9hS28pC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -915,106 +991,6 @@
       "duration_ms": 198400,
       "name": "Ridin Wit It",
       "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What It Means To Be King",
-        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Facetime (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summertime Butch 2",
-        "url": "https://open.spotify.com/album/09CaYHMCoNfNkZaHpTMlaG"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Why Would I (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0yJQDJYcNJw8BJ6b511zDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 161627,
-      "name": "Go Part 1 (with G Herbo)",
-      "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Racks In Class (Lunch Break Freestyle)",
-        "url": "https://open.spotify.com/album/4ltHWzQkshb9juFQtaMDyh"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 193359,
-      "name": "Racks In Class (Lunch Break Freestyle)",
-      "url": "https://open.spotify.com/track/6Ds5mkgbe5I2glwpSIHm44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Pages",
-        "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 206643,
-      "name": "Mine (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB"
     }
   ],
   "unique_name": "This Is G Herbo",

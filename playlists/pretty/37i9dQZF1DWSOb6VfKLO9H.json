@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 102531,
+  "num_followers": 102554,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,34 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "IDALY",
+        "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Famke Louise",
+          "url": "https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "duration_ms": 225175,
+      "name": "wine slow - remix",
+      "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Cocaina (Remix)",
         "url": "https://open.spotify.com/album/2Fsjpq6WBpu8J8kzLtVGIS"
       },
@@ -975,34 +1003,6 @@
       "duration_ms": 177994,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "IDALY",
-        "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Famke Louise",
-          "url": "https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        }
-      ],
-      "duration_ms": 225175,
-      "name": "wine slow - remix",
-      "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 184400,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "MGSEASON 2",
+        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "Hard 2 Get",
+      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Nachtvlinder",
         "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 147467,
       "name": "Go Go Club",
       "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "MGSEASON 2",
-        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 156035,
-      "name": "Hard 2 Get",
-      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Midnight Boom",
+        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 145937,
+      "name": "Midnight Boom",
+      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
       },
@@ -2103,30 +2119,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Speling",
-        "url": "https://open.spotify.com/album/7wU40hIIazCe9fto5Meubi"
-      },
-      "artists": [
-        {
-          "name": "DJ DYLVN",
-          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
-        },
-        {
-          "name": "Hansie",
-          "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
-        },
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
-        }
-      ],
-      "duration_ms": 168014,
-      "name": "Speling",
-      "url": "https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Forever Lit",
         "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
       },
@@ -2147,6 +2139,30 @@
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Speling",
+        "url": "https://open.spotify.com/album/7wU40hIIazCe9fto5Meubi"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Hansie",
+          "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "duration_ms": 168014,
+      "name": "Speling",
+      "url": "https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2195,26 +2211,6 @@
       "duration_ms": 199009,
       "name": "Headlock (feat. Yung Nnelg, Cho & Jayh)",
       "url": "https://open.spotify.com/track/5tHt1mA4EU7cpYQBLnauGB"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Vostape Vol.1: Congo Johnny Depp",
-        "url": "https://open.spotify.com/album/0o58cKDGHVB2IUbIhQfzCB"
-      },
-      "artists": [
-        {
-          "name": "LouiVos",
-          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
-        },
-        {
-          "name": "Webb",
-          "url": "https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Ex (feat. Webb)",
-      "url": "https://open.spotify.com/track/3c6ioyk7G7YabcyIPfXZ3z"
     }
   ],
   "unique_name": "Oude Party Tunes",

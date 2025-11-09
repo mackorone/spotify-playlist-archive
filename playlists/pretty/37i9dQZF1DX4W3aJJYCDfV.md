@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from ROSALÍA, Gorillaz, Digga D and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,891 likes - 123 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,848 likes - 123 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 118 | [Ride](https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Petrichor](https://open.spotify.com/album/2lti3xxEJ9Yta59kUAq0Eg) | 3:46 |
 | 119 | [Call Me Mommy](https://open.spotify.com/track/6xQEEMsk1ZwnZ0XhBEWFy7) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Call Me Mommy](https://open.spotify.com/album/1g4lutJQBwAL3wPM1RDWkk) | 2:59 |
 | 120 | [Monster](https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:00 |
-| 121 | [DRUMKEEPER](https://open.spotify.com/track/72PbmMAGNVRUaCXr4Zrd5b) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [SG](https://open.spotify.com/artist/3u4n3D4ZmfXHiPdF71FLst) | [DRUMKEEPER](https://open.spotify.com/album/0vU2JOptdMzKGa1JBWeiRz) | 3:56 |
+| 121 | [DRUMKEEPER \(feat\. SG\)](https://open.spotify.com/track/72PbmMAGNVRUaCXr4Zrd5b) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG) | [DRUMKEEPER \(feat\. SG\)](https://open.spotify.com/album/0vU2JOptdMzKGa1JBWeiRz) | 3:56 |
 | 122 | [La Loba](https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [La Loba](https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp) | 3:32 |
 | 123 | [Isn't It Always](https://open.spotify.com/track/6ZRhWdp6cDPg7AJPr5bqrn) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [To Cast The Sea In Concrete](https://open.spotify.com/album/1A8ZhKTrheoPNoLp62R2Cp) | 6:18 |
 

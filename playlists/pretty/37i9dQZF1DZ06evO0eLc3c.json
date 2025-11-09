@@ -1,29 +1,13 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 52920,
+  "num_followers": 52941,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAkxjq9diE71LvGgnKN1VZA",
+  "snapshot_id": "aQ02gAAAAACsQR5bHgdiA/NH25nRuUh0",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horses (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 174503,
-      "name": "The Hunter Gets Captured by The Game",
-      "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
-    },
     {
       "added_at": null,
       "album": {
@@ -139,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 174503,
+      "name": "The Hunter Gets Captured by The Game",
+      "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outside Society",
         "url": "https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv"
       },
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "Pissing In a River",
-      "url": "https://open.spotify.com/track/5UYo2NoLUzBlP09NGJRGsc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 232040,
       "name": "Free Money",
       "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Pissing In a River",
+      "url": "https://open.spotify.com/track/5UYo2NoLUzBlP09NGJRGsc"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 345853,
-      "name": "Changing of the Guards",
-      "url": "https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 265466,
       "name": "Kimberly",
       "url": "https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 345853,
+      "name": "Changing of the Guards",
+      "url": "https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 324800,
-      "name": "Pastime Paradise",
-      "url": "https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 565453,
       "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
       "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 324800,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 243906,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/4LXwDXCJnTPoWexw3BJFVZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horses",
         "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 555773,
       "name": "Birdland",
       "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 243906,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/4LXwDXCJnTPoWexw3BJFVZ"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 227213,
       "name": "April Fool",
       "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr"
     },
     {
       "added_at": null,

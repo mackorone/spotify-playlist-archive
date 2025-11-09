@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-117 songs - 5 hr 27 min
+118 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Fake Jammin](https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:19 | 2024-05-26 |  |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-27 |  |
 | [Female Gucci Mane](https://open.spotify.com/track/5jMCvfuGCvNXrUqr8FRgb8) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:29 | 2023-11-10 |  |
+| [For No Reason](https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [For No Reason](https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en) | 2:39 | 2025-11-09 |  |
 | [Free My N\*\*\*a](https://open.spotify.com/track/2z7LbO6rugeuWIBOWpncVi) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Free My N\*\*\*a](https://open.spotify.com/album/7Mk6Qao19lj3TcpQcDvE3t) | 2:09 | 2023-12-13 | 2024-02-16 |
 | [Free My N\*\*\*a](https://open.spotify.com/track/4wiKgTjxd1Rh3KLRJ09T3S) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:09 | 2024-10-30 | 2025-04-06 |
 | [Free Smoke](https://open.spotify.com/track/1ID66U5O797kF6F3bQpX3E) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Free Smoke](https://open.spotify.com/album/0SzTRjPaLPdqoNvBW8sNKz) | 3:51 | 2023-11-10 | 2023-12-14 |
@@ -75,7 +76,7 @@
 | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [NaNaski](https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP) | 3:12 | 2025-09-16 |  |
 | [My Twin](https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [My Twin](https://open.spotify.com/album/7bHnK6ophizURvIWgEKUyE) | 2:48 | 2023-11-10 | 2024-05-28 |
 | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/5GYKltEbk7h1DDM8aGloPu) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/album/3xbnEyhuILNfvxirhwj3LA) | 2:58 | 2024-06-30 | 2024-07-27 |
-| [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:58 | 2024-07-27 |  |
+| [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:58 | 2024-07-27 | 2025-11-09 |
 | [No Panties \(with Sexyy Red\) \- From Rap Sh!t S2: The Mixtape](https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [No Panties \(with Sexyy Red\) \[From Rap Sh!t S2: The Mixtape\]](https://open.spotify.com/album/1nhOy9oUdLf97cebjpBlap) | 2:05 | 2023-11-10 | 2024-05-28 |
 | [Nookie \(Pu$$y\) \(feat\. Sexyy Red\)](https://open.spotify.com/track/4MCuCTuevnlTnwm5Rekfwx) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Nookie \(Pu$$y\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/4Fo1bpA5OcnIblyK26UVI3) | 3:00 | 2025-06-29 |  |
 | [Northside](https://open.spotify.com/track/03t5G8yq7OkU7zK2gFy0OA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Northside](https://open.spotify.com/album/14DUsgTIeAW8GhMsZVeQsN) | 3:00 | 2023-11-10 | 2024-03-20 |

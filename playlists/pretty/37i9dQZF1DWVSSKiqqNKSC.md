@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,550 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,568 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 43 | [Puro Teatro](https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Laberinto de Pasiones](https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv) | 2:57 |
 | 44 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
 | 45 | [La Bomba \(Yo Lo Sé\)](https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 4:55 |
-| 46 | [Cuba Isla Bella](https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Buena Fe](https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [LARITZA BACALLAO](https://open.spotify.com/artist/61EgOa3zlnkzFNj2Xegxsu), [Waldo Mendoza](https://open.spotify.com/artist/0A3VPA9AS3HA5viKCKqRPu), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Cuba Isla Bella](https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc) | 4:44 |
-| 47 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
+| 46 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
+| 47 | [Cuba Isla Bella](https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Buena Fe](https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [LARITZA BACALLAO](https://open.spotify.com/artist/61EgOa3zlnkzFNj2Xegxsu), [Waldo Mendoza](https://open.spotify.com/artist/0A3VPA9AS3HA5viKCKqRPu), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Cuba Isla Bella](https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc) | 4:44 |
 | 48 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
 
 Snapshot ID: `AAAAAME7JTm/rRxN4AIzxxlRW06DzwzE`

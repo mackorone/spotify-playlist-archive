@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAwpLJCR/C0Li2pILEfcEbl",
+  "snapshot_id": "aQ02gAAAAADB93Co0ZGl/6OpH7axjqGj",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punks And Demons",
-        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "Punks And Demons",
-      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 286773,
-      "name": "Pussy Liquor",
-      "url": "https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
         "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
@@ -87,6 +55,22 @@
       "duration_ms": 163066,
       "name": "Well, Everybody's Fucking In A U.F.O.",
       "url": "https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punks And Demons",
+        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 157106,
+      "name": "Punks And Demons",
+      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
     },
     {
       "added_at": null,
@@ -123,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 286773,
+      "name": "Pussy Liquor",
+      "url": "https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Helter Skelter",
         "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
@@ -139,22 +139,6 @@
       "duration_ms": 215937,
       "name": "Helter Skelter",
       "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 138106,
-      "name": "The Satanic Rites of Blacula",
-      "url": "https://open.spotify.com/track/1JeGX4cixemJfBJl6XGQES"
     },
     {
       "added_at": null,
@@ -191,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 138106,
+      "name": "The Satanic Rites of Blacula",
+      "url": "https://open.spotify.com/track/1JeGX4cixemJfBJl6XGQES"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 182666,
       "name": "Two-Lane Blacktop",
       "url": "https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-      "url": "https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv"
     },
     {
       "added_at": null,
@@ -259,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+      "url": "https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hellbilly Deluxe 2 (Special Edition)",
         "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
       },
@@ -271,22 +271,6 @@
       "duration_ms": 167813,
       "name": "What?",
       "url": "https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Dead City Radio And The New Gods Of Supertown",
-      "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
     },
     {
       "added_at": null,
@@ -323,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Dead City Radio And The New Gods Of Supertown",
+      "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 227986,
       "name": "American Witch",
       "url": "https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 200853,
-      "name": "Boom-Boom-Boom",
-      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
     },
     {
       "added_at": null,
@@ -387,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 200853,
+      "name": "Boom-Boom-Boom",
+      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Shake Your Ass-Smoke Your Grass",
-      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 234106,
       "name": "The Great American Nightmare",
       "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Shake Your Ass-Smoke Your Grass",
+      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
     },
     {
       "added_at": null,

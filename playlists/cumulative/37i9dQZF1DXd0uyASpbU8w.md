@@ -4,7 +4,7 @@
 
 > New music from Shane Eagle, Mi Casa, ROSALÍA, Kehlani and more.
 
-8,473 songs - 24 day 18 hr 32 min
+8,473 songs - 24 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,7 +943,6 @@
 | [Big One](https://open.spotify.com/track/6PfFBEztSncke8MSCohK26) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Big One](https://open.spotify.com/album/1ztl6Ly7lUmGWX2wJrpu9h) | 1:51 | 2023-09-29 | 2023-10-08 |
 | [Big Racks \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/78yaF5XiIF5TA9klP3YoR0) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 4:08 | 2024-12-26 | 2025-01-07 |
 | [Big Smile \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 | 2024-11-15 | 2024-11-22 |
-| [Big Spender](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 5:12 | 2025-11-06 |  |
 | [BIG STEPPER](https://open.spotify.com/track/0no0grY7vWZkpVQ7955rGH) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [BIG STEPPER](https://open.spotify.com/album/4aeUOzL1oBJ6PTOJZydGK9) | 2:08 | 2025-03-21 | 2025-03-29 |
 | [Big Up \- Radio Edit](https://open.spotify.com/track/49oUpe2oYvElaVA51zJIvP) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA) | [Big UP!](https://open.spotify.com/album/13dRKy0ynV7oWt1nq4obzB) | 3:51 | 2025-07-11 | 2025-07-18 |
 | [Big Yonkinto](https://open.spotify.com/track/4IvFWu97HE2SqiMENUWfxs) | [Tae Africa](https://open.spotify.com/artist/4rT8HuOGuYHDbMH9IsWMAo), [DJ Switch](https://open.spotify.com/artist/6RBUG4w3ErLFxSxOmu7jnb) | [4 THE MO$H](https://open.spotify.com/album/17TGlMTOKVFSxo6HGHQRlD) | 3:21 | 2023-09-08 | 2023-09-16 |
@@ -1145,6 +1144,7 @@
 | [Broken Heart \(feat\. Abidoza\)](https://open.spotify.com/track/2kRWGnwfuvZPRDBcBD80Jn) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [Broken Heart \(feat\. Abidoza\)](https://open.spotify.com/album/17JsDWFzHzSTGhxEWWBBQU) | 5:48 | 2025-06-06 | 2025-06-13 |
 | [Brokey](https://open.spotify.com/track/6dJzWzrqoYHpc11RPsMJSR) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Brokey](https://open.spotify.com/album/1S8bgRH1eWhauxJiA13LD1) | 1:57 | 2025-02-20 | 2025-02-28 |
 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-13 | 2024-06-21 |
+| [Brotherhood](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 4:11 | 2025-11-06 |  |
 | [Brrr](https://open.spotify.com/track/0OHdBsTmVOWpGGwx7vDflE) | [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [BRRR](https://open.spotify.com/album/1pGxcqzTlc4XHhZimXgqiV) | 2:36 | 2025-04-18 | 2025-04-25 |
 | [Brzl x Quantum](https://open.spotify.com/track/7flx2lJIjNRQV2N7PDek6o) | [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j) | [Brzl x Quantum](https://open.spotify.com/album/2syZ2He5npbeLX6mfpHIGU) | 7:00 | 2025-07-25 | 2025-08-01 |
 | [Bubble Bath](https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bubble Bath](https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS) | 2:11 | 2024-07-05 | 2024-07-12 |

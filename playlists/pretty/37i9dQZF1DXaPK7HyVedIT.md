@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209,794 likes - 77 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,630 likes - 77 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 76 | [Somebody to Love](https://open.spotify.com/track/5TXKD2zQ5bK90ifrBjNdDB) | [Dj Remo](https://open.spotify.com/artist/2rXNDwn76DVzIrU2ytI7nW), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Somebody to Love](https://open.spotify.com/album/3EDlBi5yJ7FKvXpDW4PKDf) | 2:17 |
 | 77 | [ALL GOOD \- Rádio Edit](https://open.spotify.com/track/30na54l5TTXof0krHKoEQK) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [The Pups](https://open.spotify.com/artist/67ZrOqPd1Hn29m4FTOzeyL), [ALL GOOD](https://open.spotify.com/artist/5qwY84ciZLx403sJ6Mra5M) | [ALL GOOD \- Rádio Edit](https://open.spotify.com/album/1LxY6ZlIK5lSs8xYOwz0rE) | 2:19 |
 
-Snapshot ID: `AAAAAFQiVrx3xa0zU6xIelkSH/g+6llj`
+Snapshot ID: `AAAAAHNkXu78bIqEXi1NjnZCAGgzI2xz`

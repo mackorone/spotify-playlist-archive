@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39441,
+  "num_followers": 39439,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADvfVnCdsJrFkEMfrYvYCzr",
+  "snapshot_id": "aQ02gAAAAADNz4zlvmhYbmGnrAd4MbZa",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 176308,
+      "name": "Take Yo Man",
+      "url": "https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tee's Coney Island",
         "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 214468,
       "name": "Gorgeous Remix (feat. City Girls)",
       "url": "https://open.spotify.com/track/40XYe9tVw4oOSVJZkfDN5T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 176308,
-      "name": "Take Yo Man",
-      "url": "https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158136,
+      "name": "Fuck The D To The A",
+      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trying To Find My Next Thrill",
         "url": "https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 199266,
       "name": "Perfect (feat. City Girls)",
       "url": "https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158136,
-      "name": "Fuck The D To The A",
-      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 115987,
+      "name": "That's My Bitch",
+      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Top Notch (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 169737,
       "name": "Top Notch (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 115987,
-      "name": "That's My Bitch",
-      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 114766,
+      "name": "Panties An Bra",
+      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Need A Thug",
         "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 182813,
       "name": "She A Winner",
       "url": "https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boys For Life Soundtrack",
-        "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158777,
-      "name": "Money Fight",
-      "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
     }
   ],
   "unique_name": "This Is City Girls",

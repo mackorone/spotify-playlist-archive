@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-[Toolroom Records](https://open.spotify.com/user/1135439236) - 62,631 likes - 100 songs - 5 hr 0 min
+[Toolroom Records](https://open.spotify.com/user/1135439236) - 62,629 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 | 63 | [La Samba](https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr) | [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [La Samba](https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq) | 2:30 |
 | 64 | [Perfect Sound](https://open.spotify.com/track/1RGXZiKwwo3jTp7IuWZLIq) | [HASKELL](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj) | [Perfect Sound](https://open.spotify.com/album/5Ul3SgGrkOJBJkID0umUOb) | 2:46 |
 | 65 | [Hypnotized](https://open.spotify.com/track/3p3pXvnwSuVE1srNdK1PrN) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Hypnotized](https://open.spotify.com/album/6Ohvh7RHzKlIPAdP4mCnk4) | 2:53 |
-| 66 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
+| 66 | [Dior \(with Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(with Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
 | 67 | [Please Me](https://open.spotify.com/track/4shdF3Ln9GoPBNZu7rajFG) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Please Me](https://open.spotify.com/album/4Tzni2G9QqoKAaVS5mnN1V) | 2:24 |
 | 68 | [Weekend](https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Weekend](https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND) | 3:16 |
 | 69 | [Feels Much Better](https://open.spotify.com/track/7wlZEUi72q9rpeST5bY8Zg) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Karretero](https://open.spotify.com/artist/6X4uyE91lE67Fh0f1Jj10o) | [Feels Much Better](https://open.spotify.com/album/5pFqgnu0TiRsmPLhsxv94v) | 2:59 |

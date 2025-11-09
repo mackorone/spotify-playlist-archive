@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: IV of SPADES",
-  "num_followers": 263711,
+  "num_followers": 263682,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
         "name": "My Only Angel",
         "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Everybody Scream",
-      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
         "name": "Drive (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 187396,
       "name": "Drive (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "no cell phones in rehab",
-        "url": "https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 155470,
-      "name": "no cell phones in rehab",
-      "url": "https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
         "name": "RATATATA",
         "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 187249,
       "name": "You Broke Me Too (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
+        "name": "no cell phones in rehab",
+        "url": "https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 155470,
+      "name": "no cell phones in rehab",
+      "url": "https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "Nice Shoes",
-        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 195412,
-      "name": "Nice Shoes",
-      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
+        "name": "my mind is a mountain",
+        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
         "name": "car",
         "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "my mind is a mountain",
-        "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 170941,
-      "name": "my mind is a mountain",
-      "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
         "name": "Invincible (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 155495,
       "name": "Invincible - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
-        "name": "Bloodlust",
-        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 209986,
-      "name": "Bloodlust",
-      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
+        "name": "Bloodlust",
+        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 209986,
+      "name": "Bloodlust",
+      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
         "name": "Alienation",
         "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 211262,
       "name": "Don't Wanna Go Home Tonight",
       "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
-        "name": "Violent Nature",
-        "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 191531,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -1479,22 +1463,6 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "Destroy Me",
-        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Destroy Me",
-      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
         "name": "Two Faced",
         "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
       },
@@ -1507,6 +1475,38 @@
       "duration_ms": 183584,
       "name": "Two Faced",
       "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
+        "name": "Violent Nature",
+        "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 191531,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
+        "name": "King Of Terrors",
+        "url": "https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "Dionysus",
+      "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
+        "name": "Common Decency",
+        "url": "https://open.spotify.com/album/16NeEIneghdC5FKPkDDbtw"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 243960,
+      "name": "Common Decency",
+      "url": "https://open.spotify.com/track/4sNoaoIWCpBWj3y8UpAaej"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
         "name": "moody",
         "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
       },
@@ -1563,8 +1579,8 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "King Of Terrors",
-        "url": "https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t"
+        "name": "Destroy Me",
+        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
       },
       "artists": [
         {
@@ -1572,25 +1588,9 @@
           "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
         }
       ],
-      "duration_ms": 182571,
-      "name": "Dionysus",
-      "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
-        "name": "Common Decency",
-        "url": "https://open.spotify.com/album/16NeEIneghdC5FKPkDDbtw"
-      },
-      "artists": [
-        {
-          "name": "VIOLENT VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 243960,
-      "name": "Common Decency",
-      "url": "https://open.spotify.com/track/4sNoaoIWCpBWj3y8UpAaej"
+      "duration_ms": 162826,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -1611,6 +1611,26 @@
       "duration_ms": 204526,
       "name": "from me to u (feat. Poppy)",
       "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
+        "name": "Young & Dumb (feat. Simple Plan)",
+        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 166776,
+      "name": "Young & Dumb (feat. Simple Plan)",
+      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
     },
     {
       "added_at": "2025-11-06 15:00:14",
@@ -1647,42 +1667,6 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 227070,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
-        "name": "Young & Dumb (feat. Simple Plan)",
-        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 166776,
-      "name": "Young & Dumb (feat. Simple Plan)",
-      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2025-11-06 15:00:14",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
@@ -1699,18 +1683,34 @@
     {
       "added_at": "2025-11-06 15:00:14",
       "album": {
-        "name": "The Scythe",
-        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 285240,
-      "name": "The Scythe",
-      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
+      "duration_ms": 227070,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+    },
+    {
+      "added_at": "2025-11-06 15:00:14",
+      "album": {
+        "name": "BEST OF (Volume 2)",
+        "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Cold - 2025 VERSION",
+      "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
     }
   ],
   "unique_name": "Rock The World",

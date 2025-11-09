@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25"
+      },
+      "artists": [
+        {
+          "name": "Simple Things",
+          "url": "https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj"
+    },
+    {
+      "album": {
         "name": "Have a Good Time All the Time",
         "url": "https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90"
       },

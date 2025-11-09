@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 9976,
+  "num_followers": 9986,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADWz1w290WZLKEpFwhqDsqR",
+  "snapshot_id": "aQ02gAAAAAADh/z80Bdkg9A5zwaPwBco",
   "tracks": [
     {
       "added_at": null,
@@ -983,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silentium",
-        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
+        "name": "Arvo P\u00e4rt: Fratres",
+        "url": "https://open.spotify.com/album/7IIbRzKOYUk5saQx3w0Jb7"
       },
       "artists": [
         {
@@ -992,13 +992,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Camerata RCO",
-          "url": "https://open.spotify.com/artist/7oeMiCBtLMf4mMrqezpyVj"
+          "name": "I Fiamminghi (The Orchestra of Flanders)",
+          "url": "https://open.spotify.com/artist/4vjFTop2IzNPaDE4ShfPuD"
+        },
+        {
+          "name": "Rudolf Werthen",
+          "url": "https://open.spotify.com/artist/6mGXy7lIC2AAoPCjBZTxNl"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Vater Unser (Arr. for trombone & string ensemble)",
-      "url": "https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU"
+      "duration_ms": 614333,
+      "name": "Fratres (Version for Strings & Percussion)",
+      "url": "https://open.spotify.com/track/0iCBry8uGq4XL48x76b2EQ"
     },
     {
       "added_at": null,
@@ -1075,8 +1079,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Fratres",
-        "url": "https://open.spotify.com/album/7IIbRzKOYUk5saQx3w0Jb7"
+        "name": "P\u00e4rt: Spiegel im Spiegel (Version for Viola and Piano)",
+        "url": "https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ"
       },
       "artists": [
         {
@@ -1084,17 +1088,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "I Fiamminghi (The Orchestra of Flanders)",
-          "url": "https://open.spotify.com/artist/4vjFTop2IzNPaDE4ShfPuD"
-        },
-        {
-          "name": "Rudolf Werthen",
-          "url": "https://open.spotify.com/artist/6mGXy7lIC2AAoPCjBZTxNl"
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
         }
       ],
-      "duration_ms": 614333,
-      "name": "Fratres (Version for Strings & Percussion)",
-      "url": "https://open.spotify.com/track/0iCBry8uGq4XL48x76b2EQ"
+      "duration_ms": 750080,
+      "name": "Spiegel im Spiegel (Version for Viola and Piano)",
+      "url": "https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv"
     },
     {
       "added_at": null,
@@ -1123,8 +1123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Spiegel im Spiegel (Version for Viola and Piano)",
-        "url": "https://open.spotify.com/album/0T8bDngTQL8ZEatwhEbtRZ"
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
       },
       "artists": [
         {
@@ -1132,13 +1132,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+          "name": "Camerata RCO",
+          "url": "https://open.spotify.com/artist/7oeMiCBtLMf4mMrqezpyVj"
         }
       ],
-      "duration_ms": 750080,
-      "name": "Spiegel im Spiegel (Version for Viola and Piano)",
-      "url": "https://open.spotify.com/track/3MAnojiEATIIumGcGs4scv"
+      "duration_ms": 210133,
+      "name": "Vater Unser (Arr. for trombone & string ensemble)",
+      "url": "https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU"
     },
     {
       "added_at": null,

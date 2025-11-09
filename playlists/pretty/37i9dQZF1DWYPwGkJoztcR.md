@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,799 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,822 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 40 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 |
 | 41 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 |
 | 42 | [Thorns](https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Thorns](https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA) | 3:20 |
-| 43 | [Roller Coaster](https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Roller Coaster](https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd) | 2:35 |
-| 44 | [The Ride](https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9) | [Youri Lentjes](https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE) | [The Ride](https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt) | 3:09 |
+| 43 | [The Ride](https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9) | [Youri Lentjes](https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE) | [The Ride](https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt) | 3:09 |
+| 44 | [Roller Coaster](https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Roller Coaster](https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd) | 2:35 |
 | 45 | [When She’s Around](https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [When She’s Around](https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy) | 3:35 |
 | 46 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 |
 | 47 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 61 | [Story Of My Life](https://open.spotify.com/track/3RPBET4z96fUukQd6cNESv) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Story Of My Life](https://open.spotify.com/album/047ig9T3051aPN4dltfBu0) | 3:18 |
 | 62 | [You Give Me Something \(Refreshed\)](https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You Give Me Something \(Refreshed\)](https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV) | 4:03 |
 | 63 | [Anything To Feel Alive](https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Anything To Feel Alive](https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ) | 4:20 |
-| 64 | [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 |
+| 64 | [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 |
 | 65 | [Bring Me My Horse](https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 4:22 |
-| 66 | [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 |
+| 66 | [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 |
 | 67 | [Daydreaming](https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [In my cluttered head](https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC) | 3:23 |
 | 68 | [Northern Star](https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Northern Star](https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP) | 3:12 |
 | 69 | [adeline](https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J) | [Katie Koss](https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN) | [i'm changing my mind](https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB) | 3:54 |
@@ -88,20 +88,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 78 | [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 |
 | 79 | [Complicated](https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Complicated](https://open.spotify.com/album/2FnXCtCNVWMnLHgr43O1FD) | 2:41 |
 | 80 | [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 |
-| 81 | [Never Fall In Love Again](https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Never Fall In Love Again](https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o) | 2:48 |
-| 82 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 |
+| 81 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 |
+| 82 | [Never Fall In Love Again](https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Never Fall In Love Again](https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o) | 2:48 |
 | 83 | [I Will](https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [I Will](https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj) | 2:49 |
 | 84 | [Suddenly Forever](https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR) | [Selwyn](https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ) | [Suddenly Forever](https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7) | 3:20 |
 | 85 | [seasons](https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [seasons](https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE) | 3:40 |
 | 86 | [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 |
-| 87 | [Solastalgia](https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Dark Harvest, Pt\. 1](https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW) | 4:52 |
-| 88 | [Julianne](https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:51 |
-| 89 | [Lonely On Lovers Lane](https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw) | 3:15 |
+| 87 | [Julianne](https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:51 |
+| 88 | [Lonely On Lovers Lane](https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw) | 3:15 |
+| 89 | [Solastalgia](https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Dark Harvest, Pt\. 1](https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW) | 4:52 |
 | 90 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
-| 91 | [Waiting in the Wings](https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Happy in Hindsight](https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs) | 4:14 |
-| 92 | [Illusion \(feat\. Tangarine\) \- acoustic](https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8), [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Illusion \(feat\. Tangarine\) \[acoustic\]](https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr) | 3:13 |
-| 93 | [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 |
-| 94 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 |
+| 91 | [Illusion \(feat\. Tangarine\) \- acoustic](https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8), [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Illusion \(feat\. Tangarine\) \[acoustic\]](https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr) | 3:13 |
+| 92 | [Waiting in the Wings](https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Happy in Hindsight](https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs) | 4:14 |
+| 93 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 |
+| 94 | [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 |
 | 95 | [Wild Horses](https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D) | [JODIAC](https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA), [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Wild Horses](https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t) | 3:22 |
 | 96 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 |
 | 97 | [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 99 | [Bend](https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Bend](https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT) | 3:56 |
 | 100 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 |
 
-Snapshot ID: `AAAAAEORUTfukQBvqTSF8DsUf6KpSRuI`
+Snapshot ID: `AAAAAGTfGzSzhkTU/7++v4zzBMw3MY4C`

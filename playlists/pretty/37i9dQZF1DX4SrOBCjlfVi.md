@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring G Herbo, Lil Baby, Sexyy Red and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,275 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,345 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 20 | [Call Me](https://open.spotify.com/track/5Q5Ejr1O1FPgQ29QqY5LpG) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Call Me](https://open.spotify.com/album/5lPxQ6iqaoXUpf1IZlI4Gu) | 3:11 |
 | 21 | [Hungry For It](https://open.spotify.com/track/5M7fm8Sad9IpX87y3SE74g) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hungry For It](https://open.spotify.com/album/5CnoiHaX9lhhP11B89xtyi) | 2:56 |
 | 22 | [Fightland](https://open.spotify.com/track/7mkEBeMaLrJpnanwWKA8vF) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Fightland](https://open.spotify.com/album/2bOGK4FptNMcbdPqjvyC2L) | 2:06 |
-| 23 | [Cooln](https://open.spotify.com/track/534OFc7VpU8vB8xVgBO58d) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [Cooln](https://open.spotify.com/album/5vPc9YccV1cfgLJVp0MJwF) | 1:15 |
+| 23 | [Coolin](https://open.spotify.com/track/534OFc7VpU8vB8xVgBO58d) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [Coolin](https://open.spotify.com/album/5vPc9YccV1cfgLJVp0MJwF) | 1:15 |
 | 24 | [Inherited Neglect](https://open.spotify.com/track/7CwaQKB6ZVGxQLtXvI02cI) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Help](https://open.spotify.com/album/4olq9d2EoVpnvR2wPNDnW3) | 2:30 |
 | 25 | [jamal crawford](https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [jamal crawford](https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W) | 2:53 |
 | 26 | [Love From Afar](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |

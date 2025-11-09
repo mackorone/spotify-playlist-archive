@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 
 > Your favourite Christmas carols, performed and re\-imagined by the world's greatest choirs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,648 likes - 109 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,762 likes - 109 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

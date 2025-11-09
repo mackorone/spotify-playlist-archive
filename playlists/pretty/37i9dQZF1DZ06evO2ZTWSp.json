@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 480972,
+  "num_followers": 480913,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACHpBFBg0pTwuOLYvjCxn6u",
+  "snapshot_id": "aQ02gAAAAACFDW36JxIwJMTE0d5VIvEv",
   "tracks": [
     {
       "added_at": null,
@@ -803,38 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191659,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coconut Oil",
-        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 177841,
-      "name": "Worship",
-      "url": "https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juice (Breakbot Mix)",
         "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
       },
@@ -855,6 +823,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coconut Oil",
+        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 177841,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191659,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MY FACE STILL HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2"
       },
@@ -862,15 +862,11 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
         }
       ],
-      "duration_ms": 118021,
-      "name": "INTERNET (FEAT. TIERRA WHACK)",
-      "url": "https://open.spotify.com/track/5c9B681VEiWXMaF36GjW7P"
+      "duration_ms": 146597,
+      "name": "I LUV BEING MYSELF",
+      "url": "https://open.spotify.com/track/2htDCWcfX8RAEU5BtKPRm8"
     }
   ],
   "unique_name": "This Is Lizzo",

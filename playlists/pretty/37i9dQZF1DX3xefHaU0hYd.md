@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 
 > Listen to the soundtracks of Lovely Runner\. \(선재 업고 튀어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the ost singers\. \(Ost 가창자들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,223 likes - 104 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,256 likes - 104 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 | 30 | [Suzume \(feat\. Toaka\)](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Suzume \(feat\. Toaka\)](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
 | 31 | [The Night](https://open.spotify.com/track/7o1IX3r7Xm7OeGgEbM80oG) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:16 |
 | 32 | [You're Gonna Live Forever in Me](https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:10 |
-| 33 | [Episode](https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Episode](https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL) | 3:25 |
+| 33 | [Episode](https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Episode](https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL) | 3:25 |
 | 34 | [Curated by HA SUNG WOON](https://open.spotify.com/track/16MLZb4Lt6jZhoVelxo2sL) | [Lovely Runner](https://open.spotify.com/artist/6oGMJ0SXxbUHhxfwHKsccd) | [Lovely Runner Audio liners](https://open.spotify.com/album/34VqYgGxDnaDjNHyoZE3Ut) | 0:37 |
 | 35 | [golden hour](https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like \(554Hz\)](https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO) | 3:29 |
 | 36 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 |

@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 189567,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/541Q0u2sHv70TzcUzuUVmy"
@@ -4533,7 +4533,7 @@
       "artists": [
         {
           "name": "Tommyy",
-          "url": "https://open.spotify.com/artist/35PRYekj0non2I5TjsMUvp"
+          "url": "https://open.spotify.com/artist/1KKCcTznesbbwzo6R2Bnlq"
         },
         {
           "name": "Rally",
@@ -4759,7 +4759,7 @@
       "artists": [
         {
           "name": "Tommyy",
-          "url": "https://open.spotify.com/artist/35PRYekj0non2I5TjsMUvp"
+          "url": "https://open.spotify.com/artist/1KKCcTznesbbwzo6R2Bnlq"
         },
         {
           "name": "Rally",
@@ -7238,7 +7238,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 282430,
       "name": "Kan Mawdo3",
       "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"
@@ -15820,7 +15820,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 151426,
       "name": "\u0627\u062a\u0646\u0633\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ"
@@ -16092,10 +16092,28 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0628\u062e\u062a",
+        "url": "https://open.spotify.com/album/4DxIjHP3L4wYxRie5DPsdW"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206112,
+      "name": "\u0627\u0644\u0628\u062e\u062a",
+      "url": "https://open.spotify.com/track/6nZSEnBdtgA1Zj2HZoUE8S"
     },
     {
       "album": {
@@ -16618,7 +16636,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 187617,
       "name": "\u0627\u0646\u0627 \u0644\u0628\u0633\u064a \u0627\u0644\u0634\u064a\u0643 \u063a\u0631\u0643 \u0641\u064a\u0627 ( \u0642\u0648\u0644\u062a\u064a\u0644\u064a \u0627\u0646\u0627 \u0644\u064a\u0643 )",
       "url": "https://open.spotify.com/track/7xI1Do3Pgnsa3LuivntEao"
@@ -19018,7 +19036,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 245818,
       "name": "\u0638\u0631\u0648\u0641 \u0645\u0639\u0646\u062f\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU"
@@ -19584,7 +19602,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 180062,
       "name": "\u0643\u0627\u062a\u0645 \u0627\u0644\u0627\u0646\u0641\u0627\u0633 - \u0645\u062d\u0637\u0648\u0637 \u062a\u0634\u0643\u064a\u0644",
       "url": "https://open.spotify.com/track/6Dq2DQcuQayjhTiw4jhT89"

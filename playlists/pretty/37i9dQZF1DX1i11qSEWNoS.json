@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 636114,
+  "num_followers": 636212,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Fast Cars & Superstars",
         "url": "https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 118701,
       "name": "Fast Cars & Superstars",
       "url": "https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -943,22 +943,26 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+        "name": "Craving 4 U (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
         },
         {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+      "duration_ms": 139300,
+      "name": "Craving 4 U (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -983,26 +987,22 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Craving 4 U (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
       "artists": [
         {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         },
         {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 139300,
-      "name": "Craving 4 U (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Shamiya Battles",
-          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
-        }
-      ],
-      "duration_ms": 92226,
-      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
-      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Man On The Moon: The End Of Day (Int'l Version)",
         "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 281746,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Shamiya Battles",
+          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
+        }
+      ],
+      "duration_ms": 92226,
+      "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
+      "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1291,26 +1291,18 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Gianna (Harris & Ford x BIG TIM Remix)",
-        "url": "https://open.spotify.com/album/4WlOuhtP3XtVMX28n3YBVH"
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
       },
       "artists": [
         {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "BIG TIM",
-          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
         }
       ],
-      "duration_ms": 145241,
-      "name": "Gianna - Harris & Ford x BIG TIM Remix",
-      "url": "https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4"
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1335,18 +1327,26 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
+        "name": "Gianna (Harris & Ford x BIG TIM Remix)",
+        "url": "https://open.spotify.com/album/4WlOuhtP3XtVMX28n3YBVH"
       },
       "artists": [
         {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "BIG TIM",
+          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
         }
       ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
+      "duration_ms": 145241,
+      "name": "Gianna - Harris & Ford x BIG TIM Remix",
+      "url": "https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Biertornado",
         "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 218417,
       "name": "Biertornado",
       "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1511,6 +1511,26 @@
       "duration_ms": 129412,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "RAN AN DIE BULETTEN",
+        "url": "https://open.spotify.com/album/43XAKMkGl05QLqTBtMMyMF"
+      },
+      "artists": [
+        {
+          "name": "PA69",
+          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "duration_ms": 176858,
+      "name": "RAN AN DIE BULETTEN",
+      "url": "https://open.spotify.com/track/4iHgHwghOMGzqX9kZ0QgHY"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1615,26 +1635,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "RAN AN DIE BULETTEN",
-        "url": "https://open.spotify.com/album/43XAKMkGl05QLqTBtMMyMF"
-      },
-      "artists": [
-        {
-          "name": "PA69",
-          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
-        },
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        }
-      ],
-      "duration_ms": 176858,
-      "name": "RAN AN DIE BULETTEN",
-      "url": "https://open.spotify.com/track/4iHgHwghOMGzqX9kZ0QgHY"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -1719,42 +1719,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "HERZ MACHT BAMM",
-        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "HERZ MACHT BAMM",
-      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
-        "name": "Alles oder Nix",
-        "url": "https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu"
-      },
-      "artists": [
-        {
-          "name": "SSIO",
-          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
-        }
-      ],
-      "duration_ms": 252417,
-      "name": "Alles oder Nix",
-      "url": "https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -1775,6 +1739,26 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "HERZ MACHT BAMM",
+        "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "HERZ MACHT BAMM",
+      "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1859,6 +1843,22 @@
       "duration_ms": 154285,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "Alles oder Nix",
+        "url": "https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "duration_ms": 252417,
+      "name": "Alles oder Nix",
+      "url": "https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6"
     }
   ],
   "unique_name": "schiebt anders",

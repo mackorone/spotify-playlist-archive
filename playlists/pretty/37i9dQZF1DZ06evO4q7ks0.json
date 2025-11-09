@@ -1,13 +1,29 @@
 {
   "description": "This is The Cranberries. The essential tracks, all in one playlist.",
-  "num_followers": 509889,
+  "num_followers": 509938,
   "original_name": "This Is The Cranberries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABSIE2G+6gjC1XyNBKKZ4Ma",
+  "snapshot_id": "aQ02gAAAAABzd01xVl1ni+uE/ok8aaEV",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 270480,
+      "name": "Zombie - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/5jsQzBlE4Jby9d77XqmHrk"
+    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Zombie - Acoustic Version",
-      "url": "https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury The Hatchet",
         "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 211066,
       "name": "Animal Instinct",
       "url": "https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To The Faithful Departed",
+        "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 296200,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1"
     },
     {
       "added_at": null,
@@ -107,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To The Faithful Departed",
-        "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 296200,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stars: The Best Of The Cranberries 1992-2002",
         "url": "https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl"
       },
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury The Hatchet",
         "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 221293,
       "name": "Just My Imagination",
       "url": "https://open.spotify.com/track/0f0k0OJ9VbaLHX4J1t2qUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "I Still Do",
-      "url": "https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury The Hatchet",
         "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 327573,
       "name": "Promises",
       "url": "https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "I Still Do",
+      "url": "https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 136200,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/3mayeyaPg5DQGBa78LJM59"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury The Hatchet",
         "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 215533,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/3mayeyaPg5DQGBa78LJM59"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 128132,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/7rvF9L6OiGeKI6SgZYQIg7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To The Faithful Departed",
         "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 265066,
       "name": "Free To Decide",
       "url": "https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 128132,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/7rvF9L6OiGeKI6SgZYQIg7"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 179880,
-      "name": "Yeats' Grave - 2025 Remastered",
-      "url": "https://open.spotify.com/track/5fiiSF02DqfoyixcTTc2x0"
+      "duration_ms": 274386,
+      "name": "Song To My Family - Magic Shop Demo",
+      "url": "https://open.spotify.com/track/7mKEw1zNstUEAjYdKEtgrl"
     },
     {
       "added_at": null,
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 274386,
-      "name": "Song To My Family - Magic Shop Demo",
-      "url": "https://open.spotify.com/track/7mKEw1zNstUEAjYdKEtgrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remembering Dolores",
-        "url": "https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 156693,
-      "name": "Never Grow Old",
-      "url": "https://open.spotify.com/track/4LdpVdSxtwWQRe7OYnGM66"
+      "duration_ms": 179880,
+      "name": "Yeats' Grave - 2025 Remastered",
+      "url": "https://open.spotify.com/track/5fiiSF02DqfoyixcTTc2x0"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 256386,
       "name": "All Over Now",
       "url": "https://open.spotify.com/track/7EkcnNdxjcdCjLa9K0CHYI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remembering Dolores",
+        "url": "https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 156693,
+      "name": "Never Grow Old",
+      "url": "https://open.spotify.com/track/4LdpVdSxtwWQRe7OYnGM66"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remembering Dolores",
-        "url": "https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "Joe",
-      "url": "https://open.spotify.com/track/6nk3R7cleqa2VFElieypE7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the End",
         "url": "https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 239946,
       "name": "Lost",
       "url": "https://open.spotify.com/track/67nd9sZy5rtbitv090ii8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remembering Dolores",
+        "url": "https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/6nk3R7cleqa2VFElieypE7"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Need To Argue (30th Anniversary / Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 211253,
-      "name": "I Don't Need",
-      "url": "https://open.spotify.com/track/7d692pWIL03a9OOSgagDzU"
+      "duration_ms": 279306,
+      "name": "Intro / Dreaming My Dreams - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/002yi5PoiijJ9Rxmo4ucs7"
     }
   ],
   "unique_name": "This Is The Cranberries",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,308 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,322 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 41 | [Just Hold On](https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Just Hold On](https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u) | 2:47 |
 | 42 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
 | 43 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
-| 44 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
-| 45 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
+| 44 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
+| 45 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
 | 46 | [PEACE](https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ) | 4:19 |
 | 47 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 |
 | 48 | [Hold On](https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Hold On](https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE) | 3:34 |
-| 49 | [Nothing Into Something](https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [BOATS](https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ) | 2:24 |
-| 50 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 |
-| 51 | [Praise Opens Prison Doors \- Live](https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Praise Opens Prison Doors \(Live\)](https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt) | 5:23 |
-| 52 | [Just Like Jesus](https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Just Like Jesus](https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG) | 3:54 |
+| 49 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 |
+| 50 | [Nothing Into Something](https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [BOATS](https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ) | 2:24 |
+| 51 | [Just Like Jesus](https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Just Like Jesus](https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG) | 3:54 |
+| 52 | [Praise Opens Prison Doors \- Live](https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Praise Opens Prison Doors \(Live\)](https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt) | 5:23 |
 | 53 | [It Is Well \- Live](https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 7:06 |
 | 54 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 |
 | 55 | [Glory and Majesty](https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Glory and Majesty](https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF) | 4:44 |

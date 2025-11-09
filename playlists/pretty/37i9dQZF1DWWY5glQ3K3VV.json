@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 111328,
+  "num_followers": 111361,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
         "name": "Effetto notte",
         "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 176000,
       "name": "ON FIRE - paid in full",
       "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "C'EST LA VIE",
-        "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
-      },
-      "artists": [
-        {
-          "name": "TY1",
-          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
-        },
-        {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 188490,
-      "name": "C'EST LA VIE",
-      "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "Anno Zero",
         "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 157168,
       "name": "Fino All'Alba",
       "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "C'EST LA VIE",
+        "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 188490,
+      "name": "C'EST LA VIE",
+      "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
     },
     {
       "added_at": "2025-11-06 23:01:07",

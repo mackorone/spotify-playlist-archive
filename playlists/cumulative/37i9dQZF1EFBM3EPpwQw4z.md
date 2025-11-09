@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 8 hr 38 min
+149 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Potty Party](https://open.spotify.com/track/7lzg2dzYCZcl1c9436NfZM) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:45 | 2023-12-30 |  |
 | [Push](https://open.spotify.com/track/68yeGVCUVICu3EiPv9D9LY) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:50 | 2023-12-30 |  |
 | [Q Jumper \- Matt Caseli & Marrs TV Remix](https://open.spotify.com/track/5VlRn5U7lPQs9cemXbv2nP) | [Beth Yen](https://open.spotify.com/artist/3wmNTfspSAkGE1RtYFzo6p), [Layers](https://open.spotify.com/artist/4qRyBQsyAADBvytQzidpsd) | [Q Jumper \(feat\. Layers\)](https://open.spotify.com/album/5riy8SZTz5h02flzUtMNEX) | 5:48 | 2023-12-30 | 2025-07-24 |
-| [Raise Up](https://open.spotify.com/track/74QNAdrgUutTbLIdRGrz26) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo) | [Raise Up](https://open.spotify.com/album/30UIPjHdAfS1FbSO8T6uez) | 3:28 | 2023-12-30 |  |
+| [Raise Up](https://open.spotify.com/track/3H41TzsFDqj9Qwqgm8lrQl) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo) | [Raise Up](https://open.spotify.com/album/4HWTcfZKNSICcdZQkKZe4P) | 3:28 | 2025-11-08 |  |
+| [Raise Up](https://open.spotify.com/track/74QNAdrgUutTbLIdRGrz26) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo) | [Raise Up](https://open.spotify.com/album/30UIPjHdAfS1FbSO8T6uez) | 3:28 | 2023-12-30 | 2025-11-09 |
 | [Rave Cave](https://open.spotify.com/track/7aYONhQEt4yhpLYtY6RGz9) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:31 | 2023-12-30 |  |
 | [Recover](https://open.spotify.com/track/3sMjP8JPw36uryb6FG7z2B) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q) | [Recover](https://open.spotify.com/album/60d1W4CUw9OsHNY9rwzaXE) | 3:57 | 2023-12-30 | 2025-07-24 |
 | [Revolution](https://open.spotify.com/track/11oCXpQWUT1MwImanWJE1N) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Revolution](https://open.spotify.com/album/1YMdBR2ZOZKHOkp1CoivzD) | 3:14 | 2023-12-30 | 2025-07-24 |

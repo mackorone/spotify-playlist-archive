@@ -1,13 +1,33 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 53028,
+  "num_followers": 53037,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAALyCS3/6zIeh6U0gpvPegi",
+  "snapshot_id": "aQ02gAAAAADrOwFKkccP0CULxXXozFVk",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Christmas Is All In The Heart",
+        "url": "https://open.spotify.com/album/5twXrXNzd4LiJC0Dmrl8w0"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 308200,
+      "name": "Christmas Is All In The Heart",
+      "url": "https://open.spotify.com/track/0V6nlqHGMXrp8tyo2oelRq"
+    },
     {
       "added_at": null,
       "album": {
@@ -287,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 332973,
+      "name": "Alabaster Box",
+      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shout To The Lord",
         "url": "https://open.spotify.com/album/3mrYDbbw7fr7HzYEnJZgli"
       },
@@ -307,22 +343,6 @@
       "duration_ms": 428594,
       "name": "Shout To The Lord",
       "url": "https://open.spotify.com/track/6tMrS4MKYSV7koiPr4a4F9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 332973,
-      "name": "Alabaster Box",
-      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
     },
     {
       "added_at": null,
@@ -835,22 +855,6 @@
       "duration_ms": 271453,
       "name": "Bless His Holy Name",
       "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Them Fall In Love",
-        "url": "https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 227335,
-      "name": "Never Have to Be Alone",
-      "url": "https://open.spotify.com/track/4vqP4vqgzzSfMZr6E0KTmf"
     }
   ],
   "unique_name": "This Is CeCe Winans",

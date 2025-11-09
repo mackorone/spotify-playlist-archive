@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 954975,
+  "num_followers": 955035,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACxGUoaOkFlmr9MIbLoQs83",
+  "snapshot_id": "aQ02gAAAAADhsg0KXWxzkskwDtNTTwTa",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 52600,
-      "name": "Interlude: I'm Not Angry Anymore",
-      "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
+      "duration_ms": 200146,
+      "name": "Monster - Transformers Soundtrack Version",
+      "url": "https://open.spotify.com/track/04BSvYghzdxjSJNpee36er"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C"
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Monster - Transformers Soundtrack Version",
-      "url": "https://open.spotify.com/track/04BSvYghzdxjSJNpee36er"
+      "duration_ms": 52600,
+      "name": "Interlude: I'm Not Angry Anymore",
+      "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 198226,
       "name": "Let the Flames Begin",
       "url": "https://open.spotify.com/track/2myJNvcL71V5IZ1N2NW29O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "Last Hope",
-      "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Last Hope",
+      "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "(One of Those) Crazy Girls",
-      "url": "https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 235706,
       "name": "Fake Happy",
       "url": "https://open.spotify.com/track/6t44iU80A0h8WQ7vc4OoRj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "(One of Those) Crazy Girls",
+      "url": "https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 309293,
-      "name": "Hate to See Your Heart Break",
-      "url": "https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 232786,
       "name": "Pool",
       "url": "https://open.spotify.com/track/3xCsHloPBl211Yi4UEUUcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 309293,
+      "name": "Hate to See Your Heart Break",
+      "url": "https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987"
     },
     {
       "added_at": null,

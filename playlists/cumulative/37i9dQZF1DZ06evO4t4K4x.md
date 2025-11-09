@@ -4,7 +4,7 @@
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 50 min
+112 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dr\. Who](https://open.spotify.com/track/36hKkDEGiq7d91jFJeLB56) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ) | 1:31 | 2025-09-30 |  |
 | [Dr\. Who](https://open.spotify.com/track/7bhcpGwtx7XToXJUcVIdLD) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 1:31 | 2022-05-29 | 2022-12-24 |
 | [Dr\. Who](https://open.spotify.com/track/7j4Bw7om5owxBdZE54XGOq) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 1:31 | 2022-12-23 | 2025-09-30 |
+| [Dreaming 2 \(1972\)](https://open.spotify.com/track/5eXQO8I3jgmzJ4gji53Nr6) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Empire](https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP) | 2:30 | 2025-11-09 |  |
 | [Effervescence](https://open.spotify.com/track/2JCDGlSg42vh0I246sX0Vu) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 2:02 | 2022-05-29 | 2025-10-11 |
 | [Environmental Studies](https://open.spotify.com/track/3QpYKlZYpGf7QD9OM1zNlx) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ) | 0:31 | 2025-09-17 |  |
 | [Environmental Studies](https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:31 | 2022-12-31 | 2025-09-17 |
@@ -93,6 +94,7 @@
 | [Main Title \- From Doctor Who, 1963](https://open.spotify.com/track/5SfokOHKIaNOpy7XRVVZYW) | [Ron Grainer](https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Best RON GRAINER Early Movie Themes](https://open.spotify.com/album/2sAqQFlZlqVMqrc8rddoVG) | 2:20 | 2025-07-08 |  |
 | [Moogies Bloogies](https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI) | [Moogies Bloogies](https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6) | 2:24 | 2022-05-29 |  |
 | [Nightwalker](https://open.spotify.com/track/0z3rbUCweRcD7g0i3Pbw4F) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:59 | 2022-05-31 | 2025-08-18 |
+| [Nightwalking 2 \(1976\)](https://open.spotify.com/track/5slsN0zrQlzEVGQmw6Hevq) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Empire](https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP) | 3:45 | 2025-11-09 |  |
 | [No Man's Land](https://open.spotify.com/track/0wfTZNLjGyWy6ugu1StZgB) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:50 | 2023-03-25 |  |
 | [Planetarium](https://open.spotify.com/track/0Wa15c9B3MbHekgmlbj5KD) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Standard Music Library](https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 1:36 | 2023-11-10 |  |
 | [Plodding Power](https://open.spotify.com/track/5ameYEi5L28ecrqiu2necP) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:50 | 2022-06-01 |  |

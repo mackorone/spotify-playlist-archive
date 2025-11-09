@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/44xgCRX6NDYWXQiYXfXt1t"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216595,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/3rI36YKtHPFsqzj1dopQZQ"
+    },
+    {
+      "album": {
         "name": "Alatif",
         "url": "https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx"
       },
@@ -13262,7 +13280,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 290124,
       "name": "Hala Rani Fiha",
       "url": "https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG"
@@ -17184,7 +17202,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 207029,
       "name": "L'appel",
       "url": "https://open.spotify.com/track/2624NHQjnKBERo61O0L1bW"
@@ -19549,6 +19567,24 @@
     },
     {
       "album": {
+        "name": "Red Tape Era, Vol. 1 (Red Tape Version)",
+        "url": "https://open.spotify.com/album/2gYEqpT96RxEqlRmvjcLYk"
+      },
+      "artists": [
+        {
+          "name": "RED TAPE MUSIC",
+          "url": "https://open.spotify.com/artist/3yzRrpWJJSTDQumpXDl23o"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268119,
+      "name": "M3A L3ECHRANE - Red Tape Version",
+      "url": "https://open.spotify.com/track/32gKKxu6AVDp0rxSRJvpvw"
+    },
+    {
+      "album": {
         "name": "\u0664in (Act 4)",
         "url": "https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV"
       },
@@ -21096,7 +21132,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 201724,
       "name": "Melina",
       "url": "https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j"
@@ -21274,7 +21310,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 214360,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
@@ -21292,7 +21328,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 214364,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5ZSHDWYm4sixQLgxHrqODM"
@@ -26882,7 +26918,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 191723,
       "name": "Quand elle danse",
       "url": "https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa"
@@ -26904,7 +26940,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 191723,
       "name": "Quand elle danse",
       "url": "https://open.spotify.com/track/1b6Czn9Q3aAXTbSO0o5aZy"
@@ -31380,7 +31416,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 199968,
       "name": "TABOUT",
       "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Sugarscrush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,527 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,526 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 15 | [Miedo](https://open.spotify.com/track/50pSMO2TjsxZXuSz0xVxoU) | [CorazónAquíNo!](https://open.spotify.com/artist/2QfUE5cKoQ3JIa94IQ5uDk) | [Miedo](https://open.spotify.com/album/2xENe1Jr0nAV5J8LkXRcXZ) | 3:21 |
 | 16 | [Borra todo de mí](https://open.spotify.com/track/2rTUcvIndrfKCnUPSnYqAu) | [Los Cocoa](https://open.spotify.com/artist/16nss8D4fSP84Jci370KXV) | [Borra todo de mí](https://open.spotify.com/album/7N3ByUNVK0ZBed3QMsyBeS) | 3:09 |
 | 17 | [Pide perdón](https://open.spotify.com/track/1OGUdFGxwsnL4NGn3zvJBh) | [Marcos Polar](https://open.spotify.com/artist/7sWExhHuco6MxknlmxuIQ0) | [Pide perdón](https://open.spotify.com/album/3rwlLF2rwjc3juFKb2FXmm) | 2:24 |
-| 18 | [Soy adicto](https://open.spotify.com/track/11kGIr2kn8ocBFd6XiUqJY) | [Tigre y Diamante](https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf) | [Soy adicto](https://open.spotify.com/album/4AI158XdZWF4oCH8X5bvEI) | 2:29 |
+| 18 | [Soy adicto \- Tigre y Diamante Edit](https://open.spotify.com/track/11kGIr2kn8ocBFd6XiUqJY) | [Tigre y Diamante](https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf) | [Soy adicto](https://open.spotify.com/album/4AI158XdZWF4oCH8X5bvEI) | 2:29 |
 | 19 | [Meñique](https://open.spotify.com/track/6iiV3zDczBaaASDFAd04Co) | [Joaquín Fénix](https://open.spotify.com/artist/4nElXUxyGrDvNpZrbyU6Tg) | [Meñique](https://open.spotify.com/album/0Ee5buzMWvna8GB5MkNFvK) | 2:49 |
 | 20 | [forastero](https://open.spotify.com/track/1hkQ3VZBx4RlKSp6hNzGLX) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Rockera](https://open.spotify.com/album/6WUJzs31IjyNVuUwvd2u0w) | 2:44 |
 | 21 | [No estás solo, tienes tu voz](https://open.spotify.com/track/28Yj0np2mb6LRjcAyoSy1g) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [No estás solo, tienes tu voz](https://open.spotify.com/album/3P6YCc0vBzfvD9a67ILS2z) | 3:32 |

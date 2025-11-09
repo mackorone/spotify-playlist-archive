@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,828 songs - 5 day 4 hr 17 min
+1,829 songs - 5 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [California Heaven \- Medasin Remix](https://open.spotify.com/track/0SIxPkBt6iyocxMSLgcxI7) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [California Heaven \(Medasin Remix\)](https://open.spotify.com/album/3aT2WqA7Fsnrm8e0UcUZAZ) | 3:36 | 2020-05-18 | 2020-07-18 |
 | [Call Katie](https://open.spotify.com/track/0CRs7vCuzxgxjSGqjckzjn) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Call Katie](https://open.spotify.com/album/2XM03VGtZTKcotiQzxrnFO) | 3:01 | 2021-03-19 | 2021-09-11 |
 | [Call my name](https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Call my name](https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we) | 2:54 | 2024-02-09 | 2025-03-22 |
-| [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-02-07 |  |
+| [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-02-07 | 2025-11-09 |
 | [Called](https://open.spotify.com/track/3KtxQAgNxCEINXNgVuzsun) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Rohn Dahlberg](https://open.spotify.com/artist/5OcQS469ZWswsuUEJtNIeo) | [Called](https://open.spotify.com/album/4pT6jidjPodWkfoVSEHViq) | 6:04 | 2020-03-17 | 2022-04-19 |
 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 | 2023-03-10 | 2024-04-06 |
 | [can't hold the light](https://open.spotify.com/track/4DBmErhbpFFYN1ugnu4wCy) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [Nick Shadow](https://open.spotify.com/artist/7tZfUc01UkhgbBUWZvRNf0), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [can't hold the light](https://open.spotify.com/album/2MbcAJPVC3u2vlg8aa0xRn) | 2:36 | 2025-05-23 | 2025-07-16 |
@@ -1479,6 +1479,7 @@
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-06-24 | 2022-10-13 |
 | [Soothing Tension](https://open.spotify.com/track/06o7YdqanB0LO3gXjq4PXM) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Soothing Tension](https://open.spotify.com/album/6HGu7Q1sqdTb1hXQz6WQpY) | 3:56 | 2022-12-28 | 2023-01-06 |
 | [Soul Spiral](https://open.spotify.com/track/3Do9fwtLWSCvcGJgq7PXUB) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Soul Spiral](https://open.spotify.com/album/0lbxOCslIA34Ll8uiN2PH1) | 3:36 | 2022-04-15 | 2022-12-29 |
+| [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 | 2025-11-07 |  |
 | [Soweto](https://open.spotify.com/track/4WofBAFHcHd87y92Azllpm) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Soweto](https://open.spotify.com/album/58r0dOmMRQvBNeuXKLoVbd) | 3:04 | 2020-05-18 | 2020-07-18 |
 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 | 2025-10-03 |  |
 | [Space Between Us](https://open.spotify.com/track/0bkwtvUJpzBoiD8Z7u1kzk) | [Ellusive](https://open.spotify.com/artist/6gwInscSxlouXzcmENDqk4), [Eny](https://open.spotify.com/artist/0EbgPXDvaiVP1maVy5eSGt) | [Space Between Us](https://open.spotify.com/album/3CnDyyFkOMmbhq6yAyRVeP) | 3:44 | 2020-05-18 | 2020-07-18 |

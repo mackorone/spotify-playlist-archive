@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Showdemcamp
 
-974 songs - 1 day 23 hr 19 min
+975 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,7 @@
 | [Mine](https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa), [TAIO](https://open.spotify.com/artist/6WuZ1saWkFrczv6G1inkOp) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:55 | 2022-02-10 | 2022-03-12 |
 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 | 2023-11-17 | 2024-03-01 |
 | [Minor Notes](https://open.spotify.com/track/0k94cHa9Zr8dLw6iCVw6d4) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 2:56 | 2021-09-03 | 2022-09-24 |
-| [Misbehave](https://open.spotify.com/track/43Gj3bg7bKByKGi8EO6eGj) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Misbehave](https://open.spotify.com/album/7rVhzxmshW0zwoAMA3aLzx) | 2:28 | 2025-08-15 |  |
+| [Misbehave](https://open.spotify.com/track/43Gj3bg7bKByKGi8EO6eGj) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Misbehave](https://open.spotify.com/album/7rVhzxmshW0zwoAMA3aLzx) | 2:28 | 2025-08-15 | 2025-11-09 |
 | [Missy Mami](https://open.spotify.com/track/1e6T6rIfgNv80ekHaA9J19) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [Missy Mami](https://open.spotify.com/album/6AHL6fisPdk6tQe4lZDBEK) | 2:40 | 2023-04-27 | 2023-05-26 |
 | [Money & Laughter](https://open.spotify.com/track/0rcz74mV0d1ERhaQPQxJnx) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Money & Laughter](https://open.spotify.com/album/3ZSA6jbvKDGxYFuD5YBCYQ) | 2:31 | 2021-07-09 | 2022-04-29 |
 | [Money Prayer](https://open.spotify.com/track/5resIjFpN4mv5LokChHwiR) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 2:49 | 2024-05-03 | 2024-11-22 |
@@ -688,6 +688,7 @@
 | [Pressure](https://open.spotify.com/track/2EWssKUcfGwwD6lM3JFEA9) | [Marllie](https://open.spotify.com/artist/18STiSzU4S2XPv78JhMpD6) | [Pressure](https://open.spotify.com/album/0niU278BFQvuH7znD3PmEw) | 2:26 | 2025-03-28 | 2025-04-18 |
 | [Pressure](https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Pressure](https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE) | 3:27 | 2025-08-26 |  |
 | [Pretty Girl Bop](https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [Hear Me Out](https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC) | 2:18 | 2024-04-26 | 2025-01-31 |
+| [prIDe](https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [In A Matter of Time](https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H) | 2:35 | 2025-11-07 |  |
 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 | 2023-06-09 | 2024-04-19 |
 | [Prisoner](https://open.spotify.com/track/1wegRvKF1pqIRbmKBldgqi) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [Prisoner](https://open.spotify.com/album/7FgEXVgAP6fJjkZcHdc30T) | 2:24 | 2022-03-17 | 2022-04-08 |
 | [Prophesy](https://open.spotify.com/track/1OdzPLdObHnYvixgViXwtS) | [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [Apollo](https://open.spotify.com/album/0reda2xhxKY247dKfTn9Wy) | 2:30 | 2022-10-13 | 2023-06-17 |

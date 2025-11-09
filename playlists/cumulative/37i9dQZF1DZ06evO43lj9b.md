@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 13 min
+68 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 | 2025-03-11 |  |
 | [Everytime I See You](https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:37 | 2025-03-11 |  |
 | [Exotic Dance \- From The "Coffy" Soundtrack](https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 3:18 | 2025-03-11 |  |
+| [Feed Me Your Love](https://open.spotify.com/track/6HSLTou3stVB46VMEiNK1N) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Soulsociety](https://open.spotify.com/artist/1jQbHWXe0zA2ZcrS6ngzPc) | [Feed Me Your Love](https://open.spotify.com/album/4p6oGoxRZvCAcbhuwF8Rjs) | 4:14 | 2025-11-09 |  |
 | [FIND YOUR WINGS \(feat\. Roy Ayers, Sydney Bennett & Kali Uchis\)](https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 2:59 | 2025-03-11 |  |
 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 | 2025-03-11 |  |
 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 | 2025-03-11 |  |
-| [Good Vibrations \- Kerri's Mad Mix](https://open.spotify.com/track/4IcB22Vd7pYjqeO3qCgIk0) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Basement, A Red Light, & A Feelin', Vol\. 2](https://open.spotify.com/album/5hzi4K0UmEH0HXDl9Wuca1) | 6:43 | 2025-07-16 |  |
+| [Good Vibrations \- Kerri's Mad Mix](https://open.spotify.com/track/4IcB22Vd7pYjqeO3qCgIk0) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Basement, A Red Light, & A Feelin', Vol\. 2](https://open.spotify.com/album/5hzi4K0UmEH0HXDl9Wuca1) | 6:43 | 2025-07-16 | 2025-11-09 |
 | [Gravity](https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:26 | 2025-03-11 |  |
 | [Gravity \- Instrumental](https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09) | 3:26 | 2025-03-11 |  |
 | [Green and Gold](https://open.spotify.com/track/4Y2c8eFEjpo5Su3PYFSZaQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 4:52 | 2025-03-11 | 2025-08-31 |

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Caparezza in cover.",
-  "num_followers": 47952,
+  "num_followers": 47961,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "The Island Chainsaw Massacre",
-        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 227944,
-      "name": "La prima volta",
-      "url": "https://open.spotify.com/track/4iHvUClvh0Tt277bvN1PZ8"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "Lato B (feat. Mecna, Gu\u00e8)",
         "url": "https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 176860,
       "name": "Lato B (feat. Mecna, Gu\u00e8)",
       "url": "https://open.spotify.com/track/0AsFfEWaMpWFZR1EQsa7OK"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "The Island Chainsaw Massacre",
+        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 227944,
+      "name": "La prima volta",
+      "url": "https://open.spotify.com/track/4iHvUClvh0Tt277bvN1PZ8"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Viscerale",
-        "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Idiocracy (feat. Gemitaiz)",
-      "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "CVLT - HELLRAISERS",
         "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
       },
@@ -755,30 +735,46 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF"
+        "name": "Viscerale",
+        "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
       },
       "artists": [
         {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
         },
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Joshua",
-          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
-        },
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 197290,
-      "name": "Welcome To The Jungle (feat. Ernia, Joshua, Neffa)",
-      "url": "https://open.spotify.com/track/7D5N7XBeGeAedTg7oL8xEl"
+      "duration_ms": 163000,
+      "name": "Idiocracy (feat. Gemitaiz)",
+      "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "Classe 73",
+        "url": "https://open.spotify.com/album/54GeEc4tDY4pozqquEQ8qj"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        },
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        },
+        {
+          "name": "Zampa",
+          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Giorni matti",
+      "url": "https://open.spotify.com/track/4UcEhlM24HS6DkVwnv7Hys"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -823,26 +819,30 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Classe 73",
-        "url": "https://open.spotify.com/album/54GeEc4tDY4pozqquEQ8qj"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF"
       },
       "artists": [
         {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
         },
         {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         },
         {
-          "name": "Zampa",
-          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Giorni matti",
-      "url": "https://open.spotify.com/track/4UcEhlM24HS6DkVwnv7Hys"
+      "duration_ms": 197290,
+      "name": "Welcome To The Jungle (feat. Ernia, Joshua, Neffa)",
+      "url": "https://open.spotify.com/track/7D5N7XBeGeAedTg7oL8xEl"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "The Island Chainsaw Massacre",
         "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 220682,
       "name": "Il senso dell'odio",
       "url": "https://open.spotify.com/track/4dmlwM2UEHKR4BNQSm5zbN"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 281333,
-      "name": "In Linea",
-      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "Background",
         "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
       },
@@ -979,26 +963,38 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "24/7 (feat. Ensi & Gemitaiz)",
-        "url": "https://open.spotify.com/album/3xf6UBG5iCYpuCEm8B8qqy"
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
       "artists": [
         {
-          "name": "Fudasca",
-          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 181333,
-      "name": "24/7 (feat. Ensi & Gemitaiz)",
-      "url": "https://open.spotify.com/track/0az7apM48e0VbhrYbjU2BD"
+      "duration_ms": 281333,
+      "name": "In Linea",
+      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "CVLT - HELLRAISERS",
+        "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 110262,
+      "name": "HELLRAISERS",
+      "url": "https://open.spotify.com/track/3aYEFedGDfaZnxj0ezWf44"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1027,6 +1023,30 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
+        "name": "24/7 (feat. Ensi & Gemitaiz)",
+        "url": "https://open.spotify.com/album/3xf6UBG5iCYpuCEm8B8qqy"
+      },
+      "artists": [
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "24/7 (feat. Ensi & Gemitaiz)",
+      "url": "https://open.spotify.com/track/0az7apM48e0VbhrYbjU2BD"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
         "name": "L'amico degli amici",
         "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 242880,
       "name": "Cosa vuoi da me",
       "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "CVLT - HELLRAISERS",
-        "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 110262,
-      "name": "HELLRAISERS",
-      "url": "https://open.spotify.com/track/3aYEFedGDfaZnxj0ezWf44"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1299,6 +1299,30 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
+        "name": "107 Elementi",
+        "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Chico Mdee",
+          "url": "https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek"
+        },
+        {
+          "name": "Anna Marotta",
+          "url": "https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Guerra E Pace",
+      "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "107 Elementi",
-        "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Chico Mdee",
-          "url": "https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek"
-        },
-        {
-          "name": "Anna Marotta",
-          "url": "https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Guerra E Pace",
-      "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1715,30 +1715,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "IncrEdible Freestyle, Pt. III",
-        "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
-      },
-      "artists": [
-        {
-          "name": "W.edy Wonders",
-          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        }
-      ],
-      "duration_ms": 85500,
-      "name": "IncrEdible Freestyle, Pt. III",
-      "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "Questo non \u00e8 un cane / Domo",
         "url": "https://open.spotify.com/album/0oVlowAcydHpJvAaR3jVUK"
       },
@@ -1759,6 +1735,30 @@
       "duration_ms": 179213,
       "name": "Nak Su Kao - Parte 2 - Domo Version",
       "url": "https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "IncrEdible Freestyle, Pt. III",
+        "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
+      },
+      "artists": [
+        {
+          "name": "W.edy Wonders",
+          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        }
+      ],
+      "duration_ms": 85500,
+      "name": "IncrEdible Freestyle, Pt. III",
+      "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
-        "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
-      },
-      "artists": [
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 141090,
-      "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "IncrEdible Freestyle, pt. IV",
         "url": "https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 73846,
       "name": "IncrEdible Freestyle, pt. IV",
       "url": "https://open.spotify.com/track/6VrZppoTt3YJ847GZYg1Iv"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
+        "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "duration_ms": 141090,
+      "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -2435,6 +2435,26 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
+        "name": "Melograno",
+        "url": "https://open.spotify.com/album/7ymhSWJJsQHDrbuJYDAQxw"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Kintsugi",
+          "url": "https://open.spotify.com/artist/6nkziP0t4AGtsBye9poRnv"
+        }
+      ],
+      "duration_ms": 265288,
+      "name": "Anima Nera",
+      "url": "https://open.spotify.com/track/3VTAOKO2J31R9hygGe0U5j"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
         "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
         "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
       },
@@ -2451,22 +2471,6 @@
       "duration_ms": 235329,
       "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "Malastrada",
-        "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Malastrada",
-      "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -2555,6 +2559,38 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
+        "name": "Nostra Signora delle Lacrime",
+        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
+      },
+      "artists": [
+        {
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
+        }
+      ],
+      "duration_ms": 229588,
+      "name": "Nostra Signora delle Lacrime",
+      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "Malastrada",
+        "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Malastrada",
+      "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
         "name": "Ragazzi fuori",
         "url": "https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88"
       },
@@ -2575,22 +2611,6 @@
       "duration_ms": 189145,
       "name": "Ragazzi fuori",
       "url": "https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "Nostra Signora delle Lacrime",
-        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
-      },
-      "artists": [
-        {
-          "name": "Kento",
-          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
-        }
-      ],
-      "duration_ms": 229588,
-      "name": "Nostra Signora delle Lacrime",
-      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -2763,22 +2783,22 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Melograno",
-        "url": "https://open.spotify.com/album/7ymhSWJJsQHDrbuJYDAQxw"
+        "name": "MIND SOUL & BODY",
+        "url": "https://open.spotify.com/album/6XOkk85os1H8lL945jBar1"
       },
       "artists": [
         {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+          "name": "Roy Zen",
+          "url": "https://open.spotify.com/artist/2azLwmHQ6KwyMFETQBsrLi"
         },
         {
-          "name": "Kintsugi",
-          "url": "https://open.spotify.com/artist/6nkziP0t4AGtsBye9poRnv"
+          "name": "Riccardino",
+          "url": "https://open.spotify.com/artist/5bQQAPECTO5PNCuaHYB9pm"
         }
       ],
-      "duration_ms": 265288,
-      "name": "Anima Nera",
-      "url": "https://open.spotify.com/track/3VTAOKO2J31R9hygGe0U5j"
+      "duration_ms": 190843,
+      "name": "VIZI CAPITALI",
+      "url": "https://open.spotify.com/track/78b0aztW6ygsDMJeNiwaTQ"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -2807,26 +2827,6 @@
       "duration_ms": 208192,
       "name": "La Lampara",
       "url": "https://open.spotify.com/track/6AxsGoBi4QkufzRFacIBpW"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "MIND SOUL & BODY",
-        "url": "https://open.spotify.com/album/6XOkk85os1H8lL945jBar1"
-      },
-      "artists": [
-        {
-          "name": "Roy Zen",
-          "url": "https://open.spotify.com/artist/2azLwmHQ6KwyMFETQBsrLi"
-        },
-        {
-          "name": "Riccardino",
-          "url": "https://open.spotify.com/artist/5bQQAPECTO5PNCuaHYB9pm"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "VIZI CAPITALI",
-      "url": "https://open.spotify.com/track/78b0aztW6ygsDMJeNiwaTQ"
     },
     {
       "added_at": "2025-11-06 23:01:14",

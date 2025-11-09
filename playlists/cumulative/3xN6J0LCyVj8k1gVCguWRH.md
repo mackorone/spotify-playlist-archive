@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,420 songs - 12 day 14 hr 48 min
+5,421 songs - 12 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3562,6 +3562,7 @@
 | [PATCHWORK \- Radio Edit](https://open.spotify.com/track/2ac8KmR69enHJubRQpp4aW) | [CĖLINE CADDEÖ](https://open.spotify.com/artist/3JREZW2Twp1ppvXlRjRnrn) | [PATCHWORK \(Radio Edit\)](https://open.spotify.com/album/4385VlJrWJcltNcEjz4TXJ) | 3:05 | 2025-07-28 | 2025-09-06 |
 | [Pathetic](https://open.spotify.com/track/2jYS10MplyTqldMnvXjROC) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Pathetic](https://open.spotify.com/album/1moRWtSP964z6qOEGi0diF) | 3:02 | 2022-08-19 | 2022-09-04 |
 | [Patience](https://open.spotify.com/track/11Y8QdmR0stxwNVKUY6amJ) | [E'Lanah](https://open.spotify.com/artist/2DMHbLQHNaBVpFoIQWAAZJ) | [Patience](https://open.spotify.com/album/240tdkJqWdtxRkRKgcTE1E) | 2:08 | 2024-03-24 | 2024-04-06 |
+| [Pay Day](https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Pay Day](https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB) | 3:25 | 2025-11-08 |  |
 | [Pay the Price](https://open.spotify.com/track/3nSCIWeddEXa0wdCQ07nB2) | [Barameer](https://open.spotify.com/artist/33Wc386SadkwsL9qWThZ30) | [Pay the Price](https://open.spotify.com/album/7y4HRz6j06NWTSfmLk4Qqg) | 4:49 | 2024-02-06 | 2024-02-18 |
 | [Pa’ besarte](https://open.spotify.com/track/2uVCgGQRVEQMSbUNJDbYYd) | [Miléna Boleda](https://open.spotify.com/artist/5tOodo2747NVK5UAvXoDet) | [Pa’ besarte](https://open.spotify.com/album/2XnyGAjJrj5Wr5KoHqOCvv) | 2:53 | 2023-03-17 | 2023-04-09 |
 | [PBE](https://open.spotify.com/track/0sHVpJqwsO4F2RZ6c8HJM3) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [Spitty](https://open.spotify.com/artist/3o4GlelHWI6tlB04MACpS6), [Achanté](https://open.spotify.com/artist/5WWz6bTj6l2NOFLs1RvTnI), [Siren Sav](https://open.spotify.com/artist/58yrLOZFHchwM7MkyLJgw0) | [PBE](https://open.spotify.com/album/1hvL2CQed7IdxlemP9icR7) | 3:08 | 2024-03-25 | 2024-04-06 |
@@ -4579,7 +4580,7 @@
 | [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-07-04 | 2025-07-21 |
 | [Team](https://open.spotify.com/track/1ooO1j7bseZCHaCFxVpoMq) | [Xavier Weeks](https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e) | [Team](https://open.spotify.com/album/7mEPIfbgOmhFv2ogiJjUA5) | 2:30 | 2020-03-11 | 2020-04-09 |
 | [Tears](https://open.spotify.com/track/2pp6R1OYJ4aOrlPSW3nwf5) | [SK & the Kings](https://open.spotify.com/artist/0GrMwJY2CHZ8tMrM0QCW7N) | [Tears](https://open.spotify.com/album/4co1LG0NwT4GxMeFJWkmBC) | 3:34 | 2024-04-13 | 2024-04-26 |
-| [Technicolour](https://open.spotify.com/track/2nuPzkMggmo4bc57czuAkb) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Technicolour](https://open.spotify.com/album/0rJekyyHBXYANCm4VrO3dk) | 2:43 | 2025-09-26 |  |
+| [Technicolour](https://open.spotify.com/track/2nuPzkMggmo4bc57czuAkb) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Technicolour](https://open.spotify.com/album/0rJekyyHBXYANCm4VrO3dk) | 2:43 | 2025-09-26 | 2025-11-09 |
 | [Teeth](https://open.spotify.com/track/3RHOJj7elCCF1ZDSb2Wql9) | [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A), [Ricky Bakken](https://open.spotify.com/artist/2KaPiBST3SmBLVOFiXAHt7), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG) | [Teeth](https://open.spotify.com/album/4vQQ7QLspJRHFxmLcaqxa8) | 3:53 | 2021-09-25 | 2021-10-11 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-05-05 | 2021-07-12 |
 | [Teleport](https://open.spotify.com/track/0Sl0DTpE41cXFwblnBt1UN) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Teleport](https://open.spotify.com/album/7H4nESb8FK8bqb7g1e5x0I) | 3:45 | 2022-09-06 | 2022-09-23 |

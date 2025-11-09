@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6fi0ExpvtWx0vQUelJkwmV.md) - [plain]
 
 > The hardest beats from the rap game Photo: MoStack
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 450,174 likes - 62 songs - 3 hr 22 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 450,049 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

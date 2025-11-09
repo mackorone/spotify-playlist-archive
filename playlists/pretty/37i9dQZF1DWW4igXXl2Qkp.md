@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:2U3bFzN7xGOhqdATusepqC">diamond\*</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,743 likes - 105 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,740 likes - 105 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [angry](https://open.spotify.com/track/4K313VxqovkYcfEINbm9vd) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [angry](https://open.spotify.com/album/4DGGFggwauVvD7qenkpFTw) | 2:04 |
 | 2 | [Birds like Popeyes](https://open.spotify.com/track/5ajbOZ9tgMi2lMXeEYI7Bo) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [THE STREETS IS YOURS: THE RE\-UP](https://open.spotify.com/album/7o9dw65UljYGdHmL3MwOWs) | 2:16 |
-| 3 | [RAIN](https://open.spotify.com/track/6Y5NUfyedmDMqDOzwKI95u) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7), [Nevanotworkin](https://open.spotify.com/artist/66D3zvYXWSr9ZhrS1hMIO2) | [RAIN](https://open.spotify.com/album/6AkIcgIIcyA8msosLynDjD) | 2:06 |
+| 3 | [RAIN](https://open.spotify.com/track/6Y5NUfyedmDMqDOzwKI95u) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7), [Nevanotworkin](https://open.spotify.com/artist/2JLiQ7ECnyXIbuTrqF9n0s) | [RAIN](https://open.spotify.com/album/6AkIcgIIcyA8msosLynDjD) | 2:06 |
 | 4 | [YNGTC](https://open.spotify.com/track/5fT5Z9inMe6HICbOFn2Xo5) | [Honest](https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [SKT Boo](https://open.spotify.com/artist/0MiraflzK2RyltVdlBoySS), [Kkruggerr](https://open.spotify.com/artist/2FZtj9DIHfnnrUvJcwsLSz) | [YNGTC](https://open.spotify.com/album/7rjLcWrSnoVjhbJx6KVzKo) | 2:57 |
 | 5 | [bada bing, bada bØØm](https://open.spotify.com/track/0UWHB6M62TXlNBxXDnMvBH) | [diamond\*](https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC), [Tezzus](https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm) | [nØ idØls](https://open.spotify.com/album/2HW9aqwH82wFcicAvcwRIC) | 2:14 |
 | 6 | [Affirmations \- Remix](https://open.spotify.com/track/29vJlClxzbMkWsZjnsmDCx) | [Flippa T](https://open.spotify.com/artist/7ybmXfgq1wUp1tdU9Wnx1I), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Affirmations \(Remix\)](https://open.spotify.com/album/6FVdpIQlb0eu5tdlbgt1DS) | 3:04 |

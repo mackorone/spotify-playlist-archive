@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 18 min
+76 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Pop Dat](https://open.spotify.com/track/69IaTU22g3APresMDbF4g9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 2:06 | 2022-10-28 |  |
 | [Poppin](https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:34 | 2022-10-28 |  |
 | [Pretty Brown](https://open.spotify.com/track/2H0wxi6MurPj7C6JxuuDEs) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:25 | 2024-12-02 | 2025-01-20 |
+| [PRIVATE STUFF \- \(ROUND III\) \- Remix](https://open.spotify.com/track/6VHhhu1x6uPgxoQb2cYCJc) | [Lit Soxx](https://open.spotify.com/artist/1snN4cSdpQ343jjaMHGum1), [Jr Patton](https://open.spotify.com/artist/6NYftlSTiVH5RtdPihCoVZ), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [PRIVATE STUFF \- \(ROUND III\) \[Remix\]](https://open.spotify.com/album/7mRJpQTCgIYsC4mqnEdO8v) | 3:58 | 2025-11-09 |  |
 | [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 | 2025-07-19 |  |
 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 | 2022-10-28 |  |
 | [Reason](https://open.spotify.com/track/52hWMRYetR1B4qm2GtLPCY) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:45 | 2022-10-28 | 2025-09-10 |
@@ -75,7 +76,7 @@
 | [To The Money \- feat\. Lakeyah](https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Bridge Kard Blessings](https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy) | 2:26 | 2025-03-30 |  |
 | [Too Much](https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:47 | 2022-10-28 |  |
 | [Unappreciated](https://open.spotify.com/track/0jl2WSHcqP9yCWZByP4YTW) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:52 | 2024-12-03 | 2025-01-20 |
-| [Upset \(feat\. Bankroll Freddie\)](https://open.spotify.com/track/4oXkBI4XCMNIt17XZJTXHB) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:32 | 2024-05-12 |  |
+| [Upset \(feat\. Bankroll Freddie\)](https://open.spotify.com/track/4oXkBI4XCMNIt17XZJTXHB) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:32 | 2024-05-12 | 2025-11-09 |
 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 | 2023-07-08 |  |
 | [WATER \(with Lakeyah\)](https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:14 | 2024-10-20 |  |
 | [Windows](https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 3:19 | 2022-10-28 |  |

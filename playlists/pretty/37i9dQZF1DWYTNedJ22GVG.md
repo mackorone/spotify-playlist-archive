@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,813 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,040 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

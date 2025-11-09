@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159254,
+  "num_followers": 159260,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -55,34 +55,6 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Me Pede",
-        "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "LKAHH",
-          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
-        },
-        {
-          "name": "PL",
-          "url": "https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1"
-        }
-      ],
-      "duration_ms": 156090,
-      "name": "Me Pede",
-      "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -107,6 +79,34 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
+        "name": "Me Pede",
+        "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        },
+        {
+          "name": "PL",
+          "url": "https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1"
+        }
+      ],
+      "duration_ms": 156090,
+      "name": "Me Pede",
+      "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Eles N\u00e3o Querem",
-        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "TerrorDosBeats",
-          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Eles N\u00e3o Querem",
-      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
         "name": "quem dera fosse...",
         "url": "https://open.spotify.com/album/2buJ0NeUZkGf0uu4I7CjCK"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 169043,
       "name": "quem dera fosse...",
       "url": "https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
+        "name": "Eles N\u00e3o Querem",
+        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Eles N\u00e3o Querem",
+      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        },
+        {
+          "name": "lowz",
+          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
         "name": "MIXTRAPISEIRO",
         "url": "https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 192296,
       "name": "BUND\u00c3O GG",
       "url": "https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "lowz",
-          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Mensagem",
-      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
-      },
-      "artists": [
-        {
-          "name": "Nitto",
-          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
         "name": "Jam #2",
         "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 214509,
       "name": "Jam #02 - Tudo do Melhor/Prosperidade",
       "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
+      },
+      "artists": [
+        {
+          "name": "Nitto",
+          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -1343,34 +1343,18 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Astro Rei",
-        "url": "https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr"
+        "name": "Sem Modera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0yYitJaSJ1B1M4F6BxOzbZ"
       },
       "artists": [
         {
-          "name": "Zapi",
-          "url": "https://open.spotify.com/artist/3GabjOPnWsQikvKkBTp4Eu"
-        },
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+          "name": "Meia1",
+          "url": "https://open.spotify.com/artist/74GqSjWiHrUEYWkBhUdaiK"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Astro Rei",
-      "url": "https://open.spotify.com/track/0d4LrgSfIQ6oLxMQbGhTme"
+      "duration_ms": 133124,
+      "name": "Sem Modera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1BkZMa8sgeJVQcSK3fDkVO"
     }
   ],
   "unique_name": "Resenha na Praia",

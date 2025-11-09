@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: LETO\(레토\)\) \(Meet the emerging talents of Korea!\)
 
-1,629 songs - 3 day 19 hr 29 min
+1,630 songs - 3 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,7 @@
 | [DWGU](https://open.spotify.com/track/5WZl00wiXEQ1ZfOwpicbj6) | [Nvll](https://open.spotify.com/artist/3Wt11uU3dWk7lBxTmBKMBD) | [Nvllish](https://open.spotify.com/album/1pJuT5wt6bowBqdTtdiBCq) | 2:27 | 2022-06-09 | 2022-07-05 |
 | [Dynamiter](https://open.spotify.com/track/3jj3XWYMRFEh1tbris5EC4) | [ROYA](https://open.spotify.com/artist/39TCqSkrws4pxZBNtcxIwP), [도한세](https://open.spotify.com/artist/0kBoVGHB5HXCTz3kIvGbid) | [Dynamiter](https://open.spotify.com/album/6ELLXFPacBNNStKchLTcQf) | 2:45 | 2024-08-02 | 2025-02-04 |
 | [earlymorningtrap](https://open.spotify.com/track/2uN8k3k5p9CdXODwXpzfbE) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [earlymorningtrap](https://open.spotify.com/album/7ih0wLgT3oDgJ91GetD2c8) | 3:34 | 2025-03-12 | 2025-06-17 |
-| [ease](https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR) | [Ghim Reezn](https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI) | [ease](https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU) | 2:12 | 2025-07-22 |  |
+| [ease](https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR) | [Ghim Reezn](https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI) | [ease](https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU) | 2:12 | 2025-07-22 | 2025-11-09 |
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-07-04 | 2022-08-19 |
 | [EAU DE SPRING](https://open.spotify.com/track/2rDD8ISyiF38Ir5bKAPKxC) | [Rosanna](https://open.spotify.com/artist/6tOnTVQNPSTwmDsH7QJ5n6) | [EAU DE SPRING](https://open.spotify.com/album/5iLIVvRmGY4d8eqVvf9fPK) | 4:00 | 2022-04-07 | 2022-05-12 |
 | [Echo! \(talk to me baby\)](https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Echo! \(talk to me baby\)](https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha) | 2:54 | 2025-09-12 | 2025-10-02 |
@@ -1305,6 +1305,7 @@
 | [take me for granted](https://open.spotify.com/track/46712M20Ndt8S2s53bm5p5) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [corny plots](https://open.spotify.com/album/0zfLg9e00dK71hQxYzsmUO) | 4:00 | 2025-09-12 |  |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-05 |
 | [Take My Time](https://open.spotify.com/track/18rWAmfIQr6X4g4UvlTGNk) | [Juno Oh](https://open.spotify.com/artist/7d3nLKDcRWGJ9eegwwk2Z0) | [Vanish](https://open.spotify.com/album/47Zsi31eBKHriYe4tyTmQx) | 5:15 | 2023-02-21 | 2023-05-02 |
+| [Take\-Off](https://open.spotify.com/track/76vuTnayDmrSqcsXMBsUKH) | [LETO](https://open.spotify.com/artist/285lBSkYP90rbAfrASyMnQ) | [\[OVA\] DERIVED CITY : SCRAMBLE](https://open.spotify.com/album/4Ognz9XonmylFcd0NAc280) | 5:18 | 2025-11-08 |  |
 | [TALKIN' TO ME? \(Feat\. Moon Sujin\)](https://open.spotify.com/track/1OhUVGjJxolp7q2uYNIY3t) | [ANODE](https://open.spotify.com/artist/6geDtQQ0NX4O2u6BxnU5Z6), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [TALKIN' TO ME? \(Feat\. Moon Sujin\)](https://open.spotify.com/album/4DVGwTdWF2H2GTksbr90aJ) | 3:36 | 2025-10-18 |  |
 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 | 2022-10-02 | 2023-02-01 |
 | [Teach Me](https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Teach Me](https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd) | 2:53 | 2023-06-01 | 2024-01-03 |

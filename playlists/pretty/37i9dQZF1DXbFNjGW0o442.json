@@ -419,6 +419,26 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "FOCKIT",
+        "url": "https://open.spotify.com/album/4nnNxlAnRrPpq60rfQQGFj"
+      },
+      "artists": [
+        {
+          "name": "Sara Socas",
+          "url": "https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "FOCKIT",
+      "url": "https://open.spotify.com/track/5GtpLxt1nATe0TtoTRrRud"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Misterio Relampago",
         "url": "https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg"
       },
@@ -451,26 +471,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "FOCKIT",
-        "url": "https://open.spotify.com/album/4nnNxlAnRrPpq60rfQQGFj"
-      },
-      "artists": [
-        {
-          "name": "Sara Socas",
-          "url": "https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "FOCKIT",
-      "url": "https://open.spotify.com/track/5GtpLxt1nATe0TtoTRrRud"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Ibiza Pareo",
         "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 250160,
       "name": "Arido Espejismo",
       "url": "https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Andrea Echeverri",
+        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -515,22 +531,6 @@
       "duration_ms": 291280,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Andrea Echeverri",
-        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
-      },
-      "artists": [
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Raices de Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 127426,
-      "name": "Feliz en Mi Soledad",
-      "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Chica Violeta",
         "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+        "name": "Raices de Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
       },
       "artists": [
         {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
         }
       ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
+      "duration_ms": 127426,
+      "name": "Feliz en Mi Soledad",
+      "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -679,18 +663,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
       },
       "artists": [
         {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -711,6 +695,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Mentes Procesadas",
         "url": "https://open.spotify.com/album/4zUom1xiED56afLoHAdSuG"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 169398,
-      "name": "Clav\u00edcula",
-      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 283380,
       "name": "Desordenar",
       "url": "https://open.spotify.com/track/1FAht60T3avEUv7qG058Um"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 169398,
+      "name": "Clav\u00edcula",
+      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Somethin' Sweet",
-        "url": "https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646"
+        "name": "beso despedida",
+        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Ernestina",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
         }
       ],
-      "duration_ms": 232064,
-      "name": "Somethin' Sweet",
-      "url": "https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ"
+      "duration_ms": 136364,
+      "name": "beso despedida",
+      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "beso despedida",
-        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
+        "name": "Somethin' Sweet",
+        "url": "https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646"
       },
       "artists": [
         {
-          "name": "Ernestina",
-          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 136364,
-      "name": "beso despedida",
-      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
+      "duration_ms": 232064,
+      "name": "Somethin' Sweet",
+      "url": "https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Dimensi\u00f3n 3000",
-        "url": "https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 202061,
-      "name": "Dimensi\u00f3n 3000",
-      "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Esquizofrenia",
         "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 188330,
       "name": "Esquizofrenia",
       "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Dimensi\u00f3n 3000",
+        "url": "https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 202061,
+      "name": "Dimensi\u00f3n 3000",
+      "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Primera Temporada",
-        "url": "https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk"
+        "name": "Arder",
+        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
       },
       "artists": [
         {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
+          "name": "M\u00e1s Que Uno",
+          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
         }
       ],
-      "duration_ms": 137261,
-      "name": "V\u00f3mito",
-      "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"
+      "duration_ms": 220249,
+      "name": "Tu Caminar",
+      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Arder",
-        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
+        "name": "Primera Temporada",
+        "url": "https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk"
       },
       "artists": [
         {
-          "name": "M\u00e1s Que Uno",
-          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
         }
       ],
-      "duration_ms": 220249,
-      "name": "Tu Caminar",
-      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
+      "duration_ms": 137261,
+      "name": "V\u00f3mito",
+      "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Una Temporada en el Invierno",
-        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 236081,
-      "name": "Una Temporada en el Invierno",
-      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 145086,
       "name": "Ghost in the Machine",
       "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Una Temporada en el Invierno",
+        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 236081,
+      "name": "Una Temporada en el Invierno",
+      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "perfecta",
-        "url": "https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 160519,
-      "name": "perfecta",
-      "url": "https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Libido",
         "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 175114,
       "name": "Libido",
       "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "perfecta",
+        "url": "https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 160519,
+      "name": "perfecta",
+      "url": "https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
+      },
+      "artists": [
+        {
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Nada, Nadie",
+      "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Rompe Paga",
         "url": "https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 182400,
       "name": "Perro",
       "url": "https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
     }
   ],
   "unique_name": "Rockeras",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With winterburn, After Cooking, Leblanc and more",
+  "description": "With After Cooking, Leblanc, winterburn and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 233173,
       "name": "1968",
       "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 372640,
       "name": "54",
       "url": "https://open.spotify.com/track/716vLwPfdagrP3kGrYPmTh"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 323200,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/4gfwkR7XoKv6G5OCN8jeHC"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 287213,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 337920,
       "name": "Dissociative",
       "url": "https://open.spotify.com/track/4oNnLEVCRyD3Into7UwOKy"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 246045,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/6r6dx1lVXkRHgTgHA1eTaT"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 248609,
       "name": "Light Odyssey",
       "url": "https://open.spotify.com/track/7tlSFbaDVYVA8K0e3AEvzc"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 371859,
       "name": "Movement",
       "url": "https://open.spotify.com/track/4qbk7CaLjQIjuQpebRnyFN"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 220816,
       "name": "Portrait \u00e9questre",
       "url": "https://open.spotify.com/track/7AX2d48SmVcQShBTyY4q8B"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 281920,
       "name": "Prince Caster",
       "url": "https://open.spotify.com/track/6XxJfXxQAeyUOVl8Pg0gMY"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 429055,
       "name": "Shapes in the Spray",
       "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 228659,
       "name": "Shapes in the Spray - Gone Remix",
       "url": "https://open.spotify.com/track/05X7MSuKJ8CN2HI3Pd6Fst"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 191146,
       "name": "Some Garbage",
       "url": "https://open.spotify.com/track/2CnXzEqWKTFZavG50Tonjf"
@@ -2920,7 +2920,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 283520,
       "name": "Things",
       "url": "https://open.spotify.com/track/1HfZcA8qWGZZF4sWcP575R"
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 168960,
       "name": "until the end",
       "url": "https://open.spotify.com/track/0UB9iVDfas6ydjFFeFyBfU"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"
@@ -3338,7 +3338,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 429760,
       "name": "White Flower",
       "url": "https://open.spotify.com/track/4p4DDw6j5D14J8OOnalkqj"

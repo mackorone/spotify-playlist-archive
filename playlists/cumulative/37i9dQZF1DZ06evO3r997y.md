@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-108 songs - 7 hr 7 min
+109 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Dear My Distance](https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 4:05 | 2022-06-09 |  |
 | [Desire Again](https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:00 | 2022-06-09 |  |
 | [Desire Again Live at Nagoyashikoukaidou 2020/10/3](https://open.spotify.com/track/5oZn6bOOlew1U02bABjPGj) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Akari Kito 1st Live Tour "Colorful Closet" Stream Selection](https://open.spotify.com/album/2mUd07vO5fluRbzbey70kw) | 3:58 | 2025-08-13 | 2025-08-19 |
-| [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 | 2022-06-09 |  |
+| [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 | 2022-06-09 | 2025-11-09 |
 | [Dive to World](https://open.spotify.com/track/4yoRRxSVF6beV7G61R1scj) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:35 | 2023-03-03 | 2024-02-02 |
 | [Dive to World](https://open.spotify.com/track/7rGf9Se3KvM58PoCCOktkt) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 3:35 | 2025-04-01 | 2025-05-11 |
 | [Dive to World](https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [キミのとなりで](https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm) | 3:35 | 2022-06-09 |  |
@@ -43,7 +43,8 @@
 | [Esquisse](https://open.spotify.com/track/7aWBulbCFKjBPmY9AOJmhc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/49EXGjFz7XT2UeSqyb2W7H) | 5:08 | 2022-09-15 | 2022-09-17 |
 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2023-04-30 | 2025-05-24 |
 | [Esquisse](https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 5:08 | 2023-05-16 |  |
-| [Eternally](https://open.spotify.com/track/3jsCKT0l7XSXjRjJel9QzC) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC) | 4:16 | 2025-11-01 |  |
+| [Eternally](https://open.spotify.com/track/3jsCKT0l7XSXjRjJel9QzC) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC) | 4:16 | 2025-11-01 | 2025-11-09 |
+| [Eternally](https://open.spotify.com/track/4p5MXB7t7dTlNCRgAuX2qE) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 4:16 | 2025-11-09 |  |
 | [Eternally](https://open.spotify.com/track/3Cm32C3h42tViTAGMEC3lL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [With a Wish](https://open.spotify.com/album/7Ewp3pc0xqGmdTCQDz5Aeq) | 4:16 | 2025-06-27 | 2025-06-28 |
 | [Eternally](https://open.spotify.com/track/3Qa4XkazoM3bHBo9635NWT) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [With a Wish](https://open.spotify.com/album/3SluHCkyfKF9wngEBOWT7M) | 4:16 | 2025-02-28 | 2025-11-05 |
 | [FLAMES](https://open.spotify.com/track/1cHSVGrKm9sHjOlARY6l7Q) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/0jY5AnyprRBeYUabUXOSUH) | 3:29 | 2025-05-19 | 2025-05-21 |

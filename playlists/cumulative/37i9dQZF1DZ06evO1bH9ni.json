@@ -1447,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Lo Logre (En Vivo)",
+        "url": "https://open.spotify.com/album/3YYUwMlpFbCF2E0xLccjLb"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216583,
+      "name": "Lo Logre (En Vivo)",
+      "url": "https://open.spotify.com/track/2KUhobv1VMr3f665kWH7mh"
+    },
+    {
+      "album": {
         "name": "Lo Que Aprend\u00ed",
         "url": "https://open.spotify.com/album/2xxj4SskoPZneewIM68h8X"
       },
@@ -1502,7 +1524,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"

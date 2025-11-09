@@ -17611,6 +17611,24 @@
     },
     {
       "album": {
+        "name": "Not My Problem",
+        "url": "https://open.spotify.com/album/0iWqiMaSv4Q0PiAPz7tVJV"
+      },
+      "artists": [
+        {
+          "name": "Floating Club",
+          "url": "https://open.spotify.com/artist/0NVIwt8ActAN9HoUOYAa0y"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/4K3IRZq72PJsyWuIqLkRkX"
+    },
+    {
+      "album": {
         "name": "Not Okay",
         "url": "https://open.spotify.com/album/3X7XElNmufMmrgDKdiRUSC"
       },

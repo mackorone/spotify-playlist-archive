@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 561823,
+  "num_followers": 561763,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -200,7 +200,7 @@
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 207840,
+      "duration_ms": 207830,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 352178,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Are You In The Room",
         "url": "https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 187383,
       "name": "Are You In The Room",
       "url": "https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 210804,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 244048,
       "name": "Fkn Around (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 210804,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "STAY UP / SWEET",
+        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "duration_ms": 229765,
+      "name": "STAY UP",
+      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "girls like me don't cry (remix) ft. MIN",
         "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 213283,
       "name": "girls like me don't cry (remix) ft. MIN",
       "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "STAY UP / SWEET",
-        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
-      },
-      "artists": [
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        }
-      ],
-      "duration_ms": 229765,
-      "name": "STAY UP",
-      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Wildin'",
-        "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 139613,
-      "name": "Wildin'",
-      "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 115764,
       "name": "Janet",
       "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Wildin'",
+        "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 139613,
+      "name": "Wildin'",
+      "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
     },
     {
       "added_at": "2024-08-23 04:00:00",

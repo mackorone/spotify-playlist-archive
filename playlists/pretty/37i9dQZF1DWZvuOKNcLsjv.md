@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,275 likes - 79 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,270 likes - 79 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

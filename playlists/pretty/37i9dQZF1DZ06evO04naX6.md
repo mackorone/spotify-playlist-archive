@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,927 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,942 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [En Cero](https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Cero](https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq) | 3:43 |
 | 50 | [Hasta Abajo](https://open.spotify.com/track/0rRMe1LBFoq5TjmT1Jye2D) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [De Líder a Leyenda](https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul) | 3:25 |
 
-Snapshot ID: `aQvlAAAAAAB9MXN0L7/ID6ikYIh3unSL`
+Snapshot ID: `aQ02gAAAAAArO7zsR4L25iHW8u4p/u4T`

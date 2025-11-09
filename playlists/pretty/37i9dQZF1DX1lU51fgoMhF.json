@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: DAYOUNG(\ub2e4\uc601))",
-  "num_followers": 262071,
+  "num_followers": 262069,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -259,42 +259,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "Dua Lipa (Complete Edition)",
-        "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "Kiss and Make Up",
-      "url": "https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -315,6 +279,42 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "Dua Lipa (Complete Edition)",
+        "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "Kiss and Make Up",
+      "url": "https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "DUMDi DUMDi",
-        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "DUMDi DUMDi",
-      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "ONE & SIX",
         "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 199402,
       "name": "I'm so sick",
       "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "DUMDi DUMDi",
+        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "DUMDi DUMDi",
+      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "F Girl",
-        "url": "https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP"
-      },
-      "artists": [
-        {
-          "name": "Baby DONT Cry",
-          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
-        }
-      ],
-      "duration_ms": 153082,
-      "name": "F Girl",
-      "url": "https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "ZERO : FEVER Part.1",
         "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 204040,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "F Girl",
+        "url": "https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "duration_ms": 153082,
+      "name": "F Girl",
+      "url": "https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
-        "name": "Metamorphic",
-        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "Cheeky Icy Thang",
-      "url": "https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
         "name": "I-LAND Part.1 Signal Song",
         "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 217322,
       "name": "Into the I-LAND",
       "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "Cheeky Icy Thang",
+      "url": "https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj"
     },
     {
       "added_at": "2025-09-09 10:06:25",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-09-09 10:06:25",
       "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "duration_ms": 161826,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
+    },
+    {
+      "added_at": "2025-09-09 10:06:25",
+      "album": {
         "name": "Hands on Me",
         "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 198420,
       "name": "Why Don\u2019t You Know",
       "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"
-    },
-    {
-      "added_at": "2025-09-09 10:06:25",
-      "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "duration_ms": 161826,
-      "name": "MOONLIGHT",
-      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
     },
     {
       "added_at": "2025-09-09 10:06:25",

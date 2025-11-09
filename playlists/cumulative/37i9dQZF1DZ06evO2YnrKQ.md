@@ -4,7 +4,7 @@
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-74 songs - 5 hr 13 min
+75 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Misogyny](https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Misogyny](https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2) | 3:08 | 2025-10-19 |  |
 | [Mistaken Information](https://open.spotify.com/track/4O8blCM7QOTY09cAzkfp6W) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 4:48 | 2025-10-01 | 2025-10-24 |
 | [My God Is a Reasonable Man](https://open.spotify.com/track/0hZYlJaQO7NZy8gBlcHrJv) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis \(Bonus Tracks\)](https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT) | 3:04 | 2025-02-13 | 2025-02-22 |
+| [Neighbourhood Villain](https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Copies of Old Masters Vol\. 1](https://open.spotify.com/album/4lXM612ThfDUoPZJCGPUqH) | 4:32 | 2025-11-09 |  |
 | [No Rest](https://open.spotify.com/track/0afXgsvsy6YpFI35UWqVLw) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 | 2024-10-02 | 2024-11-04 |
 | [No Transitory](https://open.spotify.com/track/3DVxs4Zojt5UzySQ5icF2U) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:16 | 2022-10-25 |  |
 | [Old Crows](https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:17 | 2022-10-25 | 2025-03-23 |

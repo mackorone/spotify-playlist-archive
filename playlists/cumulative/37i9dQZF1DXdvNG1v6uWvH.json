@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "40K",
+        "url": "https://open.spotify.com/album/7B54EnRMskcckTkCqg7LM6"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Mikki",
+          "url": "https://open.spotify.com/artist/5ktcipif6fOWSW9PG2CqsR"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115658,
+      "name": "40K",
+      "url": "https://open.spotify.com/track/6KewDDqZUKmNLPEWcjzVHR"
+    },
+    {
+      "album": {
         "name": "47 Ways to Die",
         "url": "https://open.spotify.com/album/41o7jpd8HmEuP5q26S3leS"
       },
@@ -66887,6 +66905,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2Ynkoi95E99DiAiSoXp2bG"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188225,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6Q7w55fGJRW51X9En2A0wS"
+    },
+    {
+      "album": {
         "name": "home",
         "url": "https://open.spotify.com/album/0qGTzUTmqLwTap5WfHYAqr"
       },
@@ -81490,6 +81526,24 @@
       "duration_ms": 185696,
       "name": "Kerosene Dreams",
       "url": "https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb"
+    },
+    {
+      "album": {
+        "name": "Kex & Kak\u00f3malt",
+        "url": "https://open.spotify.com/album/6xvMWP2lMDTMx1eWZUiiGK"
+      },
+      "artists": [
+        {
+          "name": "Haukur P\u00e1ll",
+          "url": "https://open.spotify.com/artist/5hW6wzxKHLZczvpg8PBTnA"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134262,
+      "name": "Kex & Kak\u00f3malt",
+      "url": "https://open.spotify.com/track/3KfyZDIX4mjBBbw6LdHPRl"
     },
     {
       "album": {
@@ -105442,7 +105496,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 158163,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/7GtFobV2FmkmxVzfjEYI5A"
@@ -127820,7 +127874,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 253377,
       "name": "Shackles",
       "url": "https://open.spotify.com/track/2YSbOF4Pf63bRyK8BuNeE1"
@@ -128458,7 +128512,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 351017,
       "name": "Sheep In Wolf's Clothing",
       "url": "https://open.spotify.com/track/7zhtqdjoVUNXRDu4AGKU16"

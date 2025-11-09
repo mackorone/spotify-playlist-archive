@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,280 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,274 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 47 | [Não Sou Mais Eu](https://open.spotify.com/track/5FbprHnY0bdQuslqVkUCdK) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [Onde Guardamos as Flores?](https://open.spotify.com/album/0lIYF35w3Bkiw8zKx3lG6z) | 4:47 |
 | 48 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/6uQznfXz7xrinjN56u7tbv) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s \(Ao Vivo\)](https://open.spotify.com/album/6nVfk6R3u1SWg2xsD72zu7) | 4:37 |
 | 49 | [te quiero](https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji) | [Nic](https://open.spotify.com/artist/2gkxJPrQK782uTBGA29w5k) | [te quiero](https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B) | 3:35 |
-| 50 | [Romance de Filme](https://open.spotify.com/track/3CIBtDrCnomSWt4m9ucv3m) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [José & Durval](https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu) | 4:25 |
-| 51 | [Minta Meu Sonho \- Ao Vivo](https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Zeca Pagodinho \- 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r) | 3:14 |
+| 50 | [Minta Meu Sonho \- Ao Vivo](https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Zeca Pagodinho \- 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r) | 3:14 |
+| 51 | [Romance de Filme](https://open.spotify.com/track/3CIBtDrCnomSWt4m9ucv3m) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [José & Durval](https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu) | 4:25 |
 | 52 | [Cheia de Manias](https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:00 |
 | 53 | [A Melhor Saída](https://open.spotify.com/track/6nnQ6idUNylK6LBckW9hyO) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/60w2pJCJwfeHzIKYQxue37) | 4:03 |
 | 54 | [Perfume](https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 5:46 |
-| 55 | [Deixa Molhar](https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 3:01 |
-| 56 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
+| 55 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
+| 56 | [Deixa Molhar](https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 3:01 |
 | 57 | [Maravilhosamente Bem](https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:46 |
 | 58 | [NASCENTE DA PAZ](https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Manual Prático Do Novo Samba Tradicional, Vol\. 2: TIA DARCI](https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7) | 3:53 |
 | 59 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |

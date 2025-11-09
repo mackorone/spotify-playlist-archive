@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Huan62
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,077 likes - 105 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,142 likes - 105 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 92 | [Tu No Ta](https://open.spotify.com/track/4TMhWoyolZhdT65j7TZQVh) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [Tu No Ta](https://open.spotify.com/album/2bZ9s6va1273T1krF11lpk) | 2:33 |
 | 93 | [Cuando vienes a verme](https://open.spotify.com/track/1TFCq1vXrV1D8HtpSgge0Z) | [ORWELL](https://open.spotify.com/artist/4CcQuCAxgNrRjcVxisOXlI) | [Cuando vienes a verme](https://open.spotify.com/album/78bUsQ4oamX1fvGCu3o5Ps) | 2:39 |
 | 94 | [Fundi](https://open.spotify.com/track/1rE7ILK1SOj2KKthKcX7oz) | [lejazzy](https://open.spotify.com/artist/6Xjmpnt9WtUHfeBRBD9aER), [Lyry](https://open.spotify.com/artist/4hLz6IstS1KdUegP4JhAVG) | [Fundi](https://open.spotify.com/album/7cVZ3dDvg7asTI1lRQn1s4) | 2:14 |
-| 95 | [TEMU \- versión Ditroit](https://open.spotify.com/track/5lcf4X35Fd4qjKS1ZU7XAs) | [Junior Prestige](https://open.spotify.com/artist/1D9aJ0ODAGTDThQ2POJSlq), [Jay Nex](https://open.spotify.com/artist/3z14e8xJmNmNIMeYNDcV0y) | [TEMU \(versión Ditroit\)](https://open.spotify.com/album/0MZBL3ijvHAaQp41iUU5zE) | 2:12 |
+| 95 | [TEMU](https://open.spotify.com/track/5lcf4X35Fd4qjKS1ZU7XAs) | [Junior Prestige](https://open.spotify.com/artist/1D9aJ0ODAGTDThQ2POJSlq), [Jay Nex](https://open.spotify.com/artist/3z14e8xJmNmNIMeYNDcV0y) | [TEMU](https://open.spotify.com/album/0MZBL3ijvHAaQp41iUU5zE) | 2:12 |
 | 96 | [Malote](https://open.spotify.com/track/0gYDfl4Sq0HIxlYo64Aa4J) | [Liil Jay](https://open.spotify.com/artist/0KA4BF3xL0wSVEY5ovpEru) | [Malote](https://open.spotify.com/album/50i6C1ur6jS1hgpLweFTn7) | 1:59 |
 | 97 | [Qué Rica](https://open.spotify.com/track/5EuQNvwqhke4JDBPktqLDE) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [Geme Broki](https://open.spotify.com/artist/6kc0k5P4fCiZZ02SpPOqSO) | [Qué Rica](https://open.spotify.com/album/2kkcYObbGf9LZFNKeI9vZN) | 2:01 |
 | 98 | [MAYBACH](https://open.spotify.com/track/1iU7gcq1PJI2pkcGwfH5NW) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [MAYBACH](https://open.spotify.com/album/4HGwF9BDwNTKlqVHKtfJtq) | 2:27 |

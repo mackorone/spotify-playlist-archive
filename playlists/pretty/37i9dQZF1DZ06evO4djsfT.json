@@ -1,13 +1,29 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27794,
+  "num_followers": 27796,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACcOz+TLjmF63monoXoXhxZ",
+  "snapshot_id": "aQ02gAAAAABz3iJkPIhnW2uAznETA9ZX",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAMPAIGN",
+        "url": "https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 169528,
+      "name": "CAMPAIGN",
+      "url": "https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM"
+    },
     {
       "added_at": null,
       "album": {
@@ -35,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REVIVAL!",
-        "url": "https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 184865,
-      "name": "REVIVAL!",
-      "url": "https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weight & Glory",
         "url": "https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v"
       },
@@ -71,6 +67,26 @@
       "duration_ms": 197066,
       "name": "Church Clap",
       "url": "https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REVIVAL!",
+        "url": "https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 184865,
+      "name": "REVIVAL!",
+      "url": "https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj"
     },
     {
       "added_at": null,
@@ -315,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blameless",
-        "url": "https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hill Perry",
-          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 163037,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keanu's Song",
         "url": "https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo"
       },
@@ -351,6 +347,26 @@
       "duration_ms": 152911,
       "name": "Keanu's Song",
       "url": "https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blameless",
+        "url": "https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hill Perry",
+          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 163037,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB"
     },
     {
       "added_at": null,
@@ -575,6 +591,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Cardec Drums",
+          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
+        }
+      ],
+      "duration_ms": 203195,
+      "name": "Danza",
+      "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santo (HLY FOREVER)",
         "url": "https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf"
       },
@@ -603,50 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 229807,
-      "name": "The Name (feat. Koryn Hawthorne)",
-      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Cardec Drums",
-          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
-        }
-      ],
-      "duration_ms": 203195,
-      "name": "Danza",
-      "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wholehearted",
         "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
       },
@@ -663,6 +679,38 @@
       "duration_ms": 182095,
       "name": "Wholehearted",
       "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
     },
     {
       "added_at": null,
@@ -687,38 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 187115,
-      "name": "Glory 2 Glory",
-      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II (Deluxe)",
         "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
@@ -731,46 +747,6 @@
       "duration_ms": 177664,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
-      },
-      "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 210507,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": null,
@@ -795,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 210507,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
       },
@@ -815,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Be The Glory (Remix)",
-        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 228705,
-      "name": "God Be The Glory (Remix)",
-      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": null,
@@ -847,6 +843,26 @@
       "duration_ms": 190480,
       "name": "Worship in the Moshpit",
       "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Be The Glory (Remix)",
+        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "God Be The Glory (Remix)",
+      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
     },
     {
       "added_at": null,
@@ -915,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End.",
         "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
       },
@@ -951,6 +947,26 @@
       "duration_ms": 216586,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
     },
     {
       "added_at": null,
@@ -987,30 +1003,6 @@
       "duration_ms": 254040,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Belong",
-        "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
-      },
-      "artists": [
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 177219,
-      "name": "God Speed",
-      "url": "https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC"
     }
   ],
   "unique_name": "This Is KB",

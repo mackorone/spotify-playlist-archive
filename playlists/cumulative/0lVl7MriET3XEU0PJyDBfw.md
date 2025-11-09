@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
 
-889 songs - 1 day 23 hr 3 min
+893 songs - 1 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Deadly Valentine](https://open.spotify.com/track/1LM3MTj0LQxIdrPgsoaoEa) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Deadly Valentine](https://open.spotify.com/album/1KrV7mXE0n4n6OncRaEuPB) | 3:33 | 2025-03-29 | 2025-06-08 |
 | [Deal With Reality \(Broke My Phone\)](https://open.spotify.com/track/1BO3p9XC9Z7a661AvDkoaT) | [ToMix](https://open.spotify.com/artist/2huaButoWP7CiTeaYzKgIR), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Deal With Reality \(Broke My Phone\)](https://open.spotify.com/album/1bUhE8dwLU2dTxJ2xL9CM1) | 4:08 | 2024-10-12 | 2024-12-29 |
 | [Death By Love](https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Death By Love](https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF) | 2:50 | 2025-06-01 | 2025-08-24 |
+| [Deeper](https://open.spotify.com/track/22nHxFyonY4B7j6oS4UrN4) | [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO) | [Deeper](https://open.spotify.com/album/26wzXN7eMrP2rircrTMwhj) | 3:10 | 2025-11-08 |  |
 | [Delante](https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN) | [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE) | [Delante](https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag) | 2:25 | 2024-02-15 | 2024-06-24 |
 | [Delay](https://open.spotify.com/track/3QNUpuxb2519LGFM2WZV6c) | [Aaron Noise](https://open.spotify.com/artist/6ty0sCUB3fj66NfGF9gNIE), [Erik Schievenin](https://open.spotify.com/artist/5DHXQpUieIG2T9Nu9ar5xh) | [Delay](https://open.spotify.com/album/023p1rsZjegR8xw7Wzdutg) | 3:20 | 2025-01-12 | 2025-03-24 |
 | [Demolish](https://open.spotify.com/track/18RjtwfnTsBij9ExHOnS9u) | [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP) | [Demolish](https://open.spotify.com/album/2mP40TbNvu3gEwFDZoL85r) | 2:49 | 2025-06-14 | 2025-09-06 |
@@ -421,6 +422,7 @@
 | [Jungle](https://open.spotify.com/track/7wyAHcp9fxfTKZhHNoABRp) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Jungle](https://open.spotify.com/album/6hNHbMObDJxst0mbXLI6PR) | 2:54 | 2024-11-04 | 2025-01-26 |
 | [Just A Beat](https://open.spotify.com/track/7ctJttGVH4aNSAIhW0SpK2) | [Jaylo](https://open.spotify.com/artist/0AQngXqybNIcqaDFowc4AX), [Jvck Mormon](https://open.spotify.com/artist/5duM6kBaOa8gkrtS7xcOW1) | [Just A Beat](https://open.spotify.com/album/5YlPQbNmhWFt9QwvB5OUzO) | 5:03 | 2025-04-19 | 2025-07-05 |
 | [Just Do It](https://open.spotify.com/track/0eqa1ZYTJEDJy1UHIpTelr) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5) | [Just Do It](https://open.spotify.com/album/4Dg4M3xsbXUQWKIAqVVoUf) | 2:16 | 2024-08-19 | 2024-09-29 |
+| [Just For the Night](https://open.spotify.com/track/1QbVZ0ts3B4LRRCG1gO5v8) | [Shankz](https://open.spotify.com/artist/7JP8tEVrVknJlA3isvkQjz), [javicanx](https://open.spotify.com/artist/4wN3BQc7GFaSMVkZHUPZl4) | [Just For the Night](https://open.spotify.com/album/27fFxAcBDyCLxJD1htH7wC) | 3:25 | 2025-11-08 |  |
 | [Just Let Go](https://open.spotify.com/track/5hn6ItyNv3rEwGW7plCEN9) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Rose Motion](https://open.spotify.com/artist/6uyugtkUnBNsMZNGmkj9oX) | [Just Let Go](https://open.spotify.com/album/4Y7bEqHShseBW6bxnOMfJe) | 3:21 | 2025-06-08 | 2025-08-31 |
 | [Justiça](https://open.spotify.com/track/773tughXqcLU5ztfWVyEsk) | [OldChild](https://open.spotify.com/artist/0ASxOxyFC1JcjhnYxmldls), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Justiça EP](https://open.spotify.com/album/4jlunifPdEPVEVShNZYhrY) | 3:30 | 2025-06-28 | 2025-09-15 |
 | [K7 Tapes \- Radio\-Edit](https://open.spotify.com/track/0cHVPO46hbdZCO9FggzDp9) | [Mister Harris](https://open.spotify.com/artist/0SLeD6CCVAAJjPwvBbmRLw) | [K7 Tapes \(Radio\-Edit\)](https://open.spotify.com/album/3eo8pOB9R2n8rjM020jy0H) | 2:33 | 2025-05-16 | 2025-06-29 |
@@ -521,6 +523,7 @@
 | [Move To The Rhythm](https://open.spotify.com/track/14CtfHMl8bGrrrmiexsyc7) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Move To The Rhythm](https://open.spotify.com/album/7f1qQktGrosEzRZo10dU71) | 3:15 | 2025-05-10 | 2025-07-28 |
 | [Movement](https://open.spotify.com/track/7wdpknEqQUbofUwM2Q5bQe) | [FAME Sounds](https://open.spotify.com/artist/47gZgELu7feCG8NwdhoNF2), [R8DAR](https://open.spotify.com/artist/38wyWYe6FdUwl5CxQxy6I9) | [Movement](https://open.spotify.com/album/4T3WHVgHMgmiDCOUm5SzPt) | 3:25 | 2025-02-22 | 2025-04-28 |
 | [Movin](https://open.spotify.com/track/12X1bR0CDvBXHwZj7Ga39e) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Movin](https://open.spotify.com/album/5Ny5szpMdpgPDg0waz6T4v) | 3:01 | 2024-10-12 | 2024-12-29 |
+| [Moving On](https://open.spotify.com/track/6AF9GAXV1rvuLlAIHB9l7I) | [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq) | [Moving On](https://open.spotify.com/album/5xUwFPBYHhMvyLl5PaxT4m) | 3:35 | 2025-11-08 |  |
 | [Moving Up](https://open.spotify.com/track/42R4QvzLx9RjoZERFzgmA1) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Moving Up](https://open.spotify.com/album/03Af0MKeD3CmqM1G00iaAl) | 3:12 | 2024-08-19 | 2024-09-05 |
 | [Mueve Mami](https://open.spotify.com/track/4aB8jPrxszz9yvmyh7QTYw) | [FAME Sounds](https://open.spotify.com/artist/47gZgELu7feCG8NwdhoNF2), [Sean Swan](https://open.spotify.com/artist/75N6hEuBA5kIJo876GItJC) | [Mueve Mami](https://open.spotify.com/album/5v9jNYEv8LSfr3pgUUbx8S) | 2:50 | 2025-02-03 | 2025-04-12 |
 | [Muhfucka](https://open.spotify.com/track/2Sxk3eqgDvf9oOhI6PJP4b) | [JBoog](https://open.spotify.com/artist/1XWswvDLLoNYxQTreNRUUx) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:06 | 2024-12-19 | 2024-12-21 |
@@ -533,6 +536,7 @@
 | [My Room](https://open.spotify.com/track/4qFjNzANNzqXpgJefFEfXT) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [My Room](https://open.spotify.com/album/0qpGs8a9Y87qeXzj7qLDa4) | 2:29 | 2024-01-21 | 2024-02-06 |
 | [MY TYPE](https://open.spotify.com/track/0NEgkALTriBpIiuCAXWfuS) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [MY TYPE](https://open.spotify.com/album/0QzG8T7TedFy2nt1B2ZNAK) | 2:18 | 2024-12-16 | 2025-02-23 |
 | [Mystic](https://open.spotify.com/track/44r9A7X8akUCR9LYmEs6RM) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 4:05 | 2024-12-19 | 2024-12-21 |
+| [Nanai](https://open.spotify.com/track/22h1x8HUgYEYtoPwjkxLmH) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Nanai EP](https://open.spotify.com/album/1lWiBsGpAmgJi7nmiBFT0i) | 3:15 | 2025-11-08 |  |
 | [Nasty](https://open.spotify.com/track/5Nl0ItwBPIHI4veRFJUoZH) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Nasty](https://open.spotify.com/album/49W2Pw7Ar8pu0Gq9g6Jpu6) | 3:19 | 2024-10-19 | 2025-01-13 |
 | [NASTY](https://open.spotify.com/track/09rdtmzo1R9vmlJhmD3Nbp) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [Fya Man](https://open.spotify.com/artist/644ezI82brXn85lO9kI6ab) | [NASTY](https://open.spotify.com/album/6K2vReL8woto0ZMhUF1P0B) | 2:50 | 2024-11-04 | 2025-01-29 |
 | [Nasty 90's](https://open.spotify.com/track/05wnkzmke8OdvSCdifVcQe) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Nasty 90's](https://open.spotify.com/album/0paMOv42XIiHSfy2MHqCDg) | 6:47 | 2025-07-05 | 2025-09-22 |

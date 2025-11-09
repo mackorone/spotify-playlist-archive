@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:5QdEbQJ3ylBnc3gsIASAT5">G Herbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,178 likes - 159 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,122 likes - 159 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 31 | [BIG TIME \(feat\. Wizkid\)](https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 3:26 |
 | 32 | [ACL](https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:44 |
 | 33 | [Isaka II \(6am\) \[with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats\]](https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Isaka II \(6am\) \[with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats\]](https://open.spotify.com/album/1Ba4tVkFViKy6KmRyd9adZ) | 4:45 |
-| 34 | [RAIN](https://open.spotify.com/track/6Y5NUfyedmDMqDOzwKI95u) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7), [Nevanotworkin](https://open.spotify.com/artist/66D3zvYXWSr9ZhrS1hMIO2) | [RAIN](https://open.spotify.com/album/6AkIcgIIcyA8msosLynDjD) | 2:06 |
+| 34 | [RAIN](https://open.spotify.com/track/6Y5NUfyedmDMqDOzwKI95u) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7), [Nevanotworkin](https://open.spotify.com/artist/2JLiQ7ECnyXIbuTrqF9n0s) | [RAIN](https://open.spotify.com/album/6AkIcgIIcyA8msosLynDjD) | 2:06 |
 | 35 | [jamal crawford](https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [jamal crawford](https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W) | 2:53 |
 | 36 | [LOVER GIRL](https://open.spotify.com/track/3t6kNqWEd1CPE2nPz6wcQg) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [LOVER GIRL](https://open.spotify.com/album/5919KmtJqUR1VqkXJEH2US) | 4:24 |
 | 37 | [muse](https://open.spotify.com/track/6oYUmkBQumOgSeAfBmOH2c) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [muse](https://open.spotify.com/album/3jiHHjsam8b1Yhh3FAckrj) | 2:18 |

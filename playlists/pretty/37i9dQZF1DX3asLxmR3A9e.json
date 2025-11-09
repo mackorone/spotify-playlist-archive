@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2014. Cover: BANKS",
-  "num_followers": 108146,
+  "num_followers": 108182,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Nancy From Now On",
-      "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 343253,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Nancy From Now On",
+      "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Open Season",
-        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
-      },
-      "artists": [
-        {
-          "name": "High Highs",
-          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "Open Season",
-      "url": "https://open.spotify.com/track/1FaD8oKtZEhAV0kHO6mOou"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/6Udtuid2uIXkAZY6zmElfJ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 253200,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/1WbYFNSUNn9fP1x0Z5DU95"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+      },
+      "artists": [
+        {
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+        }
+      ],
+      "duration_ms": 231320,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/1FaD8oKtZEhAV0kHO6mOou"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/2BwewedJhrAHvow8qE5PBQ"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Ch\u00e2teau Lobby #4 (In C for Two Virgins)",
-      "url": "https://open.spotify.com/track/1kpV69gQV5aixc3deHdzOr"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Pop Psychology",
         "url": "https://open.spotify.com/album/0GWiQsYkFersPWJ0I3ZNUC"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 228840,
       "name": "Sleeping With A Friend",
       "url": "https://open.spotify.com/track/6fFuOXIrVHUmSI8IM889wa"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/2BwewedJhrAHvow8qE5PBQ"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Ch\u00e2teau Lobby #4 (In C for Two Virgins)",
+      "url": "https://open.spotify.com/track/1kpV69gQV5aixc3deHdzOr"
     }
   ],
   "unique_name": "Best of Indie 2014",

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Amber Mark",
-  "num_followers": 64581,
+  "num_followers": 64584,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-10-10 04:00:43",
       "album": {
+        "name": "Off Me",
+        "url": "https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        }
+      ],
+      "duration_ms": 173345,
+      "name": "Off Me",
+      "url": "https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz"
+    },
+    {
+      "added_at": "2025-10-10 04:00:43",
+      "album": {
         "name": "Here For It All",
         "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
-    },
-    {
-      "added_at": "2025-10-10 04:00:43",
-      "album": {
-        "name": "Off Me",
-        "url": "https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo"
-      },
-      "artists": [
-        {
-          "name": "Bri3",
-          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
-        }
-      ],
-      "duration_ms": 173345,
-      "name": "Off Me",
-      "url": "https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz"
     },
     {
       "added_at": "2025-10-10 04:00:43",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-10-10 04:00:43",
       "album": {
-        "name": "Crazy Bitch Song",
-        "url": "https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q"
+        "name": "Dent",
+        "url": "https://open.spotify.com/album/08Qgfm6I8ATQE7Vp1Lf8EL"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 133736,
-      "name": "Crazy Bitch Song",
-      "url": "https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM"
+      "duration_ms": 192458,
+      "name": "Dent",
+      "url": "https://open.spotify.com/track/1aPBk61BkA2efpwrSRBFMo"
     },
     {
       "added_at": "2025-10-10 04:00:43",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-10-10 04:00:43",
       "album": {
-        "name": "Dent",
-        "url": "https://open.spotify.com/album/08Qgfm6I8ATQE7Vp1Lf8EL"
+        "name": "Crazy Bitch Song",
+        "url": "https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q"
       },
       "artists": [
         {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 192458,
-      "name": "Dent",
-      "url": "https://open.spotify.com/track/1aPBk61BkA2efpwrSRBFMo"
+      "duration_ms": 133736,
+      "name": "Crazy Bitch Song",
+      "url": "https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM"
     },
     {
       "added_at": "2025-10-10 04:00:43",

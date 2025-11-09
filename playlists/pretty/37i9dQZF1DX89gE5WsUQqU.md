@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 
 > 11월 13\-15, 이제껏 없던 새로운 SPOTIFY HOUSE 서울.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 684 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

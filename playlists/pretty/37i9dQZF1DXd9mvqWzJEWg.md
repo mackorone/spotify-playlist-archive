@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: General C'mamane
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,322 likes - 74 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,404 likes - 74 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Big Spender](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 5:12 |
+| 1 | [Brotherhood](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 4:11 |
 | 2 | [Last Dance](https://open.spotify.com/track/4UDysN1OGxyovYsOm6nUGt) | [Afro Tech Boyz](https://open.spotify.com/artist/79FvZ8T3TzuN1bDoEZuSlB) | [Last Dance](https://open.spotify.com/album/1F0mYbxstDi7z9qgQ1joky) | 5:07 |
 | 3 | [Da Skoro \(feat\. DJ Lag\)](https://open.spotify.com/track/5cZ8gcUyakIIOOLwYZdrjW) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Da Skoro \(feat\. DJ Lag\)](https://open.spotify.com/album/6pKmKLwY30wQl7h6xLung4) | 4:34 |
 | 4 | [Selize Lashona](https://open.spotify.com/track/71d6xWrBzxHKOmIogae071) | [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Real Nkosana](https://open.spotify.com/artist/0ZD2WrzCjaZz1WehWLMQaz), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L) | [Camp Yakithi](https://open.spotify.com/album/3872TJczDV5DJtfvQK6Vkt) | 8:08 |

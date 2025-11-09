@@ -703,6 +703,28 @@
     },
     {
       "album": {
+        "name": "Swimming by Moonlight (New Music from the Documentary \"Let's Get Lost\")",
+        "url": "https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377862,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5"
+    },
+    {
+      "album": {
         "name": "Relaxin'",
         "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
       },
@@ -714,7 +736,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 254729,
       "name": "Relaxin'",
       "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"

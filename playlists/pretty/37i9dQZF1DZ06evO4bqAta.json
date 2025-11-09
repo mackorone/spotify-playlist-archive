@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 584635,
+  "num_followers": 584653,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADia24ToSmWzRmU0XtJmRSn",
+  "snapshot_id": "aQ02gAAAAABExZq5hHQV0+9Wvd2YcLub",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 192053,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boots of Spanish Leather (The Times They Are A-Changin' Alternate Take, NYC, 1963)",
-        "url": "https://open.spotify.com/album/0axVTinrU5728DsrbN8qhH"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 309364,
-      "name": "Boots of Spanish Leather - The Times They Are A-Changin' Alternate Take, NYC, 1963",
-      "url": "https://open.spotify.com/track/71aYPdsgHtu0tgZrJMPqsF"
     },
     {
       "added_at": null,
@@ -223,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "It's All Over Now, Baby Blue",
-      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
@@ -255,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
       "artists": [
         {
@@ -264,9 +232,25 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Song to Woody",
-      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
+      "duration_ms": 252066,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boots of Spanish Leather (The Times They Are A-Changin' Alternate Take, NYC, 1963)",
+        "url": "https://open.spotify.com/album/0axVTinrU5728DsrbN8qhH"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 309364,
+      "name": "Boots of Spanish Leather - The Times They Are A-Changin' Alternate Take, NYC, 1963",
+      "url": "https://open.spotify.com/track/71aYPdsgHtu0tgZrJMPqsF"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
       "duration_ms": 301133,
       "name": "Shelter from the Storm",
       "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Song to Woody",
+      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan's Greatest Hits",
-        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Positively 4th Street",
-      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 256800,
       "name": "Simple Twist of Fate",
       "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Dylan's Greatest Hits",
+        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Positively 4th Street",
+      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
     },
     {
       "added_at": null,

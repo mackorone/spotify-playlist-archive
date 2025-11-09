@@ -1,13 +1,29 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1212041,
+  "num_followers": 1212075,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAA7yOsf3f0jRxAjW1bDnppK",
+  "snapshot_id": "aQ02gAAAAADDcEf8/XqlR9WdlOOrGR3c",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 188802,
+      "name": "bandaids",
+      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
+    },
     {
       "added_at": null,
       "album": {
@@ -875,22 +891,6 @@
       "duration_ms": 202551,
       "name": "NO TEARS FOR NEW YEAR'S",
       "url": "https://open.spotify.com/track/29f9Fsie82gDA7PVdq3qrc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 189772,
-      "name": "Cry About It Later",
-      "url": "https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev"
     }
   ],
   "unique_name": "This Is Katy Perry",

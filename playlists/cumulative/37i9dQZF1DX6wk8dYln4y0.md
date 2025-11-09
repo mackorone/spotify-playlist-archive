@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: BENEE
 
-620 songs - 1 day 9 hr 26 min
+621 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2023-04-06 | 2023-04-29 |
 | [happy 4 u](https://open.spotify.com/track/2OwvgYtIVUT65olr13imQ1) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [happy 4 u](https://open.spotify.com/album/4XM28g2GoNUXkYSV1rvMHe) | 3:16 | 2025-06-26 | 2025-08-01 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-18 | 2024-04-26 |
-| [Heart on Fire](https://open.spotify.com/track/76k6Av4PyMxrMvbY9NHQUU) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Afterglow](https://open.spotify.com/album/49Eh0Oixu9Sfo43ujAY1sk) | 3:13 | 2025-10-23 |  |
+| [Heart on Fire](https://open.spotify.com/track/76k6Av4PyMxrMvbY9NHQUU) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Afterglow](https://open.spotify.com/album/49Eh0Oixu9Sfo43ujAY1sk) | 3:13 | 2025-10-23 | 2025-11-09 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-03-16 | 2023-08-03 |
 | [Heartbeat](https://open.spotify.com/track/1icCZZZJpuUPvhakixy9f2) | [Genes](https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG) | [Heartbeat](https://open.spotify.com/album/0W1MQnllbMtnLl0HJjkWSE) | 2:33 | 2025-03-06 | 2025-03-14 |
 | [Heartstrings](https://open.spotify.com/track/21HCaGayxYiAokAHqydFur) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Heartstrings](https://open.spotify.com/album/2SF0yI3iKH5i3LHLo4bEFF) | 2:53 | 2024-11-14 | 2024-12-06 |
@@ -315,6 +315,7 @@
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-22 | 2024-03-01 |
 | [Kylie's Rant](https://open.spotify.com/track/2q7cHCcQNigbWZWgNW0XHq) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Kylie's Rant](https://open.spotify.com/album/5GFigtgiA22bav8RtBuZgm) | 2:52 | 2025-08-21 | 2025-09-19 |
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-07-31 | 2025-10-24 |
+| [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-06 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-04-13 | 2023-05-10 |
 | [Laila](https://open.spotify.com/track/0VS6Zx5v82N0LFDgVOvgMO) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Laila](https://open.spotify.com/album/1uLpQLcdpCv6F3MtxDm47b) | 3:18 | 2024-11-14 | 2024-12-06 |
 | [Last Forever](https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Last Forever](https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg) | 3:43 | 2025-09-11 | 2025-10-10 |

@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "11 Me Liga Logia",
+        "url": "https://open.spotify.com/album/5nEWR0VKb4FVUEVn1wD0Oe"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274116,
+      "name": "I Apofasi",
+      "url": "https://open.spotify.com/track/70n4CO7lbTM7igJXszoK9P"
+    },
+    {
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
       },
@@ -3842,24 +3860,6 @@
       "duration_ms": 205202,
       "name": "To Viografiko",
       "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "date_added": "2025-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/70n4CO7lbTM7igJXszoK9P"
     },
     {
       "album": {

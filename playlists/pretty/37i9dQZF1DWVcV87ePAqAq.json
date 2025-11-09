@@ -1,6 +1,6 @@
 {
   "description": "R\u00e4nta p\u00e5 r\u00e4nta... \ud83d\udcb8",
-  "num_followers": 356115,
+  "num_followers": 356096,
   "original_name": "Grisch",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-10-21 12:38:57",
       "album": {
-        "name": "Sommarkatt",
-        "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 208201,
-      "name": "Sommarkatt",
-      "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
-    },
-    {
-      "added_at": "2025-10-21 12:38:57",
-      "album": {
         "name": "Viva La Vida",
         "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 147428,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
+    },
+    {
+      "added_at": "2025-10-21 12:38:57",
+      "album": {
+        "name": "Sommarkatt",
+        "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 208201,
+      "name": "Sommarkatt",
+      "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
     },
     {
       "added_at": "2025-10-21 12:38:57",

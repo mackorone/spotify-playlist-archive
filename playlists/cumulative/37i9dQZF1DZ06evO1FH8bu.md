@@ -4,7 +4,7 @@
 
 > This is Neck Deep\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 52 min
+55 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Where Do We Go When We Go](https://open.spotify.com/track/1MpimPh4legrECmPHcdofR) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 | 2024-07-28 |  |
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2024-07-28 |  |
 | [Worth It](https://open.spotify.com/track/6JTAwcIlhgp2JzprOiHpzc) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The B Sides](https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br) | 3:23 | 2024-07-28 |  |
-| [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 | 2025-05-23 |  |
+| [You Should See Me Now](https://open.spotify.com/track/0s8BLMagjuEEqxqJj4HEHG) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep \(Dumbfuck Edition\)](https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa) | 3:44 | 2025-11-09 |  |
+| [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 | 2025-05-23 | 2025-11-09 |
 
 \*This playlist was first scraped on 2024-07-28. Prior content cannot be recovered.

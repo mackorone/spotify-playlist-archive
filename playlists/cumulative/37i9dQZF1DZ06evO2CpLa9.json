@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "No Ser\u00e9 Qui\u00e9n Canta",
+        "url": "https://open.spotify.com/album/4JANnrrOzgDNKfpQeTjQ2v"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250661,
+      "name": "No Ser\u00e9 Qui\u00e9n Canta",
+      "url": "https://open.spotify.com/track/2jw4qfV4ub019PiCre7ZvS"
+    },
+    {
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -2228,7 +2246,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 181000,
       "name": "Solamente",
       "url": "https://open.spotify.com/track/1Dg29EgoDnKx3FXxTz2Adz"

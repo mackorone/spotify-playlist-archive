@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 241783,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5"
@@ -7028,7 +7028,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 138874,
       "name": "BodyRock Part 2 (feat. Lil Uzi Vert) - Remix",
       "url": "https://open.spotify.com/track/1zCu9rhkwqn868ROSuomv6"
@@ -8780,10 +8780,36 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 193635,
       "name": "California Games (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/0nZjAcQr2I4KIKkBEXE4Hx"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi"
+      },
+      "artists": [
+        {
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193635,
+      "name": "California Games (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/1xEqdMfvDPGcwFklsaC35w"
     },
     {
       "album": {
@@ -21668,7 +21694,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 228287,
       "name": "Get No Satisfied !",
       "url": "https://open.spotify.com/track/0JHmUZvsqyo61F9P7cj6H4"
@@ -24510,7 +24536,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 206292,
       "name": "Hector The Hero - Version 2",
       "url": "https://open.spotify.com/track/0gSN0JBMkefXt6ckasVWPa"
@@ -26338,7 +26364,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 194606,
       "name": "I Am Blessed - Ginton Remix",
       "url": "https://open.spotify.com/track/79KbAvCPvnjRZPeJGjqCLp"
@@ -32177,6 +32203,24 @@
     },
     {
       "album": {
+        "name": "American Revolution, a Film by Ken Burns, Sarah Botstein, and David Schmidt. Music From the PBS Documentary",
+        "url": "https://open.spotify.com/album/0L1yIypnICd53OzV0uxAAN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191209,
+      "name": "Les Sauvages",
+      "url": "https://open.spotify.com/track/48AhUdhr7sneJ9WKy2WkP0"
+    },
+    {
+      "album": {
         "name": "LICENCE 2 ILL... WID DA WU",
         "url": "https://open.spotify.com/album/0FCD2M8hArRvN5eyAbrFtG"
       },
@@ -33104,6 +33148,36 @@
       "duration_ms": 496000,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/6j26hZrPv6MLYJMBPwv1hz"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4cDWEXOG4YLjSbnH5pfY0q"
+      },
+      "artists": [
+        {
+          "name": "Erick Sermon",
+          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Ricco Barrino",
+          "url": "https://open.spotify.com/artist/4Sm4OwmPnnZ6L4EYX4AhOc"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0HpSd3fH0C9GktiAWzu6rE"
     },
     {
       "album": {
@@ -39149,6 +39223,28 @@
     },
     {
       "album": {
+        "name": "New Pressure",
+        "url": "https://open.spotify.com/album/1GfqujVDQoG3d7U7oz7hW0"
+      },
+      "artists": [
+        {
+          "name": "Blacklovefresh",
+          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159159,
+      "name": "New Pressure",
+      "url": "https://open.spotify.com/track/5cvR0sq0SbCkVyNoYUm8vw"
+    },
+    {
+      "album": {
         "name": "Planet Of The Blues: Part Two",
         "url": "https://open.spotify.com/album/4ZfLONj7KcXjnQES3IttKz"
       },
@@ -40404,7 +40500,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 263640,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/0On1SxfkvTOfzvjVgFLK7V"
@@ -48374,7 +48470,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 191219,
       "name": "SANTORIA",
       "url": "https://open.spotify.com/track/43t9jJm0wGiZHoyYOKvRIK"
@@ -49260,7 +49356,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 125538,
       "name": "Shadows of the Hearts",
       "url": "https://open.spotify.com/track/6WEQcvEBgjxDGD4flTIjBh"

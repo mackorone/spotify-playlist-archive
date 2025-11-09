@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,219 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,223 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 42 | [God Of Wonders \- Live](https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:38 |
 | 43 | [I Stand Amazed \(How Marvelous\)](https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 6:36 |
 | 44 | [Gratitude \- Live From Passion 2023](https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 6:18 |
-| 45 | [Marvelous Light \- Live](https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 5:52 |
+| 45 | [How Great Is Our God \- Live](https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 4:51 |
 | 46 | [Here I Am To Worship \- Live](https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Our Love Is Loud \(Live\)](https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy) | 4:51 |
-| 47 | [How Great Is Our God \- Live](https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 4:51 |
+| 47 | [Marvelous Light \- Live](https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 5:52 |
 | 48 | [Reckless Love \- Live](https://open.spotify.com/track/0Yb8wF1HLvel0RYqHHeAUi) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 5:43 |
 | 49 | [King Of Glory \- Live](https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [King Of Glory \(Live\)](https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh) | 4:09 |
 | 50 | [Buen Padre](https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Glorioso Día](https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i) | 4:20 |
 
-Snapshot ID: `aQvlAAAAAABIz+pTtacicQsONaDdL0jQ`
+Snapshot ID: `aQ02gAAAAAA9J82oyD86Ovkd/+ACZKxx`

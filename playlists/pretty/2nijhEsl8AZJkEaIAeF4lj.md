@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 335 songs - 21 hr 30 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 336 songs - 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -343,5 +343,6 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 333 | [If I Were to Die](https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [If I Were to Die](https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3) | 3:45 |
 | 334 | [You Will Be Okay](https://open.spotify.com/track/2HuXYDO2pZpnRJFfsvHhwl) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Helluva Boss: Season One \(Original Soundtrack\)](https://open.spotify.com/album/7AjoUb9SiaGNfl2n99YYiz) | 2:02 |
 | 335 | [Dagenham Dream](https://open.spotify.com/track/7wA6K5a70ApY3Ypgqg4Gbz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:45 |
+| 336 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 
-Snapshot ID: `AAAEImyfym8H5lsMiV0sHaNO0+EHUm36`
+Snapshot ID: `AAAEI7HmW/6P292KPMZad3wdN98NgfOY`

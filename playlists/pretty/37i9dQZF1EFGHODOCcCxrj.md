@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 34 | [Caroline Shut Up](https://open.spotify.com/track/6uEBCC605XCODjtwzae93h) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:32 |
 | 35 | [Worth It \(Perfect\)](https://open.spotify.com/track/0LIjqWWzjF0Rkr9hjjyNAJ) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends \- Part One](https://open.spotify.com/album/1j6xIP5xwMw8MMp8x9gMuR) | 2:57 |
 | 36 | [Butterfly Net](https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:36 |
-| 37 | [Fantasy \(feat\. Amber Liu\)](https://open.spotify.com/track/7Ak3h69T8UqQLFjo0qBKYK) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd), [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:32 |
-| 38 | [New Normal](https://open.spotify.com/track/3dPkaunRnlcwGiOTJpQGD1) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 2:34 |
+| 37 | [New Normal](https://open.spotify.com/track/3dPkaunRnlcwGiOTJpQGD1) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 2:34 |
+| 38 | [Fantasy \(feat\. Amber Liu\)](https://open.spotify.com/track/7Ak3h69T8UqQLFjo0qBKYK) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd), [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:32 |
 | 39 | [Go As a Dream](https://open.spotify.com/track/3nNN1uts4kwkdwwV1CzZaN) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:27 |
 | 40 | [Hopedrunk Everasking](https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:19 |
 | 41 | [Play](https://open.spotify.com/track/6AR289urelEaw30CPwcUyI) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Play](https://open.spotify.com/album/3KcONcvD65rKMp1cuehIcI) | 3:16 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 84 | [Yeva's Lullaby](https://open.spotify.com/track/4vxquvA6UGJbUxj9bQdV9o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 6:53 |
 | 85 | [The Circle Unbroken](https://open.spotify.com/track/7IMgOhpJ9gnkGUl52AY3cc) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 5:17 |
 
-Snapshot ID: `AcA+5gAAAACIQAY7SLl3wVQAJc3uy6Qx`
+Snapshot ID: `AcBEhgAAAABhzUwAmq69nQf0C0RqLH4T`

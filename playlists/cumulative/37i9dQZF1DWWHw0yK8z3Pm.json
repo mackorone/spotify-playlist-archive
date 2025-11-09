@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 341173,
       "name": "East Wind",
       "url": "https://open.spotify.com/track/5w5jYQS9ke1bIGugVZZVNm"
@@ -4330,7 +4330,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 150506,
       "name": "Great Joy & Happiness",
       "url": "https://open.spotify.com/track/5lCWCkOGJCLzPELPq2YLZv"
@@ -8033,6 +8033,24 @@
     },
     {
       "album": {
+        "name": "Disappearing Days",
+        "url": "https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY"
+      },
+      "artists": [
+        {
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161613,
+      "name": "Pipe Dream",
+      "url": "https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe"
       },
@@ -9012,6 +9030,24 @@
       "duration_ms": 234533,
       "name": "She Calls Me",
       "url": "https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X"
+    },
+    {
+      "album": {
+        "name": "She Got Away",
+        "url": "https://open.spotify.com/album/6OZXJ8W9I1SCt4kARa8Iks"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164240,
+      "name": "She Got Away",
+      "url": "https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct"
     },
     {
       "album": {

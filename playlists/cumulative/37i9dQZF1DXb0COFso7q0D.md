@@ -4,7 +4,7 @@
 
 > La playlist oficial de <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2/"> Belicofest </a> 🔥 This is Raíces sin Fronteras
 
-994 songs - 2 day 3 hr 23 min
+996 songs - 2 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Atención](https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 4:13 | 2025-02-28 | 2025-05-31 |
 | [Aunque Digan](https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:31 | 2023-07-07 | 2023-12-09 |
 | [AURORA \(feat\. Armenta\)](https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:39 | 2024-12-20 | 2025-04-26 |
+| [Avión Privado](https://open.spotify.com/track/1M3p2ebg8W9xe6fFb8v8Ll) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [De Chava](https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn) | 3:05 | 2025-11-08 |  |
 | [Ay Mamita](https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [Ay Mamita](https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q) | 2:44 | 2025-05-30 | 2025-08-06 |
 | [AY MAMÁ](https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:43 | 2024-08-23 | 2025-01-25 |
 | [Ayayay](https://open.spotify.com/track/2bcpAh7D4BHjXo9ZGPLIdU) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [Dueño del Jardín](https://open.spotify.com/album/0tz8tpENFK4GbkeHgx1hj6) | 2:49 | 2025-09-26 | 2025-11-01 |
@@ -784,6 +785,7 @@
 | [ROCKSTAR](https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:48 | 2023-12-22 | 2024-06-29 |
 | [Rockstar](https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [Va En Serio](https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu) | 2:47 | 2024-06-07 | 2024-06-29 |
 | [Rococo](https://open.spotify.com/track/4gR70oLwVCnAAmaLmvBOjY) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:29 | 2024-05-24 | 2024-06-08 |
+| [Rodillas](https://open.spotify.com/track/3V0dDAgNdQod4YwoqrPMZP) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Hate](https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS) | [Tu Maliante Bebé](https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq) | 3:31 | 2025-11-08 |  |
 | [ROMPE LA DOMPE](https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ROMPE LA DOMPE](https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ) | 2:45 | 2023-12-29 | 2024-06-29 |
 | [Rosa Pastel](https://open.spotify.com/track/4LreWoO3cpgiIfrRwbOUSF) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Rosa Pastel](https://open.spotify.com/album/1PFKd6UNr0AHTNpfPbcd7v) | 3:24 | 2023-04-21 | 2023-06-24 |
 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 | 2024-11-16 | 2025-03-01 |

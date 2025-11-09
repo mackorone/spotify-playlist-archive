@@ -2,9 +2,9 @@
 
 ### [Gospel Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSnpLW9iux5M)
 
-> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
+> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
 
-175 songs - 11 hr 41 min
+176 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Home for Christmas \(feat\. Joe\) \(feat\. Joe\)](https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Christmas Card](https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU) | 4:00 | 2021-12-24 |  |
 | [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 | 2022-11-26 |  |
 | [Home With You \(feat\. Chanté Moore\)](https://open.spotify.com/track/6vXINx2IM1WpPYMm3xb816) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Home With You \(feat\. Chanté Moore\)](https://open.spotify.com/album/4SP3l1UjxAcb1Tj7NmqCdu) | 4:05 | 2021-12-24 |  |
-| [I'll Be Home for Christmas](https://open.spotify.com/track/4M5GbodfdvyNQVM07mxnzb) | [Caylea](https://open.spotify.com/artist/7rFRcnh52T0pnVJ4e4JMWT) | [I'll Be Home for Christmas](https://open.spotify.com/album/7mJS0Lu5ot98hsEWBK8Oqv) | 3:58 | 2024-11-29 |  |
+| [I'll Be Home for Christmas](https://open.spotify.com/track/4M5GbodfdvyNQVM07mxnzb) | [Caylea](https://open.spotify.com/artist/7rFRcnh52T0pnVJ4e4JMWT) | [I'll Be Home for Christmas](https://open.spotify.com/album/7mJS0Lu5ot98hsEWBK8Oqv) | 3:58 | 2024-11-29 | 2025-11-09 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:40 | 2021-12-24 |  |
 | [I'll Be Thinking of You](https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz) | [Ted & Sheri](https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN) | [I'll Be Thinking of You](https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5) | 4:45 | 2021-12-24 |  |
 | [I'm So Glad It's Christmas](https://open.spotify.com/track/3ooBBNfyGhJcctJuEvwQuF) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g) | [I'm So Glad It's Christmas](https://open.spotify.com/album/1mDAVcoJ8sJGTWKgVY8GB3) | 3:39 | 2021-12-24 |  |
@@ -139,6 +139,7 @@
 | [Oh Come Let Us Adore Him \(Oh Come All Ye Faithful\) \- Live](https://open.spotify.com/track/3NcdK9IrUdoONpo2GGp9p1) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [A Cali Christmas \(Live\)](https://open.spotify.com/album/4mVSm8mTjekvNy6xx7ZLSq) | 4:13 | 2024-12-13 | 2025-10-27 |
 | [Oh Sing For Joy](https://open.spotify.com/track/3dvE8w5uRaqgHtmgJmqut6) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Oh Sing For Joy](https://open.spotify.com/album/2eRxigMiJExZD2GywFVRx6) | 2:49 | 2024-11-29 |  |
 | [Oh What A Gift](https://open.spotify.com/track/76o632mxehS0QgWFlBmlwB) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Go Tell It](https://open.spotify.com/album/05kyKUGuOV18byxkRCmLCs) | 3:25 | 2024-10-27 |  |
+| [Photos](https://open.spotify.com/track/0xnr1ftG93t3SAy3b6ubeJ) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [Photos](https://open.spotify.com/album/68lVUiaLs5n9AMHOHgz5W5) | 2:30 | 2025-11-08 |  |
 | [Praise Your Name](https://open.spotify.com/track/3ANx51wHXUBqD2EhHcC5FK) | [Angela Moss Poole](https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox), [Greg Kirkland](https://open.spotify.com/artist/0rC6ZdygYb30YT43POYaWq) | [Praise Your Name](https://open.spotify.com/album/0Jf5B7Jjlq6f2UmQgzjHOh) | 3:27 | 2023-12-15 |  |
 | [Reason For The Season](https://open.spotify.com/track/7kAiSopIZQPmJIr2uxhlyP) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [This Christmas](https://open.spotify.com/album/2Av22aITO2k7nSWL0QeRvY) | 5:05 | 2021-12-24 |  |
 | [Red & Green](https://open.spotify.com/track/0OA9nGUWhcTXFjq70repQ0) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/75zm0ijlN6oBLmd1i6l6F4) | 3:59 | 2024-10-27 |  |

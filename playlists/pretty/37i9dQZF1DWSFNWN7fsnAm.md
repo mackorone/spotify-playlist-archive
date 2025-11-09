@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,778 likes - 73 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,790 likes - 73 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 11 | [Like That](https://open.spotify.com/track/1wsVM12mFelsIVea2Dz4uV) | [OUNAH](https://open.spotify.com/artist/6B7VfYcfRW7PyO5U5mcMe2) | [Like That](https://open.spotify.com/album/6w6B1nzkyOKt3KZJugmPbA) | 6:40 |
 | 12 | [Together One Time](https://open.spotify.com/track/76CpS4stsQvmXC45oPPvT5) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Together One Time](https://open.spotify.com/album/2arvcqZRndNmNrUtWGJNny) | 2:37 |
 | 13 | [Dime Mami \- Guz Remix](https://open.spotify.com/track/5bvJIGrW01KAb631VbUN0j) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Tyago Baby](https://open.spotify.com/artist/7BbERzGvIzvgGbtExDXWGC), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Dime Mami \(Guz Remix\)](https://open.spotify.com/album/51EF804p8FFb7VOPLz6lrd) | 2:50 |
-| 14 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
+| 14 | [Dior \(with Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(with Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
 | 15 | [Para Para](https://open.spotify.com/track/7jeHLpBDzze8I2ToFoyE59) | [Antoine Clamaran](https://open.spotify.com/artist/2LTa2TleomBhi05k8khxCF) | [Para Para](https://open.spotify.com/album/2psCkTzDsgKNDS3Wpj66ZF) | 4:09 |
 | 16 | [Savana](https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Savana](https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH) | 2:30 |
 | 17 | [Let It Ride \- HoneyLuv Remix](https://open.spotify.com/track/3Ch5p4bpm3E62yWj3lQn1Z) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Let It Ride Remixes, Pt\. 2](https://open.spotify.com/album/0tAicLuKd7VSZ65MH9NLBg) | 3:31 |

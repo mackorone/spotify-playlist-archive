@@ -1,13 +1,29 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 51885,
+  "num_followers": 51900,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABRtdW/iR/zoGPc3DWBspEO",
+  "snapshot_id": "aQ02gAAAAACbLlK9J2qQnAnCnpiEWSYo",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Her Face",
+        "url": "https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 203312,
+      "name": "Her Face",
+      "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
+    },
     {
       "added_at": null,
       "album": {

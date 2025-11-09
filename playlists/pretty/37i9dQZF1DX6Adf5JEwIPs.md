@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Chiquis
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,136 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,146 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

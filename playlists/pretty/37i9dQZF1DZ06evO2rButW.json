@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 757746,
+  "num_followers": 757896,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACTD72YlBEeiUK7bOqwcNwS",
+  "snapshot_id": "aQ02gAAAAAASEQacK5Ls0pHxGMytU3ms",
   "tracks": [
     {
       "added_at": null,
@@ -258,11 +258,19 @@
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 250162,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
+      "duration_ms": 181024,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln"
     },
     {
       "added_at": null,
@@ -326,19 +334,11 @@
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 181024,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln"
+      "duration_ms": 250162,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
     },
     {
       "added_at": null,
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
       "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 243880,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
+      "duration_ms": 312512,
+      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
     },
     {
       "added_at": null,
@@ -475,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 312512,
-      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
+      "duration_ms": 243880,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
     },
     {
       "added_at": null,

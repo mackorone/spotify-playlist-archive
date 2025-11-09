@@ -1,13 +1,33 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13759,
+  "num_followers": 13764,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAACBNw6rdoMj7f5TIaLKQiiH",
+  "snapshot_id": "aQ02gAAAAAD4plkXqFJ2mu0guzvgoBZ3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imela",
+        "url": "https://open.spotify.com/album/0ppqpCnXDLy2phDJWD97kV"
+      },
+      "artists": [
+        {
+          "name": "Believe Joseph",
+          "url": "https://open.spotify.com/artist/4qMuIl03HzGaIehHQxEYeu"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 249822,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6CHnff0Bu5k1uUvLmrtQF0"
+    },
     {
       "added_at": null,
       "album": {
@@ -351,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Doing of the Lord",
-        "url": "https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 286880,
-      "name": "The Doing of the Lord",
-      "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In His Will",
         "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
@@ -387,6 +387,26 @@
       "duration_ms": 361389,
       "name": "None Like You Lord",
       "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Doing of the Lord",
+        "url": "https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "The Doing of the Lord",
+      "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
     },
     {
       "added_at": null,

@@ -1,13 +1,37 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50137,
+  "num_followers": 50152,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADyAJgKHQeuw4m9Bfw9PL8n",
+  "snapshot_id": "aQ02gAAAAADl6bpsCb75URxiwckGdHN6",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Verandah Santa",
+        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Joseph Twist",
+          "url": "https://open.spotify.com/artist/4vqRn6DNiHVKFn8CEdNpW9"
+        }
+      ],
+      "duration_ms": 166421,
+      "name": "Let's Play Verandah Santa",
+      "url": "https://open.spotify.com/track/5RHu1lEOgISB5oPiU34clO"
+    },
     {
       "added_at": null,
       "album": {

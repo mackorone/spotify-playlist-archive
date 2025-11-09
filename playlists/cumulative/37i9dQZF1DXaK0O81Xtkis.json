@@ -22235,6 +22235,24 @@
     },
     {
       "album": {
+        "name": "Sucker Punch",
+        "url": "https://open.spotify.com/album/4geWEPMfEaMOsfMC05rfB0"
+      },
+      "artists": [
+        {
+          "name": "Betty Taylor",
+          "url": "https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203395,
+      "name": "Sucker Punch",
+      "url": "https://open.spotify.com/track/6lT1D6MI2NUpDUlrRVFL7g"
+    },
+    {
+      "album": {
         "name": "Suckerpunch",
         "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
       },

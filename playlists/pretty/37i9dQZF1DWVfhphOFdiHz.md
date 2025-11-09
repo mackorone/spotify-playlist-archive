@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Jade LeMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,017 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,035 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [Sophie](https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Sophie](https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu) | 3:13 |
 | 100 | [Ever New](https://open.spotify.com/track/5APSnVrpZZaOfzv3oiJ7uX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 5:44 |
 
-Snapshot ID: `AAAAAGN+zN7pB1dxlGI+RG5fasR7eVYh`
+Snapshot ID: `AAAAAE+ueoto4r94TX4YzA7BMMvWh1Bj`

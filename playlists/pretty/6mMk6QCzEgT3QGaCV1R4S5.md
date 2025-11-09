@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Frank Walker, Josh Ross &amp; Norma Jean Martine.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,699 likes - 99 songs - 5 hr 26 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,694 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 21 | [SPACE INVADER](https://open.spotify.com/track/3CKQVlGKHfhhXnSkwir99e) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/1GVQPCNOTppRtpLTBL8Qot) | 4:34 |
 | 22 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 23 | [Lonely Tonight \(feat\. Justin Jesso & Parson James\)](https://open.spotify.com/track/6IybPItcMGSzx7lHeNCHKk) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 2:35 |
-| 24 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 24 | [Dior \(with Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
 | 25 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 |
 | 26 | [Let It Be For Love](https://open.spotify.com/track/5aELbqu7EkaaGtPd4BMb2f) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Let It Be For Love](https://open.spotify.com/album/704JYDusykg51pfiFwgyB7) | 3:22 |
 | 27 | [Blink](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Blink](https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY) | 5:14 |

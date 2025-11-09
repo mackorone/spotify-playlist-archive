@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 322261,
+  "num_followers": 322273,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABYkhjzodJeSAPGkXrmU7Ib",
+  "snapshot_id": "aQ02gAAAAADZ9OmnXJ9ExjLBENWmpHsn",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALIK",
         "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 178586,
       "name": "Myself (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "Teenage Fantasy",
+      "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come With Me (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 214886,
       "name": "Come With Me (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "Teenage Fantasy",
-      "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FREEDOM (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 160455,
-      "name": "FREEDOM (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 206075,
       "name": "Peng Black Girls Remix - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7L15RIYFpoiHKJQNHsYhWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREEDOM (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 160455,
+      "name": "FREEDOM (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
     },
     {
       "added_at": null,
@@ -527,26 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bando Stone and The New World",
-        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+        "name": "You Can't Steal My Joy",
+        "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 229999,
-      "name": "In The Night (feat. Jorja Smith & Amaarae)",
-      "url": "https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL"
+      "duration_ms": 221933,
+      "name": "Reason in Disguise",
+      "url": "https://open.spotify.com/track/0ebJuVgQ6VoS1mc7b713J2"
     },
     {
       "added_at": null,
@@ -571,22 +567,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Steal My Joy",
-        "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 221933,
-      "name": "Reason in Disguise",
-      "url": "https://open.spotify.com/track/0ebJuVgQ6VoS1mc7b713J2"
+      "duration_ms": 229999,
+      "name": "In The Night (feat. Jorja Smith & Amaarae)",
+      "url": "https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL"
     },
     {
       "added_at": null,

@@ -523,6 +523,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
+      },
+      "artists": [
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
+    },
+    {
+      "album": {
         "name": "Hikikomori",
         "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
       },

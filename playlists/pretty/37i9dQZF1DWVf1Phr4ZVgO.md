@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,952 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,106 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 65 | [Someone To Watch Over Me](https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook \(Deluxe Edition\)](https://open.spotify.com/album/7sQ8DlLQXzBKX8Z9sZ3tNZ) | 3:32 |
 | 66 | [They Didn't Believe Me](https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:35 |
 | 67 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
-| 68 | [Turn Me On](https://open.spotify.com/track/6FjAGZp7c0Z2uaL3eHkXsx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 2:34 |
-| 69 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
-| 70 | [Ain't We Got Fun](https://open.spotify.com/track/6TsdvMtwcoDcoJa4ZhDGxZ) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'/Jump For Joy](https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU) | 2:10 |
-| 71 | [Sway \(Quien Sera\) \- 1997 \- Remastered](https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq) | 2:42 |
-| 72 | [Baby I'm A Fool](https://open.spotify.com/track/7ilWEHob3AYG3lAJlKEpDR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN) | 3:31 |
-| 73 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
-| 74 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k) | 3:02 |
+| 68 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
+| 69 | [Turn Me On](https://open.spotify.com/track/6FjAGZp7c0Z2uaL3eHkXsx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 2:34 |
+| 70 | [Sway \(Quien Sera\) \- 1997 \- Remastered](https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq) | 2:42 |
+| 71 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k) | 3:02 |
+| 72 | [Ain't We Got Fun](https://open.spotify.com/track/6TsdvMtwcoDcoJa4ZhDGxZ) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'/Jump For Joy](https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU) | 2:10 |
+| 73 | [Baby I'm A Fool](https://open.spotify.com/track/7ilWEHob3AYG3lAJlKEpDR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN) | 3:31 |
+| 74 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
 | 75 | [Lay Lady Lay](https://open.spotify.com/track/7ICALrYSPphd5yFK27vw8D) | [Magnet featuring Gemma Hayes](https://open.spotify.com/artist/6Edqzwxazpb4Te3qI3u5ez) | [Mr\. & Mrs\. Smith \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1ooPcS9FzXuXOuRUnoWtwq) | 4:39 |
 | 76 | [Stormy Weather](https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:10 |
 | 77 | [The Very Thought Of You](https://open.spotify.com/track/5vaadMKxBp0nvzfMrlaiQ7) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 4:16 |

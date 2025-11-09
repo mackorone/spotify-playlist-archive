@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,675 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,683 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [PICASSO](https://open.spotify.com/track/1XNftuHylWlfWbPx9MVS2a) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Just 4 Yall](https://open.spotify.com/album/4X8Ups0dQHxxnEdE4KP6FJ) | 3:32 |
 | 50 | [Hotel Lobby](https://open.spotify.com/track/5xKXcU8tpSYz7C7wrMMYec) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:31 |
 
-Snapshot ID: `AAAAAC1jG7iQAqxnFJN/nAv/S3kow3L6`
+Snapshot ID: `AAAAALnbFKxqc+lGbM2EAFNQAuhP9eSJ`

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,157 songs - 3 day 12 hr 16 min
+1,158 songs - 3 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Crucify Me](https://open.spotify.com/track/6xh1HHGZPLN0FsGg68Gm1c) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Crucify Me](https://open.spotify.com/album/3Y76qo9r5o9YPfwEPuJV7Y) | 4:10 | 2022-03-02 | 2022-05-20 |
 | [Cry for the Nations](https://open.spotify.com/track/0Kpi5PM6kwwm7sjlS3HVTy) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Cry for the Nations](https://open.spotify.com/album/5I4kXVMUAeH1fEhbmEUSf9) | 4:55 | 2022-01-07 | 2022-04-17 |
 | [Cry....](https://open.spotify.com/track/68AKlqDGwyC4jZhport6O6) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Seven Hours After Violet](https://open.spotify.com/album/1lX1WLkZj0J2cp8e6aRtNU) | 3:37 | 2024-10-11 | 2025-02-12 |
+| [Cult Of The Used](https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Cult Of The Used](https://open.spotify.com/album/4hM9lNLvA5cp85q05k05NS) | 4:09 | 2025-11-07 |  |
 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2022-08-19 | 2024-05-18 |
 | [Curl of the Burl](https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 3:40 | 2025-08-22 |  |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-05-03 | 2024-11-23 |
@@ -810,7 +811,7 @@
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-07-08 | 2024-01-27 |
 | [Sainted by the Storm](https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sainted by the Storm](https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf) | 3:44 | 2022-03-25 | 2024-06-22 |
 | [Saints and Sinners](https://open.spotify.com/track/2uRNqiZTbAJih8VnfyAIWb) | [Wings of Steel](https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T) | [Winds of Time](https://open.spotify.com/album/2xZIU1PggMA6Pu9bpNfICG) | 2:46 | 2025-10-17 |  |
-| [Salt The Wound](https://open.spotify.com/track/6nLjrvLgI1JDqrh5CgrDUn) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Salt The Wound](https://open.spotify.com/album/3d2PMCB7rFiUNYKFHmz9OF) | 4:08 | 2025-05-23 |  |
+| [Salt The Wound](https://open.spotify.com/track/6nLjrvLgI1JDqrh5CgrDUn) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Salt The Wound](https://open.spotify.com/album/3d2PMCB7rFiUNYKFHmz9OF) | 4:08 | 2025-05-23 | 2025-11-09 |
 | [Sam The Brave](https://open.spotify.com/track/7rvVV5Yufusop6x7OnqZj9) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI) | [Sam The Brave](https://open.spotify.com/album/37inediLQp2gvA17f1xQY9) | 3:11 | 2025-08-22 |  |
 | [Saoirse](https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Saoirse](https://open.spotify.com/album/6zhT0ZNSRJWVCyWiyyeCLz) | 6:17 | 2024-04-05 | 2025-02-19 |
 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-04-25 |  |

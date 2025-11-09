@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-101 songs - 7 hr 42 min
+102 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [He's Working It Out for You](https://open.spotify.com/track/1aS2yIKWfwzJjVI7vRLju7) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [He's Working It Out for You](https://open.spotify.com/album/6hEJsEKJDSL8Ma2dRS4pSG) | 5:31 | 2023-05-12 |  |
 | [Healed](https://open.spotify.com/track/2kblPUvb74gM6V2BWHkqml) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [He's Working It Out for You](https://open.spotify.com/album/6hEJsEKJDSL8Ma2dRS4pSG) | 4:26 | 2024-10-30 | 2024-11-11 |
 | [Heaven](https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...\. He Will Come](https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL) | 4:48 | 2023-05-12 |  |
+| [History \(Breakthrough\)](https://open.spotify.com/track/7nX5u3WlmJmD33bnMEMNFI) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Harvey Watkins Jr.](https://open.spotify.com/artist/7A9VsjiTGQr0nKn2DbBL0s), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [JEKALYN X THE LEGENDS](https://open.spotify.com/album/5lPKAJVygoWiOy33AZmvfj) | 4:53 | 2025-11-09 |  |
 | [Hold My Mule \- Live](https://open.spotify.com/track/0JjsI172ped2hF5v27o28J) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 8:41 | 2023-05-12 |  |
 | [How I Love Jesus](https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 6:41 | 2023-05-12 |  |
 | [I Believe](https://open.spotify.com/track/2L3XGrMU8stZ2BdxOQ2kxj) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:15 | 2023-05-12 | 2024-02-17 |
@@ -58,7 +59,7 @@
 | [It's Under the Blood](https://open.spotify.com/track/6D9wJt6lfTdR4ZZjshFS9X) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 5:55 | 2025-09-29 | 2025-10-14 |
 | [Jesus](https://open.spotify.com/track/1ikkDtH9Ya4jvbZyd9AyLA) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:43 | 2023-05-12 |  |
 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 | 2024-01-07 |  |
-| [Jesus Makes the Difference In Me](https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 2:53 | 2023-05-12 |  |
+| [Jesus Makes the Difference In Me](https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 2:53 | 2023-05-12 | 2025-11-09 |
 | [Jesus, I Love Calling Your Name](https://open.spotify.com/track/6xeJNGD98zIGTbOAhngzJe) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:44 | 2023-05-12 |  |
 | [Just As I Am](https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:35 | 2023-05-12 |  |
 | [King Heroin](https://open.spotify.com/track/5eHKFi9trSitx9n8TJcF5G) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Treasures](https://open.spotify.com/album/47Sgcm1KIgscVLs4TgNJPh) | 3:58 | 2024-02-16 |  |

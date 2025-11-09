@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Relive False Idols at Drumsheds 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,698 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,699 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 19 | [The Daisy](https://open.spotify.com/track/0aegbRrg4oVF2kSMZwmnq8) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:38 |
 | 20 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 |
 | 21 | [Count On My Love](https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Daniel Wilson](https://open.spotify.com/artist/0LHsUOtcrTFzM7YJ7HoZUv), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Count On My Love](https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs) | 5:56 |
-| 22 | [DRIFT](https://open.spotify.com/track/282JGp6fPFIeQ3df3UZBRv) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [FEVER DREAM](https://open.spotify.com/album/6zCFqTY0LZhNzf4sCdAQR1) | 2:51 |
-| 23 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
+| 22 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
+| 23 | [DRIFT](https://open.spotify.com/track/282JGp6fPFIeQ3df3UZBRv) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [FEVER DREAM](https://open.spotify.com/album/6zCFqTY0LZhNzf4sCdAQR1) | 2:51 |
 | 24 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
 | 25 | [thicc](https://open.spotify.com/track/6KiMTXhMNHO05AzOV6W7ir) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy](https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F) | 3:42 |
 | 26 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 39 | [Slut Slide](https://open.spotify.com/track/6TVq1Rj8nPRD8vPfEIJWz2) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC) | [Slut Slide](https://open.spotify.com/album/67AndfOhU9MmUs6TQhqoC2) | 3:43 |
 | 40 | [Moonlight](https://open.spotify.com/track/2flLSFm3o1HbThLXabDoum) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Moonlight](https://open.spotify.com/album/76tdnPDtupBVJiQPN67GTp) | 2:48 |
 | 41 | [Forever 2 \(Crush Mix\) \- Edit](https://open.spotify.com/track/3sS48tE1iA7CLb8iAhNHOv) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Forever 2 \(Crush Mix\)](https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR) | 2:55 |
-| 42 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
-| 43 | [Leather 'n Lasers](https://open.spotify.com/track/3dviK5wvesXJWkimipM2xS) | [Cormac](https://open.spotify.com/artist/7sm5Ierhs0FkG4xed2hEqG) | [Leather 'n Lasers](https://open.spotify.com/album/1y8pxvGmBNdTzY8Rxha0XS) | 5:08 |
+| 42 | [Leather 'n Lasers](https://open.spotify.com/track/3dviK5wvesXJWkimipM2xS) | [Cormac](https://open.spotify.com/artist/7sm5Ierhs0FkG4xed2hEqG) | [Leather 'n Lasers](https://open.spotify.com/album/1y8pxvGmBNdTzY8Rxha0XS) | 5:08 |
+| 43 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 | 44 | [Don't Bother Me](https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ) | [SYREETA](https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ) | [Don't Bother Me EP](https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE) | 3:30 |
 | 45 | [Freak Me Now \(with Róisín Murphy\) \- Horse Meat Disco Remix](https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna) | [Freak Me Now \(with Róisín Murphy\) \[Horse Meat Disco Remix\]](https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r) | 2:53 |
 | 46 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 |

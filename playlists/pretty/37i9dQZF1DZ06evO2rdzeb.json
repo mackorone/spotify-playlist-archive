@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 17777,
+  "num_followers": 17784,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAAnf80GRrawuVt052UUwgeV",
+  "snapshot_id": "aQ02gAAAAABceHwjWm8mVHfVjnlZfg+f",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz"
+      "duration_ms": 135386,
+      "name": "womb",
+      "url": "https://open.spotify.com/track/52MCH6YtKG6deQx6BOkoFm"
     },
     {
       "added_at": null,
@@ -135,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 135386,
-      "name": "womb",
-      "url": "https://open.spotify.com/track/52MCH6YtKG6deQx6BOkoFm"
+      "duration_ms": 248066,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz"
     },
     {
       "added_at": null,

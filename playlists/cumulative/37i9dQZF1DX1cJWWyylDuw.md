@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-746 songs - 1 day 23 hr 44 min
+747 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-01-23 | 2025-06-18 |
 | [God Of Mine](https://open.spotify.com/track/5C2H5w6b3FJSoikWsSHGUp) | [9 Dead](https://open.spotify.com/artist/5JV2PBzK9hKbN4fhUKJMUT) | [God Of Mine](https://open.spotify.com/album/1i6xUxBZs04xb4ZvlJqCKb) | 3:15 | 2025-08-22 | 2025-10-24 |
 | [God of Polonium](https://open.spotify.com/track/0TisNaP6rzNTyRDvmWDi9X) | [Hive](https://open.spotify.com/artist/5DA5dDq3y1s10tuBK4HVn6) | [Conduct of Flies](https://open.spotify.com/album/4ELf3bGTgEBd1PVHzRHQbZ) | 2:21 | 2025-11-07 |  |
-| [God Particles \(Integration\)](https://open.spotify.com/track/4c76sdBqCUBfTCA4fDhaRo) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [World Architects: Integration](https://open.spotify.com/album/7w1kF6J03vVXLgsJofyUrS) | 4:35 | 2025-10-03 |  |
+| [God Particles \(Integration\)](https://open.spotify.com/track/4c76sdBqCUBfTCA4fDhaRo) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [World Architects: Integration](https://open.spotify.com/album/7w1kF6J03vVXLgsJofyUrS) | 4:35 | 2025-10-03 | 2025-11-09 |
 | [Golden Scars](https://open.spotify.com/track/2KyAab4ZrEARQsfl6QZLut) | [Outmayr](https://open.spotify.com/artist/1oazqYNFCBucvbVitAHB4C) | [Golden Scars](https://open.spotify.com/album/5y8JZW3y2uyAhAxneSJfwX) | 3:57 | 2021-12-17 | 2022-07-03 |
 | [Good People](https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Peter Rono](https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j) | [Empty Heaven](https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf) | 2:51 | 2021-12-17 |  |
 | [GOODBYE](https://open.spotify.com/track/33UpuHGggCndb1SLEQwgNw) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Devon Duarte](https://open.spotify.com/artist/5HgWYtdIGEFeNSFWpxqQl5) | [GOODBYE](https://open.spotify.com/album/7B6d0sG6UgKyhHwsHQF8LC) | 3:12 | 2022-05-06 | 2022-07-29 |
@@ -475,6 +475,7 @@
 | [NO REVIVES](https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [FEED](https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4) | 3:26 | 2025-01-23 |  |
 | [No Time To Suffer](https://open.spotify.com/track/3a4afK7qfkQyhZbjxHHuXE) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [No Time To Suffer](https://open.spotify.com/album/0cIFoaXSemx7TYiqC6EI9n) | 3:55 | 2022-01-21 | 2022-07-28 |
 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 | 2021-12-17 |  |
+| [Nomad](https://open.spotify.com/track/5gfuCNgvyCFSuS0OYYr2cE) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [Nomad](https://open.spotify.com/album/1IErJfu68dI8LvJ0p24JC6) | 4:25 | 2025-11-07 |  |
 | [Not Immediately Life Threatening](https://open.spotify.com/track/2wdNw7kMd8mZFs62OueQNU) | [Party Cannon](https://open.spotify.com/artist/5Oz5WX5xkESHBH5I4Wp09C) | [Not Immediately Life Threatening](https://open.spotify.com/album/2i7E89VVLSIGwBOEuwrxpP) | 4:29 | 2024-03-29 | 2025-01-18 |
 | [Nothing Left to Fear](https://open.spotify.com/track/26psUNlP7FbKwP9aOQI38N) | [Benighted](https://open.spotify.com/artist/0dUwIwaPc6UukkCZTaaf7J), [Oliver Rae Aleron](https://open.spotify.com/artist/2IHcesdgSqwFOxH6n7GOXQ) | [Nothing Left to Fear](https://open.spotify.com/album/75XNAJv71rDEq6gF5gw3rq) | 2:43 | 2024-03-29 | 2025-03-15 |
 | [Nu World Order](https://open.spotify.com/track/60haWdj7cWgEzmEljnRZKV) | [Traitors](https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya) | [Nu World Order](https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6) | 2:55 | 2022-10-14 | 2023-12-14 |

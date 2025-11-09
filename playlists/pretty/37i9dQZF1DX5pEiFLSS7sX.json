@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 233842,
+  "num_followers": 233872,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "For This Purpose (Live)",
-        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 379093,
-      "name": "Altar (Live)",
-      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -323,22 +307,18 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Tell All My Friends",
-        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
+        "name": "For This Purpose (Live)",
+        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
       },
       "artists": [
         {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         }
       ],
-      "duration_ms": 282050,
-      "name": "Nothing Without You",
-      "url": "https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1"
+      "duration_ms": 379093,
+      "name": "Altar (Live)",
+      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -355,6 +335,26 @@
       "duration_ms": 198835,
       "name": "Heaven Is Where You Are",
       "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 282050,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -419,26 +419,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "Pat Barrett",
         "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 323520,
       "name": "Sails",
       "url": "https://open.spotify.com/track/5IvlWYwqxT4HiJMUOyhXOV"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/39K610YVccFlNB9knpBXvL"
+      },
+      "artists": [
+        {
+          "name": "Sisterbrother",
+          "url": "https://open.spotify.com/artist/3m1fIdh8xJXRjLLdNgZVXQ"
+        }
+      ],
+      "duration_ms": 289936,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4sm29oSEumtSzE8AdVhjIu"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
         "name": "Live At Church: Mixtape Vol. 1",
         "url": "https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 719169,
       "name": "Nothing Else / All I Need Is You - Medley / Live",
       "url": "https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/39K610YVccFlNB9knpBXvL"
-      },
-      "artists": [
-        {
-          "name": "Sisterbrother",
-          "url": "https://open.spotify.com/artist/3m1fIdh8xJXRjLLdNgZVXQ"
-        }
-      ],
-      "duration_ms": 289936,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4sm29oSEumtSzE8AdVhjIu"
     },
     {
       "added_at": "2025-09-14 09:26:33",

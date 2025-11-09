@@ -4,7 +4,7 @@
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 37 min
+81 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Frost \- Grand Piano](https://open.spotify.com/track/2yin84KZ18N91DMrUj10Rz) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost \(Grand Piano\)](https://open.spotify.com/album/702kAUuqngJts2uwA3VvWX) | 1:47 | 2025-03-30 | 2025-04-04 |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 1:38 | 2025-05-16 |  |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2025-03-04 | 2025-05-16 |
-| [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 2:59 | 2025-03-04 | 2025-11-02 |
+| [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 2:59 | 2025-03-04 |  |
 | [Intro](https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:24 | 2025-03-04 | 2025-09-12 |
 | [Islandus: Solon I](https://open.spotify.com/track/7DAuW1WFDIBVVoxalOL6lH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 4:17 | 2025-03-04 | 2025-03-06 |
 | [Islandus: Solon II](https://open.spotify.com/track/2bNts8igfjcFehN8HPJ45e) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 3:19 | 2025-03-04 | 2025-03-15 |
@@ -53,7 +53,8 @@
 | [Monolith at Dusk](https://open.spotify.com/track/0gaNrjB76AVzLewpA0q7r5) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 2:00 | 2025-08-27 |  |
 | [Mosi](https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:58 | 2025-03-04 |  |
 | [Nightfall](https://open.spotify.com/track/4BhKib1RVbzLCRmO5cq6KC) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:22 | 2025-08-31 | 2025-09-21 |
-| [Nightsong](https://open.spotify.com/track/47KP0BnIB6RV5gh7LA1UNc) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Nightsong](https://open.spotify.com/album/1Nc97JE3Cxr7DDakDlTAtW) | 3:13 | 2025-03-04 |  |
+| [Nightsong](https://open.spotify.com/track/6FqfoT3EBIhUDBBvwLtZyQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 3:13 | 2025-11-09 |  |
+| [Nightsong](https://open.spotify.com/track/47KP0BnIB6RV5gh7LA1UNc) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Nightsong](https://open.spotify.com/album/1Nc97JE3Cxr7DDakDlTAtW) | 3:13 | 2025-03-04 | 2025-11-09 |
 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 | 2025-03-04 |  |
 | [Noktúrna Variation](https://open.spotify.com/track/4AnUtAQBpd8S8woFEqVgzL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 1:43 | 2025-03-04 |  |
 | [Ocean Sonata For Harp](https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Sonata For Harp](https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0) | 1:59 | 2025-03-04 |  |
@@ -62,7 +63,7 @@
 | [Ocean Variation II](https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:55 | 2025-09-02 |  |
 | [Ocean Variation II](https://open.spotify.com/track/6JVP9fK785jsoAfckPHd56) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Variation II](https://open.spotify.com/album/73mAxVVAg6kN8allcaHGaW) | 1:55 | 2025-07-13 | 2025-09-02 |
 | [Oríensa](https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Oríensa](https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM) | 2:23 | 2025-03-04 |  |
-| [Permafrost I](https://open.spotify.com/track/2uRdQvuJA24yvOQxc2I5PI) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 2:18 | 2025-08-29 |  |
+| [Permafrost I](https://open.spotify.com/track/2uRdQvuJA24yvOQxc2I5PI) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 2:18 | 2025-08-29 | 2025-11-09 |
 | [Permafrost II](https://open.spotify.com/track/0ezup8npToPujZFJQNg6rL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:00 | 2025-08-26 | 2025-10-30 |
 | [Somnía](https://open.spotify.com/track/16CJHOcR0iksFRellAVvs1) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 1:32 | 2025-03-04 | 2025-08-24 |
 | [Staircase Sonata \- Orchestral Works Version](https://open.spotify.com/track/32Brjv8Q9forZaMZQnrRKr) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 2:47 | 2025-03-04 |  |

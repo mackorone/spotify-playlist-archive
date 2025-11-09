@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-118 songs - 7 hr 42 min
+119 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [ONENESS](https://open.spotify.com/track/3onTTLru4g0vGoOD8H8Aai) | [アイドルマスター\(中村繪里子・山崎はるか・大橋彩香\)](https://open.spotify.com/artist/5PWrN23XkUq3uwhnVHBAFh), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [アフィリア・サーガ](https://open.spotify.com/artist/4Ip0Amlvr3OqSJFDLxRGBB), [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL), [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN), [Wake Up,Girls!](https://open.spotify.com/artist/29tW0ETcoveUVtlTIr1tiI), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU), [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq), [Eri Kitamura](https://open.spotify.com/artist/3IYKCbAUuXkZdkiAeYEKwC), [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E), [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6), [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU), [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae), [鈴木このみ](https://open.spotify.com/artist/2zL2DcyFc5UL5WI9zaWZqR), [STAR☆ANIS](https://open.spotify.com/artist/5AVLn44oMughW4oWx8mvg4), [Takayoshi Tanimoto](https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat), [田村ゆかり](https://open.spotify.com/artist/7iSJ9H9hMz0BzaL3dOv3DP), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [Animelo Summer Live \(2014 \-ONENESS\-ﾃｰﾏｿﾝｸﾞ\)](https://open.spotify.com/album/6gUAibRBj3baFQ3jzjUenw) | 7:07 | 2024-10-30 | 2024-11-03 |
 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 | 2022-06-09 |  |
 | [PLANETARIUM](https://open.spotify.com/track/5euS1eMWE65z8q2UpL0mgB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:45 | 2022-06-09 | 2022-10-13 |
-| [Re:member](https://open.spotify.com/track/1hoQxGi3ujVYUzQDhXfvkN) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:19 | 2022-06-09 |  |
+| [Re:member](https://open.spotify.com/track/7eyNBX6ffLGH4q2Ef0Xbvz) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 3:16 | 2025-11-09 |  |
+| [Re:member](https://open.spotify.com/track/1hoQxGi3ujVYUzQDhXfvkN) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:19 | 2022-06-09 | 2025-11-09 |
 | [Realize](https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Golden Coast](https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB) | 3:33 | 2022-07-10 |  |
 | [Red Hot Riot](https://open.spotify.com/track/2xTGXtXO9UBBe6FwZy5p1k) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 3:35 | 2025-06-01 | 2025-06-03 |
 | [Rookie](https://open.spotify.com/track/5Y1OvLqXxai7ZDTjtenWDm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Golden Coast](https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB) | 3:24 | 2022-06-09 | 2022-10-13 |

@@ -3703,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "Cult Of The Used",
+        "url": "https://open.spotify.com/album/4hM9lNLvA5cp85q05k05NS"
+      },
+      "artists": [
+        {
+          "name": "Death Angel",
+          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249072,
+      "name": "Cult Of The Used",
+      "url": "https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N"
+    },
+    {
+      "album": {
         "name": "Metal Health",
         "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
@@ -14800,7 +14818,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 248474,
       "name": "Salt The Wound",
       "url": "https://open.spotify.com/track/6nLjrvLgI1JDqrh5CgrDUn"

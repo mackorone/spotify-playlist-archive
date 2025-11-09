@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 113369,
+  "num_followers": 113393,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAAApNrRl/Qz3hOKtj9gjE2/5",
+  "snapshot_id": "aQ02gAAAAABuSYUCmsEi90W1OycELJje",
   "tracks": [
     {
       "added_at": null,
@@ -339,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/1RVbpAB5qeezJb1Ka1z4Wp"
       },
       "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
         {
           "name": "Halestorm",
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 198799,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
+      "duration_ms": 395880,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/0gxgmkQJPIUqgHCmzHYRBW"
     },
     {
       "added_at": null,
@@ -371,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/1RVbpAB5qeezJb1Ka1z4Wp"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        },
         {
           "name": "Halestorm",
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 395880,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/0gxgmkQJPIUqgHCmzHYRBW"
+      "duration_ms": 198799,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
     },
     {
       "added_at": null,

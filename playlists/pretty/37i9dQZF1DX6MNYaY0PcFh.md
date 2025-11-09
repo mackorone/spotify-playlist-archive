@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Kwengface, Flowdan
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,043 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,085 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 67 | [MasterBlaster 2025](https://open.spotify.com/track/7ADmyaXnqmU6POxnmLjdh2) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [SWN](https://open.spotify.com/artist/72kUoZtNxzO942bjFr66IM) | [MasterBlaster 2025](https://open.spotify.com/album/67qyXWMARqxZaGTcwAXu4z) | 2:54 |
 | 68 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
 | 69 | [Good Life](https://open.spotify.com/track/5Ed9pT75zW25Ig7kM3UB90) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/0FlFl8UOEfbmBdfpQWAVHI) | 2:47 |
-| 70 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
+| 70 | [2 Spirits](https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [2 Spirits](https://open.spotify.com/album/4Cz8KBru4BGKeTlPJtmIVi) | 2:27 |
 
 Snapshot ID: `AAAAAOj5G0sXwFvAeXWfw5IE7BY9QztB`

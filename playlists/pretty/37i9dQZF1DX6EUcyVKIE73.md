@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,263 likes - 50 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,275 likes - 50 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 23 | [Taaron Bhari Raat \- Raga Malkauns \- Raga Malkauns \- Drut Ektala](https://open.spotify.com/track/0DtWXjhnx8FMJhj8uTsZWB) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx) | [Taaron Bhari Raat \- Raga Malkauns](https://open.spotify.com/album/7pAJD1ZAIiHkkwYxQQazQI) | 10:25 |
 | 24 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
 | 25 | [Raga Bhimpalasi \- Live](https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 27:17 |
-| 26 | [Romantic Dhun](https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl), [Sukhvinder Singh Namdhari](https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h) | [Saradamani](https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII) | 10:43 |
-| 27 | [Raga Mishra Manjh Khamaj: Chhitak Junaiya \(Pasar Ke Geet: Laoni Taal\)](https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7) | [Ruchira Panda](https://open.spotify.com/artist/2O3knTvssjiydio8UdUhCB), [Pandit Sanjay Mukherjee](https://open.spotify.com/artist/4szBpuRsVWmMUyLtl8IKxn), [Anirban Chakrabarty](https://open.spotify.com/artist/4Ysx44eu4Kxj0YZ9hUgId7) | [Music of the Pastoral, Vol\. 1](https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ) | 12:09 |
+| 26 | [Raga Mishra Manjh Khamaj: Chhitak Junaiya \(Pasar Ke Geet: Laoni Taal\)](https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7) | [Ruchira Panda](https://open.spotify.com/artist/2O3knTvssjiydio8UdUhCB), [Pandit Sanjay Mukherjee](https://open.spotify.com/artist/4szBpuRsVWmMUyLtl8IKxn), [Anirban Chakrabarty](https://open.spotify.com/artist/4Ysx44eu4Kxj0YZ9hUgId7) | [Music of the Pastoral, Vol\. 1](https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ) | 12:09 |
+| 27 | [Romantic Dhun](https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl), [Sukhvinder Singh Namdhari](https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h) | [Saradamani](https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII) | 10:43 |
 | 28 | [Tarana Yaman](https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Tarana Yaman](https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J) | 10:08 |
 | 29 | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh) | [Jyoti Debnath](https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk) | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/album/40GaEcinaieQsIXisQygW7) | 5:35 |
 | 30 | [Raga Sampurna Malkaus](https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Maestro's Choice: Kishori Amonkar](https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT) | 28:30 |

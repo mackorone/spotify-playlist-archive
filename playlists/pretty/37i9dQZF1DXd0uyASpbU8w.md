@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Shane Eagle, Mi Casa, ROSALÍA, Kehlani and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,908 likes - 90 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,950 likes - 90 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 68 | [Shaya](https://open.spotify.com/track/2HrOT98QtstGwUKPchmCxl) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Dj Chloe](https://open.spotify.com/artist/4yH2doXz5L4KnWUOgCY4wa) | [Shaya](https://open.spotify.com/album/0K1LYnQh26l82JAaQsjfeq) | 5:14 |
 | 69 | [Changes](https://open.spotify.com/track/4VYwNjNpX8tqvcMKAKUcUJ) | [FiNE](https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB) | [Changes](https://open.spotify.com/album/0yrEmxuNXlNRYqHRubyUbA) | 3:30 |
 | 70 | [Never Gonna Let You Go](https://open.spotify.com/track/7H0hHMNsvHfOjL2d26YB4Y) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq) | [Never Gonna Let You Go](https://open.spotify.com/album/2pUW99H0s7aD7x0FvAW0vy) | 3:22 |
-| 71 | [Big Spender](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 5:12 |
+| 71 | [Brotherhood](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 4:11 |
 | 72 | [Iyobisi](https://open.spotify.com/track/7zojPQCAffyBpPMRJhO8J2) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [JnrScabha](https://open.spotify.com/artist/61gMpjSOP5Bb8LqT2RpVTf), [Senarh](https://open.spotify.com/artist/4DKQzNgfbzTyNJtOtvAhbn) | [Iyobisi](https://open.spotify.com/album/7enb6Mzmoiuq58VjKbLGYq) | 4:16 |
 | 73 | [Deep In The Bottom \(of Africa\) \- DBN Gogo & Ntwana\_R Remix \(Radio Edit\)](https://open.spotify.com/track/1ZJxTWTD7ZS18qVwdFOE1J) | [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Ntwana\_R](https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS), [Nkosingiphile Tshabalala](https://open.spotify.com/artist/2BchPtVPXKReo9VtbGnjoj) | [Deep In The Bottom \(of Africa\) \[DBN Gogo & Ntwana\_R Remix \(Radio Edit\)\]](https://open.spotify.com/album/7KY0z90Da0Uxovg7o74Mox) | 5:08 |
 | 74 | [Dlalela Leh](https://open.spotify.com/track/3fCTz7P7Z4Eeeml9wSHlYX) | [Hlonivic](https://open.spotify.com/artist/2Q9ASIMRuvjLmHKA5ikv49), [Bless Maano](https://open.spotify.com/artist/1C08U2eUk9LD1PSiUNhtBL), [Top Dawg MH](https://open.spotify.com/artist/0KG8515sBkR4b2CtJH7Kay), [Lorenzo Marn](https://open.spotify.com/artist/0cJlWCz0kQOIaRn0fajdZl), [Shortgun](https://open.spotify.com/artist/3ZVYRcrKeKfbwcm1FPw4dB) | [IYNGUDLA](https://open.spotify.com/album/4D5Q2sb7gpmRhi2EVnKLjP) | 6:41 |

@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 69954,
+  "num_followers": 69975,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
         "name": "Bahiano BH+",
         "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188933,
       "name": "Oyelo",
       "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Fiesta de Zombis",
-        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 254328,
-      "name": "Fiesta de zombis",
-      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
         "name": "La Misi\u00f3n",
         "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
       },
@@ -851,22 +835,6 @@
       "duration_ms": 208212,
       "name": "Cinco",
       "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 247941,
-      "name": "Runaway (En Vivo)",
-      "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -895,6 +863,38 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "Runaway (En Vivo)",
+      "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "Fiesta de Zombis",
+        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 254328,
+      "name": "Fiesta de zombis",
+      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -975,22 +975,18 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Rastone (En Vivo en el Teatro de Flores)",
-        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
       },
       "artists": [
         {
-          "name": "C4 Reggae Combativo",
-          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
-        },
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Rastone (En Vivo en el Teatro de Flores)",
-      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1011,34 +1007,38 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+        "name": "Rastone (En Vivo en el Teatro de Flores)",
+        "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "C4 Reggae Combativo",
+          "url": "https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0"
+        },
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+      "duration_ms": 210000,
+      "name": "Rastone (En Vivo en el Teatro de Flores)",
+      "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
     },
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "La Bondad De Dios",
-        "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
       },
       "artists": [
         {
-          "name": "Jah Love",
-          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
         }
       ],
-      "duration_ms": 236471,
-      "name": "La Bondad De Dios",
-      "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
+      "duration_ms": 260250,
+      "name": "Im gonna come back to Brixton",
+      "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
+        "name": "La Bondad De Dios",
+        "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
       },
       "artists": [
         {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+          "name": "Jah Love",
+          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
         }
       ],
-      "duration_ms": 260250,
-      "name": "Im gonna come back to Brixton",
-      "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
+      "duration_ms": 236471,
+      "name": "La Bondad De Dios",
+      "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 260266,
+      "name": "No Mires Atras",
+      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 260266,
-      "name": "No Mires Atras",
-      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+      "duration_ms": 265216,
+      "name": "Este Mundo",
+      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1187,22 +1203,6 @@
       "duration_ms": 435040,
       "name": "The Chicken",
       "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 265216,
-      "name": "Este Mundo",
-      "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1239,74 +1239,6 @@
       "duration_ms": 312676,
       "name": "Doce Amor (Dulce Amor)",
       "url": "https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "\u00c1ngel Del Pasado",
-        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "\u00c1ngel Del Pasado",
-      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
-      },
-      "artists": [
-        {
-          "name": "Stailok",
-          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 258349,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1351,6 +1283,74 @@
       "duration_ms": 208563,
       "name": "Revolution Rock",
       "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "\u00c1ngel Del Pasado",
+        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "\u00c1ngel Del Pasado",
+      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
+      },
+      "artists": [
+        {
+          "name": "Stailok",
+          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 258349,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
     },
     {
       "added_at": "2025-10-17 03:00:27",

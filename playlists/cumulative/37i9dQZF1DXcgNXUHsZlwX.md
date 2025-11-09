@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-524 songs - 1 day 7 hr 9 min
+525 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Feu sacré](https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [Antoine Lachance](https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP) | 3:38 | 2021-01-15 | 2022-07-27 |
 | [Fever Dream](https://open.spotify.com/track/0HOg1ZVNtEUUZAmJQ1wCjQ) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1), [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:39 | 2025-07-07 |  |
 | [File d'attente](https://open.spotify.com/track/5bKR5u7anmLED2AmivuVsR) | [David Marin](https://open.spotify.com/artist/4uzgr1qYBaIRZVCilj6vcU) | [File d'attente](https://open.spotify.com/album/6Gl0JODD6VE3Ubgs1ZZu8f) | 3:38 | 2021-07-19 | 2021-09-20 |
+| [Fille comme toi](https://open.spotify.com/track/4LppGJVGSYyTOltD5zuI6s) | [Vinni Payne](https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59) | [Fille comme toi](https://open.spotify.com/album/0OntlsOCuKTF4YM1n4KjTQ) | 2:59 | 2025-11-07 |  |
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2021-10-03 |  |
 | [FLATTE!](https://open.spotify.com/track/0q9SpxJXi5uLhxKQNsJflG) | [Fred Tremblay](https://open.spotify.com/artist/4MpruP4drFjBWNU64Ipd6n) | [Au pire, j'vendrai du gaz...](https://open.spotify.com/album/5LFv3Rp4aBp2WQbtJzBlDa) | 3:07 | 2021-02-23 | 2021-05-27 |
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-07-08 | 2023-09-16 |
@@ -300,7 +301,7 @@
 | [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-12-01 | 2024-03-18 |
 | [Lubie](https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8) | 3:17 | 2021-01-03\* | 2022-07-29 |
 | [Lubie](https://open.spotify.com/track/62ZILfGIjQ9y7CUyfoR0z2) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/0PgBQ2nr9lGwY49QjAhMaa) | 3:17 | 2022-07-08 | 2022-08-02 |
-| [Lumière](https://open.spotify.com/track/7gftmvH7kAgf7ZM71Fyj3g) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/4hqEE1IiUlsdMHN5bNjclK) | 2:49 | 2025-09-05 |  |
+| [Lumière](https://open.spotify.com/track/7gftmvH7kAgf7ZM71Fyj3g) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/4hqEE1IiUlsdMHN5bNjclK) | 2:49 | 2025-09-05 | 2025-11-09 |
 | [Là\-bas](https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Là\-bas](https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb) | 4:06 | 2025-08-14 |  |
 | [Ma belle Clodie](https://open.spotify.com/track/6dIDM0vzyZqsqjODV3JK2a) | [Lauma](https://open.spotify.com/artist/7cHW7ZcuXJbucvesjvD4GK) | [Pixels](https://open.spotify.com/album/160lLNQ7uEPxrhosSwa5pk) | 5:02 | 2021-01-03\* | 2022-02-12 |
 | [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 | 2022-10-14 |  |

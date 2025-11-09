@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9080,
+  "num_followers": 9079,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAABD2MJBOW5pBkChus9xPvSp",
+  "snapshot_id": "aQ02gAAAAAACPIx3g/QsMwYM8Bb0bevp",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cross Country",
+        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 183591,
+      "name": "Here for It (feat. Ingrid Andress)",
+      "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 241120,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cross Country",
-        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 183591,
-      "name": "Here for It (feat. Ingrid Andress)",
-      "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
     },
     {
       "added_at": null,

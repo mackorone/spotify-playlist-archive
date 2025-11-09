@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: MICHA \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a> artiest\), ROSALÍA, Frenna, Jonna Fraser en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,955 likes - 95 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,959 likes - 95 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 79 | [I Sit In Parks](https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [I Sit In Parks](https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj) | 2:10 |
 | 80 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 |
 | 81 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 |
-| 82 | [A Song for Christmas](https://open.spotify.com/track/5NZRmXOi1NTRBI8ax5wkSs) | [Dennis van Aarssen](https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi) | [All I Want For Christmas Is You](https://open.spotify.com/album/0Hni5qUsTt14klF7caOMIm) | 3:36 |
+| 82 | [A Song Of Christmas](https://open.spotify.com/track/5NZRmXOi1NTRBI8ax5wkSs) | [Dennis van Aarssen](https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi) | [All I Want For Christmas Is You](https://open.spotify.com/album/0Hni5qUsTt14klF7caOMIm) | 3:36 |
 | 83 | [Voor M'n Deur](https://open.spotify.com/track/4dolay7QGIGsqyp5uXEAAv) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Voor M'n Deur](https://open.spotify.com/album/2W86GDxxM3ze7js9ymeAHR) | 2:20 |
 | 84 | [Marco Polo](https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Marco Polo](https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4) | 3:47 |
 | 85 | [Normale gevoelens](https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Normale gevoelens](https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc) | 2:46 |

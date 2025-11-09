@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: IV of SPADES
 
-1,744 songs - 4 day 4 hr 49 min
+1,745 songs - 4 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 | 2025-09-25 |  |
 | [Coffee](https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp) | 2:29 | 2024-02-29 | 2024-04-05 |
 | [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 | 2025-02-20 | 2025-04-18 |
+| [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 | 2025-11-06 |  |
 | [Collide](https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Collide](https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd) | 4:03 | 2024-02-29 | 2024-04-26 |
 | [Color Chaos](https://open.spotify.com/track/7gjG9tike8AJUB6dtwPRsB) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Color Chaos](https://open.spotify.com/album/4FrQPhcXLf98uHn3cb3t75) | 3:11 | 2023-04-13 | 2023-04-28 |
 | [Columbia \- Sawmills Outtake](https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Columbia \(Sawmills Outtake\)](https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK) | 7:17 | 2024-06-20 | 2024-07-06 |
@@ -1503,7 +1504,7 @@
 | [The Rabbi](https://open.spotify.com/track/6YokS9sLLeB1bLBq1Szcc9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren \(Deluxe\)](https://open.spotify.com/album/7oIWsV8OxCtzp7LyJa23wg) | 2:43 | 2023-07-27 | 2023-08-04 |
 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-06-05 | 2025-08-21 |
 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 | 2025-06-19 | 2025-08-22 |
-| [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 |  |
+| [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 | 2025-11-09 |
 | [The Serpent and the King](https://open.spotify.com/track/2n09w41gAdEsJFp6bD0sBT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [The Serpent and the King](https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq) | 4:19 | 2024-02-22 | 2024-03-08 |
 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-10 | 2023-08-18 |
 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 | 2025-07-10 | 2025-07-25 |

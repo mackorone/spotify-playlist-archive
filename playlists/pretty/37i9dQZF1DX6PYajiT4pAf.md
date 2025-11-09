@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > ROSALÍA, Bizarrap x Daddy Yankee, JC Reyes x Slayter, Pablo Alborán, Young Miko y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,980 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,090 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Una noche en el Patio con Daniela, Lupita, Dulce y Yuri 🍸
 
-201 songs - 13 hr 6 min
+202 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 | 2022-05-10 | 2025-06-21 |
 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 | 2022-05-10 | 2025-06-21 |
 | [Amiga Mía](https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:22 | 2025-06-20 | 2025-11-03 |
+| [Amor](https://open.spotify.com/track/44eTZfJoqPmHsB9AW4onQp) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [El Deseo De Oír Tu Voz](https://open.spotify.com/album/4C3mFwi92IBnHiix1cmyXI) | 4:59 | 2025-06-20 |  |
 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 | 2022-05-10 | 2024-06-09 |
 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 | 2023-09-29 | 2025-06-21 |
 | [Asi No Te Amara Jamas](https://open.spotify.com/track/0E5UI7Dvzl54vtkXX1KeaE) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol I](https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6) | 2:52 | 2021-05-21 | 2022-07-29 |
@@ -116,7 +117,7 @@
 | [Mentiras](https://open.spotify.com/track/05pV7ZVVTssQgyZN98SHrV) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 3:54 | 2025-06-20 |  |
 | [Mentiras](https://open.spotify.com/track/0SeEBAaBmDPJmGmhub9SX7) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Solo Lo Mejor: 20 Exitos](https://open.spotify.com/album/5L3DgJ6F7THYRV9mNTJxvD) | 3:56 | 2021-05-21 | 2022-07-29 |
 | [Mentiras](https://open.spotify.com/track/0FMxHUwc6l3ew3MC2kDKLJ) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 4:10 | 2021-05-21 | 2022-05-25 |
-| [Mentiras I](https://open.spotify.com/track/2inQuIiMh57WacRsHO6xkF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mentiras](https://open.spotify.com/album/5mCOLMlKhKh5kSbN0Hzt41) | 4:13 | 2025-06-20 |  |
+| [Mentiras I](https://open.spotify.com/track/2inQuIiMh57WacRsHO6xkF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mentiras](https://open.spotify.com/album/5mCOLMlKhKh5kSbN0Hzt41) | 4:13 | 2025-06-20 | 2025-11-09 |
 | [Mi Amor, Amor](https://open.spotify.com/track/52MtS8GblLs1yBVLjecSk1) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Enamorada](https://open.spotify.com/album/53a626hUxhtVTAyaVSX2Qc) | 2:44 | 2021-05-21 | 2022-05-11 |
 | [Mi Corazon Es Un Gitano](https://open.spotify.com/track/275JskV4TRFebvznjOFAEa) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 3:44 | 2021-05-21 | 2022-07-10 |
 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 | 2021-05-21 |  |

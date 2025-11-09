@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  Ruïnosa y las Strippers de Rahola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,139 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,141 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 47 | [MADRE](https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [MADRE](https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy) | 2:06 |
 | 48 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
 | 49 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
-| 50 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |
+| 50 | [ibuprofeno](https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ibuprofeno](https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl) | 2:48 |
 
 Snapshot ID: `AAAAAG77TsOJSRCY1yXY9SYovt3ls+Iy`

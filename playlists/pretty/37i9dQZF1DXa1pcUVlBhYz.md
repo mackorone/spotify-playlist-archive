@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Shimza & Kasango
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,095 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,094 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 26 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 |
 | 27 | [Sweat](https://open.spotify.com/track/2KSyOw1xmLPbINlgSY6DsV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Sweat](https://open.spotify.com/album/3QUQnOG82oidJv6LrMZAkH) | 3:24 |
 | 28 | [No Boundaries](https://open.spotify.com/track/4Lpp6C7Au2zIGpNSirxLkK) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [No Boundaries](https://open.spotify.com/album/4VBbdwPSfqhBgsuvcLoHD5) | 5:13 |
-| 29 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 29 | [Dior \(with Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
 | 30 | [Keep Running From Love](https://open.spotify.com/track/7HHVDMk9cZSpftr5Qm2Vsu) | [Bobby Love](https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3) | [Keep Running From Love](https://open.spotify.com/album/2QzywadApSgw3L8FTD4akO) | 3:05 |
 | 31 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
 | 32 | [CSWS](https://open.spotify.com/track/5mjrxjeKIJEmZN2sIJFKHO) | [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi) | [House FM](https://open.spotify.com/album/4RLvCg8LRSrEuxCyYBEESO) | 3:27 |

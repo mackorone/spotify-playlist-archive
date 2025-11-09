@@ -4,7 +4,7 @@
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 19 min
+40 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Feels Like Sand](https://open.spotify.com/track/5ok41XptV2v9yhm92Cp0RK) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:44 | 2022-09-16 |  |
 | [Fine Day](https://open.spotify.com/track/3RLBhVe1eGn1npfJbR8kCM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 5:25 | 2023-02-11 | 2023-07-13 |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-15 | 2023-02-22 |
-| [Gearhead](https://open.spotify.com/track/6U1gILtopcOcOZo4elN0Uw) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:24 | 2023-07-12 |  |
+| [Gearhead](https://open.spotify.com/track/6U1gILtopcOcOZo4elN0Uw) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:24 | 2023-07-12 | 2025-11-09 |
 | [Hard to Swallow](https://open.spotify.com/track/6XSR3rZzQRQ7oaRYqbe408) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 2:46 | 2022-09-16 |  |
 | [In Slow Time](https://open.spotify.com/track/3C7Qjn5zpc6xJ81pamYWtJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:16 | 2022-09-16 |  |
 | [Love Sick](https://open.spotify.com/track/3wSBw0krlZtyHIpJiYDIXJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Love Sick](https://open.spotify.com/album/4K1HLxFkJcMx9D56R217nZ) | 2:29 | 2024-04-10 |  |
@@ -38,6 +38,7 @@
 | [Paranoid Hands](https://open.spotify.com/track/7s0E7MQg8ius1ygr0NndJs) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:45 | 2022-09-22 |  |
 | [Ponderosa Sun Club](https://open.spotify.com/track/4E7rliVKRRxJWktIdZ7caE) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:56 | 2022-09-16 |  |
 | [Satellite](https://open.spotify.com/track/3No5gkFfVh2zW59XT67aNY) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Coursing Through](https://open.spotify.com/album/7CKVvhRVZHbLCfOgsbUdxX) | 4:18 | 2022-09-16 | 2023-11-11 |
+| [Soft to Touch](https://open.spotify.com/track/62q7xYArt9ORYa3uGZEI7b) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 4:03 | 2025-11-09 |  |
 | [Stay](https://open.spotify.com/track/6Glr1Wc0TZ5Ta1BCbrvaHG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:58 | 2022-09-16 |  |
 | [Stuttering Stanley](https://open.spotify.com/track/2bDcEAuUcRdqn7dkERCmqj) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:10 | 2022-09-16 |  |
 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 | 2023-02-11 |  |

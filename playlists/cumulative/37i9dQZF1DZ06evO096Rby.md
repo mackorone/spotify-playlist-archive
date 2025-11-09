@@ -4,7 +4,7 @@
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-140 songs - 7 hr 18 min
+141 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [La Número 20 \- En Vivo](https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Número 20 \(En Vivo\)](https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B) | 3:10 | 2024-09-30 | 2025-02-26 |
 | [La Payasa](https://open.spotify.com/track/0L5wKmUHRWelBy19r86lGJ) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Payasa](https://open.spotify.com/album/4ERHeig5r52yomQqdYOVKC) | 3:26 | 2024-12-31 | 2025-03-08 |
 | [Las Edades \- En Vivo](https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:00 | 2025-01-01 |  |
-| [LAS LOCAS](https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [LAS LOCAS](https://open.spotify.com/album/15FgU4bKkshUdxg8oyDnuk) | 3:12 | 2025-03-02 |  |
+| [LAS LOCAS](https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [LAS LOCAS](https://open.spotify.com/album/15FgU4bKkshUdxg8oyDnuk) | 3:12 | 2025-03-02 | 2025-11-09 |
 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 | 2024-01-29 | 2024-08-23 |
 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/2Lp3OUsQwNg5mzaeTANTjJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/07FJaS98fuH5mX2AwPbscW) | 3:24 | 2025-03-08 |  |
 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/7JhvxJMvAEuwfVnA64DG7E) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/755inNisuJlbtx4Q2jNl1D) | 3:24 | 2024-08-23 | 2025-03-08 |
@@ -107,6 +107,7 @@
 | [No Quiero Perderte](https://open.spotify.com/track/7tg9K22sPIxHo3AZSm6uxK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/4d3JTl1VRVbKQz9yJ3p6zv) | 2:39 | 2024-08-21 | 2025-03-08 |
 | [NO VOLVERE \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:33 | 2025-09-22 |  |
 | [Noche De Accion \- En Vivo](https://open.spotify.com/track/0mKchgf9AJGTPHdPEusNJ8) | [Luis Ayala](https://open.spotify.com/artist/1dvf1qzaPe9NRqkfp2dArz), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Noche De Accion \(En Vivo\)](https://open.spotify.com/album/26nF1tyQ3CchIju2CxQ5LY) | 2:43 | 2024-01-29 | 2024-03-18 |
+| [Paris](https://open.spotify.com/track/28l1udoqUpzAcJ0ZgVI4d1) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Paris](https://open.spotify.com/album/43NqU0JA6iReqomc023NQ5) | 2:42 | 2025-11-09 |  |
 | [Paz En Este Amor \- En Vivo](https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:30 | 2025-03-11 |  |
 | [Pensaron Que No Podia](https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 2:36 | 2024-01-29 | 2024-08-23 |
 | [Pensaron Que No Podia](https://open.spotify.com/track/6h0ktE1gQcIaNZEfSYL4Hm) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 2:36 | 2024-08-23 | 2024-09-27 |

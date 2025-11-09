@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2106799,
+  "num_followers": 2107418,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "Blue Clear Sky",
-        "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
+        "name": "American Pride",
+        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Blue Clear Sky",
-      "url": "https://open.spotify.com/track/59MIR30ATtW8kTaX3SCpq0"
+      "duration_ms": 168640,
+      "name": "I'm in a Hurry (And Don't Know Why)",
+      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "American Pride",
-        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
+        "name": "Blue Clear Sky",
+        "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 168640,
-      "name": "I'm in a Hurry (And Don't Know Why)",
-      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
+      "duration_ms": 174866,
+      "name": "Blue Clear Sky",
+      "url": "https://open.spotify.com/track/59MIR30ATtW8kTaX3SCpq0"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 186066,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 259160,
-      "name": "Whenever You Come Around",
-      "url": "https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "Used To Want To Be A Cowboy",
         "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 245173,
       "name": "This Cowboy's Hat",
       "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Whenever You Come Around",
+      "url": "https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "What Mattered Most",
-        "url": "https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6"
-      },
-      "artists": [
-        {
-          "name": "Ty Herndon",
-          "url": "https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "What Mattered Most",
-      "url": "https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "Homeward Looking Angel",
         "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 187733,
       "name": "Shake The Sugar Tree",
       "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "What Mattered Most",
+        "url": "https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6"
+      },
+      "artists": [
+        {
+          "name": "Ty Herndon",
+          "url": "https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "What Mattered Most",
+      "url": "https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "Tattoos & Scars",
-        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Hillbilly Shoes",
-      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "Doug Stone",
         "url": "https://open.spotify.com/album/4PoyxCrUUWbCA98AmlStnM"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 208306,
       "name": "In a Different Light",
       "url": "https://open.spotify.com/track/1qkGJN690UpX3leaGGC4Wq"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "Tattoos & Scars",
+        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Hillbilly Shoes",
+      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87"
-      },
-      "artists": [
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "What Part of No",
-      "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "From the Heart",
         "url": "https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 191840,
       "name": "Why Didn't I Think of That",
       "url": "https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87"
+      },
+      "artists": [
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "What Part of No",
+      "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
     },
     {
       "added_at": "2025-10-08 18:39:08",

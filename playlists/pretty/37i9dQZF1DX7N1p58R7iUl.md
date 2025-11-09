@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,918 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,936 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 17 | [Going Down](https://open.spotify.com/track/4aM1WJtc4bFcK3oyLRr4tX) | [Janika Tenn](https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC) | [Going Down](https://open.spotify.com/album/0bjb4qFABSfXw7dm78TlEI) | 2:53 |
 | 18 | [Take You There](https://open.spotify.com/track/1tglvWBOGeRtyFcjOzRj66) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Capri](https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Take You There](https://open.spotify.com/album/5WV5qFR16D2wmRCyqQuHui) | 3:24 |
 | 19 | [Jumpin' \- Wh0 Remix](https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Jumpin' \(Wh0 Remix\)](https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P) | 2:59 |
-| 20 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 20 | [Dior \(with Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
 | 21 | [In The Night](https://open.spotify.com/track/2Tv6wuhj1VHVL9IV3YyjQT) | [Smokin Jo](https://open.spotify.com/artist/2j0rweTjMkl2QBiRdRpnkp), [D\. Ramirez](https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz) | [In The Night](https://open.spotify.com/album/6Op0jahyEFI2WUrb0VRkTR) | 3:05 |
 | 22 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 |
 | 23 | [Come On Get Down \- 2025 Edit](https://open.spotify.com/track/7FZ2XusShc92JNL4pomLeW) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Come On Get Down \(2025 VIP\)](https://open.spotify.com/album/0Rr4OpzL8Zx9o2qN4favrs) | 2:43 |

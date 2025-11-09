@@ -4,7 +4,7 @@
 
 > Høsten er her! 🍂
 
-275 songs - 14 hr 19 min
+277 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 |  |
 | [A Potion For Love](https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0) | 3:36 | 2024-06-27 | 2025-05-03 |
 | [Adore](https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore](https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6) | 3:18 | 2025-05-08 | 2025-09-12 |
+| [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-06 |  |
 | [Aldri så vondt](https://open.spotify.com/track/0Gaq0ZNS9kQwgNCmWS6ER7) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Aldri så vondt](https://open.spotify.com/album/5IWoalOQ3l7YMopQ9qyc3j) | 3:13 | 2025-09-25 | 2025-10-12 |
 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 | 2025-03-27 | 2025-04-11 |
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-08-28 | 2025-09-29 |
@@ -59,7 +60,7 @@
 | [Don’t Say You Love Me \(2025\)](https://open.spotify.com/track/4KcaUU9ZjQJK6bJsURDisB) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Don’t Say You Love Me \(2025\)](https://open.spotify.com/album/1CT2uUKc93QF0Ymj5cP5Y4) | 3:17 | 2025-04-10 | 2025-06-13 |
 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 | 2025-01-30 |  |
 | [Dum og lovende](https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 3:07 | 2024-10-31 | 2024-12-11 |
-| [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 |  |
+| [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 | 2025-11-09 |
 | [Eli](https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Eli](https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w) | 3:25 | 2025-03-27 |  |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 |  |
 | [eu te amo bebê](https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [eu te amo bebê](https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH) | 1:46 | 2025-04-24 |  |
@@ -132,7 +133,7 @@
 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 | 2025-09-04 |  |
 | [Ikke lenger din](https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 2:31 | 2024-10-24 | 2025-03-20 |
 | [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 | 2025-08-14 |  |
-| [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 |  |
+| [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 | 2025-11-09 |
 | [Iskrem på pinne](https://open.spotify.com/track/0q2YHUCIKxUx0LLkg9TUKy) | [Aryaan](https://open.spotify.com/artist/7GfpTDYmPjWyGlJcOkMnfy) | [Iskrem på pinne](https://open.spotify.com/album/6rN6EpfHhVUkssQPwdxo1E) | 2:10 | 2025-06-24 | 2025-07-18 |
 | [It´s Ok If You Forget Me \(feat\. Emma Jensen\)](https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [It's Ok If You Forget Me](https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG) | 2:56 | 2025-01-16 | 2025-08-18 |
 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 | 2025-04-10 |  |
@@ -206,6 +207,7 @@
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-10 |  |
 | [Propaganda](https://open.spotify.com/track/5zGu3uII70nzOzgPbPZcfZ) | [Briskeby](https://open.spotify.com/artist/0vwcghB4GeosdKQs0SOizP), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Propaganda](https://open.spotify.com/album/5NDlSfC0GVT5DRBSJkNX6b) | 3:13 | 2025-09-25 |  |
 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 | 2024-10-10 | 2025-10-09 |
+| [Real To Me](https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Real To Me](https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD) | 3:10 | 2025-11-06 |  |
 | [Rekk opp hånda](https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Rekk opp hånda](https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN) | 3:00 | 2024-06-27 | 2024-12-12 |
 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 | 2024-10-10 | 2025-09-26 |
 | [Ringdans](https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ringdans](https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A) | 3:32 | 2024-12-19 | 2025-09-09 |

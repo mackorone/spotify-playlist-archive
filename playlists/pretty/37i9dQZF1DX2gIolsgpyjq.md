@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: A Good Year &  Helena Gao
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,340 likes - 117 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,350 likes - 117 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

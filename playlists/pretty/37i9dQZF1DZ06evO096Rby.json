@@ -1,29 +1,13 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 49404,
+  "num_followers": 49424,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQvlAAAAAADsGDrW0RxIRFsRstdHla6W",
+  "snapshot_id": "aQ02gAAAAABUY4BbRJ8zJpyrwqZmOD0p",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 153431,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 221617,
       "name": "De Que Color Es La Suerte",
       "url": "https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/43NqU0JA6iReqomc023NQ5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 162754,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/28l1udoqUpzAcJ0ZgVI4d1"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 153431,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
@@ -323,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/7dsHqJqqvS4IY7XMAfk4pG"
       },
@@ -339,22 +371,6 @@
       "duration_ms": 159530,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/3kuQmp8Y0DNBjGAgawhnT8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
     },
     {
       "added_at": null,
@@ -443,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El De La Selva",
-        "url": "https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 118067,
-      "name": "El De La Selva",
-      "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
       },
@@ -479,6 +475,26 @@
       "duration_ms": 158391,
       "name": "Puro Pa\u2019 Delante",
       "url": "https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El De La Selva",
+        "url": "https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 118067,
+      "name": "El De La Selva",
+      "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 153709,
       "name": "NO VOLVERE - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 151927,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 151927,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Envidia Se Dio Cuenta (En Vivo)",
         "url": "https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 206271,
       "name": "La Envidia Se Dio Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 234416,
       "name": "El Vaso Derrama - En Vivo",
       "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
     },
     {
       "added_at": null,
@@ -795,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 224448,
-      "name": "El Michoacano",
-      "url": "https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -831,6 +827,26 @@
       "duration_ms": 242928,
       "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 224448,
+      "name": "El Michoacano",
+      "url": "https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY"
     },
     {
       "added_at": null,
@@ -927,26 +943,6 @@
       "duration_ms": 204437,
       "name": "Le Compre Casa A Mi Ama",
       "url": "https://open.spotify.com/track/2Lp3OUsQwNg5mzaeTANTjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LAS LOCAS",
-        "url": "https://open.spotify.com/album/15FgU4bKkshUdxg8oyDnuk"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "LAS LOCAS",
-      "url": "https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

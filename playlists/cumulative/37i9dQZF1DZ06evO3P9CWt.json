@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 136037,
       "name": "10/10",
       "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-09",
       "duration_ms": 338250,
       "name": "AmarElo (Sample: Sujeito de Sorte - Belchior) - Ao Vivo",
       "url": "https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI"
@@ -1487,6 +1487,32 @@
     },
     {
       "album": {
+        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125520,
+      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
+    },
+    {
+      "album": {
         "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
         "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
       },
@@ -2606,7 +2632,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 179489,
       "name": "\u00c2nsia",
       "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"

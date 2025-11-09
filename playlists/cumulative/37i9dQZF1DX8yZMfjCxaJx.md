@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Panter Bélico en portada.
 
-259 songs - 13 hr 30 min
+260 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Don Mayo](https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Don Mayo](https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5) | 3:11 | 2024-08-02 | 2024-09-14 |
 | [Déjenlos Pasar](https://open.spotify.com/track/0qsvu01LWI7F2MIVA0kjQm) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Déjenlos Pasar](https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO) | 2:04 | 2024-07-12 | 2025-05-13 |
 | [Eddiecho Adios](https://open.spotify.com/track/6I04t8qV2O8hFqBvoFoj3B) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Eddiecho Adios](https://open.spotify.com/album/5DipiPCwT96aQYga2nwn81) | 4:00 | 2024-11-29 | 2025-05-25 |
+| [El 04](https://open.spotify.com/track/6igq3Wr66N1lbjNs216aHw) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [El 04](https://open.spotify.com/album/6sAO8JZsJdWIA0x1g53CAq) | 2:56 | 2025-11-07 |  |
 | [El 08](https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:10 | 2025-03-28 |  |
 | [El 27 \(En Vivo\)](https://open.spotify.com/track/5MHRP8hSluWqUor7WpzzOL) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 3:32 | 2025-01-03 | 2025-11-08 |
 | [El 4 a Arturo](https://open.spotify.com/track/0e2SmXRTe2sjGRlJSRZXPP) | [La Bertiniza De Culiacan](https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [El 4 a Arturo](https://open.spotify.com/album/6O9Fc8ghm8CmlRUy7XGe4k) | 3:57 | 2024-04-12 | 2024-11-30 |
@@ -248,7 +249,7 @@
 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 | 2024-04-26 | 2025-11-08 |
 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 | 2024-01-26 | 2024-08-31 |
 | [Soy Don Joaquín Guzmán](https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [Soy Don Joaquín Guzmán](https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz) | 2:10 | 2024-05-24 | 2025-03-29 |
-| [Soy Meño](https://open.spotify.com/track/1UtqU8fzHsapHGxAITKVhL) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt) | [Soy Meño](https://open.spotify.com/album/0RyCLJnMB5AcZnr7JLJ9no) | 2:22 | 2024-09-13 |  |
+| [Soy Meño](https://open.spotify.com/track/1UtqU8fzHsapHGxAITKVhL) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt) | [Soy Meño](https://open.spotify.com/album/0RyCLJnMB5AcZnr7JLJ9no) | 2:22 | 2024-09-13 | 2025-11-09 |
 | [Soy VIP](https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a) | [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Soy VIP](https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV) | 3:01 | 2024-05-24 |  |
 | [También Me Llamo Ismael](https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [También Me Llamo Ismael](https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq) | 3:06 | 2024-01-26 |  |
 | [TESLA](https://open.spotify.com/track/24ywDS7nerYsXy99wwbEDk) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [TESLA](https://open.spotify.com/album/4KAl3vaHCPQDvqHtPPwpeL) | 2:16 | 2024-04-26 | 2024-07-13 |
