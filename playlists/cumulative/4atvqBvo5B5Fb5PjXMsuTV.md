@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Nov 04:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Nov 19:04 UTC.
 
-5,797 songs - 13 day 10 hr 29 min
+5,799 songs - 13 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1817,6 +1817,7 @@
 | [Football](https://open.spotify.com/track/1iF8qHqSLqfEFQKOoRaDTu) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Football](https://open.spotify.com/album/3lQRX73Gu4I6RtNWgOiOlJ) | 0:58 | 2024-09-25 | 2024-09-27 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 | 2024-08-10 |
 | [For I Am Death](https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [For I Am Death](https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM) | 3:39 | 2025-08-22 | 2025-09-06 |
+| [For No Reason](https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [For No Reason](https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en) | 2:39 | 2025-11-09 |  |
 | [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 | 2024-09-05 | 2024-09-07 |
 | [For the Cold Country](https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the Cold Country](https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY) | 6:27 | 2025-03-26 | 2025-04-05 |
 | [For The Money](https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [For The Money](https://open.spotify.com/album/05VBhCeUpyBpGLDUFR4iZT) | 3:35 | 2025-06-27 | 2025-07-12 |
@@ -2796,7 +2797,7 @@
 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 | 2024-08-23 | 2024-08-28 |
 | [Know What You Need \- Prison Tapes](https://open.spotify.com/track/6Z5CPaZuJDBBs3ovo2ncoX) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Know What You Need \(Prison Tapes\)](https://open.spotify.com/album/5iODU4Gq1xIB8Smua6R4JC) | 2:46 | 2024-08-02 | 2024-08-08 |
 | [Know You Naked](https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Know You Naked](https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe) | 3:25 | 2025-08-05 | 2025-08-16 |
-| [KO](https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [KO](https://open.spotify.com/album/3xgTFQpbgsnyHRaL1JXs9F) | 3:34 | 2025-10-31 |  |
+| [KO](https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [KO](https://open.spotify.com/album/3xgTFQpbgsnyHRaL1JXs9F) | 3:34 | 2025-10-31 | 2025-11-10 |
 | [koto](https://open.spotify.com/track/70e4YH5gnT9rawbo4L1Ifh) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [koto](https://open.spotify.com/album/69cDLgZcgkVRTR5SvUa166) | 2:35 | 2024-12-12 | 2024-12-14 |
 | [Kravitz](https://open.spotify.com/track/3ydiQXwguW4FTjZYCpWDLE) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Kravitz](https://open.spotify.com/album/58gxd7R2ovmIDehM0oslBt) | 4:33 | 2024-04-29 | 2024-05-02 |
 | [Krueger](https://open.spotify.com/track/0yWn9ASmnEnVZVMmutBTkj) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Krueger](https://open.spotify.com/album/47neLZxbh8NgETFGNP2DRr) | 2:07 | 2024-09-24 | 2024-09-27 |
@@ -2966,6 +2967,7 @@
 | [Locked Away](https://open.spotify.com/track/0IXcggiix3nrgpCNzI8l9f) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [BlushCrunch Studio](https://open.spotify.com/artist/3reUoqshdfVhY2KXiLxiXF) | [Locked Away](https://open.spotify.com/album/08ubPhv1bj7vRdMALNb4r0) | 2:27 | 2025-10-22 | 2025-10-30 |
 | [Lockjaw 2](https://open.spotify.com/track/6zDC7r1EzJ8gf4GiSr7Ez7) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Lockjaw 2](https://open.spotify.com/album/6cky5nR2nafUXW1e9KZQoN) | 2:20 | 2024-09-13 | 2024-09-15 |
 | [Locust Abortion Technician Medley](https://open.spotify.com/track/4U0TLMTW709ATUKX5bISlS) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Locust Abortion Technician Medley](https://open.spotify.com/album/6XdLNCO49RyvS7wAHG10Fa) | 4:51 | 2024-09-13 | 2024-09-18 |
+| [LOIS](https://open.spotify.com/track/5TxiUQ1EsBXnVDdMeMYA6b) | [Glorb](https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih) | [LOIS](https://open.spotify.com/album/1Pw2Erao8Bv8JrTVjbYGiq) | 3:05 | 2025-11-09 |  |
 | [Loitering](https://open.spotify.com/track/4OCmAdcx65ieClYytjFyPc) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Loitering](https://open.spotify.com/album/6f7VekMNXxDoGZuMgzLtzA) | 1:42 | 2024-06-29 | 2024-07-03 |
 | [Lone Ranger](https://open.spotify.com/track/5dSUQCm6IySjSgyoDSR3k5) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Lone Ranger](https://open.spotify.com/album/55j7iGarUmVtwLlcYFvtSQ) | 2:47 | 2024-06-28 | 2024-06-30 |
 | [lone star](https://open.spotify.com/track/3ovwgZbdXzgEs8vCxpdKWC) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Carolyn Malachi](https://open.spotify.com/artist/38UcHZORGYFCCfMD1p4S39) | [lone star](https://open.spotify.com/album/2vJD8rDqB5D7IuGoznq4c4) | 2:56 | 2025-11-06 |  |
@@ -3590,7 +3592,7 @@
 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 | 2024-10-18 | 2024-10-22 |
 | [Numa Ilha](https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Numa Ilha](https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj) | 4:09 | 2024-12-05 | 2024-12-07 |
 | [number](https://open.spotify.com/track/10irq5r9yRRPuh24Tmqn0S) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [number](https://open.spotify.com/album/0p5Mo4alMuPemivmZL5C2C) | 2:53 | 2024-12-06 | 2024-12-09 |
-| [nun+](https://open.spotify.com/track/73QSneWdcj1fncvD8UlBi5) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [nun+](https://open.spotify.com/album/73ELN0H3gT4jdScrsAyPfu) | 2:38 | 2025-10-31 |  |
+| [nun+](https://open.spotify.com/track/73QSneWdcj1fncvD8UlBi5) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [nun+](https://open.spotify.com/album/73ELN0H3gT4jdScrsAyPfu) | 2:38 | 2025-10-31 | 2025-11-10 |
 | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/track/1fqd7L51uCAPmy5WgHqirc) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/album/43zlvshjmVjXyUsKFgWocq) | 2:09 | 2024-09-04 | 2024-09-07 |
 | [NYA?](https://open.spotify.com/track/19O7fsiR88lSorOjMkJiJL) | [yurisa](https://open.spotify.com/artist/3bxT3ndZXZjV1teNLoW6fe) | [NYA?](https://open.spotify.com/album/30lhi3ekDv2QIVKP83gUw1) | 4:09 | 2024-05-20 | 2024-05-23 |
 | [Nyumbani \(Sounds Like\)](https://open.spotify.com/track/4ERIeXLZ1XRlGTG5lX6Hbh) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Nyumbani \(Sounds Like\)](https://open.spotify.com/album/4wrRJY7uxQNh7DfFYL27kJ) | 2:32 | 2024-12-14 | 2024-12-20 |

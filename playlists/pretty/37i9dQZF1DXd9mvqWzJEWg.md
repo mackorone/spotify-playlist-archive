@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: General C'mamane
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,404 likes - 74 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,456 likes - 74 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

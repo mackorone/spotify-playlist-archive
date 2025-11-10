@@ -970,6 +970,24 @@
     {
       "album": {
         "name": "Shiny New Thing",
+        "url": "https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173625,
+      "name": "Cheating On Myself",
+      "url": "https://open.spotify.com/track/667yuKlceFZ4cT3VI6zEGi"
+    },
+    {
+      "album": {
+        "name": "Shiny New Thing",
         "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
       },
       "artists": [
@@ -980,7 +998,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 173625,
       "name": "Cheating On Myself",
       "url": "https://open.spotify.com/track/7qcGEfPQqwl0lzU5BGucsU"
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 145315,
       "name": "if we never met",
       "url": "https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb"
@@ -3890,10 +3908,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 220555,
       "name": "Ring",
       "url": "https://open.spotify.com/track/61YRwJhh806c08P61ZWKc5"
+    },
+    {
+      "album": {
+        "name": "How It Used to Feel",
+        "url": "https://open.spotify.com/album/5sD31sHtF2I4WbB9Kps5Aq"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220555,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/7qswvRRGuQb62HS5J4dVOK"
     },
     {
       "album": {
@@ -3944,7 +3980,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 190534,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"

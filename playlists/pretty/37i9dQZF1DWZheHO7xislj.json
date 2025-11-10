@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect dinner.",
-  "num_followers": 140935,
+  "num_followers": 140929,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "30 Greatest Hits",
+        "url": "https://open.spotify.com/album/5guQPUTJAINiFb4Sm0kLuV"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "(Sweet Sweet Baby) Since You've Been Gone",
+      "url": "https://open.spotify.com/track/2TDtmu5mxyTKVq9fHBfREV"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5iFIpmGqLp9pebNUpQLdzU"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 393560,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/7zqguUyS3LQxAdL8rRgXx2"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "30 Greatest Hits",
-        "url": "https://open.spotify.com/album/5guQPUTJAINiFb4Sm0kLuV"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 144826,
-      "name": "(Sweet Sweet Baby) Since You've Been Gone",
-      "url": "https://open.spotify.com/track/2TDtmu5mxyTKVq9fHBfREV"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 243426,
       "name": "Tender",
       "url": "https://open.spotify.com/track/6xd6wN0uNxx1YMOv1BwHNm"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Never My Love: The Anthology",
         "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 277292,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4BHS7gFJOU0nrt8XPpv7J8"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Woodstock Generation",
         "url": "https://open.spotify.com/album/4ozDtdDznuECwLlFboqv0W"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 180346,
       "name": "You've Really Got a Hold on Me - Single Version",
       "url": "https://open.spotify.com/track/5m8zKwogmJl7Fw2qgIoMeE"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Jim",
         "url": "https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 303533,
       "name": "Love And Happiness",
       "url": "https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2025-08-08 09:33:38",

@@ -4,7 +4,7 @@
 
 > With Rhineland, Laureline, The Wild Wind and more
 
-1,431 songs - 3 day 19 hr 45 min
+1,432 songs - 3 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,7 +547,7 @@
 | [Hey Carolina](https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj) | [Yøuth](https://open.spotify.com/artist/26fAgSvQl82rjfl9yP4uqH) | [Blame](https://open.spotify.com/album/4izScx5MWR1sWCIo0gm6au) | 3:50 | 2022-03-09 | 2022-10-05 |
 | [Hey Virginia](https://open.spotify.com/track/3uM990IarzbCmalKV5LAOH) | [Dudl3y](https://open.spotify.com/artist/428WsCPZce3b6nn7qpkaqV) | [Uppers & Downers](https://open.spotify.com/album/6AoNQGAKuMBMdOaPqB7XcC) | 3:57 | 2022-04-03 | 2022-04-07 |
 | [hey, u up?](https://open.spotify.com/track/1QrSb4jtviL0fLxIW13fSa) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/1R5Dyfrb7j6YpOu23jaGkB) | 4:12 | 2022-10-12 | 2022-10-15 |
-| [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 | 2024-04-19 | 2025-11-09 |
+| [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 | 2024-04-19 |  |
 | [Hi G](https://open.spotify.com/track/4J9zX5SEL4GBnoOeHyT4FP) | [Neova](https://open.spotify.com/artist/79yIl5eBPMfpjUZ63gkAXP) | [Hi G](https://open.spotify.com/album/5zcN7uV1PnPsGpnbma5lNP) | 4:33 | 2022-04-29 | 2022-11-11 |
 | [High School](https://open.spotify.com/track/5LpcRat8db3T8rMGVqiK5N) | [90's Kids](https://open.spotify.com/artist/6vPr4VCSFC3nJMw0mEBsn0) | [High School](https://open.spotify.com/album/2oDQfsKmIBMesRkJOQWhHY) | 3:00 | 2021-12-01\* | 2022-03-03 |
 | [HLYTW](https://open.spotify.com/track/4wbe7z56dPMnPr36yCWkG2) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [HLYTW](https://open.spotify.com/album/5jqnnvVT2ETofdjd0qD7mz) | 3:03 | 2024-11-12 | 2024-11-22 |
@@ -727,7 +727,7 @@
 | [Late Night Radio](https://open.spotify.com/track/50VEjYVEuVfbhCpf2tAU9l) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Late Night Radio](https://open.spotify.com/album/0vaf3vF3Y0yKj7EnBVlAYQ) | 4:00 | 2024-04-26 | 2025-05-30 |
 | [Late Nights](https://open.spotify.com/track/0glvPG96bg3z2VdTGwsSqT) | [Y O U T H F O O L](https://open.spotify.com/artist/0Z5bTj2ks1eHLSBIHuwBs9) | [Late Nights](https://open.spotify.com/album/03Es8ZVvkcDpRONjTz43Zc) | 3:46 | 2022-03-11 | 2022-10-17 |
 | [Learning How to Love](https://open.spotify.com/track/5nX3UfAELvZTVgjecEPGJb) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [When I Was Younger](https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN) | 3:36 | 2022-10-13 | 2022-10-14 |
-| [Leave Me a Light On](https://open.spotify.com/track/2XpOLR4v8XSzv3E2rQ7ly7) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Heard It in a Dream, Love](https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI) | 3:51 | 2025-10-03 |  |
+| [Leave Me a Light On](https://open.spotify.com/track/2XpOLR4v8XSzv3E2rQ7ly7) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Heard It in a Dream, Love](https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI) | 3:51 | 2025-10-03 | 2025-11-10 |
 | [Left Town](https://open.spotify.com/track/627JiD1iS35TrkGLM3NUBR) | [Heart Of Gold](https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ) | [Gold](https://open.spotify.com/album/3NdU0EaQ6muBuhnIGKQZJR) | 2:58 | 2022-07-14 | 2022-07-15 |
 | [Lego Watch](https://open.spotify.com/track/2OETm4HBViN3tZcXvKAFDG) | [Dru](https://open.spotify.com/artist/1i6b6aoOLZgHeOEUBJnelg) | [Lego Watch](https://open.spotify.com/album/2cUrtZqKKcLK2CjqvIoayr) | 2:57 | 2022-09-01 | 2022-10-18 |
 | [Let Down](https://open.spotify.com/track/6zvpLxTrTKDzdeQ9OLshpQ) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Let Down](https://open.spotify.com/album/2ZwK8x38X6dRgBTZNSACVU) | 2:56 | 2021-12-17 | 2022-03-09 |
@@ -761,6 +761,7 @@
 | [Looking For Love](https://open.spotify.com/track/16f5E3dIfXjeprDyIt1cjq) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Looking For Love](https://open.spotify.com/album/5gtiEqlLHdxt8PVP5nxqw6) | 4:58 | 2021-12-01\* | 2022-05-09 |
 | [Looking for Love](https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:58 | 2022-11-09 |  |
 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 | 2022-07-31 | 2024-06-16 |
+| [Los Angeles](https://open.spotify.com/track/5MPLeS9KdZlA04OOCUb5Bt) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/4W76YA2i0qSPFKIGG6rA6a) | 6:29 | 2025-11-10 |  |
 | [Lose Ourselves](https://open.spotify.com/track/1QsxTZXP6ea8N6u2baMJza) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ruminations](https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P) | 3:25 | 2024-04-02 | 2024-04-19 |
 | [Lose Ourselves](https://open.spotify.com/track/2IFZTQe05IUYNoik6yLPwJ) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Lose Ourselves](https://open.spotify.com/album/5ApBHIYdpwvF3sRlAuE343) | 3:25 | 2022-02-06 | 2022-10-16 |
 | [Loser Baby](https://open.spotify.com/track/6RNz5iOe7SzpAq4JV3Yn4w) | [La Bouquet](https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs) | [Sad People Dancing](https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb) | 4:12 | 2021-12-01\* | 2022-03-09 |
@@ -997,7 +998,7 @@
 | [Pixelated](https://open.spotify.com/track/6IE68R9bLkl99JOeyA3akF) | [Arcade Dreams](https://open.spotify.com/artist/2TMf9hB8NbXLdXr95bPQp5), [Ellisay](https://open.spotify.com/artist/1PNtvh0nGxEXTi9gB8btqv) | [Pixelated](https://open.spotify.com/album/0Kqb7aOxMF2BDsV7vff6Wd) | 3:29 | 2022-03-11 | 2022-10-05 |
 | [Places](https://open.spotify.com/track/41oUmlprRmTOQHkFT5hymg) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [Places](https://open.spotify.com/album/6AMQQ5OfUBKD8Ssf4g6D3X) | 3:32 | 2022-07-04 | 2022-07-08 |
 | [Places](https://open.spotify.com/track/4DqXziX9OXG3sW2A3ZVKFO) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [Places](https://open.spotify.com/album/2F0WObyzZ8OWy1jdKOqgI1) | 3:32 | 2022-10-12 | 2022-10-13 |
-| [Plans](https://open.spotify.com/track/20FoD7SUV9MIo031ajcuvF) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Second Wind](https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb) | 3:07 | 2024-01-01 |  |
+| [Plans](https://open.spotify.com/track/20FoD7SUV9MIo031ajcuvF) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Second Wind](https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb) | 3:07 | 2024-01-01 | 2025-11-10 |
 | [Play It \(On the Radio\)](https://open.spotify.com/track/16Fv8ylnHzqiKuANO6De2b) | [At 1980](https://open.spotify.com/artist/5CI6pBIR5RCmvIAUEFi1CN), [Josh Dally](https://open.spotify.com/artist/1rTWoB7Gxm4YbWfrDc4EBt) | [A Thousand Lives](https://open.spotify.com/album/3KnywnwhdmRLlry94hnFE8) | 3:48 | 2022-10-07 | 2022-10-08 |
 | [Play It \(On the Radio\) \[feat\. Josh Dally\]](https://open.spotify.com/track/2A7yX7t82aicKjxivMiJhS) | [At 1980](https://open.spotify.com/artist/5CI6pBIR5RCmvIAUEFi1CN), [Josh Dally](https://open.spotify.com/artist/1rTWoB7Gxm4YbWfrDc4EBt) | [Play It \(On the Radio\) \[feat\. Josh Dally\]](https://open.spotify.com/album/2NUMY1mqkRI0faYgp2VRJC) | 3:30 | 2022-06-16 | 2022-06-17 |
 | [pLAyed Out](https://open.spotify.com/track/4PUAuPFSIAbyQiXpPbfoOT) | [The True Blue](https://open.spotify.com/artist/1mVhWJe3qmfTXM7ByuoryV) | [pLAyed Out](https://open.spotify.com/album/50W579OvxH4kPFZ3X4pd87) | 3:24 | 2021-12-02 | 2024-04-16 |

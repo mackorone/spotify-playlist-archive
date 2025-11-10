@@ -4441,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/3aAsEkLct6gvd7ocd78X7E"
+      },
+      "artists": [
+        {
+          "name": "Henry Thompson",
+          "url": "https://open.spotify.com/artist/1V2jHJ52kMAIxlEPFWIhPE"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185901,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6kpoUfB2Q7WX60OE7fUiFa"
+    },
+    {
+      "album": {
         "name": "ALRIGHT",
         "url": "https://open.spotify.com/album/33Zn9lfZnPzzn4cXYK59MI"
       },

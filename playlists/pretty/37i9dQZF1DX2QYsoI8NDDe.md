@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Chiquis
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,398 likes - 180 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,376 likes - 180 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

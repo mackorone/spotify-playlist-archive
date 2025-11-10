@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain]
 
 > Celebrate Halloween with the the best in old fashioned spooky Jazz and Blues from the 1920s\-1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,910 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,900 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain]
 | 49 | [Hell's Bells](https://open.spotify.com/track/1GJFzcBQk56YamRaTGNjff) | [Art Kassel & his Orchestra](https://open.spotify.com/artist/5icA2VOrgiarajZEh7FgYo) | [Halloween Classics: Songs That Scared The Bloomers Off Your Great\-Grandma](https://open.spotify.com/album/2fytWEp9pLSfRzo5TNTRUw) | 2:51 |
 | 50 | [Between The Devil And The Deep Blue Sea](https://open.spotify.com/track/3dOK24ZvLOlPjYktKZbckJ) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad) | [Helen Forrest: The Complete World Transcriptions](https://open.spotify.com/album/3vTbzq3jHCEXLC5PbniHbK) | 2:00 |
 
-Snapshot ID: `AAAAAJvdqALVIRycbxKPPv1e/BmAwLoQ`
+Snapshot ID: `AAAAAOooQivTK6zcu1exqow2mVOOAppQ`

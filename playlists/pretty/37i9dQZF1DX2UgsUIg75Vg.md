@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Flwr Chyld
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367,877 likes - 238 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367,809 likes - 238 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

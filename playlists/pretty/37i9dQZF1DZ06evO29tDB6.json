@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 143316,
+  "num_followers": 143328,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ02gAAAAADkk5iwWFs0dm6L0W9zm2+M",
+  "snapshot_id": "aQ6IAAAAAAB3faPNjJxw8g/4iOYpGHMM",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va el Amor",
-        "url": "https://open.spotify.com/album/39b4OTzmUcmjX0E6UeXWqf"
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
       "artists": [
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 224876,
-      "name": "Se Va el Amor",
-      "url": "https://open.spotify.com/track/6gOfmXusYcshTwe1YaxdG0"
+      "duration_ms": 325706,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
     },
     {
       "added_at": null,
@@ -611,18 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+        "name": "Se Va el Amor",
+        "url": "https://open.spotify.com/album/39b4OTzmUcmjX0E6UeXWqf"
       },
       "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 325706,
-      "name": "San Juanico",
-      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
+      "duration_ms": 224876,
+      "name": "Se Va el Amor",
+      "url": "https://open.spotify.com/track/6gOfmXusYcshTwe1YaxdG0"
     },
     {
       "added_at": null,

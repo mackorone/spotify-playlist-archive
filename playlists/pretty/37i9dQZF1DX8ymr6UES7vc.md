@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 
 > Simply rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,030 likes - 250 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,634 likes - 250 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,12 +213,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 203 | [Calming Rain Sounds](https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE) | [Capital Rain Sounds](https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA) | [Capital Rain Sounds](https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V) | 2:02 |
 | 204 | [Consistent Rain](https://open.spotify.com/track/1RqxfnREk3NfdYmHpALdrc) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Consistent Rain](https://open.spotify.com/album/11wLvp7lKyBLSo6csOmJCo) | 2:22 |
 | 205 | [Ambient Rain Noise](https://open.spotify.com/track/4g6Vw8odUtPpxCQqpZwfGR) | [Dark Focus](https://open.spotify.com/artist/2njHaC9RSwt6ySM3HgGgfB) | [Ambient Nature Noise](https://open.spotify.com/album/5i3bk6Nn1ypbejqfIgNhod) | 2:30 |
-| 206 | [Bloom Drops](https://open.spotify.com/track/0vblE9dJaMfWAZAyCPFSBu) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bloom Drops](https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU) | 3:00 |
-| 207 | [Quiet Clouds \(Rain\)](https://open.spotify.com/track/6mRD8NhzaNFuM8yl98tZWI) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Bliss Rain](https://open.spotify.com/album/2kCvDwV3CmtQ1DlpLJ3Erm) | 2:45 |
-| 208 | [Earthly Breeze Rain](https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Tranquil Rain](https://open.spotify.com/album/0Mmvg8rBE91sWDrdMNzeJm) | 2:16 |
-| 209 | [Hard Rain 2](https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP) | [Rain Hard](https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4) | [Rain Rain Rain](https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX) | 3:09 |
-| 210 | [Sleep Rain in Nature](https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Forest Rain](https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV) | 2:18 |
-| 211 | [Soft Rain](https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 2:55 |
+| 206 | [Quiet Clouds \(Rain\)](https://open.spotify.com/track/6mRD8NhzaNFuM8yl98tZWI) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Bliss Rain](https://open.spotify.com/album/2kCvDwV3CmtQ1DlpLJ3Erm) | 2:45 |
+| 207 | [Earthly Breeze Rain](https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Tranquil Rain](https://open.spotify.com/album/0Mmvg8rBE91sWDrdMNzeJm) | 2:16 |
+| 208 | [Hard Rain 2](https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP) | [Rain Hard](https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4) | [Rain Rain Rain](https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX) | 3:09 |
+| 209 | [Sleep Rain in Nature](https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Forest Rain](https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV) | 2:18 |
+| 210 | [Soft Rain](https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 2:55 |
+| 211 | [Bloom Drops](https://open.spotify.com/track/0vblE9dJaMfWAZAyCPFSBu) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bloom Drops](https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU) | 3:00 |
 | 212 | [Aint No Sunshine When There's Rain](https://open.spotify.com/track/6SZvCnStgcYX3Rlj5ttODW) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 |
 | 213 | [Nectar Rain](https://open.spotify.com/track/2BNnlyMecPqvEp6rzIEsTz) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:59 |
 | 214 | [Relaxing Rain](https://open.spotify.com/track/1sykIweIzrpcdBDeofXx1I) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rainy Night In Amsterdam](https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS) | 3:36 |
@@ -238,9 +238,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 228 | [Soothing Rain Sound For Sleep](https://open.spotify.com/track/0rK0AFM0QPRDq9k1f79U4v) | [XTR Soundscapes](https://open.spotify.com/artist/4UhzSHdjRfhfUjGkuUObzY) | [Soothing Rain Sound For Sleep](https://open.spotify.com/album/0sFZ8Q8H5391qXQRSgsbCw) | 3:04 |
 | 229 | [Summer Nap](https://open.spotify.com/track/1L2rIfFHucpioSL5MvF9es) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:23 |
 | 230 | [The Picnic is Over](https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 3:18 |
-| 231 | [The Nimbus Part Three](https://open.spotify.com/track/6s4Hxka2TxYODfpFGFTKP3) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part Three](https://open.spotify.com/album/3fZagw2YBbkZJ5geGPH5eu) | 2:44 |
-| 232 | [Blue Rain](https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS) | [Kings Rain](https://open.spotify.com/artist/4r5tD2tk051ly22Q6eVura) | [Blue Rain](https://open.spotify.com/album/5De22XRwH7FGhcT20r4kJx) | 2:46 |
-| 233 | [Regn I Skogen](https://open.spotify.com/track/3n0g7f7OHnyil4JBFNvrdz) | [Landsbygden](https://open.spotify.com/artist/2UGkwLMYHiydn6oQJt3FSw) | [Regn I Skogen](https://open.spotify.com/album/6JFWvRWg6XdydSti2pOagZ) | 2:48 |
+| 231 | [Blue Rain](https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS) | [Kings Rain](https://open.spotify.com/artist/4r5tD2tk051ly22Q6eVura) | [Blue Rain](https://open.spotify.com/album/5De22XRwH7FGhcT20r4kJx) | 2:46 |
+| 232 | [Regn I Skogen](https://open.spotify.com/track/3n0g7f7OHnyil4JBFNvrdz) | [Landsbygden](https://open.spotify.com/artist/2UGkwLMYHiydn6oQJt3FSw) | [Regn I Skogen](https://open.spotify.com/album/6JFWvRWg6XdydSti2pOagZ) | 2:48 |
+| 233 | [The Nimbus Part Three](https://open.spotify.com/track/6s4Hxka2TxYODfpFGFTKP3) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part Three](https://open.spotify.com/album/3fZagw2YBbkZJ5geGPH5eu) | 2:44 |
 | 234 | [Cozy Midnight Rain](https://open.spotify.com/track/4VvuuVmZ0cWBexdOnpSAQ6) | [Aqualand](https://open.spotify.com/artist/5vMLhcMsB19f7u6bZ2f9GM) | [Cozy Midnight Rain](https://open.spotify.com/album/6CHXA9rmCyoti36afWq1AU) | 2:27 |
 | 235 | [Light Rain](https://open.spotify.com/track/30u2QNmxmeJxN7JFOsICOB) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Light Rain](https://open.spotify.com/album/5I4albgvvoMZqzmti4Uyes) | 2:24 |
 | 236 | [Softest Night Rain](https://open.spotify.com/track/6rFnSfkEDYHXCNd4v7l94b) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Softest Night Rain](https://open.spotify.com/album/3BUdYtLiDLnrSDcPnXFRd3) | 2:56 |

@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "10,000km (feat. Solji)",
+        "url": "https://open.spotify.com/album/27yy7zw3D4htunqLVFr1Ku"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Solji",
+          "url": "https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "10,000km (feat. Solji)",
+      "url": "https://open.spotify.com/track/1Xq0CyUtWqrp0yUjBXAQ5O"
+    },
+    {
+      "album": {
         "name": "Whats wrong with secretary kim OST Part.4",
         "url": "https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I"
       },
@@ -2740,7 +2762,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 192026,
       "name": "Lovey Dovey",
       "url": "https://open.spotify.com/track/0sDbmJillp1rvmiROBeFtW"

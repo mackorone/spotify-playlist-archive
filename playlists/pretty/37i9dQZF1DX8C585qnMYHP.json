@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7nfBxjb99prCqaT3wk87u5\">Samba Jean-Baptiste</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 191623,
+  "num_followers": 191630,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "PREY",
-        "url": "https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU"
-      },
-      "artists": [
-        {
-          "name": "SZARY",
-          "url": "https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca"
-        }
-      ],
-      "duration_ms": 264223,
-      "name": "PREY",
-      "url": "https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 82547,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3B8ozK6655EMpVkiHtGMns"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "PREY",
+        "url": "https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU"
+      },
+      "artists": [
+        {
+          "name": "SZARY",
+          "url": "https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca"
+        }
+      ],
+      "duration_ms": 264223,
+      "name": "PREY",
+      "url": "https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "F\u00fcr Therese",
-        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 262945,
-      "name": "F\u00fcr Therese",
-      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Iti Eta No",
         "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 264000,
       "name": "Tessalonica",
       "url": "https://open.spotify.com/track/4j4WXhP8UMeDnfN7U2TOsR"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "F\u00fcr Therese",
+        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 262945,
+      "name": "F\u00fcr Therese",
+      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
     },
     {
       "added_at": "2025-10-24 19:31:01",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-68 songs - 2 hr 58 min
+69 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Television](https://open.spotify.com/track/4iBV0ldjqCMvTeWvPEr9My) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Television](https://open.spotify.com/album/3ttk71gIIUYyEknIajv2bc) | 3:01 | 2024-01-29 | 2024-04-02 |
 | [Texts Go Green](https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3) | 2:25 | 2024-01-29 | 2025-04-08 |
 | [Texts Go Green](https://open.spotify.com/track/2GMdw0RsOBAPYMUINQsA4v) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/4zjKD1gYjEMJ6difa5JqY5) | 2:25 | 2025-04-07 |  |
-| [Thank Me](https://open.spotify.com/track/2AR2YoJ6fViZbtptWZxbvm) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Thank Me](https://open.spotify.com/album/6RfoQKzpApTFlzB9txv7YZ) | 2:17 | 2024-11-16 |  |
+| [Thank Me](https://open.spotify.com/track/0tJLJYQmGkFpwftbOqZgAG) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Thank Me](https://open.spotify.com/album/2N15bFQrC13exAQ5fKbdMn) | 2:17 | 2025-11-09 |  |
+| [Thank Me](https://open.spotify.com/track/2AR2YoJ6fViZbtptWZxbvm) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Thank Me](https://open.spotify.com/album/6RfoQKzpApTFlzB9txv7YZ) | 2:17 | 2024-11-16 | 2025-11-10 |
 | [The Idea](https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 3:31 | 2024-01-29 |  |
 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 | 2025-01-28 |  |
 | [Torture](https://open.spotify.com/track/28K8xAaFrNZHSe1EmCBJNU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 2:28 | 2024-01-29 |  |

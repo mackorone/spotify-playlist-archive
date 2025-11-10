@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 7 hr 48 min
+111 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Vai Chover](https://open.spotify.com/track/0XWsGPnhSZGsswjDQm0xGF) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover](https://open.spotify.com/album/6X7ndG3Epf83yKn3mUXNXM) | 4:30 | 2024-06-28 |  |
 | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A) | 4:30 | 2022-06-04 | 2024-06-29 |
 | [Vai Dar Bom](https://open.spotify.com/track/13OO6G0HRBsqhUoOiwTGsu) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Baile Cítrico Utrópico Solar](https://open.spotify.com/album/7CCPMoTQNqhbpMOcG9L7SG) | 3:19 | 2025-08-08 |  |
+| [Vida e Amor](https://open.spotify.com/track/5fbMT6G7jJipIGC2zac9Xn) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Vida e Amor](https://open.spotify.com/album/2j0qUIzgAcUaIT3bqgu43K) | 3:13 | 2025-11-09 |  |
 | [Vila Isabel \- Ao Vivo](https://open.spotify.com/track/3cT0DDyPdYholSzngXTOrw) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 6:08 | 2022-06-04 | 2025-02-09 |
 | [Vila Isabel \- Ao Vivo](https://open.spotify.com/track/6qekYocCc8LLlN9yqKUflM) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/3FD7FquzRXThRDn5L8j4jz) | 6:08 | 2025-02-08 |  |
 | [Vou Me Tacar](https://open.spotify.com/track/30drSvFpGQLk20Ixd0rTkG) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:30 | 2022-06-04 | 2025-02-20 |

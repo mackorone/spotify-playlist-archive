@@ -1,6 +1,6 @@
 {
   "description": "Beats with a flavour of Jazz.",
-  "num_followers": 97322,
+  "num_followers": 97393,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2025-11-07 07:52:57",
       "album": {
+        "name": "Moroccan Mint",
+        "url": "https://open.spotify.com/album/5WdSRHvkln26PGtrop7KdQ"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Moroccan Mint",
+      "url": "https://open.spotify.com/track/6ZqerXOL0kNew8Lr0kV64m"
+    },
+    {
+      "added_at": "2025-11-07 07:52:57",
+      "album": {
         "name": "Sandscape Vibes",
         "url": "https://open.spotify.com/album/0kkCV2JYagLkcvkqR2eiZA"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 133770,
       "name": "Hand",
       "url": "https://open.spotify.com/track/4glF0mDJfHRguZYXgKoCoX"
-    },
-    {
-      "added_at": "2025-11-07 07:52:57",
-      "album": {
-        "name": "Moroccan Mint",
-        "url": "https://open.spotify.com/album/5WdSRHvkln26PGtrop7KdQ"
-      },
-      "artists": [
-        {
-          "name": "yosev",
-          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
-        },
-        {
-          "name": "Lazlow",
-          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Moroccan Mint",
-      "url": "https://open.spotify.com/track/6ZqerXOL0kNew8Lr0kV64m"
     },
     {
       "added_at": "2025-11-07 07:52:57",
@@ -2535,6 +2535,22 @@
     {
       "added_at": "2025-11-07 07:52:57",
       "album": {
+        "name": "violet",
+        "url": "https://open.spotify.com/album/6nDz7o5fIE1HmVG1dGd8HF"
+      },
+      "artists": [
+        {
+          "name": "WOOLFSON",
+          "url": "https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/5bKHuX3cPzbRMT8JIyWIHF"
+    },
+    {
+      "added_at": "2025-11-07 07:52:57",
+      "album": {
         "name": "Sunset by the Lake",
         "url": "https://open.spotify.com/album/1GLa8p6VZx8bF9a4nqg7yq"
       },
@@ -2551,22 +2567,6 @@
       "duration_ms": 101757,
       "name": "Sunset by the Lake",
       "url": "https://open.spotify.com/track/1tdG86Nguvb7ylGQiReC90"
-    },
-    {
-      "added_at": "2025-11-07 07:52:57",
-      "album": {
-        "name": "violet",
-        "url": "https://open.spotify.com/album/6nDz7o5fIE1HmVG1dGd8HF"
-      },
-      "artists": [
-        {
-          "name": "WOOLFSON",
-          "url": "https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/5bKHuX3cPzbRMT8JIyWIHF"
     },
     {
       "added_at": "2025-11-07 07:52:57",
@@ -2651,26 +2651,6 @@
     {
       "added_at": "2025-11-07 07:52:57",
       "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/38vyJimW9lh3634kjGXUDs"
-      },
-      "artists": [
-        {
-          "name": "Erwin Do",
-          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
-        },
-        {
-          "name": "Myr\u00edad",
-          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
-        }
-      ],
-      "duration_ms": 117176,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/7Bqkuj2wPcgfdolI8NEUhf"
-    },
-    {
-      "added_at": "2025-11-07 07:52:57",
-      "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/7fbn9InFw31qxZDBjoql2U"
       },
@@ -2723,6 +2703,26 @@
       "duration_ms": 120666,
       "name": "Smooth Rush",
       "url": "https://open.spotify.com/track/5Jw8bFyOFGSHc76SufSoZd"
+    },
+    {
+      "added_at": "2025-11-07 07:52:57",
+      "album": {
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/38vyJimW9lh3634kjGXUDs"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Myr\u00edad",
+          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
+        }
+      ],
+      "duration_ms": 117176,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/7Bqkuj2wPcgfdolI8NEUhf"
     },
     {
       "added_at": "2025-11-07 07:52:57",
@@ -3051,26 +3051,6 @@
     {
       "added_at": "2025-11-07 07:52:57",
       "album": {
-        "name": "Twice",
-        "url": "https://open.spotify.com/album/5MtcP1j0ZGLfCQkCHmlPtI"
-      },
-      "artists": [
-        {
-          "name": "\u00d8DYSSEE",
-          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
-        },
-        {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY"
-    },
-    {
-      "added_at": "2025-11-07 07:52:57",
-      "album": {
         "name": "Milky Way",
         "url": "https://open.spotify.com/album/1QgZrwiERIJs7TeRXHzxz4"
       },
@@ -3107,6 +3087,26 @@
       "duration_ms": 125463,
       "name": "Love",
       "url": "https://open.spotify.com/track/3KmawJyuKs4oQTOL7GsZex"
+    },
+    {
+      "added_at": "2025-11-07 07:52:57",
+      "album": {
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/5MtcP1j0ZGLfCQkCHmlPtI"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY"
     },
     {
       "added_at": "2025-11-07 07:52:57",
@@ -3507,26 +3507,6 @@
     {
       "added_at": "2025-11-07 07:52:57",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/4iqzHnAs6994w6KQ9hTDTT"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "delaney.",
-          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
-        }
-      ],
-      "duration_ms": 110470,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/7Bh91Wfl19vDFPYlKMYIB4"
-    },
-    {
-      "added_at": "2025-11-07 07:52:57",
-      "album": {
         "name": "Washed in Vermillion",
         "url": "https://open.spotify.com/album/7u1fhd2dzeo0dLL8yJdNxt"
       },
@@ -3583,6 +3563,26 @@
       "duration_ms": 110357,
       "name": "mezzanotte",
       "url": "https://open.spotify.com/track/2uYZ9fhtqBZgzBI0Q9IM6D"
+    },
+    {
+      "added_at": "2025-11-07 07:52:57",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/4iqzHnAs6994w6KQ9hTDTT"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        }
+      ],
+      "duration_ms": 110470,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/7Bh91Wfl19vDFPYlKMYIB4"
     },
     {
       "added_at": "2025-11-07 07:52:57",

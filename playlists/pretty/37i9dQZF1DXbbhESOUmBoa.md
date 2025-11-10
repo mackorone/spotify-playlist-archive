@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain]
 
 > enjoy the TOMORROW X TOGETHER WORLD TOUR \[ACT : TOMORROW\] LIVE SET including the voices of them on stage! \(투모로우바이투게더의 무대 멘트와 목소리가 포함된 \[ACT : TOMORROW\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,045 likes - 37 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,130 likes - 37 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Adormecer ao som relaxante da chuva.",
-  "num_followers": 198811,
+  "num_followers": 198906,
   "original_name": "Chuva para Dormir",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-03-27 08:05:03",
       "album": {
+        "name": "rain in stavanger",
+        "url": "https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m"
+      },
+      "artists": [
+        {
+          "name": "pluvia",
+          "url": "https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "rain in stavanger",
+      "url": "https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7"
+    },
+    {
+      "added_at": "2024-03-27 08:05:03",
+      "album": {
         "name": "Endless Rain",
         "url": "https://open.spotify.com/album/68iEqOmVcOTDhYWQ6DwTUI"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 184000,
       "name": "Dozy Rain - Rain",
       "url": "https://open.spotify.com/track/5BMiNda6qOfuMa8KO4V7l3"
-    },
-    {
-      "added_at": "2024-03-27 08:05:03",
-      "album": {
-        "name": "rain in stavanger",
-        "url": "https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m"
-      },
-      "artists": [
-        {
-          "name": "pluvia",
-          "url": "https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "rain in stavanger",
-      "url": "https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7"
     },
     {
       "added_at": "2024-03-27 08:05:03",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2024-03-27 08:05:03",
       "album": {
-        "name": "Rainfall Place",
-        "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
-      },
-      "artists": [
-        {
-          "name": "Rainfall Place",
-          "url": "https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX"
-        }
-      ],
-      "duration_ms": 147864,
-      "name": "Relaxation Rain Sound",
-      "url": "https://open.spotify.com/track/3syQvNoSeSrEaanClGFxgB"
-    },
-    {
-      "added_at": "2024-03-27 08:05:03",
-      "album": {
         "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e1d\u0e19\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e",
         "url": "https://open.spotify.com/album/0StfOG7Lsu1P9qseiHtDOZ"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 126000,
       "name": "Consistent Rain",
       "url": "https://open.spotify.com/track/7hleOo6zmfPQVT4GHtLLco"
+    },
+    {
+      "added_at": "2024-03-27 08:05:03",
+      "album": {
+        "name": "Rainfall Place",
+        "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
+      },
+      "artists": [
+        {
+          "name": "Rainfall Place",
+          "url": "https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX"
+        }
+      ],
+      "duration_ms": 147864,
+      "name": "Relaxation Rain Sound",
+      "url": "https://open.spotify.com/track/3syQvNoSeSrEaanClGFxgB"
     },
     {
       "added_at": "2024-03-27 08:05:03",
@@ -4335,22 +4335,6 @@
     {
       "added_at": "2024-03-27 08:05:03",
       "album": {
-        "name": "Oneiric Rains",
-        "url": "https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb"
-      },
-      "artists": [
-        {
-          "name": "Nature Vibrations",
-          "url": "https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95"
-        }
-      ],
-      "duration_ms": 173951,
-      "name": "Rain Drops for Deep Sleep",
-      "url": "https://open.spotify.com/track/73oH76vGccrt4sU44ifR1p"
-    },
-    {
-      "added_at": "2024-03-27 08:05:03",
-      "album": {
         "name": "Rainy Forecast",
         "url": "https://open.spotify.com/album/69fopENmMR03vJpI5kxLSK"
       },
@@ -4363,6 +4347,22 @@
       "duration_ms": 138948,
       "name": "Raindrops for Sleep",
       "url": "https://open.spotify.com/track/4H2UoVHDlQe6t14ulSYW6y"
+    },
+    {
+      "added_at": "2024-03-27 08:05:03",
+      "album": {
+        "name": "Oneiric Rains",
+        "url": "https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb"
+      },
+      "artists": [
+        {
+          "name": "Nature Vibrations",
+          "url": "https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95"
+        }
+      ],
+      "duration_ms": 173951,
+      "name": "Rain Drops for Deep Sleep",
+      "url": "https://open.spotify.com/track/73oH76vGccrt4sU44ifR1p"
     },
     {
       "added_at": "2024-03-27 08:05:03",
@@ -4751,6 +4751,22 @@
     {
       "added_at": "2024-03-27 08:05:03",
       "album": {
+        "name": "Sleep Storm",
+        "url": "https://open.spotify.com/album/5upmCDu4ApJ8Rcshq8fGzV"
+      },
+      "artists": [
+        {
+          "name": "Amida Nature Sounds",
+          "url": "https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Lunch Break Storm",
+      "url": "https://open.spotify.com/track/4ZiKDSw7ieKgmY4ccQfagc"
+    },
+    {
+      "added_at": "2024-03-27 08:05:03",
+      "album": {
         "name": "Lightning Therapy",
         "url": "https://open.spotify.com/album/3adoh17BDT1uiFBekiTW8y"
       },
@@ -4795,22 +4811,6 @@
       "duration_ms": 208124,
       "name": "Rainy Nights",
       "url": "https://open.spotify.com/track/0rAc8hJhlILO2N4Peo0Y75"
-    },
-    {
-      "added_at": "2024-03-27 08:05:03",
-      "album": {
-        "name": "Distracted by the Rain",
-        "url": "https://open.spotify.com/album/2beh4A7RMOVHHDwHgMS1MT"
-      },
-      "artists": [
-        {
-          "name": "State of Distraction",
-          "url": "https://open.spotify.com/artist/717T7LEBnoLCGHg2MEryj3"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "Distracted by the Rain",
-      "url": "https://open.spotify.com/track/5DwOYaWXl1ksN5WVRa8ZGs"
     }
   ],
   "unique_name": "Chuva para Dormir",

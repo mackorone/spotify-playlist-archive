@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107516,
+  "num_followers": 107522,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ02gAAAAAAZHFmbZ7Mx5gw1CISe/pXt",
+  "snapshot_id": "aQ6IAAAAAADJiy6GjjsBwYWtraTKh0wS",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "N Vriend",
+        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Wat Is Dan Liefde",
+      "url": "https://open.spotify.com/track/7lzSUHVotlqj0JSWIe5Q6D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Een Beetje Verliefd",
+      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "De Vlieger",
+      "url": "https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -151,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Een Beetje Verliefd",
-      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N Vriend",
         "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
       },
@@ -176,41 +208,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 216400,
-      "name": "Wat Is Dan Liefde",
-      "url": "https://open.spotify.com/track/7lzSUHVotlqj0JSWIe5Q6D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "De Vlieger",
-      "url": "https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "'t Rode Licht",
-      "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
+      "duration_ms": 246706,
+      "name": "Het Is Koud Zonder Jou",
+      "url": "https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N Vriend",
-        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 246706,
-      "name": "Het Is Koud Zonder Jou",
-      "url": "https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj"
+      "duration_ms": 216866,
+      "name": "'t Rode Licht",
+      "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Heel Mijn Hart",
-        "url": "https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD"
+        "name": "N Vriend",
+        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 290666,
-      "name": "Ik Leef M'n Eigen Leven",
-      "url": "https://open.spotify.com/track/7qwNSHctECC8wPqFwUZsGo"
+      "duration_ms": 240133,
+      "name": "Waarom",
+      "url": "https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N Vriend",
-        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
+        "name": "Met Heel Mijn Hart",
+        "url": "https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Waarom",
-      "url": "https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1"
+      "duration_ms": 290666,
+      "name": "Ik Leef M'n Eigen Leven",
+      "url": "https://open.spotify.com/track/7qwNSHctECC8wPqFwUZsGo"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "De Glimlach Van Een Kind",
-      "url": "https://open.spotify.com/track/3rmeMUVPieGjJDFPZ2SurK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vaag En Stil",
         "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 211293,
       "name": "Vaag En Stil",
       "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "De Glimlach Van Een Kind",
+      "url": "https://open.spotify.com/track/3rmeMUVPieGjJDFPZ2SurK"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Wees Zuinig Op M'n Meissie",
-      "url": "https://open.spotify.com/track/1ZKArL3MUbctYbDA0aA70M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 234533,
       "name": "Leef Nu Maar Je Eigen Leven",
       "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "Wees Zuinig Op M'n Meissie",
+      "url": "https://open.spotify.com/track/1ZKArL3MUbctYbDA0aA70M"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Zo Heb Ik Het Nooit Bedoeld",
-      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 220093,
       "name": "Volare",
       "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "Zo Heb Ik Het Nooit Bedoeld",
+      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
     },
     {
       "added_at": null,

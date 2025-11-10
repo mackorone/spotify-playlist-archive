@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NzmbtQKQMoPcOfesYLda8.md) - [plain]
 
 > ESSENTIALS <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 149,470 likes - 24 songs - 1 hr 42 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 149,460 likes - 24 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

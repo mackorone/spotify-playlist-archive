@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 5 hr 28 min
+118 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,5 +125,6 @@
 | [Wat Zou Je Doen](https://open.spotify.com/track/3HHLbiiR48BZ636KgWUCw0) | [Langesjaak](https://open.spotify.com/artist/16GFcI0Sl34ETwdcVuM0Mj), [Joyba](https://open.spotify.com/artist/6UeUHpQSkLnBJYtKF2EbKb) | [Wat Zou Je Doen](https://open.spotify.com/album/3BmNCDKmubip6RAMujj8O9) | 3:22 | 2025-01-09 | 2025-04-12 |
 | [Woozy](https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Woozy](https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU) | 2:24 | 2024-01-29 |  |
 | [Zet Het](https://open.spotify.com/track/4pTZ8gF1xuGObYn96WXK1a) | [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Zet Het](https://open.spotify.com/album/7ty1ahSMTnaaYOng1VyZoU) | 2:59 | 2024-01-29 |  |
+| [Zij komt van het kamp](https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Zij komt van het kamp](https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5) | 2:28 | 2025-11-09 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ02gAAAAADmeugk68LMpRi+hMFptlBH",
+  "snapshot_id": "aQ6IAAAAAADHtKsDcnpXO3soN4w4c0K3",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kate Kelly",
+        "url": "https://open.spotify.com/album/6SBv6mAGuH4Kl4aB5G7bdt"
+      },
+      "artists": [
+        {
+          "name": "The Whitlams",
+          "url": "https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6"
+        },
+        {
+          "name": "Black Stump",
+          "url": "https://open.spotify.com/artist/61Y01ITZhNtawMjMlAlHyN"
+        },
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 267161,
+      "name": "Kate Kelly",
+      "url": "https://open.spotify.com/track/5CuYP8M74wJqQU4vmHTUfz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs from Highway One",
         "url": "https://open.spotify.com/album/7CNHWbJNVwZyq6UeBt1XoC"
       },
@@ -71,30 +95,6 @@
       "duration_ms": 210400,
       "name": "Better With Time (feat. Beccy Cole, Darren Coggan & Felicity Urquhart)",
       "url": "https://open.spotify.com/track/2gtTqzit5Wt2ZcimYwU0b5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kate Kelly",
-        "url": "https://open.spotify.com/album/6SBv6mAGuH4Kl4aB5G7bdt"
-      },
-      "artists": [
-        {
-          "name": "The Whitlams",
-          "url": "https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6"
-        },
-        {
-          "name": "Black Stump",
-          "url": "https://open.spotify.com/artist/61Y01ITZhNtawMjMlAlHyN"
-        },
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 267161,
-      "name": "Kate Kelly",
-      "url": "https://open.spotify.com/track/5CuYP8M74wJqQU4vmHTUfz"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 131333,
-      "name": "Too Many Secrets",
-      "url": "https://open.spotify.com/track/55GAlB5vrAuTYDZ9ml1pcu"
+      "duration_ms": 154400,
+      "name": "Live a Little",
+      "url": "https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h"
     },
     {
       "added_at": null,
@@ -324,25 +324,29 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 154400,
-      "name": "Live a Little",
-      "url": "https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h"
+      "duration_ms": 131333,
+      "name": "Too Many Secrets",
+      "url": "https://open.spotify.com/track/55GAlB5vrAuTYDZ9ml1pcu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Send It Down Hughie, Vol. 2",
-        "url": "https://open.spotify.com/album/5FcbXiBe7YMTsJBsvJRQgy"
+        "name": "The Cast",
+        "url": "https://open.spotify.com/album/5jjYptXOsQ1SaJDwLETwrp"
       },
       "artists": [
+        {
+          "name": "Michael Waugh",
+          "url": "https://open.spotify.com/artist/41gBcY9vHBzmVzf3D7enJJ"
+        },
         {
           "name": "Felicity Urquhart",
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 233560,
-      "name": "Give",
-      "url": "https://open.spotify.com/track/0KGleGbyZDjFW9NqCf6Hai"
+      "duration_ms": 270200,
+      "name": "Too Many Drawers",
+      "url": "https://open.spotify.com/track/1SbsGO2klPqbfiTju8csUM"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cast",
-        "url": "https://open.spotify.com/album/5jjYptXOsQ1SaJDwLETwrp"
+        "name": "Send It Down Hughie, Vol. 2",
+        "url": "https://open.spotify.com/album/5FcbXiBe7YMTsJBsvJRQgy"
       },
       "artists": [
-        {
-          "name": "Michael Waugh",
-          "url": "https://open.spotify.com/artist/41gBcY9vHBzmVzf3D7enJJ"
-        },
         {
           "name": "Felicity Urquhart",
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 270200,
-      "name": "Too Many Drawers",
-      "url": "https://open.spotify.com/track/1SbsGO2klPqbfiTju8csUM"
+      "duration_ms": 233560,
+      "name": "Give",
+      "url": "https://open.spotify.com/track/0KGleGbyZDjFW9NqCf6Hai"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/2iMbuC3ankWOtNRlKsgnzw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wide Horizon",
         "url": "https://open.spotify.com/album/5rgCtU0EbzgvngtwBYqnHO"
       },
@@ -467,38 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave On A Light (The Songs Of Karl Broadie)",
-        "url": "https://open.spotify.com/album/2REprfLuELHBfhQbGRuSJp"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 253976,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/0mGFlZSt2YDZ6EaZkdBL3C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Landing Lights",
-        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Two Wheels",
-      "url": "https://open.spotify.com/track/7n6rC5g35upjUGJduXfg7f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Shadow",
         "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
       },
@@ -511,22 +463,6 @@
       "duration_ms": 154666,
       "name": "Less of Me More Often",
       "url": "https://open.spotify.com/track/6lIqDxKE72vM3vtIYCypmq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing to Hide",
-        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/01vtpwiKWDZfTAsjO8Fpbp"
     },
     {
       "added_at": null,
@@ -563,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Edge of It All",
-        "url": "https://open.spotify.com/album/69hQpAVpRlSgXzZ3YZstcQ"
-      },
-      "artists": [
-        {
-          "name": "Phil Davidson",
-          "url": "https://open.spotify.com/artist/170zczcg9A75nZzdPJckgv"
-        },
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/3a9FYOFDfwdcS9a8zr0QtR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing to Hide",
         "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
       },
@@ -599,6 +515,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Leave On A Light (The Songs Of Karl Broadie)",
+        "url": "https://open.spotify.com/album/2REprfLuELHBfhQbGRuSJp"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 253976,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/0mGFlZSt2YDZ6EaZkdBL3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 145026,
+      "name": "Swingtown",
+      "url": "https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Landing Lights",
+        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Two Wheels",
+      "url": "https://open.spotify.com/track/7n6rC5g35upjUGJduXfg7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing to Hide",
+        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Sugarloaf Hill",
+      "url": "https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 202546,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Edge of It All",
+        "url": "https://open.spotify.com/album/69hQpAVpRlSgXzZ3YZstcQ"
+      },
+      "artists": [
+        {
+          "name": "Phil Davidson",
+          "url": "https://open.spotify.com/artist/170zczcg9A75nZzdPJckgv"
+        },
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/3a9FYOFDfwdcS9a8zr0QtR"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Mr Catfish",
-      "url": "https://open.spotify.com/track/4eYIiaQ8i5veUbYa1LVZuq"
+      "duration_ms": 202546,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Sugarloaf Hill",
-      "url": "https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k"
+      "duration_ms": 190093,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/01vtpwiKWDZfTAsjO8Fpbp"
     }
   ],
   "unique_name": "This Is Felicity Urquhart",

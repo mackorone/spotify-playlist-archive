@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with Tobias Forge of <a href="https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D?si=c6cdd622f63042d2">Ghost</a>, who shares the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,477 likes - 36 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,496 likes - 36 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 17 | [Angel of Death](https://open.spotify.com/track/4Mh56a2NB9vENJP3AUTD5F) | [Angel Witch](https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS) | [Angel Witch \(30th Anniversary Edition\)](https://open.spotify.com/album/4uL3yn9nCDNOr0Dj4ycdqn) | 4:52 |
 | 18 | [Back to Black](https://open.spotify.com/track/5u5KfoGMlgppeZFiHATa5c) | [Sarcofagus](https://open.spotify.com/artist/159GWwlNP7D88e3Joai6vP) | [Anthology 1979\-1982](https://open.spotify.com/album/7AGq2eoGMGH1KMVgAOBmRH) | 5:12 |
 | 19 | [Charred Remains](https://open.spotify.com/track/51bldDSed9m6Raj2BtRePR) | [Autopsy](https://open.spotify.com/artist/6hR8mUd2yyHFazoCuweiIJ) | [Shitfun](https://open.spotify.com/album/0XQgv0BaqYOVNEzf2Y6TPv) | 3:40 |
-| 20 | [Black Diamond \- Live/1975](https://open.spotify.com/track/1KrMzsZkKjnMnp76J2HtBE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 5:50 |
+| 20 | [Black Diamond](https://open.spotify.com/track/1KrMzsZkKjnMnp76J2HtBE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 5:50 |
 | 21 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
 | 22 | [Night of the Demon](https://open.spotify.com/track/6DVC4WmdKR19C3KfTzyg6D) | [Demon](https://open.spotify.com/artist/7tI1ZOOgocYZT2O5M8iBz8) | [Night of the Demon](https://open.spotify.com/album/5bvtddJVZr3l6BWwL9D8HA) | 3:18 |
 | 23 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |

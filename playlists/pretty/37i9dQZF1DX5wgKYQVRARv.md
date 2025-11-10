@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Opeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,442 likes - 150 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,480 likes - 150 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 58 | [Temporal](https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Temporal](https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM) | 4:10 |
 | 59 | [Bleed](https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen](https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa) | 7:22 |
 | 60 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 |
-| 61 | [Damien](https://open.spotify.com/track/56k68f1Csqmfx9vRXi9Jsl) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Cold Sanctuary](https://open.spotify.com/album/2OWZ870BnUw4v0Z9EBTekJ) | 4:19 |
-| 62 | [Invisible Monster](https://open.spotify.com/track/62oMXLTGaewaJ93gQVyZ4Y) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A View From The Top Of The World](https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn) | 6:30 |
-| 63 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
+| 61 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
+| 62 | [Damien](https://open.spotify.com/track/56k68f1Csqmfx9vRXi9Jsl) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Cold Sanctuary](https://open.spotify.com/album/2OWZ870BnUw4v0Z9EBTekJ) | 4:19 |
+| 63 | [Invisible Monster](https://open.spotify.com/track/62oMXLTGaewaJ93gQVyZ4Y) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A View From The Top Of The World](https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn) | 6:30 |
 | 64 | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 |
 | 65 | [Makeshift Harmony](https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [In Stasis](https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r) | 4:30 |
 | 66 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
@@ -142,9 +142,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 132 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:47 |
 | 133 | [Of Death](https://open.spotify.com/track/6C6vM7g7l4pytVTAT4sIzz) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Of Death](https://open.spotify.com/album/5NzgRiNRMxIK0fQkE9z5tA) | 5:35 |
 | 134 | [Nothing Gold](https://open.spotify.com/track/1WGC4W2dBxxxvH97h9qCP1) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Embrace the Infinity](https://open.spotify.com/album/7HL5kk9mZEYfijS8K5YzEK) | 4:16 |
-| 135 | [Silently Walking Alone](https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Silently Walking Alone](https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J) | 4:05 |
-| 136 | [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 |
-| 137 | [Legion](https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Legion](https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW) | 6:00 |
+| 135 | [Legion](https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Legion](https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW) | 6:00 |
+| 136 | [Silently Walking Alone](https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Silently Walking Alone](https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J) | 4:05 |
+| 137 | [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 |
 | 138 | [Fend You Off](https://open.spotify.com/track/2vw9pwB7AWwDENAmq1zBlV) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Fend You Off](https://open.spotify.com/album/7HFYz0fonPkHyxqAiJ1peV) | 3:51 |
 | 139 | [+ kristallfågel +](https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ kristallfågel +](https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u) | 4:03 |
 | 140 | [Where the Slime Live \(feat\. Dave Davidson & Revocation\)](https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Dave Davidson](https://open.spotify.com/artist/6O7PNlC4O3jy5AGizZ29vu), [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3) | [Where the Slime Live \(feat\. Dave Davidson & Revocation\)](https://open.spotify.com/album/7kPFumZfMhbi1Kpmq0irQY) | 5:26 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 147 | [PowerNerd](https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [PowerNerd](https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY) | 3:28 |
 | 148 | [Through the Sands of Time](https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ) | [TEMIC](https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I) | [Terror Management Theory](https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI) | 7:01 |
 | 149 | [Purified by Vengeance \(Instrumental\) \[feat\. Mark Holcomb, Periphery & Mick Gordon\]](https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Mark Holcomb](https://open.spotify.com/artist/04RVlXizrnATIdNw4tRywd), [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [The Deceivers \(Instrumental\)](https://open.spotify.com/album/2xs01qTwDQ0BkreOq75GQT) | 4:27 |
-| 150 | [Ephemeral](https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Ephemeral](https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS) | 4:06 |
+| 150 | [Mute Love](https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss) | [Mute Talk](https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi) | 4:07 |
 
 Snapshot ID: `AAAAAIJkRLcsBbXu8MPl5TEh76NcV/ZV`

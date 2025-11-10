@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 9463,
+  "num_followers": 9464,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "hooligan / sons & critics",
+        "url": "https://open.spotify.com/album/3DkdRBEwaFuyDTjsrf5dGl"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "hooligan",
+      "url": "https://open.spotify.com/track/02iYJG3KLBJODa5JkQ4O6y"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Pluto x Baby Pluto (Deluxe)",
         "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 186842,
       "name": "Over Your Head",
       "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "hooligan / sons & critics",
-        "url": "https://open.spotify.com/album/3DkdRBEwaFuyDTjsrf5dGl"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "hooligan",
-      "url": "https://open.spotify.com/track/02iYJG3KLBJODa5JkQ4O6y"
     },
     {
       "added_at": "2022-10-01 16:00:00",

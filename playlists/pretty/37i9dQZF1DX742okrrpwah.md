@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Orelsan, DJ Snake x Stray Kids et ROSALÍA au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,300 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,264 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 67 | [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:49 |
 | 68 | [Upside Down \(Candy Crush\)](https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Upside Down \(Candy Crush\)](https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf) | 3:29 |
 | 69 | [3AM in San Francisco](https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [3AM in San Francisco](https://open.spotify.com/album/4pSkt6nxEHn3LBrKf6XpQ2) | 2:26 |
-| 70 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/40bjvz9VwQKBP7t22VpoWK) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
+| 70 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/0PuNlq7O1k6LJFVpEGPM54) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
 | 71 | [ça s'arrête quand](https://open.spotify.com/track/04jAoxpzTsNI851KezRNpF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [l'envie folle](https://open.spotify.com/album/3AB2vuzXyqkwyLMPQmhubP) | 3:51 |
 | 72 | [Three Little Birds](https://open.spotify.com/track/0u5tPbHDJs1bnzoBqh69Xz) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Balla Diabaté](https://open.spotify.com/artist/315I2IHM3SKeXen5SdTerA) | [Three Little Birds](https://open.spotify.com/album/0Q5p3Fo56XgrulXWPhB76g) | 2:49 |
 | 73 | [DON'T EVER LEAVE ME](https://open.spotify.com/track/3DFMhkPf89BV5z0HhUYa6r) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [FILM NOIR](https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ) | 3:53 |

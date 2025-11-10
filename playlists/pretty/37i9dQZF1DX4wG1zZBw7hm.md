@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,057 likes - 100 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,070 likes - 100 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 26 | [My Safe Harbour](https://open.spotify.com/track/1VJd7jX3gvrlOSCPJmOHUp) | [Quantec](https://open.spotify.com/artist/1hjNDDzz7GzmceHSWgWdck) | [Echocord Jubilee Compilation](https://open.spotify.com/album/0nsUuLiEUz6KZcRnWx0sJm) | 7:12 |
 | 27 | [Resonance](https://open.spotify.com/track/0QJbWNtbx7IHfhuY4PNbK8) | [Substance](https://open.spotify.com/artist/3H2oruOrcztEmskMPzdV43), [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Libration](https://open.spotify.com/album/179J6K90Pzd6LbtcRvvX6B) | 9:11 |
 | 28 | [Königsforst 1](https://open.spotify.com/track/7joLh1gqRVsHuwccyjILbj) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Königsforst](https://open.spotify.com/album/250sWScTPsQKWAY9s7Oufy) | 9:38 |
-| 29 | [Reminiscence](https://open.spotify.com/track/3iBrW5gWNcNhK2A8fNrWKy) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Momentum](https://open.spotify.com/album/6J5AWcVTAbjmA45gRR5iWA) | 9:00 |
-| 30 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 |
-| 31 | [Luminescent](https://open.spotify.com/track/05Y1Aze2Yj9Vp5Og1wic3Z) | [Rod Modell](https://open.spotify.com/artist/6ZX4eVTPQBJ7q0cIShOmKD) | [Kettle Point](https://open.spotify.com/album/54DISapbGDCL9c01qJKE5k) | 7:59 |
+| 29 | [Luminescent](https://open.spotify.com/track/05Y1Aze2Yj9Vp5Og1wic3Z) | [Rod Modell](https://open.spotify.com/artist/6ZX4eVTPQBJ7q0cIShOmKD) | [Kettle Point](https://open.spotify.com/album/54DISapbGDCL9c01qJKE5k) | 7:59 |
+| 30 | [Reminiscence](https://open.spotify.com/track/3iBrW5gWNcNhK2A8fNrWKy) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Momentum](https://open.spotify.com/album/6J5AWcVTAbjmA45gRR5iWA) | 9:00 |
+| 31 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 |
 | 32 | [Silberfisch](https://open.spotify.com/track/57f2cCxf67aA6BtD6Y8wbR) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [3](https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL) | 6:36 |
 | 33 | [Seduction](https://open.spotify.com/track/0mEVAXbjfanF5Xetns8pPV) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:16 |
 | 34 | [Nautical Dub](https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 5:48 |
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 39 | [The Kingdom Is Ours](https://open.spotify.com/track/7FABE5YnCjQMBl3DyT1FQG) | [Vøsne](https://open.spotify.com/artist/5NC6jfSFOuNRpuBjI7kgjD) | [The Kingdom Is Ours](https://open.spotify.com/album/7BujlDWmfmJynvPieQfjqa) | 16:25 |
 | 40 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
 | 41 | [Outward](https://open.spotify.com/track/0Plyt46jf3XYgAO7ItZDRc) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 5:46 |
-| 42 | [Montego Bay](https://open.spotify.com/track/5eQV0AvbqNHJnpcjCwMRfx) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:12 |
-| 43 | [Arte](https://open.spotify.com/track/7yAcNHVKIY3NSVdo1JF6d4) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Hongkong Remastered](https://open.spotify.com/album/3EX7B1sZJJ116srzApFlXK) | 10:05 |
-| 44 | [Ranges \- Expanded](https://open.spotify.com/track/4Zj2LMXmr4k3LOZmPTYI4T) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Ranges](https://open.spotify.com/album/5styeI4sfo152kXdl1kYmR) | 9:20 |
-| 45 | [quiet street](https://open.spotify.com/track/5Lk5PhQ1WH9anaaFygScEh) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Treasure](https://open.spotify.com/album/6LPOlnyIQhAsJsfoCwCGlm) | 6:18 |
+| 42 | [Ranges \- Expanded](https://open.spotify.com/track/4Zj2LMXmr4k3LOZmPTYI4T) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Ranges](https://open.spotify.com/album/5styeI4sfo152kXdl1kYmR) | 9:20 |
+| 43 | [Montego Bay](https://open.spotify.com/track/5eQV0AvbqNHJnpcjCwMRfx) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:12 |
+| 44 | [quiet street](https://open.spotify.com/track/5Lk5PhQ1WH9anaaFygScEh) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Treasure](https://open.spotify.com/album/6LPOlnyIQhAsJsfoCwCGlm) | 6:18 |
+| 45 | [Arte](https://open.spotify.com/track/7yAcNHVKIY3NSVdo1JF6d4) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Hongkong Remastered](https://open.spotify.com/album/3EX7B1sZJJ116srzApFlXK) | 10:05 |
 | 46 | [From A Distance](https://open.spotify.com/track/7k9lcsMwgPlhLOCHQbUzlU) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Silent State](https://open.spotify.com/album/3DCJgMiJJWBBJbKcQPQ7Vb) | 6:59 |
 | 47 | [Outpost](https://open.spotify.com/track/6pkVbLNQkMHijQFhRwlScm) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf), [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ) | [Distances](https://open.spotify.com/album/5tukJUioJ8GmhIpJW9ZccB) | 5:37 |
 | 48 | [Untitled C3](https://open.spotify.com/track/3zotN6ezz03EnQoLDMmduF) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [The Album](https://open.spotify.com/album/5yHg79n8OTEDo9V5zNg6oi) | 3:03 |
 | 49 | [T'Raenon \- Version](https://open.spotify.com/track/1sCpEdkIxvafPpLSZ9KfiP) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [T'Raenon \(Remastered Edition\)](https://open.spotify.com/album/68H34x36go49MEHBTbpeyi) | 8:57 |
-| 50 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
-| 51 | [Nightmarket](https://open.spotify.com/track/68oSwhPN9aSTUhHMMTi6so) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Young Death / Nightmarket](https://open.spotify.com/album/4mHCOIMEOZwGflitIrgvST) | 7:25 |
+| 50 | [Nightmarket](https://open.spotify.com/track/68oSwhPN9aSTUhHMMTi6so) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Young Death / Nightmarket](https://open.spotify.com/album/4mHCOIMEOZwGflitIrgvST) | 7:25 |
+| 51 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
 | 52 | [Nospheratu \- Echospace Reduction](https://open.spotify.com/track/5B9UGB7LoTTPsNC1RFd8gv) | [Pulshar](https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA) | [Nospheratu](https://open.spotify.com/album/6acXl9mOKEGrKwQ5oALqvS) | 11:17 |
 | 53 | [Lucrezia](https://open.spotify.com/track/5fQrCXdKizySUZDgd0htNB) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 9:45 |
 | 54 | [Carrier](https://open.spotify.com/track/08bhHsCotWjcBpBTWJA8PS) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 6:27 |

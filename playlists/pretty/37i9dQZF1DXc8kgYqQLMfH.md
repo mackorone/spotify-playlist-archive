@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,962 likes - 150 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,127 likes - 150 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 29 | [4:40 Am](https://open.spotify.com/track/2v0GqtA4G9tGqx13rtDs4h) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [4:40 Am](https://open.spotify.com/album/3wLlEK9Hfynb0tnMzhUm0D) | 1:52 |
 | 30 | [a place both wonderful & strange](https://open.spotify.com/track/2FgAvwHYNmRsjr9ROpAuHJ) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [a place both wonderful & strange](https://open.spotify.com/album/2kHEU4USkWU4qyzAEf6cle) | 2:09 |
 | 31 | [growing still](https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [growing still](https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx) | 2:46 |
-| 32 | [water lilies](https://open.spotify.com/track/3yMn2sp3d6BBdb1xXaBVK3) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [water lilies](https://open.spotify.com/album/0j8qrnO2gN6lL6W9fGYiWa) | 2:42 |
-| 33 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 |
-| 34 | [schoolyard at night](https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [schoolyard at night](https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr) | 2:14 |
+| 32 | [schoolyard at night](https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [schoolyard at night](https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr) | 2:14 |
+| 33 | [water lilies](https://open.spotify.com/track/3yMn2sp3d6BBdb1xXaBVK3) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [water lilies](https://open.spotify.com/album/0j8qrnO2gN6lL6W9fGYiWa) | 2:42 |
+| 34 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 |
 | 35 | [Porch](https://open.spotify.com/track/1lnVbqyBZvQkVSac8AEdzA) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Porch](https://open.spotify.com/album/6LHvHIhMr4nvj3M6VEkZpn) | 2:00 |
 | 36 | [Vegetate](https://open.spotify.com/track/5m6OGO3gvsMrGc0pH8zy5K) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Vegetate](https://open.spotify.com/album/7qVvG1yYwadLMtFafIfaJy) | 2:05 |
 | 37 | [Hidden Cataract](https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Hidden Cataract](https://open.spotify.com/album/2u3wf3qD72dxSL6eHyGsvr) | 3:03 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 40 | [Lost in Dreams](https://open.spotify.com/track/5x1met9DVNVPW2RxxGPfcM) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [Lost in Dreams](https://open.spotify.com/album/5xdvch0V2aMyyi975Ptm03) | 2:26 |
 | 41 | [amber flow](https://open.spotify.com/track/0C5sdAiJAV1HwTaqJGgqrU) | [quiet arcade](https://open.spotify.com/artist/5rriJFWWklMuztCTeJLauH) | [amber flow](https://open.spotify.com/album/0HJrM0DBWb9eHTrzOrKVIr) | 2:47 |
 | 42 | [Drifting](https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Drifting](https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa) | 2:55 |
-| 43 | [Happy Celebration](https://open.spotify.com/track/6y9hG0g2mmgy5zqsknP0eA) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [Happy Celebration](https://open.spotify.com/album/1DZs2hEpDz1d5V2NE0E1Fh) | 3:10 |
-| 44 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 |
+| 43 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 |
+| 44 | [Happy Celebration](https://open.spotify.com/track/6y9hG0g2mmgy5zqsknP0eA) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [Happy Celebration](https://open.spotify.com/album/1DZs2hEpDz1d5V2NE0E1Fh) | 3:10 |
 | 45 | [bookworn](https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [bookworn](https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9) | 2:05 |
 | 46 | [cicada](https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [cicada](https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I) | 2:07 |
 | 47 | [Playground Days](https://open.spotify.com/track/3Z4xamn5gkIDOxcbQWTZbI) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Playground](https://open.spotify.com/album/11CcFmSsiIODypVZC4rXRt) | 2:23 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 53 | [cycle of life](https://open.spotify.com/track/5N6kN49QpZic3dBIvqQxRH) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [cycle of life](https://open.spotify.com/album/5NBahqPEEsIpyzWPHuzn1r) | 2:04 |
 | 54 | [Abigail](https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Abigail](https://open.spotify.com/album/20RTWWI9KZr76XpsP5mp94) | 2:46 |
 | 55 | [City Slumber](https://open.spotify.com/track/2fJpL4FueJLloOBvP0NevD) | [Mellow Melt](https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ) | [City Slumber](https://open.spotify.com/album/3LFKhcJRHralwHO3i24jeL) | 2:20 |
-| 56 | [honey sweet](https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [honey sweet](https://open.spotify.com/album/68VuJvWiekf22ADYco8THc) | 1:55 |
-| 57 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 |
+| 56 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 |
+| 57 | [honey sweet](https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [honey sweet](https://open.spotify.com/album/68VuJvWiekf22ADYco8THc) | 1:55 |
 | 58 | [Lantern](https://open.spotify.com/track/4Z8qKxreBa5yODZCOQ7sZG) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [Lantern](https://open.spotify.com/album/6j4CLaGm3ZOLWbVCH3brYk) | 2:12 |
 | 59 | [night gaze](https://open.spotify.com/track/0gTqtb5dNhqMpEuz3v2LCf) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [night gaze](https://open.spotify.com/album/4Ux0OruNOUwCWT10UMcn6a) | 2:41 |
 | 60 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 89 | [Urban Summer](https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Urban Summer](https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2) | 2:42 |
 | 90 | [Feca Dreaming](https://open.spotify.com/track/1o2uZSeGGny9JwUwC5OjNH) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Feca Dreaming](https://open.spotify.com/album/6J1P0Nr20nzQ3gc9pjpUrf) | 2:32 |
 | 91 | [Street Corner](https://open.spotify.com/track/520PlbPkPfid9BLZykHs0t) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Street Corner](https://open.spotify.com/album/57FwtUtghQ1fi0CcDm5QC7) | 2:17 |
-| 92 | [Eagle](https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Eagle](https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj) | 3:10 |
-| 93 | [Smoke Rings](https://open.spotify.com/track/2TGUpChc6sswlVPcC7NbcC) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Smoke Rings](https://open.spotify.com/album/6paaXWiU5Le9BgMrL6pUHW) | 1:36 |
+| 92 | [Smoke Rings](https://open.spotify.com/track/2TGUpChc6sswlVPcC7NbcC) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Smoke Rings](https://open.spotify.com/album/6paaXWiU5Le9BgMrL6pUHW) | 1:36 |
+| 93 | [Eagle](https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Eagle](https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj) | 3:10 |
 | 94 | [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 |
 | 95 | [Saturnal Blues](https://open.spotify.com/track/18sgLHkXTlOtE2ukdMWyRH) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Steve Nguyen](https://open.spotify.com/artist/0uWdW9U87jBwkzaz0Ts8p6) | [Space Out](https://open.spotify.com/album/5V3mW1xg5zvjVk47BzLOYN) | 2:16 |
 | 96 | [Staring Out The Window](https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Staring Out The Window](https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR) | 2:18 |

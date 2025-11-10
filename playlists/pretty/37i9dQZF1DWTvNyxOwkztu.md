@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,014,248 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,014,197 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 56 | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/track/1dpVevoWQT7syIxcWDywWm) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG), [Neyl](https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD) | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/album/19z4cBAVhTPI1TwFkDrTSU) | 2:24 |
 | 57 | [BWU](https://open.spotify.com/track/40rev08jSE8ZQfrESVu4uc) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [BWU](https://open.spotify.com/album/3DqLVnnKXLgMLkldyl5ctY) | 2:32 |
 | 58 | [Hold Me Down](https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Hold Me Down](https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94) | 2:28 |
-| 59 | [Night Drives](https://open.spotify.com/track/6QXoFb7p7ze2jmZF8BNlCT) | [HGenius](https://open.spotify.com/artist/0c0IlXec4ZRHTZsYh6qoRt) | [Night Drives](https://open.spotify.com/album/2hjmfQKBwgEs1E27b2JJOA) | 3:48 |
-| 60 | [Time to Chill](https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Time to Chill](https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko) | 5:12 |
+| 59 | [Time to Chill](https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Time to Chill](https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko) | 5:12 |
+| 60 | [Night Drives](https://open.spotify.com/track/6QXoFb7p7ze2jmZF8BNlCT) | [HGenius](https://open.spotify.com/artist/0c0IlXec4ZRHTZsYh6qoRt) | [Night Drives](https://open.spotify.com/album/2hjmfQKBwgEs1E27b2JJOA) | 3:48 |
 | 61 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 |
 | 62 | [Don't Worry](https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Don't Worry](https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL) | 3:15 |
 | 63 | [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: CERES, Vansessy
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,622 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,618 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 88 | [Khanya](https://open.spotify.com/track/7IrgLdwrCGhPpyIhFNRHYo) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [ANT Mifsud](https://open.spotify.com/artist/0tGJS1NGJcqnLi1s72nkiZ), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [Khanya](https://open.spotify.com/album/5w3PDQzGpykvVKBDDyi29j) | 3:11 |
 | 89 | [Only One](https://open.spotify.com/track/576mVXUFpVKsvySHclibLU) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Only One](https://open.spotify.com/album/1pHFCKqRj62UlUnRIWEcmD) | 2:20 |
 | 90 | [Angel in the Dark](https://open.spotify.com/track/36hcFKXWVtnyFyZvRxO9Qs) | [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22), [Koni Blank](https://open.spotify.com/artist/231JwBdGdYBzCV8Eaj9XTb), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Angel in the Dark](https://open.spotify.com/album/5OU3F3duCFVaFgffG2EuSF) | 2:21 |
-| 91 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/40bjvz9VwQKBP7t22VpoWK) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
+| 91 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/0PuNlq7O1k6LJFVpEGPM54) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
 | 92 | [PROMISES](https://open.spotify.com/track/18k6rcWacPBCuh7P6mWKT4) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [WHAT’S THE MOVE](https://open.spotify.com/album/3fHG3Q9ggZwHr46q5hZzoX) | 2:33 |
 | 93 | [Blödsinn](https://open.spotify.com/track/1I5CfY3wRscxoIwqSnbT5x) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Blödsinn](https://open.spotify.com/album/4sx7yVVezQeqjO3a4pOKFa) | 2:25 |
 | 94 | [Just dance](https://open.spotify.com/track/4gzQJJ3rjXmnL0UhO8D29D) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Just dance](https://open.spotify.com/album/06XogB5Kpx7rRWMkGUhH0z) | 2:16 |

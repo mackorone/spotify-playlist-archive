@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,192 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,196 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vibra positiva](https://open.spotify.com/track/1YibQYc4BuTR5vb6Mo8d1F) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 4:19 |
 | 2 | [Fumando vamos a casa](https://open.spotify.com/track/2GQdf0WXn1GgksCHnjW8ow) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Manuel](https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s) | [Sanazion](https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn) | 3:42 |
-| 3 | [No estés triste](https://open.spotify.com/track/3BwbC1KvbvxdvUg6mNGrkU) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En alabanza y gracia](https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5) | 3:58 |
-| 4 | [Ninguna como ella](https://open.spotify.com/track/14FyhGYntgynIT46apBQIX) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer) | 4:48 |
+| 3 | [Ninguna como ella](https://open.spotify.com/track/14FyhGYntgynIT46apBQIX) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer) | 4:48 |
+| 4 | [No estés triste](https://open.spotify.com/track/3BwbC1KvbvxdvUg6mNGrkU) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En alabanza y gracia](https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5) | 3:58 |
 | 5 | [Un nuevo día](https://open.spotify.com/track/6EQhBP91aoMn1hhAYSx1s3) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g) | 6:12 |
 | 6 | [De la tierra crece](https://open.spotify.com/track/22DFli4cbSsY1UkTLymWkK) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn) | 3:09 |
-| 7 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
-| 8 | [Estoy bien](https://open.spotify.com/track/34juvB1a9y9AB4hBPI11ZQ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer) | 5:34 |
+| 7 | [Estoy bien](https://open.spotify.com/track/34juvB1a9y9AB4hBPI11ZQ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer) | 5:34 |
+| 8 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
 | 9 | [Buscar estar](https://open.spotify.com/track/0jwbFOJUIwztn9a325Drcq) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g) | 4:11 |
 | 10 | [Y mi corazón contento](https://open.spotify.com/track/49UBjrABtwDSQ6d7qcBmcS) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn) | 3:28 |
 | 11 | [Juicio](https://open.spotify.com/track/4lYYtskPURCM27jljNKQIA) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas allá de la Zona](https://open.spotify.com/album/4IHM9TLc2zWpidWNG7zo4M) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [No existen fronteras](https://open.spotify.com/track/7joTq2CorwMDNeI0DZechn) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Malaya](https://open.spotify.com/artist/1xHPjXBPyStKOEKfTIyoxj) | [La Búsqueda](https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx) | 3:00 |
 | 50 | [Esa luz](https://open.spotify.com/track/0KGb64YLoDy5qonAqmY69r) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:03 |
 
-Snapshot ID: `aQ02gAAAAAApwxZyYVdtnzGqi+AxGIv0`
+Snapshot ID: `aQ6IAAAAAAAXizrScjzsTA2pcJeh7+bS`

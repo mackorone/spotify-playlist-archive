@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,731 likes - 195 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,428 likes - 195 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,12 +97,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 87 | [Lumen](https://open.spotify.com/track/6a6UnuMT3YJrlxztbFIikY) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Lumen](https://open.spotify.com/album/3P3CK8RLhKMxk0To92N8yb) | 2:37 |
 | 88 | [Wayanad](https://open.spotify.com/track/5KzU3RczgJSImkXul9s3hm) | [Özone One](https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26) | [Wayanad](https://open.spotify.com/album/1QeAo6C6W5TPwj7cPqFbQn) | 3:01 |
 | 89 | [Bed of Clouds \(by a Babbling Brook\)](https://open.spotify.com/track/5G9TdCSs9GPwGSrwGjfIPo) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 2:44 |
-| 90 | [Drift Into Bliss](https://open.spotify.com/track/6zmTz7l8hkKEvRbB2FOv3o) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drift Into Bliss](https://open.spotify.com/album/08Jdy5GrKftQxxM8GXSuKx) | 3:32 |
-| 91 | [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 |
-| 92 | [Equanimity](https://open.spotify.com/track/7uAsCKp5rom7rVRKKGsraG) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Equanimity](https://open.spotify.com/album/3zuWS6ZgMkJQi6cRT8tvp7) | 2:26 |
-| 93 | [Maya Koshas](https://open.spotify.com/track/5qJmKV9jhebr7cf2jyOzWr) | [Acasia Movement](https://open.spotify.com/artist/4e0cqWjAWOTv46JCMrPOkO) | [Maya Koshas](https://open.spotify.com/album/4FRpcGxqAXidbhpMyK6lTs) | 2:29 |
-| 94 | [Nature's Acceptance](https://open.spotify.com/track/7dbYIMvLQN0LjtZZaIDdkY) | [Shanglari](https://open.spotify.com/artist/1cK5ptD5pydqAD3wiayjGL) | [Nature's Acceptance](https://open.spotify.com/album/7gVeYXhfMGWCOt0U6xbsxe) | 3:33 |
-| 95 | [Forest Bathing](https://open.spotify.com/track/7BoUZW0mqbznnmdkuekAIS) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Forest Bathing](https://open.spotify.com/album/3FXUXH9AxDpvYxfqvbc67q) | 3:03 |
+| 90 | [Forest Bathing](https://open.spotify.com/track/7BoUZW0mqbznnmdkuekAIS) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Forest Bathing](https://open.spotify.com/album/3FXUXH9AxDpvYxfqvbc67q) | 3:03 |
+| 91 | [Drift Into Bliss](https://open.spotify.com/track/6zmTz7l8hkKEvRbB2FOv3o) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drift Into Bliss](https://open.spotify.com/album/08Jdy5GrKftQxxM8GXSuKx) | 3:32 |
+| 92 | [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 |
+| 93 | [Equanimity](https://open.spotify.com/track/7uAsCKp5rom7rVRKKGsraG) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Equanimity](https://open.spotify.com/album/3zuWS6ZgMkJQi6cRT8tvp7) | 2:26 |
+| 94 | [Maya Koshas](https://open.spotify.com/track/5qJmKV9jhebr7cf2jyOzWr) | [Acasia Movement](https://open.spotify.com/artist/4e0cqWjAWOTv46JCMrPOkO) | [Maya Koshas](https://open.spotify.com/album/4FRpcGxqAXidbhpMyK6lTs) | 2:29 |
+| 95 | [Nature's Acceptance](https://open.spotify.com/track/7dbYIMvLQN0LjtZZaIDdkY) | [Shanglari](https://open.spotify.com/artist/1cK5ptD5pydqAD3wiayjGL) | [Nature's Acceptance](https://open.spotify.com/album/7gVeYXhfMGWCOt0U6xbsxe) | 3:33 |
 | 96 | [Fresh Air](https://open.spotify.com/track/0MUmZdQ9bbmNERdOGWVydX) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Fresh Air](https://open.spotify.com/album/0rwJL6Y78HNXm7CfXhTkOv) | 3:15 |
 | 97 | [Draumkennd \(Sound Bath\)](https://open.spotify.com/track/5JLxt2KCICrily1GKlmqa8) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Draumkennd \(Sound Bath\)](https://open.spotify.com/album/6d4FrI1InmsQ8TpBteiPJJ) | 2:31 |
 | 98 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 |
@@ -141,9 +141,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 131 | [Botanical Creek](https://open.spotify.com/track/0yprfzL1FDEhQ2q0ez80o4) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Botanical Creek](https://open.spotify.com/album/1WVPOp90EnS4O7jVvHxatZ) | 2:54 |
 | 132 | [Forest Whispers](https://open.spotify.com/track/49NrlK8g9maZ478ZiNM7z5) | [cairn](https://open.spotify.com/artist/28ALaEjtETDJWpEggGZdOp) | [Forest Whispers](https://open.spotify.com/album/5wmWRvo8ljEfdyAEtV5ea2) | 3:21 |
 | 133 | [Deeper Calm](https://open.spotify.com/track/2BpU0v43DOa2MlVcj2OWiw) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Deeper Calm](https://open.spotify.com/album/5Vwn2s4MmjXlJBbrqXuhXJ) | 2:28 |
-| 134 | [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 |
-| 135 | [The River Song](https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [The River Song](https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q) | 2:44 |
-| 136 | [Equilibrium \(432 Hz\)](https://open.spotify.com/track/1OEENaIBAy5lcmVM5Qzrkk) | [Astral Yu](https://open.spotify.com/artist/4T5QX9jKXqbgoXxQ1IlecR) | [Equilibrium \(432 Hz\)](https://open.spotify.com/album/7foHel5iyncJ9SwoaQr2fV) | 2:39 |
+| 134 | [The River Song](https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [The River Song](https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q) | 2:44 |
+| 135 | [Equilibrium \(432 Hz\)](https://open.spotify.com/track/1OEENaIBAy5lcmVM5Qzrkk) | [Astral Yu](https://open.spotify.com/artist/4T5QX9jKXqbgoXxQ1IlecR) | [Equilibrium \(432 Hz\)](https://open.spotify.com/album/7foHel5iyncJ9SwoaQr2fV) | 2:39 |
+| 136 | [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 |
 | 137 | [Shallow Water](https://open.spotify.com/track/75tYEiKbrxBIyVo1azYqDm) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Shallow Water](https://open.spotify.com/album/4LW8rj1QIbDvp1BIzYiLNo) | 2:44 |
 | 138 | [Aere](https://open.spotify.com/track/71eaxB56hq5BteDIs7fztC) | [Allowe](https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0) | [Aere](https://open.spotify.com/album/7LtlzafUp8ro6oVduFe5gW) | 3:04 |
 | 139 | [Park Day](https://open.spotify.com/track/517hlxj1RKb407deh99OEJ) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Park Day](https://open.spotify.com/album/4hbYcDY9wMmls0YeVUhgj0) | 2:43 |

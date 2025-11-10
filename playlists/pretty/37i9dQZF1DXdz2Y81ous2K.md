@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 
 > The iconic anime composer shares his favorite tracks and musical inspirations ahead of the 2025 Anime Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,118 likes - 25 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,150 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

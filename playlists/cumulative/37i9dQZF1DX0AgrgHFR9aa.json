@@ -3363,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "La fuite en avant",
+        "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268221,
+      "name": "Le pacte",
+      "url": "https://open.spotify.com/track/5M1VROZh6YaMMwkYVujHja"
+    },
+    {
+      "album": {
         "name": "Le palace",
         "url": "https://open.spotify.com/album/3if8Nn3rDTRRpqEt4e6yyb"
       },

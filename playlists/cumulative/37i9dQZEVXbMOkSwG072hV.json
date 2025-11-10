@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Nuvem Cigana",
+        "url": "https://open.spotify.com/album/0HCjVywoAul3w4RVxYkwRZ"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230693,
+      "name": "A For\u00e7a Do Vento",
+      "url": "https://open.spotify.com/track/4hj9NAZNMur73dMhhjckRg"
+    },
+    {
+      "album": {
         "name": "Smile Now Cry Never",
         "url": "https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79"
       },
@@ -9448,7 +9466,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Bem",
       "url": "https://open.spotify.com/track/0wZZRJNv6bwSjAHVRf97ND"
@@ -9918,6 +9936,28 @@
       "duration_ms": 223488,
       "name": "Bilhete 2.0",
       "url": "https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev"
+    },
+    {
+      "album": {
+        "name": "Luccas Carlos (Ao Vivo no REP Festival)",
+        "url": "https://open.spotify.com/album/1E8NQUvFuQSAauovX5Q2UY"
+      },
+      "artists": [
+        {
+          "name": "REP Festival",
+          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189863,
+      "name": "Bilhete 2.0 - Ao Vivo no REP Festival",
+      "url": "https://open.spotify.com/track/5MQkpsjwnMJ62TXcnm3mHY"
     },
     {
       "album": {
@@ -18346,7 +18386,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 104307,
       "name": "DE 4TR\u00c3O",
       "url": "https://open.spotify.com/track/52qdxYtJE4LRrHlOffXs8G"
@@ -40926,7 +40966,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 156922,
       "name": "Makita",
       "url": "https://open.spotify.com/track/5wqxoLPhZLCKT0CUCYh8T5"
@@ -51952,7 +51992,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
@@ -54164,7 +54204,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 241640,
       "name": "O Trem Azul",
       "url": "https://open.spotify.com/track/6iRIQiJsyahTkYSbwsmRGJ"
@@ -54182,7 +54222,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 243600,
       "name": "O Trem Azul",
       "url": "https://open.spotify.com/track/7Fd9g5y4q8ApG79VQeLfop"
@@ -56604,7 +56644,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 174666,
       "name": "Paisagem Da Janela",
       "url": "https://open.spotify.com/track/6QPeVUGq09E8cEqqs2InP5"
@@ -56622,7 +56662,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 176626,
       "name": "Paisagem Da Janela - Ao Vivo",
       "url": "https://open.spotify.com/track/0XyYJa97zwWO6Kuk86xdlz"
@@ -76954,7 +76994,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 238400,
       "name": "Trem De Doido",
       "url": "https://open.spotify.com/track/7hfIiNdcy5c0MWxnoMvCYN"
@@ -76972,7 +77012,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 238760,
       "name": "Trem De Doido",
       "url": "https://open.spotify.com/track/042tL7eDws7d1NlbYeoquF"
@@ -78612,7 +78652,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 250333,
       "name": "Um Girassol Da Cor Do Seu Cabelo",
       "url": "https://open.spotify.com/track/1P5LNF98A4MgUvqTEXemEu"
@@ -78630,7 +78670,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 252826,
       "name": "Um Girassol Da Cor Do Seu Cabelo",
       "url": "https://open.spotify.com/track/2eDUcjS6SSDJd6Rcx4TFkd"

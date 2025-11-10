@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with over 1 billion streams on Spotify\. Cover: Central Cee & Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,965 likes - 1,076 songs - 2 day 17 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,360 likes - 1,076 songs - 2 day 17 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

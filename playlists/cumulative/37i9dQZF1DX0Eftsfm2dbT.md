@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Charlu
 
-2,038 songs - 4 day 7 hr 8 min
+2,039 songs - 4 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1166,6 +1166,7 @@
 | [No.5 \- Remix \-feat\. Vingo](https://open.spotify.com/track/120f9PsOUuI1yDNhC60JCe) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [20 +](https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5) | 3:05 | 2025-04-01 | 2025-06-14 |
 | [NONE](https://open.spotify.com/track/033XLUF0JKchTq8esT2clY) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [NONE](https://open.spotify.com/album/7t7jVf67S6dFMvqPBpc9kX) | 3:36 | 2025-06-03 | 2025-07-09 |
 | [nonfiction](https://open.spotify.com/track/5yr4AGgoQCpuJggiZ5vllq) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Yvng xan](https://open.spotify.com/artist/3OzE7ohZzlPOmVuvC4ZPX0) | [about me](https://open.spotify.com/album/5AFqjtAnnkW0yAjMvg7hW2) | 2:37 | 2024-05-28 | 2024-08-28 |
+| [NOOFFSEASON \(feat\. Watson, MIKADO & ¥ellow Bucks\)](https://open.spotify.com/track/3vNdfXNHe81OR9hbhLuvFs) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOOFFSEASON \(feat\. Watson, MIKADO & ¥ellow Bucks\)](https://open.spotify.com/album/19JgisVEhmMMIcbBMRSNF6) | 5:14 | 2025-11-09 |  |
 | [Noraneko](https://open.spotify.com/track/6TZpDKmOUd4qyKnd6qmw4i) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/3iAhfsGy6MoXFv5fQqQ6f7) | 4:01 | 2025-03-25 | 2025-06-11 |
 | [NOROSHI](https://open.spotify.com/track/4VWZnh8PCzPPaAK64I6ygG) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/5J8YRNZtbS0rwbgDPQDisb) | 3:32 | 2024-01-12 | 2024-05-15 |
 | [NOROSHI](https://open.spotify.com/track/53DggQCoS5Xz3NAKHPFUrP) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [NOROSHI](https://open.spotify.com/album/7yF0rRaa3R1001cBP9Bm6K) | 3:32 | 2024-01-12 | 2024-02-13 |

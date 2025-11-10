@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Titi DJ, Thomas Djorghi
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,220 likes - 96 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,237 likes - 96 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

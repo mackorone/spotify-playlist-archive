@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/64UxLey0FHAua3Y5XEHUBy.md) - [plain]
 
 > Chilled songs to keep the mood nice and relaxed.
 
-[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 38,153 likes - 106 songs - 6 hr 15 min
+[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 38,152 likes - 106 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/64UxLey0FHAua3Y5XEHUBy.md) - [plain]
 | 105 | [Harmony Hall](https://open.spotify.com/track/5kXDF4OmM5COyeo6z97nEk) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Harmony Hall / 2021](https://open.spotify.com/album/6CmSHV5rTZRBjXMVbaeE1h) | 5:08 |
 | 106 | [Collar of Fur](https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cala](https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW) | 2:28 |
 
-Snapshot ID: `AAAMoSfs1JO01WDmyQVcdwV/HO9HSUnh`
+Snapshot ID: `AAAMoxeCxr6LCbCrL7r40nynn9SOlCQE`

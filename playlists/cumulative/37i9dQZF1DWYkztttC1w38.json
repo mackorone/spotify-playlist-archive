@@ -191,24 +191,6 @@
     },
     {
       "album": {
-        "name": "Anima I",
-        "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "date_added": "2023-06-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181802,
-      "name": "Anima I",
-      "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
-    },
-    {
-      "album": {
         "name": "Respighi: Antiche danze ed arie per liuto, Suite No. 3, P. 172: I. Italiana. Andantino",
         "url": "https://open.spotify.com/album/2nC71ZQwT1MZx3lNNy4UPq"
       },
@@ -230,8 +212,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194160,
-      "name": "Antiche danze ed arie per liuto, Suite No. 3, P. 172: I. Italiana. Andantino",
+      "name": "Ancient Airs & Dances, Suite III, P. 172: I. Italiana (Anonymous)",
       "url": "https://open.spotify.com/track/3pQCRKRbApGrjEpj1r4BKA"
+    },
+    {
+      "album": {
+        "name": "Anima I",
+        "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181802,
+      "name": "Anima I",
+      "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
     },
     {
       "album": {
@@ -1730,7 +1730,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241986,
-      "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+      "name": "Nocturne No. 19 in E Minor, Op. 72 No. 1",
       "url": "https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w"
     },
     {

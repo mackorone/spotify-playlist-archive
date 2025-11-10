@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest classical music of 2025🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,999 likes - 176 songs - 12 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,137 likes - 176 songs - 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

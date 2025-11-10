@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Grizzly) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc790\uc6b0\ub9bc (JAURIM) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2376,13 +2376,13 @@
           "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "Lee Mujin",
+          "name": "LEE MU JIN",
           "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
         }
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "Bye Bye (Feat. LEE MU JIN)",
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
@@ -5949,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "Typhoon Family, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4V7r3RQfawIPCYjBbd1b6R"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "GOD BLESS",
+      "url": "https://open.spotify.com/track/1msOivcqpKi9JmmE4cYUIr"
+    },
+    {
+      "album": {
         "name": "Goddess of Despair",
         "url": "https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv"
       },
@@ -7614,7 +7632,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 234534,
       "name": "I Loved You",
       "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
@@ -8694,7 +8712,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 246000,
       "name": "Just Kids",
       "url": "https://open.spotify.com/track/5GgmhSjpJ8a6g2qhoz8CmL"
@@ -9438,6 +9456,24 @@
       "duration_ms": 195461,
       "name": "Life Dancing",
       "url": "https://open.spotify.com/track/1Na51A7s9Fm1ullr4aVG5l"
+    },
+    {
+      "album": {
+        "name": "LIFE!",
+        "url": "https://open.spotify.com/album/3zWbSsJGEKpopxdKjQphiC"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227920,
+      "name": "LIFE!",
+      "url": "https://open.spotify.com/track/0vULVUFjBtlXo0lt6wrS8Q"
     },
     {
       "album": {
@@ -16938,7 +16974,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 180609,
       "name": "TIME OF IT ALL",
       "url": "https://open.spotify.com/track/534SxSJHKPEUzoQZHSxFOQ"
@@ -18218,7 +18254,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 194000,
       "name": "Where's Your Love",
       "url": "https://open.spotify.com/track/1xyniN2EfQDYVTVnts12mG"
@@ -19374,7 +19410,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"

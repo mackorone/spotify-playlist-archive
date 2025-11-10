@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-153 songs - 8 hr 43 min
+154 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [99 Degrees](https://open.spotify.com/track/7EafWuZIL2L0TWAUueBZSd) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [99 Degrees](https://open.spotify.com/album/2cmGrBYepfMbcHvMp93c3K) | 2:35 | 2024-06-13 |  |
 | [Air I Breathe \- Sub Focus & Wilkinson](https://open.spotify.com/track/0B6pOWMK4fV4YYtbe7cpHg) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Portals](https://open.spotify.com/album/6SC0Omssa5QQtX22zlZGEG) | 4:10 | 2024-06-13 |  |
 | [All I Need](https://open.spotify.com/track/4JNfSaTt2RgXddGPjLvS87) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [All I Need](https://open.spotify.com/album/5ayP5H34Jl6fvr1kIUqLl2) | 3:34 | 2024-06-13 |  |
-| [Alone With You](https://open.spotify.com/track/6dy7jbH9rsUT3pZ68BBAsp) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/4RW0gk4pBLqsgmJ97vCsS8) | 4:36 | 2024-06-13 |  |
+| [Alone with You](https://open.spotify.com/track/5bS7Ze1YhVpr8J4QWgQ6Yj) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/6wtC3RLKttp5uNgIru4e9m) | 4:36 | 2025-11-09 |  |
+| [Alone With You](https://open.spotify.com/track/6dy7jbH9rsUT3pZ68BBAsp) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/4RW0gk4pBLqsgmJ97vCsS8) | 4:36 | 2024-06-13 | 2025-11-10 |
 | [Angel \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7lO4AytU02GtoKMFWeMvyR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Wide Awake](https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY) | 3:09 | 2024-06-13 |  |
 | [Another Chance](https://open.spotify.com/track/4kNPMxRexEZSrsXfz628D3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Another Chance](https://open.spotify.com/album/41R3SckRg74bzO6lmitqkX) | 2:46 | 2024-06-13 |  |
 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 | 2024-06-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 33763,
+  "num_followers": 33774,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ02gAAAAACLBbzuCrgoFJGSMGXvUTzJ",
+  "snapshot_id": "aQ6IAAAAAADCCAj4a3rGxQbnqD5c2XDC",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fade Your Heart",
-        "url": "https://open.spotify.com/album/4bn5znqqxxF8NQwaoef4gY"
+        "name": "Influence EP",
+        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 214193,
-      "name": "Fade Your Heart",
-      "url": "https://open.spotify.com/track/6HQcCZwTjqVeFsDha9U6YN"
+      "duration_ms": 207706,
+      "name": "Mother May I Sleep With Danger?",
+      "url": "https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Influence EP",
-        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
+        "name": "Fade Your Heart",
+        "url": "https://open.spotify.com/album/4bn5znqqxxF8NQwaoef4gY"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 207706,
-      "name": "Mother May I Sleep With Danger?",
-      "url": "https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7"
+      "duration_ms": 214193,
+      "name": "Fade Your Heart",
+      "url": "https://open.spotify.com/track/6HQcCZwTjqVeFsDha9U6YN"
     },
     {
       "added_at": null,
@@ -486,15 +486,11 @@
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        },
-        {
-          "name": "KarimThaPeasant",
-          "url": "https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F"
         }
       ],
-      "duration_ms": 192857,
-      "name": "For a Minute (feat. KarimThaPeasant)",
-      "url": "https://open.spotify.com/track/4JSlPG9DkRuhyXNdLxhI5a"
+      "duration_ms": 217777,
+      "name": "Lover Don't",
+      "url": "https://open.spotify.com/track/4cbumWU9TeBFWkeqK7i8hy"
     },
     {
       "added_at": null,
@@ -574,11 +570,15 @@
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "KarimThaPeasant",
+          "url": "https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F"
         }
       ],
-      "duration_ms": 217777,
-      "name": "Lover Don't",
-      "url": "https://open.spotify.com/track/4cbumWU9TeBFWkeqK7i8hy"
+      "duration_ms": 192857,
+      "name": "For a Minute (feat. KarimThaPeasant)",
+      "url": "https://open.spotify.com/track/4JSlPG9DkRuhyXNdLxhI5a"
     },
     {
       "added_at": null,

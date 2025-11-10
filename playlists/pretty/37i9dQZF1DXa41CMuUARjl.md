@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Jamback, Charlotte de Witte,  DJ Snake, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,968 likes - 130 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,031 likes - 130 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,6 +137,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 127 | [una signal \(feat\. Myke Tyler\)](https://open.spotify.com/track/1ar3G1loQRtDN4BH1HqMjM) | [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY), [Myke Tyler](https://open.spotify.com/artist/0MWuXVxSPF6BeafaTdXxXl) | [una signal \(feat\. Myke Tyler\)](https://open.spotify.com/album/4g5fetVeeouA9bCtzJ2YVJ) | 3:26 |
 | 128 | [Wonderful Life](https://open.spotify.com/track/2oHPvgdIg69Ldn8Jhf6sYG) | [Nico Bernardini](https://open.spotify.com/artist/0hgimGNHGb5BG8nwb9qwbu), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Wonderful Life](https://open.spotify.com/album/1Hb2NWF761YB5uqzpFtg8N) | 3:31 |
 | 129 | [I'm Gonna Get You](https://open.spotify.com/track/0dW2IvtzKMIU4PQS3krLrb) | [Angie Brown](https://open.spotify.com/artist/1T94SgNcfrWDaZMOqlgP8F), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [I'm Gonna Get You](https://open.spotify.com/album/39f7olm8SRMdvQfzAPKk83) | 2:24 |
-| 130 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/40bjvz9VwQKBP7t22VpoWK) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
+| 130 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/0PuNlq7O1k6LJFVpEGPM54) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
 
 Snapshot ID: `AAAAAIq3ZlB+FyWjlhKS/ih6YpPGnYEq`

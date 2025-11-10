@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Rangel Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,258 likes - 249 songs - 13 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,273 likes - 249 songs - 13 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

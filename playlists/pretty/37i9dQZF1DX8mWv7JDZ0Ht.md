@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Amanda Coronha
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,804 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,783 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [Coisa de Alma](https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1) | [EDDU](https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5), [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Coisa de Alma](https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD) | 2:29 |
 | 80 | [Bem Bem](https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Bem Bem](https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l) | 2:16 |
 
-Snapshot ID: `AAAAAAv1EQNKHPSqCMWJDuJePrBMhSRD`
+Snapshot ID: `AAAAAIXac253jb9tYjo/3+0NEf16Ojec`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,570 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,612 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Perdição \(feat\. L7NNON\) \- Remix](https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Perdição \(feat\. L7NNON\) \[Remix\]](https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ) | 3:39 |
 | 70 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 
-Snapshot ID: `AAAAADtjSm0Qd1PvAnaJWzU2dTz0CnbU`
+Snapshot ID: `AAAAANNDAl0KshdlEji7R0nUDaCYvuAg`

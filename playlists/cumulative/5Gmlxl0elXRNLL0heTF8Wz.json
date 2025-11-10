@@ -747,29 +747,33 @@
     },
     {
       "album": {
-        "name": "Baroque Journey",
-        "url": "https://open.spotify.com/album/0AW4fpLsKfXrFtfi8yXRYG"
+        "name": "Voice Of Hope",
+        "url": "https://open.spotify.com/album/5LUv6oBlEG9UB7bxPS9HuE"
       },
       "artists": [
         {
-          "name": "Marin Marais",
-          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
         },
         {
-          "name": "Lucie Horsch",
-          "url": "https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn"
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
         },
         {
-          "name": "Thomas Dunford",
-          "url": "https://open.spotify.com/artist/7ICHkzLMTkSFuLwyzXI5i1"
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Mathieu Herzog",
+          "url": "https://open.spotify.com/artist/3KWR1j2ruhV2I6uJQGDuJC"
         }
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 323040,
-      "name": "Couplets de folies (Arr. Horsch for Recorder & Lute)",
-      "url": "https://open.spotify.com/track/5iBsXe6qqKp30ySXTK0Epe"
+      "duration_ms": 228181,
+      "name": "Dido and Aeneas, Z. 626 / Act III: \"When I Am Laid in Earth\" Dido's Lamento (Arr. by Mathieu Herzog for Cello and Strings)",
+      "url": "https://open.spotify.com/track/06O078Zw6xX8iMh4lpWn01"
     },
     {
       "album": {
@@ -798,38 +802,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209506,
-      "name": "Dido and Aeneas, Z. 626 / Act 3: \"When I am laid in earth\" (Dido's Lament) (Performed on Recorder)",
+      "name": "Dido and Aeneas, Z. 626, Act III: When I Am Laid in Earth \"Dido's Lament\"",
       "url": "https://open.spotify.com/track/4N65P9AMLTFJdAHdl0CA8e"
-    },
-    {
-      "album": {
-        "name": "Voice Of Hope",
-        "url": "https://open.spotify.com/album/5LUv6oBlEG9UB7bxPS9HuE"
-      },
-      "artists": [
-        {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "Camille Thomas",
-          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
-        },
-        {
-          "name": "Brussels Philharmonic",
-          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
-        },
-        {
-          "name": "Mathieu Herzog",
-          "url": "https://open.spotify.com/artist/3KWR1j2ruhV2I6uJQGDuJC"
-        }
-      ],
-      "date_added": "2025-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228181,
-      "name": "Dido and Aeneas, Z. 626 / Act III: \"When I Am Laid in Earth\" Dido's Lamento (Arr. by Mathieu Herzog for Cello and Strings)",
-      "url": "https://open.spotify.com/track/06O078Zw6xX8iMh4lpWn01"
     },
     {
       "album": {
@@ -1187,6 +1161,32 @@
     },
     {
       "album": {
+        "name": "Baroque Journey",
+        "url": "https://open.spotify.com/album/0AW4fpLsKfXrFtfi8yXRYG"
+      },
+      "artists": [
+        {
+          "name": "Marin Marais",
+          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
+        },
+        {
+          "name": "Lucie Horsch",
+          "url": "https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn"
+        },
+        {
+          "name": "Thomas Dunford",
+          "url": "https://open.spotify.com/artist/7ICHkzLMTkSFuLwyzXI5i1"
+        }
+      ],
+      "date_added": "2025-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323040,
+      "name": "Les folies d'Espagne \"Couplets de folies\" (Transcr. Horsch for Recorder & Lute)",
+      "url": "https://open.spotify.com/track/5iBsXe6qqKp30ySXTK0Epe"
+    },
+    {
+      "album": {
         "name": "Couperin, F.: Les Go\u00fbts-R\u00e9\u00fcnis",
         "url": "https://open.spotify.com/album/0GIReVm4dv3wTLtwcNmo1x"
       },
@@ -1510,7 +1510,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 89920,
-      "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: 7. Badinerie (Performed on Recorder)",
+      "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie (Transp. in A Minor for Recorder)",
       "url": "https://open.spotify.com/track/4bSLJ0wSQOQszVI9CEIpBw"
     },
     {
@@ -1874,7 +1874,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 282360,
-      "name": "Recorder Concerto in F Major: 2. Siciliano",
+      "name": "Recorder Concerto in F Major: II. Siciliano",
       "url": "https://open.spotify.com/track/3aEt0dmrdd0zDd8sWklgR1"
     },
     {
@@ -1952,7 +1952,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 279840,
-      "name": "Savior of the Nations, Come, BWV 659 (Arr. for 4 Cellos)",
+      "name": "Savior of the Nations, Come, BWV 659 (Arr. Kanneh-Mason for 4 Cellos)",
       "url": "https://open.spotify.com/track/7Il5v7dknoshlFkQRpIqxm"
     },
     {

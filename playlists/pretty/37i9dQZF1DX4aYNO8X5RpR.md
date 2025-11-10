@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 
 > Hours of comforting sounds of thunder and rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,582 likes - 250 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,666 likes - 250 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 | 57 | [The Sky's Awake](https://open.spotify.com/track/0GGHxdy1mw6OcS2dVAH0es) | [Drivotra](https://open.spotify.com/artist/11662aaOqDYv2EBHSxJPJV) | [Thunder Nights](https://open.spotify.com/album/1Sp4OvpqqGqGsJbiFj3ICO) | 3:28 |
 | 58 | [Sky Is Rumbling](https://open.spotify.com/track/3rxnLHNAstvd01Yw7rTdkX) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Sky Is Rumbling](https://open.spotify.com/album/5FEIvtKpEOGZIFFbfbiitA) | 3:36 |
 | 59 | [Light Outdoors Rain With Thunder](https://open.spotify.com/track/2UV2qxZcBoinEC0Ko6C93X) | [Nature Calm](https://open.spotify.com/artist/7q3i8BbWfYPSZmTMJtge2P) | [Sleepy Rainfall](https://open.spotify.com/album/7upDl7fnelbLcGBLr3BV6d) | 3:02 |
-| 60 | [Storm Through The Night](https://open.spotify.com/track/1OMb4pb98GL1SJBJqM3Mq3) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 |
-| 61 | [Thunderclaps](https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [A Storm Is Brewing](https://open.spotify.com/album/6fPAUNMUttiZ8pcEm2PdVy) | 2:33 |
-| 62 | [Ice of Rain](https://open.spotify.com/track/5BAUdZVp4CLDp7BRE6W5Mr) | [Polar Night](https://open.spotify.com/artist/58Xze2XUNJqUmL3oCmLPcR) | [Storm over Grumant](https://open.spotify.com/album/32iAopq6xhzyLngSxcSG7a) | 3:28 |
+| 60 | [Ice of Rain](https://open.spotify.com/track/5BAUdZVp4CLDp7BRE6W5Mr) | [Polar Night](https://open.spotify.com/artist/58Xze2XUNJqUmL3oCmLPcR) | [Storm over Grumant](https://open.spotify.com/album/32iAopq6xhzyLngSxcSG7a) | 3:28 |
+| 61 | [Storm Through The Night](https://open.spotify.com/track/1OMb4pb98GL1SJBJqM3Mq3) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 |
+| 62 | [Thunderclaps](https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [A Storm Is Brewing](https://open.spotify.com/album/6fPAUNMUttiZ8pcEm2PdVy) | 2:33 |
 | 63 | [Piogga](https://open.spotify.com/track/0ZRTBESw4BjX22iOcU3kRx) | [L'acqua Cade](https://open.spotify.com/artist/6LvjboIMlXnreAptglx2SP) | [Gocce](https://open.spotify.com/album/7Meq6WVLcmNcK9r4Sn3WvQ) | 2:39 |
 | 64 | [Light Rain and Thunder](https://open.spotify.com/track/3rsXIGQjD96knIRVdayTBe) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Resting \(Rain and Rivers\)](https://open.spotify.com/album/0cFuXOpJc5jFYnKJVIHfbW) | 3:08 |
 | 65 | [Storm Dreaming](https://open.spotify.com/track/5jD3UfznmqTdBvWOkKKPKa) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Black Storm](https://open.spotify.com/album/1F9tRpXv45NOVwyvgSFF9R) | 2:04 |
@@ -253,8 +253,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 | 243 | [Das Unwetter](https://open.spotify.com/track/7D9DQF0eBc7E3OLBNXaKIu) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen und Donner](https://open.spotify.com/album/094KCo8MLAqrfNjBkDkI46) | 3:12 |
 | 244 | [Hard Nature Rain With Thunder](https://open.spotify.com/track/0j8BAcT3HQ8DfrTXqEIlZV) | [We Stay Inside](https://open.spotify.com/artist/5tNyiiNJv5zJndFwXcCo5O) | [Thunderproof](https://open.spotify.com/album/5n0u3iGGXVg300k3WJnztS) | 2:30 |
 | 245 | [Intense Rain & Thunder](https://open.spotify.com/track/5JShRNmoqXwGynwBDpvMP3) | [Meteorologist](https://open.spotify.com/artist/7syFj0lLEE6rl1UI9IKK70) | [Meteorologist](https://open.spotify.com/album/1cdzMNsEEWmGFSBJAv7nhe) | 2:25 |
-| 246 | [Thunder & Pouring Rain](https://open.spotify.com/track/4X5XEleEIET9w0rqmdhMoK) | [ABC Tonnerre](https://open.spotify.com/artist/135yPL4ruE1nq7mYgnhV48) | [ABC Tonnerre](https://open.spotify.com/album/3UAAsU1IrpqA6rt6PsfS0e) | 2:10 |
-| 247 | [Thunderstorm in Turku](https://open.spotify.com/track/3BWAf0FIy6sEQlJY9GEUTV) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Thunderstorm in Turku](https://open.spotify.com/album/53dX4BfKGG0fpbacPiG77v) | 2:46 |
+| 246 | [Thunderstorm in Turku](https://open.spotify.com/track/3BWAf0FIy6sEQlJY9GEUTV) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Thunderstorm in Turku](https://open.spotify.com/album/53dX4BfKGG0fpbacPiG77v) | 2:46 |
+| 247 | [Thunder & Pouring Rain](https://open.spotify.com/track/4X5XEleEIET9w0rqmdhMoK) | [ABC Tonnerre](https://open.spotify.com/artist/135yPL4ruE1nq7mYgnhV48) | [ABC Tonnerre](https://open.spotify.com/album/3UAAsU1IrpqA6rt6PsfS0e) | 2:10 |
 | 248 | [Earthly Thunder](https://open.spotify.com/track/3WalMxwN7DJg5bKwk7DMxN) | [Earthly Delights](https://open.spotify.com/artist/3AhSKCMBK1DWhRGvem6prn) | [Earthly Thunder](https://open.spotify.com/album/0w30DDf2yjB88GxOzCCDZX) | 2:36 |
 | 249 | [Åska](https://open.spotify.com/track/3ant2EoVsF6aBczcOBw1D9) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Åska](https://open.spotify.com/album/3n66vdqIgvH6iNHe8ahQ0g) | 2:23 |
 | 250 | [Drops & Thunders](https://open.spotify.com/track/1pZy1JDOfBmIsbGlThu20Y) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Calm Station](https://open.spotify.com/album/6zJjrBEhrmf1YNeYF9UNQg) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 Little Boogie
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,374 likes - 35 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,373 likes - 35 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

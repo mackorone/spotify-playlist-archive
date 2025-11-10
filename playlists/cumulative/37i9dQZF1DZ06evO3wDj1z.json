@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Una P\u00e1gina M\u00e1s",
+        "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
+      },
+      "artists": [
+        {
+          "name": "Chuy Vega",
+          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
+        },
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127496,
+      "name": "Estrella Ca\u00edda",
+      "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
+    },
+    {
+      "album": {
         "name": "30 Anos",
         "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
       },
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 143229,
       "name": "Un Mar De Penas",
       "url": "https://open.spotify.com/track/6k4dy9siLo45PEbLHvOAVN"

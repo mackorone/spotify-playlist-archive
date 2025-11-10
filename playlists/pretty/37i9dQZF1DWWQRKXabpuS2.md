@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,042 likes - 33 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,059 likes - 33 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ما طرا لك](https://open.spotify.com/track/7mCgHEktGmzif4F4gZbhM4) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [ما طرا لك](https://open.spotify.com/album/0y6IIvasAsbnqt84FzEDzX) | 3:53 |
-| 2 | [صباح الخير](https://open.spotify.com/track/0hbXM5XVlf3WDMPALubBvz) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [صباح الخير](https://open.spotify.com/album/7aereiI6s6wKGHdMW6sQnn) | 3:40 |
-| 3 | [حبيبي رح](https://open.spotify.com/track/28r9fcUufc6M5oBX3i0oFP) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [حبيبي رح](https://open.spotify.com/album/70sfDimDV0fesYA0CUiORg) | 4:20 |
-| 4 | [Modalali](https://open.spotify.com/track/2TzwSS261mOvEOBORrmjed) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Modalali](https://open.spotify.com/album/2mBvlgySmYubAVGWv0UcAx) | 3:16 |
+| 1 | [صباح الخير](https://open.spotify.com/track/0hbXM5XVlf3WDMPALubBvz) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [صباح الخير](https://open.spotify.com/album/7aereiI6s6wKGHdMW6sQnn) | 3:40 |
+| 2 | [ما طرا لك](https://open.spotify.com/track/7mCgHEktGmzif4F4gZbhM4) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [ما طرا لك](https://open.spotify.com/album/0y6IIvasAsbnqt84FzEDzX) | 3:53 |
+| 3 | [Modalali](https://open.spotify.com/track/2TzwSS261mOvEOBORrmjed) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Modalali](https://open.spotify.com/album/2mBvlgySmYubAVGWv0UcAx) | 3:16 |
+| 4 | [حبيبي رح](https://open.spotify.com/track/28r9fcUufc6M5oBX3i0oFP) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [حبيبي رح](https://open.spotify.com/album/70sfDimDV0fesYA0CUiORg) | 4:20 |
 | 5 | [كل ما حاولت](https://open.spotify.com/track/5VvGnhgCaBzRcZDGRRdQSB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما حاولت](https://open.spotify.com/album/0v25kgJ3D5upB1ryeET1VT) | 3:36 |
 | 6 | [Ahla Sodfa](https://open.spotify.com/track/44A75paDvIWjO0vu2IlukE) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ahla Sodfa](https://open.spotify.com/album/5Whxsm6Gg1VMp0pJxmmbwQ) | 3:38 |
 | 7 | [Jabal Chamekh](https://open.spotify.com/track/699UW50gxSh976xtnckNmg) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Jabal Chamekh](https://open.spotify.com/album/2tV4KxbwXFXBjkyTjqzApR) | 3:45 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 32 | [ألمح لك](https://open.spotify.com/track/3NKkS7QOGTOSLD6B5aMi9r) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [ألمح لك](https://open.spotify.com/album/0QQUrE9rkF9TWSsK4zapDZ) | 2:52 |
 | 33 | [أول حب](https://open.spotify.com/track/534RVKGLxnWrjIYSKZKtOA) | [Bashar AlShatti](https://open.spotify.com/artist/6fqcvzx5yorkIOK2HwL9hU) | [بشار الشطي ٢٠٢٥](https://open.spotify.com/album/2r0N6tR20cIbndXE6TjTxo) | 3:45 |
 
-Snapshot ID: `AAAAAPZREIX8Kkl331GyQLWt8oPVsJ1C`
+Snapshot ID: `AAAAAMlPX0Yr0Dz5L0jA3mF7Np0g/tMG`

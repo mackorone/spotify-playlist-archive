@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-189 songs - 9 hr 51 min
+190 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [La Guinee Guine](https://open.spotify.com/track/0ZNcAfVpZ3HtUz7oHWilAV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 3:09 | 2022-02-10 | 2022-10-13 |
 | [Laku Tshuni 'Langa](https://open.spotify.com/track/1w4TssBr1KnQ8FV7tmmdLq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:47 | 2023-07-17 | 2023-08-02 |
 | [Lakutshn, Ilanga](https://open.spotify.com/track/6PgfxxNpfHgk6xDs3uPBQN) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 2:08 | 2023-03-25 | 2024-03-23 |
+| [Lakutshn, Ilanga](https://open.spotify.com/track/3ZFhiJKFLVsk7YoHWsbyRH) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/3ucbYXxxA6Pxfqp7aT0olO) | 2:09 | 2025-11-10 |  |
 | [Lakutshon' Ilanga \- Remastered 2024](https://open.spotify.com/track/0gP6OkZYP82j24kNcyir3d) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 2:09 | 2024-07-14 | 2024-07-15 |
 | [Langa More](https://open.spotify.com/track/7kqcGHUoF1qabQ8BCdDZhK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Best Of](https://open.spotify.com/album/2uswx6G0mHAATyEB2Lkd98) | 2:19 | 2022-01-08 | 2022-06-06 |
 | [Little Boy \- Remastered 2024](https://open.spotify.com/track/23osEEhGcMX2Mp3ZoKMS8N) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 3:23 | 2024-07-21 | 2024-07-22 |
@@ -162,7 +163,7 @@
 | [Thank You Mama](https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Leleti Khumalo](https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT) | [Sarafina! The Sound Of Freedom](https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp) | 4:24 | 2022-06-21 |  |
 | [The Click Song](https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 2:33 | 2021-12-30 |  |
 | [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/1MC8rGCbqEIeeCRSwjz3Gj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/5HPe4HG9qPl6ldZo8eEyoy) | 4:54 | 2021-12-28 | 2022-10-09 |
-| [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 4:54 | 2022-10-09 |  |
+| [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 4:54 | 2022-10-09 | 2025-11-10 |
 | [The Lion Cries \- Mbube](https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:00 | 2022-01-25 |  |
 | [The Lion Sleeps Tonight \(Mbube\)](https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:33 | 2023-03-12 |  |
 | [The Naughty Little Flea](https://open.spotify.com/track/2tpTYvXlFQsGGgU3Ka1Jhb) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 3:46 | 2022-03-20 | 2024-03-21 |

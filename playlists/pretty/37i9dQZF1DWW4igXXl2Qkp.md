@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:2U3bFzN7xGOhqdATusepqC">diamond\*</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,740 likes - 105 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,771 likes - 105 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

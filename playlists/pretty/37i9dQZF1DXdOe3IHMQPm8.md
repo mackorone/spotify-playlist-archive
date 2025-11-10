@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOe3IHMQPm8.md) - [plain]
 
 > ¡Pa perrear y carretear non stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,971 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,974 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Natasha Humera Ejaz, Ansar, Sarmad Ghafoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,174 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,183 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Future Zindagi](https://open.spotify.com/track/3ASTZlwaXJGQhAzbTGJCI4) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Ansar.](https://open.spotify.com/artist/4PBJ9JbSHMMA78dtwhXtLa), [Sarmad Ghafoor](https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl) | [Future Zindagi](https://open.spotify.com/album/2iEbZ6bklsu0RKM702hyY5) | 2:37 |
-| 2 | [Pyaar Kyun Banaya](https://open.spotify.com/track/7EpVfR8TL9o3k4wIo4oqw1) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re), [Haider Ali](https://open.spotify.com/artist/4Xj1ezGpJONFWH2Wq9otaV) | [Pyaar Kyun Banaya](https://open.spotify.com/album/4BPhVjOqAdV5bFxDglYZ4f) | 3:28 |
+| 2 | [Pyaar Kyun Banaya](https://open.spotify.com/track/7EpVfR8TL9o3k4wIo4oqw1) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Pyaar Kyun Banaya](https://open.spotify.com/album/4BPhVjOqAdV5bFxDglYZ4f) | 3:28 |
 | 3 | [Janay Jaa](https://open.spotify.com/track/1PVbwQTuR2CNXuR1oDMVP6) | [Maanii](https://open.spotify.com/artist/7gBoVbA8sEWClG4vmmSVnH), [Soid](https://open.spotify.com/artist/6qKtwpLo4XWAaygLhCypm3) | [Janay Jaa](https://open.spotify.com/album/4tELAsDsIqAKGkekddIKKE) | 2:48 |
 | 4 | [Khoya](https://open.spotify.com/track/0rFvqsz0TII4elXOlyweNe) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Khoya](https://open.spotify.com/album/1GHCk7MgEtpsw9m7zpdMd3) | 2:46 |
 | 5 | [wafa](https://open.spotify.com/track/6e67YKatjuUkPlpey45vVU) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [thikaana](https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe) | 2:55 |

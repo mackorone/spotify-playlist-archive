@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Nov 04:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Nov 19:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWAbA65lTEHGBTuN7XrtGzYhB67sCd",
+  "snapshot_id": "AAAWBQtofoY5fKjBzqM2TDvVaB8GYiwW",
   "tracks": [
+    {
+      "added_at": "2025-11-09 19:04:11",
+      "album": {
+        "name": "LOIS",
+        "url": "https://open.spotify.com/album/1Pw2Erao8Bv8JrTVjbYGiq"
+      },
+      "artists": [
+        {
+          "name": "Glorb",
+          "url": "https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "LOIS",
+      "url": "https://open.spotify.com/track/5TxiUQ1EsBXnVDdMeMYA6b"
+    },
     {
       "added_at": "2025-11-07 04:04:02",
       "album": {
@@ -55,6 +71,22 @@
       "duration_ms": 81841,
       "name": "Half Off",
       "url": "https://open.spotify.com/track/6Mzlr1eNYvP2kBWuKE9dQa"
+    },
+    {
+      "added_at": "2025-11-09 14:04:28",
+      "album": {
+        "name": "For No Reason",
+        "url": "https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 159568,
+      "name": "For No Reason",
+      "url": "https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww"
     },
     {
       "added_at": "2025-11-07 09:05:28",
@@ -791,46 +823,6 @@
       "duration_ms": 216991,
       "name": "DEATH CULT ZOMBIE",
       "url": "https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd"
-    },
-    {
-      "added_at": "2025-10-31 14:06:01",
-      "album": {
-        "name": "nun+",
-        "url": "https://open.spotify.com/album/73ELN0H3gT4jdScrsAyPfu"
-      },
-      "artists": [
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "Kal Banx",
-          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "nun+",
-      "url": "https://open.spotify.com/track/73QSneWdcj1fncvD8UlBi5"
-    },
-    {
-      "added_at": "2025-10-31 14:06:01",
-      "album": {
-        "name": "KO",
-        "url": "https://open.spotify.com/album/3xgTFQpbgsnyHRaL1JXs9F"
-      },
-      "artists": [
-        {
-          "name": "NLE The Great",
-          "url": "https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 214122,
-      "name": "KO",
-      "url": "https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5"
     }
   ],
   "unique_name": "New Singles Now",

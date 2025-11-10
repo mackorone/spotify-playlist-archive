@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "HISTERIA",
+        "url": "https://open.spotify.com/album/1AacRgv1OrwY3eXU4iqnWd"
+      },
+      "artists": [
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141742,
+      "name": "HISTERIA",
+      "url": "https://open.spotify.com/track/4JJlTD4h7lHpy7B1vNEYd4"
+    },
+    {
+      "album": {
         "name": "Malvadeza",
         "url": "https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy"
       },

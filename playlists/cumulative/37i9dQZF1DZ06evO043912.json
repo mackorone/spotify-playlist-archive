@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Baba Lo Ran Mi Wa",
+      "url": "https://open.spotify.com/track/6bw8Y7O9TPZIhAOwCfO9kW"
+    },
+    {
+      "album": {
         "name": "Baba Mo Tunde",
         "url": "https://open.spotify.com/album/0yLW9W0JreKsG8kj6ydA43"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > La scène rap francophone sans frontières\. Photo: Kaaris
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,348 likes - 97 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,353 likes - 97 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

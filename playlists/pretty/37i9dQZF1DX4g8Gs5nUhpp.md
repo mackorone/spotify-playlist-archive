@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: \(S\)TRONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,462 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,466 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 49 | [TÂM SỰ VỚI ĐÊM MỘT MÌNH](https://open.spotify.com/track/7ir78PG7yf140Z3g68shGO) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [TÂM SỰ VỚI ĐÊM MỘT MÌNH](https://open.spotify.com/album/46MTWlgPkE8f104PdcDn7X) | 2:56 |
 | 50 | [Từng Ngày Yêu Em](https://open.spotify.com/track/3Ids3RXurYBgySph53qWnB) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Từng Ngày Như Mãi Mãi](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D) | 3:45 |
 
-Snapshot ID: `AAAAAKLdmzqwtxeXudbjKHp7UIF4AWNZ`
+Snapshot ID: `AAAAABuuKIKxyQa/3c+/jDtso6h6CAMT`

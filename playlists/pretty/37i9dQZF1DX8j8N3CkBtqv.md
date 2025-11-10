@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Parvaaz, The Yellow Diary and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,045 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,048 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 33 | [Main Na Raha](https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Main Na Raha](https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA) | 4:32 |
 | 34 | [Tum](https://open.spotify.com/track/4cdHmo4nWzTcFolH3L5Ttp) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Amrita Saluja](https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU) | [Tum](https://open.spotify.com/album/3UECBX0YYmUWK4yTkC1h2o) | 3:48 |
 | 35 | [ahista](https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 3:29 |
-| 36 | [Tu Hai Kahan](https://open.spotify.com/track/2sF7bZubVf0kbuhIaHPojW) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 4:02 |
-| 37 | [No Deal](https://open.spotify.com/track/3xbEEIT1Nt6sjOCekNBjeV) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [No Deal](https://open.spotify.com/album/6gya1hEzsN8ZuJmH0GiJIF) | 4:03 |
-| 38 | [Pyaar Ik Tarfa](https://open.spotify.com/track/3opSFMPqeGWWx6UGDIbbhU) | [Anuj B](https://open.spotify.com/artist/7f5V2XifD0Mz6sGYuXrtCp), [Ranjha Yaar](https://open.spotify.com/artist/1LZuTGtjndRFfGncarpV6Z) | [Pyaar Ik Tarfa](https://open.spotify.com/album/25V08HO2QXYLljBi1E0X6U) | 2:57 |
+| 36 | [No Deal](https://open.spotify.com/track/3xbEEIT1Nt6sjOCekNBjeV) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [No Deal](https://open.spotify.com/album/6gya1hEzsN8ZuJmH0GiJIF) | 4:03 |
+| 37 | [Pyaar Ik Tarfa](https://open.spotify.com/track/3opSFMPqeGWWx6UGDIbbhU) | [Anuj B](https://open.spotify.com/artist/7f5V2XifD0Mz6sGYuXrtCp), [Ranjha Yaar](https://open.spotify.com/artist/1LZuTGtjndRFfGncarpV6Z) | [Pyaar Ik Tarfa](https://open.spotify.com/album/25V08HO2QXYLljBi1E0X6U) | 2:57 |
+| 38 | [Tu Hai Kahan](https://open.spotify.com/track/2sF7bZubVf0kbuhIaHPojW) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 4:02 |
 | 39 | [Rukna Nahin Hai](https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Rukna Nahin Hai](https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8) | 4:03 |
 | 40 | [Adhoora](https://open.spotify.com/track/2WCVskDkODHmUpvYG8xdzl) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Adhoora](https://open.spotify.com/album/6KIDpkkH6CT3bNNYwbAD0G) | 3:04 |
 | 41 | [Marammat](https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF) | 3:16 |

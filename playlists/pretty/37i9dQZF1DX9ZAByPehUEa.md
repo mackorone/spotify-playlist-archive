@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,599 likes - 200 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,623 likes - 200 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 45 | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/track/54F4Vou1VXstyMzc2TcWGL) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Fire + Ice \(feat\. Jake Shears\)](https://open.spotify.com/album/6KuvTJQIhJSw4D0umoSnV1) | 3:06 |
 | 46 | [Any Kind Of Music \(I Love\)](https://open.spotify.com/track/5mqMbGUrqPn4dEEHiK5Loy) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Any Kind Of Music \(I Love\)](https://open.spotify.com/album/6CZclIcamGolxD8545ltfR) | 3:20 |
 | 47 | [Midnight Fever](https://open.spotify.com/track/6BVvpdUKKkeR8KawiI8pZQ) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Midnight Fever](https://open.spotify.com/album/3c6vrOdpsEk1hB9xr2tvby) | 3:46 |
-| 48 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/40bjvz9VwQKBP7t22VpoWK) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
+| 48 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/0PuNlq7O1k6LJFVpEGPM54) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
 | 49 | [Paris in the Sky](https://open.spotify.com/track/4dOQ37MvSKEcBZoWvOTJeZ) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Paris in the Sky EP](https://open.spotify.com/album/7tzpTJwj599XdqP2XOtmmq) | 4:08 |
 | 50 | [Between The Lines](https://open.spotify.com/track/4rdLw7tBQqrGzVUUHUNnDL) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Between The Lines](https://open.spotify.com/album/5EsFwgZD9YvfVRJ0KCDOlj) | 3:52 |
 | 51 | [Find My Way](https://open.spotify.com/track/0jg3GLkmWNxHHy03Bp6YrO) | [FRASER](https://open.spotify.com/artist/5BflqluOfNQb1hofbNsySr) | [Find My Way](https://open.spotify.com/album/0fdcjKexKyMUVnAcsGnP2G) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:5QdEbQJ3ylBnc3gsIASAT5">G Herbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,122 likes - 159 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,056 likes - 159 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

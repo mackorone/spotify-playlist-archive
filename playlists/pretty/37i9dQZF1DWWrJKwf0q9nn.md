@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Sunnery James & Ryan Marciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,587 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,581 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 27 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
 | 28 | [OK SU KA](https://open.spotify.com/track/5pLZDZ1UaePBUMc2nvLi4z) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Vall Du Son](https://open.spotify.com/artist/7dxbiWVBTS1j37WGihfBa2) | [OK SU KA](https://open.spotify.com/album/1QsbN12NSzFqF7U4exapgk) | 3:26 |
 | 29 | [Stick Out](https://open.spotify.com/track/7rDfio21FnO5GM8rgmhADe) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Stick Out](https://open.spotify.com/album/3bKQ5GAsKs6VXRa8akWeAj) | 3:02 |
-| 30 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/40bjvz9VwQKBP7t22VpoWK) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
+| 30 | [STOMP](https://open.spotify.com/track/0Co0JCpMhqy6gqcHvUsMcH) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [88 Degrees](https://open.spotify.com/artist/0PuNlq7O1k6LJFVpEGPM54) | [STOMP](https://open.spotify.com/album/3YkB8s4aioWpIj76vnqtS1) | 2:23 |
 | 31 | [With You](https://open.spotify.com/track/7A5keFQ4h09H7lexVWR8Wt) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0), [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [With You](https://open.spotify.com/album/2cqBEs8ChbRvsbcWPcxfvk) | 3:00 |
 | 32 | [Cold Fresh Air](https://open.spotify.com/track/0qBCGXtX9RXypyFyDMZDP6) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Cold Fresh Air](https://open.spotify.com/album/54KtnLwk1M9iXn8wDKVBFJ) | 2:30 |
 | 33 | [Bad Girl Energy \(feat\. kamille\)](https://open.spotify.com/track/1GtQKQsGy2RSvev3ZgBnKy) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [The Afters](https://open.spotify.com/album/0nCB0adZv1ffnrApTIXyXp) | 2:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,036 likes - 166 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,027 likes - 166 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

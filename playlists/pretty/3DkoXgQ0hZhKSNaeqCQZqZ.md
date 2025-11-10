@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, made for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 824 likes - 393 songs - 20 hr 27 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 828 likes - 387 songs - 20 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -395,11 +395,5 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 385 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 |
 | 386 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 387 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
-| 388 | [someone special](https://open.spotify.com/track/67s2DeBt7fAQ7RqAIP99tD) | [Blueberry](https://open.spotify.com/artist/0YojyCH6OZsxIXzNMRY12Z) | [someone special](https://open.spotify.com/album/77AJxNfFKAwpTiNyDVLjYV) | 2:54 |
-| 389 | [Just a Little Better](https://open.spotify.com/track/13jSiZCcJYHaBYUWYdc637) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 3:08 |
-| 390 | [DEAD POETS SOCIETY](https://open.spotify.com/track/3JnwVQoO6kJwvN84Q5tQf0) | [cysteke](https://open.spotify.com/artist/4alcy3GdAmXMNsNXObxjsd), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [AFTERSHOCK](https://open.spotify.com/album/4sA7rp7GNDEAA9WvYdhwzt) | 6:57 |
-| 391 | [Take Me Up](https://open.spotify.com/track/1GyuPucfVlZAHw7CUmq4eo) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Take Me Up](https://open.spotify.com/album/5krEvaWqSRz6A7J9NGtbl7) | 2:55 |
-| 392 | [Lone Skater](https://open.spotify.com/track/0vzIdVmpB0rSfGJROfIBLM) | [Coyotlito](https://open.spotify.com/artist/1F7KNLune1lzFAFya3FB2R), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Lone Skater](https://open.spotify.com/album/3sZBlDT9gNYi6YCDP5PvkN) | 3:44 |
-| 393 | [THE ANSWER](https://open.spotify.com/track/1WAjkenGGMIGhDL6bK5BRn) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [IN THE DARK / THE ANSWER](https://open.spotify.com/album/5XFda23kFtFtWgGSAU1NaK) | 3:50 |
 
-Snapshot ID: `AAAEWMItnRBFp9zT/jMXRImxwgX5620W`
+Snapshot ID: `AAAEXmDobjhtRVNi3d0vW1+BD0DlPzY+`

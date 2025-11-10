@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,946 likes - 100 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,047 likes - 100 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

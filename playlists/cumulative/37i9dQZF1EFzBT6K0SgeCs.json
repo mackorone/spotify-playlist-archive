@@ -1212,6 +1212,32 @@
     {
       "album": {
         "name": "dreaming of flying",
+        "url": "https://open.spotify.com/album/3FNYWBvMN92upaEiMDMQJ7"
+      },
+      "artists": [
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        },
+        {
+          "name": "Kemba",
+          "url": "https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187137,
+      "name": "heat of the moment",
+      "url": "https://open.spotify.com/track/0K2xir1ODw3G1Pgv6iR6LF"
+    },
+    {
+      "album": {
+        "name": "dreaming of flying",
         "url": "https://open.spotify.com/album/3ticFXs2OejMLGryhSXcrh"
       },
       "artists": [
@@ -1230,7 +1256,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 187137,
       "name": "heat of the moment",
       "url": "https://open.spotify.com/track/3n4b2bshNYtMeTDLanuCzZ"

@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "KM0",
+        "url": "https://open.spotify.com/album/2eQtbaGUFOZ0NdWv5XBoPq"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160431,
+      "name": "CLICKBAIT",
+      "url": "https://open.spotify.com/track/6FwABBfhb4zp7DpNJltDzI"
+    },
+    {
+      "album": {
         "name": "CLICKBAIT",
         "url": "https://open.spotify.com/album/6E3B8nI1boK9d7aFHUohWP"
       },
@@ -360,7 +378,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-10",
       "duration_ms": 160431,
       "name": "CLICKBAIT",
       "url": "https://open.spotify.com/track/6KxI6NASKcMLfX6Hgr2F7p"

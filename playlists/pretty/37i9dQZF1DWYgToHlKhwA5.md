@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,374 likes - 275 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,380 likes - 275 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 | 157 | [Thunderstorms In Italy \- Seamless](https://open.spotify.com/track/4usbGXSHEFUs8W9lXvGRw5) | [Pluvious](https://open.spotify.com/artist/5m8Ny76aXScYfB1HkcjzB6) | [Thunderstorms In Italy](https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu) | 2:17 |
 | 158 | [Under Roof \- Rain/Thunder](https://open.spotify.com/track/3k5VRh1H1Khp7PN8Yp8fB8) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:08 |
 | 159 | [Rainy Avenue](https://open.spotify.com/track/1Z5uJ80Ppi2uCfoegoQn4z) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rainy Night In Amsterdam](https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS) | 3:36 |
-| 160 | [Big Thunder](https://open.spotify.com/track/0TyW7t2bweA1BLsIOc2iah) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Sleep Thunder](https://open.spotify.com/album/2pxNQNv3wOvZDC7a4l43Tj) | 3:16 |
-| 161 | [Rumbling Sky](https://open.spotify.com/track/3WvMRwe0VySgRljtVvBtWY) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Rumbling Sky](https://open.spotify.com/album/1OHgb6ZIhjzLTO9j6FvBux) | 2:27 |
+| 160 | [Rumbling Sky](https://open.spotify.com/track/3WvMRwe0VySgRljtVvBtWY) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Rumbling Sky](https://open.spotify.com/album/1OHgb6ZIhjzLTO9j6FvBux) | 2:27 |
+| 161 | [Big Thunder](https://open.spotify.com/track/0TyW7t2bweA1BLsIOc2iah) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Sleep Thunder](https://open.spotify.com/album/2pxNQNv3wOvZDC7a4l43Tj) | 3:16 |
 | 162 | [Super Soft Rain with Super Soft Thunder](https://open.spotify.com/track/68S9h5bDYVNinuyGRz1rLv) | [The Natural Healing](https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe) | [Wide Spring Rain](https://open.spotify.com/album/7h640Dh8VAa2gtBhPuoOP0) | 2:07 |
 | 163 | [Soft Rain, Thunder](https://open.spotify.com/track/3Gp2W5Po1dSh0oMTxA8LGX) | [Coquins](https://open.spotify.com/artist/2CQkYpYeaZujTc9QnB2Hc3) | [Climate Hive](https://open.spotify.com/album/5hzGqR8lmwzh3bnz21ZO8K) | 2:37 |
 | 164 | [Calming Rain Sounds](https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6) | [Sound FX of Nature](https://open.spotify.com/artist/27nw1ldFoK3yTpcm3BGKcs) | [New Sounds Of Nature](https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy) | 2:22 |
@@ -225,8 +225,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 | 215 | [Soft Clappering Rain With Distant Storm](https://open.spotify.com/track/54gd3cuzXOLPgmj1BLIHmB) | [Livia Michaels](https://open.spotify.com/artist/3WH5Te2JfIJd5yOOkchwZE) | [Meditation Morning Rain](https://open.spotify.com/album/7Il9UcVgVjIHBHJRN8oScd) | 2:25 |
 | 216 | [Goddess Of Thunder](https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:19 |
 | 217 | [Breeze, Light Rain, Thunder](https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj) | [In The Noise](https://open.spotify.com/artist/3FGtKDRRneWEDpWEUSwnKY) | [Bad Day Weather](https://open.spotify.com/album/5xGfczFFUpJ71WmFJvorEI) | 2:18 |
-| 218 | [Oneiric Rain](https://open.spotify.com/track/4KVtQrlK6ABMi5UkSuXHBF) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:54 |
-| 219 | [Stormy Nap](https://open.spotify.com/track/7ocQfDMNB4SkHMETPIlZ8C) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Mountain Nap](https://open.spotify.com/album/1EvbTiOvW6mCaEEV8NOxzq) | 2:35 |
+| 218 | [Stormy Nap](https://open.spotify.com/track/7ocQfDMNB4SkHMETPIlZ8C) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Mountain Nap](https://open.spotify.com/album/1EvbTiOvW6mCaEEV8NOxzq) | 2:35 |
+| 219 | [Oneiric Rain](https://open.spotify.com/track/4KVtQrlK6ABMi5UkSuXHBF) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:54 |
 | 220 | [Big Storm, Rain and Close Lightnings](https://open.spotify.com/track/4egCKRMYciGmRMM4ze2Dkd) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Thunder Stories](https://open.spotify.com/album/4zHRIUbgKatKB8QhDPVK7c) | 2:18 |
 | 221 | [Raindrops for Sleep](https://open.spotify.com/track/4H2UoVHDlQe6t14ulSYW6y) | [Rainy Forecast](https://open.spotify.com/artist/5GYZ767vZMxu1fBVrkQd8K) | [Rainy Forecast](https://open.spotify.com/album/69fopENmMR03vJpI5kxLSK) | 2:18 |
 | 222 | [Lluvia de Fondo para Dormir, Pt\. 46](https://open.spotify.com/track/5oABQpWtfdTfW8kZmE2qUM) | [Lluvia Del Bosque](https://open.spotify.com/artist/5bKQnOQSvo3fXcMJzbbdW9), [Lluvia para Dormir](https://open.spotify.com/artist/16MuvcGp8AGlJiJGEOxuDp), [Sueño Profundo Club](https://open.spotify.com/artist/0ABU5rOo3hIfRLxQVIDz0x) | [Sonido de Lluvia para Dormir](https://open.spotify.com/album/7o0C7dBXX3i978zcaBIoVi) | 2:13 |

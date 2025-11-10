@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,421 songs - 12 day 14 hr 52 min
+5,422 songs - 12 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [ALONE.](https://open.spotify.com/track/5ywFatfzeyOwa4RxCcJUFz) | [Jason King](https://open.spotify.com/artist/24B1phNS2i8lriJnsS2IAW) | [ALONE.](https://open.spotify.com/album/1ZCGQzZX4ZwKHhzqsUfPW2) | 2:40 | 2022-03-04 | 2025-05-16 |
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2020-08-20 | 2023-02-12 |
 | [ALREADY](https://open.spotify.com/track/1TSinFFcDJJzR6ErO81Y3c) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 3:43 | 2023-07-21 | 2023-08-28 |
+| [Already Gone](https://open.spotify.com/track/6kpoUfB2Q7WX60OE7fUiFa) | [Henry Thompson](https://open.spotify.com/artist/1V2jHJ52kMAIxlEPFWIhPE) | [Already Gone](https://open.spotify.com/album/3aAsEkLct6gvd7ocd78X7E) | 3:05 | 2025-11-09 |  |
 | [ALRIGHT](https://open.spotify.com/track/0ChPMhpuUosCmdvvvMCYJP) | [Chopmaster J](https://open.spotify.com/artist/2Xmw1YjOIdV89FTLQHKyu1), [Big Brutha Soul](https://open.spotify.com/artist/6zhey4K2MWrgdVpzcQJ7Rp), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [ALRIGHT](https://open.spotify.com/album/33Zn9lfZnPzzn4cXYK59MI) | 3:08 | 2024-11-08 | 2024-11-20 |
 | [Alright](https://open.spotify.com/track/5vPVxHRFg8cUwRr8j7yqXf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:20 | 2019-09-29\* | 2021-11-19 |
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2020-07-12 | 2020-08-20 |

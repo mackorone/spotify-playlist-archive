@@ -4,7 +4,7 @@
 
 > Les plus belles plumes rap français du moment\. Photo : Josman
 
-310 songs - 16 hr 26 min
+311 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [le bus \- A COLORS SHOW](https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [le bus \- A COLORS SHOW](https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c) | 2:58 | 2024-06-27 | 2025-02-21 |
 | [LE MARATHON](https://open.spotify.com/track/2AMSd1KSNG3mpQcfganAZz) | [N3MS](https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J) | [LE MARATHON](https://open.spotify.com/album/1HIGldnlWzRnTKUVFSRIUH) | 3:11 | 2025-05-15 | 2025-06-20 |
 | [LE NOM DU PÈRE](https://open.spotify.com/track/4DbosJ6sBVGSjDNlUqB1se) | [Relo](https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf), [Furax Barbarossa](https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa), [Shurik’n](https://open.spotify.com/artist/6ebsq9T5h3pAg6ejkvNICv), [Deejay Venum](https://open.spotify.com/artist/6Lcm5R00ALAwcWmvjhA71g), [Sako \(Chiens de Paille\)](https://open.spotify.com/artist/5xOnfbs4fCxdmplzc4dd9J) | [DIEU MERCI ENCORE \(Réédition\)](https://open.spotify.com/album/16Iu3mwSRNqzlZybmEcmfC) | 4:54 | 2024-06-27 | 2024-10-18 |
+| [Le pacte](https://open.spotify.com/track/5M1VROZh6YaMMwkYVujHja) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 4:28 | 2025-11-09 |  |
 | [Le palace](https://open.spotify.com/track/32tmgPc1bNxFZjzBY0mmLz) | [Le Bon Nob](https://open.spotify.com/artist/6A0xtognWmzf4OldQdJbsi), [K.Oni](https://open.spotify.com/artist/2wonVBitiDFD60joPG92Hs) | [Le palace](https://open.spotify.com/album/3if8Nn3rDTRRpqEt4e6yyb) | 3:15 | 2025-05-15 | 2025-06-06 |
 | [Le plan B](https://open.spotify.com/track/2fLtZwOTINAaYP6bJefpUX) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Bitume Caviar \(Vol.1\)](https://open.spotify.com/album/3Fr9OWBaK5i1nZh0BT38jN) | 2:41 | 2024-06-27 | 2024-09-20 |
 | [Le Plat](https://open.spotify.com/track/0ZctGizLJmhyC5Y75FTj4y) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [Le Plat](https://open.spotify.com/album/1ara8MlWtiMUSQDQNHPEaJ) | 2:35 | 2024-07-25 | 2024-10-11 |
