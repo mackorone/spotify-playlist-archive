@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: AOTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,323 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,329 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 95 | [Human \(feat\. DNE\)](https://open.spotify.com/track/0HgfKPVLFuX5iLFyyrjRfV) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [DNE](https://open.spotify.com/artist/72IcIjVbjE8V3fUDPfkeV3) | [Prrrrrrrr](https://open.spotify.com/album/0Kw8bEQVW7wdvdwYdVHBkz) | 3:39 |
 | 96 | [Risk Your \(feat\. Bonbero\)](https://open.spotify.com/track/1GqMohCPnwSaNBwCWVbfCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Risk Your \(feat\. Bonbero\)](https://open.spotify.com/album/5Vne7FdSPUYxOo2uDzWNPw) | 2:34 |
 | 97 | [RAINBOW BRIDGE](https://open.spotify.com/track/6IaeKanf1bag9znHRss7QK) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD) | [DL STATION](https://open.spotify.com/album/7x4gZPw8Twc5TJUtoViyeh) | 4:54 |
-| 98 | [Easy](https://open.spotify.com/track/4QAj2kwTjqOaVe5IETiOQ6) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0), [Namani](https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj) | [Easy](https://open.spotify.com/album/5PzCF3OPzjVNznjMyFChrZ) | 2:52 |
+| 98 | [Easy](https://open.spotify.com/track/4QAj2kwTjqOaVe5IETiOQ6) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0), [Namani](https://open.spotify.com/artist/4moFso0ODStHo16XOuWY2Q) | [Easy](https://open.spotify.com/album/5PzCF3OPzjVNznjMyFChrZ) | 2:52 |
 | 99 | [奥歯痛い保険証ない](https://open.spotify.com/track/6CqR8me6RcWoP5z1W119WN) | [FANI](https://open.spotify.com/artist/7KsWPNNxVKsPuzFiFqipjL) | [Out the 貧乏](https://open.spotify.com/album/697aN77B1eOSpgZC8zEMZd) | 2:26 |
 | 100 | [Allright](https://open.spotify.com/track/4L9H1KQ1Up7debjuULAzq9) | [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Allright](https://open.spotify.com/album/3fWxLYSeWEJNX2E7xbKaM5) | 3:05 |
 

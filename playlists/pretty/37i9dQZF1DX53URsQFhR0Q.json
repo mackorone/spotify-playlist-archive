@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 10105,
+  "num_followers": 10109,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Pentecost Soree Nwom",
-        "url": "https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285"
-      },
-      "artists": [
-        {
-          "name": "Evangelist Diana Asamoah",
-          "url": "https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ"
-        }
-      ],
-      "duration_ms": 354150,
-      "name": "Hymm",
-      "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Obi Nyanime",
         "url": "https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 374230,
       "name": "Obi Nyanime",
       "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Pentecost Soree Nwom",
+        "url": "https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285"
+      },
+      "artists": [
+        {
+          "name": "Evangelist Diana Asamoah",
+          "url": "https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ"
+        }
+      ],
+      "duration_ms": 354150,
+      "name": "Hymm",
+      "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "My Testimony 2015 - 2017",
-        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
-      },
-      "artists": [
-        {
-          "name": "Anita Afriyie",
-          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "Adehye Mogya",
-      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 377678,
       "name": "Bue Kwan Ma Me",
       "url": "https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Isaac Ampong",
+          "url": "https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho"
+        }
+      ],
+      "duration_ms": 324179,
+      "name": "Nyame Do Me",
+      "url": "https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+        "name": "My Testimony 2015 - 2017",
+        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
       },
       "artists": [
         {
-          "name": "Isaac Ampong",
-          "url": "https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho"
+          "name": "Anita Afriyie",
+          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
         }
       ],
-      "duration_ms": 324179,
-      "name": "Nyame Do Me",
-      "url": "https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ"
+      "duration_ms": 325093,
+      "name": "Adehye Mogya",
+      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -635,18 +635,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
       "artists": [
         {
           "name": "Joe Mettle",
           "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "LUIGI MACLEAN",
+          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
         }
       ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
+      "duration_ms": 408584,
+      "name": "Bo Noo Ni (feat. Luigi Maclean)",
+      "url": "https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -719,22 +723,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
           "name": "Joe Mettle",
           "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "LUIGI MACLEAN",
-          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
         }
       ],
-      "duration_ms": 408584,
-      "name": "Bo Noo Ni (feat. Luigi Maclean)",
-      "url": "https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb"
+      "duration_ms": 204795,
+      "name": "Akokyem Nyame",
+      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
     },
     {
       "added_at": "2025-01-09 09:53:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAASupjwguDWQVXLm8qVyj1g",
+  "snapshot_id": "aQ/ZgAAAAAAhONWG68yZprAm+sH527HK",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of Luther Vandross The Best of Love",
-        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
       },
       "artists": [
         {
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         },
         {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 323960,
-      "name": "If This World Were Mine (with Luther Vandross)",
-      "url": "https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb"
+      "duration_ms": 322226,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
     },
     {
       "added_at": null,
@@ -339,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best of Luther Vandross The Best of Love",
+        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 323960,
+      "name": "If This World Were Mine (with Luther Vandross)",
+      "url": "https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Dance",
         "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 257800,
       "name": "Can't Let You Go (The Sha La Song)",
       "url": "https://open.spotify.com/track/2WB9kG4tMNNtri6xvddDEG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 322226,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Luther Vandross",
-        "url": "https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 338533,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance With My Father",
         "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 385506,
       "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
       "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Luther Vandross",
+        "url": "https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 338533,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Anyone Who Had a Heart",
-      "url": "https://open.spotify.com/track/45iQcSIJBgJkD2YI4XhXV2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luther Vandross",
         "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 319800,
       "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
       "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "Anyone Who Had a Heart",
+      "url": "https://open.spotify.com/track/45iQcSIJBgJkD2YI4XhXV2"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Night With You: The Best Of Love, Volume 2",
+        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 327920,
+      "name": "It's All About You",
+      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 294000,
       "name": "All The Woman I Need",
       "url": "https://open.spotify.com/track/2VcUWg5UIQo0H5AqeA38zc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Since I Lost My Baby",
-      "url": "https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Night With You: The Best Of Love, Volume 2",
-        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 327920,
-      "name": "It's All About You",
-      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
+      "duration_ms": 326813,
+      "name": "Since I Lost My Baby",
+      "url": "https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Love",
-        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 337520,
-      "name": "For You to Love",
-      "url": "https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Your Secret Love",
         "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
       },
@@ -719,6 +703,38 @@
       "duration_ms": 290546,
       "name": "Too Proud To Beg",
       "url": "https://open.spotify.com/track/4IBfq7JnxlhUKRd5ecfdY7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Bring Your Heart To Mine",
+      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Love",
+        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 337520,
+      "name": "For You to Love",
+      "url": "https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM"
     },
     {
       "added_at": null,
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 261640,
-      "name": "Bring Your Heart To Mine",
-      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
+      "duration_ms": 315880,
+      "name": "The Impossible Dream",
+      "url": "https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 335480,
       "name": "I Can Make It Better",
       "url": "https://open.spotify.com/track/70NmePXQxL3b688VuLSFae"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "The Impossible Dream",
-      "url": "https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM"
     },
     {
       "added_at": null,

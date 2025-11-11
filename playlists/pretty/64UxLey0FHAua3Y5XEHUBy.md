@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/64UxLey0FHAua3Y5XEHUBy.md) - [plain]
 
 > Chilled songs to keep the mood nice and relaxed.
 
-[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 38,152 likes - 106 songs - 6 hr 15 min
+[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 38,151 likes - 106 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/64UxLey0FHAua3Y5XEHUBy.md) - [plain]
 | 97 | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/track/1MGGLyAMVQo3T9gSEBJjyH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Gone Are The Days \(feat\. James Gillespie\)](https://open.spotify.com/album/5yyKH8wCNqJxPKSQLzhkKy) | 3:16 |
 | 98 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
 | 99 | [High Hopes](https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:50 |
-| 100 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 |
+| 100 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:42 |
 | 101 | [Trying Not To Love You](https://open.spotify.com/track/4cpAyER0g5KTr2OCIvtiYK) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Trying Not To Love You](https://open.spotify.com/album/1Kdw5FOVahUo2kQAqdvpls) | 3:04 |
 | 102 | [Small Hands](https://open.spotify.com/track/40jiZBsr1W3SG15AGU9227) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Dear](https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ) | 3:00 |
 | 103 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |

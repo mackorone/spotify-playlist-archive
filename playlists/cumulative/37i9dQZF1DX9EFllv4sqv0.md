@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: FOLA
 
-188 songs - 9 hr 45 min
+189 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,12 +67,13 @@
 | [Exit Sign](https://open.spotify.com/track/6SAfyvPSB6SxN1nqpZaRCa) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Exit Sign](https://open.spotify.com/album/1vdgE0GZK16rKgS978oX3k) | 3:27 | 2025-04-29 | 2025-06-28 |
 | [Faaji Jackson](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 | 2024-10-21 | 2025-03-15 |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/3eRaxLLhyYHKr8oiR6NeYI) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/7LKevxlgs3jILWLe8VQlmW) | 3:04 | 2024-10-21 |  |
-| [Fear No Man](https://open.spotify.com/track/5joVlycLPsmQSpchSTCmTl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:03 | 2025-04-29 |  |
+| [Fear No Man](https://open.spotify.com/track/5joVlycLPsmQSpchSTCmTl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:03 | 2025-04-29 | 2025-11-11 |
 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 | 2024-10-21 |  |
 | [FIA](https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FIA](https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z) | 3:34 | 2024-10-21 |  |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2025-04-29 |  |
 | [Fini](https://open.spotify.com/track/750xvuULIPZ4U5vk251SvI) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Fini](https://open.spotify.com/album/4kEVAL6PC7RAZZRkyr1z0L) | 1:52 | 2025-06-27 |  |
 | [Fire](https://open.spotify.com/track/1NvQ75GLbvDPHFbGr5s0tp) | [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5), [Tom Excell](https://open.spotify.com/artist/7xWMYlmDVs3qZKLgJU7dKK), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [We No Be Machine](https://open.spotify.com/album/5RpzU4WuACFhGOcN7vn1K9) | 5:09 | 2025-04-29 | 2025-06-28 |
+| [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-11-10 |  |
 | [Frens](https://open.spotify.com/track/15FfKpV7MURQncDusPvqwM) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Frens](https://open.spotify.com/album/6ptrrZitJ1n2a6qraQGmLz) | 3:18 | 2025-04-29 | 2025-06-29 |
 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 | 2024-10-21 |  |
 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 | 2025-01-09 |  |

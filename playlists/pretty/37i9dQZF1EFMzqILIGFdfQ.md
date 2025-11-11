@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 116 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,060 likes - 116 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 28 | [NICE](https://open.spotify.com/track/44lusH2vzc4sRAwsooRhPh) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 3:53 |
 | 29 | [No Candle No Light \(feat\. Nicki Minaj\)](https://open.spotify.com/track/5tH8UbEHc3seBxOlnzvoAs) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Icarus Falls](https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh) | 3:15 |
 | 30 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
-| 31 | [FRIENDS](https://open.spotify.com/track/0gu5B9dUOiLezdDjrLPCCV) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:44 |
-| 32 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
+| 31 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
+| 32 | [FRIENDS](https://open.spotify.com/track/0gu5B9dUOiLezdDjrLPCCV) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:44 |
 | 33 | [Mood Swings \(feat\. Lil Tjay & Summer Walker\) \- Remix](https://open.spotify.com/track/5JYsU2yRoQ6utiLW7Owvjc) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Mood Swings \(Remix\)](https://open.spotify.com/album/0Puv2Bu8uDHyVTOYBWNUE3) | 4:15 |
 | 34 | [LOVEHAPPY](https://open.spotify.com/track/7szhY56rkD20Ai9AxJaicE) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 3:49 |
 | 35 | [NILE](https://open.spotify.com/track/0lboDHM9hSR5j5CFlWDR9k) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 1:47 |
@@ -117,12 +117,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 107 | [See What You've Done \- From The Film Belly Of The Beast](https://open.spotify.com/track/45YornSVO6bqFdsBgd25KW) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [See What You've Done \(From The Film Belly Of The Beast\)](https://open.spotify.com/album/691b4f4TMoUbpz6paKNtYM) | 3:26 |
 | 108 | [Tarantino](https://open.spotify.com/track/3eS2V7HeofOeTXtxfDQbfb) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:57 |
 | 109 | [Balloons](https://open.spotify.com/track/6JX3C5Y7fHUSpUz4ErXKJE) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:21 |
-| 110 | [Hot](https://open.spotify.com/track/17NTv6hcvFtARMyxdDXUI5) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:49 |
-| 111 | [Can't Relate](https://open.spotify.com/track/16fDi1h68eNxp9al1m5B39) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/6OgNHBteVXB95zUAXPPTK8) | 2:41 |
+| 110 | [Can't Relate](https://open.spotify.com/track/16fDi1h68eNxp9al1m5B39) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/6OgNHBteVXB95zUAXPPTK8) | 2:41 |
+| 111 | [Hot](https://open.spotify.com/track/17NTv6hcvFtARMyxdDXUI5) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:49 |
 | 112 | [7Days7Nights](https://open.spotify.com/track/1I8Txfr1qXMr604hC3ElJr) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/6YRxXLfApqwOhEPAtI8UZY) | 2:45 |
 | 113 | [Understanding](https://open.spotify.com/track/1CTDwwNP5iwnzRJryXgVtW) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:01 |
 | 114 | [Free Fall \(feat\. Blu June\)](https://open.spotify.com/track/5A00izo7E1u9NcMaCVwIgR) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Blu June](https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw) | [High Times](https://open.spotify.com/album/2gopJnmJD2S1yXtAWR9MVP) | 4:18 |
 | 115 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 | 116 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 
-Snapshot ID: `AcBKOgAAAAClnbOF9C5MZNdziiazFASx`
+Snapshot ID: `AcBPngAAAAAouRM8qbv3l3B+rB90ywCX`

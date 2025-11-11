@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75099,
+  "num_followers": 75102,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAGCev/kF7jqTK+EzpAysgb",
+  "snapshot_id": "aQ/ZgAAAAABS7ql75jBAGBs0Ti017bCp",
   "tracks": [
     {
       "added_at": null,
@@ -434,15 +434,11 @@
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 199786,
-      "name": "All My Favorite People (feat. Brothers Osborne)",
-      "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
+      "duration_ms": 250653,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
     },
     {
       "added_at": null,
@@ -479,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D R E A M S I C L E (deluxe)",
+        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 230558,
+      "name": "running",
+      "url": "https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -511,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D R E A M S I C L E (deluxe)",
-        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 230558,
-      "name": "running",
-      "url": "https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -534,11 +530,15 @@
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 250653,
-      "name": "GIRL",
-      "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
+      "duration_ms": 199786,
+      "name": "All My Favorite People (feat. Brothers Osborne)",
+      "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
     },
     {
       "added_at": null,

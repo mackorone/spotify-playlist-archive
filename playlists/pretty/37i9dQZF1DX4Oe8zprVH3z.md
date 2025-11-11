@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 
 > Breathe deep, close your eyes, immerse yourself..\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,637 likes - 174 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,900 likes - 174 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

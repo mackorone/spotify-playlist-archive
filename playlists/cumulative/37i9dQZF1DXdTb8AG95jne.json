@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc0ac\ubb88 (Samui)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Poles (\ub354 \ud3f4\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 222508,
       "name": "Beautiful Complex",
       "url": "https://open.spotify.com/track/77PpVzVdCxstWlSYXOE9xu"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 255000,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6KMvV8gTiD4ZY3kQCNNdaP"
@@ -3646,6 +3646,24 @@
       "duration_ms": 191000,
       "name": "Dance \ucda4",
       "url": "https://open.spotify.com/track/4szXqRT1LudsZxbE9A8oeZ"
+    },
+    {
+      "album": {
+        "name": "Dancing Bird",
+        "url": "https://open.spotify.com/album/5nPvmaTmt7l6XHd1SJWYGA"
+      },
+      "artists": [
+        {
+          "name": "The Poles",
+          "url": "https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Dancing Bird",
+      "url": "https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN"
     },
     {
       "album": {
@@ -7045,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/6HlWclGfDBveITmU7xcrHT"
+      },
+      "artists": [
+        {
+          "name": "Room306",
+          "url": "https://open.spotify.com/artist/7ENWxUjyJ2dMkhA6M0JXH3"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Greeting",
+      "url": "https://open.spotify.com/track/0PuAO3tjHQmjT8ezdeTzqb"
+    },
+    {
+      "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
       },
@@ -8654,7 +8690,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 226431,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/6GPKd7YhVm4Sf0aTv98SbX"
@@ -10803,6 +10839,24 @@
     },
     {
       "album": {
+        "name": "Love Me (Like I Love You)",
+        "url": "https://open.spotify.com/album/6byq72CwWGDdfl6kHIPt8S"
+      },
+      "artists": [
+        {
+          "name": "Yuu",
+          "url": "https://open.spotify.com/artist/2ovcDlrbXLb44IxTpdOBJ2"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Love Me (Like I Love You)",
+      "url": "https://open.spotify.com/track/2pj1FHL2k2l9a1y1YhYejJ"
+    },
+    {
+      "album": {
         "name": "Our Movie OST Part.7",
         "url": "https://open.spotify.com/album/7kE9hNetvTJ8ASszOXeZl0"
       },
@@ -12510,6 +12564,24 @@
       "duration_ms": 190214,
       "name": "Night",
       "url": "https://open.spotify.com/track/71dnO4IWWvwWqSOVqaL2k4"
+    },
+    {
+      "album": {
+        "name": "Night air",
+        "url": "https://open.spotify.com/album/0jDPb6oQCU49du0dedRGMG"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250689,
+      "name": "Night air",
+      "url": "https://open.spotify.com/track/2QExkZJmZYblotcvmoCYy4"
     },
     {
       "album": {
@@ -16861,6 +16933,24 @@
     },
     {
       "album": {
+        "name": "Hm( )mm",
+        "url": "https://open.spotify.com/album/64GxXeRzSTe0NHIdwL8Xo0"
+      },
+      "artists": [
+        {
+          "name": "onthedal",
+          "url": "https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194004,
+      "name": "Starving",
+      "url": "https://open.spotify.com/track/18JFKESC4ZJTiydyE0LIot"
+    },
+    {
+      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/1BOy3rPbjmkYMRFLTG2fmb"
       },
@@ -17002,7 +17092,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 192428,
       "name": "Still Me",
       "url": "https://open.spotify.com/track/0AtVk8YAYvLWdEf0lnrVGq"
@@ -19732,7 +19822,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 205913,
       "name": "We, the young",
       "url": "https://open.spotify.com/track/3noAY4OKq9ZbR78s65UJ9J"

@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 209847,
+  "num_followers": 209849,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAFeQLK78Nuj+O7Ol3PHMTe",
+  "snapshot_id": "aQ/ZgAAAAAC8pIFxIoLCxvGbSbWH5TjW",
   "tracks": [
     {
       "added_at": null,
@@ -663,38 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obstinado",
-        "url": "https://open.spotify.com/album/2qte1yUh9UwvAEoDO1mQAd"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Jogzz",
-          "url": "https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Obstinado",
-      "url": "https://open.spotify.com/track/5UBfIiXf71PxgqyO6vAfxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 222280,
       "name": "Castelo de Areia",
       "url": "https://open.spotify.com/track/2vEjbBAGrX9Ygj5DzcWTCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obstinado",
+        "url": "https://open.spotify.com/album/2qte1yUh9UwvAEoDO1mQAd"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Jogzz",
+          "url": "https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Obstinado",
+      "url": "https://open.spotify.com/track/5UBfIiXf71PxgqyO6vAfxW"
     },
     {
       "added_at": null,
@@ -787,30 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
+        "name": "A Pior M\u00fasica do Ano",
+        "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
       },
       "artists": [
         {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         }
       ],
-      "duration_ms": 351978,
-      "name": "UFA",
-      "url": "https://open.spotify.com/track/78j1GSIty1L44MSHPZPTFr"
+      "duration_ms": 219103,
+      "name": "A Pior M\u00fasica do Ano",
+      "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
     },
     {
       "added_at": null,
@@ -835,22 +827,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pior M\u00fasica do Ano",
-        "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         }
       ],
-      "duration_ms": 219103,
-      "name": "A Pior M\u00fasica do Ano",
-      "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
+      "duration_ms": 351978,
+      "name": "UFA",
+      "url": "https://open.spotify.com/track/78j1GSIty1L44MSHPZPTFr"
     },
     {
       "added_at": null,

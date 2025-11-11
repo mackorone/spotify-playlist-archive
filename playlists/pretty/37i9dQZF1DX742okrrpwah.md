@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Orelsan, DJ Snake x Stray Kids et ROSALÍA au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,264 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,240 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 49 | [Playground](https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [BREAK](https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK) | 3:42 |
 | 50 | [MURDER \#1](https://open.spotify.com/track/10vR2hk8TnzycH1dRNnM6S) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez), [HMZ](https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6), [2 Mètres](https://open.spotify.com/artist/3WUHUmukg1hiSrVCfCoSbF), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE), [Python Loco](https://open.spotify.com/artist/35Zw0oC1da1CwlwfAYlaWx) | [MURDER \#1](https://open.spotify.com/album/2ChgWLE06AzkkeVsNqgYD8) | 4:01 |
 | 51 | [Intertwined](https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [It's Always At Night](https://open.spotify.com/album/2oMIMZ0nmzotALQfXll9bA) | 3:54 |
-| 52 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
+| 52 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 53 | [JE ME SENS BIEN](https://open.spotify.com/track/0yw5OFoIUF6CV47rODmmrP) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [JE ME SENS BIEN](https://open.spotify.com/album/2Cqb4Z1Ab01rppyWSnGoti) | 2:29 |
 | 54 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 | 55 | [New Trip \(feat\. Yeat & BNYX®\)](https://open.spotify.com/track/2lpLHJXgSGFU5GuIk8qzgs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [New Trip \(feat\. Yeat & BNYX®\)](https://open.spotify.com/album/2HxI1pO2yc8XFnZfp7AvbL) | 3:27 |

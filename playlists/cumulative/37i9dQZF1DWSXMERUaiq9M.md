@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-588 songs - 1 day 12 hr 1 min
+589 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [HEY MR\. DJ](https://open.spotify.com/track/3HxCDAu8PU82fQkRTJkBF3) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [HEY MR\. DJ](https://open.spotify.com/album/5dWe8jrmoZRuYpfdFgamh7) | 2:35 | 2024-10-17 | 2024-10-26 |
 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-07-24 |  |
 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-04-06 |  |
+| [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 | 2025-11-07 |  |
 | [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 | 2025-05-22 | 2025-06-16 |
 | [Hypnotized](https://open.spotify.com/track/27c8cMslxtKNlC9WPVJtgF) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Part Time Killer](https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Night Shades \- EP](https://open.spotify.com/album/3QmhqCq5JU2MPfYexROuBT) | 3:45 | 2024-07-25 | 2024-08-02 |
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-03-10 | 2024-05-06 |
@@ -481,7 +482,7 @@
 | [Sound of the Underground](https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Sound of the Underground](https://open.spotify.com/album/6BPNER5Jea0HNq4tqqGWXt) | 3:06 | 2025-01-23 | 2025-07-29 |
 | [SOÑAR](https://open.spotify.com/track/0NzmTnOl9G3GMrUCNcmMgN) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [SOÑAR](https://open.spotify.com/album/6e2n4qL9dNGUiqOzzgPq7w) | 5:37 | 2024-07-04 | 2024-07-27 |
 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 | 2024-12-28 | 2025-01-07 |
-| [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-07-12 |  |
+| [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-07-12 | 2025-11-11 |
 | [Spectral Bells](https://open.spotify.com/track/0Yfb937yM0d5f6os0W9IWc) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Spectral Bells](https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP) | 3:13 | 2025-06-09 |  |
 | [Speed It Up \- Dr\. Bounce Remix](https://open.spotify.com/track/5YvroUTBozNzShCKeKYJ4E) | [Club Caviar](https://open.spotify.com/artist/2EN1Wc5No2OeL4exPJDIMe), [Dr\. Bounce](https://open.spotify.com/artist/6NRGNESxIzWCPdGMndqtKD) | [Speed It Up](https://open.spotify.com/album/2bqWGEEx5y9LN8vB2gLNg0) | 7:32 | 2024-12-28 | 2025-01-07 |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-06-29 | 2023-07-13 |

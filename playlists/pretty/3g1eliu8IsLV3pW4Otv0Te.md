@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 559 likes - 237 songs - 16 hr 7 min
+[codym2011](https://open.spotify.com/user/codym2011) - 559 likes - 238 songs - 16 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,5 +245,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 235 | [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 |
 | 236 | [Zeitgeist](https://open.spotify.com/track/4HFRItYjNrcwT6Vbtbk2i4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 4:37 |
 | 237 | [God Is Dead?](https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:52 |
+| 238 | [blackout blackout](https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ) | [all things break](https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P) | [blackout blackout](https://open.spotify.com/album/3EtoJYgBedcyTzFtOSipbe) | 2:18 |
 
-Snapshot ID: `AAABAdIILGe/HVxCmzvI+WHIoNfyhTdl`
+Snapshot ID: `AAABAh3YVU9a2SW7LUXqwL8hBfV4jQMa`

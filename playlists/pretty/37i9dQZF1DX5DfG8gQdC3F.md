@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Jade LeMac, ROSALÍA, Mother Mother, EKKSTACY, Faouzia, Charlotte Day Wilson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,829 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,797 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 54 | [Immortal Life](https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Nothing Without God](https://open.spotify.com/album/65clKbczk7FXoDZP4HUWOY) | 2:41 |
 | 55 | [fantasmagoría](https://open.spotify.com/track/79TuXPzuamn6YOTyz8UJRv) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [fantasmagoría](https://open.spotify.com/album/05uXDJlJgUjAb4iDLu35C2) | 2:32 |
 | 56 | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/track/5gliitoCPCUpUxQXII2NvA) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/album/17fU8owfXWqY0mlURQoLgE) | 2:29 |
-| 57 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
+| 57 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 58 | [Bad Girl Energy \(feat\. kamille\)](https://open.spotify.com/track/1GtQKQsGy2RSvev3ZgBnKy) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [The Afters](https://open.spotify.com/album/0nCB0adZv1ffnrApTIXyXp) | 2:10 |
 | 59 | [I WANNA ROCK](https://open.spotify.com/track/0YeUnaFSMsYIPqNQ3WbdEf) | [BARTS](https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [I WANNA ROCK](https://open.spotify.com/album/2kBgMc24A5LcfS8an3u6SM) | 2:47 |
 | 60 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |

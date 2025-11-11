@@ -96,6 +96,28 @@
     {
       "album": {
         "name": "Smyle (Extended)",
+        "url": "https://open.spotify.com/album/6x7skQUXY1HKm5VpzcPEDV"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/0j0269uHEw3YV7Wa2nOz9z"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275425,
+      "name": "All 4 You",
+      "url": "https://open.spotify.com/track/19o5bkRX6QluR3JS2IlzWM"
+    },
+    {
+      "album": {
+        "name": "Smyle (Extended)",
         "url": "https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr"
       },
       "artists": [
@@ -110,7 +132,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 275425,
       "name": "All 4 You",
       "url": "https://open.spotify.com/track/5X2zwPMd2gNNIWQdvyU3TY"
@@ -924,6 +946,24 @@
     {
       "album": {
         "name": "Smyle (Extended)",
+        "url": "https://open.spotify.com/album/6x7skQUXY1HKm5VpzcPEDV"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229942,
+      "name": "Endless Summer Symphony",
+      "url": "https://open.spotify.com/track/1a1HHd4o3W2tGHqXOsA88T"
+    },
+    {
+      "album": {
+        "name": "Smyle (Extended)",
         "url": "https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr"
       },
       "artists": [
@@ -934,7 +974,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 229942,
       "name": "Endless Summer Symphony",
       "url": "https://open.spotify.com/track/6eywMsJKFIFevUiFEZ79vg"

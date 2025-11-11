@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20378,
+  "num_followers": 20380,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -379,42 +379,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Table for Two",
-        "url": "https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Table for Two",
-      "url": "https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Button Up",
-        "url": "https://open.spotify.com/album/1D7dJ6DynUboIRFZ7TT20L"
-      },
-      "artists": [
-        {
-          "name": "Dan Whitlam",
-          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
-        },
-        {
-          "name": "Frederick James",
-          "url": "https://open.spotify.com/artist/2RnIV6LQZJMcJHTkMCxmq4"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Button Up",
-      "url": "https://open.spotify.com/track/2dMW31LPd4yL1LVvmXcowO"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Life's a Bitch, I Just Need an Early Night",
         "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
       },
@@ -439,6 +403,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Table for Two",
+        "url": "https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Table for Two",
+      "url": "https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/23M9G26uSJJO3yFGoW8a9t"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 162986,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7ctAXhngA8Kmt6pgaDcphf"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Button Up",
+        "url": "https://open.spotify.com/album/1D7dJ6DynUboIRFZ7TT20L"
+      },
+      "artists": [
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        },
+        {
+          "name": "Frederick James",
+          "url": "https://open.spotify.com/artist/2RnIV6LQZJMcJHTkMCxmq4"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Button Up",
+      "url": "https://open.spotify.com/track/2dMW31LPd4yL1LVvmXcowO"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Doubt Nothing",
-        "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
+        "name": "Grreydaze",
+        "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Doubt Nothing",
-      "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
+      "duration_ms": 164750,
+      "name": "God's House",
+      "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -771,8 +771,8 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Grreydaze",
-        "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
+        "name": "Doubt Nothing",
+        "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
         }
       ],
-      "duration_ms": 164750,
-      "name": "God's House",
-      "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
+      "duration_ms": 180000,
+      "name": "Doubt Nothing",
+      "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Life's a Bitch, I Just Need an Early Night",
+        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Paradise Pending",
+      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Town's Dead",
         "url": "https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 164171,
       "name": "Sex N' Drugs",
       "url": "https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Life's a Bitch, I Just Need an Early Night",
-        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Paradise Pending",
-      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Will Smith",
-        "url": "https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV"
-      },
-      "artists": [
-        {
-          "name": "BEASTIE",
-          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "Will Smith",
-      "url": "https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "DEMOTAPE/VEGA",
         "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 98340,
       "name": "old place",
       "url": "https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Will Smith",
+        "url": "https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "duration_ms": 126153,
+      "name": "Will Smith",
+      "url": "https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "New Hands/Writers Block",
-        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
-      },
-      "artists": [
-        {
-          "name": "Liv Walker",
-          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
-        }
-      ],
-      "duration_ms": 174015,
-      "name": "New Hands/Writers Block",
-      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "DEMOTAPE/VEGA",
         "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 161271,
       "name": "CRUSHED VELVET",
       "url": "https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Can't Love",
+        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 219281,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Can't Love",
-        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
+        "name": "New Hands/Writers Block",
+        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
       },
       "artists": [
         {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
         }
       ],
-      "duration_ms": 219281,
-      "name": "Can't Love",
-      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
+      "duration_ms": 174015,
+      "name": "New Hands/Writers Block",
+      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "LIME",
-        "url": "https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 195137,
-      "name": "LIME",
-      "url": "https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Elevator Music",
         "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 138775,
       "name": "Babybrown",
       "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "LIME",
+        "url": "https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 195137,
+      "name": "LIME",
+      "url": "https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1599,22 +1599,6 @@
       "duration_ms": 203883,
       "name": "Please",
       "url": "https://open.spotify.com/track/5ozpzvONlBPM02tapw1ue6"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "B P D",
-        "url": "https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3"
-      },
-      "artists": [
-        {
-          "name": "jena keating",
-          "url": "https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H"
-        }
-      ],
-      "duration_ms": 155389,
-      "name": "B P D",
-      "url": "https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "B P D",
+        "url": "https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3"
+      },
+      "artists": [
+        {
+          "name": "jena keating",
+          "url": "https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H"
+        }
+      ],
+      "duration_ms": 155389,
+      "name": "B P D",
+      "url": "https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "honey lemon tea",
         "url": "https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT"
       },
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Makin' You Mine/WHATCHUNEED",
-        "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
-      },
-      "artists": [
-        {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9"
-        }
-      ],
-      "duration_ms": 138916,
-      "name": "Makin' You Mine",
-      "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "26% MIXTAPE",
         "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 188368,
       "name": "Ride 2 Nowhere",
       "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Makin' You Mine/WHATCHUNEED",
+        "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
+      },
+      "artists": [
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9"
+        }
+      ],
+      "duration_ms": 138916,
+      "name": "Makin' You Mine",
+      "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Out of Style",
-        "url": "https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC"
-      },
-      "artists": [
-        {
-          "name": "Holly Munro",
-          "url": "https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Out of Style",
-      "url": "https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Negro Impacto",
         "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
       },
@@ -1803,18 +1787,34 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Took My Heart",
-        "url": "https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8"
+        "name": "Out of Style",
+        "url": "https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC"
       },
       "artists": [
         {
-          "name": "00ab",
-          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+          "name": "Holly Munro",
+          "url": "https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Took My Heart",
-      "url": "https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI"
+      "duration_ms": 164000,
+      "name": "Out of Style",
+      "url": "https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
+      },
+      "artists": [
+        {
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
     }
   ],
   "unique_name": "the night bus",

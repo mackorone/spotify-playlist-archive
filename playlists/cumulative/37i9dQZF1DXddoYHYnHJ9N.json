@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Pog\u00e1ny Indul\u00f3",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Carson Coma, Kr\u00fabi, Beton.Hofi",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -348,6 +348,28 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
+        "name": "EXT\u00c1ZIS",
+        "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
+      },
+      "artists": [
+        {
+          "name": "bongor",
+          "url": "https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD"
+        },
+        {
+          "name": "Kapit\u00e1ny M\u00e1t\u00e9",
+          "url": "https://open.spotify.com/artist/2Z3ar2v1UZV7rR8R4qZMTn"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184193,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
     },
     {
       "album": {
@@ -812,7 +834,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 182666,
       "name": "EZ AZ \u00c1RA",
       "url": "https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ"
@@ -2103,6 +2125,32 @@
     },
     {
       "album": {
+        "name": "Purgat\u00f3rium",
+        "url": "https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        },
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191687,
+      "name": "Purgat\u00f3rium",
+      "url": "https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC"
+    },
+    {
+      "album": {
         "name": "p\u00f6rk\u00f6lt",
         "url": "https://open.spotify.com/album/16DsEA2Cj7Sxon11Wfxhq3"
       },
@@ -2618,7 +2666,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 195789,
       "name": "SZ\u00cdVTIPR\u00d3",
       "url": "https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi"

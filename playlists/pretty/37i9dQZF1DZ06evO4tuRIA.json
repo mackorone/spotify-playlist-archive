@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 99852,
+  "num_followers": 99877,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAABXaJOI90QDffHob2rBscsf",
+  "snapshot_id": "aQ/ZgAAAAADXaSPsWIw/fqNhbjyoTZQ5",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 185860,
+      "name": "El Chinito",
+      "url": "https://open.spotify.com/track/7rT06fxWaVQX5pJZE7Bwgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 138432,
       "name": "Cosas De La Clica (feat. Legado 7)",
       "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 185860,
-      "name": "El Chinito",
-      "url": "https://open.spotify.com/track/7rT06fxWaVQX5pJZE7Bwgs"
     },
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 147197,
+      "name": "EL QUE LA MUEVE",
+      "url": "https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -355,22 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tito Torbellino Jr.",
+          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
         }
       ],
-      "duration_ms": 147197,
-      "name": "EL QUE LA MUEVE",
-      "url": "https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE"
+      "duration_ms": 169877,
+      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
+      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
     },
     {
       "added_at": null,
@@ -395,26 +415,6 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/48Mp7g8NKCWL2otrKdmY9m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tito Torbellino Jr.",
-          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
-        }
-      ],
-      "duration_ms": 169877,
-      "name": "Barba Negra (feat. Tito Torbellino Jr.)",
-      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Charal",
-        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "El Charal",
-      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 191652,
       "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Charal",
+        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "El Charal",
+      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
     },
     {
       "added_at": null,

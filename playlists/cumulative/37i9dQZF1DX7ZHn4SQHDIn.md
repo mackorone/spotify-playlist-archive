@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-201 songs - 10 hr 31 min
+207 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [24HRS](https://open.spotify.com/track/5aNuBrqbdJ8r9qFZHliWxR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 2:07 | 2022-07-22 | 2024-04-19 |
 | [365](https://open.spotify.com/track/0nV75BOrSyRuU11DtIhv0U) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:05 | 2022-07-15 |  |
 | [365](https://open.spotify.com/track/5J0fF2lLWE6KJMzICG8OHt) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 3:05 | 2022-07-22 | 2024-04-19 |
+| [8\-BIT HEART](https://open.spotify.com/track/4skV54Jf52iB4lZemKoJG8) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:10 | 2025-11-10 |  |
 | [Air](https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Air](https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz) | 3:14 | 2025-03-10 |  |
 | [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-15 |  |
 | [Algorhythm \- Final Ver.](https://open.spotify.com/track/3BtNCT794NeuVHMsHnAOKa) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:07 | 2025-10-10 |  |
@@ -64,10 +65,13 @@
 | [Dynamite](https://open.spotify.com/track/6qimUEOwCJJrFFKkfi1cCt) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 2:49 | 2024-01-08 | 2024-04-19 |
 | [Dynamite](https://open.spotify.com/track/74WhxNeKL5u5YrYio5pHJm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 2:49 | 2024-01-08 |  |
 | [Dynamite \(Final Ver.\)](https://open.spotify.com/track/1V2LvzaoQLD5nNebXbzc1L) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 2:49 | 2024-10-15 |  |
+| [DYT](https://open.spotify.com/track/3VpnU8Wx0DYxsc6qJrDwH8) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 2:43 | 2025-11-10 |  |
 | [Escalator](https://open.spotify.com/track/4YUqccPLmuGqGneU5Pj5lQ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:20 | 2024-01-08 |  |
 | [Escalator](https://open.spotify.com/track/73UD47tWBapeCpu1aJ2qF0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:20 | 2024-01-08 | 2024-04-19 |
 | [Escalator \(Final Ver.\)](https://open.spotify.com/track/33DiD9Pqv9loQg6Bntg73a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:20 | 2024-10-15 |  |
 | [FIVE](https://open.spotify.com/track/4up1PhmyktR9JM0fBYOF1D) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:21 | 2024-10-15 |  |
+| [Flicker](https://open.spotify.com/track/7wKUIZ0XUywSzfmnH7Wp2M) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 2:51 | 2025-11-10 |  |
+| [Focus](https://open.spotify.com/track/6TGc4ONEDJzd5872yDDIYz) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 1:28 | 2025-11-10 |  |
 | [Freaky](https://open.spotify.com/track/3lWD9ov0WZ7s0RJWFsjCAj) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL) | 2:55 | 2024-01-08 |  |
 | [Freaky](https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 2:55 | 2022-11-30 | 2024-04-19 |
 | [Free Fall](https://open.spotify.com/track/0i9lsYuXfm13smNgSRmhFx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 |  |
@@ -126,6 +130,7 @@
 | [No Biggie \- Final Ver.](https://open.spotify.com/track/1VXn6RgQNxrBCdI30cAc0j) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:00 | 2025-10-10 |  |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/4YUqGDMd1yJAa5i2ShysI6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:17 | 2022-07-22 | 2024-04-19 |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/7JSaztudhBzfGiudI1QMJl) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:17 | 2022-04-20 |  |
+| [Nocturne](https://open.spotify.com/track/3iAtpszszJ9PzFxnJmCfYF) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:14 | 2025-11-10 |  |
 | [None of My Business](https://open.spotify.com/track/4vfQRnIqR3GTERQGDS0pwZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1) | 3:22 | 2024-01-08 |  |
 | [None of My Business](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:22 | 2023-07-31 | 2024-04-19 |
 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 | 2022-07-22 | 2024-04-19 |
@@ -180,6 +185,7 @@
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb) | 3:41 | 2022-04-20 |  |
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po) | 3:41 | 2022-07-22 | 2024-04-19 |
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-30 |  |
+| [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/2CnJMXdMj1uytoZbs4MPbO) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:14 | 2024-01-08 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-08 | 2024-04-19 |
 | [UNTOUCHABLE \(Final Ver.\)](https://open.spotify.com/track/1jtfWC6YrXQPmMfj4oKZNJ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:14 | 2024-10-15 |  |

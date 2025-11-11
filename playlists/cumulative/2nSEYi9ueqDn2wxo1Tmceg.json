@@ -18237,6 +18237,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/3t4OfWaZxVoVB2cDUhNJ0U"
+      },
+      "artists": [
+        {
+          "name": "Jaime Rosso",
+          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274532,
+      "name": "Narrow View",
+      "url": "https://open.spotify.com/track/46yDCfLxon683Ln6W44UXo"
+    },
+    {
+      "album": {
         "name": "Nation Shall Speak Unto Nation",
         "url": "https://open.spotify.com/album/2N1pnqJwLvRNjyer5OJv7G"
       },

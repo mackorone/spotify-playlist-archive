@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAD+hIJK0LEJGypvpFSGQ0So",
+  "snapshot_id": "aQ/ZgAAAAACG0sGwO36v5q/ngDiYgyAP",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 189163,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 189163,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everyone's Talking!",
         "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
       },
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 177206,
-      "name": "Viva Las Vagus Nerve",
-      "url": "https://open.spotify.com/track/3CiSGl5nsSBxEY6SqZVvBQ"
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
+      "duration_ms": 177206,
+      "name": "Viva Las Vagus Nerve",
+      "url": "https://open.spotify.com/track/3CiSGl5nsSBxEY6SqZVvBQ"
     },
     {
       "added_at": null,

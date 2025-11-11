@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Dilan Balkay ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,583 likes - 122 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,573 likes - 122 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 21 | [O Kapı Kapandı](https://open.spotify.com/track/6pvgDOs4Ekl7UiF76yXEek) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H) | [O Kapı Kapandı](https://open.spotify.com/album/4eCD2ParWU9MPOsmspFXoy) | 2:52 |
 | 22 | [Tektim](https://open.spotify.com/track/3PmmPQH2fd0YEIyK6aWvzb) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [Mog](https://open.spotify.com/artist/5RkVB9oVMKGMFvH5d1fGo4) | [Tektim](https://open.spotify.com/album/2x3rypQdFGL1kApHIfU8bQ) | 2:12 |
 | 23 | [Yarım](https://open.spotify.com/track/2AKJN9zWJVdjKuZZPz8a6v) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Yarım](https://open.spotify.com/album/4RZvkdXjfmzAxjpjM2x4tW) | 2:46 |
-| 24 | [Hüsran Hepsi \- Live](https://open.spotify.com/track/2vgxAt6CzDqFl3ot7JN9Xy) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86), [Melike Özdemir](https://open.spotify.com/artist/55qumJ0wkdWWjVHtXYLjLn) | [Hüsran Hepsi \(Live\)](https://open.spotify.com/album/3FhVEgJ1Gxtfc09NisSHDj) | 3:30 |
+| 24 | [Hüsran Hepsi \- Live](https://open.spotify.com/track/2vgxAt6CzDqFl3ot7JN9Xy) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86), [Melike Özdemir](https://open.spotify.com/artist/3hM961PjWJcJsBWyoi7KyO) | [Hüsran Hepsi \(Live\)](https://open.spotify.com/album/3FhVEgJ1Gxtfc09NisSHDj) | 3:30 |
 | 25 | [ettin beni deli](https://open.spotify.com/track/32aZNmxZK8UjcKfM9iN1LJ) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1), [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P) | [ettin beni deli](https://open.spotify.com/album/2ezBAbBRQ7CrBfBb05ehLR) | 2:30 |
 | 26 | [Walk a Mile](https://open.spotify.com/track/0gspUkGOkwoGNQ7MJjEGpb) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Alex Sid](https://open.spotify.com/artist/0CUl8joEx7dJr0JibbxHWF), [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Walk a Mile](https://open.spotify.com/album/4bwdjXGVs8Ju6jleJsZIgO) | 2:58 |
 | 27 | [Bari](https://open.spotify.com/track/3kierLCVltgaO8fTs7nCZj) | [Hazar Altın](https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ) | [Bari](https://open.spotify.com/album/6q2Rh4I34ESizqabahVDKb) | 2:46 |

@@ -4809,6 +4809,28 @@
     },
     {
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
+    },
+    {
+      "album": {
         "name": "Love Like This (feat. Bella Renee)",
         "url": "https://open.spotify.com/album/7dGzCvUToPLmopmaJoCRcn"
       },
@@ -9246,7 +9268,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 150857,
       "name": "Uncaged",
       "url": "https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ"

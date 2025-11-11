@@ -1,32 +1,28 @@
 {
   "description": "Lekker  eten en lang natafelen? Daar hoort muziek bij.",
-  "num_followers": 52088,
+  "num_followers": 52106,
   "original_name": "Dinner Chill Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7J1vf7XzIGEu2XPT293ntb/PhZ",
+  "snapshot_id": "AAAAANfjaB0M6c4qm5/TBhzX7zzBWPhx",
   "tracks": [
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE"
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/3BI21PVblsUMdyNPvfjxiv"
       },
       "artists": [
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
         }
       ],
-      "duration_ms": 93741,
-      "name": "Simple Life",
-      "url": "https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls"
+      "duration_ms": 227404,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/4pyg7pmXXbG10fv10rBGE9"
     },
     {
       "added_at": "2025-11-06 23:00:04",
@@ -147,18 +143,22 @@
     {
       "added_at": "2025-11-06 23:00:04",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe"
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE"
       },
       "artists": [
         {
-          "name": "Ady Suleiman",
-          "url": "https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 229746,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS"
+      "duration_ms": 93741,
+      "name": "Simple Life",
+      "url": "https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls"
     },
     {
       "added_at": "2025-11-06 23:00:04",
@@ -179,22 +179,6 @@
       "duration_ms": 195453,
       "name": "A Way With My Heart",
       "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
-    },
-    {
-      "added_at": "2025-11-06 23:00:04",
-      "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/3BI21PVblsUMdyNPvfjxiv"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 227404,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/4pyg7pmXXbG10fv10rBGE9"
     },
     {
       "added_at": "2025-11-06 23:00:04",
@@ -375,6 +359,22 @@
       "duration_ms": 186169,
       "name": "Better Than Ever",
       "url": "https://open.spotify.com/track/2dm8fMEai4Q3CeTy46Wc8c"
+    },
+    {
+      "added_at": "2025-11-06 23:00:04",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe"
+      },
+      "artists": [
+        {
+          "name": "Ady Suleiman",
+          "url": "https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88"
+        }
+      ],
+      "duration_ms": 229746,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS"
     },
     {
       "added_at": "2025-11-06 23:00:04",

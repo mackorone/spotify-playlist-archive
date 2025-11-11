@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno",
-  "num_followers": 222519,
+  "num_followers": 222531,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGqSBsW+F4CY8HjWfeRDrEqDM3hE",
+  "snapshot_id": "AAAAAOstqHo2UqV6IwYqkXGLIxiu56lv",
   "tracks": [
     {
       "added_at": "2025-11-04 17:18:49",
@@ -47,6 +47,26 @@
     {
       "added_at": "2025-11-04 17:18:49",
       "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+    },
+    {
+      "added_at": "2025-11-04 17:18:49",
+      "album": {
         "name": "KO",
         "url": "https://open.spotify.com/album/4X4lSxXixoFEuAkUICyZMR"
       },
@@ -65,24 +85,20 @@
       "url": "https://open.spotify.com/track/2pAombGD2E4luR6lArQHCJ"
     },
     {
-      "added_at": "2025-11-04 17:18:49",
+      "added_at": "2025-11-10 22:30:24",
       "album": {
-        "name": "NOW OR NEVER",
-        "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
+        "name": "Off My Head",
+        "url": "https://open.spotify.com/album/0hYxX3wg3Lyf34Lw4jnAJh"
       },
       "artists": [
         {
-          "name": "Tkandz",
-          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
-        },
-        {
-          "name": "CXSPER",
-          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
         }
       ],
-      "duration_ms": 123428,
-      "name": "NOW OR NEVER",
-      "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+      "duration_ms": 111000,
+      "name": "Off My Head",
+      "url": "https://open.spotify.com/track/5428HTy2dqDLwQ7iDth6Lc"
     },
     {
       "added_at": "2025-11-07 05:00:51",
@@ -959,26 +975,6 @@
       "duration_ms": 114210,
       "name": "IN THE FLESH",
       "url": "https://open.spotify.com/track/4Pml3YWGV50kbYfkty80WY"
-    },
-    {
-      "added_at": "2025-11-04 17:18:49",
-      "album": {
-        "name": "Back Of My Mind (feat. Nino Paid)",
-        "url": "https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL"
-      },
-      "artists": [
-        {
-          "name": "Rockout Danny",
-          "url": "https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc"
-        },
-        {
-          "name": "Nino Paid",
-          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
-        }
-      ],
-      "duration_ms": 120765,
-      "name": "Back Of My Mind (feat. Nino Paid)",
-      "url": "https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8"
     },
     {
       "added_at": "2025-11-04 17:18:49",

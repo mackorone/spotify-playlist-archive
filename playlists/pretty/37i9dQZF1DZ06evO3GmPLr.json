@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 54724,
+  "num_followers": 54726,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAABQQ3hdqt1RtjDJu5WX7itz",
+  "snapshot_id": "aQ/ZgAAAAADxJEFbFk+e3/WdJvmGPN0g",
   "tracks": [
     {
       "added_at": null,
@@ -663,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "Satellite Business 2.0",
+        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
       },
       "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 135322,
-      "name": "you should call mum",
-      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
+      "duration_ms": 293377,
+      "name": "Satellite Business 2.0",
+      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
       "added_at": null,
@@ -695,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satellite Business 2.0",
-        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
       },
       "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 293377,
-      "name": "Satellite Business 2.0",
-      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+      "duration_ms": 135322,
+      "name": "you should call mum",
+      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
     },
     {
       "added_at": null,

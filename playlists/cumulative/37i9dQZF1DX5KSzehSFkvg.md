@@ -4,7 +4,7 @@
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-197 songs - 10 hr 36 min
+198 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Golli](https://open.spotify.com/track/2iPUpptsp5uRNMWFoAOdbH) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Golli](https://open.spotify.com/album/6LmfEw8AXNfCKGWhh24BZd) | 3:33 | 2024-02-07 | 2024-05-10 |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2023-07-07 | 2024-01-04 |
 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 | 2025-06-15 |  |
+| [Habibi](https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Habibi](https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6) | 3:03 | 2025-11-10 |  |
 | [Hada Hali Min Baadak](https://open.spotify.com/track/2lvG3rlN2hXJzien2hGU6t) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Hada Hali Min Baadak](https://open.spotify.com/album/2P5KHLfSqOKehqmB2Y8p3u) | 3:10 | 2024-04-17 | 2024-07-18 |
 | [Hak Ela Babah](https://open.spotify.com/track/3yatozm6pb25lgFGXXOKh7) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Hak Ela Babah](https://open.spotify.com/album/1gGfWC7gnNrB2I70YbACZK) | 3:15 | 2024-06-07 |  |
 | [Heeya](https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Heeya](https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX) | 3:33 | 2023-07-07 | 2024-05-03 |
@@ -146,7 +147,7 @@
 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 | 2023-08-24 | 2023-12-15 |
 | [Midaliya](https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Midaliya](https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO) | 2:33 | 2025-01-27 |  |
 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-15 | 2025-06-04 |
-| [Mon Amour](https://open.spotify.com/track/7eSOy2Wb3xE76X1u03lTQm) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mon Amour](https://open.spotify.com/album/4gpSrE8EvFGfjwEV8ILzTX) | 2:48 | 2025-08-25 |  |
+| [Mon Amour](https://open.spotify.com/track/7eSOy2Wb3xE76X1u03lTQm) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mon Amour](https://open.spotify.com/album/4gpSrE8EvFGfjwEV8ILzTX) | 2:48 | 2025-08-25 | 2025-11-11 |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-07 | 2025-01-28 |
 | [Msimima](https://open.spotify.com/track/11N0goryQf8hngeyYOz8Hw) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Msimima](https://open.spotify.com/album/0AwQgqB4VLgJlyBReOjRlQ) | 3:58 | 2024-08-16 | 2024-12-27 |
 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 | 2023-08-05 | 2025-01-21 |

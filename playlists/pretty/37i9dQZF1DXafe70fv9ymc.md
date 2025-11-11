@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,987 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,986 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intoxicated](https://open.spotify.com/track/4oFUe1dYVoxGijTx6Ybbz6) | [DOLV GVNG](https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Intoxicated](https://open.spotify.com/album/0eNSPV3zRvoPObxbIu0lrn) | 1:41 |
-| 2 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/5MmaIayf4hK7hR3hdK6Y0v) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 |
+| 2 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 |
 | 3 | [Skooby Snack](https://open.spotify.com/track/28MeLMeCVHpOyaiWWAdsax) | [Chilleaux](https://open.spotify.com/artist/1qtIAJW16IZzYa9qZKlBCw) | [Skooby Snack](https://open.spotify.com/album/7AG6Mxy9qY4OMYCPMabYJd) | 2:33 |
 | 4 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 |
 | 5 | [Slow](https://open.spotify.com/track/51vTd5iLJvD6qdZuyKXcCN) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP) | [Slow](https://open.spotify.com/album/5xNUdev3SKlyKdEtocpXaB) | 2:16 |

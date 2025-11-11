@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 299842,
+  "num_followers": 299854,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAABd+8ccCA+UYKKJXuyUkefD",
+  "snapshot_id": "aQ/ZgAAAAACg3Bh2xf/LvT51v/BGoNlM",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 238354,
-      "name": "Never Before - Remastered 2012",
-      "url": "https://open.spotify.com/track/7Hak5ai4Zs9BR4OMrPZbgH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Taste The Band: 35th Anniversary Edition",
         "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 324733,
       "name": "You Keep On Moving - 2010 Digital Remaster",
       "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 238354,
+      "name": "Never Before - Remastered 2012",
+      "url": "https://open.spotify.com/track/7Hak5ai4Zs9BR4OMrPZbgH"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 218173,
-      "name": "Gettin' Tighter - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now What ?!",
         "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 261493,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "Gettin' Tighter - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Portable Door",
-      "url": "https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 245400,
       "name": "The Gypsy - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe"
     },
     {
       "added_at": null,

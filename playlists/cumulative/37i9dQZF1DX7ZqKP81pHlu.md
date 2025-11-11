@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7ZqKP81pHlu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ZqKP81pHlu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ZqKP81pHlu)
 
-### [Hot Hits Algeria](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
+### [Hot Hit Algeria](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> The hottest 50 tracks in Algeria\. Cover: GIMS
+> Les hits du moment en Algérie.
 
-267 songs - 15 hr 59 min
+268 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 | 2024-12-23 | 2025-07-05 |
 | [Pichichi](https://open.spotify.com/track/6eyghhEYVokzeUZnYmCxjI) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/4yqsxc2ITcS7kG8dFhe58E) | 2:58 | 2025-05-22 |  |
 | [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2021-12-09 | 2022-08-06 |
+| [Qololo](https://open.spotify.com/track/5F7BK2CwSasvKaxD3278W0) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Qololo](https://open.spotify.com/album/5fm5FsSPsB0G5VwxYV6TGJ) | 4:00 | 2025-11-10 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-26 | 2024-08-29 |
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-01-30 | 2024-02-20 |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 | 2022-11-25 |

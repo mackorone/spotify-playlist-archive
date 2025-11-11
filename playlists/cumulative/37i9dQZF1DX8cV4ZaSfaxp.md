@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-394 songs - 1 day 0 hr 13 min
+397 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 | 2022-05-11 |  |
 | [It's Beautiful](https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Part.03](https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC) | 3:54 | 2022-07-22 | 2024-04-19 |
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-05-11 | 2022-07-29 |
-| [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 | 2022-05-11 |  |
+| [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 | 2022-05-11 | 2025-11-11 |
 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 | 2024-02-07 |  |
 | [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2022-05-11 | 2025-05-09 |
 | [Jam Jam](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:38 | 2022-05-11 |  |
@@ -256,6 +256,7 @@
 | [Number 1](https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:22 | 2022-07-22 | 2024-04-19 |
 | [Number 1](https://open.spotify.com/track/2GGzUBEJE1dN2PHrf7neS7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn) | 3:22 | 2022-05-11 | 2022-07-17 |
 | [Oh! my mistake](https://open.spotify.com/track/396Dkg9z5Q1hXxKryeP9T8) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 6th Mini Album 'the Ruby'](https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5) | 3:25 | 2022-05-11 |  |
+| [Once again, With you](https://open.spotify.com/track/31zBA8IjlBAcO261hgEtcV) | [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [Typhoon Family, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3t10HzKUKgOls7N5MRKgv0) | 3:34 | 2025-11-10 |  |
 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 | 2022-07-22 |  |
 | [One more step](https://open.spotify.com/track/3uvPmJmPN7w79yV8yq4UMc) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [One more step](https://open.spotify.com/album/6q8taEXgflgR9HlcwRgc4z) | 3:10 | 2025-05-01 | 2025-07-17 |
 | [ONE THING](https://open.spotify.com/track/1oXhoLpaiz77Gv2K4BhADJ) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [loveletters](https://open.spotify.com/album/3u179JE30IBPPUPuyDcH1O) | 3:56 | 2025-08-19 |  |
@@ -351,11 +352,11 @@
 | [Venus](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-07-22 | 2023-06-03 |
 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 | 2023-05-05 | 2024-04-19 |
 | [Venus 샛별](https://open.spotify.com/track/0jPTHhBv2teXdzPdA1fudj) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/0QjW6YvhLtV4BQGWiIX4ZP) | 3:32 | 2022-05-11 | 2022-07-29 |
-| [Virtual World](https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD) | 3:24 | 2025-04-24 |  |
+| [Virtual World](https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD) | 3:24 | 2025-04-24 | 2025-11-11 |
 | [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 | 2022-05-11 | 2022-07-29 |
 | [Vivid LaLa Love](https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 4:00 | 2025-07-17 |  |
 | [Want U 2 Know](https://open.spotify.com/track/2GVjWKUdmJIpdHFQQt9NLv) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Want U 2 Know](https://open.spotify.com/album/0bO9A3V6xf4LFqwFSB7XWY) | 4:13 | 2025-02-14 | 2025-09-15 |
-| [What's Your Number?](https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [What's Your Number? \- The 2nd Mini Album](https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC) | 4:00 | 2024-04-19 |  |
+| [What's Your Number?](https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [What's Your Number? \- The 2nd Mini Album](https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC) | 4:00 | 2024-04-19 | 2025-11-11 |
 | [What′re you doing tonight?](https://open.spotify.com/track/7yNjqinAMvuduSc5q99ePd) | [Minyoung](https://open.spotify.com/artist/0gU1NkYObAFL1pPgubu0IG) | [What're you doing tonight? \(Minyoung X Blooming project\)](https://open.spotify.com/album/4mcCilXiRvmf5z78w06NyU) | 3:11 | 2025-07-10 |  |
 | [When My Loneliness Calls You](https://open.spotify.com/track/1wV9pJyx8kCoB20nbRI3R5) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/33o1YsuLhGhY1HCq6TKd9X) | [When My Loneliness Calls You \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/2H4grijt12bvvaeJyLcXCc) | 4:17 | 2022-05-11 | 2022-07-29 |
 | [When My Loneliness Calls You](https://open.spotify.com/track/2HHs3WKouTsJ3pGo5gex3N) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [When My Loneliness Calls You \(From the Original TV Show "Live On"\)](https://open.spotify.com/album/2xpPQeBzdd2ovQpBnAYV37) | 4:17 | 2023-11-02 | 2024-04-19 |
@@ -367,6 +368,7 @@
 | [Wind City](https://open.spotify.com/track/17gHQaszg7Vd3tHlDvrmct) | [KOTA](https://open.spotify.com/artist/7kZaaITisrihxnkPrde7pc) | [Wind City](https://open.spotify.com/album/5BPfuiBxUjMFJCpYrmBDms) | 3:33 | 2025-07-03 | 2025-08-07 |
 | [With The Star](https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP) | 3:32 | 2022-07-22 | 2024-04-19 |
 | [With The Star](https://open.spotify.com/track/6VnJgvlgo77jyLusb0GIfh) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/0VtXOyIh7WJCKBe3KbRch8) | 3:32 | 2022-05-11 | 2022-07-29 |
+| [Without you](https://open.spotify.com/track/5de0pxWa2xBa30kivRyCNI) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Called Love](https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD) | 4:30 | 2025-11-10 |  |
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2022-07-22 | 2024-04-19 |
 | [Wonder](https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:55 | 2022-05-11 | 2022-07-29 |
 | [Wonder Woman](https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [RE\_vive](https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h) | 3:52 | 2022-05-11 | 2025-03-04 |
@@ -402,5 +404,6 @@
 | [지켜줄게](https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ) | 3:44 | 2025-06-26 |  |
 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 | 2022-09-05 | 2023-10-05 |
 | [트리트먼트](https://open.spotify.com/track/5Myuon0t8Z4nvlynUaXj64) | [박세웅](https://open.spotify.com/artist/0qsmcnZcse4RGtukiCpvgQ) | [트리트먼트](https://open.spotify.com/album/5l2AccjDSZ93NNqwjH64E1) | 3:17 | 2025-05-30 | 2025-06-05 |
+| [﻿Love Recycle \(Hyunyeop SOLO\)](https://open.spotify.com/track/0TyUSUYotYKGekdym6DgRR) | [IN A MINUTE](https://open.spotify.com/artist/1dFT7PlmS2C1aKLWO8ZZDq) | [Monthly MINUTE Vol\. 4](https://open.spotify.com/album/271ZlCo8P484WTWtynAjSQ) | 2:50 | 2025-11-10 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97118,
+  "num_followers": 97132,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAADCLrxvtAEWHv3aXdMUcF/n",
+  "snapshot_id": "aQ/ZgAAAAADLpcUSY0QHGGwGa3kyy1Az",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 358086,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuan Grande Es el",
         "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 284383,
       "name": "Cuan Grande Es el",
       "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 358086,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proyecto AA",
+        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 268565,
+      "name": "Quiero Levantar mis Manos",
+      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Primero Nos Am\u00f3",
         "url": "https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 355417,
       "name": "\u00c9l Siempre Reina",
       "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proyecto AA",
-        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 268565,
-      "name": "Quiero Levantar mis Manos",
-      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 306599,
       "name": "Cristo es Mi Se\u00f1or",
       "url": "https://open.spotify.com/track/2xPa83ocADIZydAdeB9M6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
     },
     {
       "added_at": null,
@@ -919,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
       "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 93254,
-      "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
+      "duration_ms": 227291,
+      "name": "Ll\u00e9name Se\u00f1or",
+      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
     }
   ],
   "unique_name": "This Is Marcos Witt",

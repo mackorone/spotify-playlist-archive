@@ -491,6 +491,52 @@
     },
     {
       "album": {
+        "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/6WN60ZpoljxxwYluAGxvqn"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        },
+        {
+          "name": "Charanjit Ahuja",
+          "url": "https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj"
+        },
+        {
+          "name": "Muhammad Sadiq",
+          "url": "https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD"
+        },
+        {
+          "name": "Ranjit Kaur",
+          "url": "https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY"
+        },
+        {
+          "name": "Babu Singh Maan",
+          "url": "https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155590,
+      "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -2968,7 +3014,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 175448,
       "name": "Zaroor",
       "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"

@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 83 | [Easy](https://open.spotify.com/track/6BuIFQSbCEXftXMEmJZ4gb) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic \(Play Hard Edition\)](https://open.spotify.com/album/2wxjqSACJVvxCe09Id9JjC) | 3:51 |
 | 84 | [California Winter](https://open.spotify.com/track/2akuQ9Xn81ItF0WmkdH1TJ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [California Winter](https://open.spotify.com/album/4DJNjsg51k5nCZN4vQNfOV) | 4:05 |
 | 85 | [Hot City](https://open.spotify.com/track/4DIvT0zt7SZV8IrR1kgIaE) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 |
-| 86 | [Thorns \- Le Youth Remix](https://open.spotify.com/track/4HjsqdrnECxrXpbn4Zh0SD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Thorns \(Le Youth Remix\)](https://open.spotify.com/album/1fqUEBjfJ12J4lZqWrSyxo) | 3:55 |
-| 87 | [Play With Fire](https://open.spotify.com/track/0hsKN2eNws8lHL7h3Pdof6) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:56 |
+| 86 | [Play With Fire](https://open.spotify.com/track/0hsKN2eNws8lHL7h3Pdof6) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:56 |
+| 87 | [Thorns \- Le Youth Remix](https://open.spotify.com/track/4HjsqdrnECxrXpbn4Zh0SD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Thorns \(Le Youth Remix\)](https://open.spotify.com/album/1fqUEBjfJ12J4lZqWrSyxo) | 3:55 |
 | 88 | [Guyliner, Pt\. 2](https://open.spotify.com/track/2kALtFWOzG7iHhm8EQmLmD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 2:45 |
 | 89 | [Slay](https://open.spotify.com/track/7Hp2t5OemFEaAErohHYo4t) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 |
 | 90 | [Wasted Youth](https://open.spotify.com/track/4NPmLPLdVys0TtrsUUVGRo) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic \(Play Hard Edition\)](https://open.spotify.com/album/2wxjqSACJVvxCe09Id9JjC) | 4:09 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 144 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 | 145 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 
-Snapshot ID: `AcBKCAAAAAAQWCrPrKE+gRBUOY3j1Nc+`
+Snapshot ID: `AcBPqAAAAAAge96PB9CpnjioaFFAjlYl`

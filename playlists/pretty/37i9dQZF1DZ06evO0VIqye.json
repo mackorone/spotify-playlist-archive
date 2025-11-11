@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAABmG1fKf1daXJvx0kqriqAI",
+  "snapshot_id": "aQ/ZgAAAAAAPkULT8fam9bLxATMrMqnC",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Demento Covered In Punk",
-        "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 234795,
-      "name": "Science Fiction/Double Feature",
-      "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hit List",
         "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 186600,
       "name": "Love Me Two Times",
       "url": "https://open.spotify.com/track/6HVTLhDdLmBabm7dRtIoaC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dr. Demento Covered In Punk",
+        "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 234795,
+      "name": "Science Fiction/Double Feature",
+      "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -599,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9"
       },
       "artists": [
         {
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 182413,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 143360,
       "name": "Let's Do It - O.S.T.",
       "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Sessions",
-        "url": "https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 173853,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi"
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 173960,
       "name": "Tulane",
       "url": "https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "I Love Playin' With Fire",
-      "url": "https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ"
     },
     {
       "added_at": null,

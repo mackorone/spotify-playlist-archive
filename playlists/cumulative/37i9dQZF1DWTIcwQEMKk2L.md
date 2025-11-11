@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-200 songs - 9 hr 25 min
+202 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,10 @@
 | [A New Era](https://open.spotify.com/track/7JkKc9FMZnuv1ZgZiMfkKq) | [Zoe Chambers](https://open.spotify.com/artist/08QwhHz0qhZmyySexOOLZd) | [Healing Waves](https://open.spotify.com/album/1qV9uz5AkWRaTe7F5j42vm) | 1:58 | 2023-11-20 | 2024-01-09 |
 | [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2023-12-04 |  |
 | [A Place Like This](https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [A Place Like This](https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy) | 2:01 | 2023-11-20 |  |
+| [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 | 2025-11-10 |  |
 | [Adagietto](https://open.spotify.com/track/6PBCzLB9IiyA6kM6Q3nO5x) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sebastian Knauer](https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh) | [Adagietto \(Matthew Herbert Mediterranean Dub\)](https://open.spotify.com/album/4EzUGS9EkHAxmAKhhErNkE) | 2:22 | 2023-11-20 | 2024-04-19 |
 | [After You've Gone](https://open.spotify.com/track/7L6SNhwfH1udIMpVztf9W6) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [After You've Gone](https://open.spotify.com/album/4ikGPo4qyBDG5f9uAPgO4N) | 3:00 | 2025-02-03 | 2025-10-16 |
-| [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2025-02-03 |  |
+| [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2025-02-03 | 2025-11-11 |
 | [All The Things You Are](https://open.spotify.com/track/5fPAnIAbiZlIeBtEjJ30yU) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [All The Things You Are](https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU) | 2:54 | 2025-02-24 | 2025-10-24 |
 | [Almost Like Being In Love](https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Almost Like Being In Love](https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB) | 3:36 | 2025-02-24 | 2025-08-17 |
 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2024-04-08 | 2024-05-13 |
@@ -55,7 +56,7 @@
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2023-11-20 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-11-20 | 2025-04-13 |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2024-07-29 |  |
-| [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2025-10-20 |  |
+| [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2025-10-20 | 2025-11-11 |
 | [Deck the Halls](https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Deck the Halls \~ Solo Piano Christmas](https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2) | 3:40 | 2024-12-09 | 2025-01-31 |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2025-10-20 |  |
 | [Disconnect](https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD) | [Alice Frohde](https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe) | [Disconnect](https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4) | 2:34 | 2023-12-11 |  |
@@ -99,6 +100,7 @@
 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 | 2024-07-01 | 2024-08-13 |
 | [Interconnectivity](https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S) | [Sigríður](https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT) | [Interconnectivity](https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY) | 1:43 | 2023-11-20 | 2024-02-08 |
 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2023-11-20 |  |
+| [Jeremy and Maureen](https://open.spotify.com/track/7ISwUxOAvFJhIM7Q9c1mcu) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Jeremy and Maureen](https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf) | 3:24 | 2025-11-10 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 4:13 | 2023-11-20 | 2024-08-14 |
 | [Kiss the Rain](https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Chris Snelling](https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp) | [Kiss the Rain](https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp) | 2:50 | 2023-11-20 |  |
 | [Kleine Forelle](https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 1:58 | 2023-12-04 |  |

@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "blackout blackout",
+        "url": "https://open.spotify.com/album/3EtoJYgBedcyTzFtOSipbe"
+      },
+      "artists": [
+        {
+          "name": "all things break",
+          "url": "https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138955,
+      "name": "blackout blackout",
+      "url": "https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ"
+    },
+    {
+      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },

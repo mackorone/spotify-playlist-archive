@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 17813,
+  "num_followers": 17816,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAC0ktPwxtFzsr/Elsw8J6Cf",
+  "snapshot_id": "aQ/ZgAAAAABwQyNikv1KMFER0I/j2w1q",
   "tracks": [
     {
       "added_at": null,
@@ -255,38 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hat Town",
-        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Hat Town - Remastered 2017",
-      "url": "https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Leave Him in the Longyard - Remastered 2017",
-      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spirit of the Anzacs",
         "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
@@ -319,6 +287,38 @@
       "duration_ms": 233293,
       "name": "Spirit of the Anzacs",
       "url": "https://open.spotify.com/track/2gxV3aK7K1RYZ50rQkfqpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Hat Town - Remastered 2017",
+      "url": "https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Leave Him in the Longyard - Remastered 2017",
+      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Southern Son - Remastered 2017",
+      "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Is Coming To Town",
         "url": "https://open.spotify.com/album/64oRoi0CXSpMDtXYLL5rlI"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 169160,
       "name": "Country Is Coming To Town",
       "url": "https://open.spotify.com/track/1Vzthm0II4q351e5rMQ5Jy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Southern Son - Remastered 2017",
-      "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 240834,
-      "name": "Outback Club Reunion",
-      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 201666,
       "name": "Scrubbashin' - Remastered 2017",
       "url": "https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Outback Club Reunion",
+      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
     },
     {
       "added_at": null,

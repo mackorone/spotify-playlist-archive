@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 61987,
+  "num_followers": 61998,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAAHQ+imjFq7cARNhxUPBWE",
+  "snapshot_id": "aQ/ZgAAAAAD9t2haFzUjPGSeRcaNjusg",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pinky",
-        "url": "https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD"
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 185615,
-      "name": "El Pinky",
-      "url": "https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ"
+      "duration_ms": 203293,
+      "name": "Fuga Pa' Cali - En Vivo",
+      "url": "https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0"
     },
     {
       "added_at": null,
@@ -307,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Fuga Pa' Cali - En Vivo",
-      "url": "https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pong\u00e1monos de Acuerdo",
         "url": "https://open.spotify.com/album/3aUyCfkToMeF5JTFpHhogK"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 188373,
       "name": "Pong\u00e1monos De Acuerdo",
       "url": "https://open.spotify.com/track/24AQa9DkSsiRILa2se6Mht"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pinky",
+        "url": "https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 185615,
+      "name": "El Pinky",
+      "url": "https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 179583,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU"
+      "duration_ms": 170965,
+      "name": "Triste Historia",
+      "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 170965,
-      "name": "Triste Historia",
-      "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
+      "duration_ms": 179583,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4tOXIb6w4jG6SOeGJnUAWU"
     },
     {
       "added_at": null,

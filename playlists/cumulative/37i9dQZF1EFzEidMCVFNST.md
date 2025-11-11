@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-546 songs - 1 day 1 hr 59 min
+548 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Maria Santinha \- Ao Vivo](https://open.spotify.com/track/3xup1CZkcgcKhnTko6IVZO) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Garota Vip Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/497c9omVEZEWxg5YcczG2g) | 2:46 | 2024-01-29 |  |
 | [Marque Alguém \- Ao Vivo](https://open.spotify.com/track/5EQP15IuWB6lncatia3yGo) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Marque Alguém \(Ao Vivo\)](https://open.spotify.com/album/5mImZWnI58Aedwg81ZzQS1) | 2:57 | 2024-01-29 |  |
 | [Maturidade \(feat\. Matheus & Kauan\)](https://open.spotify.com/track/64ePZsgVWO1zRVpHxY2VYC) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Naturalmente](https://open.spotify.com/album/7bDfs6Kve80q3rNgBJ0vff) | 3:13 | 2024-01-29 |  |
+| [Me Adota](https://open.spotify.com/track/2DVrvB0uDNmuv1Y3mTFHts) | [Vitória Pontes](https://open.spotify.com/artist/6F6zrhvcRF0CmaQ5PhUpPq) | [Me Adota](https://open.spotify.com/album/7sC4PvUNFGaW2hOw9yIC4O) | 2:44 | 2025-11-10 |  |
 | [Me Amou Chorando](https://open.spotify.com/track/3hVSmyeH8lDL9HhN7FNzNR) | [Os Parazim](https://open.spotify.com/artist/0jhNzTzC1CZaf2FFgBVCMT), [Thiago e Samuel](https://open.spotify.com/artist/47G1BLjQOWOwr75duaf1QC) | [O Som do Bbq](https://open.spotify.com/album/0fA0R1ExXdUoI2lg5TPdaL) | 2:58 | 2024-01-29 |  |
 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 | 2025-05-31 |  |
 | [Me Ensina a Ser Você](https://open.spotify.com/track/67mrOxtl1CvCEIlUlVXkiq) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 3:24 | 2025-03-29 |  |
@@ -357,7 +358,8 @@
 | [Pode Beber](https://open.spotify.com/track/6f34JbYoEID5lpSm0b9oTq) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Pode Beber](https://open.spotify.com/album/4tyMJKJZMllDDV1wT9cqD8) | 3:00 | 2024-01-29 |  |
 | [Por Baixo dos Panos](https://open.spotify.com/track/5L9Y610Shi3MpcOgNDIpuq) | [Katia Cilene](https://open.spotify.com/artist/73Tzk23OwTSl6b3cUwWQrZ), [Simone e Simaria](https://open.spotify.com/artist/0wO1j9BcD3SWfSJ14ySbvy) | [Por Baixo dos Panos](https://open.spotify.com/album/70QKTMz79m4CaS83oxsBAn) | 3:20 | 2024-01-29 |  |
 | [Por Mim Eu Te Deixava Agora \- Ao Vivo](https://open.spotify.com/track/3Z9YJd5bdrxRVWWFDcFOPW) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [\#Trintou \(Ao Vivo\)](https://open.spotify.com/album/6C8HEltnMup1vEJf7sOZEg) | 2:34 | 2024-01-29 |  |
-| [Por Que Foi Embora?](https://open.spotify.com/track/5YeuTsYnUo1ZrswdC3axSO) | [Luis Marcelo e Gabriel](https://open.spotify.com/artist/0DBu2G8PTvpM6uvMrnnS5B) | [Por Que Foi Embora?](https://open.spotify.com/album/7rqihOS33BO68TQeXCH7bd) | 2:59 | 2024-01-29 |  |
+| [Por Que Foi Embora](https://open.spotify.com/track/38eR4krvao8M74gRZjffkc) | [Rick Rocha](https://open.spotify.com/artist/4feibzRriTTJaeEgsGs7v0) | [Tudo Eu](https://open.spotify.com/album/1CiyVAVMnOwztEPhOgiU8G) | 2:55 | 2025-11-10 |  |
+| [Por Que Foi Embora?](https://open.spotify.com/track/5YeuTsYnUo1ZrswdC3axSO) | [Luis Marcelo e Gabriel](https://open.spotify.com/artist/0DBu2G8PTvpM6uvMrnnS5B) | [Por Que Foi Embora?](https://open.spotify.com/album/7rqihOS33BO68TQeXCH7bd) | 2:59 | 2024-01-29 | 2025-11-11 |
 | [Porra Loka \- Ao Vivo](https://open.spotify.com/track/0W20DJYFBaL6UlttxM2U6e) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [GG Astral \(Ao Vivo\)](https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL) | 2:40 | 2024-01-29 | 2025-06-28 |
 | [Pra Fazer Ciúme](https://open.spotify.com/track/2F1Q6ErXyO3nZfxASlFXkV) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Made In Studio](https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV) | 2:20 | 2024-01-29 | 2025-06-28 |
 | [Pra Fazer Ciúmes](https://open.spotify.com/track/5DdgXA3qkKkG7SwXGA1SMS) | [Jenny Ribeiro](https://open.spotify.com/artist/4l6IjRWjYxmJUCZhFkVoYs) | [Jenny Ribeiro](https://open.spotify.com/album/43IZe8bBl72CMSdqlzqtJC) | 2:24 | 2025-06-27 |  |

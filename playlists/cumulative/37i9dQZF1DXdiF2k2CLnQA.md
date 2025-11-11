@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige!
 
-397 songs - 1 day 1 hr 6 min
+398 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 | 2024-06-27 | 2025-03-28 |
 | [Parasite](https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [THE DAY WE LEFT EARTH](https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL), [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Parasite](https://open.spotify.com/album/6m99BaJU8IxfWcfqPGRZwu) | 3:16 | 2024-06-27 | 2024-09-20 |
 | [Parting Ways](https://open.spotify.com/track/02z82YXVP6bQlIUt7r3gK5) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Parting Ways](https://open.spotify.com/album/0lQzY4FbjBmUeOWceO268U) | 4:58 | 2025-08-14 | 2025-09-26 |
-| [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 | 2025-04-23 |  |
+| [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 | 2025-04-23 | 2025-11-11 |
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 | 2025-09-05 |
 | [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 | 2024-06-27 | 2025-04-12 |
 | [Pink Fang](https://open.spotify.com/track/6N2OH7MKytiW3YZ3GqQGOv) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Pink Fang](https://open.spotify.com/album/48xvECMQfRGH7se6T7fXB1) | 4:03 | 2024-08-22 | 2024-09-20 |
@@ -276,6 +276,7 @@
 | [Running to You](https://open.spotify.com/track/65Rl7g8LMrODfPQoofsepx) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Running to You](https://open.spotify.com/album/5ALki6UvIzJh0velsJFYQn) | 3:03 | 2025-04-03 | 2025-04-25 |
 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-08 |  |
 | [San Antonio](https://open.spotify.com/track/7JkuYydpzSlK7MYEFvOzCY) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [San Antonio](https://open.spotify.com/album/6POggEzmQS7Egbc8JGAAwS) | 3:03 | 2024-06-27 | 2024-09-27 |
+| [Satanized](https://open.spotify.com/track/2EBZGiYYeIvoaAIHfVsPpn) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/37a1ehu3HGYPA07QFvWIsL) | 3:56 | 2025-11-10 |  |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-05 | 2025-08-22 |
 | [SAVIOR](https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [SAVIOR](https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS) | 3:06 | 2025-06-26 |  |
 | [Say](https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Say](https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM) | 4:22 | 2024-06-27 | 2025-03-14 |

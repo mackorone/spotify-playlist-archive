@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 173948,
+  "num_followers": 173957,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAACVTfrf/y+FXmDEaiFNsEpZ",
+  "snapshot_id": "aQ/ZgAAAAADco/1xXfD8bOjOMnOHEwDT",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Sexo Seguro",
+      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 270173,
       "name": "No Me Digas Que No",
       "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome To The Jungle",
-        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
-      },
-      "artists": [
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Sexo Seguro",
-      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
     },
     {
       "added_at": null,
@@ -863,30 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/69cVjPP0763yVDKiD0ZM49"
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
       },
       "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 293010,
-      "name": "S\u00e1cala (feat. Don Omar, Wisin & Yandel)",
-      "url": "https://open.spotify.com/track/2Y3jTsgosYHgOu9lVAskIe"
+      "duration_ms": 237613,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
     },
     {
       "added_at": null,
@@ -919,18 +907,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/69cVjPP0763yVDKiD0ZM49"
       },
       "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 237613,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
+      "duration_ms": 293010,
+      "name": "S\u00e1cala (feat. Don Omar, Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/2Y3jTsgosYHgOu9lVAskIe"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Peach PRC
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,856 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,846 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
-| 2 | [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:49 |
-| 3 | [Miss Erotica](https://open.spotify.com/track/5PNy5elvtxQgYtossfpgAI) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Miss Erotica](https://open.spotify.com/album/4RCODSJEhuEtzxYai4toJa) | 2:30 |
+| 2 | [Miss Erotica](https://open.spotify.com/track/5PNy5elvtxQgYtossfpgAI) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Miss Erotica](https://open.spotify.com/album/4RCODSJEhuEtzxYai4toJa) | 2:30 |
+| 3 | [Princess](https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:49 |
 | 4 | [Witch Girls](https://open.spotify.com/track/04r8e5IkAdbx9IMsNxOzxw) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Witch Girls](https://open.spotify.com/album/4zawFBREDalsNtgTzeN6uA) | 3:18 |
 | 5 | [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 |
 | 6 | [Zombie Party](https://open.spotify.com/track/71xsHrR1H4YcPbaC1N4koZ) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Zombie Party](https://open.spotify.com/album/1WcwMWbAggW9ypBh8tx4C7) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [That Girl](https://open.spotify.com/track/3U2Eq3SqlaWDmiu0VoAHd7) | [CHEZ](https://open.spotify.com/artist/5rhwlOO02xIKEdJmpJqSaE), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [That Girl](https://open.spotify.com/album/2NtYZMOTCvpdgKLUxlXUOU) | 2:22 |
 | 100 | [Friends Don't](https://open.spotify.com/track/2N970NvTMrHQ1iqN4Aot8k) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Friends Don’t](https://open.spotify.com/album/13ccJsUECBGoRAm2xdTvuC) | 3:24 |
 
-Snapshot ID: `AAAAAL9BGGxKSp+YnBuRTmfnmbQwLx6i`
+Snapshot ID: `AAAAAHmydKgrrCK9d4hHwL0+ZmSyJqSC`

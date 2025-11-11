@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 261040,
+  "num_followers": 261100,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
       },
       "artists": [
         {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -271,22 +287,6 @@
       "duration_ms": 287459,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
-        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
-        }
-      ],
-      "duration_ms": 290453,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Nuestro Aniversario",
         "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 261893,
       "name": "Trampol\u00edn",
       "url": "https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
+        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 278986,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Voy Pa'Encima",
         "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 287120,
       "name": "Desn\u00fadate Mujer",
       "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 278986,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -862,15 +862,11 @@
         {
           "name": "Los Titanes",
           "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        },
-        {
-          "name": "\u00d3scar Quesada",
-          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
         }
       ],
-      "duration_ms": 262613,
-      "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
+      "duration_ms": 263400,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -946,11 +942,15 @@
         {
           "name": "Los Titanes",
           "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4"
+      "duration_ms": 262613,
+      "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Simplemente... Lalo",
-        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "M\u00e1ximo Chamorro",
-      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "30 Aniversario (Live)",
         "url": "https://open.spotify.com/album/4FHR7P1D6uhf148S04Yt70"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 509080,
       "name": "Somos El Son - Live",
       "url": "https://open.spotify.com/track/1ymo6FkA5gdi9SXI5xBp5h"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Simplemente... Lalo",
+        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "M\u00e1ximo Chamorro",
+      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
+      },
+      "artists": [
+        {
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
+        }
+      ],
+      "duration_ms": 321706,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 332253,
-      "name": "Dejame Sentirte",
-      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "De Costa a Costa",
         "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
       },
@@ -1171,18 +1171,34 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
       },
       "artists": [
         {
-          "name": "Viti Ruiz",
-          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 321706,
-      "name": "Caricias Prohibidas",
-      "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
+      "duration_ms": 332253,
+      "name": "Dejame Sentirte",
+      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+      "duration_ms": 313533,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
     }
   ],
   "unique_name": "Salsa: Los '80",

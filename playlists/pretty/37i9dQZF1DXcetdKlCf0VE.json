@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 29547,
+  "num_followers": 29562,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,30 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
+        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+        },
+        {
+          "name": "Estonian National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3wnm0pkc0sPfV7UI2xlZlW"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Sibelius: Pell\u00e9as et M\u00e9lisande Suite, Op. 46: I. At the Castle Gate",
+      "url": "https://open.spotify.com/track/13Uork2qBOzuqWbjtAqfCp"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Colin Davis conducts Sibelius",
         "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
       },
@@ -356,30 +380,6 @@
           "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
         },
         {
-          "name": "Estonian National Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3wnm0pkc0sPfV7UI2xlZlW"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Sibelius: Pell\u00e9as et M\u00e9lisande Suite, Op. 46: I. At the Castle Gate",
-      "url": "https://open.spotify.com/track/13Uork2qBOzuqWbjtAqfCp"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
-        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Paavo J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
-        },
-        {
           "name": "Royal Stockholm Philharmonic Orchestra",
           "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
         }
@@ -387,30 +387,6 @@
       "duration_ms": 879960,
       "name": "Sibelius: Night Ride and Sunrise, Op. 55",
       "url": "https://open.spotify.com/track/4Dfc82tm87LrXao1kTryrc"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Sibelius Symphonies No 4 & 6",
-        "url": "https://open.spotify.com/album/1PTjXCHlzdVev7qZrsW1xK"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        },
-        {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
-        }
-      ],
-      "duration_ms": 766933,
-      "name": "Symphony No.4 in A Minor, Op. 63: III. Il tempo largo",
-      "url": "https://open.spotify.com/track/0MlZNthCGTUf2tn5NzdJY4"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -435,6 +411,30 @@
       "duration_ms": 581066,
       "name": "Symphony No. 4 in A Minor, Op. 63: I. Tempo molto moderato, quasi adagio",
       "url": "https://open.spotify.com/track/0XhydK0yl8bGwCFiBJtqlU"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Sibelius Symphonies No 4 & 6",
+        "url": "https://open.spotify.com/album/1PTjXCHlzdVev7qZrsW1xK"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+        }
+      ],
+      "duration_ms": 766933,
+      "name": "Symphony No.4 in A Minor, Op. 63: III. Il tempo largo",
+      "url": "https://open.spotify.com/track/0MlZNthCGTUf2tn5NzdJY4"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -483,30 +483,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Sibelius: Songs",
-        "url": "https://open.spotify.com/album/1t9yxMlQZM7nOYClXz7Aqs"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Tom Krause",
-          "url": "https://open.spotify.com/artist/0uRyoGMnJfoX8u1vDScXkk"
-        },
-        {
-          "name": "Irwin Gage",
-          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
-        }
-      ],
-      "duration_ms": 108133,
-      "name": "Segelfahrt (Under Sail)",
-      "url": "https://open.spotify.com/track/71AD2BFesI6fQcHzhuaaWs"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Suite for Violin and String Orchestra, Js 185 (Live)",
         "url": "https://open.spotify.com/album/77smjWFvvpixNL5HSWzieK"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 288000,
       "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
       "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Sibelius: Songs",
+        "url": "https://open.spotify.com/album/1t9yxMlQZM7nOYClXz7Aqs"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Tom Krause",
+          "url": "https://open.spotify.com/artist/0uRyoGMnJfoX8u1vDScXkk"
+        },
+        {
+          "name": "Irwin Gage",
+          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
+        }
+      ],
+      "duration_ms": 108133,
+      "name": "Segelfahrt (Under Sail)",
+      "url": "https://open.spotify.com/track/71AD2BFesI6fQcHzhuaaWs"
     },
     {
       "added_at": "2025-09-15 14:00:16",

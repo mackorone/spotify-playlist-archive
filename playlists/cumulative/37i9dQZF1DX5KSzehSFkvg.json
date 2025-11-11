@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        },
+        {
+          "name": "Salma Rachid",
+          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh"
+    },
+    {
+      "album": {
         "name": "Hada Hali Min Baadak",
         "url": "https://open.spotify.com/album/2P5KHLfSqOKehqmB2Y8p3u"
       },
@@ -2600,7 +2622,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 168000,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/7eSOy2Wb3xE76X1u03lTQm"

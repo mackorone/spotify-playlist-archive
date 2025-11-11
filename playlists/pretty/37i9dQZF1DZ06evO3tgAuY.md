@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,361 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 24 | [Mi Credo](https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mi Credo](https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY) | 2:07 |
 | 25 | [Humildemente](https://open.spotify.com/track/4sfU8na5xesLs1ugBKPcqd) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [De Frente](https://open.spotify.com/album/6LB9ZA7fkWD1pwzTjcCRwV) | 1:58 |
 | 26 | [El Pariente \- En Vivo](https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5) | [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Levemente Live Sessions](https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh) | 2:57 |
-| 27 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 |
-| 28 | [Tonto](https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Tonto](https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo) | 3:06 |
+| 27 | [Tonto](https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Tonto](https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo) | 3:06 |
+| 28 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 |
 | 29 | [Será](https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Doña Soledad](https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W) | 2:43 |
 | 30 | [Richie Rich \- En Vivo](https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Richie Rich \(En Vivo\)](https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi) | 2:52 |
 | 31 | [MASARYK](https://open.spotify.com/track/0fkG4rtHfDCc4RBspkiBgp) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [MASARYK / BIEN PEDO](https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW) | 3:10 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 39 | [Bsod3](https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Bsod3](https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx) | 3:14 |
 | 40 | [Nadie Lo Hubiera Pensado](https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Nadie Lo Hubiera Pensado](https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ) | 2:29 |
 | 41 | [Pa Que Hablen De Verdad](https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 3:03 |
-| 42 | [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 |
-| 43 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
-| 44 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
+| 42 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
+| 43 | [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 |
+| 44 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
 | 45 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
 | 46 | [No Te He Podido Olvidar](https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Clave A](https://open.spotify.com/artist/7sDgy88uLtmmYMwL0fyVcu) | [No Te He Podido Olvidar](https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv) | 3:38 |
 | 47 | [El Marin](https://open.spotify.com/track/5anAtF4GsmsWMeZ1z4HVkg) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/4eASAZRdq38xNSpvPnJULX) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 49 | [El Dragon](https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jordin Sandoval](https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:25 |
 | 50 | [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 |
 
-Snapshot ID: `aQ6IAAAAAAC/x7YvcYEtJTlerW/nn8NR`
+Snapshot ID: `aQ/ZgAAAAABdNPOu8Kl5AbkStc2b7aXL`

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Pogány Induló
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Carson Coma, Krúbi, Beton.Hofi
 
-155 songs - 7 hr 42 min
+157 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 | 2024-12-02 | 2025-05-06 |
 | [BE VAGYOK ZÁRVA](https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [BE VAGYOK ZÁRVA](https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5) | 2:11 | 2025-05-08 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-01 | 2025-07-01 |
+| [Beef](https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe) | [bongor](https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD), [Kapitány Máté](https://open.spotify.com/artist/2Z3ar2v1UZV7rR8R4qZMTn) | [EXTÁZIS](https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5) | 3:04 | 2025-11-10 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 | 2025-06-25 |
 | [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 | 2024-07-01 | 2024-08-20 |
 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 | 2024-07-01 | 2025-04-01 |
@@ -48,7 +49,7 @@
 | [Entitás](https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Orgonabokor \(Part 2\)](https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2) | 2:53 | 2025-02-03 | 2025-10-14 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2025-05-20 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-17 | 2025-04-29 |
-| [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 | 2024-08-19 |  |
+| [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 | 2024-08-19 | 2025-11-11 |
 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 | 2025-08-19 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2024-10-22 |
 | [Gengetek ellen](https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gengetek ellen](https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY) | 2:49 | 2024-07-01 | 2024-08-14 |
@@ -113,6 +114,7 @@
 | [PONT JÓ](https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [PONT JÓ](https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1) | 2:34 | 2025-09-01 |  |
 | [PRESSO](https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [PRESSO](https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3) | 2:37 | 2025-09-10 |  |
 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-08-27 |  |
+| [Purgatórium](https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Purgatórium](https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7) | 3:11 | 2025-11-10 |  |
 | [pörkölt](https://open.spotify.com/track/0M1CutPz25funLH08wHAL1) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [pörkölt](https://open.spotify.com/album/16DsEA2Cj7Sxon11Wfxhq3) | 2:51 | 2025-09-29 | 2025-10-19 |
 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 | 2025-05-05 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-17 | 2025-04-01 |
@@ -137,7 +139,7 @@
 | [Százszorszép](https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:26 | 2024-07-01 | 2024-08-07 |
 | [Székelykapu](https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:50 | 2024-07-01 | 2025-09-03 |
 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 | 2025-03-24 | 2025-07-29 |
-| [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-07-01 |  |
+| [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-07-01 | 2025-11-11 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2025-03-25 |
 | [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-19 |  |
 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 | 2025-05-12 |  |

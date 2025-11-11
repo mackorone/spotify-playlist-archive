@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2?si=gvkmi9ZDQKuqTPca0jn3Eg">Storm Ford</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,629 likes - 350 songs - 17 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,645 likes - 350 songs - 17 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,7 +227,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 217 | [5 Star](https://open.spotify.com/track/6uHHRqnYbPBw38LJKBYzhi) | [Mbrown](https://open.spotify.com/artist/5Wv0zAvGTssv5ZxRkIR5tY) | [5 Star](https://open.spotify.com/album/0VLWeiLLSqrXuuC99fzKvt) | 2:54 |
 | 218 | [Sensational](https://open.spotify.com/track/6uwDGdmI9CCQGyey5AQtHJ) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Love So Strong / Sensational](https://open.spotify.com/album/6w4vcsCC6xMVoMmmMvhRAR) | 3:28 |
 | 219 | [Locked Up](https://open.spotify.com/track/187DYqgOLBTeyoBbno1cKf) | [EMEREE](https://open.spotify.com/artist/3OGgjzkamLnNDmUi9RZDG9) | [Locked Up](https://open.spotify.com/album/4CSdaWyTXJ6AuZcmqCjQiF) | 2:58 |
-| 220 | [Destiny Knows \(Extended Version\)](https://open.spotify.com/track/4DuRUF9iN8g0pl3FMmYqBh) | [Debórah Bond](https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e) | [Destiny Knows \(Extended Version\)](https://open.spotify.com/album/5WxfMpfHgfkDWoAEt4TkTW) | 5:32 |
+| 220 | [Destiny Knows \- Extended Version](https://open.spotify.com/track/4DuRUF9iN8g0pl3FMmYqBh) | [Debórah Bond](https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e) | [Destiny Knows \(Extended Version\)](https://open.spotify.com/album/5WxfMpfHgfkDWoAEt4TkTW) | 5:32 |
 | 221 | [sweet nothings](https://open.spotify.com/track/3rH8TjGLB7bOEF6tjrn0Yb) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [i'm not crying, u are](https://open.spotify.com/album/5XT2LoElBao7oO2l3bcJK5) | 3:55 |
 | 222 | [Ours](https://open.spotify.com/track/7hTfJGEcwvDksmChL8yCTu) | [Bobby Earth](https://open.spotify.com/artist/2oFkvZLEnTdEeGlkwT4aC8) | [RELEASE!](https://open.spotify.com/album/1W2AwhyewY8Gvh1FfAwaJk) | 2:16 |
 | 223 | [i'm sorry remix \(feat\. TheARTI$t\)](https://open.spotify.com/track/1lAYVf7ekQFSk6eY6jg9W9) | [dav!d](https://open.spotify.com/artist/30c0Yv67qkXJg51iyzlyZb), [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [i'm sorry remix \(feat\. TheARTI$t\)](https://open.spotify.com/album/0Eq9A60iHBzd9iyTDndYr1) | 3:15 |

@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Bunbury en portada.",
-  "num_followers": 547314,
+  "num_followers": 547321,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Pornocracia",
-      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "\u00bfEn Qu\u00e9 Momento?",
         "url": "https://open.spotify.com/album/3HoxwdbK9PpMGxcSfOqbPs"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 199946,
       "name": "\u00bfEn Qu\u00e9 Momento?",
       "url": "https://open.spotify.com/track/5U27L9B2PfV40ksWzQqxNX"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Pornocracia",
+      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -627,8 +627,8 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
-        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
       "artists": [
         {
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         },
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 196895,
-      "name": "Yo Nunca Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -719,8 +719,8 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
+        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
       },
       "artists": [
         {
@@ -728,45 +728,13 @@
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
-        "name": "Te Ofrezco",
-        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Te Ofrezco",
-      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+      "duration_ms": 196895,
+      "name": "Yo Nunca Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -787,6 +755,38 @@
       "duration_ms": 180986,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
         "name": "nomeolvides",
         "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
       },
@@ -847,6 +863,22 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o Menos",
         "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
       },
@@ -863,38 +895,6 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Fantas\u00edas",
-        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
-      },
-      "artists": [
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 226336,
-      "name": "Fantas\u00edas",
-      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "Quisiera Enamorarme",
         "url": "https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk"
       },
@@ -987,6 +967,26 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
+        "name": "Fantas\u00edas",
+        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 226336,
+      "name": "Fantas\u00edas",
+      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
         "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 272213,
       "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
       "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1023,38 +1039,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
-        "name": "Hola Perdido",
-        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "Hola Perdido",
-      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+        "name": "Hola Perdido",
+        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+      "duration_ms": 185338,
+      "name": "Hola Perdido",
+      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1107,6 +1091,22 @@
       "duration_ms": 199296,
       "name": "Mexicana (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1187,22 +1171,18 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "BOLERo LIBRA",
-        "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
         }
       ],
-      "duration_ms": 172687,
-      "name": "BOLERo LIBRA",
-      "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1239,6 +1219,26 @@
       "duration_ms": 201829,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "BOLERo LIBRA",
+        "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 172687,
+      "name": "BOLERo LIBRA",
+      "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 184461,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 238406,
       "name": "Bolero Estelar",
       "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 184461,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "Maria Bonita",
         "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 232373,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
+        "name": "Jaque Mate",
+        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Jaque Mate",
-        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
-      },
-      "artists": [
-        {
-          "name": "Fer Sober\u00f3n",
-          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Jaque Mate",
-      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "25\u00b037\u203240\u2033N 100\u00b014\u203221\u2033O (Coordenadas)",
-        "url": "https://open.spotify.com/album/6ovZTOAg4im2LfeWLhZI4T"
-      },
-      "artists": [
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        }
-      ],
-      "duration_ms": 156119,
-      "name": "25\u00b037\u203240\u2033N 100\u00b014\u203221\u2033O (Coordenadas)",
-      "url": "https://open.spotify.com/track/4V9RdXgCPb4QOHsBVo9n5C"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "Una Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
       },
@@ -1679,6 +1663,38 @@
       "duration_ms": 171272,
       "name": "Una Ma\u00f1ana",
       "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "Enclave de Bolero",
+        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 207997,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "25\u00b037\u203240\u2033N 100\u00b014\u203221\u2033O (Coordenadas)",
+        "url": "https://open.spotify.com/album/6ovZTOAg4im2LfeWLhZI4T"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "duration_ms": 156119,
+      "name": "25\u00b037\u203240\u2033N 100\u00b014\u203221\u2033O (Coordenadas)",
+      "url": "https://open.spotify.com/track/4V9RdXgCPb4QOHsBVo9n5C"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2025-11-07 06:00:32",
       "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 207997,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
         "name": "Idas y Vueltas",
         "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
       },
@@ -1735,6 +1735,22 @@
       "duration_ms": 232221,
       "name": "Idas y Vueltas",
       "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
+    },
+    {
+      "added_at": "2025-11-07 06:00:32",
+      "album": {
+        "name": "Lo esencial de Or\u00edgenes: El Bolero",
+        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "No me reproches",
+      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
     },
     {
       "added_at": "2025-11-07 06:00:32",
@@ -1759,22 +1775,6 @@
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
-    },
-    {
-      "added_at": "2025-11-07 06:00:32",
-      "album": {
-        "name": "Lo esencial de Or\u00edgenes: El Bolero",
-        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "No me reproches",
-      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
     },
     {
       "added_at": "2025-11-07 06:00:32",

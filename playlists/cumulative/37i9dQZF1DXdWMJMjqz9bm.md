@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno
 
-792 songs - 1 day 12 hr 15 min
+793 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-04-06 | 2022-07-16 |
 | [Ayo](https://open.spotify.com/track/2WChmzZosgW38oS7rVzJda) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon), [Ayo Cheetah](https://open.spotify.com/artist/1fHyYweFVbtQvAaeqx0cRk) | [Ayo](https://open.spotify.com/album/2bh8yN7FYL0gkRxTWhKIYY) | 2:02 | 2023-03-03 | 2023-06-24 |
 | [Baby Baby](https://open.spotify.com/track/0JCwp6ekBI2CkOtXWErcJt) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Baby Baby](https://open.spotify.com/album/30ld7U0BT2zBNTZkgcVzvZ) | 2:36 | 2025-08-08 |  |
-| [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL) | 2:00 | 2025-06-20 |  |
+| [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL) | 2:00 | 2025-06-20 | 2025-11-11 |
 | [Back Then](https://open.spotify.com/track/6G0211y476pxdQXHbdFeVV) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Back Then](https://open.spotify.com/album/5UFqhj2GruuvXFF8PKr8u4) | 2:22 | 2022-03-25 | 2022-06-11 |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-11-16 | 2023-09-09 |
 | [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-11-11 | 2023-01-14 |
@@ -514,6 +514,7 @@
 | [NSFW](https://open.spotify.com/track/15KkQmwZhilaeahH0TYdeS) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [NSFW](https://open.spotify.com/album/1VjkgQldR3Gv1akeGkLyDa) | 2:26 | 2025-09-12 | 2025-10-21 |
 | [numb \(feat\. blackbear\)](https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\)](https://open.spotify.com/album/4jrLreiCKIGcxG0z7WcQkt) | 2:57 | 2022-09-30 | 2023-04-18 |
 | [Off A Cliff \(With Reo Cragun\)](https://open.spotify.com/track/7KjY1Xr1vXsAgolo63F0sV) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Escape Cycle](https://open.spotify.com/album/2JCIdveMkl6k4YdAqEMEBx) | 2:53 | 2023-08-25 | 2024-06-01 |
+| [Off My Head](https://open.spotify.com/track/5428HTy2dqDLwQ7iDth6Lc) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Off My Head](https://open.spotify.com/album/0hYxX3wg3Lyf34Lw4jnAJh) | 1:51 | 2025-11-10 |  |
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-10 | 2022-11-30 |
 | [Oh My!](https://open.spotify.com/track/23GrnBNBJhVlYlraSi3sT3) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Oh My!](https://open.spotify.com/album/5NBpzjZMW5PCvxVCNSTwrD) | 3:11 | 2022-07-22 | 2022-11-30 |
 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 | 2025-04-14 | 2025-07-12 |

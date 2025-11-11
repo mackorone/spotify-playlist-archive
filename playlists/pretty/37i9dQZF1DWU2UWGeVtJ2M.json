@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 168186,
+  "num_followers": 168202,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -403,6 +387,22 @@
       "duration_ms": 185991,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 229750,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -883,6 +883,26 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
         "name": "Diamond Miner",
         "url": "https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE"
       },
@@ -907,42 +927,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 290751,
-      "name": "8",
-      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Londinium",
         "url": "https://open.spotify.com/album/6SpDB8znJJGwcuoj2GW1cV"
       },
@@ -959,34 +943,18 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+        "name": "8",
+        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
       },
       "artists": [
         {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
+      "duration_ms": 290751,
+      "name": "8",
+      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1043,6 +1011,38 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
         "name": "pity dirty",
         "url": "https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
         }
       ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 213535,
-      "name": "Something to Feel",
-      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 271506,
       "name": "Wicked Dreams",
       "url": "https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Something to Feel",
+        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 213535,
+      "name": "Something to Feel",
+      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "Voicenotes",
-      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Voicenotes",
+      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
     },
     {
       "added_at": "2025-11-10 02:29:40",

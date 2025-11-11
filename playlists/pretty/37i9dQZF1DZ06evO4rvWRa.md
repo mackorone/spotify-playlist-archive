@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,639,615 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,639,602 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
 | 50 | [By Your Side](https://open.spotify.com/track/65iIFIjmHtzK0GrNw7RAEU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:40 |
 
-Snapshot ID: `aQ6IAAAAAAA4hwyZZaOQ0iYKdU0hat+7`
+Snapshot ID: `aQ/ZgAAAAABcd09W5jcavfw06WuB5Ecb`

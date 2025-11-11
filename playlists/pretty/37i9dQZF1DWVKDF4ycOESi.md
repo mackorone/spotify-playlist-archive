@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ROSALÍA, Giorgia, Geolier, Sayf, Katy Perry e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,718 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,703 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 38 | [SONO IO](https://open.spotify.com/track/7IGY8vi1QYTg8DHAF3UHVK) | [Dheo](https://open.spotify.com/artist/4cqOx4TqvaYkvSBIjoaeCf) | [LA STESSA COSA](https://open.spotify.com/album/1PBlLBOKV76JvG0RILY2iz) | 2:38 |
 | 39 | [Abitudini di vita](https://open.spotify.com/track/3I6Vf1rQNQmKOwDzcv4Qee) | [Marco Giudici](https://open.spotify.com/artist/04hb6csoUymn42lRJg8fFy) | [Abitudini di vita](https://open.spotify.com/album/0pliSBMXFt13Z8a6YlsYhY) | 3:57 |
 | 40 | [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 |
-| 41 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
+| 41 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 42 | [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 |
 | 43 | [Do You Hate Me Now](https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Do You Hate Me Now](https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s) | 3:27 |
 | 44 | [Malade Mental](https://open.spotify.com/track/7g9cp3XJzSJvmRsAOzp0p5) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [Malade Mental](https://open.spotify.com/album/4Aq1N7k68GaumS1ejJy7ry) | 3:02 |

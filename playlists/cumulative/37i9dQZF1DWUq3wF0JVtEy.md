@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-556 songs - 1 day 3 hr 2 min
+557 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [I Wanna Talk](https://open.spotify.com/track/0ql60H0AnQOdxiC7Oh3pJN) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [I Wanna Talk](https://open.spotify.com/album/5Xd5xwTvOltxDikPLTEcw5) | 2:57 | 2024-10-04 | 2025-04-09 |
 | [I WANT](https://open.spotify.com/track/6tkQHOd8Wgf2ZpecK9sXGs) | [G\-Pol](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Lambi](https://open.spotify.com/artist/0kcZZU0MJOYaosYfTfAa0H) | [I WANT](https://open.spotify.com/album/3TxoC4oZUoxlGAXa6qNfWO) | 2:50 | 2022-01-21 | 2022-02-02 |
 | [I'm a Man](https://open.spotify.com/track/3zzzMsXOCCkPAFr2zbmKzY) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Faiolli](https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO) | [I'm a Man](https://open.spotify.com/album/3N9SCz8ypCUZ9KL07wv6EQ) | 2:47 | 2025-05-30 |  |
-| [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 |  |
+| [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-08-04 | 2025-11-11 |
 | [IDGAF](https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Rell Rock](https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq) | [IDGAF](https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG) | 3:00 | 2022-06-10 |  |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2023-01-06 |
 | [ILY](https://open.spotify.com/track/3vE4BK9rlQRRCnuguRTCuT) | [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [BASS RELATED VOL\. 1](https://open.spotify.com/album/6atF5QM5DJdbqtJqFlyLsN) | 2:48 | 2024-11-08 | 2025-05-04 |
@@ -422,6 +422,7 @@
 | [Pride \(A Deeper Love\)](https://open.spotify.com/track/4NRqCwAgnxkPUE81qV7TtP) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Dance Therapy](https://open.spotify.com/artist/3UDGcXWgpqS9j7PMCVtmA0), [Tally](https://open.spotify.com/artist/1BGmvURhdsSvMFEmQkL71k) | [Pride \(A Deeper Love\)](https://open.spotify.com/album/4ML8wtte3WRu7D8J79WAVt) | 2:26 | 2023-12-15 | 2023-12-26 |
 | [Problems](https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Problems](https://open.spotify.com/album/6L2C3wz8KVARtC4wqrDJTG) | 2:59 | 2021-10-29 | 2022-10-08 |
 | [Prophecy](https://open.spotify.com/track/3TKYpVvhTKoKl5vIrX96AD) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Prophecy](https://open.spotify.com/album/4tpO8jKHrIOAwWIbJS2zfW) | 2:27 | 2021-10-29 | 2022-03-23 |
+| [Pump Up The Bass](https://open.spotify.com/track/3iQAh7rg2thgBt1hm6rUca) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Pump Up The Bass](https://open.spotify.com/album/3pvkvEhntrf8LSkFYqRzVk) | 3:34 | 2025-11-07 |  |
 | [Pump Up The Jam \(with MOTi\)](https://open.spotify.com/track/1uNKDCkSaGNqIsMtvfsr2O) | [Mary N'diaye](https://open.spotify.com/artist/0AMCPHyPTxIV2J2HthnnX4), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Pump Up The Jam \(with MOTi\)](https://open.spotify.com/album/4qSEvbsVZLmFjHNywNm9YA) | 3:29 | 2021-10-29 | 2022-08-27 |
 | [Pumpin](https://open.spotify.com/track/78iKUQrxkSwliAQmagMw0b) | [The Scene Kings](https://open.spotify.com/artist/0GoV0gxK6girSkzcHf9bh5) | [Pumpin](https://open.spotify.com/album/0a7WXJslUYgA9WqaerIrcs) | 2:41 | 2022-02-11 | 2022-06-11 |
 | [Purification](https://open.spotify.com/track/0U9m269ExQq7LmZc6MTzee) | [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i) | [Purification](https://open.spotify.com/album/62cXo5O7kZz7l0r9RP8lDw) | 2:58 | 2021-10-29 | 2022-07-29 |

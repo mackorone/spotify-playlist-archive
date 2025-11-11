@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-4,448 songs - 9 day 19 hr 35 min
+4,449 songs - 9 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2892,6 +2892,7 @@
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-02 | 2025-02-05 |
 | [P.O.V.](https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:18 | 2025-07-29 | 2025-08-02 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-13 | 2023-07-19 |
+| [Paid to Exist](https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD) | [brux XTN](https://open.spotify.com/artist/4U88SaxXVJxvOKSrqqJXsb) | [Paid to Exist](https://open.spotify.com/album/4Xh6ncpPchN6sttSXlarzg) | 1:50 | 2025-11-10 |  |
 | [PAIGAAM](https://open.spotify.com/track/55Po4BWmTreag2TAKG77wt) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [TWO OF A KIND](https://open.spotify.com/album/0AkoL1MsHxEnTwan8AtLdm) | 4:37 | 2025-08-05 | 2025-08-08 |
 | [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:22 | 2023-01-18 | 2023-01-20 |
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4cCeHTJcKQU9PCuQ2jiYlI) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 1:54 | 2024-12-06 | 2024-12-11 |
@@ -3050,7 +3051,7 @@
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight \(Live\)](https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt) | 4:23 | 2024-04-11 | 2024-04-17 |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-03-15 | 2022-03-19 |
 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:06 | 2025-09-10 | 2025-09-17 |
-| [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-09-10 |  |
+| [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-09-10 | 2025-11-11 |
 | [Presha \(with Lil Wayne\)](https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Presha](https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP) | 3:05 | 2023-11-09 | 2023-11-13 |
 | [Pressure](https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Pressure](https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1) | 2:44 | 2023-09-20 | 2023-10-23 |
 | [Pressure](https://open.spotify.com/track/2nrJYak41L06ktuU9hTJ7J) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:39 | 2024-10-15 | 2024-10-21 |

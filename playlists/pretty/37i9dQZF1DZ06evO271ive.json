@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28427,
+  "num_followers": 28442,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAq1BgrkwEnK0p2ZpWaKj3y",
+  "snapshot_id": "aQ/ZgAAAAACqIoIpnHqwzUFBBHbj2vwM",
   "tracks": [
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Don\u2019t Love Me",
-        "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 157332,
-      "name": "You Don\u2019t Love Me",
-      "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "304",
         "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
       },
@@ -931,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iz It a Crime?",
-        "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
+        "name": "You Don\u2019t Love Me",
+        "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 158270,
-      "name": "Me N OG Snoop",
-      "url": "https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4"
+      "duration_ms": 157332,
+      "name": "You Don\u2019t Love Me",
+      "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
     },
     {
       "added_at": null,
@@ -963,6 +943,26 @@
       "duration_ms": 147048,
       "name": "It's My Birthday",
       "url": "https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iz It a Crime?",
+        "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158270,
+      "name": "Me N OG Snoop",
+      "url": "https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4"
     },
     {
       "added_at": null,

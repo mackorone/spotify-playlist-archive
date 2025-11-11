@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,177 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,179 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 22 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 |
 | 23 | [Halla Gulla](https://open.spotify.com/track/6VDZQV2ZhRSwtapy6860Rv) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Halla Gulla](https://open.spotify.com/album/4kN2YAdAUuDcPHxmNOd3oQ) | 2:47 |
 | 24 | [Baby Girl](https://open.spotify.com/track/0FoAlOXHI6KJ4RHP9v8jnw) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Baby Girl](https://open.spotify.com/album/4dob5W0fcOiKEe3ii4AuqD) | 3:27 |
-| 25 | [Business](https://open.spotify.com/track/7iU1ZT0cD11WQO6PI6ChdB) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Longway](https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW) | 3:06 |
-| 26 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
+| 25 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
+| 26 | [Business](https://open.spotify.com/track/7iU1ZT0cD11WQO6PI6ChdB) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Longway](https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW) | 3:06 |
 | 27 | [Sauda Khara Khara \- From "Good Newwz"](https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sauda Khara Khara \(From "Good Newwz"\)](https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5) | 3:31 |
 | 28 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky Dhillon](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 29 | [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |

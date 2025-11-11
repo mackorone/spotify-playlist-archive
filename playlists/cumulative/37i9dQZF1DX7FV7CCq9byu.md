@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,279 songs - 2 day 17 hr 8 min
+1,280 songs - 2 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [Queen Almighty](https://open.spotify.com/track/02lbmeB6aYDG280IiTQ8gq) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen Almighty](https://open.spotify.com/album/5NoLKUYUKQQBOTf26E6U0K) | 2:46 | 2025-09-25 |  |
 | [Quitter](https://open.spotify.com/track/3ai1kBVQF9GusoxIdgBrjz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t) | 2:41 | 2025-01-02 | 2025-03-07 |
 | [Ramla](https://open.spotify.com/track/5L8ZRVUZOgQMlz5jsKjCTE) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Ramla](https://open.spotify.com/album/39OJYOVxta0JzTODnefED9) | 2:34 | 2025-06-26 | 2025-09-19 |
+| [RANSOMS](https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [RANSOMS](https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7) | 3:03 | 2025-11-10 |  |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-15 | 2025-02-28 |
 | [Real To Me](https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Real To Me](https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD) | 3:10 | 2025-11-06 |  |
 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-22 | 2025-02-28 |

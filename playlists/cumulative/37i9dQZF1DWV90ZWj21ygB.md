@@ -4,7 +4,7 @@
 
 > Relax to the roaring sound of crashing waves.
 
-259 songs - 12 hr 27 min
+260 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/1DNNwqmuY6iopjc3F9uLLN) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 | 2022-08-03 |  |
 | [Big Waves](https://open.spotify.com/track/3mDat1idepzQv9pyrHhm5l) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Wave Sounds](https://open.spotify.com/album/1qVY1drmjE9wCDusfxgBzg) | 2:04 | 2022-08-03 |  |
 | [Big Waves Rolling In](https://open.spotify.com/track/6fYnju6yqwdkv6hYTg1VqG) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Nano Wave Sounds](https://open.spotify.com/album/10WTH1C6D3FXY9rsRlipeQ) | 2:48 | 2022-08-03 |  |
-| [Big Waves Surf's Up](https://open.spotify.com/track/14amoYGOt8VoGCXos3RUtd) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 2:02 | 2024-04-15 |  |
+| [Big Waves Surf's Up](https://open.spotify.com/track/14amoYGOt8VoGCXos3RUtd) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 2:02 | 2024-04-15 | 2025-11-11 |
 | [Big Waves Surf's Up](https://open.spotify.com/track/7tZgdyZBW2UtIbbXA6iq8Y) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw) | 2:02 | 2022-08-03 | 2024-04-19 |
 | [Blue Waves](https://open.spotify.com/track/0iUgg63krkdW676rbw2vN4) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Peaceful Night Waves](https://open.spotify.com/album/3fb69Iimh0HAMJoiesDoEK) | 2:30 | 2022-08-03 |  |
 | [Brain Waves Ocean Sounds](https://open.spotify.com/track/46pmGWrth04JCva2F0yMDR) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Brain Waves Ocean Sounds](https://open.spotify.com/album/51mmFPq33EjPSn9SIGhWKU) | 3:04 | 2022-08-03 |  |
@@ -253,6 +253,7 @@
 | [Waves on the Jetty](https://open.spotify.com/track/4M2ORdTjBHFT9aeHOKTAqI) | [Streams & Mist](https://open.spotify.com/artist/0xD2iKIYHK3REQyRFdHF3f) | [Bucket Respite](https://open.spotify.com/album/36D7ByB9PMsnAdFSb8o27z) | 6:01 | 2022-08-03 |  |
 | [Waves on the Peninsula](https://open.spotify.com/track/4rZmara2XLS46Lalxe1hCi) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Shallow Waves on Sand](https://open.spotify.com/album/4dNOZum6fUUyf1VaI9Ue2u) | 2:54 | 2022-08-03 |  |
 | [Waves Special Selection](https://open.spotify.com/track/2eBhOON7YOyFbzuYaBRRvR) | [Selective Sounds TTA](https://open.spotify.com/artist/4fvzIW1n8V7G1t95O5Q2lB) | [Good Night Waves](https://open.spotify.com/album/4tcp4jrPaRqqF9AS6wKI6X) | 1:49 | 2022-08-03 | 2023-06-20 |
+| [Waves Under The Stars](https://open.spotify.com/track/6FK3O3xyKDugkP7QN8frc2) | [Waves At Night](https://open.spotify.com/artist/3CuV0Rsf4ZxEHHB6I7I9tG) | [Waves Under The Stars](https://open.spotify.com/album/0zS16AjZGF9c6f4R9FscpN) | 3:03 | 2025-11-10 |  |
 | [Waves under the Stars](https://open.spotify.com/track/2CPHv1NqhWUR3yMIUoTZ5f) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [Sleepy Waves](https://open.spotify.com/album/0gq2bdNAUry8TOOCtPjXsa) | 3:39 | 2022-08-03 |  |
 | [Waves Upon The Beach](https://open.spotify.com/track/7HDXS36jScwVAVdPU0XoCG) | [HD Nature Sound Library](https://open.spotify.com/artist/2JdsJhCSbNc4C9CR56k1ju) | [In The Ocean](https://open.spotify.com/album/5gVzOi3v7kg9PMQ3FVMThl) | 3:04 | 2022-08-03 |  |
 | [Waves: Tranquility Touch](https://open.spotify.com/track/2PX3JsYV9ndh0ICsS9uCwg) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 1:53 | 2022-08-03 | 2023-06-20 |

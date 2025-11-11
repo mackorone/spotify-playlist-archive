@@ -1065,6 +1065,32 @@
     },
     {
       "album": {
+        "name": "father\u00b4s love",
+        "url": "https://open.spotify.com/album/1ComDzN2mFJDpIQv5uVt5E"
+      },
+      "artists": [
+        {
+          "name": "CADYY",
+          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
+        },
+        {
+          "name": "seeparticles",
+          "url": "https://open.spotify.com/artist/1lheefsYyfWIxsQ57sgPQE"
+        },
+        {
+          "name": "Zamaro",
+          "url": "https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93225,
+      "name": "father\u00b4s love",
+      "url": "https://open.spotify.com/track/6F7xtmh542Czm54izE7RIe"
+    },
+    {
+      "album": {
         "name": "drift (ambient remixes)",
         "url": "https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH"
       },
@@ -3398,7 +3424,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 122000,
       "name": "Waiting for Your Train",
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"

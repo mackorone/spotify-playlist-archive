@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 8714,
+  "num_followers": 8732,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAC++B9EjKs9NuOt5zgo+LOX",
+  "snapshot_id": "aQ/ZgAAAAAC0dtSn9TidqDcXPXXoNIRY",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+        "name": "City On Fire",
+        "url": "https://open.spotify.com/album/1rCVy3ZJyrAN6APLu2PiHH"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 244000,
-      "name": "You're Stuck",
-      "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
+      "duration_ms": 153935,
+      "name": "City On Fire (feat. Odeal)",
+      "url": "https://open.spotify.com/track/6QdyHBkpt484d9Ld3FJjUc"
     },
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Fire",
-        "url": "https://open.spotify.com/album/1rCVy3ZJyrAN6APLu2PiHH"
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 153935,
-      "name": "City On Fire (feat. Odeal)",
-      "url": "https://open.spotify.com/track/6QdyHBkpt484d9Ld3FJjUc"
+      "duration_ms": 244000,
+      "name": "You're Stuck",
+      "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
     },
     {
       "added_at": null,

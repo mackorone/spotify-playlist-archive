@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Param
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,420 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,438 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 2 | [Tum Mere Na Huye \- From “Thamma”](https://open.spotify.com/track/1YbEjKKjS790uQkR0XCQ95) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Mere Na Huye \(From “Thamma”\)](https://open.spotify.com/album/0PyAGvPiU1D9Z3cadEjhOp) | 3:14 |
 | 3 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 |
 | 4 | [Barbaad Reprise \- Female](https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Saiyaara](https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf) | 2:09 |
-| 5 | [Raaz E Dil](https://open.spotify.com/track/6q6mlWI0tUE2TmQHLubRGF) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Naresh Sharma](https://open.spotify.com/artist/3nFgnEel499wKuPnnSlPs3) | [Raaz E Dil](https://open.spotify.com/album/18vogfBKjU4TLjYCcZBwgC) | 3:35 |
+| 5 | [Raaz E Dil](https://open.spotify.com/track/6q6mlWI0tUE2TmQHLubRGF) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Naresh Sharma](https://open.spotify.com/artist/3nFgnEel499wKuPnnSlPs3), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Raaz E Dil](https://open.spotify.com/album/18vogfBKjU4TLjYCcZBwgC) | 3:35 |
 | 6 | [Ratiyaan](https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Ratiyaan](https://open.spotify.com/album/228bM7MDfeoocgddt5o8bl) | 2:55 |
 | 7 | [Dilbar Ki Aankhon Ka \(From "Thamma"\) \[Feat\. Nora Fatehi\]](https://open.spotify.com/track/5jE2mbf6tsHwYIk0tiEix2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dilbar Ki Aankhon Ka \(From "Thamma"\) \[Feat\. Nora Fatehi\]](https://open.spotify.com/album/6iJ7sOLA4jqh2uPYAvKzuq) | 2:49 |
 | 8 | [AANKH](https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [AANKH](https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE) | 3:08 |

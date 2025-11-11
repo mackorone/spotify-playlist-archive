@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 154 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 154 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 84 | [Can't Do Both \(with Clara Mae\)](https://open.spotify.com/track/3RaQdJDvaIa46MAMCwzWDa) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Cutting Through Noise \(Deluxe\)](https://open.spotify.com/album/3SxsGilpR10AEOgA2iYT7E) | 2:57 |
 | 85 | [Everburn](https://open.spotify.com/track/3Ny8IsnTGd2cJd8P6X9xKl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:18 |
 | 86 | [Standing in His Shoes](https://open.spotify.com/track/0tClc3XkyyH1JyauQyDRSZ) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Standing in His Shoes](https://open.spotify.com/album/7LoVmENUMntLeiwUc01M2C) | 3:13 |
-| 87 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
-| 88 | [Entwined](https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Entwined](https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B) | 3:40 |
+| 87 | [Entwined](https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Entwined](https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B) | 3:40 |
+| 88 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
 | 89 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 |
 | 90 | [Kingdom](https://open.spotify.com/track/45ElBVDOkxxAdSQlB8sN0T) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:28 |
 | 91 | [365](https://open.spotify.com/track/3nNBdrHfqSZrFQKCzWq7kR) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [365](https://open.spotify.com/album/33ege18fnUmm373M0YrGDk) | 3:07 |
@@ -143,10 +143,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 133 | [Cigarette \- Acoustic](https://open.spotify.com/track/0G5pSMytYwa5Ep7VzqB8Ab) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/4jRskEEfU18eb9nxCgBLYa) | 2:59 |
 | 134 | [Roses](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 |
 | 135 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
-| 136 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
-| 137 | [Pronto](https://open.spotify.com/track/5E9RUpwOARvN0qFz66WMVk) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Pronto](https://open.spotify.com/album/0Y2YoZHvqrtkvGWA6CnJos) | 3:02 |
-| 138 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
-| 139 | [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 |
+| 136 | [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 |
+| 137 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
+| 138 | [Pronto](https://open.spotify.com/track/5E9RUpwOARvN0qFz66WMVk) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Pronto](https://open.spotify.com/album/0Y2YoZHvqrtkvGWA6CnJos) | 3:02 |
+| 139 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
 | 140 | [Trouble](https://open.spotify.com/track/7zPBtvZpPAOy9fgfdgmyiC) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [We Were Thunder](https://open.spotify.com/album/6jYRzhiEnzVANGGHHJZ1C3) | 3:21 |
 | 141 | [Hearts on Fire](https://open.spotify.com/track/0VfCWPRxguIufZ4KMDrlAr) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 4:00 |
 | 142 | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/track/63fOfmMz3g2xEwc3CbVPhv) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2P6UbvQ5yPsFHspB9CO5mj) | 2:31 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 153 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 154 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AcBKRAAAAAAxwRXu5f8KGW1KTRPqBxwZ`
+Snapshot ID: `AcBPqAAAAACb/d9zT1L8Il0HH8igHYd/`

@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 529223,
+  "num_followers": 529186,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Beneath The Skin",
         "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+      "duration_ms": 262871,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -655,18 +671,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
       "artists": [
         {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 262871,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
+      "duration_ms": 168013,
+      "name": "Piece Of Shit",
+      "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -691,22 +707,6 @@
       "duration_ms": 250603,
       "name": "I might say something stupid featuring the 1975 & jon hopkins",
       "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Piece Of Shit",
-      "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Spiderwebs",
-        "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
-      },
-      "artists": [
-        {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
-        }
-      ],
-      "duration_ms": 153241,
-      "name": "Spiderwebs",
-      "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 238333,
       "name": "The Dying Light",
       "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Spiderwebs",
+        "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 153241,
+      "name": "Spiderwebs",
+      "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 136954,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Love Me In Chapters",
         "url": "https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 216933,
       "name": "Love Me In Chapters",
       "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Thank You (SOLOMON VERSION)",
-        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Life's Gonna Kill You (If You Let It)",
         "url": "https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 275795,
       "name": "Life's Gonna Kill You (If You Let It)",
       "url": "https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Thank You (SOLOMON VERSION)",
+        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2024-05-31 15:25:10",

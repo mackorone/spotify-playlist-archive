@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 58 | [Say It's Fine](https://open.spotify.com/track/4jpd7IRKPndo9CqV2WTkdi) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/1GJTZ0fSwgf4ZKXdhhCpkS) | 3:25 |
 | 59 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 |
 | 60 | [Baby Zombies](https://open.spotify.com/track/69iNW96mREv1WLsXHFX1WT) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:54 |
-| 61 | [Tarzan](https://open.spotify.com/track/00lEm1R62ACpJNws7PkgTZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 2:25 |
-| 62 | [Appetite](https://open.spotify.com/track/22eLgmSM6M98y3Iq3bnfy0) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 1:48 |
+| 61 | [Appetite](https://open.spotify.com/track/22eLgmSM6M98y3Iq3bnfy0) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 1:48 |
+| 62 | [Tarzan](https://open.spotify.com/track/00lEm1R62ACpJNws7PkgTZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 2:25 |
 | 63 | [GROWING PAINS](https://open.spotify.com/track/46QInJI6iYdFmsdMm1GYMM) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 3:01 |
 | 64 | [Photosynthesis](https://open.spotify.com/track/5mq1tLYr3ukhvIuTguWHlX) | [Korantemaa](https://open.spotify.com/artist/6KEQ1IQ4NayJNUT2zAVXgl) | [Fruit](https://open.spotify.com/album/3WuqywZ2hMkiOXEsCE9SSP) | 3:22 |
 | 65 | [Don't Stop](https://open.spotify.com/track/5iTjTORUnEiWW0AGgGrOoH) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Don't Stop](https://open.spotify.com/album/3sJHviZD1KfRnhYQX97HB6) | 3:52 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 93 | [Joyride](https://open.spotify.com/track/4j6RgRpQ6HC4JsOUcjwVtN) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:55 |
 | 94 | [Freedom](https://open.spotify.com/track/0liZik8sBnhhlPrKt2Cdb7) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:35 |
 | 95 | [Ember](https://open.spotify.com/track/6KLZxWLnzXC8QLMF0iKTqm) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 2:40 |
-| 96 | [Tools](https://open.spotify.com/track/5r4DoowFEsJnhJLbZP2peg) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Tools](https://open.spotify.com/album/41L5bBrS0JOtEIU8xleJTZ) | 4:20 |
-| 97 | [Is It Me](https://open.spotify.com/track/7iqP2bvYybkkDM8Ulr2RNs) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:16 |
+| 96 | [Is It Me](https://open.spotify.com/track/7iqP2bvYybkkDM8Ulr2RNs) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:16 |
+| 97 | [Tools](https://open.spotify.com/track/5r4DoowFEsJnhJLbZP2peg) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Tools](https://open.spotify.com/album/41L5bBrS0JOtEIU8xleJTZ) | 4:20 |
 | 98 | [Beautiful Life](https://open.spotify.com/track/4kTdMaRfj7X032F1T6iv8o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:50 |
 | 99 | [Smoov](https://open.spotify.com/track/3wyhEjLpW8f4uJ2I88rA01) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:32 |
 | 100 | [Sleepy](https://open.spotify.com/track/6wT9GWmTMFSiR1AApuNKbG) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 4:26 |
@@ -189,8 +189,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 179 | [Haiku](https://open.spotify.com/track/1l7KcIjZ5z43LUOSr3VPQ7) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:44 |
 | 180 | [Blue](https://open.spotify.com/track/7IZCKhsBUkQ4lmBJzQOJSa) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:01 |
 | 181 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 |
-| 182 | [Quiet](https://open.spotify.com/track/4ojR83QBW57NgmFnCgR9gT) | [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Quiet](https://open.spotify.com/album/2A1wpSpxxMBo1VNWRB4eeN) | 3:58 |
-| 183 | [Let me down easy](https://open.spotify.com/track/3cpblYc6m7XTXPjvXiEUkt) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:17 |
+| 182 | [Let me down easy](https://open.spotify.com/track/3cpblYc6m7XTXPjvXiEUkt) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:17 |
+| 183 | [Quiet](https://open.spotify.com/track/4ojR83QBW57NgmFnCgR9gT) | [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Quiet](https://open.spotify.com/album/2A1wpSpxxMBo1VNWRB4eeN) | 3:58 |
 | 184 | [Like a Dream](https://open.spotify.com/track/0pmq1cjqHDBT87pJabXhq1) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Like a Dream](https://open.spotify.com/album/4P7xlrlQlV7Urlf3yZLoOt) | 3:32 |
 | 185 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
 | 186 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 272 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 273 | [Moving On](https://open.spotify.com/track/2WFd4EE5LLW0hqwyMTS7iS) | [R E N](https://open.spotify.com/artist/1uUI6SnnLWwpurgqePyxRv) | [Moving On](https://open.spotify.com/album/0aSBgOE9wpT7qw00WXjzWL) | 4:08 |
 
-Snapshot ID: `AcBKJgAAAAASsHO39ea74YllwWIHFRN8`
+Snapshot ID: `AcBPxgAAAACBX/Is1Nz2RMy4PznmQ2DE`

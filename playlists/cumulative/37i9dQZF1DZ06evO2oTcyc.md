@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-169 songs - 8 hr 51 min
+170 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Coolin and Booted](https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:34 | 2025-04-14 | 2025-09-16 |
 | [Corrlinks and JPay](https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:02 | 2023-11-10 |  |
 | [Cyber Truck](https://open.spotify.com/track/4DpqKZHmMLx1YN8ieULMp9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:34 | 2024-12-04 | 2025-04-08 |
-| [Day for Day](https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:48 | 2023-02-24 |  |
+| [Day for Day](https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:48 | 2023-02-24 | 2025-11-11 |
 | [Demand My Respect](https://open.spotify.com/track/5EbLS4q2S21ROWsI1XcMZX) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:32 | 2022-10-31 | 2023-05-24 |
 | [Demons & Angels](https://open.spotify.com/track/7CF2TJYzPTRT0HXDFxaiTx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:57 | 2025-01-10 | 2025-01-27 |
 | [Dirt McGerk \(feat\. EST Gee & Lil Crix\)](https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:53 | 2023-06-01 | 2023-08-22 |
@@ -107,6 +107,7 @@
 | [Never See Me](https://open.spotify.com/track/30CIKWOJ564yIpVXefrud9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dieuson Octave](https://open.spotify.com/album/5MMgxR8kqI7CFzQRvGiKHj) | 2:22 | 2024-11-07 | 2024-12-10 |
 | [News Matt](https://open.spotify.com/track/2Cg37BOBhTuJLaSX2HhhJx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:49 | 2024-12-03 | 2025-02-07 |
 | [Nightmare Before Christmas](https://open.spotify.com/track/64w8zS71nvU3JDQVIas4ND) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:04 | 2024-12-29 | 2025-05-14 |
+| [No Flaggin](https://open.spotify.com/track/4Hr06uHan2We7V9158olu3) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 2:45 | 2025-11-11 |  |
 | [No Flockin'](https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Flockin'](https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU) | 2:45 | 2022-10-28 |  |
 | [No Love For A Thug](https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Love For A Thug](https://open.spotify.com/album/0pYqfL98U56ocG8caO8uBe) | 5:05 | 2023-04-15 | 2023-07-19 |
 | [No Love For A Thug](https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 5:05 | 2024-06-19 | 2024-06-21 |

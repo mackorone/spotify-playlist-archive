@@ -59,24 +59,6 @@
     },
     {
       "album": {
-        "name": "Sonando desde el Auditorio Nacional",
-        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "date_added": "2025-11-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 327480,
-      "name": "Amargo Adios - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0zUihcOewAOyDtB5PLCApG"
-    },
-    {
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -92,6 +74,24 @@
       "duration_ms": 228426,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
+    },
+    {
+      "album": {
+        "name": "Sonando desde el Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327480,
+      "name": "Amargo Adi\u00f3s - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0zUihcOewAOyDtB5PLCApG"
     },
     {
       "album": {

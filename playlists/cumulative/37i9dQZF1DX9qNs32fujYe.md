@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,158 songs - 3 day 12 hr 21 min
+1,159 songs - 3 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Freedom](https://open.spotify.com/track/76GuF96xWQSP1sCalY3tJ6) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Freedom](https://open.spotify.com/album/5A1PP7qT0HqxEFAl97mrEM) | 3:10 | 2025-06-27 | 2025-08-16 |
 | [Freedom](https://open.spotify.com/track/4MQkVbYj1QTtaaw1u6ghX0) | [Sebastian Bach](https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV) | [Child Within The Man](https://open.spotify.com/album/4BT7xGOJ4FtgLKLadxBaZF) | 3:08 | 2024-05-17 | 2024-08-21 |
 | [Freezing Moon](https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:23 | 2022-08-19 | 2023-02-11 |
-| [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 | 2025-04-25 |  |
+| [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 | 2025-04-25 | 2025-11-11 |
 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 | 2021-12-17 | 2024-04-20 |
 | [From the Cradle to Enslave](https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [From The Cradle To Enslave](https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp) | 6:37 | 2022-08-19 |  |
 | [Fucked for Life](https://open.spotify.com/track/2Ly86wAzT0zDAF7GvDj9Op) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Remember..\. You Must Die](https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr) | 3:53 | 2023-03-24 | 2023-04-04 |
@@ -877,6 +877,7 @@
 | [Soldier On!](https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:54 | 2022-09-02 | 2024-04-19 |
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-26 | 2022-09-09 |
 | [Solitary](https://open.spotify.com/track/2ILFXeQHHC3dBe7gX4iSwD) | [Hiraes](https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt) | [Solitary](https://open.spotify.com/album/5ve5alQHZxty9kTbvzaILU) | 4:21 | 2021-12-17 | 2022-07-15 |
+| [Someone Has to Pay](https://open.spotify.com/track/7vxoiWDRJvivul9JOlrMWy) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Someone Has to Pay](https://open.spotify.com/album/05On1IxfDvhu78R1jYw8Tm) | 4:59 | 2025-11-07 |  |
 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 | 2021-12-17 | 2024-06-01 |
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-30 | 2025-08-23 |
 | [Song to Say Goodbye](https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Mære](https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK) | 5:24 | 2022-07-13 |  |

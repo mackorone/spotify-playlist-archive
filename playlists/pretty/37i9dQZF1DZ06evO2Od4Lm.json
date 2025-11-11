@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129319,
+  "num_followers": 129335,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAACWuW8UOlPVfxdahLCgAEIR",
+  "snapshot_id": "aQ/ZgAAAAADC1OB18e13/z8raCXKFavi",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 237386,
-      "name": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
-      "url": "https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi"
+      "duration_ms": 152480,
+      "name": "The Dress Looks Nice on You",
+      "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
       "artists": [
         {
@@ -384,9 +384,61 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 152480,
-      "name": "The Dress Looks Nice on You",
-      "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
+      "duration_ms": 237386,
+      "name": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
+      "url": "https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 222934,
+      "name": "My Red Little Fox",
+      "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Murder And Crime",
+      "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 47640,
+      "name": "A short reprise for Mary Todd, who went insane, but for very good reasons",
+      "url": "https://open.spotify.com/track/6hfxGStZ4L3IBvRaCqmPQc"
     },
     {
       "added_at": null,
@@ -416,25 +468,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 222934,
-      "name": "My Red Little Fox",
-      "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 47640,
-      "name": "A short reprise for Mary Todd, who went insane, but for very good reasons",
-      "url": "https://open.spotify.com/track/6hfxGStZ4L3IBvRaCqmPQc"
+      "duration_ms": 289897,
+      "name": "So You Are Tired",
+      "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
     },
     {
       "added_at": null,
@@ -452,9 +488,33 @@
           "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 210440,
-      "name": "Murder And Crime",
-      "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
+      "duration_ms": 187302,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2eVWzZgYX87QQ7cS9MKnZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Timo Andres",
+          "url": "https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz"
+        },
+        {
+          "name": "Conor Hanick",
+          "url": "https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO"
+        }
+      ],
+      "duration_ms": 177635,
+      "name": "Reflexion",
+      "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
     },
     {
       "added_at": null,
@@ -484,53 +544,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 289897,
-      "name": "So You Are Tired",
-      "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Timo Andres",
-          "url": "https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz"
-        },
-        {
-          "name": "Conor Hanick",
-          "url": "https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO"
-        }
-      ],
-      "duration_ms": 177635,
-      "name": "Reflexion",
-      "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Beginner's Mind",
-        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 187302,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2eVWzZgYX87QQ7cS9MKnZI"
+      "duration_ms": 112583,
+      "name": "Javelin (To Have And To Hold)",
+      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
     },
     {
       "added_at": null,
@@ -547,38 +563,6 @@
       "duration_ms": 400661,
       "name": "Wallowa Lake Monster - Version 2",
       "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 112583,
-      "name": "Javelin (To Have And To Hold)",
-      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Yourself / With My Whole Heart",
-        "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 103014,
-      "name": "Love Yourself (Short Reprise)",
-      "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 212866,
       "name": "Genuflecting Ghost",
       "url": "https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Yourself / With My Whole Heart",
+        "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 103014,
+      "name": "Love Yourself (Short Reprise)",
+      "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
     },
     {
       "added_at": null,
@@ -759,6 +759,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 134404,
+      "name": "City of Roses",
+      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 255721,
+      "name": "Video Game",
+      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Favorite Dream",
         "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
       },
@@ -787,54 +835,6 @@
       "duration_ms": 152644,
       "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
       "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 134404,
-      "name": "City of Roses",
-      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "Abraham",
-      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 255721,
-      "name": "Video Game",
-      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
     },
     {
       "added_at": null,

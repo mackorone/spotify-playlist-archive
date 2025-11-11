@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26505,
+  "num_followers": 26512,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -115,8 +115,8 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "Reger & Strauss: Cello Sonatas",
-        "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
+        "name": "R. Strauss: Oboe Concerto",
+        "url": "https://open.spotify.com/album/14gVF3IYbIK2n3AkhC2Kyk"
       },
       "artists": [
         {
@@ -124,17 +124,21 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Emmanuelle Bertrand",
-          "url": "https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT"
+          "name": "Fran\u00e7ois Leleux",
+          "url": "https://open.spotify.com/artist/2OmtnJTgdAAVVe6moOqecH"
         },
         {
-          "name": "Pascal Amoyel",
-          "url": "https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv"
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
         }
       ],
-      "duration_ms": 558666,
-      "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
-      "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
+      "duration_ms": 509000,
+      "name": "Concerto for Oboe and Small Orchestra in D Major, Op. 144: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/1pAIlvyqOfnr4baZp2QGb9"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -647,6 +651,30 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
+        "name": "Momentum [2]: Korngold, Strauss",
+        "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Liya Petrova",
+          "url": "https://open.spotify.com/artist/2qvBeMQglOaY0YMrAmffUh"
+        },
+        {
+          "name": "Alexandre Kantorow",
+          "url": "https://open.spotify.com/artist/1JxFyhCT2TeqHtPlAuOHF7"
+        }
+      ],
+      "duration_ms": 508453,
+      "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
+      "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
         "name": "Strauss: Heimliche Aufforderung",
         "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
@@ -671,30 +699,6 @@
       "duration_ms": 265000,
       "name": "Alphorn, o. Op.",
       "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
-        "name": "Momentum [2]: Korngold, Strauss",
-        "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Liya Petrova",
-          "url": "https://open.spotify.com/artist/2qvBeMQglOaY0YMrAmffUh"
-        },
-        {
-          "name": "Alexandre Kantorow",
-          "url": "https://open.spotify.com/artist/1JxFyhCT2TeqHtPlAuOHF7"
-        }
-      ],
-      "duration_ms": 508453,
-      "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
-      "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -727,6 +731,30 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
+        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
+        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
+      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
         "name": "Strauss: Four Last Songs",
         "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
       },
@@ -755,30 +783,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
-        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 207080,
-      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
-      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "Richard Strauss",
         "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
       },
@@ -799,6 +803,34 @@
       "duration_ms": 561213,
       "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
       "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "Martha Argerich - The Complete Sony Recordings",
+        "url": "https://open.spotify.com/album/6xmYN9VsCf8MOkiunglpkP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 1121000,
+      "name": "Burleske for Piano & Orchestra in D Minor, TrV 145",
+      "url": "https://open.spotify.com/track/5ZH4Itze8rxhBRpJp0jMkw"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -851,34 +883,6 @@
       "duration_ms": 314533,
       "name": "Sinfonia domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live at Musikverein, Vienna, 1983",
       "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
-        "name": "Martha Argerich - The Complete Sony Recordings",
-        "url": "https://open.spotify.com/album/6xmYN9VsCf8MOkiunglpkP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 1121000,
-      "name": "Burleske for Piano & Orchestra in D Minor, TrV 145",
-      "url": "https://open.spotify.com/track/5ZH4Itze8rxhBRpJp0jMkw"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -1011,6 +1015,30 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
+        "name": "Strauss, R.: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
+      "url": "https://open.spotify.com/track/4kFj3UgPlF9QnvQecwPv1p"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
         "name": "Richard Strauss",
         "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
       },
@@ -1039,30 +1067,6 @@
       "duration_ms": 456666,
       "name": "Piano Quartet in C Minor, Op. 13: II. Scherzo. Presto",
       "url": "https://open.spotify.com/track/4536FJoV6ZrdLDdJDB9f3F"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
-        "name": "Strauss, R.: Der Rosenkavalier",
-        "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Munich Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
-      "url": "https://open.spotify.com/track/4kFj3UgPlF9QnvQecwPv1p"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -1119,8 +1123,8 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "R. Strauss: Oboe Concerto",
-        "url": "https://open.spotify.com/album/14gVF3IYbIK2n3AkhC2Kyk"
+        "name": "Reger & Strauss: Cello Sonatas",
+        "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
       },
       "artists": [
         {
@@ -1128,21 +1132,17 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Fran\u00e7ois Leleux",
-          "url": "https://open.spotify.com/artist/2OmtnJTgdAAVVe6moOqecH"
+          "name": "Emmanuelle Bertrand",
+          "url": "https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT"
         },
         {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+          "name": "Pascal Amoyel",
+          "url": "https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv"
         }
       ],
-      "duration_ms": 509000,
-      "name": "Concerto for Oboe and Small Orchestra in D Major, Op. 144: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/1pAIlvyqOfnr4baZp2QGb9"
+      "duration_ms": 558666,
+      "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
+      "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
     },
     {
       "added_at": "2025-09-15 14:00:17",

@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1337491,
+  "num_followers": 1337392,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 228449,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 183499,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3Mk7IafwNuQdFQda1XI5PE"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 228449,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -219,18 +219,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "ROOM UNDER THE STAIRS",
-        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
         }
       ],
-      "duration_ms": 232380,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "He's My Man",
-        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+        "name": "ROOM UNDER THE STAIRS",
+        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
       },
       "artists": [
         {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 232985,
-      "name": "He's My Man",
-      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+      "duration_ms": 232380,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "My First Heartbreak",
-        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "My First Heartbreak",
-      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
-    },
-    {
       "added_at": "2025-09-04 23:00:13",
       "album": {
         "name": "Don't Cry, Put Your Head On My Shoulder",
@@ -507,6 +491,22 @@
       "duration_ms": 231680,
       "name": "Don't Cry, Put Your Head On My Shoulder",
       "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Manning Fireworks",
-        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Joker Lips",
-      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Falling Into Place (ft. Debbie)",
         "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 200000,
       "name": "Falling Into Place (ft. Debbie)",
       "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "The Great Impersonator",
-        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 216006,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Hearts Break and People Change",
         "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 209787,
       "name": "Hearts Break and People Change",
       "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "The Great Impersonator",
+        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 216006,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
-        "name": "Apothecary (Pt. 1)",
-        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 152124,
-      "name": "Lie To Yourself",
-      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
-    },
-    {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
         "name": "it's like I never left",
         "url": "https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 175636,
       "name": "Ama said",
       "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Apothecary (Pt. 1)",
+        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "duration_ms": 152124,
+      "name": "Lie To Yourself",
+      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Olive Tree",
-        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 241060,
-      "name": "Olive Tree",
-      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "The Greatest Love",
         "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 300432,
       "name": "You And I",
       "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Olive Tree",
+        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 241060,
+      "name": "Olive Tree",
+      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Heaven II",
-        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 147461,
-      "name": "Heaven II",
-      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "The Boy Who Can't Be Named",
         "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "backwards loving",
-        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+        "name": "Heaven II",
+        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
       },
       "artists": [
         {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 232000,
-      "name": "backwards loving",
-      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
+      "duration_ms": 147461,
+      "name": "Heaven II",
+      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "backwards loving",
+        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "backwards loving",
+      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 185826,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 237632,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1167,22 +1183,6 @@
       "duration_ms": 187084,
       "name": "One Door Closes (feat. Breland)",
       "url": "https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ"
-      },
-      "artists": [
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 237632,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1281,6 +1281,26 @@
       "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
     },
     {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "cut! (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 128165,
+      "name": "cut! (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
+    },
+    {
       "added_at": "2025-09-04 23:00:13",
       "album": {
         "name": "All Is Well",
@@ -1327,26 +1347,6 @@
       "duration_ms": 268735,
       "name": "All Seven Seasons",
       "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "cut! (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 128165,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "A Wonder Day",
-        "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 209352,
-      "name": "A Wonder Day",
-      "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "HEADPHONES",
         "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 196200,
       "name": "HEADPHONES",
       "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "A Wonder Day",
+        "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 209352,
+      "name": "A Wonder Day",
+      "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
     },
     {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "In This Room - EP",
+        "url": "https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr"
+      },
+      "artists": [
+        {
+          "name": "Ryan McMullan",
+          "url": "https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "In This Room",
+      "url": "https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp"
+    },
+    {
       "added_at": "2025-09-04 23:00:13",
       "album": {
         "name": "His Loss",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "In This Room - EP",
-        "url": "https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr"
-      },
-      "artists": [
-        {
-          "name": "Ryan McMullan",
-          "url": "https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "In This Room",
-      "url": "https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "steal my soul",
         "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 141320,
       "name": "steal my soul",
       "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1623,22 +1639,6 @@
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
-    },
-    {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "First And Last",
-        "url": "https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 178130,
-      "name": "First And Last",
-      "url": "https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns"
     }
   ],
   "unique_name": "Easy",

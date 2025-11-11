@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,367 likes - 190 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,430 likes - 190 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 189 | [Blue](https://open.spotify.com/track/6BAlpVMHkCSpHlf7bJbFM5) | [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Blue](https://open.spotify.com/album/6RB33mYpEqHVVPE0QnZmiT) | 3:16 |
 | 190 | [Widows of Normandy](https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Widows of Normandy](https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1) | 3:10 |
 
-Snapshot ID: `AAAAABVJ047WSCO+q30rVIR0NK0E3H1d`
+Snapshot ID: `AAAAADGas8csvI94mLtyhJNNylTUFGWh`

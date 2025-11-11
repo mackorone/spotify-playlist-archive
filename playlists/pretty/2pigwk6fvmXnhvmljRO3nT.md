@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,760 songs - 20 day 0 hr 57 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,761 songs - 20 day 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7768,5 +7768,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7758 | [Sunset](https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 |
 | 7759 | [Crystal Dolphin](https://open.spotify.com/track/3nKZknHg5Y5fPB3gow8ACG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Crust FM](https://open.spotify.com/album/3je8umRciaq7fZ62YAUQ3K) | 1:54 |
 | 7760 | [街のドルフィン \- 2020 Remaster](https://open.spotify.com/track/1puJFK1ZUIcJAdEHcLJd8E) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight crusin' \(2020 Remaster\)](https://open.spotify.com/album/1OZTBqJE3BGlga6HmYGSrA) | 3:53 |
+| 7761 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 |
 
-Snapshot ID: `AAAJY20yKvvEmJiKreiRvOPvPlGUykq4`
+Snapshot ID: `AAAJZEOUpAUE1twEThbsAKii28B56pBX`

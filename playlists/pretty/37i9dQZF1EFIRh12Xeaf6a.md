@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,189 likes - 276 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,191 likes - 276 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 32 | [Some of Your Lovin'](https://open.spotify.com/track/6pIoczFbC1QaQACeUfwTdb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Going Back \(2010\)](https://open.spotify.com/album/51YI8SD0GBp3c7cavCD6Zr) | 3:20 |
 | 33 | [Hard Rock Café](https://open.spotify.com/track/5oLObQcGpeEjrOHpPY80F5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:43 |
 | 34 | [He Hit Me \(It Felt Like a Kiss\)](https://open.spotify.com/track/5TdCUrQdTWZoTSAZH7Pfup) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [He's A Rebel](https://open.spotify.com/album/3yYINO0VYoVcFeiUkEZzUg) | 2:33 |
-| 35 | [Just Once In My Life](https://open.spotify.com/track/3Qg7WE98qRezh4Jq9fCKr8) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:47 |
-| 36 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 35 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 36 | [Just Once In My Life](https://open.spotify.com/track/3Qg7WE98qRezh4Jq9fCKr8) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:47 |
 | 37 | [Chicken Shake](https://open.spotify.com/track/6N0o3pElcfEqTgIdQzLU19) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 3:49 |
 | 38 | [No Easy Way Down](https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG) | [Na Allen](https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN) | [No Easy Way Down: Rare Soul Sides](https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa) | 2:53 |
 | 39 | [Only Love Is Real](https://open.spotify.com/track/1nxgnG63hvc87iBLEvCuHS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:29 |
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 82 | [Star Collector \- 2007 Remaster](https://open.spotify.com/track/0tnt3gxEkh3cK3zO95is7f) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 4:26 |
 | 83 | [Gotta Get Through Another Day](https://open.spotify.com/track/3PxezNLKAA9fwYZzVnf5hW) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:33 |
 | 84 | [Song of Long Ago](https://open.spotify.com/track/0exUcfluyGwOgsfYh9xYNf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:44 |
-| 85 | [Point of No Return](https://open.spotify.com/track/4bNIcTaMnyfQe4vpZTQ15L) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [The Resurrection](https://open.spotify.com/album/7koTftbLvHVpVgPBl9WAe8) | 3:05 |
-| 86 | [\(If You Cry\) True Love, True Love \- Single Version](https://open.spotify.com/track/6mZrW1JtojCUbpEJqvjEXE) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Drifters: Essentials](https://open.spotify.com/album/2IjXA36aeQYOzAJgDomUa1) | 2:18 |
+| 85 | [\(If You Cry\) True Love, True Love \- Single Version](https://open.spotify.com/track/6mZrW1JtojCUbpEJqvjEXE) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Drifters: Essentials](https://open.spotify.com/album/2IjXA36aeQYOzAJgDomUa1) | 2:18 |
+| 86 | [Point of No Return](https://open.spotify.com/track/4bNIcTaMnyfQe4vpZTQ15L) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [The Resurrection](https://open.spotify.com/album/7koTftbLvHVpVgPBl9WAe8) | 3:05 |
 | 87 | [On This Side Of Goodbye \- Single Version](https://open.spotify.com/track/1tx5zJ6WPOhsrtqCF36CY5) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [All Time Greats](https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom) | 3:04 |
 | 88 | [The First Day In August](https://open.spotify.com/track/075zqvJuvxI0XVKcrosMAr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:47 |
 | 89 | [How Many Tears](https://open.spotify.com/track/5gd2WpEBaSaMAcvSPaIgBj) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [With Strings And Things](https://open.spotify.com/album/0MqJETsHm4n5RPkHwZnroy) | 2:06 |
 | 90 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 |
-| 91 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 |
-| 92 | [Really Rosie](https://open.spotify.com/track/4Af5QDykrTYYZ0uTPA6air) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:50 |
+| 91 | [Really Rosie](https://open.spotify.com/track/4Af5QDykrTYYZ0uTPA6air) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:50 |
+| 92 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 |
 | 93 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
 | 94 | [A Quiet Place to Live](https://open.spotify.com/track/5gjD5X9YR05v8JVqbWvqg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:55 |
 | 95 | [The Girl From Ipanema](https://open.spotify.com/track/4azEwlFfJ6rC1Zp88dRoJI) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Snuggles](https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [The Girl From Ipanema](https://open.spotify.com/album/5bDOastHuIYL0rHjZ3WMDf) | 1:23 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcBKOgAAAADKs7U5vyMMfrpuqg3+P8jT`
+Snapshot ID: `AcBPngAAAAB4on/9OGpbxoCK43gz3Yk7`

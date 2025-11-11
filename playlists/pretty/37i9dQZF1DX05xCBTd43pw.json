@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Linda Elys",
-  "num_followers": 37991,
+  "num_followers": 37992,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Watergun",
-        "url": "https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 172555,
-      "name": "Watergun",
-      "url": "https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Unexplainable",
-        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
+        "name": "Watergun",
+        "url": "https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT"
       },
       "artists": [
         {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 241888,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
+      "duration_ms": 172555,
+      "name": "Watergun",
+      "url": "https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -439,6 +423,22 @@
       "duration_ms": 310489,
       "name": "mistaken for a while - OST Hundertdreizehn",
       "url": "https://open.spotify.com/track/4TecP7nifEow1WTBQaKuhh"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Unexplainable",
+        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 241888,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -491,38 +491,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Arthouse",
-        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 199246,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 302882,
       "name": "The Feast",
       "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Arthouse",
+        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 199246,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 165867,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Flatline",
-        "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 165867,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "One Day Will Be All I Have",
         "url": "https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 329980,
       "name": "One Day Will Be All I Have",
       "url": "https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Young Bones",
+        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -723,34 +739,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "No Quiero Perderte",
-        "url": "https://open.spotify.com/album/57HnrjBWppxIkQCYxRUk5b"
+        "name": "Devil On My Back",
+        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
       },
       "artists": [
         {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 211105,
-      "name": "No Quiero Perderte",
-      "url": "https://open.spotify.com/track/3LJDNWMVVP5i5qvWIvcuma"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 182247,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9"
+      "duration_ms": 194741,
+      "name": "Devil On My Back",
+      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/57HnrjBWppxIkQCYxRUk5b"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
+      "duration_ms": 211105,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/3LJDNWMVVP5i5qvWIvcuma"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "Full 180",
         "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
@@ -815,6 +831,22 @@
       "duration_ms": 216249,
       "name": "Full 180",
       "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 182247,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -835,38 +867,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Devil On My Back",
-        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "Devil On My Back",
-      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Young Bones",
-        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
-      },
-      "artists": [
-        {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Born To Be Blue",
         "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 171753,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -915,22 +899,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Durch die Nacht",
-        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
       },
@@ -947,18 +915,34 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+      "duration_ms": 151500,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -975,6 +959,22 @@
       "duration_ms": 181900,
       "name": "Sombrero",
       "url": "https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Da bist du",
-        "url": "https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ"
+        "name": "Need To Be Loved",
+        "url": "https://open.spotify.com/album/6T42dLfqiy1fcZ2MdOqdRw"
       },
       "artists": [
         {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 134750,
-      "name": "Da bist du",
-      "url": "https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF"
+      "duration_ms": 174861,
+      "name": "Need To Be Loved",
+      "url": "https://open.spotify.com/track/0PfiSr51LYFHRlRd9ANe4W"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1043,50 +1043,18 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Need To Be Loved",
-        "url": "https://open.spotify.com/album/6T42dLfqiy1fcZ2MdOqdRw"
+        "name": "Da bist du",
+        "url": "https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
         }
       ],
-      "duration_ms": 174861,
-      "name": "Need To Be Loved",
-      "url": "https://open.spotify.com/track/0PfiSr51LYFHRlRd9ANe4W"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/32JCcFJtu9VVz8GgcTZ4CY"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3S0VGP8aFRl9prAYjEU8Ea"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Love Is A Lie",
-        "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 139683,
-      "name": "Love Is A Lie",
-      "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
+      "duration_ms": 134750,
+      "name": "Da bist du",
+      "url": "https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "Love Is A Lie",
+        "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 139683,
+      "name": "Love Is A Lie",
+      "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "Million de Mois",
         "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 177376,
       "name": "Million de Mois",
       "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/32JCcFJtu9VVz8GgcTZ4CY"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 176949,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3S0VGP8aFRl9prAYjEU8Ea"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Drama Baby",
-        "url": "https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 177168,
-      "name": "Drama Baby",
-      "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Mathilda",
         "url": "https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 242528,
       "name": "Mathilda",
       "url": "https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Drama Baby",
+        "url": "https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 177168,
+      "name": "Drama Baby",
+      "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "The Wrong Cards",
+        "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
+      },
+      "artists": [
+        {
+          "name": "Lost in Lona",
+          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "The Wrong Cards",
+      "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "LEAVE ME ALONE",
         "url": "https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "The Wrong Cards",
-        "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
-      },
-      "artists": [
-        {
-          "name": "Lost in Lona",
-          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "The Wrong Cards",
-      "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
       },
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "Down To My Bones",
+        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Down To My Bones",
+      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Down To My Bones",
-        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Down To My Bones",
-      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Time to Shine",
         "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 163338,
       "name": "Time to Shine",
       "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
-        "name": "Curse",
-        "url": "https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2"
-      },
-      "artists": [
-        {
-          "name": "BombayMami",
-          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
-        }
-      ],
-      "duration_ms": 177740,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
         "name": "Starcrossed",
         "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2025-11-06 23:00:28",
       "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2"
+      },
+      "artists": [
+        {
+          "name": "BombayMami",
+          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
+        }
+      ],
+      "duration_ms": 177740,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
         "name": "oxygen",
         "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 184761,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2025-11-06 23:00:28",
+      "album": {
+        "name": "Weird Kid",
+        "url": "https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6"
+      },
+      "artists": [
+        {
+          "name": "To Athena",
+          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
+        }
+      ],
+      "duration_ms": 225099,
+      "name": "Weird Kid",
+      "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"
     },
     {
       "added_at": "2025-11-06 23:00:28",
@@ -1591,22 +1607,6 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2025-11-06 23:00:28",
-      "album": {
-        "name": "Weird Kid",
-        "url": "https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6"
-      },
-      "artists": [
-        {
-          "name": "To Athena",
-          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
-        }
-      ],
-      "duration_ms": 225099,
-      "name": "Weird Kid",
-      "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"
     },
     {
       "added_at": "2025-11-06 23:00:28",

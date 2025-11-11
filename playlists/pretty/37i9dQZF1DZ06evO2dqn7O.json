@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57185,
+  "num_followers": 57184,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAABb4FR0nwW1ktH+jraMygSp",
+  "snapshot_id": "aQ/ZgAAAAABKooVHK368jLcbg5/hGgWG",
   "tracks": [
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 153957,
-      "name": "Razor's Edge (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "why does everything make me cry?",
         "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 153957,
+      "name": "Razor's Edge (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alcohol (with BRELAND)",
         "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
       },
@@ -919,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Atlas Underground Flood",
-        "url": "https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6"
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
       "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 188686,
-      "name": "You'll Get Yours (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z"
+      "duration_ms": 198026,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
     }
   ],
   "unique_name": "This Is X Ambassadors",

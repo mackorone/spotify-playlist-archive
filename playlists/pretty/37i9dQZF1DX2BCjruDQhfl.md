@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,390 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,380 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 |
 | 2 | [Canvas](https://open.spotify.com/track/32pZXiV8O9r7WNFhjDj9Tm) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM) | [Canvas](https://open.spotify.com/album/0DRfxdlqVB54AZX35SK3pC) | 2:31 |
 | 3 | [Lovin Lovin](https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Lovin Lovin](https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O) | 2:15 |
-| 4 | [On My Mind](https://open.spotify.com/track/49KNFhg09mP9x7LOYPveK1) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [On My Mind](https://open.spotify.com/album/6YMsmLAYRkX44C74W21Tls) | 2:50 |
-| 5 | [GEVAARLIJK](https://open.spotify.com/track/3ogMU4L0IEnBKFOt43b57M) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL) | [GEVAARLIJK](https://open.spotify.com/album/1w2i8BKXT4NLZ58sluSaku) | 2:37 |
-| 6 | [m’n type](https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH) | 2:24 |
+| 4 | [m’n type](https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH) | 2:24 |
+| 5 | [On My Mind](https://open.spotify.com/track/49KNFhg09mP9x7LOYPveK1) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [On My Mind](https://open.spotify.com/album/6YMsmLAYRkX44C74W21Tls) | 2:50 |
+| 6 | [GEVAARLIJK](https://open.spotify.com/track/3ogMU4L0IEnBKFOt43b57M) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL) | [GEVAARLIJK](https://open.spotify.com/album/1w2i8BKXT4NLZ58sluSaku) | 2:37 |
 | 7 | [KILLING ME SOFTLY](https://open.spotify.com/track/78UwH2LoQ09TjzW9P8lLOk) | [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap) | [KILLING ME SOFTLY](https://open.spotify.com/album/1rLOSP5vlajVaVfcjuAxOP) | 2:14 |
 | 8 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 9 | [Single In De Club](https://open.spotify.com/track/5045jDDUndh7937KS177Ir) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Single In De Club](https://open.spotify.com/album/4WC3sXK9AKEQ6HlMfoZJGC) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 99 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 |
 | 100 | [Damage](https://open.spotify.com/track/14fG8WwUWFwrZqYam8bWPz) | [jaïre](https://open.spotify.com/artist/00wG3HBn1NEc9LsF664PF9) | [Damage](https://open.spotify.com/album/7BUsFuc0GMwFJo68FKW5p7) | 3:00 |
 
-Snapshot ID: `AAAAAK9PGHZseEdXTHYpfFO132w61eay`
+Snapshot ID: `AAAAABakzF+Nd/c92UN8U+F5twAxGyGY`

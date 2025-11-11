@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 110080,
+  "num_followers": 110093,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAACkB0C82vI0hXeSLkCShtT6",
+  "snapshot_id": "aQ/ZgAAAAACkPPOB5rLKTUFnmhiGJpdT",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Light and Shadow",
-      "url": "https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9"
+      "duration_ms": 173240,
+      "name": "West Across the Ocean Sea",
+      "url": "https://open.spotify.com/track/574kl9OU5dmKGKYhDFXj2P"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 164133,
-      "name": "Hymne - Remastered",
-      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
+      "duration_ms": 300773,
+      "name": "L'enfant - Remastered",
+      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 173240,
-      "name": "West Across the Ocean Sea",
-      "url": "https://open.spotify.com/track/574kl9OU5dmKGKYhDFXj2P"
+      "duration_ms": 226760,
+      "name": "Light and Shadow",
+      "url": "https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 300773,
-      "name": "L'enfant - Remastered",
-      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
+      "duration_ms": 164133,
+      "name": "Hymne - Remastered",
+      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Aquatic Dance",
-      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
+      "duration_ms": 312826,
+      "name": "Through the Night Mist",
+      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 312826,
-      "name": "Through the Night Mist",
-      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
+      "duration_ms": 223866,
+      "name": "Aquatic Dance",
+      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 340426,
-      "name": "Memories of Blue",
-      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 212680,
       "name": "Early Years",
       "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 340426,
+      "name": "Memories of Blue",
+      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Dreams of Surf",
-      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexander (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 252293,
       "name": "Across the Mountains",
       "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Dreams of Surf",
+      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 326653,
-      "name": "Main Theme - From \"Chariots of Fire\"",
-      "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexander (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 239133,
       "name": "Titans",
       "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 326653,
+      "name": "Main Theme - From \"Chariots of Fire\"",
+      "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
       "duration_ms": 246306,
       "name": "Eric's Theme",
       "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
     },
     {
       "added_at": null,

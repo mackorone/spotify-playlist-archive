@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1101677,
+  "num_followers": 1101542,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 226497,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "When I Say That I Love You",
         "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME"
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
         }
       ],
-      "duration_ms": 226497,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Better Way",
         "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "always you",
-        "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
+        "name": "Gloria Duplex",
+        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
       },
       "artists": [
         {
-          "name": "COULOU",
-          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 188799,
-      "name": "always you",
-      "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
+      "duration_ms": 235640,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Gloria Duplex",
-        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
+        "name": "always you",
+        "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "COULOU",
+          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
         }
       ],
-      "duration_ms": 235640,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
+      "duration_ms": 188799,
+      "name": "always you",
+      "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
     },
     {
       "added_at": "2024-08-23 14:59:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von ZAH1DE und benno!, ROSALÍA, Kraftklub,  Lune und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,156 likes - 94 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,087 likes - 94 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 47 | [La Loba](https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [La Loba](https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp) | 3:32 |
 | 48 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 |
 | 49 | [Große Kunst](https://open.spotify.com/track/0Z5i7idYQmtPevUaMVtKpc) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Große Kunst](https://open.spotify.com/album/37MHJaVh0ooueRzrpqWNVn) | 4:03 |
-| 50 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
+| 50 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 51 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
 | 52 | [Intertwined](https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [It's Always At Night](https://open.spotify.com/album/2oMIMZ0nmzotALQfXll9bA) | 3:54 |
 | 53 | [For No Reason](https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [For No Reason](https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en) | 2:39 |

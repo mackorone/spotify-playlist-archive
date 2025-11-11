@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72496,
+  "num_followers": 72499,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAARPBki/EU0dS+rHEwC2tCA",
+  "snapshot_id": "aQ/ZgAAAAABP1L5IaR45971/ABdefQs5",
   "tracks": [
     {
       "added_at": null,
@@ -407,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+        "name": "La Fiesta Contin\u00faa",
+        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
       },
       "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Son de Difuntos",
-      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
+      "duration_ms": 180813,
+      "name": "El Yerbero Moderno (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
     },
     {
       "added_at": null,
@@ -439,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta Contin\u00faa",
-        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
       "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 180813,
-      "name": "El Yerbero Moderno (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
+      "duration_ms": 217000,
+      "name": "Son de Difuntos",
+      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Viene la Muerte Echando Rasero",
-      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
+      "duration_ms": 237933,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/7DZ8PrFCOtxR1VSFqKm2HT"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 237933,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/7DZ8PrFCOtxR1VSFqKm2HT"
+      "duration_ms": 240000,
+      "name": "Viene la Muerte Echando Rasero",
+      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Tengo Miedo de Quererte",
-      "url": "https://open.spotify.com/track/2thfKi94jG1bAmmAsN0e9u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 248026,
       "name": "Palomo Del Comalito",
       "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Tengo Miedo de Quererte",
+      "url": "https://open.spotify.com/track/2thfKi94jG1bAmmAsN0e9u"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Border",
         "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 207026,
       "name": "El Feo",
       "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "La Campanera",
+      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 275026,
       "name": "L\u00e1grimas Negras (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "La Campanera",
-      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 260013,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Verte Feliz",
-        "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Quiero Verte Feliz",
-      "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El \u00daltimo Trago",
         "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 207200,
       "name": "En el \u00faltimo trago",
       "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiero Verte Feliz",
+        "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Quiero Verte Feliz",
+      "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
     },
     {
       "added_at": null,

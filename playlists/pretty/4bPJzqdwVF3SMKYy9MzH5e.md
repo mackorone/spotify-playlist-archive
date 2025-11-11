@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,255 songs - 5 day 0 hr 55 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,257 songs - 5 day 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2263,5 +2263,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2253 | [Calabria 2008 \(feat\. Natasja\)](https://open.spotify.com/track/0mwbc2AqVHIziVGg3syEI9) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/3xynSbEGBq3jd5N8HLRrc3) | 3:50 |
 | 2254 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 2255 | [Simple And Clean](https://open.spotify.com/track/2G8tfTExxzpRKssKzKwDYV) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [COLORS](https://open.spotify.com/album/6b65tDkcbAisHn2FR02ZC8) | 5:00 |
+| 2256 | [Canary Wharf drift](https://open.spotify.com/track/64yioT39hYUlNyQMqEyUE6) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Oatmilkandcodeine](https://open.spotify.com/artist/0j3PryakINdSkE4zVocQY3) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 2:25 |
+| 2257 | [Groove Street](https://open.spotify.com/track/504OahIMlkY7CemnS8TWv0) | [JXXXO](https://open.spotify.com/artist/3zKx7GjoCdfCUuR3a63XkI) | [TXXLS2](https://open.spotify.com/album/55PbuKicNsOgP2t5AliIYc) | 5:05 |
 
-Snapshot ID: `AAAEw1PQoNb9rHGav4jfRZPMcXrBfv9a`
+Snapshot ID: `AAAExTmCBNaFI8igQbHZz+AlhXSXaOCo`

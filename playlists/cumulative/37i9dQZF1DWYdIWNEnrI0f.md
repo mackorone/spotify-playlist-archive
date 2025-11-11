@@ -4,7 +4,7 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-51 songs - 2 hr 33 min
+52 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 | 2025-10-24 |  |
 | [Heal Myself](https://open.spotify.com/track/7gm6jX12Q9svH5xuIsd361) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Heal Myself](https://open.spotify.com/album/013f3i0nJ4LueZWCnXHUAn) | 2:00 | 2025-10-24 |  |
 | [Heidi](https://open.spotify.com/track/66hNd1s6k5KZ617mUoBkWq) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Heidi](https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6) | 2:15 | 2025-10-24 |  |
+| [Hidden Shrine](https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hidden Shrine](https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI) | 2:11 | 2025-11-07 |  |
 | [honestly](https://open.spotify.com/track/24PHDi7Uhz1LO8Xi2pJoDQ) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [SAILING LP](https://open.spotify.com/album/5kJ37eUXFqer0BG0Wyb57F) | 1:21 | 2025-10-24 |  |
 | [insideout](https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [insideout](https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW) | 2:25 | 2025-10-24 |  |
 | [Island \(feat\. Uyama Hiroto & haruka nakamura\)](https://open.spotify.com/track/3G0RBe3ZhkDUBh30WVV1hX) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:07 | 2025-10-24 |  |
@@ -43,7 +44,7 @@
 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 | 2025-10-24 |  |
 | [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:17 | 2025-10-24 |  |
 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 | 2025-10-24 |  |
-| [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2025-10-24 |  |
+| [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2025-10-24 | 2025-11-11 |
 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-10-24 |  |
 | [So Real \(Instrumental\)](https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [So Real \(Instrumental\)](https://open.spotify.com/album/1Zm3xiOYcPdj0yGcoFqeAR) | 3:08 | 2025-10-24 |  |
 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 | 2025-10-24 |  |

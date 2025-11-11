@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-397 songs - 23 hr 15 min
+398 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 | 2024-07-15 | 2025-06-18 |
 | [Mi Bebesita](https://open.spotify.com/track/0MLrtHu0ymaxaV6NEappv8) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [De La Calle Pa Tu Cora](https://open.spotify.com/album/3UXH6Yk3zm7s87fXASKvnV) | 3:09 | 2025-11-09 |  |
 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 | 2023-06-16 | 2025-11-10 |
+| [Mi Kryptonita](https://open.spotify.com/track/5DBoa0YTjE7xXAK1S2C2X3) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/2pvr1DnmS01brEuyN0iNgd) | 3:08 | 2025-11-09 |  |
 | [Mi Padrino el Diablo](https://open.spotify.com/track/0z07OSWiapGp0I8ttzgXo1) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 2:44 | 2023-06-16 | 2025-11-10 |
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2024-07-02 | 2025-11-10 |
 | [Mi Pregón](https://open.spotify.com/track/5EyZuJ9a2FAsgWxmjffl73) | [Los Chikos RK Ritmo Kumbiero](https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt) | [Mi Pregón](https://open.spotify.com/album/6wiadyiTXY2DpfI6RMyXI2) | 3:21 | 2024-07-02 | 2025-06-18 |
@@ -334,7 +335,7 @@
 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 | 2023-06-16 | 2025-11-10 |
 | [Si me tomo una cerveza](https://open.spotify.com/track/3cZEwTLyA3rc8XrdjNVcGM) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Si me tomo una cerveza](https://open.spotify.com/album/59w6lNv6KkDtdO2LFZJAuY) | 3:32 | 2023-11-08 | 2024-07-03 |
 | [Si No Vas a Ser Tú](https://open.spotify.com/track/0YmihiZsgfqKIQO6Le00QL) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Necios](https://open.spotify.com/album/7CGMwSZjYJx3fJiFt5e9UP) | 3:54 | 2025-11-09 |  |
-| [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 | 2025-11-09 |  |
+| [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 | 2025-11-09 | 2025-11-11 |
 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 | 2025-06-17 | 2025-11-10 |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:54 | 2025-06-17 | 2025-11-10 |
 | [Si Yo Fuera Tu](https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [La Voz Del Corazón](https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV) | 3:43 | 2023-11-08 | 2025-06-18 |

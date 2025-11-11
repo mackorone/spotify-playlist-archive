@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 263472,
+  "num_followers": 263512,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Merengue y Sentimiento",
+        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Amorcito Enfermito",
+      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Morfina (feat. Paloma Mami)",
         "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 229474,
       "name": "Morfina (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Merengue y Sentimiento",
-        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Amorcito Enfermito",
-      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Todo Tiene Su Hora",
-        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Muchachita Linda",
-      "url": "https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "La Historia\u2026Mis \u00c9xitos",
         "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 242320,
       "name": "Me Voy - Bachata",
       "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Todo Tiene Su Hora",
+        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Muchachita Linda",
+      "url": "https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ"
     },
     {
       "added_at": "2024-08-23 04:59:00",

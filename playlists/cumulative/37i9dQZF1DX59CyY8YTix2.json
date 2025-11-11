@@ -21093,6 +21093,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30e1\u30e9 \u30a2\u30a4\u30ed\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/1nJ6X27r6LDpe7k3IawJdT"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "\u30ab\u30e1\u30e9 \u30a2\u30a4\u30ed\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/6bBFHVPtizfbm3mLdZ3OjB"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30e8\u30b3",
         "url": "https://open.spotify.com/album/4FMDJwUfNnBU1qku3DyXgI"
       },
@@ -24194,7 +24212,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 188922,
       "name": "\u30d5\u30e9\u30b8\u30e3\u30a4\u30eb\u30fb\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/4AgyrMwqCQc5wlWftTPwrZ"

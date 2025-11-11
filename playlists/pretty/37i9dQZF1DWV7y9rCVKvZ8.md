@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Jadi lebih produktif ditemani musik terkini
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,579 likes - 92 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,590 likes - 92 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,6 +99,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 | 89 | [Sialan](https://open.spotify.com/track/75CBhRix24ssDBWht7022G) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 4:01 |
 | 90 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 |
 | 91 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
-| 92 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas \(Original Soundtrack\)](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 |
+| 92 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 |
 
 Snapshot ID: `AAAAAGWux9vET5Xrk4ngMG6jW9HQ8RtU`

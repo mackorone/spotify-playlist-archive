@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 
 > Détendez vous avec ces chansons tranquilles pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,746 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,758 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Facile](https://open.spotify.com/track/2yfbi9kGboXXeMVJfHvaFa) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Facile](https://open.spotify.com/album/4LBojIjeEQ9gdFYH5VUXqq) | 4:06 |
+| 1 | [Facile \- facile](https://open.spotify.com/track/2yfbi9kGboXXeMVJfHvaFa) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Facile \(facile\)](https://open.spotify.com/album/4LBojIjeEQ9gdFYH5VUXqq) | 4:06 |
 | 2 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 3 | [A la faveur de l'automne](https://open.spotify.com/track/32tTZwLVOL2TtNV0o5j7li) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne / Le sacre des Lemmings, et autres contes de la lisière](https://open.spotify.com/album/2h32MXQ9FQQoYI9i23dREE) | 3:43 |
 | 4 | [Blackbird](https://open.spotify.com/track/39GbSCrIorvWBEa7nEgEOG) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beat Bugs: Best Of Seasons 1 & 2 \(Music From The Original Series\)](https://open.spotify.com/album/3uX8io8RokH3S3NEW612EG) | 2:31 |

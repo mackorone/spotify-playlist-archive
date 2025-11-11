@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 634521,
+  "num_followers": 634573,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAA7hEAsgFjVMT4a07BnmLxo",
+  "snapshot_id": "aQ/ZgAAAAADUj8Xy9es78QClPhs0yzFr",
   "tracks": [
     {
       "added_at": null,
@@ -707,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
         }
       ],
-      "duration_ms": 260293,
-      "name": "You'll Never Stand Alone",
-      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
+      "duration_ms": 296373,
+      "name": "I Love The Lord (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
     },
     {
       "added_at": null,
@@ -763,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
         }
       ],
-      "duration_ms": 296373,
-      "name": "I Love The Lord (with Georgia Mass Choir)",
-      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
+      "duration_ms": 260293,
+      "name": "You'll Never Stand Alone",
+      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
     },
     {
       "added_at": null,

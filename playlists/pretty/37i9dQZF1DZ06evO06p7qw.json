@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 187435,
+  "num_followers": 187489,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAADv9p0EPjAXi/muqFPvzw7h",
+  "snapshot_id": "aQ/ZgAAAAADTL07l5cjkdXWkxJ63XOxZ",
   "tracks": [
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 183586,
-      "name": "Junto A M\u00ed",
-      "url": "https://open.spotify.com/track/1OWnJnbFFrGw4wnoOgavNo"
+      "duration_ms": 188933,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 321763,
-      "name": "Intro + Miel - En Vivo desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/4VcnsXca3wmorKKJPgZR0W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERIOR",
         "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 321763,
+      "name": "Intro + Miel - En Vivo desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/4VcnsXca3wmorKKJPgZR0W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 188933,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
+      "duration_ms": 183586,
+      "name": "Junto A M\u00ed",
+      "url": "https://open.spotify.com/track/1OWnJnbFFrGw4wnoOgavNo"
     },
     {
       "added_at": null,

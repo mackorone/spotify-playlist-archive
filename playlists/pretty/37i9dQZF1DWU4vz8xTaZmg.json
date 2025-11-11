@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 74560,
+  "num_followers": 74557,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,22 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+      "duration_ms": 170746,
+      "name": "My Oh My (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -331,6 +335,22 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 203266,
       "name": "Space Cadet (feat. Gunna)",
       "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 170746,
-      "name": "My Oh My (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 265173,
       "name": "Beast Of Burden - Remastered 1994",
       "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "Harleys In Hawaii",
         "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 185815,
       "name": "Harleys In Hawaii",
       "url": "https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193767,
+      "name": "PIENSO EN TU MIR\u00c1 - Cap.3: Celos",
+      "url": "https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193767,
-      "name": "PIENSO EN TU MIR\u00c1 - Cap.3: Celos",
-      "url": "https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "Shoreline Mafia Presents Rob Vicious: Traplantic",
         "url": "https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174335,
       "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
       "url": "https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 236215,
-      "name": "NI BIEN NI MAL",
-      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 250141,
       "name": "WHAT TO DO? (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/4AO1XhrgJczQ9bNVxdfKQe"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 236215,
+      "name": "NI BIEN NI MAL",
+      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 183011,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "Clics Modernos",
         "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 206720,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "Mother's Milk",
-        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Higher Ground - Remastered 2003",
-      "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "Gondwana",
         "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 292800,
       "name": "Sentimiento Original",
       "url": "https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "Mother's Milk",
+        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Higher Ground - Remastered 2003",
+      "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47/66",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
       },
       "artists": [
         {
@@ -1236,13 +1236,13 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47/66",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -1331,8 +1331,8 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",
-        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+        "name": "Morad: Bzrp Music Sessions, Vol. 47/66",
+        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
       },
       "artists": [
         {
@@ -1340,13 +1340,45 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 143291,
-      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",
-      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
+      "duration_ms": 177583,
+      "name": "Morad: Bzrp Music Sessions, Vol. 47/66",
+      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 248693,
+      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
+      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -1383,38 +1415,6 @@
       "duration_ms": 169146,
       "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
       "url": "https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
-        "name": "One Hot Minute (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 248693,
-      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
-      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
+        "name": "Dirt Bag",
+        "url": "https://open.spotify.com/album/4eAiHYd3nih3os2BqHm0vt"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Daddy (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/4hanO6Du5J7QEguNHYZHmw"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 201266,
       "name": "Fortune Faded",
       "url": "https://open.spotify.com/track/37sSud1ZrTpwXPGJP0dbXI"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
-        "name": "Dirt Bag",
-        "url": "https://open.spotify.com/album/4eAiHYd3nih3os2BqHm0vt"
-      },
-      "artists": [
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 151146,
-      "name": "Daddy (feat. Rich The Kid)",
-      "url": "https://open.spotify.com/track/4hanO6Du5J7QEguNHYZHmw"
     },
     {
       "added_at": "2025-10-24 13:16:08",

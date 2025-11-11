@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity. ",
-  "num_followers": 25284,
+  "num_followers": 25332,
   "original_name": "The Sims 25th Birthday Mix",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
     },
     {
       "added_at": "2025-08-05 13:32:04",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Beautiful Now",
-      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "Thrill Seeker",
         "url": "https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 194000,
       "name": "Freak (feat. REI AMI)",
       "url": "https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Beautiful Now",
+      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
     },
     {
       "added_at": "2025-08-05 13:32:04",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "Emotion (Deluxe Expanded Edition)",
-        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 251327,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "Love Is Wicked",
         "url": "https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
+        "name": "Emotion (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
         "name": "Happy Face",
         "url": "https://open.spotify.com/album/7lYCoXM88rbCAePNgR6L1I"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "Sport",
-        "url": "https://open.spotify.com/album/5zoMTFng02JOaUaa5BldKT"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 218993,
-      "name": "Let's Get It Started",
-      "url": "https://open.spotify.com/track/37LEkmNdegFwoS55DdL6Ov"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "All the Time",
         "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 228111,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
+        "name": "Sport",
+        "url": "https://open.spotify.com/album/5zoMTFng02JOaUaa5BldKT"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 218993,
+      "name": "Let's Get It Started",
+      "url": "https://open.spotify.com/track/37LEkmNdegFwoS55DdL6Ov"
     },
     {
       "added_at": "2025-08-05 13:32:04",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "Home Video",
-        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Hot & Heavy",
-      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "Bom Bom",
         "url": "https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 174033,
       "name": "Bom Bom - Radio Edit",
       "url": "https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Hot & Heavy",
+      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
     },
     {
       "added_at": "2025-08-05 13:32:04",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "Halloweenie I-VI",
-        "url": "https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "Halloweenie VI: Possess Me",
-      "url": "https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "Sucker Punch",
         "url": "https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 184320,
       "name": "Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/5DCaAsjQRLYvvdFUzaYnAz"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
+        "name": "Halloweenie I-VI",
+        "url": "https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 177760,
+      "name": "Halloweenie VI: Possess Me",
+      "url": "https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU"
     },
     {
       "added_at": "2025-08-05 13:32:04",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "Secondhand Rapture",
-        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
-      },
-      "artists": [
-        {
-          "name": "MS MR",
-          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "Insomniatic",
         "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 175920,
       "name": "Chemicals React - Remix",
       "url": "https://open.spotify.com/track/7vOjTY220BqIttYDbwshED"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
+        "name": "Secondhand Rapture",
+        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
+      },
+      "artists": [
+        {
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
     },
     {
       "added_at": "2025-08-05 13:32:04",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "Magic Still Exists",
         "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 203330,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/7f0SiAYG8XjOoQyfGvgbLA"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR"
     },
     {
       "added_at": "2025-08-05 13:32:04",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "enknee1",
-      "url": "https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W"
-    },
-    {
-      "added_at": "2025-08-05 13:32:04",
-      "album": {
         "name": "BREAD",
         "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 279591,
       "name": "Perfect Someone",
       "url": "https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b"
+    },
+    {
+      "added_at": "2025-08-05 13:32:04",
+      "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "enknee1",
+      "url": "https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W"
     },
     {
       "added_at": "2025-08-05 13:32:04",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2025-08-05 13:32:04",
       "album": {
-        "name": "Not Your Kind of People",
-        "url": "https://open.spotify.com/album/1CJDAVFRfgHbwyAv4yVutN"
+        "name": "Whistle (While You Work It)",
+        "url": "https://open.spotify.com/album/1C0txQpTvo2z5N6Rrm6Y9D"
       },
       "artists": [
         {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
         }
       ],
-      "duration_ms": 299080,
-      "name": "Not Your Kind of People",
-      "url": "https://open.spotify.com/track/7zT7jZo4FObcrjr82AwebO"
+      "duration_ms": 215032,
+      "name": "Whistle (While You Work It)",
+      "url": "https://open.spotify.com/track/5zwwXMjE6OrqfVpYGnA9RW"
     }
   ],
   "unique_name": "The Sims 25th Birthday Mix",

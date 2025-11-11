@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,227 likes - 79 songs - 3 hr 58 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,227 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 77 | [Paper Romance \- Purple Disco Machine Remix](https://open.spotify.com/track/4Q507WHVT2jAodOq49RqMf) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paper Romance \(Purple Disco Machine Remix \- Edit\)](https://open.spotify.com/album/422SWiQLySbuzPmJPYIDt8) | 6:50 |
 | 78 | [Ur Mine](https://open.spotify.com/track/4Hbf5VN2uxsZOO9BUuCPlk) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Ur Mine](https://open.spotify.com/album/7dAvA6dUPuTvmyxlpFVeGz) | 2:16 |
 | 79 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 |
+| 80 | [Rebaixado](https://open.spotify.com/track/5Vgjfoe3uNcWuW91AOl8xO) | [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [Rebaixado](https://open.spotify.com/album/4v0PuFcjpicEewZUJwWGaJ) | 3:14 |
 
-Snapshot ID: `AAAK7BrvRIFN/c3gJ26CScLQDHl0WkM3`
+Snapshot ID: `AAAK7SwqnRhk+EXbD7E8+osEjWfv9ftB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,399 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,438 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Wasp / Behind the Wall of Sleep / Bassically / N.I.B\. \- 2014 Remaster](https://open.spotify.com/track/4hx9RvP93j79EJLAiyJQoI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 9:43 |
 | 50 | [Laguna Sunrise \- 2009 Remaster](https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 2:50 |
 
-Snapshot ID: `aQ6IAAAAAAACaRa7dP/ljNAjtlJgN/ub`
+Snapshot ID: `aQ/ZgAAAAABjNPvtHNLhyDq8d10QDUDm`

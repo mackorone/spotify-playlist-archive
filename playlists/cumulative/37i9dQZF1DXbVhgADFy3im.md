@@ -4,7 +4,7 @@
 
 > Every track you're listening/should be listening to ;\)
 
-126 songs - 7 hr 43 min
+127 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Deewaniyat \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Deewaniyat \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7) | 4:17 | 2025-09-23 |  |
 | [Desi Kalakaar](https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Desi Kalakaar](https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H) | 4:13 | 2025-06-25 | 2025-11-06 |
 | [Dhun \(From "Saiyaara"\)](https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dhun \(From "Saiyaara"\)](https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG) | 4:36 | 2025-08-12 |  |
+| [Dhurandhar \- Title Track \(From "Dhurandhar"\)](https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Charanjit Ahuja](https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj), [Muhammad Sadiq](https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD), [Ranjit Kaur](https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY), [Babu Singh Maan](https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d) | [Dhurandhar \- Title Track \(From "Dhurandhar"\)](https://open.spotify.com/album/6WN60ZpoljxxwYluAGxvqn) | 2:35 | 2025-11-03 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-06-25 |  |
 | [Dil Diyan Gallan](https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [YRF Top 10 \- Falling in Love](https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp) | 4:20 | 2025-11-03 |  |
 | [Dil Kaa Jo Haal Hai](https://open.spotify.com/track/3IZhkhpuGU7iNWDcQ30nZm) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Besharam](https://open.spotify.com/album/0Lt9E5HOztunSW8sveIAbd) | 5:02 | 2025-08-18 |  |
@@ -132,7 +133,7 @@
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Seshnolan](https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2025-06-25 |  |
 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2025-08-25 | 2025-09-24 |
 | [Ya Ali \- From "Gangster"](https://open.spotify.com/track/7C3IQI7f7zN1xasNYcZnYY) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Zubeen Garg](https://open.spotify.com/artist/3mpgtUc7wYBNjr04gEiQ4u) | [Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4iVTKZvu3oFUlnNG4PqYST) | 4:55 | 2025-09-25 |  |
-| [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 | 2025-06-25 |  |
+| [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 | 2025-06-25 | 2025-11-11 |
 | [Zehnaseeb](https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:37 | 2025-06-25 | 2025-11-04 |
 
 \*This playlist was first scraped on 2025-07-01. Prior content cannot be recovered.

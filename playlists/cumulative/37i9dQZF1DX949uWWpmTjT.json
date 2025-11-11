@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Ask for More",
+        "url": "https://open.spotify.com/album/4RuLAwmPJcZUCGkuRd5r5a"
+      },
+      "artists": [
+        {
+          "name": "Tommie Blayne",
+          "url": "https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203756,
+      "name": "Ask for More",
+      "url": "https://open.spotify.com/track/0Hx2fvSuf3OxAadpYV92NH"
+    },
+    {
+      "album": {
         "name": "Ask Me Now",
         "url": "https://open.spotify.com/album/77LSpK2AcfgsWmHdHmZWCj"
       },
@@ -2912,7 +2930,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 249022,
       "name": "Cave of the Crystals",
       "url": "https://open.spotify.com/track/7xy39H1NbRO6LZzeQ9Kjur"
@@ -4512,7 +4530,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 212144,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E"
@@ -9118,7 +9136,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 192549,
       "name": "It\u2019s not a novel",
       "url": "https://open.spotify.com/track/2328JsPTUOHvx7eiEaIxJN"
@@ -10928,7 +10946,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 224052,
       "name": "Maywood In My Heart",
       "url": "https://open.spotify.com/track/4nmm4RBqwy3rOwMELRrl5p"
@@ -13784,7 +13802,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 151480,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/4A9VfIf7ttN6gFmZJkj7dS"

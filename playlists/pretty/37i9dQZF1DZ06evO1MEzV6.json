@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 120834,
+  "num_followers": 120841,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAB4AH0EijDlEDazI8bcdstL",
+  "snapshot_id": "aQ/ZgAAAAADg88wsD3xCIqVACERorzWU",
   "tracks": [
     {
       "added_at": null,
@@ -567,54 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish I Was Stephen Malkmus",
-        "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 231860,
-      "name": "I Wish I Was Stephen Malkmus",
-      "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 260024,
-      "name": "How Was Your Day?",
-      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loveworm",
-        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 239975,
-      "name": "Ceilings",
-      "url": "https://open.spotify.com/track/5GP8cNzgiMG5Sm8of4zQ6c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "fall in love with a girl (feat. Beabadoobee)",
         "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
       },
@@ -631,6 +583,54 @@
       "duration_ms": 190853,
       "name": "fall in love with a girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wish I Was Stephen Malkmus",
+        "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 231860,
+      "name": "I Wish I Was Stephen Malkmus",
+      "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 239975,
+      "name": "Ceilings",
+      "url": "https://open.spotify.com/track/5GP8cNzgiMG5Sm8of4zQ6c"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
+      "duration_ms": 260024,
+      "name": "How Was Your Day?",
+      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 359000,
+  "num_followers": 359122,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "30 Mejores: Alci Acosta",
         "url": "https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 174213,
       "name": "Total",
       "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Antolog\u00eda... Emilio Tuero",
-        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
-      },
-      "artists": [
-        {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Quinto patio",
-      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Las Estrellas Del Fonografo RCA Victor",
         "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 170666,
       "name": "No Me Platiques Ya",
       "url": "https://open.spotify.com/track/5O6PZl2Ba9KYFNxX8ZsPLH"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Antolog\u00eda... Emilio Tuero",
+        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Quinto patio",
+      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/3h4Htr85x75IWiciJsEfpZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7bd92UGLbcFLMvq9oBFur5"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Epoca De Oro",
         "url": "https://open.spotify.com/album/2Uq4IXSFhPPopHSaDpD2my"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 176160,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/7410XFJdR47lachsg3fkth"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/3h4Htr85x75IWiciJsEfpZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 153520,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7bd92UGLbcFLMvq9oBFur5"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -767,18 +767,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Personalidad - Los Grandes Trios",
-        "url": "https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb"
+        "name": "Los Panchos - \u00c9xitos Esenciales",
+        "url": "https://open.spotify.com/album/2aHrO8JUDQl22WqyvfaYBD"
       },
       "artists": [
         {
-          "name": "El Negro Peregrino Y Su Trio",
-          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Nochecita",
-      "url": "https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT"
+      "duration_ms": 142466,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/2qnpSf8OfsFVRxxeW0wnet"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -815,6 +819,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Personalidad - Los Grandes Trios",
+        "url": "https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb"
+      },
+      "artists": [
+        {
+          "name": "El Negro Peregrino Y Su Trio",
+          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Nochecita",
+      "url": "https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Cita Con Luis Arcaraz",
         "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 188973,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Los Panchos - \u00c9xitos Esenciales",
-        "url": "https://open.spotify.com/album/2aHrO8JUDQl22WqyvfaYBD"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        }
-      ],
-      "duration_ms": 142466,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/2qnpSf8OfsFVRxxeW0wnet"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Mexican Music: Trios",
+        "url": "https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B"
+      },
+      "artists": [
+        {
+          "name": "Trios de Mexico",
+          "url": "https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 120061,
       "name": "Quiero Conocerte",
       "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Mexican Music: Trios",
-        "url": "https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B"
-      },
-      "artists": [
-        {
-          "name": "Trios de Mexico",
-          "url": "https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Antolog\u00eda. . .Hermanas Aguila",
-        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
+        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/5cEtupiFx3BUUd8OKrfrRQ"
       },
       "artists": [
         {
-          "name": "Hermanas Aguila",
-          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Se\u00f1ora tentaci\u00f3n",
-      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
+      "duration_ms": 169280,
+      "name": "Besos de Plata",
+      "url": "https://open.spotify.com/track/5k9C5fzQQIAdQ5eJp6N3Jy"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1303,42 +1303,34 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
-        "url": "https://open.spotify.com/album/5cEtupiFx3BUUd8OKrfrRQ"
+        "name": "Antolog\u00eda. . .Hermanas Aguila",
+        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
       },
       "artists": [
         {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+          "name": "Hermanas Aguila",
+          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
         }
       ],
-      "duration_ms": 169280,
-      "name": "Besos de Plata",
-      "url": "https://open.spotify.com/track/5k9C5fzQQIAdQ5eJp6N3Jy"
+      "duration_ms": 210413,
+      "name": "Se\u00f1ora tentaci\u00f3n",
+      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
     },
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+      "duration_ms": 169440,
+      "name": "La Mentira (Se Te Olvida)",
+      "url": "https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1367,18 +1359,42 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd"
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
       },
       "artists": [
         {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
         }
       ],
-      "duration_ms": 169440,
-      "name": "La Mentira (Se Te Olvida)",
-      "url": "https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs"
+      "duration_ms": 153053,
+      "name": "Canci\u00f3n del alma",
+      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1395,22 +1411,6 @@
       "duration_ms": 144194,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 153053,
-      "name": "Canci\u00f3n del alma",
-      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "15 Creaciones De Yolanda Y Su Trio Perla Negra - Versiones Originales",
-        "url": "https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Y Su Trio Perla Negra",
-          "url": "https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG"
-        }
-      ],
-      "duration_ms": 136693,
-      "name": "Desesperadamente",
-      "url": "https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "XEW La Voz de America Latina",
         "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 175106,
       "name": "Viajera",
       "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "15 Creaciones De Yolanda Y Su Trio Perla Negra - Versiones Originales",
+        "url": "https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Y Su Trio Perla Negra",
+          "url": "https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG"
+        }
+      ],
+      "duration_ms": 136693,
+      "name": "Desesperadamente",
+      "url": "https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1523,6 +1523,22 @@
       "duration_ms": 197066,
       "name": "Culebra Venenosa",
       "url": "https://open.spotify.com/track/1HYixaofJGQcDo837EZg1U"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "15 Canciones Inolvidables Con el Tr\u00edo Caribe",
+        "url": "https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS"
+      },
+      "artists": [
+        {
+          "name": "Trio Caribe",
+          "url": "https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Son De La Loma",
+      "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "15 Canciones Inolvidables Con el Tr\u00edo Caribe",
-        "url": "https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS"
-      },
-      "artists": [
-        {
-          "name": "Trio Caribe",
-          "url": "https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Son De La Loma",
-      "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Tr\u00edos Del Mundo : 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg"
       },
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Grandes \u00c9xitos De Carmen Delia Dipin\u00ed",
+        "url": "https://open.spotify.com/album/4sOd7sSRarWnDiDLmeOlm7"
+      },
+      "artists": [
+        {
+          "name": "Carmen Delia Dipini",
+          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
+        },
+        {
+          "name": "Johnny Rodriguez Y Su Trio",
+          "url": "https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka"
+        }
+      ],
+      "duration_ms": 170733,
+      "name": "Conozco La Verdad",
+      "url": "https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 171973,
       "name": "Como Las Olas",
       "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Grandes \u00c9xitos De Carmen Delia Dipin\u00ed",
-        "url": "https://open.spotify.com/album/4sOd7sSRarWnDiDLmeOlm7"
-      },
-      "artists": [
-        {
-          "name": "Carmen Delia Dipini",
-          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
-        },
-        {
-          "name": "Johnny Rodriguez Y Su Trio",
-          "url": "https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka"
-        }
-      ],
-      "duration_ms": 170733,
-      "name": "Conozco La Verdad",
-      "url": "https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg"
     },
     {
       "added_at": "2024-07-11 15:48:05",

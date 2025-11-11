@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Peach PRC",
-  "num_followers": 130856,
+  "num_followers": 130846,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL9BGGxKSp+YnBuRTmfnmbQwLx6i",
+  "snapshot_id": "AAAAAHmydKgrrCK9d4hHwL0+ZmSyJqSC",
   "tracks": [
     {
       "added_at": "2025-11-06 13:00:37",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-11-06 13:00:37",
       "album": {
-        "name": "Ur an Angel I\u2019m Just Particles",
-        "url": "https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Princess",
-      "url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
-    },
-    {
-      "added_at": "2025-11-06 13:00:37",
-      "album": {
         "name": "Miss Erotica",
         "url": "https://open.spotify.com/album/4RCODSJEhuEtzxYai4toJa"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 150614,
       "name": "Miss Erotica",
       "url": "https://open.spotify.com/track/5PNy5elvtxQgYtossfpgAI"
+    },
+    {
+      "added_at": "2025-11-06 13:00:37",
+      "album": {
+        "name": "Ur an Angel I\u2019m Just Particles",
+        "url": "https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
     },
     {
       "added_at": "2025-11-06 13:00:37",

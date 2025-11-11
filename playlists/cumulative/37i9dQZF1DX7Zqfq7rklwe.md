@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. Kannessa Sleep Token.
+> Suomen suurin ja paras rock\-soittolista\. Kannessa HOKKA.
 
-333 songs - 21 hr 38 min
+334 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [If You Were Here](https://open.spotify.com/track/7vCIl8yXWdXoBgwIQs6pdd) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [If You Were Here](https://open.spotify.com/album/5V2y41zkS6wPMFduDzG2Z2) | 3:59 | 2025-08-21 |  |
 | [Impatient Zero \- Edit](https://open.spotify.com/track/5XHMQUxTxaLJ3mNSGu2BYk) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Impatient Zero \(Edit\)](https://open.spotify.com/album/3iEIW7wmoyyJnnQpeGPbDB) | 4:16 | 2024-11-28 | 2025-01-24 |
 | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 | 2025-04-03 | 2025-05-21 |
+| [In the Darkness](https://open.spotify.com/track/5vGBjM9bcD0zbgHHKaZHsQ) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [In the Darkness](https://open.spotify.com/album/3BJEaHhBQs3b2Q7zRLkIh9) | 3:15 | 2025-11-10 |  |
 | [Innerdeeps](https://open.spotify.com/track/5vFwvq8OvcZEtbdYRZe4jf) | [Royal Sorrow](https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK) | [Innerdeeps](https://open.spotify.com/album/4xwYM5jKD90isd07LLUCGD) | 5:38 | 2025-09-25 |  |
 | [Join Me \- Razorblade Mix](https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance](https://open.spotify.com/album/4TGbiYOokXYDtgnw7yKC5N) | 3:36 | 2024-12-19 |  |
 | [Just Too Much](https://open.spotify.com/track/0nLGyEeOsErcTyBcEQIu8s) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [The End Will Show Us How](https://open.spotify.com/album/0tQNVwSxVYCwaEa8HfHCd4) | 3:46 | 2025-03-21 | 2025-10-24 |
@@ -256,7 +257,7 @@
 | [Sinä 2.0](https://open.spotify.com/track/5D3lENK3mXnB9vkXgVGFYS) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Reset](https://open.spotify.com/album/4jI2TKGEjUjjnLjlpGYie6) | 3:09 | 2024-10-24 | 2025-06-20 |
 | [Skin From Bones](https://open.spotify.com/track/1R7IwHP908OjMlRy6u6byr) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Skin From Bones](https://open.spotify.com/album/5sOEmkQ0IoI8cQATzsi6yj) | 3:20 | 2025-02-27 | 2025-05-16 |
 | [slay ur enemies](https://open.spotify.com/track/7aGGAZBZgdSRt49j7m38Zk) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [slay ur enemies](https://open.spotify.com/album/4Y7XARCKI2aX8ND7mKpwX3) | 2:48 | 2024-10-03 | 2024-11-08 |
-| [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-09-11 |  |
+| [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-09-11 | 2025-11-11 |
 | [Sleeping My Day Away \- 2009 \- Remaster](https://open.spotify.com/track/5ZuXgk0enEvv2HlnUe2rj3) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [No Fuel Left for the Pilgrims \(2009 \- Remastered\)](https://open.spotify.com/album/1bXJqjBw7YEwk11jQdsvdd) | 4:23 | 2025-11-06 |  |
 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-11 | 2025-05-02 |
 | [So Close](https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [So Close](https://open.spotify.com/album/6iJtmPEAjtOQoNBhGblWk0) | 3:46 | 2024-09-11 | 2024-11-01 |

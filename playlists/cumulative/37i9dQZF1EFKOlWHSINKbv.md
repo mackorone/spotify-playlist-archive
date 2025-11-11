@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 10 hr 10 min
+166 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 | 2024-07-21 |  |
 | [Be On My Way \(Full\)](https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 2:37 | 2024-06-11 |  |
 | [Benjamin](https://open.spotify.com/track/5U3Tr6FXNvnFVzpl9mYStN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 3:41 | 2024-06-11 |  |
-| [Better](https://open.spotify.com/track/5hti7vGvZaAcfahfFdpflH) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Better](https://open.spotify.com/album/4gqJu8BjHIzyqJcXTQYX4f) | 2:46 | 2024-06-11 |  |
+| [Better](https://open.spotify.com/track/0iBuosE59lTeN0Y49PKWfw) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Better](https://open.spotify.com/album/3oeb4p5A7dEiylp0HjzCL4) | 2:46 | 2025-11-10 |  |
+| [Better](https://open.spotify.com/track/5hti7vGvZaAcfahfFdpflH) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Better](https://open.spotify.com/album/4gqJu8BjHIzyqJcXTQYX4f) | 2:46 | 2024-06-11 | 2025-11-11 |
 | [Big Boss \(Interlude\)](https://open.spotify.com/track/7EuktT4CgA637ci366IrYW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 1:31 | 2024-06-11 |  |
 | [BLACKS N MEXICANS \(feat\. ScHoolboy Q & B\-Real\)](https://open.spotify.com/track/2x0bstZabBon41J1GmKBo8) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Gully \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN) | 2:46 | 2024-06-11 |  |
 | [Blast Off](https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:44 | 2024-06-11 |  |

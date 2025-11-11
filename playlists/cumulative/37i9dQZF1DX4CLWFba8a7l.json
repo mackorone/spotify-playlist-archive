@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "A Feeling I Miss",
+        "url": "https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Matt Ryder",
+          "url": "https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201289,
+      "name": "A Feeling I Miss",
+      "url": "https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ"
+    },
+    {
+      "album": {
         "name": "The Accident",
         "url": "https://open.spotify.com/album/0c0q3cA2sEB4EsNa2m55rw"
       },
@@ -660,7 +682,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 206385,
       "name": "Back Of My Hand",
       "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"

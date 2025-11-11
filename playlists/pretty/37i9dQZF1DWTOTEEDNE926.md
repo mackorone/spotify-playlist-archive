@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 
 > las mujeres ya no lloran ✨ Elsa y Elmar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,064 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,071 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 243874,
+  "num_followers": 243924,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAACVXZ0HLw9RcyTcMvqmo3yX",
+  "snapshot_id": "aQ/ZgAAAAABCekFBWxGosK/9IcTJBmvb",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 183850,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
+      "duration_ms": 159733,
+      "name": "Girl Of My Dreams",
+      "url": "https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love",
-        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 159733,
-      "name": "Girl Of My Dreams",
-      "url": "https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb"
+      "duration_ms": 183850,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
     },
     {
       "added_at": null,
@@ -527,42 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 235987,
-      "name": "Rags2Riches 2 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -583,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
       },
       "artists": [
         {
@@ -592,9 +556,29 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 135418,
-      "name": "Close Enough to Hurt",
-      "url": "https://open.spotify.com/track/1WPszJN4Em99es2kpiaUxt"
+      "duration_ms": 180705,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
       "duration_ms": 174750,
       "name": "Sweet Little Lies",
       "url": "https://open.spotify.com/track/0qjoeS8gwEFqf0ju66ledI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 135418,
+      "name": "Close Enough to Hurt",
+      "url": "https://open.spotify.com/track/1WPszJN4Em99es2kpiaUxt"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 121521,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 121521,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Westside Connection",
         "url": "https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "What's Love??",
-      "url": "https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Mind",
         "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 191158,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "What's Love??",
+      "url": "https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨waterbaby  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,388 likes - 277 songs - 15 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,391 likes - 277 songs - 15 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 3 | [Yup](https://open.spotify.com/track/70pfTEWs5Z7K6bBkR8JyNi) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Yup](https://open.spotify.com/album/1LlP9glKx0kPVKdncrMIs6) | 4:07 |
 | 4 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 5 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
-| 6 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
-| 7 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
+| 6 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
+| 7 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
 | 8 | [Torn](https://open.spotify.com/track/2O6Mv8sXIf75IDFPjZf9n7) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Torn](https://open.spotify.com/album/4sCdSD8XURIiTDZx3yJzAq) | 3:02 |
 | 9 | [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 |
 | 10 | [Beto’s Horns \- fred remix](https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Beto’s Horns \(fred remix\)](https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU) | 3:46 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 276 | [History \(feat\. Waxahatchee\)](https://open.spotify.com/track/2v3H792zzsZb4OrWrNhkCv) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:03 |
 | 277 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 
-Snapshot ID: `AAAAAAwnuPqx3pt8G4EfGF/p5UW5S3tN`
+Snapshot ID: `AAAAAABoTM71m1KwrgsnG6lCaGMiEwq3`

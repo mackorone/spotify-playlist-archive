@@ -57777,6 +57777,24 @@
     },
     {
       "album": {
+        "name": "Paid to Exist",
+        "url": "https://open.spotify.com/album/4Xh6ncpPchN6sttSXlarzg"
+      },
+      "artists": [
+        {
+          "name": "brux XTN",
+          "url": "https://open.spotify.com/artist/4U88SaxXVJxvOKSrqqJXsb"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110885,
+      "name": "Paid to Exist",
+      "url": "https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD"
+    },
+    {
+      "album": {
         "name": "TWO OF A KIND",
         "url": "https://open.spotify.com/album/0AkoL1MsHxEnTwan8AtLdm"
       },
@@ -61000,7 +61018,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 186084,
       "name": "Predador de Perereca",
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"

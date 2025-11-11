@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-145 songs - 8 hr 10 min
+146 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [La Historia Del Joven](https://open.spotify.com/track/0kClhVs8LbgcdnhBHVpyff) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [No La Hagas Sufrir](https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As) | 4:06 | 2022-06-01 | 2022-10-13 |
 | [La Hungara \- En Vivo](https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:21 | 2022-06-01 |  |
 | [La Inocente](https://open.spotify.com/track/3DorvzqMYuJYiqLDZ2ZAfL) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [La Inocente](https://open.spotify.com/album/2vbmdHFnbWA3y9Li7rmHre) | 3:03 | 2022-11-14 | 2023-05-26 |
-| [La Ley De La Atracción \- En Vivo](https://open.spotify.com/track/6uRlGVZQXEL2mVLMqFxtuT) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [En Vivo Desde Tijuana](https://open.spotify.com/album/2TORCuwBsbwYncckRQrM5N) | 2:14 | 2025-11-03 |  |
+| [La Ley De La Atracción \- En Vivo](https://open.spotify.com/track/6uRlGVZQXEL2mVLMqFxtuT) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [En Vivo Desde Tijuana](https://open.spotify.com/album/2TORCuwBsbwYncckRQrM5N) | 2:14 | 2025-11-03 | 2025-11-11 |
 | [La Llamada \- En Vivo](https://open.spotify.com/track/04nZUWy7gHtVCvNS3wxXnZ) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [YakiFest, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z) | 4:40 | 2022-06-01 |  |
+| [La Maestra](https://open.spotify.com/track/2znHnpzU72W58x2CoPD7MZ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 3:02 | 2025-11-11 |  |
 | [La Misma Mentira](https://open.spotify.com/track/63e4bOE0jakTcmQH45Wy26) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [La Misma Mentira](https://open.spotify.com/album/0bXUFZQiSAYIzVXdlDr2h1) | 3:00 | 2022-06-01 | 2022-11-21 |
 | [La Pura Verdad](https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:56 | 2022-06-01 |  |
 | [Las ciudades](https://open.spotify.com/track/2Io0LtuRg1m2AjHLTsaIJ5) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Duetos Del Rancho Para El Mundo](https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0) | 2:51 | 2024-03-18 | 2025-02-19 |

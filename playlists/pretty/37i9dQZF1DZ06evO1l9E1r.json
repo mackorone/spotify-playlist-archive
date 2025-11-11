@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2791,
+  "num_followers": 2793,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAA2yZsKm7RaialSl+21dPlz",
+  "snapshot_id": "aQ/ZgAAAAADss7iasfx1YXLFzOcnxeNC",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+        "name": "Hedda (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 163157,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
+      "duration_ms": 165333,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/68tED2DtnZvDSnHbEX8UFn"
     },
     {
       "added_at": null,
@@ -503,6 +503,58 @@
       "duration_ms": 272585,
       "name": "Stimm",
       "url": "https://open.spotify.com/track/0sTXdnT053vWA8CRQ6BkXh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 163157,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 84760,
+      "name": "Hoyt's Office",
+      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
     },
     {
       "added_at": null,
@@ -531,58 +583,6 @@
       "duration_ms": 291706,
       "name": "M\u00f3\u00f0ir",
       "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hedda (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/68tED2DtnZvDSnHbEX8UFn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Overcast",
-      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hedda (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 149782,
+      "name": "Allegretto - Glass",
+      "url": "https://open.spotify.com/track/62ThxZVQU7svGuJ2zfzJwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 155374,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hedda (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 149782,
-      "name": "Allegretto - Glass",
-      "url": "https://open.spotify.com/track/62ThxZVQU7svGuJ2zfzJwy"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hedda (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 227272,
+      "name": "Stolen Tale - The Band",
+      "url": "https://open.spotify.com/track/3WhAoOu2uVq0R31EEbFkp7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -851,38 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hedda (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Stolen Tale - The Band",
-      "url": "https://open.spotify.com/track/3WhAoOu2uVq0R31EEbFkp7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 282732,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trapped (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
@@ -903,6 +887,38 @@
       "duration_ms": 139174,
       "name": "Examining the Body",
       "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 282732,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 135080,
+      "name": "Gulf Of Somalia",
+      "url": "https://open.spotify.com/track/3NfNWSxgGqzmiRKmldWonA"
     },
     {
       "added_at": null,
@@ -939,22 +955,6 @@
       "duration_ms": 227836,
       "name": "A Move to Neptune",
       "url": "https://open.spotify.com/track/5N7UCJzJosLG7cO2LpHvcR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 135080,
-      "name": "Gulf Of Somalia",
-      "url": "https://open.spotify.com/track/3NfNWSxgGqzmiRKmldWonA"
     },
     {
       "added_at": null,

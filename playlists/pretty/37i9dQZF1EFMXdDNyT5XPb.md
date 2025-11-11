@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 105 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 347 likes - 105 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 40 | [Then There Was You \- From "The Garfield Movie"](https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Then There Was You \(From "The Garfield Movie"\)](https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U) | 2:42 |
 | 41 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 |
 | 42 | [I Wish I Was](https://open.spotify.com/track/37gvCv1XpbCfG3Acjqf6ew) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [I Wish I Was](https://open.spotify.com/album/722G4OU32T7nebuJJm3vqo) | 3:24 |
-| 43 | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Joe Housley](https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7) | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/album/6JMnkPQtpRmMyk2yF7AKeo) | 2:43 |
-| 44 | [God Knows](https://open.spotify.com/track/75XdAUmmNxJ7Z1EKEqSBHs) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:50 |
+| 43 | [God Knows](https://open.spotify.com/track/75XdAUmmNxJ7Z1EKEqSBHs) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:50 |
+| 44 | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Joe Housley](https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7) | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/album/6JMnkPQtpRmMyk2yF7AKeo) | 2:43 |
 | 45 | [All My Life](https://open.spotify.com/track/73GVjYWUni8NSkMkOfex1P) | [CHARLS](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [All My Life](https://open.spotify.com/album/0Ilv0FUHDwpsVM4YjxqQ6W) | 3:57 |
 | 46 | [Alive \(The Edge\) \[feat\. ROOKIES\]](https://open.spotify.com/track/739YZgrNRHLB0CDs2xfWFj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:13 |
 | 47 | [When You're Lonely](https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [When You're Lonely](https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW) | 2:39 |
@@ -108,10 +108,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 98 | [Falling out of Love](https://open.spotify.com/track/2hDVo59GNn1W3VN1HObnge) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Ain't Love Crazy](https://open.spotify.com/album/4fh8KEvwQCK8LhPUnAnH2p) | 3:13 |
 | 99 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
 | 100 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 |
-| 101 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
-| 102 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
+| 101 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
+| 102 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
 | 103 | [Holy Water](https://open.spotify.com/track/4ImvFvvjV1jLSLMJKzTTE9) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 3:01 |
 | 104 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 105 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcBKRAAAAAAptBBrkZh4bzCcYXyfLL5m`
+Snapshot ID: `AcBPqAAAAACISWcirJI/qRUR+PCk7N61`

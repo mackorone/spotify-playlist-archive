@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 758016,
+  "num_followers": 758153,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAADRLOWtXrYoX5Dxd21oSYNE",
+  "snapshot_id": "aQ/ZgAAAAADw7eNqqaxod3v4CAt6+fQO",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes De Ti",
-        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
+        "name": "FEMME FATALE",
+        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Antes De Ti",
-      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
+      "duration_ms": 230723,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEMME FATALE",
-        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 230723,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
+      "duration_ms": 242240,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
     },
     {
       "added_at": null,
@@ -486,11 +486,15 @@
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 225598,
-      "name": "Ocupa Mi Piel",
-      "url": "https://open.spotify.com/track/0cWcCyz2Z0xouTi7G4iUoT"
+      "duration_ms": 273084,
+      "name": "Esto Es Amor",
+      "url": "https://open.spotify.com/track/6VJSw4FLrmdCan1ziL5C7n"
     },
     {
       "added_at": null,
@@ -507,6 +511,22 @@
       "duration_ms": 243880,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Qu\u00e9date Esta Noche",
+      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
     },
     {
       "added_at": null,
@@ -547,22 +567,6 @@
       "duration_ms": 183880,
       "name": "Asilo (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Qu\u00e9date Esta Noche",
-      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
     },
     {
       "added_at": null,
@@ -639,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Bonita - Bonus Track",
+      "url": "https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
         "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
       },
@@ -659,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
-        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
         {
@@ -668,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Bonita - Bonus Track",
-      "url": "https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa"
+      "duration_ms": 181786,
+      "name": "El Cristal",
+      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
     },
     {
       "added_at": null,
@@ -691,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
       "artists": [
         {
@@ -700,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 181786,
-      "name": "El Cristal",
-      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
+      "duration_ms": 278373,
+      "name": "Tu Falta De Querer - En Vivo",
+      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
     },
     {
       "added_at": null,
@@ -719,22 +739,6 @@
       "duration_ms": 178640,
       "name": "El Beso",
       "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
-        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Tu Falta De Querer - En Vivo",
-      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
     },
     {
       "added_at": null,
@@ -771,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Caderas Blancas",
-      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Danza de las Lib\u00e9lulas",
         "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
       },
@@ -803,6 +791,22 @@
       "duration_ms": 220867,
       "name": "La Danza de las Lib\u00e9lulas",
       "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Caderas Blancas",
+      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
     },
     {
       "added_at": null,

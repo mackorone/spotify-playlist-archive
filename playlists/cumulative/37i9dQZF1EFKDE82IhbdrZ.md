@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-356 songs - 19 hr 47 min
+357 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,8 @@
 | [Strong](https://open.spotify.com/track/3cKM7UXBZmgjEgEBTkaIlU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:04 | 2024-08-13 |  |
 | [superpowers](https://open.spotify.com/track/5p1T0HF9ubXm5H1umSQBmR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:25 | 2024-08-13 |  |
 | [Take The Stairs](https://open.spotify.com/track/4vLf3XzJ3K25Jh8aiEdgFa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:22 | 2024-08-13 |  |
-| [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/07ecu4L3OlVaE3r4TcxBe1) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 | 2024-08-13 |  |
+| [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/07ecu4L3OlVaE3r4TcxBe1) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 | 2024-08-13 | 2025-11-11 |
+| [Tan Lines](https://open.spotify.com/track/6TFZEwGYziB85bWesoRys7) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Tan Lines](https://open.spotify.com/album/3sLKF2otEz4Z26bX79jUKz) | 3:25 | 2025-11-10 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2025-01-09 | 2025-04-12 |
 | [Teenage Kings](https://open.spotify.com/track/6DIxdwLvsZdehLrXjbtxvG) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:19 | 2024-08-13 |  |
 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 | 2024-08-13 |  |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Miloolaathetlukken
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,855 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,827 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soldaat](https://open.spotify.com/track/51P7S9XSy8m9zW7v8lzxeB) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [OMG YES](https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc) | 1:44 |
 | 2 | [Stadshart](https://open.spotify.com/track/5YxHWOvljQE660Pu6krtA0) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [P8](https://open.spotify.com/album/2RV9Urjp8Tz20Czx213aLQ) | 2:53 |
-| 3 | [m’n type](https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH) | 2:24 |
-| 4 | [StAYbLESS.](https://open.spotify.com/track/7KU42QXlh12bmtBhuasiqg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [StAYbLESS.](https://open.spotify.com/album/3NxlYl6uMcn8hQPOsOq7Ch) | 3:22 |
-| 5 | [Scorpio Flow](https://open.spotify.com/track/0LaFATMskY211uoaBnVqFk) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Scorpio Flow](https://open.spotify.com/album/1A8LI3IfCLe4UaepsoD8UW) | 1:41 |
+| 3 | [Scorpio Flow](https://open.spotify.com/track/0LaFATMskY211uoaBnVqFk) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Scorpio Flow](https://open.spotify.com/album/1A8LI3IfCLe4UaepsoD8UW) | 1:41 |
+| 4 | [m’n type](https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH) | 2:24 |
+| 5 | [StAYbLESS.](https://open.spotify.com/track/7KU42QXlh12bmtBhuasiqg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [StAYbLESS.](https://open.spotify.com/album/3NxlYl6uMcn8hQPOsOq7Ch) | 3:22 |
 | 6 | [Nieuwe Fan](https://open.spotify.com/track/5P2XOpnx1pC0HMb7RySrZZ) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [Nieuwe Fan](https://open.spotify.com/album/05GCoudmkKZQviF4rpN3eu) | 2:30 |
 | 7 | [Rondjes](https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Vrijspel](https://open.spotify.com/album/52cIFs3jvyBOzVuun6nu0r) | 3:03 |
 | 8 | [Encrypted](https://open.spotify.com/track/7F49HEqLIVKuK26mOL56CN) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Encrypted](https://open.spotify.com/album/4eHIDkjphxPvdrsRn8uDYo) | 2:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Marseille](https://open.spotify.com/track/71tYf13Vv4kiXPtCPnaMAM) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Marseille](https://open.spotify.com/album/1GZdgB5Elcv162k0UBRf4j) | 2:42 |
 | 60 | [MARSEILLE](https://open.spotify.com/track/2u3xX0vQ8m4iYjzV1H3SGh) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [MARSEILLE](https://open.spotify.com/album/46bHlbcS8PVEzSUPJbq4Eo) | 2:53 |
 
-Snapshot ID: `AAAAALBo+QDX0LhxAtbgxVBpdJI1IZTj`
+Snapshot ID: `AAAAAGz4MUfndgIH4DGQiYeheIwdqD3+`

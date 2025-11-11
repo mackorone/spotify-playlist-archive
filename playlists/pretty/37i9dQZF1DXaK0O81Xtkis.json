@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Del Water Gap",
-  "num_followers": 228869,
+  "num_followers": 228865,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACv7mPUw4/e1kT/eNmn7xVDBPxdd",
+  "snapshot_id": "AAAAAOXws/I2z9+apwunKYLFz0+NdLCF",
   "tracks": [
     {
       "added_at": "2025-11-07 05:51:47",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/23zspOaDtWuHh0bZaCo3PZ"
     },
     {
-      "added_at": "2025-11-07 05:51:47",
-      "album": {
-        "name": "me with no shirt on",
-        "url": "https://open.spotify.com/album/3ChvAG8hqJnQjg6hV4Ise2"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 168580,
-      "name": "me with no shirt on",
-      "url": "https://open.spotify.com/track/4kfbeIjJ5jgiAqgKlRIuUs"
-    },
-    {
       "added_at": "2025-10-31 04:09:06",
       "album": {
         "name": "Shitshow",
@@ -71,6 +55,38 @@
       "duration_ms": 202962,
       "name": "Shitshow",
       "url": "https://open.spotify.com/track/4brTl1F22JnQFQHNvCJOHM"
+    },
+    {
+      "added_at": "2025-11-10 22:29:52",
+      "album": {
+        "name": "Off My Head",
+        "url": "https://open.spotify.com/album/0hYxX3wg3Lyf34Lw4jnAJh"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Off My Head",
+      "url": "https://open.spotify.com/track/5428HTy2dqDLwQ7iDth6Lc"
+    },
+    {
+      "added_at": "2025-11-07 05:51:47",
+      "album": {
+        "name": "me with no shirt on",
+        "url": "https://open.spotify.com/album/3ChvAG8hqJnQjg6hV4Ise2"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 168580,
+      "name": "me with no shirt on",
+      "url": "https://open.spotify.com/track/4kfbeIjJ5jgiAqgKlRIuUs"
     },
     {
       "added_at": "2025-11-08 19:55:38",
@@ -1199,22 +1215,6 @@
       "duration_ms": 158608,
       "name": "TALK TO ME",
       "url": "https://open.spotify.com/track/7m0GDXRGF3UlFxJ989v6VH"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "first date",
-        "url": "https://open.spotify.com/album/2mIJLycY91IuPczBAGX1PG"
-      },
-      "artists": [
-        {
-          "name": "Nafeesisboujee",
-          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
-        }
-      ],
-      "duration_ms": 100920,
-      "name": "first date",
-      "url": "https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL"
     }
   ],
   "unique_name": "soda",

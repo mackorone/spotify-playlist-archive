@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-685 songs - 1 day 5 hr 53 min
+686 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 | 2025-04-12 |
 | [Better Days](https://open.spotify.com/track/7qvzaQrCeW6gFBbEVexCTE) | [Ezra Skys](https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Better Days](https://open.spotify.com/album/3JMhEsWX8025f5kbpwHsHW) | 2:10 | 2025-04-11 |  |
 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2023-08-22 | 2025-04-12 |
-| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-03-03 |  |
+| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-03-03 | 2025-11-11 |
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-08-22 | 2024-09-30 |
 | [Bir](https://open.spotify.com/track/5Pjre4zDNOBQ64KGVfwyI8) | [Yeet Bey](https://open.spotify.com/artist/7smg87ALnKGB5slipYH42t), [Evre](https://open.spotify.com/artist/0NbJ7PTiD6BLuBqsrIRKRi), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Bir](https://open.spotify.com/album/3rkniVn3KmJtmixUJiiR5G) | 2:22 | 2025-10-03 | 2025-10-06 |
 | [Birds](https://open.spotify.com/track/6o1mhFF1NpGQqR3usVLSLk) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Birds](https://open.spotify.com/album/6Y8nFCKVLh1eJATqh2xvgW) | 2:19 | 2024-10-06 |  |
@@ -681,6 +681,7 @@
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 | 2024-04-19 |
 | [While She Waits](https://open.spotify.com/track/7hrEY12YhKpa6wPruwHrag) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/1C8EQLLSiDZoXRiwgaUPB7) | 2:16 | 2024-03-20 | 2024-08-24 |
 | [WHIP.wav](https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [WHIP.wav](https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC) | 1:38 | 2024-10-18 | 2025-03-08 |
+| [white nights](https://open.spotify.com/track/5IAttO7JWJWIfuSsxfvMuw) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [white nights](https://open.spotify.com/album/3Bb4hgXKhJtDmLT6lsUxEe) | 2:06 | 2025-11-07 |  |
 | [Who's Calling](https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Who's Calling](https://open.spotify.com/album/4iS1L19dxA12WO2xXdQfFq) | 1:45 | 2025-04-18 | 2025-05-25 |
 | [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-20 | 2025-04-12 |
 | [Window Pane](https://open.spotify.com/track/3oH3TnUBAHJUMBPwJTynv2) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Window Pane](https://open.spotify.com/album/1AaDQgeyo7tbApFPiCfXiU) | 2:00 | 2025-03-03 | 2025-03-18 |

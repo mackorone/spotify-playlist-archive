@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Logan Staats
 
-632 songs - 1 day 14 hr 19 min
+633 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 | 2023-04-21 | 2024-02-18 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-24 | 2025-10-18 |
 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 | 2023-04-14 | 2025-08-20 |
+| [Five and Ten](https://open.spotify.com/track/4R9F8FgETaeTfazujTfnQA) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba) | [Five and Ten](https://open.spotify.com/album/2j13SC2Ho59cn3kIBJSOxc) | 3:31 | 2025-10-24 |  |
 | [Fix on the Tailwind](https://open.spotify.com/track/3bRwWeg1iB4hrStJqlDBKg) | [Steel Saddle](https://open.spotify.com/artist/5cTnIEVg8jeAcqzSYWT3ed) | [Fix on the Tailwind](https://open.spotify.com/album/0uFKlO7rBufrhgW5pomf1V) | 2:27 | 2024-06-21 | 2024-07-06 |
 | [Flowers On My Bedside](https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Flowers On My Bedside](https://open.spotify.com/album/6GGxMlTRIwQOJV9TAooh0U) | 4:49 | 2023-03-17 | 2023-04-22 |
 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 | 2023-03-24 | 2023-08-12 |
@@ -252,7 +253,7 @@
 | [He Called Me Baby](https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb) | [AJ Lee & Blue Summit](https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr) | [He Called Me Baby](https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak) | 4:39 | 2024-06-07 | 2024-08-03 |
 | [Headlines](https://open.spotify.com/track/0RIVsm9eMXUAhUgrQ7NeFj) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/2zR97oZdXueACHFn00iuR7) | 3:41 | 2022-05-13 | 2022-07-29 |
 | [Headlines](https://open.spotify.com/track/2fFsZaYABWElJixFWJkqlN) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/1Az1xkr19Qdy3guiCl7YyF) | 3:41 | 2022-07-22 | 2022-08-27 |
-| [Heart of Mine](https://open.spotify.com/track/5LnOx4rfyihZXY59zY103J) | [The Wild Palominos](https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO) | [Heart of Mine](https://open.spotify.com/album/6B5XLJzdvJCOAIXMkK3chk) | 2:57 | 2025-10-06 |  |
+| [Heart of Mine](https://open.spotify.com/track/5LnOx4rfyihZXY59zY103J) | [The Wild Palominos](https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO) | [Heart of Mine](https://open.spotify.com/album/6B5XLJzdvJCOAIXMkK3chk) | 2:57 | 2025-10-06 | 2025-11-11 |
 | [Heaven and Light](https://open.spotify.com/track/1MDJjLqAdQ7anWrYvDVOZ1) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Heaven and Light](https://open.spotify.com/album/7vRJrhetiOy3OurJ2Gqw0o) | 3:15 | 2022-05-13 | 2022-06-25 |
 | [Heaven Passing Through](https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:00 | 2025-06-06 |  |
 | [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 | 2022-08-13 |

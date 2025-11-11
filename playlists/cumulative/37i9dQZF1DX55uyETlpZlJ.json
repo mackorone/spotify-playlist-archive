@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Chandan Shetty",
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Swarathma",
   "name": "Kannada Indie",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 206331,
       "name": "Amanattu",
       "url": "https://open.spotify.com/track/1Bkaf0mflMvZRoUtKKrJrH"
@@ -1406,6 +1406,24 @@
       "duration_ms": 232152,
       "name": "Bellavi Shaale Mugive Ee Kaiya (From \"Bellavi Shaale\")",
       "url": "https://open.spotify.com/track/4LoiLZFuYbqjrHFHCbULGH"
+    },
+    {
+      "album": {
+        "name": "Belongaluru",
+        "url": "https://open.spotify.com/album/4lXfPiqT2mAvbIxVTyhyu5"
+      },
+      "artists": [
+        {
+          "name": "Swarathma",
+          "url": "https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235074,
+      "name": "Belongaluru",
+      "url": "https://open.spotify.com/track/3Ccj32rFvv6NZa9l6nv7fc"
     },
     {
       "album": {
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 175418,
       "name": "Dhwamsa",
       "url": "https://open.spotify.com/track/6sJAKF9UaERL7YrtKZRA02"
@@ -5274,7 +5292,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 179580,
       "name": "Kannale Kannale",
       "url": "https://open.spotify.com/track/3mUmrWPnrpshZevuRfv3PN"
@@ -6972,6 +6990,32 @@
       "duration_ms": 161921,
       "name": "Mugile",
       "url": "https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g"
+    },
+    {
+      "album": {
+        "name": "Love In October",
+        "url": "https://open.spotify.com/album/0yz0tqSrF2xLTiT0A23gHM"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Manas Manu",
+          "url": "https://open.spotify.com/artist/5yRAtgcz1OzhdI14a9Rdml"
+        },
+        {
+          "name": "Apsara Raghu",
+          "url": "https://open.spotify.com/artist/3dd4sPBqGVfUnXGZ6J5YVI"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mugiyada Pallavi (From \"Love In October\")",
+      "url": "https://open.spotify.com/track/4swU9rA8aiRSNZzQi052kU"
     },
     {
       "album": {
@@ -9950,6 +9994,24 @@
       "duration_ms": 259532,
       "name": "Prema Sagara",
       "url": "https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p"
+    },
+    {
+      "album": {
+        "name": "Premada Raagini",
+        "url": "https://open.spotify.com/album/58taMSGbTmIhAqX0hfVCNz"
+      },
+      "artists": [
+        {
+          "name": "Roshan Bhat",
+          "url": "https://open.spotify.com/artist/21qGWaUNzb7MiK33Gvmm0T"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182399,
+      "name": "Premada Raagini",
+      "url": "https://open.spotify.com/track/2jOi8LoHhkLerCfoKkzYLR"
     },
     {
       "album": {

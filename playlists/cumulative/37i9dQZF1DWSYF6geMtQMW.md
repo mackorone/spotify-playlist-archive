@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אודיה
 
-179 songs - 9 hr 35 min
+181 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-02-10 | 2025-03-25 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-19 |  |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 | 2025-09-16 |
-| [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-06 |  |
+| [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-06 | 2025-11-11 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-14 | 2025-01-08 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-07-01 | 2024-08-06 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2025-04-15 |
@@ -104,6 +104,7 @@
 | [היא ברזילאית](https://open.spotify.com/track/557CJdchRFIqWE0V5iUR8A) | [אדם זרו](https://open.spotify.com/artist/03px8W16Pep5DfqapWVVlq), [Yair Lugasy](https://open.spotify.com/artist/4yK2zJLW5slLAL5oLSKzi5) | [היא ברזילאית](https://open.spotify.com/album/2NCVx1WUF1Ua7rpX9dHuO3) | 2:31 | 2025-06-30 |  |
 | [היא לא יודעת למה](https://open.spotify.com/track/6Ma5wr8hndGkkjsk9rgVKS) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 3](https://open.spotify.com/album/16r1AhCbAHBrumtC2LOKW2) | 3:57 | 2025-07-07 |  |
 | [היום קמתי שמח](https://open.spotify.com/track/28hmfseWQTUSMuTNuXg4eI) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [היום קמתי שמח](https://open.spotify.com/album/4wQGldP9I0DP3G93syKX8v) | 3:49 | 2025-01-27 | 2025-04-15 |
+| [המבט בעיניך](https://open.spotify.com/track/6VYbnnpUYShqFn22MERtmP) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [21](https://open.spotify.com/album/6Fvp2M2J5FRFPC7dYIGD34) | 3:08 | 2025-11-10 |  |
 | [השיר שאת אהבת](https://open.spotify.com/track/5Sn3aXG5AWFmd1ij2PTisj) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:38 | 2025-06-16 |  |
 | [השם ירחם](https://open.spotify.com/track/3XSSUNQJHy7GTWtSHHITq5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:53 | 2025-06-30 |  |
 | [התקדמתי ממך](https://open.spotify.com/track/6svDE1ySQelKOFfW7kCn2B) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [התקדמתי ממך](https://open.spotify.com/album/5xmE85c0FA5CL8ANqYAujL) | 3:07 | 2024-12-02 | 2025-10-07 |
@@ -134,7 +135,7 @@
 | [מטורפת](https://open.spotify.com/track/7LA51LhQTW9tulMfS3IhiL) | [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG), [Zion Baruch](https://open.spotify.com/artist/5ajLY8qOxx0yfDePboRvkO) | [מטורפת](https://open.spotify.com/album/3mHNwhencSZonMCMjlKcWv) | 2:22 | 2025-04-07 |  |
 | [מיליון לילות](https://open.spotify.com/track/5skSuo1jY3G5FGbWdaKD4w) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [מיליון לילות](https://open.spotify.com/album/0lC41fDmnuJriCGbZVtBaV) | 3:14 | 2025-07-07 | 2025-08-26 |
 | [מכשפה](https://open.spotify.com/track/2WDgnb44mEO7gWUtECuNLJ) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Adi Bity](https://open.spotify.com/artist/6wmkSxRAKlQl86DzjXRUMh) | [להרים](https://open.spotify.com/album/5d2zNtTFTHLMOmSZw3SFCC) | 2:18 | 2024-07-01 | 2025-01-21 |
-| [מלך אחד לעולם](https://open.spotify.com/track/3EIpvMJo4sqVVqDQx9H4Zj) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [מלך אחד לעולם](https://open.spotify.com/album/1V9zayUbMb8n3XQvR81efN) | 3:01 | 2025-09-15 |  |
+| [מלך אחד לעולם](https://open.spotify.com/track/3EIpvMJo4sqVVqDQx9H4Zj) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [מלך אחד לעולם](https://open.spotify.com/album/1V9zayUbMb8n3XQvR81efN) | 3:01 | 2025-09-15 | 2025-11-11 |
 | [מלכת הדור](https://open.spotify.com/track/3U1voPJN8NBSR96Ry0WJiF) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:03 | 2025-06-16 |  |
 | [מלכת הקרח](https://open.spotify.com/track/7jIQI2hhTqgBB7xga5jTWA) | [נתנאל דהאן](https://open.spotify.com/artist/6ES4mvTqKEqvAORGsS4wsn) | [מלכת הקרח](https://open.spotify.com/album/1VsMiIJPGALAj3lqbH8J6M) | 2:35 | 2025-08-19 |  |
 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 | 2024-07-01 | 2025-02-11 |
@@ -150,6 +151,7 @@
 | [נתראה בגלגול הבא](https://open.spotify.com/track/5zdau2dtmOUHF3CJ3odKfb) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נתראה בגלגול הבא](https://open.spotify.com/album/0hZIVNnIHVGlopnS8xCla9) | 2:45 | 2024-07-01 | 2024-07-23 |
 | [סוף סוף אני](https://open.spotify.com/track/04BEjO8G5HQM24fAvAv1cR) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סוף סוף אני](https://open.spotify.com/album/7bpBR9H0jZOBjuq54pHfdE) | 3:45 | 2024-11-25 | 2024-12-10 |
 | [סופרמן](https://open.spotify.com/track/0KMZESyaad48QMOmg6cYuy) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/4PcXH3yBhSLIYupPPOyRQ8) | 4:48 | 2025-01-07 | 2025-06-10 |
+| [סחרחורות](https://open.spotify.com/track/2bzhJBao5xywL3jlXu2S8O) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [MOR 4FM](https://open.spotify.com/album/0l8TkW3OM88I8OpzkdA4f1) | 3:10 | 2025-11-10 |  |
 | [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 | 2024-07-01 | 2024-09-10 |
 | [סיפורי צדיקים](https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [סיפורי צדיקים](https://open.spotify.com/album/0H4KNTwvPhg3ENilzrgtbw) | 2:52 | 2025-03-10 | 2025-10-21 |
 | [סליחה](https://open.spotify.com/track/3bNMJufCrUTvulgd5XhUKs) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [סליחה](https://open.spotify.com/album/7fDRe1qM9w0Dq7UyDgu4C8) | 3:45 | 2025-04-22 | 2025-07-08 |

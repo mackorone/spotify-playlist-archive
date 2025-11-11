@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: D'Angelo",
-  "num_followers": 4798786,
+  "num_followers": 4798994,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
+    },
+    {
       "added_at": "2023-09-14 14:32:45",
       "album": {
         "name": "Goodies",
@@ -395,22 +411,6 @@
       "duration_ms": 203786,
       "name": "1, 2 Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 288533,
-      "name": "Heaven Can Wait",
-      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
     },
     {
-      "added_at": "2022-08-21 19:36:42",
-      "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Un-thinkable (I'm Ready)",
-      "url": "https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "My Name Is Joe",
@@ -703,6 +687,22 @@
       "duration_ms": 296693,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
+    },
+    {
+      "added_at": "2022-08-21 19:36:42",
+      "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Un-thinkable (I'm Ready)",
+      "url": "https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Trey Day",
+        "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Can't Help but Wait",
+      "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "The Neptunes Present... Clones",
@@ -843,22 +859,6 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. JAY-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Trey Day",
-        "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Can't Help but Wait",
-      "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
     },
     {
       "added_at": "2023-06-20 16:00:00",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
     },
     {
-      "added_at": "2025-10-15 03:50:15",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344493,
-      "name": "Spanish Joint",
-      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Unappreciated",
@@ -1107,6 +1091,22 @@
       "duration_ms": 226293,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA"
+    },
+    {
+      "added_at": "2025-10-15 03:50:15",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344493,
+      "name": "Spanish Joint",
+      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Lucy Pearl",
-        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 279160,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Lucy Pearl",
+        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Southside",
         "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
       },
@@ -1465,6 +1449,22 @@
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "BLACKsummers'night (2009)",
@@ -1479,22 +1479,6 @@
       "duration_ms": 310520,
       "name": "Pretty Wings - uncut",
       "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 325573,
       "name": "Soldier (feat. T.I. & Lil' Wayne)",
       "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
-    },
-    {
       "added_at": "2024-11-15 03:47:13",
       "album": {
         "name": "Destiny Fulfilled",
@@ -1599,6 +1583,22 @@
       "duration_ms": 245400,
       "name": "Cater 2 U",
       "url": "https://open.spotify.com/track/6uYAPqxP69zfpCbsTHXgiz"
+    },
+    {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
     },
     {
       "added_at": "2022-08-21 11:22:08",

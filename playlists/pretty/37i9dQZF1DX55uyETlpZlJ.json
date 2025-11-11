@@ -1,13 +1,29 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Chandan Shetty",
-  "num_followers": 25713,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Swarathma",
+  "num_followers": 25717,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHOZVvsOOsHhdQi5slnswporvoXb",
+  "snapshot_id": "AAAAAOZ3lAMlQYCkTxDXVpPRlO+svGL+",
   "tracks": [
+    {
+      "added_at": "2025-11-10 08:39:03",
+      "album": {
+        "name": "Belongaluru",
+        "url": "https://open.spotify.com/album/4lXfPiqT2mAvbIxVTyhyu5"
+      },
+      "artists": [
+        {
+          "name": "Swarathma",
+          "url": "https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX"
+        }
+      ],
+      "duration_ms": 235074,
+      "name": "Belongaluru",
+      "url": "https://open.spotify.com/track/3Ccj32rFvv6NZa9l6nv7fc"
+    },
     {
       "added_at": "2025-11-03 08:23:44",
       "album": {
@@ -69,6 +85,22 @@
       "url": "https://open.spotify.com/track/0wkMvuNAN2WevvPQ6sSTCq"
     },
     {
+      "added_at": "2025-11-10 10:40:15",
+      "album": {
+        "name": "Premada Raagini",
+        "url": "https://open.spotify.com/album/58taMSGbTmIhAqX0hfVCNz"
+      },
+      "artists": [
+        {
+          "name": "Roshan Bhat",
+          "url": "https://open.spotify.com/artist/21qGWaUNzb7MiK33Gvmm0T"
+        }
+      ],
+      "duration_ms": 182399,
+      "name": "Premada Raagini",
+      "url": "https://open.spotify.com/track/2jOi8LoHhkLerCfoKkzYLR"
+    },
+    {
       "added_at": "2025-11-06 11:31:27",
       "album": {
         "name": "Kannali Nettaru",
@@ -83,6 +115,30 @@
       "duration_ms": 205072,
       "name": "Kannali Nettaru",
       "url": "https://open.spotify.com/track/01qOW2cYhwQGdPNMw50JlF"
+    },
+    {
+      "added_at": "2025-11-10 08:15:16",
+      "album": {
+        "name": "Love In October",
+        "url": "https://open.spotify.com/album/0yz0tqSrF2xLTiT0A23gHM"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Manas Manu",
+          "url": "https://open.spotify.com/artist/5yRAtgcz1OzhdI14a9Rdml"
+        },
+        {
+          "name": "Apsara Raghu",
+          "url": "https://open.spotify.com/artist/3dd4sPBqGVfUnXGZ6J5YVI"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Mugiyada Pallavi (From \"Love In October\")",
+      "url": "https://open.spotify.com/track/4swU9rA8aiRSNZzQi052kU"
     },
     {
       "added_at": "2025-11-07 09:36:56",
@@ -1345,42 +1401,6 @@
       "url": "https://open.spotify.com/track/2vBD05KARnYraiXJaCxvs3"
     },
     {
-      "added_at": "2025-05-20 08:25:21",
-      "album": {
-        "name": "AMANATTU",
-        "url": "https://open.spotify.com/album/1u8MNiIXdIKpAoJ3gFZE2K"
-      },
-      "artists": [
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
-        },
-        {
-          "name": "Carnival Crooks",
-          "url": "https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q"
-        }
-      ],
-      "duration_ms": 206331,
-      "name": "Amanattu",
-      "url": "https://open.spotify.com/track/1Bkaf0mflMvZRoUtKKrJrH"
-    },
-    {
-      "added_at": "2025-06-13 10:29:48",
-      "album": {
-        "name": "Kannale Kannale",
-        "url": "https://open.spotify.com/album/3LHwIXnFFhFrmMDXOGwAkC"
-      },
-      "artists": [
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        }
-      ],
-      "duration_ms": 179580,
-      "name": "Kannale Kannale",
-      "url": "https://open.spotify.com/track/3mUmrWPnrpshZevuRfv3PN"
-    },
-    {
       "added_at": "2025-06-09 12:21:29",
       "album": {
         "name": "Naked Truth",
@@ -1411,26 +1431,6 @@
       "duration_ms": 565139,
       "name": "Huccha Hattidanga Gelathi Phone Madalik",
       "url": "https://open.spotify.com/track/3KycKcTgHYU4Kf0N6htCWn"
-    },
-    {
-      "added_at": "2025-05-30 10:40:29",
-      "album": {
-        "name": "Dhwamsa",
-        "url": "https://open.spotify.com/album/7gfsBikbTwo0UhYsWoKWzp"
-      },
-      "artists": [
-        {
-          "name": "Mohith Gowda",
-          "url": "https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ"
-        },
-        {
-          "name": "Yxung Miller",
-          "url": "https://open.spotify.com/artist/2j2wfGvDhaAR8RVqjzlLpS"
-        }
-      ],
-      "duration_ms": 175418,
-      "name": "Dhwamsa",
-      "url": "https://open.spotify.com/track/6sJAKF9UaERL7YrtKZRA02"
     },
     {
       "added_at": "2025-05-30 10:41:56",

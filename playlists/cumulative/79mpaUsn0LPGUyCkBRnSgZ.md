@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-959 songs - 2 day 15 hr 23 min
+960 songs - 2 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 | 2022-06-13 | 2023-04-20 |
 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 | 2022-09-11 |  |
 | [Holy Ghost \(feat\. Joe Fox\)](https://open.spotify.com/track/6AHNkRbVzkh95xilnYzDT7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Joe Fox](https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:11 | 2022-08-11 |  |
+| [Home Town](https://open.spotify.com/track/1T0MNevUUpzbzFCDuokthn) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 3:10 | 2025-11-10 |  |
 | [Honey](https://open.spotify.com/track/3olYZQTYOLYNImERBnZZqm) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:54 | 2022-03-19 | 2025-09-24 |
 | [Honky Cat](https://open.spotify.com/track/1plcM0XlbKdjND7Ufokuzb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:13 | 2022-05-18 |  |
 | [Hopeless Romantic](https://open.spotify.com/track/545SZZYmeuSlM9biS7uZjf) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:56 | 2023-05-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/543ggovIEPepC3a6yaQ6Bi.md) - [plain]
 
 > Enjoy the all\-time favorite R&amp;B songs from the 90s, 00s &amp; 2010s\. Best long mix of old school RnB classics &amp; throwback party jams from TLC, Usher, Aaliyah, Chris Brown, Mario, Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, The Weeknd &amp; more\. Best Old Skool R&amp;B love music collection
 
-[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 82,807 likes - 255 songs - 17 hr 28 min
+[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 82,788 likes - 255 songs - 17 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

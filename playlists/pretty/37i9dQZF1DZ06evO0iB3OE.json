@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 10270,
+  "num_followers": 10269,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAeUhtysoRf1zV3miiWUkgI",
+  "snapshot_id": "aQ/ZgAAAAACr/wmoAPlOnBWPFcRdSSIF",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 147330,
-      "name": "La Pasadita - En Vivo",
-      "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
+      "duration_ms": 216850,
+      "name": "La Clave 7 - En Vivo",
+      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 216850,
-      "name": "La Clave 7 - En Vivo",
-      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
+      "duration_ms": 147330,
+      "name": "La Pasadita - En Vivo",
+      "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
     },
     {
       "added_at": null,
@@ -731,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
         }
       ],
-      "duration_ms": 142093,
-      "name": "Gente del Macho",
-      "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
+      "duration_ms": 173638,
+      "name": "El M.P.",
+      "url": "https://open.spotify.com/track/2ZThthZbJ4QwHmenUQIJcG"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Sinaloense",
-          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
         }
       ],
-      "duration_ms": 173638,
-      "name": "El M.P.",
-      "url": "https://open.spotify.com/track/2ZThthZbJ4QwHmenUQIJcG"
+      "duration_ms": 142093,
+      "name": "Gente del Macho",
+      "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
     },
     {
       "added_at": null,

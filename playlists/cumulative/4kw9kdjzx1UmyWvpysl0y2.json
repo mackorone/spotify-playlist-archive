@@ -9567,6 +9567,24 @@
     },
     {
       "album": {
+        "name": "Hybrid / Future",
+        "url": "https://open.spotify.com/album/3LakW6mS1r4E2eoIsY39AW"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213257,
+      "name": "Hybrid",
+      "url": "https://open.spotify.com/track/7wEyBeHHjMIxrhTEnNDcsR"
+    },
+    {
+      "album": {
         "name": "Hyperfocus",
         "url": "https://open.spotify.com/album/5I5UOahbD9vGY8CqM2sGZc"
       },

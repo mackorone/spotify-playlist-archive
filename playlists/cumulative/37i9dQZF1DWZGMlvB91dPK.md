@@ -42,7 +42,7 @@
 | [Mille vies](https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 4:05 | 2023-11-23 |  |
 | [No Coward \- Demo Version](https://open.spotify.com/track/0MkF22OOv45eKXAgjIvN7m) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [No Coward \(Demo Version\)](https://open.spotify.com/album/0fojk7a23aVielhlS9jGZr) | 3:27 | 2023-11-23 |  |
 | [NO GOZO](https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq) | [NO GOZO](https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J) | 2:18 | 2023-11-23 |  |
-| [Noise](https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:27 | 2023-11-23 |  |
+| [Noise](https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:28 | 2023-11-23 |  |
 | [Otaké](https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Otaké](https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X) | 6:33 | 2024-01-15 |  |
 | [PAPILLON PIMPÉ !](https://open.spotify.com/track/4ZfegXIG6zkJrCyNxMKjsw) | [Randy](https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX) | [FUCK IT WE BALL !](https://open.spotify.com/album/6ZrwNkIuHLbm5rFfCOPIg5) | 2:47 | 2023-11-23 |  |
 | [Pardon](https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 3:08 | 2024-01-15 |  |
@@ -55,6 +55,6 @@
 | [Togbui Ha](https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 5:07 | 2023-11-23 |  |
 | [Tout le Monde](https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Système](https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23) | 4:00 | 2023-11-23 |  |
 | [Toutes les filles du monde](https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Toutes les filles du monde](https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz) | 4:17 | 2023-11-23 |  |
-| [West](https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:37 | 2023-11-23 |  |
+| [West](https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:38 | 2023-11-23 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

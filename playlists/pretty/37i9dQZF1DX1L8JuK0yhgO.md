@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,272 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,274 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 66 | [Forever](https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Harlem's Finest: Return Of The King](https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN) | 2:35 |
 | 67 | [Out The Window](https://open.spotify.com/track/0yCnwJydx2TLuc0E7baxDf) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4ax5T0bc2T8M1ThNsJPuFo) | 4:16 |
 | 68 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
-| 69 | [우리는 항상 거추장스러운 꿈을 꾸고](https://open.spotify.com/track/5wJvoqXPra5CJwHXhNALzz) | [khc](https://open.spotify.com/artist/6va4OhhPs4U1cXkqfZ44LR) | [아침놀](https://open.spotify.com/album/5NBRIEH2i8U6IQx0KiTyVF) | 4:09 |
+| 69 | [우리는 항상 거추장스러운 꿈을 꾸고](https://open.spotify.com/track/5wJvoqXPra5CJwHXhNALzz) | [khc](https://open.spotify.com/artist/6va4OhhPs4U1cXkqfZ44LR) | [아침놀 achimnol](https://open.spotify.com/album/5NBRIEH2i8U6IQx0KiTyVF) | 4:09 |
 | 70 | [choose](https://open.spotify.com/track/4bHYHJmCXQgO6OjZDRTWZe) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [aka](https://open.spotify.com/album/5ryT3H1cCX08UqRsIYxyB2) | 3:22 |
 
 Snapshot ID: `AAAAAHb5iQ+x4a+UxmD4bPikwrVRhAI2`

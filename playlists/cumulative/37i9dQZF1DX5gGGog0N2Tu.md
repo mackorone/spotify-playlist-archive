@@ -4,7 +4,7 @@
 
 > è ufficialmente tempo di iniziare a bere chai latte, tirare fuori gli stivali di pelle e fare il rewatch della tua sitcom preferita
 
-530 songs - 1 day 5 hr 39 min
+531 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [L'ultima festa](https://open.spotify.com/track/11z5LZg0FdAMxyF7LwWddi) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [L'ultima festa](https://open.spotify.com/album/4728qzHpyq5i4R19xCq94c) | 3:55 | 2025-08-24 | 2025-09-10 |
 | [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 | 2025-06-25 | 2025-07-18 |
 | [L'école](https://open.spotify.com/track/6ZcN26OG9FY2inZxJwTX6g) | [Lo Straqen](https://open.spotify.com/artist/1dzBGHcvmxo5Fu3TdVpC1Z) | [L'école](https://open.spotify.com/album/7oxPWtOqfzcIcrnrTqCudb) | 6:24 | 2025-06-17 | 2025-07-01 |
+| [LA CURA PER ME \(feat\. BLANCO\)](https://open.spotify.com/track/3TkSWRxnvQX6uKGA709Ohb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:35 | 2025-11-10 |  |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-12-06 | 2025-01-16 |
 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 | 2025-09-09 | 2025-11-07 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2024-07-09 | 2024-07-25 |
@@ -399,7 +400,7 @@
 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-11-04 | 2025-10-03 |
 | [sci@ll@ \(feat\. Tananai\)](https://open.spotify.com/track/6VZaWYhELTIpY1dTjWwrKN) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 3:04 | 2025-06-17 | 2025-06-26 |
 | [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 | 2025-06-30 | 2025-07-25 |
-| [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2025-09-09 |  |
+| [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2025-09-09 | 2025-11-11 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2025-09-09 |  |
 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2025-09-09 |  |
 | [Settembre](https://open.spotify.com/track/10BrvCc1dAF3p4OD8A5H2e) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Post Punk](https://open.spotify.com/album/4Hbba5d72PryD3I9jQxDcR) | 3:32 | 2025-09-09 | 2025-10-10 |

@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 40445,
+  "num_followers": 40487,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Supermarket Flowers",
-      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Supermarket Flowers",
+      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 264546,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+        "name": "SINK NOW, SWIM LATER",
+        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+      "duration_ms": 182000,
+      "name": "ORIGAMI",
+      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "SINK NOW, SWIM LATER",
-        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 182000,
-      "name": "ORIGAMI",
-      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
         "name": "april",
         "url": "https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 141748,
       "name": "april",
       "url": "https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 260004,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
         "name": "Happiest Year",
         "url": "https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 260004,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
+        "name": "IDK You Yet",
+        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
       },
@@ -2211,22 +2227,6 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "IDK You Yet",
-        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
@@ -2255,6 +2255,22 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
+        "name": "Nothing Really Matters",
+        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -2295,54 +2311,6 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
-        "name": "Nothing Really Matters",
-        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
-        "name": "Feline (Deluxe)",
-        "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
-      },
-      "artists": [
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/3QLB5s0MY7ERTwh4GpNMkf"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
         "name": "7 Layers",
         "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
       },
@@ -2375,6 +2343,22 @@
     {
       "added_at": "2025-10-16 22:00:28",
       "album": {
+        "name": "Feline (Deluxe)",
+        "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
+      },
+      "artists": [
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
       },
@@ -2387,6 +2371,38 @@
       "duration_ms": 210160,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/3QLB5s0MY7ERTwh4GpNMkf"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY"
+    },
+    {
+      "added_at": "2025-10-16 22:00:28",
+      "album": {
+        "name": "One Call Away (Acoustic)",
+        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
     },
     {
       "added_at": "2025-10-16 22:00:28",
@@ -2419,22 +2435,6 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8"
-    },
-    {
-      "added_at": "2025-10-16 22:00:28",
-      "album": {
-        "name": "One Call Away (Acoustic)",
-        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
     },
     {
       "added_at": "2025-10-16 22:00:28",

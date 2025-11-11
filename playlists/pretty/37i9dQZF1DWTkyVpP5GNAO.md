@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Sarai Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,623 likes - 80 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,660 likes - 80 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 31 | [El Poderoso De Israel \- Medley](https://open.spotify.com/track/3mRPCUkDLRGNGmI1XqjEjI) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [El Poderoso De Israel \(Medley\)](https://open.spotify.com/album/0fMhh4Sv7YpsbPva3P8XUf) | 3:44 |
 | 32 | [La Bendición](https://open.spotify.com/track/6bDaLV8u56T5xP24YhiEfO) | [Jimmy's](https://open.spotify.com/artist/5wKWCZRVBErveTfC1y1vLJ), [Agus Bouquet](https://open.spotify.com/artist/1RbAJ0yLldiFFfDQWrfuO0), [Seba Dentis](https://open.spotify.com/artist/0bd2kMD55K5IHqStBiASXF) | [La Bendición](https://open.spotify.com/album/4i47UkRrIh62IsmPfMcije) | 4:29 |
 | 33 | [Vencido \- Live](https://open.spotify.com/track/3qxlmfkJIQI6iLoncBQa8A) | [Lakewood Music Español](https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Vencido \(Live\)](https://open.spotify.com/album/2kh9Yrv0RwSEpiRYxKbgjV) | 8:19 |
-| 34 | [Creo En Ti](https://open.spotify.com/track/5pdW42MXRkX9J2NVT2ujgd) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Creo En Ti](https://open.spotify.com/album/5oYlcBML4HD9gkrEuJgsCe) | 6:47 |
+| 34 | [Creo En Ti \- En Vivo](https://open.spotify.com/track/5pdW42MXRkX9J2NVT2ujgd) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Creo En Ti \(En Vivo\)](https://open.spotify.com/album/5oYlcBML4HD9gkrEuJgsCe) | 6:47 |
 | 35 | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ) | 5:38 |
 | 36 | [Viento Del Norte](https://open.spotify.com/track/5ZjTZynqsWSyg4LWERVpTT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Liz Mariel](https://open.spotify.com/artist/4Wz6hNzPp4n6GVd8J34kVc), [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a) | [Viento Del Norte](https://open.spotify.com/album/5GoGZLdlMmZtItpeD7dwSJ) | 8:36 |
 | 37 | [Guíame Espíritu de Dios \- en vivo desde Monterrey](https://open.spotify.com/track/72n76IdCo3Ppb3hLnLVhfn) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Guíame Espíritu de Dios](https://open.spotify.com/album/48XScOAkxivTjTd5h4tJh0) | 5:26 |

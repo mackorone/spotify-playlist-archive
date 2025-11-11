@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update met Hollands en Volkspop. Cover: Jari Hellegers & Monique Smit",
-  "num_followers": 153733,
+  "num_followers": 153723,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWQRxvRKfu8fGH7DHsOybr24bMi",
+  "snapshot_id": "AAAAAIg51KMMGSrRAQ34Vrqh4lFCLiXF",
   "tracks": [
     {
       "added_at": "2025-11-06 23:00:22",
@@ -43,6 +43,26 @@
       "duration_ms": 148954,
       "name": "Vreemde uit de kroeg",
       "url": "https://open.spotify.com/track/4WjLLhdrqjaCGgZ380aWlY"
+    },
+    {
+      "added_at": "2025-11-06 23:00:22",
+      "album": {
+        "name": "Zij komt van het kamp",
+        "url": "https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5"
+      },
+      "artists": [
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "duration_ms": 148806,
+      "name": "Zij komt van het kamp",
+      "url": "https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5"
     },
     {
       "added_at": "2025-11-06 23:00:22",
@@ -243,26 +263,6 @@
       "duration_ms": 209383,
       "name": "Geouwehoer",
       "url": "https://open.spotify.com/track/482UpSEiMaKq7iOUxSvydd"
-    },
-    {
-      "added_at": "2025-11-06 23:00:22",
-      "album": {
-        "name": "Zij komt van het kamp",
-        "url": "https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5"
-      },
-      "artists": [
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        },
-        {
-          "name": "Frank Van Etten",
-          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
-        }
-      ],
-      "duration_ms": 148806,
-      "name": "Zij komt van het kamp",
-      "url": "https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5"
     },
     {
       "added_at": "2025-11-06 23:00:22",

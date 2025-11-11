@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Mi Casa
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,559 likes - 65 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,629 likes - 65 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

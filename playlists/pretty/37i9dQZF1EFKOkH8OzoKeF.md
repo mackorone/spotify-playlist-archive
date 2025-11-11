@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Valientes](https://open.spotify.com/track/7Fyobg4Z7w4IWA36f8Sx0G) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:14 |
-| 2 | [Mr\. Carisma](https://open.spotify.com/track/6Xp4kUqr2npPU1ZYvyVnGW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 3:51 |
-| 3 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
+| 2 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
+| 3 | [Mr\. Carisma](https://open.spotify.com/track/6Xp4kUqr2npPU1ZYvyVnGW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 3:51 |
 | 4 | [Clavos](https://open.spotify.com/track/1ZyqjQNO25bMMt6DTqsesE) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 3:13 |
 | 5 | [Pregunta Loca](https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:46 |
 | 6 | [Me Voy Contigo](https://open.spotify.com/track/7elfchBbUE8EEF2DQRzupW) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Me Voy Contigo](https://open.spotify.com/album/6veZ0xh4Tb2X4BpkhGshBp) | 2:45 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 | 77 | [Sálvese Quien Pueda](https://open.spotify.com/track/63cyzAm47XoWmI80RapQ9B) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv), [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47) | [Sálvese Quien Pueda](https://open.spotify.com/album/0wGSBnHW3QjMmuJotJNXxV) | 2:42 |
 | 78 | [Metamorfosis](https://open.spotify.com/track/2cdcT3GVdDJoRNf4xZ1Kd5) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Sexto Sentido](https://open.spotify.com/album/2i1KFGoNAsZCNmCvZBEGzw) | 0:15 |
 
-Snapshot ID: `AcBKJgAAAADoXCTpv7mhiXsL5kO4olsO`
+Snapshot ID: `AcBPxgAAAAAbsmjV2izYspI7Nac5dnku`

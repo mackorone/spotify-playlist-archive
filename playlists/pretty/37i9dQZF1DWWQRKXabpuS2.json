@@ -1,12 +1,12 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 43059,
+  "num_followers": 43077,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMlPX0Yr0Dz5L0jA3mF7Np0g/tMG",
+  "snapshot_id": "AAAAAGOOOl739FtrtcLbfppyvfrSP+O7",
   "tracks": [
     {
       "added_at": "2025-11-06 10:41:00",
@@ -73,6 +73,38 @@
       "url": "https://open.spotify.com/track/28r9fcUufc6M5oBX3i0oFP"
     },
     {
+      "added_at": "2025-11-06 07:49:52",
+      "album": {
+        "name": "\u0644\u064a\u0647 \u062a\u0633\u0623\u0644",
+        "url": "https://open.spotify.com/album/1kaKgMDwbbPNJy7Iy3Ugsv"
+      },
+      "artists": [
+        {
+          "name": "Meteb Alshalan",
+          "url": "https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA"
+        }
+      ],
+      "duration_ms": 269315,
+      "name": "\u0644\u064a\u0647 \u062a\u0633\u0623\u0644",
+      "url": "https://open.spotify.com/track/2bTIVLvuEcirWIcrRy3RqU"
+    },
+    {
+      "added_at": "2025-11-10 10:01:08",
+      "album": {
+        "name": "La Yateq Alarg",
+        "url": "https://open.spotify.com/album/6ES1kGd2gwoLh6wYGH1ao1"
+      },
+      "artists": [
+        {
+          "name": "KADEJAH MOAATH",
+          "url": "https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4"
+        }
+      ],
+      "duration_ms": 210174,
+      "name": "Ya Wel Haly",
+      "url": "https://open.spotify.com/track/2QmVG4A7yPet3Dv2a42NvG"
+    },
+    {
       "added_at": "2025-10-17 10:46:02",
       "album": {
         "name": "\u0643\u0644 \u0645\u0627 \u062d\u0627\u0648\u0644\u062a",
@@ -119,22 +151,6 @@
       "duration_ms": 225815,
       "name": "Jabal Chamekh",
       "url": "https://open.spotify.com/track/699UW50gxSh976xtnckNmg"
-    },
-    {
-      "added_at": "2025-11-06 07:49:52",
-      "album": {
-        "name": "\u0644\u064a\u0647 \u062a\u0633\u0623\u0644",
-        "url": "https://open.spotify.com/album/1kaKgMDwbbPNJy7Iy3Ugsv"
-      },
-      "artists": [
-        {
-          "name": "Meteb Alshalan",
-          "url": "https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA"
-        }
-      ],
-      "duration_ms": 269315,
-      "name": "\u0644\u064a\u0647 \u062a\u0633\u0623\u0644",
-      "url": "https://open.spotify.com/track/2bTIVLvuEcirWIcrRy3RqU"
     },
     {
       "added_at": "2025-09-29 13:05:47",

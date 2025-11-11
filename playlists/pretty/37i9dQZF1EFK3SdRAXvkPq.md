@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145 likes - 133 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 147 likes - 133 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 94 | [Se De y Se Da](https://open.spotify.com/track/25NbsKV6Dgx29NF4j0pvLk) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:11 |
 | 95 | [El Pin](https://open.spotify.com/track/0yr5n9BiA7QoibcCx7eJj8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:00 |
 | 96 | [A.B.C.](https://open.spotify.com/track/7uhjKlTO93EQa3JRLD46Kx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 2:23 |
-| 97 | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/track/2vkP9YxIShIv2BnpxWeK09) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/album/5ICLoIxxGde3n3lvyAqoQx) | 3:19 |
-| 98 | [CÓDIGOS](https://open.spotify.com/track/273PsBfvMreiD2TXyKOR06) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:58 |
+| 97 | [CÓDIGOS](https://open.spotify.com/track/273PsBfvMreiD2TXyKOR06) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:58 |
+| 98 | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/track/2vkP9YxIShIv2BnpxWeK09) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/album/5ICLoIxxGde3n3lvyAqoQx) | 3:19 |
 | 99 | [Kiki](https://open.spotify.com/track/0TkdRKpejpwRE4r4C4DgzV) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Kiki](https://open.spotify.com/album/43e1C3XcVXK0KytOlJtg8D) | 2:11 |
 | 100 | [Mi Momento Favorito](https://open.spotify.com/track/68OpadfcNyC3iMIPaKrikB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [El Cambio](https://open.spotify.com/album/5js6CdkxePKw4aOD3Brnj1) | 3:28 |
 | 101 | [Dandote](https://open.spotify.com/track/3h0mwHmFyAS1oYLF9sUzrL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 2:43 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 132 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 133 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcBKJgAAAACjcpD8RekLl9HiNdLcWFAU`
+Snapshot ID: `AcBPvAAAAADzL6rtqULXfW69RBxCZCwS`

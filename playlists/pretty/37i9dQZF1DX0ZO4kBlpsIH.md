@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,792 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,915 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 99 | [El choclo](https://open.spotify.com/track/0VlKpMsojxkDk4UVZVDTUv) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 4:04 |
 | 100 | [Le Mauvais Rêve](https://open.spotify.com/track/0Fys0W4K98zYT8nHq4CGvO) | [Le Bleu Ensemble](https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG) | [Le Mauvais Rêve](https://open.spotify.com/album/07n3EfDsuC5RbNrKVisVEZ) | 2:11 |
 
-Snapshot ID: `AAAAAG4ADWi3yKmMY150JTeoAuHQLeRs`
+Snapshot ID: `AAAAABBJ/sjhmR0S6okliUGYYk3s8NgJ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133032,
+  "num_followers": 133031,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAABZfZxqVv/DQYS0s+tSN8jr",
+  "snapshot_id": "aQ/ZgAAAAAD/Ayf4buGbXJl+Gtn5uoZ2",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Te Ouvi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 243368,
       "name": "Eu Te Ouvi - Ao Vivo",
       "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     },
     {
       "added_at": null,

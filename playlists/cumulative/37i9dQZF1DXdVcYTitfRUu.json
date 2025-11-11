@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 300000,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/6Obj7Vj37gWWqWCbS5PuYH"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 220000,
       "name": "Beautiful fact",
       "url": "https://open.spotify.com/track/19KheJUp8m8rTsnfheQ0Zc"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 264000,
       "name": "Change",
       "url": "https://open.spotify.com/track/1xVUu2AbjTJTEvQI2rpEpp"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 228080,
       "name": "First Step",
       "url": "https://open.spotify.com/track/2dBb7nKOJdVbv4Bib5w1DP"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 227026,
       "name": "I will be your flower",
       "url": "https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ"
@@ -2046,6 +2046,28 @@
       "duration_ms": 245000,
       "name": "If I Love Again",
       "url": "https://open.spotify.com/track/1BvBbq3KAD41EeubqOfXrE"
+    },
+    {
+      "album": {
+        "name": "If It Were Me",
+        "url": "https://open.spotify.com/album/7anuSu3PjGYENe4jYHzfdM"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "If It Were Me",
+      "url": "https://open.spotify.com/track/6dMB4gO3Q3cFMG2ijS0JAf"
     },
     {
       "album": {
@@ -2374,7 +2396,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 194000,
       "name": "Long trip",
       "url": "https://open.spotify.com/track/1tKNzLT0SRoK6wpZKz6S9r"
@@ -2883,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "No Words Can Say",
+        "url": "https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "No Words Can Say",
+      "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
+    },
+    {
+      "album": {
         "name": "Circle - The 1st Album",
         "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
       },
@@ -3030,6 +3070,24 @@
       "duration_ms": 201053,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q"
+    },
+    {
+      "album": {
+        "name": "Called Love",
+        "url": "https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/6sgQEjL4Ii2ycEFoTWI5NQ"
     },
     {
       "album": {
@@ -3405,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE"
+    },
+    {
+      "album": {
         "name": "Bon Appetit Your Majesty (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ"
       },
@@ -3456,7 +3532,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 267000,
       "name": "Stay With Me (Feat. Ailee)",
       "url": "https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU"
@@ -3594,6 +3670,24 @@
       "duration_ms": 233031,
       "name": "Sudden Shower",
       "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
+    },
+    {
+      "album": {
+        "name": "Summer End (Original Soundtrack from Last Summer)",
+        "url": "https://open.spotify.com/album/2WyblLuFfoHwGxFIBnSo0O"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189823,
+      "name": "Summer End",
+      "url": "https://open.spotify.com/track/2knq4yj5NlKk76UF9px8ih"
     },
     {
       "album": {
@@ -4059,6 +4153,24 @@
     },
     {
       "album": {
+        "name": "When I Hold You In My Arms",
+        "url": "https://open.spotify.com/album/4mpgrjUNfoRWKqN6Bnk3hB"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278640,
+      "name": "When I Hold You In My Arms",
+      "url": "https://open.spotify.com/track/2vAfRezKm491l4SwTrwjur"
+    },
+    {
+      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -4208,6 +4320,24 @@
       "duration_ms": 183186,
       "name": "Winner",
       "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
+    },
+    {
+      "album": {
+        "name": "Seasons of Love 0.3 : Winter is coming",
+        "url": "https://open.spotify.com/album/5JSwZTB1M1I15zlmDrMxvR"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Winter is coming",
+      "url": "https://open.spotify.com/track/6aqWaABmxn1lgHb1aAmrqm"
     },
     {
       "album": {

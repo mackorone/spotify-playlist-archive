@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: ITZY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,993 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,996 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Girls Will Be Girls](https://open.spotify.com/track/4YxbIKcZR2EnDLVvC0ztNW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/6TA0VcPiUH1a3tPRp3SjbC) | 2:48 |
-| 2 | [Kiss & Tell](https://open.spotify.com/track/6cS2LXKE1gsLi9V1JvwKUQ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/6TA0VcPiUH1a3tPRp3SjbC) | 2:46 |
+| 1 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 |
+| 2 | [Focus](https://open.spotify.com/track/6TGc4ONEDJzd5872yDDIYz) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 1:28 |
 | 3 | [XOXZ](https://open.spotify.com/track/2f79jWcTf2pxVxDLdxi1Lm) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/1rhedhcbhR9KQcFTSQ6sli) | 2:34 |
 | 4 | [ATTITUDE](https://open.spotify.com/track/6VBiGpCFThcOFlldRiCPr9) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/0YaLbDxHTeZLT3CpDunKuT) | 3:14 |
 | 5 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/3KcHHPN23AwgnSkq7TouwW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Birthday Song](https://open.spotify.com/track/2h6aWrQegkTFL1XyIXHZpT) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Birthday Song](https://open.spotify.com/album/3Ss1DQmaGehLA3yD3UMMKE) | 2:48 |
 | 50 | [Perfect Timing](https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Turbulence: A Guide to Balance](https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR) | 3:09 |
 
-Snapshot ID: `AAAAAJAYH39KRee6SVQ84stYtDyFs6VV`
+Snapshot ID: `AAAAAOi5pypUmS6sSGfHZ/m9svEwyDnC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,534 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,651 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 4 | [Jilali](https://open.spotify.com/track/3ADao3EAzM0qRS1TgAIB7J) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Jilali](https://open.spotify.com/album/2JcXqUtwwpGHolWtlyO4zC) | 2:59 |
 | 5 | [Ensa](https://open.spotify.com/track/0gqQVtw4Dhc1jTXCcxa01U) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ensa](https://open.spotify.com/album/263tszRzCdApk9Z0WktOQz) | 3:17 |
 | 6 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 |
-| 7 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 8 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
-| 9 | [Mon Amour](https://open.spotify.com/track/7eSOy2Wb3xE76X1u03lTQm) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mon Amour](https://open.spotify.com/album/4gpSrE8EvFGfjwEV8ILzTX) | 2:48 |
+| 7 | [Habibi](https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Habibi](https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6) | 3:03 |
+| 8 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
+| 9 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
 | 10 | [RWINI](https://open.spotify.com/track/4KtR6eHxOOQ3cE8ZwVeYS9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [RWINI](https://open.spotify.com/album/3G0HZxflIGREjKgKHGcOh3) | 4:01 |
 | 11 | [Midaliya](https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Midaliya](https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO) | 2:33 |
 | 12 | [Sarini](https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Sarini](https://open.spotify.com/album/2IwrMNUgldFJy5kcqY43xA) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [BAMBARA](https://open.spotify.com/track/5EBSvoppcZtLqZ7kif2Mhz) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [BAMBARA](https://open.spotify.com/album/4ZhiN2qHatPIIVWS6yWkLt) | 2:22 |
 | 50 | [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 |
 
-Snapshot ID: `AAAAACamcYMCvC5eeDkDoJdlawGG8pgn`
+Snapshot ID: `AAAAANKr42gXM9yfCo9Wp6qUcxvqeF0V`

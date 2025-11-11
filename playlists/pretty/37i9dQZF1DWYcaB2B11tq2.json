@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Christine D'Clario",
-  "num_followers": 488919,
+  "num_followers": 489038,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,26 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
       "artists": [
         {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
         }
       ],
-      "duration_ms": 251429,
-      "name": "S\u00e9 fuerte",
-      "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
+      "duration_ms": 601586,
+      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
+      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -383,26 +391,18 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Uniendo Cielo Y Tierra",
-        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
       },
       "artists": [
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
-        },
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 601586,
-      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
-      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
+      "duration_ms": 251429,
+      "name": "S\u00e9 fuerte",
+      "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 211995,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Mesias (Live)",
         "url": "https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 324493,
       "name": "Inexplicable",
       "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 211995,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -747,18 +747,26 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+        "name": "Todo Pasar\u00e1",
+        "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
       "artists": [
         {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Abraham Velazquez",
+          "url": "https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu"
         }
       ],
-      "duration_ms": 287268,
-      "name": "Eres Mi Dueno",
-      "url": "https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1"
+      "duration_ms": 225900,
+      "name": "Todo Pasar\u00e1",
+      "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -783,26 +791,18 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Todo Pasar\u00e1",
-        "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Abraham Velazquez",
-          "url": "https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu"
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
         }
       ],
-      "duration_ms": 225900,
-      "name": "Todo Pasar\u00e1",
-      "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
+      "duration_ms": 287268,
+      "name": "Eres Mi Dueno",
+      "url": "https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Dios de Lo Imposible",
-        "url": "https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo"
-      },
-      "artists": [
-        {
-          "name": "Victor Flores",
-          "url": "https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ"
-        }
-      ],
-      "duration_ms": 472946,
-      "name": "Dios de Lo Imposible",
-      "url": "https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Le Pertenezco",
         "url": "https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 226040,
       "name": "Le Pertenezco",
       "url": "https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Dios de Lo Imposible",
+        "url": "https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo"
+      },
+      "artists": [
+        {
+          "name": "Victor Flores",
+          "url": "https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ"
+        }
+      ],
+      "duration_ms": 472946,
+      "name": "Dios de Lo Imposible",
+      "url": "https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L"
     },
     {
       "added_at": "2025-09-14 09:46:53",

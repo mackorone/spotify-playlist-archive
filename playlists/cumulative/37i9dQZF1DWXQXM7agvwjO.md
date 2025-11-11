@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Robot Swing \(Taiwan\)
 
-2,298 songs - 5 day 19 hr 12 min
+2,299 songs - 5 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,7 @@
 | [History Of You](https://open.spotify.com/track/54wlNjIXeQKDk3DFF5C7BU) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [History Of You](https://open.spotify.com/album/1W4RW7pGOSln4nypumplni) | 4:08 | 2023-09-15 | 2023-09-22 |
 | [Hoa Hồng](https://open.spotify.com/track/2RyBIXrFX6OYRprEKYwdN5) | [Thành Luke](https://open.spotify.com/artist/4s1DRFQAYnDvXmKYFBUcYa), [The Luka Project](https://open.spotify.com/artist/3rSWgrxSPaAF9em4VEe8GD) | [Tên Tôi Là](https://open.spotify.com/album/5kbxDHbBAHrrzmy3yhrTE1) | 4:04 | 2024-07-25 | 2024-08-17 |
 | [Hold](https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Halfway To Heaven](https://open.spotify.com/album/433ib6biZjvMHN37vl9n0h) | 4:04 | 2022-03-24 | 2022-04-08 |
-| [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 | 2025-09-12 |  |
+| [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 | 2025-09-12 | 2025-11-11 |
 | [hold me tight](https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [hold me tight](https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA) | 3:11 | 2024-03-21 | 2024-08-02 |
 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 | 2022-08-18 | 2022-08-26 |
 | [hold you close](https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [hold you close](https://open.spotify.com/album/25j8iJERUiIYXW71OevJmC) | 3:39 | 2023-10-12 | 2023-11-02 |
@@ -1894,6 +1894,7 @@
 | [Undo \(feat\. Su\)](https://open.spotify.com/track/3PPw7f955j5emJDS4hrjbs) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz), [Su](https://open.spotify.com/artist/1l8xhC977AFxpN7QyDajbC) | [Casual Day](https://open.spotify.com/album/4SUl0HZ4PltGiBRmmqoMgq) | 3:19 | 2022-05-12 | 2022-07-08 |
 | [Uneven](https://open.spotify.com/track/352StnCiFEF6hqe3eR791o) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Restless](https://open.spotify.com/album/5uDxlFZNaC2r3nQbEIPzip) | 4:11 | 2023-03-31 | 2023-05-19 |
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-06-30 | 2022-09-09 |
+| [Unknown Island](https://open.spotify.com/track/0DFdHBXkNHzkErWowep6Ak) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/0imMfpeWlSPj9E5Sy0Bgui) | 4:16 | 2025-11-11 |  |
 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 | 2022-03-24 | 2022-06-03 |
 | [Until The Sunrise](https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Until The Sunrise](https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH) | 3:26 | 2024-09-19 | 2024-11-09 |
 | [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 | 2024-04-04 | 2024-05-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15328,
+  "num_followers": 15330,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAQDDNq9wSXWo3FI1BQjzHt",
+  "snapshot_id": "aQ/ZgAAAAAAeGVDSAHISyfBV5RCE2Q4p",
   "tracks": [
     {
       "added_at": null,
@@ -319,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+        "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
+        "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
       },
       "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 356760,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
+      "duration_ms": 236124,
+      "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
+      "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
     },
     {
       "added_at": null,
@@ -367,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
-        "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
       "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 236124,
-      "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
-      "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
+      "duration_ms": 356760,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-853 songs - 1 day 16 hr 40 min
+854 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,9 +80,10 @@
 | [BEG](https://open.spotify.com/track/1HRfKLtaX6TgJRWGt9TlSK) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [BEG](https://open.spotify.com/album/2yVIP489gtrWCmp3tSHxcp) | 2:14 | 2025-07-18 | 2025-08-08 |
 | [Believe \- Remix](https://open.spotify.com/track/5TcbpZTIBHZhuPPjjGAcvd) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Believe \(Remix\)](https://open.spotify.com/album/2NF3sfJYTL9hIwuaNStqeZ) | 3:24 | 2025-07-18 |  |
 | [Bend The Whip](https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bend The Whip](https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB) | 2:43 | 2023-11-02 | 2024-06-08 |
-| [Better Than Ever](https://open.spotify.com/track/6BEOAVWbGPGvKOAZNdBcnu) | [Just Joseph](https://open.spotify.com/artist/65W9xwH3Z3BqcDxcgW1UHg), [Rob Nor](https://open.spotify.com/artist/0U9HHUbYkMfs2jcuhFTdlo), [K Diamond](https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL) | [Better Than Ever](https://open.spotify.com/album/52EH30kItcnw4akreSxoFF) | 2:35 | 2025-06-09 |  |
+| [Better Than Ever](https://open.spotify.com/track/6BEOAVWbGPGvKOAZNdBcnu) | [Just Joseph](https://open.spotify.com/artist/65W9xwH3Z3BqcDxcgW1UHg), [Rob Nor](https://open.spotify.com/artist/0U9HHUbYkMfs2jcuhFTdlo), [K Diamond](https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL) | [Better Than Ever](https://open.spotify.com/album/52EH30kItcnw4akreSxoFF) | 2:35 | 2025-06-09 | 2025-11-11 |
 | [Bible Going Viral](https://open.spotify.com/track/2e8BtzqjrkHkZrCovqCduc) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Bible Going Viral](https://open.spotify.com/album/4PxerXPjuR8hSu4GLmcYBu) | 3:00 | 2022-03-11 | 2022-03-24 |
 | [Big As It Gets](https://open.spotify.com/track/2lA4BUG5rsRPLEJ1F0q0Hp) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Marc Vanparla](https://open.spotify.com/artist/3goTcT8vE6cwQihVfz3Vbh) | [Big As It Gets](https://open.spotify.com/album/1r9qKIYakHF1QkjQG5x3qp) | 2:36 | 2024-09-03 | 2024-12-07 |
+| [Big Brother](https://open.spotify.com/track/041UtdcWXo5RObALfbphb4) | [EGR](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56) | [Big Brother](https://open.spotify.com/album/2TWvFy8rzGQQSOmUWCMh3A) | 2:41 | 2025-11-07 |  |
 | [BIG GOD](https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [BIG GOD](https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS) | 2:56 | 2023-12-15 | 2024-06-08 |
 | [BIG GOD](https://open.spotify.com/track/7vVvgh7OtySZqsFvDio9nW) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU) | [BIG GOD](https://open.spotify.com/album/4A1YXRtCDqZ3ZXrfmdnewk) | 2:24 | 2025-07-18 |  |
 | [BIGGER](https://open.spotify.com/track/1FW6SpTaiNvDhbymqWGv9T) | [ben haydn](https://open.spotify.com/artist/6hhSMFSre2tzsoKtm3slxB), [AMU6iX](https://open.spotify.com/artist/779TfAi7FhboH2cZqGfJno), [Rap King](https://open.spotify.com/artist/04el0tmK7u66DhOEJGOFsZ) | [BIGGER](https://open.spotify.com/album/29AeKQZN2waM3Grmwh2IYy) | 2:08 | 2025-05-09 |  |

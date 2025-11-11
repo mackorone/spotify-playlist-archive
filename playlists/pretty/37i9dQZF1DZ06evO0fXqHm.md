@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,834 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 31 | [Fica Tudo Bem](https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Fica Tudo Bem](https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu) | 2:48 |
 | 32 | [Sem Calcinha](https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:36 |
 | 33 | [Dona Onça](https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:00 |
-| 34 | [Papo 10](https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [VINT](https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7) | [Papo 10](https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs) | 2:33 |
-| 35 | [Sem Pressão](https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:22 |
+| 34 | [Sem Pressão](https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:22 |
+| 35 | [Papo 10](https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [VINT](https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7) | [Papo 10](https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs) | 2:33 |
 | 36 | [Set Ecko By Wave 01](https://open.spotify.com/track/0pTZxWzR6uVBrBIGn2meQr) | [AK NF](https://open.spotify.com/artist/6pR77mMkpiPLgWH4Xjx2AP), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DJ Lg do Sf](https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk) | [Set Ecko By Wave 01](https://open.spotify.com/album/1dFBqf9mFTfgvZoB9guh17) | 2:59 |
 | 37 | [Juma Marruá](https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:42 |
 | 38 | [BOLA LOGO](https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [AMOUR BEIJA FLOR](https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Rompe](https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Rompe](https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT) | 2:33 |
 | 50 | [Toma Cuidado pra Não Se Apegar](https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 1:39 |
 
-Snapshot ID: `aQ6IAAAAAAAK7O+paZlANarcUnE4SVpX`
+Snapshot ID: `aQ/ZgAAAAAD6rCRSMUDODy4QruxXmFzs`

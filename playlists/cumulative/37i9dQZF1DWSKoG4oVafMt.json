@@ -5768,12 +5768,12 @@
       },
       "artists": [
         {
-          "name": "Danny",
-          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
         },
         {
-          "name": "Avvy Sra",
-          "url": "https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG"
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
         },
         {
           "name": "Avvy Ballagan",
@@ -13771,6 +13771,28 @@
     },
     {
       "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF"
+      },
+      "artists": [
+        {
+          "name": "Harkirat Sangha",
+          "url": "https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163523,
+      "name": "Midnight Call",
+      "url": "https://open.spotify.com/track/37Uxo75YZUGjCfV1WnZE4k"
+    },
+    {
+      "album": {
         "name": "Mil Tan Jaave (feat. Himanshi Khurana)",
         "url": "https://open.spotify.com/album/6Jb0Lx0eVTcxhTOUUlhOhz"
       },
@@ -19764,7 +19786,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 241153,
       "name": "Sohna Sohni",
       "url": "https://open.spotify.com/track/5xjashmzgod19Cf64kbl8K"

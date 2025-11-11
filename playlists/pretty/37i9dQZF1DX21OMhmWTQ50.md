@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 285 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

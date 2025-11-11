@@ -4,7 +4,7 @@
 
 > Pumpkin Spice everything  🧡
 
-349 songs - 18 hr 38 min
+350 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2023-07-26 | 2024-04-19 |
 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-05-22 | 2025-06-12 |
 | [Let Her Go \(feat\. Ed Sheeran\) \- Anniversary Edition](https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [All The Little Lights \(Anniversary Edition\)](https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR) | 4:16 | 2023-11-10 | 2024-03-02 |
-| [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-29 |  |
+| [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-29 | 2025-11-11 |
 | [lieb dich eigentlich :\(](https://open.spotify.com/track/3xkLGMxuILomQ4kFACymnx) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [lieb dich eigentlich :\(](https://open.spotify.com/album/7BT34zHobCPHlxAsgvxk5h) | 2:44 | 2024-11-09 | 2025-01-15 |
 | [liebe das](https://open.spotify.com/track/2fiGJgDY0OamG8wX0WaMnO) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [liebe das](https://open.spotify.com/album/65Y5EIAFfPvFIjHJy9CgIX) | 3:08 | 2024-11-09 | 2025-06-18 |
 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 | 2024-05-22 | 2025-03-02 |
@@ -286,6 +286,7 @@
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2023-11-17 |  |
 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 | 2023-07-26 | 2023-11-11 |
 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 | 2023-07-26 | 2023-10-26 |
+| [Southern Star \(feat\. AURORA\)](https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Southern Star \(feat\. AURORA\)](https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj) | 5:04 | 2025-11-07 |  |
 | [Spiegelbild](https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Spiegelbild](https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G) | 3:14 | 2023-07-26 | 2024-05-23 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-05 | 2024-11-06 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-10-13 |  |

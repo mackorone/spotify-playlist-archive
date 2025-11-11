@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  Protopapa in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,240 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,241 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 38 | [Maledetto](https://open.spotify.com/track/5mWE57Day9EWDPweZFX7Qq) | [Severino Panzetta](https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m), [Giacomo Moras](https://open.spotify.com/artist/6ot5EUnczyalQ76s6l2Ryv), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Maledetto](https://open.spotify.com/album/4jIzNSS0vpiDPAqzY5oyA2) | 4:07 |
 | 39 | [UN'ALTRA ORA](https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [UN'ALTRA ORA](https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ) | 2:55 |
 | 40 | [Elevator](https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH), [Unusual Magic](https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ) | [Elevator](https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz) | 2:03 |
-| 41 | [En nuit](https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:41 |
+| 41 | [En nuit](https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:43 |
 | 42 | [I Nostri Fiori](https://open.spotify.com/track/3aMcfNmm7WR8V25FpmGXtn) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [I Nostri Fiori](https://open.spotify.com/album/2fUzYSRyRLva9J8T5PRMxa) | 3:26 |
 | 43 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
 | 44 | [Te e Me](https://open.spotify.com/track/6koVfWb4Vl7FxQY3SLEPlA) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Te e Me](https://open.spotify.com/album/5E4afLGhqs9xcuhYyjxFuZ) | 2:40 |

@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 10757,
+  "num_followers": 10772,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAC/XUiAo44dNohWLkolj8a8",
+  "snapshot_id": "aQ/ZgAAAAAAoSlJU3BNEB2WMjSzpK5sG",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -163,30 +187,6 @@
       "duration_ms": 183000,
       "name": "Voc\u00ea Parece Com Vergonha",
       "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
     },
     {
       "added_at": null,
@@ -423,6 +423,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Novo Tom",
+        "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 290769,
+      "name": "Um Novo Tom",
+      "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SALA VERMELHA #03 - Ajuliacosta",
         "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Novo Tom",
-        "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 290769,
-      "name": "Um Novo Tom",
-      "url": "https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL"
     },
     {
       "added_at": null,

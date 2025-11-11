@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 587688,
+  "num_followers": 587764,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 330206,
+      "name": "Lux",
+      "url": "https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "All One",
         "url": "https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 223561,
       "name": "All One",
       "url": "https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Lux",
-        "url": "https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 330206,
-      "name": "Lux",
-      "url": "https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
+      },
+      "artists": [
+        {
+          "name": "Morten Granau",
+          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+        }
+      ],
+      "duration_ms": 452173,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Aliyu",
         "url": "https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
-      },
-      "artists": [
-        {
-          "name": "Morten Granau",
-          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
-        }
-      ],
-      "duration_ms": 452173,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Shingara",
-        "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
-      },
-      "artists": [
-        {
-          "name": "Jilax",
-          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
-        },
-        {
-          "name": "3Form",
-          "url": "https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs"
-        },
-        {
-          "name": "Psyfeature",
-          "url": "https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F"
-        }
-      ],
-      "duration_ms": 317746,
-      "name": "Shingara",
-      "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
       },
@@ -1307,6 +1283,30 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Shingara",
+        "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
+      },
+      "artists": [
+        {
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+        },
+        {
+          "name": "3Form",
+          "url": "https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs"
+        },
+        {
+          "name": "Psyfeature",
+          "url": "https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F"
+        }
+      ],
+      "duration_ms": 317746,
+      "name": "Shingara",
+      "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Antiwar (Noface Remix)",
         "url": "https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r"
       },
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Sun & Moon (Blastoyz Remix)",
-        "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        },
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "Sun & Moon - Blastoyz Remix",
-      "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Key To Happiness",
         "url": "https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 355862,
       "name": "Key To Happiness",
       "url": "https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Sun & Moon (Blastoyz Remix)",
+        "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        }
+      ],
+      "duration_ms": 211002,
+      "name": "Sun & Moon - Blastoyz Remix",
+      "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
     },
     {
       "added_at": "2025-08-15 04:00:20",

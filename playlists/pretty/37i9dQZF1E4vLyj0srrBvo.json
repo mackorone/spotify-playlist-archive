@@ -1,6 +1,6 @@
 {
-  "description": "With Labyrinth Ear, Pearly Drops, Cocteau Twins and more",
-  "num_followers": 35436,
+  "description": "With Pearly Drops, Labyrinth Ear, Crim3s and more",
+  "num_followers": 35444,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLLXTION I",
-        "url": "https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN"
-      },
-      "artists": [
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/3AtVQOM4g0dB9DZhvwQdkA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moon and the Melodies (2024 Remaster)",
         "url": "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 189632,
       "name": "Sea, Swallow Me - 2024 Remaster",
       "url": "https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COLLXTION I",
+        "url": "https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/3AtVQOM4g0dB9DZhvwQdkA"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 286013,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
     },
     {
       "added_at": null,
@@ -335,38 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oak",
-        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
-      },
-      "artists": [
-        {
-          "name": "Labyrinth Ear",
-          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Navy Light",
-      "url": "https://open.spotify.com/track/6o43Gi1cX7Nyi6koSkwIBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 260413,
-      "name": "Be a Body",
-      "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 260413,
+      "name": "Be a Body",
+      "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oak",
+        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
+      },
+      "artists": [
+        {
+          "name": "Labyrinth Ear",
+          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Navy Light",
+      "url": "https://open.spotify.com/track/6o43Gi1cX7Nyi6koSkwIBc"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/04hIZe3V1YuxOuS4Y0ymzL"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/2gb31QyfSG3j2QBYPjmRMx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "Pagan Poetry",
+      "url": "https://open.spotify.com/track/0mc51xomEC6CZUZdB8xgQU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Closer To Grey",
         "url": "https://open.spotify.com/album/6A6RTFXwJWesdPhSGnm0tF"
       },
@@ -571,34 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1"
+        "name": "Brokendate",
+        "url": "https://open.spotify.com/album/7njHOwYjouefEKp1XbTx95"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "Com Truise",
+          "url": "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
         }
       ],
-      "duration_ms": 328573,
-      "name": "Hidden Place",
-      "url": "https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Society",
-        "url": "https://open.spotify.com/album/0Jqdj4cAMoEcdxLJuKeZWR"
-      },
-      "artists": [
-        {
-          "name": "pathetic240px",
-          "url": "https://open.spotify.com/artist/6s6HhNePAkax0mfTK1O57K"
-        }
-      ],
-      "duration_ms": 214062,
-      "name": "Society",
-      "url": "https://open.spotify.com/track/5NLdlIggmKj4G7RB6l8Tm1"
+      "duration_ms": 171000,
+      "name": "4 Morant (Better Luck Next Time)",
+      "url": "https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT"
     },
     {
       "added_at": null,
@@ -623,90 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokendate",
-        "url": "https://open.spotify.com/album/7njHOwYjouefEKp1XbTx95"
-      },
-      "artists": [
-        {
-          "name": "Com Truise",
-          "url": "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "4 Morant (Better Luck Next Time)",
-      "url": "https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oak",
-        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
-      },
-      "artists": [
-        {
-          "name": "Labyrinth Ear",
-          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 213610,
-      "name": "Sheesh (feat. Grimes)",
-      "url": "https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Pagan Poetry",
-      "url": "https://open.spotify.com/track/0mc51xomEC6CZUZdB8xgQU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Circumambient",
-      "url": "https://open.spotify.com/track/2yP2fo52aCyQGr8K9QMXiw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Lasts Forever (with Grimes)",
         "url": "https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74"
       },
@@ -727,6 +643,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Society",
+        "url": "https://open.spotify.com/album/0Jqdj4cAMoEcdxLJuKeZWR"
+      },
+      "artists": [
+        {
+          "name": "pathetic240px",
+          "url": "https://open.spotify.com/artist/6s6HhNePAkax0mfTK1O57K"
+        }
+      ],
+      "duration_ms": 214062,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/5NLdlIggmKj4G7RB6l8Tm1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 328573,
+      "name": "Hidden Place",
+      "url": "https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oak",
+        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
+      },
+      "artists": [
+        {
+          "name": "Labyrinth Ear",
+          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Doldrums",
+          "url": "https://open.spotify.com/artist/1YAv2yohpdjlPVbtqZCGLY"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Colour of Moonlight (Antiochus)",
+      "url": "https://open.spotify.com/track/3Kl512JPDDX8XsjagpNxlo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cults",
-        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
+        "name": "Scripture",
+        "url": "https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 218560,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E"
+      "duration_ms": 251217,
+      "name": "Scripture",
+      "url": "https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cults",
+        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
       },
@@ -795,18 +795,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master of My Make-Believe",
-        "url": "https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273"
+        "name": "Stay Ugly EP",
+        "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
       },
       "artists": [
         {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+          "name": "Crim3s",
+          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
         }
       ],
-      "duration_ms": 284400,
-      "name": "Disparate Youth",
-      "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
+      "duration_ms": 165633,
+      "name": "Dose",
+      "url": "https://open.spotify.com/track/2PFnwCd0wdJnLQodbvrDeg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 213610,
+      "name": "Sheesh (feat. Grimes)",
+      "url": "https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS"
     },
     {
       "added_at": null,
@@ -839,22 +859,6 @@
       "duration_ms": 227160,
       "name": "Black Out Days",
       "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
     }
   ],
   "unique_name": "Grimes Radio",

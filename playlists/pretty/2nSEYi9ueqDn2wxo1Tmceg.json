@@ -6,7 +6,7 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAARDKMIzHqWEcv6gLFABnkKWDTlMbsX",
+  "snapshot_id": "AAARD5kMbLAArueivsKPb5s7cx2BgSeP",
   "tracks": [
     {
       "added_at": "2025-11-06 17:01:43",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-11-05 13:03:50",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
-    },
-    {
-      "added_at": "2025-11-05 13:03:50",
-      "album": {
         "name": "Candle",
         "url": "https://open.spotify.com/album/7mMmN1nphb2jlee4pYZLh2"
       },
@@ -55,6 +39,38 @@
       "duration_ms": 186463,
       "name": "Candle",
       "url": "https://open.spotify.com/track/66447TJUyw3jjyePECdqJY"
+    },
+    {
+      "added_at": "2025-11-10 14:24:48",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/3t4OfWaZxVoVB2cDUhNJ0U"
+      },
+      "artists": [
+        {
+          "name": "Jaime Rosso",
+          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
+        }
+      ],
+      "duration_ms": 274532,
+      "name": "Narrow View",
+      "url": "https://open.spotify.com/track/46yDCfLxon683Ln6W44UXo"
+    },
+    {
+      "added_at": "2025-11-05 13:03:50",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
     },
     {
       "added_at": "2025-11-05 13:03:50",

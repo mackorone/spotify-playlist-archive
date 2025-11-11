@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 336 songs - 21 hr 32 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 337 songs - 21 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -344,5 +344,6 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 334 | [You Will Be Okay](https://open.spotify.com/track/2HuXYDO2pZpnRJFfsvHhwl) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Helluva Boss: Season One \(Original Soundtrack\)](https://open.spotify.com/album/7AjoUb9SiaGNfl2n99YYiz) | 2:02 |
 | 335 | [Dagenham Dream](https://open.spotify.com/track/7wA6K5a70ApY3Ypgqg4Gbz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:45 |
 | 336 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
+| 337 | [in the pool](https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 4:05 |
 
-Snapshot ID: `AAAEI7HmW/6P292KPMZad3wdN98NgfOY`
+Snapshot ID: `AAAEJFjgU1fHYcko1xV609E4h5arReVM`

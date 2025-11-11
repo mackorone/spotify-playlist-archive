@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future ♥️ Cover: Samar Jafri
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,139 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,152 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 79 | [CHAMKEELA](https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Chamkeela](https://open.spotify.com/album/0UBowUDsgsONLykfLOV824) | 3:08 |
 | 80 | [Face Card](https://open.spotify.com/track/1DidFRHeqssCgMPjhT1em3) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Face Card](https://open.spotify.com/album/5GjNN0MGhH1QtF7iVjHksU) | 2:50 |
 
-Snapshot ID: `AAAAAOaiWH4BdeZMjSWCJQsc3Z1P6kpt`
+Snapshot ID: `AAAAAGI43/YdYUD2MzcAH07JsMz1mxAu`

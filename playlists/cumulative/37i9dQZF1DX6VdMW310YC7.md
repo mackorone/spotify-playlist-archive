@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,829 songs - 5 day 4 hr 20 min
+1,830 songs - 5 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Close Your Eyes](https://open.spotify.com/album/1dykSfMKD0vYaCH9Rp338Y) | 2:36 | 2025-07-11 |  |
 | [Close Your Eyes](https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Close Your Eyes](https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB) | 4:54 | 2024-10-25 | 2025-01-01 |
 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2021-08-20 | 2022-10-13 |
-| [Closer](https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7) | [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv), [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf) | [Closer](https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi) | 2:42 | 2025-09-26 |  |
+| [Closer](https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7) | [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv), [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf) | [Closer](https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi) | 2:42 | 2025-09-26 | 2025-11-11 |
 | [Closer](https://open.spotify.com/track/6o30i136QpwWOL2v98cSAd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:12 | 2022-01-21 | 2022-02-12 |
 | [Closer](https://open.spotify.com/track/7bDYzTFL2ksPttXvLsY0tE) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Brain Freeze](https://open.spotify.com/album/08fLzwK3ueT7etjpdinnRW) | 3:30 | 2020-05-22 | 2020-07-03 |
 | [Closer To Life](https://open.spotify.com/track/0wkX8SrPDxceFxgRoSDrs0) | [Atella](https://open.spotify.com/artist/4iyfdYs0bh6oIxRaeozwBh), [Frøder](https://open.spotify.com/artist/3JmXXj2YSEu650701Uj1Pe) | [Closer To Life](https://open.spotify.com/album/4s06uGn3KS97zwXyVjazsi) | 4:03 | 2020-05-18 | 2020-07-03 |
@@ -1425,6 +1425,7 @@
 | [Silk Jam](https://open.spotify.com/track/2ifyrAZtTrGbwsq2bmFGsE) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Way Back When](https://open.spotify.com/album/1zEasMkKYtGp0R8y85qYWa) | 2:50 | 2022-07-01 | 2022-07-30 |
 | [Silk Jam](https://open.spotify.com/track/6V5hRLs94gOseTsZvivYe1) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Way Back When](https://open.spotify.com/album/1vG0Zb57rQUPnujHmog4aF) | 2:50 | 2020-03-17 | 2022-04-20 |
 | [Silver Lines](https://open.spotify.com/track/03ZAkPbN9kT1tKJKO8fnt3) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Silver Lines](https://open.spotify.com/album/5pRtDqM9wXxbUvoxvuERGQ) | 3:42 | 2025-02-28 | 2025-03-22 |
+| [Silverlight](https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Silverlight](https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E) | 3:20 | 2025-11-07 |  |
 | [Simpatico](https://open.spotify.com/track/0K9pSksQRifXqaybdAIZtQ) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Photograph EP](https://open.spotify.com/album/7L4Gq7fzGcWT5LNaR1rMri) | 4:24 | 2020-03-20 | 2021-03-06 |
 | [Simple Hit](https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/4cNRNpj5a81e2iF5cIb1n5) | 3:39 | 2020-03-21 | 2020-10-09 |
 | [Simply](https://open.spotify.com/track/6bMLRH1vZ5kv2y8WzY0yoU) | [Franko Ovalles](https://open.spotify.com/artist/4bYEmGuJrMflUTqsdcsoQH), [Mattis Coe](https://open.spotify.com/artist/4yt5WmN5eAeuHZijqX83zk), [Kate Kolgan](https://open.spotify.com/artist/1CgZAdgtvfDCdINaPXPzyr) | [Simply](https://open.spotify.com/album/5IKcJuDwf8g2SKBPefuljt) | 3:33 | 2020-05-19 | 2020-07-03 |

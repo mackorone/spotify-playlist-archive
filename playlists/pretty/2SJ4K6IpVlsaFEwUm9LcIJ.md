@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,483 likes - 88 songs - 4 hr 58 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,506 likes - 82 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,11 +90,5 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 80 | [Shadows and Sparks](https://open.spotify.com/track/29IESUgB8VqXKnRBhRigHV) | [Turbo Fade](https://open.spotify.com/artist/4nN1OspoRH7RDBbe9ooNOW) | [Shadows and Sparks](https://open.spotify.com/album/0ZJK0oyAiB93A6jT5Lmnz6) | 2:11 |
 | 81 | [kira](https://open.spotify.com/track/3XYF84eNPPvRObZZPHsgla) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [spirit](https://open.spotify.com/album/5wEy1LKkVbEEKnyk9Ql5Ke) | 4:10 |
 | 82 | [Soulsides](https://open.spotify.com/track/7njVyqzN7SfrGHvOo4hXGX) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Gentle Eyes](https://open.spotify.com/album/0GgRhNd77djlIJTndk2G1M) | 4:28 |
-| 83 | [ចាំនៅតែចាំ](https://open.spotify.com/track/5gqEV0HG9wakmVPB3GORGU) | [Ros Serey Sothea](https://open.spotify.com/artist/6aBWAoJJ2F6HD6mTr2aLZ0) | [តើថ្ងៃណាទៅវិលវិញ?\. នឹកអើយសែននឹក](https://open.spotify.com/album/0P3YI4mCXyqATNfAq5Tuhr) | 3:37 |
-| 84 | [100 years of Bill & Lil](https://open.spotify.com/track/14S4p6XIlsHNJdiz8Ptws7) | [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Hamstrings & Hurricanes](https://open.spotify.com/album/1tXqXb6NGntGK4OfOc6j5o) | 3:35 |
-| 85 | [Vals en 16mm](https://open.spotify.com/track/0GoVAWajaazvgau87iHWoq) | [Sergio Mihanovich](https://open.spotify.com/artist/2hPO6aP9HU0QsxpqYqNNCY), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [Los Jovenes Viejos \(Remastered\)](https://open.spotify.com/album/7BpwAXzzaTqkzWTSmQ5gvk) | 2:56 |
-| 86 | [Snowfall Serenade](https://open.spotify.com/track/4y3GGDrMxmoPRkZoPZ7WNc) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Raindrops](https://open.spotify.com/album/5L7VeMZzhPfTqF0cd6nPHB) | 4:01 |
-| 87 | [Oslo](https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2) | [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Dwell Time](https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc) | 4:40 |
-| 88 | [Last Time](https://open.spotify.com/track/3Wvj5QBsofxKCvwqKs9jLh) | [Shungu](https://open.spotify.com/artist/1XIyDif58YyorFor2gNfUF), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Last Time](https://open.spotify.com/album/0VltGG3swfBwkkAAbS4tRa) | 2:26 |
 
-Snapshot ID: `AAANYBcwJ42mD5LNTG14gEYYDGe0piwr`
+Snapshot ID: `AAANYmcykNqVG40UR0Prh2VOlkGFrnb6`

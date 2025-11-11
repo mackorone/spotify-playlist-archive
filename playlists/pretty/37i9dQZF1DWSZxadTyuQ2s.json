@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Ludmilla \ud83c\udde7\ud83c\uddf7",
-  "num_followers": 17040,
+  "num_followers": 17351,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+    },
+    {
+      "added_at": "2025-11-07 00:01:32",
+      "album": {
         "name": "GUILT TRIPPIN (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 153400,
       "name": "GUILT TRIPPIN (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
-    },
-    {
-      "added_at": "2025-11-07 00:01:32",
-      "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
-        "name": "ZAAZAA",
-        "url": "https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "ZAAZAA",
-      "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
-    },
-    {
-      "added_at": "2025-11-07 00:01:32",
-      "album": {
         "name": "Tout donner",
         "url": "https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 145512,
       "name": "Tout donner",
       "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"
+    },
+    {
+      "added_at": "2025-11-07 00:01:32",
+      "album": {
+        "name": "ZAAZAA",
+        "url": "https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "ZAAZAA",
+      "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -1091,46 +1091,6 @@
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
-      },
-      "artists": [
-        {
-          "name": "XVI",
-          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 146125,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
-    },
-    {
-      "added_at": "2025-11-07 00:01:32",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
-    },
-    {
-      "added_at": "2025-11-07 00:01:32",
-      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -1163,22 +1123,42 @@
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2025-11-07 00:01:32",
+      "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
+      },
+      "artists": [
+        {
+          "name": "XVI",
+          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 146125,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -1195,6 +1175,26 @@
       "duration_ms": 179000,
       "name": "PIRATE",
       "url": "https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG"
+    },
+    {
+      "added_at": "2025-11-07 00:01:32",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
+        "name": "Wallah Wallah",
+        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 142830,
+      "name": "Wallah Wallah",
+      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
+    },
+    {
+      "added_at": "2025-11-07 00:01:32",
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
       },
@@ -1307,30 +1327,6 @@
       "duration_ms": 240000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
-    },
-    {
-      "added_at": "2025-11-07 00:01:32",
-      "album": {
-        "name": "Peace by Piece",
-        "url": "https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "On a Kentro (feat. L.A.X)",
-      "url": "https://open.spotify.com/track/2Cz1ppqlF9Ozk1UgumS7Oc"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -1359,18 +1355,26 @@
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
-        "name": "Minha Vida \u00e9 um Filme",
-        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
+        "name": "Peace by Piece",
+        "url": "https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ"
       },
       "artists": [
         {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Minha Vida \u00e9 um Filme",
-      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
+      "duration_ms": 161344,
+      "name": "On a Kentro (feat. L.A.X)",
+      "url": "https://open.spotify.com/track/2Cz1ppqlF9Ozk1UgumS7Oc"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -1403,42 +1407,38 @@
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
-        "name": "Wallah Wallah",
-        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
+        "name": "Minha Vida \u00e9 um Filme",
+        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
       },
       "artists": [
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
         }
       ],
-      "duration_ms": 142830,
-      "name": "Wallah Wallah",
-      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
+      "duration_ms": 186666,
+      "name": "Minha Vida \u00e9 um Filme",
+      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
-        "name": "BIG AKA 4 AKA KAI",
-        "url": "https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm"
+        "name": "Kouma - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6ile3U8JuYt0T1G9HtOIGZ"
       },
       "artists": [
         {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         },
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 243744,
-      "name": "NUMBER ONE (feat. Minz)",
-      "url": "https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb"
+      "duration_ms": 164000,
+      "name": "Kouma - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0qRiGLDCvi8zMKZdL5pisV"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -1459,6 +1459,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2025-11-07 00:01:32",
+      "album": {
+        "name": "BIG AKA 4 AKA KAI",
+        "url": "https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 243744,
+      "name": "NUMBER ONE (feat. Minz)",
+      "url": "https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -1487,18 +1507,18 @@
     {
       "added_at": "2025-11-07 00:01:32",
       "album": {
-        "name": "cc like that",
-        "url": "https://open.spotify.com/album/5G77D202zIyLOgW2eZBFOR"
+        "name": "COMMAS",
+        "url": "https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1"
       },
       "artists": [
         {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 164597,
-      "name": "cc like that",
-      "url": "https://open.spotify.com/track/09ydXiKINm4pPtPaCaEOYy"
+      "duration_ms": 172053,
+      "name": "COMMAS",
+      "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
     },
     {
       "added_at": "2025-11-07 00:01:32",
@@ -1519,26 +1539,6 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
-    },
-    {
-      "added_at": "2025-11-07 00:01:32",
-      "album": {
-        "name": "Kouma - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6ile3U8JuYt0T1G9HtOIGZ"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Kouma - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0qRiGLDCvi8zMKZdL5pisV"
     }
   ],
   "unique_name": "Global Afrobeats",

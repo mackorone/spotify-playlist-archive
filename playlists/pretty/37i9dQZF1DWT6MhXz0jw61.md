@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,981 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388,140 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 25 | [Diamonds](https://open.spotify.com/track/2G1gWY7yel7Buk7Ap1EXIF) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Diamonds](https://open.spotify.com/album/2ojjeH2v1CKiU74Ou7owMI) | 3:21 |
 | 26 | [Thass My Word\_BLUE](https://open.spotify.com/track/7idISXNy4HvOPR1b0g0rRK) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Everything In My Soul\_BLUE](https://open.spotify.com/album/4cRxsuHF0i0t17a5o4fRjE) | 4:15 |
 | 27 | [Just Like Cole](https://open.spotify.com/track/6PQVTFShtMSMHcmpt4TDll) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Just Like Cole](https://open.spotify.com/album/04uPPHjJEyN3q0jk9UpPnW) | 2:11 |
-| 28 | [Pink Slip](https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [Caught Up In The Game : Disc 2](https://open.spotify.com/album/1ELfggHpYAqOnNLttTFBqU) | 4:01 |
+| 28 | [Pink Slip](https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [Caught Up In The Game: Disc 2](https://open.spotify.com/album/1ELfggHpYAqOnNLttTFBqU) | 4:01 |
 | 29 | [Maybe In Nirvana](https://open.spotify.com/track/0t1CEOevSXODFl21uAPDOb) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 2:57 |
 | 30 | [Excuses For Me](https://open.spotify.com/track/3ytxqAsPjPsCk0w0wkJDmf) | [The Underachievers](https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N), [Issa Gold](https://open.spotify.com/artist/4AQPiL37xjPAgBfEEYQrg9), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Excuses For Me](https://open.spotify.com/album/1FsTSfVUFXfymkNkssS2k9) | 2:52 |
 | 31 | [jamal crawford](https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [jamal crawford](https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W) | 2:53 |

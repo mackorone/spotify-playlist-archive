@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 433852,
+  "num_followers": 433888,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 194346,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -427,18 +427,18 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "True Colours",
-        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 143706,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
+      "duration_ms": 238666,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
+      "duration_ms": 143706,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Qui\u00e9n Pensar\u00eda",
-      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
         "name": "The Bakman Tapes",
         "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 212017,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Qui\u00e9n Pensar\u00eda",
+      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -899,22 +899,18 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "el sur",
-        "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
       "artists": [
         {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Tony Grox",
-          "url": "https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD"
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
         }
       ],
-      "duration_ms": 160695,
-      "name": "el sur",
-      "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -935,18 +931,22 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+        "name": "el sur",
+        "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Tony Grox",
+          "url": "https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD"
         }
       ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+      "duration_ms": 160695,
+      "name": "el sur",
+      "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
+        "name": "Derramar",
+        "url": "https://open.spotify.com/album/2liWoQ8Iu9AfbRsLI1RRcr"
+      },
+      "artists": [
+        {
+          "name": "Anselmos",
+          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
+        }
+      ],
+      "duration_ms": 222932,
+      "name": "Derramar",
+      "url": "https://open.spotify.com/track/3LUGhSGsZfa1Xk6LQ8VIcQ"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
         "name": "Leaveyourlove (with MARO)",
         "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 214446,
       "name": "Leaveyourlove (with MARO)",
       "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
-        "name": "Derramar",
-        "url": "https://open.spotify.com/album/2liWoQ8Iu9AfbRsLI1RRcr"
-      },
-      "artists": [
-        {
-          "name": "Anselmos",
-          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
-        }
-      ],
-      "duration_ms": 222932,
-      "name": "Derramar",
-      "url": "https://open.spotify.com/track/3LUGhSGsZfa1Xk6LQ8VIcQ"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
         "name": "Amor del bueno",
         "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 195882,
       "name": "Amor del bueno",
       "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Trist\u00e1n, Ahora Con Reloj",
-        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
       },
       "artists": [
         {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
         }
       ],
-      "duration_ms": 179706,
-      "name": "\u00c1rtico",
-      "url": "https://open.spotify.com/track/2dWiK4SmhnErDHzIpA386N"
+      "duration_ms": 197213,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1275,18 +1275,38 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
+        "name": "Trist\u00e1n, Ahora Con Reloj",
+        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
       },
       "artists": [
         {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+      "duration_ms": 179706,
+      "name": "\u00c1rtico",
+      "url": "https://open.spotify.com/track/2dWiK4SmhnErDHzIpA386N"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
+        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+        }
+      ],
+      "duration_ms": 221837,
+      "name": "4 de Febrero",
+      "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1323,26 +1343,6 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
-        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Chus Santana",
-          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
-        }
-      ],
-      "duration_ms": 221837,
-      "name": "4 de Febrero",
-      "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
         "name": "Dos L\u00e1grimas, Dos Peces",
         "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
-      },
-      "artists": [
-        {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
         "name": "Una Versi\u00f3n Mejor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2ZkNHUcyNCBqvKefz2lI3U"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
         }
       ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
       },
       "artists": [
         {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
         }
       ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+      "duration_ms": 270250,
+      "name": "La Espiral",
+      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1487,6 +1471,22 @@
       "duration_ms": 213563,
       "name": "Mandela Place",
       "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1511,22 +1511,6 @@
       "duration_ms": 211791,
       "name": "El Sitio de Mi Recreo",
       "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
-        "name": "The Inner City",
-        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
-      },
-      "artists": [
-        {
-          "name": "Echo Thrills",
-          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
-        }
-      ],
-      "duration_ms": 180808,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1575,22 +1559,6 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Cruzando el Charco",
-        "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 190502,
-      "name": "Cruzando el Charco",
-      "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
         "name": "Arena C\u00f3smica",
         "url": "https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 219040,
       "name": "Arena C\u00f3smica",
       "url": "https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "The Inner City",
+        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "duration_ms": 180808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Cruzando el Charco",
+        "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 190502,
+      "name": "Cruzando el Charco",
+      "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Ojos de Miel",
-        "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
-      },
-      "artists": [
-        {
-          "name": "Valhua",
-          "url": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
-        },
-        {
-          "name": "Lou Cornago",
-          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Ojos de Miel",
-      "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1787,6 +1767,42 @@
       "duration_ms": 200696,
       "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
       "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Kevin",
+        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
+      },
+      "artists": [
+        {
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+        }
+      ],
+      "duration_ms": 203003,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Ojos de Miel",
+        "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
+      },
+      "artists": [
+        {
+          "name": "Valhua",
+          "url": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
+        },
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Ojos de Miel",
+      "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1811,18 +1827,18 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Kevin",
-        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
+        "name": "SANGRE SUCIA",
+        "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
       "artists": [
         {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+          "name": "\u00c1ngeles Toledano",
+          "url": "https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW"
         }
       ],
-      "duration_ms": 203003,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+      "duration_ms": 224132,
+      "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
+      "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1843,22 +1859,6 @@
       "duration_ms": 176288,
       "name": "em plou a dins",
       "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
-        "name": "SANGRE SUCIA",
-        "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngeles Toledano",
-          "url": "https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
-      "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1915,22 +1915,18 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Artean",
-        "url": "https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8"
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
       "artists": [
         {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "IDOIA",
-          "url": "https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC"
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
         }
       ],
-      "duration_ms": 197408,
-      "name": "Ahizpa / Germana",
-      "url": "https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J"
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -1947,22 +1943,6 @@
       "duration_ms": 162774,
       "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
       "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -2015,6 +1995,42 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
+        "name": "Dime que no",
+        "url": "https://open.spotify.com/album/5TfdtFxdpyvboStwCAGJGP"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "duration_ms": 222740,
+      "name": "Dime que no",
+      "url": "https://open.spotify.com/track/683QA1npfGquujYETm5ZSF"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Artean",
+        "url": "https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "IDOIA",
+          "url": "https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC"
+        }
+      ],
+      "duration_ms": 197408,
+      "name": "Ahizpa / Germana",
+      "url": "https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
         "name": "Hoguera",
         "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
       },
@@ -2035,22 +2051,6 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Dime que no",
-        "url": "https://open.spotify.com/album/5TfdtFxdpyvboStwCAGJGP"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 222740,
-      "name": "Dime que no",
-      "url": "https://open.spotify.com/track/683QA1npfGquujYETm5ZSF"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
         "name": "Me mudo de casa",
         "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
       },
@@ -2063,6 +2063,38 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Saberse Definir",
+        "url": "https://open.spotify.com/album/5EpaPoqJvSDNNaoyW9zTcm"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 262378,
+      "name": "Saberse Definir",
+      "url": "https://open.spotify.com/track/6RmjhswhS9rau9WJbRBYyF"
+    },
+    {
+      "added_at": "2025-10-30 23:00:16",
+      "album": {
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -2087,38 +2119,6 @@
       "duration_ms": 186321,
       "name": "santo el cielo (q brilla x n\u00f3s)",
       "url": "https://open.spotify.com/track/7bTlEyHjDXbsryF1V1ciRn"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
-    },
-    {
-      "added_at": "2025-10-30 23:00:16",
-      "album": {
-        "name": "Saberse Definir",
-        "url": "https://open.spotify.com/album/5EpaPoqJvSDNNaoyW9zTcm"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 262378,
-      "name": "Saberse Definir",
-      "url": "https://open.spotify.com/track/6RmjhswhS9rau9WJbRBYyF"
     },
     {
       "added_at": "2025-10-30 23:00:16",
@@ -2155,18 +2155,26 @@
     {
       "added_at": "2025-10-30 23:00:16",
       "album": {
-        "name": "Algo F\u00edsico",
-        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
+        "name": "xulejudetu",
+        "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
       "artists": [
         {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+          "name": "Pol Bordas",
+          "url": "https://open.spotify.com/artist/1PcEYX38hbrPwOfzZmEqEI"
+        },
+        {
+          "name": "Alba Armengou",
+          "url": "https://open.spotify.com/artist/1v836FgFa0wmJBMO5FGJul"
+        },
+        {
+          "name": "salvi",
+          "url": "https://open.spotify.com/artist/348j2dI5sC2EzHfvJS29tU"
         }
       ],
-      "duration_ms": 167386,
-      "name": "Algo F\u00edsico",
-      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+      "duration_ms": 153687,
+      "name": "xulejudetu",
+      "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
     }
   ],
   "unique_name": "Relax en casa",

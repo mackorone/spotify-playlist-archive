@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 186794,
+  "num_followers": 186893,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,38 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -135,38 +167,6 @@
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
-      },
-      "artists": [
-        {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
-        }
-      ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -455,26 +455,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
-      },
-      "artists": [
-        {
-          "name": "VARITDA",
-          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
-        },
-        {
-          "name": "Koh Mr. Saxman",
-          "url": "https://open.spotify.com/artist/0DT7rzrK9vI0ZC8R8uCb6j"
-        }
-      ],
-      "duration_ms": 278239,
-      "name": "By the Time I Get to Phoenix",
-      "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        },
+        {
+          "name": "Koh Mr. Saxman",
+          "url": "https://open.spotify.com/artist/0DT7rzrK9vI0ZC8R8uCb6j"
+        }
+      ],
+      "duration_ms": 278239,
+      "name": "By the Time I Get to Phoenix",
+      "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
-      },
-      "artists": [
-        {
-          "name": "Adrian Setiawan",
-          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
-        },
-        {
-          "name": "Diona Dewiriana",
-          "url": "https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf"
-        }
-      ],
-      "duration_ms": 232004,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "The Best of George White Group",
         "url": "https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 284213,
       "name": "Things Are Looking up Again",
       "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
+      },
+      "artists": [
+        {
+          "name": "Adrian Setiawan",
+          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
+        },
+        {
+          "name": "Diona Dewiriana",
+          "url": "https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf"
+        }
+      ],
+      "duration_ms": 232004,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Sunshine & Lullaby",
-        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
+        "name": "\u00e0 Fleur de Peau",
+        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
       },
       "artists": [
         {
-          "name": "Matthew Hermosura",
-          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
         }
       ],
-      "duration_ms": 247986,
-      "name": "Sunshine & Lullaby",
-      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
+      "duration_ms": 258900,
+      "name": "Inside and Out",
+      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "\u00e0 Fleur de Peau",
-        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
+        "name": "Sunshine & Lullaby",
+        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
       },
       "artists": [
         {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+          "name": "Matthew Hermosura",
+          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
         }
       ],
-      "duration_ms": 258900,
-      "name": "Inside and Out",
-      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
+      "duration_ms": 247986,
+      "name": "Sunshine & Lullaby",
+      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -987,38 +987,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Sugilite",
-        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Newhall",
-          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
-        }
-      ],
-      "duration_ms": 278961,
-      "name": "Sugilite",
-      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
-      },
-      "artists": [
-        {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
-        }
-      ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Her House (Single Edit) [Star of Spring]",
         "url": "https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK"
       },
@@ -1035,18 +1003,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+        "name": "Sugilite",
+        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
       "artists": [
         {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+          "name": "Jeanne Newhall",
+          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
         }
       ],
-      "duration_ms": 246423,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+      "duration_ms": 278961,
+      "name": "Sugilite",
+      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1079,6 +1047,38 @@
       "duration_ms": 194823,
       "name": "the road is narrow",
       "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+      },
+      "artists": [
+        {
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+        }
+      ],
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+      },
+      "artists": [
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 246423,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "No Meanness",
-        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 238524,
-      "name": "No Meanness",
-      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Chamomile Tea",
         "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 252261,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "No Meanness",
+        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 238524,
+      "name": "No Meanness",
+      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+        "name": "Softer Than You Know",
+        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
       },
       "artists": [
         {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
+        },
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
+      "duration_ms": 208013,
+      "name": "Softer Than You Know",
+      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1199,6 +1203,22 @@
       "duration_ms": 267355,
       "name": "Humphrey and me",
       "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Softer Than You Know",
-        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
-      },
-      "artists": [
-        {
-          "name": "Frans Bak",
-          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
-        },
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Softer Than You Know",
-      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 177680,
       "name": "River",
       "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1311,6 +1295,42 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "A Happy Thought (feat. Stu Mindeman)",
+        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Stu Mindeman",
+          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "A Happy Thought (feat. Stu Mindeman)",
+      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Don't Forget Me (When I'm Gone)",
         "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 233384,
       "name": "Be That Someone",
       "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "A Happy Thought (feat. Stu Mindeman)",
-        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Stu Mindeman",
-          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "A Happy Thought (feat. Stu Mindeman)",
-      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Best Time Of The Year",
+        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+      },
+      "artists": [
+        {
+          "name": "Budbud",
+          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+        }
+      ],
+      "duration_ms": 189688,
+      "name": "Best Time Of The Year",
+      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Heaven's King",
         "url": "https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 215352,
       "name": "Heaven's King",
       "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Best Time Of The Year",
-        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
-      },
-      "artists": [
-        {
-          "name": "Budbud",
-          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
-        }
-      ],
-      "duration_ms": 189688,
-      "name": "Best Time Of The Year",
-      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
     },
     {
       "added_at": "2025-05-18 18:29:44",

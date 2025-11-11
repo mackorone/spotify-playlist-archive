@@ -5429,6 +5429,24 @@
     },
     {
       "album": {
+        "name": "Get Loose",
+        "url": "https://open.spotify.com/album/2V38WVItF6VxSb8LpKCiYc"
+      },
+      "artists": [
+        {
+          "name": "Andre Palms",
+          "url": "https://open.spotify.com/artist/2Fak88tOMUumSFzP2PbhKj"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/4lKXJV5Nl03kIeedbkwCZU"
+    },
+    {
+      "album": {
         "name": "Get Naughty",
         "url": "https://open.spotify.com/album/078Yv8kYGcwLwuOKufsViS"
       },

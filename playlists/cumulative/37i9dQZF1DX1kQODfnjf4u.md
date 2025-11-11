@@ -2,7 +2,7 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: STEIN27 & SIMILIVINLIFE
+> 50 nejžhavějších hitů v České republice\. Cover: Taylor Swift
 
 174 songs - 8 hr 33 min
 

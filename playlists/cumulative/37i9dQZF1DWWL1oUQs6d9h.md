@@ -4,15 +4,16 @@
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-117 songs - 6 hr 9 min
+119 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-05-16 | 2025-09-01 |
 | [9 \(feat\. Han MinJi\)](https://open.spotify.com/track/4BO4lTu9sk1Ypgvqi9x4Xy) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF), [HanMinji](https://open.spotify.com/artist/5PAAkALx5byUebFVd2kOBF) | [9](https://open.spotify.com/album/1jlnFFdq02vnJns1xEUX2V) | 3:15 | 2025-10-17 | 2025-11-06 |
 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-05-16 | 2025-09-10 |
+| [Attachment Theory](https://open.spotify.com/track/4CW5xp1Vg73Kbwi4dR4TzN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Attachment Theory](https://open.spotify.com/album/6T9DUPgKuyW71jmSvi1cwB) | 2:18 | 2025-11-10 |  |
 | [Baby Blue](https://open.spotify.com/track/1EDCbUI9jVv66Jbs4u9qSF) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [Baby Blue](https://open.spotify.com/album/1zZA6PORVvNwXtZ8Ajab6b) | 2:50 | 2025-09-08 | 2025-09-20 |
-| [be mine](https://open.spotify.com/track/1NbmF6MheA6VlRv7II4rGZ) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [be mine](https://open.spotify.com/album/4B8OZjKsDfXw9goVMFkRig) | 3:07 | 2025-11-06 |  |
+| [be mine](https://open.spotify.com/track/1NbmF6MheA6VlRv7II4rGZ) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [be mine](https://open.spotify.com/album/4B8OZjKsDfXw9goVMFkRig) | 3:07 | 2025-11-06 | 2025-11-11 |
 | [Better Dayz](https://open.spotify.com/track/3Utn7kpHOgv7EQG5XmFzY7) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:01 | 2025-05-16 | 2025-05-31 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2025-05-16 |  |
 | [Breaking Isn’t What a Heart Is For](https://open.spotify.com/track/5f0acaWrZ8qNBMmrz1ecnq) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Hope Handwritten](https://open.spotify.com/album/3QTYU8CnWg0tOnnIxfrLDq) | 2:52 | 2025-09-19 | 2025-10-18 |
@@ -93,6 +94,7 @@
 | [SARANGHAE](https://open.spotify.com/track/3URB1DMuLPkeGkRj1KiE37) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [<3](https://open.spotify.com/album/05RwG1scYOeeovch817MRu) | 3:17 | 2025-09-01 | 2025-09-20 |
 | [Saturn](https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:06 | 2025-05-16 |  |
 | [Say](https://open.spotify.com/track/49PPH7Kji3bCyKKNx78SxS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:01 | 2025-05-16 |  |
+| [Secret](https://open.spotify.com/track/0SQNu4qg8dQQxmwZoxNsCR) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB) | 2:12 | 2025-11-10 |  |
 | [Separated](https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:23 | 2025-10-17 | 2025-11-06 |
 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 | 2025-05-16 |  |
 | [shy girl](https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [shy girl](https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh) | 2:43 | 2025-08-19 | 2025-09-09 |
@@ -111,7 +113,7 @@
 | [Tease](https://open.spotify.com/track/3DjFRyOKEkP8EAQH47Fl3d) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Tease](https://open.spotify.com/album/7dtCoDlTwCKT4wxCrr4FSB) | 2:54 | 2025-10-17 | 2025-11-06 |
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-03 |  |
 | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/track/25DeCJkbJNacQt3dfPT9st) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/album/24OBRgl45p0zr0CV7zCHIf) | 3:00 | 2025-07-10 | 2025-08-10 |
-| [Tight Rope \(feat\. ØZI & Karencici\)](https://open.spotify.com/track/4USysQAWIJCPYEByrZ4OpS) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Tight Rope \(feat\. ØZI & Karencici\)](https://open.spotify.com/album/6upx31DrV1bP1kLK5dQffv) | 3:00 | 2025-11-06 |  |
+| [Tight Rope \(feat\. ØZI & Karencici\)](https://open.spotify.com/track/4USysQAWIJCPYEByrZ4OpS) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Tight Rope \(feat\. ØZI & Karencici\)](https://open.spotify.com/album/6upx31DrV1bP1kLK5dQffv) | 3:00 | 2025-11-06 | 2025-11-11 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2025-05-16 |  |
 | [Too Good to be Bad](https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Too Good to be Bad](https://open.spotify.com/album/5NQNmJ3Q1PALGrmnl0c22t) | 2:52 | 2025-11-06 |  |
 | [UP ALL NITE \(Feat\. SUMIN\)](https://open.spotify.com/track/403TlzPjfgom5QGWX11FCw) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [FANG](https://open.spotify.com/album/5LPzhS5QHGdIMcZ8Bk1oWq) | 3:06 | 2025-09-08 | 2025-10-18 |

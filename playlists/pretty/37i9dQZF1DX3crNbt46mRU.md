@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Benjamin Amaru, ROSALÍA,  Aya Nakamura, Orelsan, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,807 likes - 116 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,809 likes - 116 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 70 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 |
 | 71 | [Große Kunst](https://open.spotify.com/track/0Z5i7idYQmtPevUaMVtKpc) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Große Kunst](https://open.spotify.com/album/37MHJaVh0ooueRzrpqWNVn) | 4:03 |
 | 72 | [problème problème](https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [problème problème](https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE) | 2:38 |
-| 73 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
+| 73 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 74 | [Intertwined](https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [It's Always At Night](https://open.spotify.com/album/2oMIMZ0nmzotALQfXll9bA) | 3:54 |
 | 75 | [For No Reason](https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [For No Reason](https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en) | 2:39 |
 | 76 | [Piece of mind](https://open.spotify.com/track/7oFiX1JqJ8ri3hAjnfmId2) | [Jamal](https://open.spotify.com/artist/1tYOWKifYJqpVJ3nnHR3FC) | [Piece of mind](https://open.spotify.com/album/6JIXQoiEF3YblfUvzKzo5J) | 3:12 |

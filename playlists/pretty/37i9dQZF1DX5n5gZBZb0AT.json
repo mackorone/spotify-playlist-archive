@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 956808,
+  "num_followers": 956977,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,26 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
+        "name": "Mortals Funk Remix",
+        "url": "https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Warriyo",
+          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
+        }
+      ],
+      "duration_ms": 146364,
+      "name": "Mortals Funk Remix",
+      "url": "https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
         "name": "Montagem Lunar Diamante",
         "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 185245,
       "name": "Montagem Lunar Diamante - Slowed",
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
-        "name": "Mortals Funk Remix",
-        "url": "https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "Warriyo",
-          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
-        }
-      ],
-      "duration_ms": 146364,
-      "name": "Mortals Funk Remix",
-      "url": "https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -551,30 +551,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "THIS FEELING",
-        "url": "https://open.spotify.com/album/4QbF9gd2zeyd3Vxg29NbWS"
-      },
-      "artists": [
-        {
-          "name": "DJ Anemia",
-          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
-        },
-        {
-          "name": "crier",
-          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
-        },
-        {
-          "name": "sixnite",
-          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
-        }
-      ],
-      "duration_ms": 122482,
-      "name": "THIS FEELING",
-      "url": "https://open.spotify.com/track/7oncLeIzUPgJf4a6jm1c3e"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "DERNIERE DANCE FUNK",
         "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 91453,
       "name": "DERNIERE DANCE FUNK",
       "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "THIS FEELING",
+        "url": "https://open.spotify.com/album/4QbF9gd2zeyd3Vxg29NbWS"
+      },
+      "artists": [
+        {
+          "name": "DJ Anemia",
+          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
+        },
+        {
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
+        },
+        {
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+        }
+      ],
+      "duration_ms": 122482,
+      "name": "THIS FEELING",
+      "url": "https://open.spotify.com/track/7oncLeIzUPgJf4a6jm1c3e"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
       },
       "artists": [
         {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+      "duration_ms": 142940,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
     }
   ],
   "unique_name": "gymcore",

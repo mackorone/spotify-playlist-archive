@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124788,
+  "num_followers": 124795,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUyk5M33FCNbkq7SelT+zB8/QGf1g8",
+  "snapshot_id": "AAAUyyBQ5EfDR5UtL+bXHEsLp5k30QV4",
   "tracks": [
+    {
+      "added_at": "2025-11-10 16:43:26",
+      "album": {
+        "name": "Hybrid / Future",
+        "url": "https://open.spotify.com/album/3LakW6mS1r4E2eoIsY39AW"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "duration_ms": 213257,
+      "name": "Hybrid",
+      "url": "https://open.spotify.com/track/7wEyBeHHjMIxrhTEnNDcsR"
+    },
     {
       "added_at": "2025-11-07 15:17:06",
       "album": {

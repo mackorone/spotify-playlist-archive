@@ -4477,6 +4477,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343496,
+      "name": "Travelin' Soldier",
+      "url": "https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY"
+    },
+    {
+      "album": {
         "name": "I'm Not Dead",
         "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
       },

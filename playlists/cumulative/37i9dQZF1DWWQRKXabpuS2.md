@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-430 songs - 1 day 5 hr 32 min
+431 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Ya Mali Aeni](https://open.spotify.com/track/3rOEw0f1gpEP6UVrWBoFHN) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Faisaliat](https://open.spotify.com/album/5cQDEwL3OpqanDK8bUjE5j) | 5:06 | 2025-04-23 | 2025-07-01 |
 | [Ya Selwaty](https://open.spotify.com/track/2rTU2YX4CMvAPD42NRlTfl) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Ya Selwaty](https://open.spotify.com/album/0TenrztyPkVzQyyHISjxX7) | 5:30 | 2021-12-23 | 2022-03-18 |
 | [Ya Sokar Eldonia](https://open.spotify.com/track/0NKILlxphoywpUSzHMNKst) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Sokar Eldonia](https://open.spotify.com/album/2KBT9b6WRIiz5d2ETHk77b) | 4:35 | 2023-04-26 | 2023-07-28 |
+| [Ya Wel Haly](https://open.spotify.com/track/2QmVG4A7yPet3Dv2a42NvG) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [La Yateq Alarg](https://open.spotify.com/album/6ES1kGd2gwoLh6wYGH1ao1) | 3:30 | 2025-11-10 |  |
 | [Ya Zain El Zain](https://open.spotify.com/track/52uNdZCDUCgyVho9CnFun2) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Zain El Zain](https://open.spotify.com/album/3UrneICqeyutuEi8cibtyD) | 3:36 | 2024-05-08 | 2025-02-12 |
 | [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 | 2024-06-29 | 2025-04-24 |
 | [Yazeeen Haljayah](https://open.spotify.com/track/638UtaoSNov7SoULDflxSS) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Yazeeen Haljayah](https://open.spotify.com/album/3jwRxyTVKWvxl3Z5vz8KBV) | 4:14 | 2021-12-23 | 2022-03-12 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 153848,
+  "num_followers": 153872,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAABKuF8/dd87V4kWGM8exvdQ",
+  "snapshot_id": "aQ/ZgAAAAACyIT4UeFMU0CSTwSKTpyZq",
   "tracks": [
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "One and Only (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7220 (Deluxe)",
         "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
@@ -855,6 +835,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "One and Only (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Who Knew",
+      "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 194195,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHANGE",
-        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Who Knew",
-      "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"
     }
   ],
   "unique_name": "This Is Ella Mai",

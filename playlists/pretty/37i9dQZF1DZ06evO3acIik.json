@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65432,
+  "num_followers": 65419,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAD7xHAyG2L5efU3kybVKKTP",
+  "snapshot_id": "aQ/ZgAAAAAAqLSKmM1Lu7twG6H9rrD/X",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 144008,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/5YCjVkFdXfq6wBpmADgfxR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -615,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't You Love Me? - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
       },
@@ -651,28 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 144008,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/5YCjVkFdXfq6wBpmADgfxR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay (With Me).",
-        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 303355,
-      "name": "Stay (With Me).",
-      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
+      "duration_ms": 149508,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
       },
       "artists": [
         {
@@ -712,57 +712,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 334285,
-      "name": "Days Are Getting Shorter",
-      "url": "https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK"
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
     },
     {
       "added_at": null,
@@ -783,6 +735,54 @@
       "duration_ms": 100000,
       "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
       "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 334285,
+      "name": "Days Are Getting Shorter",
+      "url": "https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
     },
     {
       "added_at": null,
@@ -871,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
       },
       "artists": [
         {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 67171,
-      "name": "A Piece Called Butterflies.",
-      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
+      "duration_ms": 146000,
+      "name": "Only Death Can Separate Us",
+      "url": "https://open.spotify.com/track/11phAxtq0J8bWpKa8JAg4T"
     },
     {
       "added_at": null,

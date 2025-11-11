@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136454,
+  "num_followers": 136455,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
         "name": "Organic Plastic Music",
         "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
       },
@@ -731,8 +747,8 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
       },
       "artists": [
         {
@@ -740,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 225720,
-      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
-      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -759,22 +775,6 @@
       "duration_ms": 195693,
       "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -811,38 +811,6 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/031ZxdGrMfQdhwJu4B2euP"
-      },
-      "artists": [
-        {
-          "name": "Yael Naim",
-          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
-        }
-      ],
-      "duration_ms": 155021,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/6aeeLI3C9U6yAnE0QRCce9"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
@@ -859,18 +827,18 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
       },
       "artists": [
         {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
+      "duration_ms": 225720,
+      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
+      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -891,18 +859,34 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
-        "name": "Branches",
-        "url": "https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm"
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
       },
       "artists": [
         {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 273960,
-      "name": "Branches",
-      "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
+      "duration_ms": 210000,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/031ZxdGrMfQdhwJu4B2euP"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "duration_ms": 155021,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6aeeLI3C9U6yAnE0QRCce9"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -923,6 +907,42 @@
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
+        "name": "Branches",
+        "url": "https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "Branches",
+      "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
+      },
+      "artists": [
+        {
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+        },
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "duration_ms": 340573,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -951,22 +971,18 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
       "artists": [
         {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
-        },
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
         }
       ],
-      "duration_ms": 340573,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+      "duration_ms": 242573,
+      "name": "Beautiful Sleep",
+      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -983,6 +999,22 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
+        "name": "\u5fc3\u306e\u305d\u3070\u306b",
+        "url": "https://open.spotify.com/album/1iZDg7OG1kv1hUDuOpTFiI"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "duration_ms": 303812,
+      "name": "\u5fc3\u306e\u305d\u3070\u306b",
+      "url": "https://open.spotify.com/track/2hR3yLXHkMQLvdOPR8LGQp"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
-        "name": "\u5fc3\u306e\u305d\u3070\u306b",
-        "url": "https://open.spotify.com/album/1iZDg7OG1kv1hUDuOpTFiI"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
-        }
-      ],
-      "duration_ms": 303812,
-      "name": "\u5fc3\u306e\u305d\u3070\u306b",
-      "url": "https://open.spotify.com/track/2hR3yLXHkMQLvdOPR8LGQp"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Beautiful Sleep",
-      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 392173,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
         "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
         "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 248600,
       "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
       "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u97f3\u697d\u3068\u79c1",
-        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 392173,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -1519,38 +1519,6 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
-        "name": "\u6700\u60aa\u6700\u611b",
-        "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
-      },
-      "artists": [
-        {
-          "name": "Ai Higuchi",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "\u5287\u5834",
-      "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Highlights from Simple is best",
-        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
-      },
-      "artists": [
-        {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "The Rose (15th Anniversary Version\uff09",
-      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
         "name": "MISSLIM",
         "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
       },
@@ -1579,6 +1547,38 @@
       "duration_ms": 212484,
       "name": "\u591c\u306f\u3084\u3055\u3057",
       "url": "https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
+        "name": "\u6700\u60aa\u6700\u611b",
+        "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "\u5287\u5834",
+      "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
+        "name": "Highlights from Simple is best",
+        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "duration_ms": 257105,
+      "name": "The Rose (15th Anniversary Version\uff09",
+      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
     },
     {
       "added_at": "2025-10-11 13:26:43",
@@ -1615,38 +1615,6 @@
     {
       "added_at": "2025-10-11 13:26:43",
       "album": {
-        "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
-        "url": "https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 317853,
-      "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
-      "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u30cf\u30f3\u30b5\u30e0\u30dc\u30fc\u30a4",
-        "url": "https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz"
-      },
-      "artists": [
-        {
-          "name": "Yosui Inoue",
-          "url": "https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "\u6700\u5f8c\u306e\u30cb\u30e5\u30fc\u30b9 - Remastered 2018",
-      "url": "https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
         "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0"
       },
@@ -1667,6 +1635,38 @@
       "duration_ms": 166300,
       "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
+        "name": "\u30cf\u30f3\u30b5\u30e0\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz"
+      },
+      "artists": [
+        {
+          "name": "Yosui Inoue",
+          "url": "https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "\u6700\u5f8c\u306e\u30cb\u30e5\u30fc\u30b9 - Remastered 2018",
+      "url": "https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22"
+    },
+    {
+      "added_at": "2025-10-11 13:26:43",
+      "album": {
+        "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
+        "url": "https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 317853,
+      "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
+      "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
     },
     {
       "added_at": "2025-10-11 13:26:43",

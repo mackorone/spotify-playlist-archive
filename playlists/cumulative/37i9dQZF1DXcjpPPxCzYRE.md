@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-448 songs - 1 day 1 hr 38 min
+449 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Al Límite \(feat\. Juancho Marqués\)](https://open.spotify.com/track/0m8adM2AcNOEVaVngsjmW6) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Al Límite \(feat\. Juancho Marqués\)](https://open.spotify.com/album/1FPNRXlL2c6ihVC2IajCc3) | 4:19 | 2024-03-15 | 2024-06-22 |
 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 | 2022-11-11 | 2024-04-19 |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 | 2024-05-02 |  |
-| [Algo Físico](https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm) | [Julia Nar](https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL) | [Algo Físico](https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI) | 2:47 | 2025-09-18 |  |
+| [Algo Físico](https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm) | [Julia Nar](https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL) | [Algo Físico](https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI) | 2:47 | 2025-09-18 | 2025-11-11 |
 | [All of Me](https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:37 | 2023-04-20 | 2024-04-19 |
 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 | 2023-04-20 |  |
 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 | 2022-11-11 |  |
@@ -442,6 +442,7 @@
 | [Wishing Well](https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Wishing Well](https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48) | 4:04 | 2024-03-07 | 2024-05-03 |
 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 | 2022-11-11 | 2024-04-19 |
 | [With Or Without You \- Jo Whiley Show \- BBC Live Session](https://open.spotify.com/track/2JZUW0wQcUYr7NW7itcHef) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes and Fears \(Deluxe Edition\)](https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk) | 3:30 | 2024-10-24 | 2024-12-24 |
+| [xulejudetu](https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi) | [Pol Bordas](https://open.spotify.com/artist/1PcEYX38hbrPwOfzZmEqEI), [Alba Armengou](https://open.spotify.com/artist/1v836FgFa0wmJBMO5FGJul), [salvi](https://open.spotify.com/artist/348j2dI5sC2EzHfvJS29tU) | [xulejudetu](https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf) | 2:33 | 2025-10-30 |  |
 | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS) | 2:38 | 2025-02-25 |  |
 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 | 2022-11-11 | 2023-03-28 |
 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 | 2024-11-21 | 2024-12-24 |

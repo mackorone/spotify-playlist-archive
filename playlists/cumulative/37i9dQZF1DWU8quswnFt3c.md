@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: Oklou \(France\)
 
-2,672 songs - 6 day 4 hr 8 min
+2,673 songs - 6 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [CICATRICI \(feat\. Madame\)](https://open.spotify.com/track/7FSEYn1LL9UemeYeuXCHRm) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 2:53 | 2022-04-06 | 2023-01-05 |
 | [Ciche szepty](https://open.spotify.com/track/78YX9wyB7kXsgBuvPjnp6P) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Ciche szepty](https://open.spotify.com/album/4gjTgaRtOrUCws8g7NjRRo) | 2:32 | 2023-03-08 | 2023-04-06 |
 | [Cinco Minutos Más](https://open.spotify.com/track/1U6gcdaWujPBqQ01c4Wt6S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Cinco Minutos Más](https://open.spotify.com/album/51RUUGrrYNFB5H2jIftYzo) | 3:00 | 2025-02-19 | 2025-04-03 |
-| [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 | 2025-10-15 |  |
+| [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 | 2025-10-15 | 2025-11-11 |
 | [CityPop](https://open.spotify.com/track/5koiE0jeoLoguwVIVxiDXo) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [CityPop \(English Version\)](https://open.spotify.com/album/1VJk7lQNySvEiNai1EBTnu) | 3:47 | 2022-01-05 | 2022-02-03 |
 | [Clit Is Good](https://open.spotify.com/track/162VxrGfWcY4uE0LW6jbeQ) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Clit Is Good](https://open.spotify.com/album/1MzcGJruvNRVX49q5ZR9wt) | 3:01 | 2022-05-04 | 2022-06-01 |
 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-10-04 | 2022-11-03 |
@@ -2258,6 +2258,7 @@
 | [Trago](https://open.spotify.com/track/6u6H8WHjoirugriJDMZGIG) | [Rita Vian](https://open.spotify.com/artist/2F6B2QaWX7cz72kKtY8LRD) | [CAOS'A](https://open.spotify.com/album/4vd3ussiCrKb6XO92DOsys) | 3:43 | 2022-01-05 | 2022-02-03 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-03-06 | 2025-01-09 |
 | [Training Season \- Extended](https://open.spotify.com/track/0XtsipMfiraE0ki8S8Bfcg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism \(Extended Versions\)](https://open.spotify.com/album/0XY0qeZ7czMgtb340QJRxK) | 4:55 | 2024-07-03 | 2024-09-05 |
+| [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 | 2025-11-10 |  |
 | [Trajikomedi](https://open.spotify.com/track/5KvQtUK14fbyFmZjeaBc1g) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Trajikomedi](https://open.spotify.com/album/1fOUfo9SzGYY2PIi1Ndzr6) | 2:53 | 2023-02-01 | 2023-03-02 |
 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 | 2025-07-17 | 2025-11-06 |
 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 | 2022-08-03 | 2022-09-09 |

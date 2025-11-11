@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Federation of Rytm IV",
+        "url": "https://open.spotify.com/album/3vYWRsmQ4CmFXcl03W08sc"
+      },
+      "artists": [
+        {
+          "name": "DJ Dextro",
+          "url": "https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300173,
+      "name": "Buck Rogers",
+      "url": "https://open.spotify.com/track/7g2fvPhQ98N9w9eyAOYFmr"
+    },
+    {
+      "album": {
         "name": "Bulldozer",
         "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
       },
@@ -10462,7 +10480,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 216065,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/511HXldt6dOPhzbR5WAnP0"
@@ -13972,7 +13990,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 270000,
       "name": "Street Rhythm (Go)",
       "url": "https://open.spotify.com/track/72O5c9IljpmJwawgPTUAKT"
@@ -14016,6 +14034,24 @@
       "duration_ms": 207353,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0lWuvIaViwzqDgwctjIR2N"
+    },
+    {
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/5B24NGqifYfUdaQST9g6SS"
+      },
+      "artists": [
+        {
+          "name": "N\u00f8rbak",
+          "url": "https://open.spotify.com/artist/0TwXWZcwzGVVOa1Vdu3UEj"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315111,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5aJQgv8FJIcFIjWlwp8Uj0"
     },
     {
       "album": {
@@ -14410,6 +14446,24 @@
       "duration_ms": 184615,
       "name": "take your vibes and go - DJ ADHD & Chlo\u00e9 Robinson Remix",
       "url": "https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq"
+    },
+    {
+      "album": {
+        "name": "TAKIS",
+        "url": "https://open.spotify.com/album/5367hkONQg2OMZgqwXMjU3"
+      },
+      "artists": [
+        {
+          "name": "Skalman",
+          "url": "https://open.spotify.com/artist/0DIKLkIpoFlwGL0xJMwGID"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236062,
+      "name": "TAKIS",
+      "url": "https://open.spotify.com/track/6vErDum5Vq5UnT2vFJieX1"
     },
     {
       "album": {
@@ -15236,7 +15290,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 243158,
       "name": "TRIBE",
       "url": "https://open.spotify.com/track/1xcoaMrMDAUjB3NqI5r8Lc"

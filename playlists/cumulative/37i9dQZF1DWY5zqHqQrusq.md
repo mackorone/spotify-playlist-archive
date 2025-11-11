@@ -2,9 +2,9 @@
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind\. Cover: Ceke
+> Chill, take a long walk and clear your mind\. Cover: Caleb Awiti
 
-126 songs - 7 hr 11 min
+128 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-11 |  |
 | [Don’t Play](https://open.spotify.com/track/0QWeUCZEQ6ftUjWqghO5tV) | [Rita Wangui](https://open.spotify.com/artist/5cuAJxgVSsEtfaE5HozJ3C), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [Don’t Play](https://open.spotify.com/album/2Ny8cbedZfgUGpI2HcJvkO) | 2:29 | 2025-05-01 |  |
 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 | 2025-10-09 |  |
-| [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [Donado Stone](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 | 2024-10-17 |  |
+| [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 | 2024-10-17 |  |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-11-11 | 2024-03-08 |
 | [Enough](https://open.spotify.com/track/2dDXkA6w6uq2PIlJwnSfjy) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:32 | 2022-11-11 | 2023-11-18 |
 | [Fade](https://open.spotify.com/track/7FuyHQVU2rdPy7nmQhzOye) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Pikes](https://open.spotify.com/artist/3iYk1tEjUMPcs5roPxv533) | [Oasis Park III](https://open.spotify.com/album/0gyKYbsf4q8U5RaSBSqp3s) | 3:58 | 2022-11-11 | 2024-05-24 |
@@ -50,6 +50,7 @@
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 | 2025-10-17 |
 | [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 |  |
 | [I Choose You](https://open.spotify.com/track/3H1UMEoJkP8B4uW30pHIqY) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 3:14 | 2025-01-23 |  |
+| [I HATED YOUR RELATIONSHIP](https://open.spotify.com/track/7fl8eAcXmlSiKH0fsaKglK) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [I WISH I WAS HONEST](https://open.spotify.com/album/1Tv0ZJXSTMZ7lI47lFvY1J) | 1:42 | 2025-11-10 |  |
 | [i know](https://open.spotify.com/track/3ZVZLVsnBgO9ZnUhW7T2vo) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [i know](https://open.spotify.com/album/2AW9K8AgMIMT7dnXxYtQ1A) | 3:36 | 2025-10-16 |  |
 | [I'm Here](https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [I'm Here](https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6) | 3:25 | 2024-03-08 | 2024-05-17 |
 | [If You Don't Know](https://open.spotify.com/track/1KWUfVKdBzUY3NAnfGHbRZ) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Nairobi in Love](https://open.spotify.com/album/7f1gWklPYCMk7yotmrn21y) | 3:20 | 2025-02-07 |  |
@@ -100,18 +101,19 @@
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-11-11 | 2024-01-12 |
 | [Searching](https://open.spotify.com/track/1q7H5GOKYhxtJi7qUWAi3I) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wabi Sherie](https://open.spotify.com/artist/2dtXYbUEL1VbMjtOKpIBDO), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Soul'd Duets](https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6) | 4:23 | 2024-05-16 |  |
 | [See Me](https://open.spotify.com/track/7eaKAVoEqeo98PBEIsgLM0) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Fallin' Apart](https://open.spotify.com/album/7sTMUZfjsk7CjmCybDP1nX) | 4:20 | 2022-11-11 | 2023-09-16 |
+| [Sexy In Chanel](https://open.spotify.com/track/4MkgXmqA9xpmAAr4Mp1grJ) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [I WISH I WAS HONEST](https://open.spotify.com/album/1Tv0ZJXSTMZ7lI47lFvY1J) | 3:26 | 2025-11-10 |  |
 | [Side Chick](https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j), [Jefflawgan](https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav) | [Side Chick](https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3) | 3:50 | 2025-03-28 | 2025-05-02 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-11-11 | 2024-01-12 |
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2022-11-11 | 2023-12-03 |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-04-28 | 2025-02-15 |
 | [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 | 2023-12-02 |  |
-| [so far away](https://open.spotify.com/track/7N06cWKVYr5N7t1RcIWACn) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters III](https://open.spotify.com/album/6u35zLK6Y8h4KDRYZMDaDi) | 3:01 | 2025-03-14 |  |
+| [so far away](https://open.spotify.com/track/7N06cWKVYr5N7t1RcIWACn) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters III](https://open.spotify.com/album/6u35zLK6Y8h4KDRYZMDaDi) | 3:01 | 2025-03-14 | 2025-11-11 |
 | [So Tired](https://open.spotify.com/track/2qt8hSdiYKD33C7zZcrxPB) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [So Tired](https://open.spotify.com/album/2ZbOkKbtmqC84BC1wzxfTR) | 3:35 | 2022-11-11 | 2024-04-05 |
 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 | 2022-11-11 | 2025-02-28 |
 | [Sometimes \- slowed+reverb remix](https://open.spotify.com/track/1Wai4S6wD7jE9vjrZW9Ydw) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes \(slowed+reverb remix\)](https://open.spotify.com/album/05Lhrlmn5toScqQhr4pRXc) | 4:23 | 2022-11-11 | 2024-05-24 |
 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 | 2023-09-15 | 2025-05-02 |
 | [Sugar Rush](https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/1UqJeAHLAQh2g5M8QCdei5) | 3:49 | 2024-03-08 | 2024-04-19 |
-| [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 | 2022-11-11 |  |
+| [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 | 2022-11-11 | 2025-11-11 |
 | [Sulwe](https://open.spotify.com/track/4LMaeL6iAmsv9M5F4f6sCB) | [Brian Sigu](https://open.spotify.com/artist/2JlsCtKF5nCMKWmjarc0u2) | [A Man of Nyadhi](https://open.spotify.com/album/5GXqyYjAYSFRccVUK4MIPz) | 5:21 | 2024-10-17 |  |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2022-11-11 | 2023-04-29 |
 | [Take Your Time](https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z) | [Daveny](https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [Sol](https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T) | 4:12 | 2024-04-04 |  |

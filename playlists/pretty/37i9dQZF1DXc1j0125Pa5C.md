@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,005 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,065 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Refém / Trovão / Cansei de Farra \- Ao Vivo](https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc) | 5:27 |
 | 75 | [Tô Com Saudade / Palpite](https://open.spotify.com/track/4kssCsuyujpcSiGIVdqujS) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ensaios do PDD](https://open.spotify.com/album/3qGSCZnemeG5cRYhsXLxGc) | 4:58 |
 
-Snapshot ID: `AAAAAPNo5xtT0x94ObWizZz13dfLQi9E`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

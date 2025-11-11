@@ -4,7 +4,7 @@
 
 > 
 
-238 songs - 16 hr 12 min
+239 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Below Us \- Smooth Remix](https://open.spotify.com/track/6vlQYEyyuT9aF4Bc0GJFeR) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Shaz Sparks](https://open.spotify.com/artist/3vpOtbQO2ue0zifLcgj58S), [Smooth](https://open.spotify.com/artist/7yRkgZyRXaO7oh1hTEyKNo) | [Polarize EP](https://open.spotify.com/album/5vvHfcPYmgqtMPAoRBZGEp) | 5:25 | 2016-10-04 |  |
 | [Better](https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:49 | 2024-08-27 |  |
 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 | 2018-11-12 |  |
+| [blackout blackout](https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ) | [all things break](https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P) | [blackout blackout](https://open.spotify.com/album/3EtoJYgBedcyTzFtOSipbe) | 2:18 | 2025-11-11 |  |
 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 | 2024-01-12 |  |
 | [Blinding \- Hybrid Minds Remix](https://open.spotify.com/track/2Dy8cTUIP0rf1WZUIWoN8w) | [Jakwob](https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM) | [Blinding](https://open.spotify.com/album/5UIoVFQSTRve8tHCkdKCT1) | 5:14 | 2016-10-05 |  |
 | [Blue Skies \- Revoke Remix](https://open.spotify.com/track/1MKfplOg9xC8EIzL9nMBWi) | [Lenka](https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC), [REVOKE](https://open.spotify.com/artist/1jUWnDhXB6JyBLh1dyAOUc) | [Blue Skies: The Remixes](https://open.spotify.com/album/0kkBJyIlvu9I2NqpgPS4xq) | 3:26 | 2017-02-16 |  |

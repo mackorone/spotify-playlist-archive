@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 98225,
+  "num_followers": 98242,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Ti Sesi Ti Sela",
         "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 173113,
       "name": "Ti Sesi Ti Sela",
       "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Podyab Yo",
         "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 319974,
       "name": "Podyab Yo",
       "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1471,6 +1471,46 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "LAKAY",
+        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
+      },
+      "artists": [
+        {
+          "name": "Jeff Pierre",
+          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
+        },
+        {
+          "name": "AlCol",
+          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "LAKAY",
+      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+      },
+      "artists": [
+        {
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+        },
+        {
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Solfa (Tila)",
         "url": "https://open.spotify.com/album/3jtT0D7rTtOfmdKRFw5OVp"
       },
@@ -1499,42 +1539,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "LAKAY",
-        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
-      },
-      "artists": [
-        {
-          "name": "Jeff Pierre",
-          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
-        },
-        {
-          "name": "AlCol",
-          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "LAKAY",
-      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Boss",
         "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
       },
@@ -1551,42 +1555,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
       },
       "artists": [
         {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
-        },
-        {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
         }
       ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "BIDIBAM",
-        "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
-      },
-      "artists": [
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        },
-        {
-          "name": "Dwala",
-          "url": "https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT"
-        }
-      ],
-      "duration_ms": 190143,
-      "name": "BIDIBAM",
-      "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1611,6 +1591,26 @@
       "duration_ms": 252000,
       "name": "Na Va W\u00e8 Yo",
       "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "BIDIBAM",
+        "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
+      },
+      "artists": [
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        },
+        {
+          "name": "Dwala",
+          "url": "https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT"
+        }
+      ],
+      "duration_ms": 190143,
+      "name": "BIDIBAM",
+      "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
+      },
+      "artists": [
+        {
+          "name": "\u00c4SHH",
+          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "FENOMENAL",
+      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 166008,
       "name": "Wine Pon Me - Remix",
       "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "FENOMENAL",
-        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
-      },
-      "artists": [
-        {
-          "name": "\u00c4SHH",
-          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "FENOMENAL",
-      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
     },
     {
       "added_at": "2025-07-25 04:00:50",

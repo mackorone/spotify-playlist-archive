@@ -7305,6 +7305,24 @@
     },
     {
       "album": {
+        "name": "TUNNEL VISION",
+        "url": "https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/6TGc4ONEDJzd5872yDDIYz"
+    },
+    {
+      "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
       },
@@ -7846,7 +7864,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 168013,
       "name": "Girls Will Be Girls",
       "url": "https://open.spotify.com/track/4YxbIKcZR2EnDLVvC0ztNW"
@@ -11328,7 +11346,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 166040,
       "name": "Kiss & Tell",
       "url": "https://open.spotify.com/track/6cS2LXKE1gsLi9V1JvwKUQ"
@@ -22188,6 +22206,24 @@
       "duration_ms": 242130,
       "name": "Trying too hard",
       "url": "https://open.spotify.com/track/3BNSZOeVDkxVfawEaMqj5l"
+    },
+    {
+      "album": {
+        "name": "TUNNEL VISION",
+        "url": "https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1"
     },
     {
       "album": {

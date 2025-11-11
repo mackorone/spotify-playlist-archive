@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Karen Lizarazo",
-  "num_followers": 104524,
+  "num_followers": 104538,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
+    },
+    {
+      "added_at": "2025-05-30 05:03:05",
+      "album": {
         "name": "Vestido Rojo",
         "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 153868,
       "name": "Vestido Rojo",
       "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
-    },
-    {
-      "added_at": "2025-05-30 05:03:05",
-      "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
     },
     {
       "added_at": "2025-05-30 05:03:05",
@@ -935,18 +935,26 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
-        "name": "Escalona Nunca Se Hab\u00eda Grabado As\u00ed (Deluxe)",
-        "url": "https://open.spotify.com/album/1FCadRB3GFcRzSWzplCiDh"
+        "name": "Eso es mondar",
+        "url": "https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa"
       },
       "artists": [
         {
           "name": "Carlos Vives",
           "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "DJ Marimonda",
+          "url": "https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl"
+        },
+        {
+          "name": "El Elvis Cienaguero",
+          "url": "https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Vallenato Nobel",
-      "url": "https://open.spotify.com/track/2YNtxCNX8Mprfn0tA3b9g9"
+      "duration_ms": 233980,
+      "name": "Eso es mondar",
+      "url": "https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH"
     }
   ],
   "unique_name": "Rumba Colombiana",

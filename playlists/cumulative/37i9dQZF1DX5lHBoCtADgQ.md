@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-129 songs - 8 hr 15 min
+130 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Pinda Vichon Pind \- Folk Recreation](https://open.spotify.com/track/1jEzFM4KUY7Zi2X7taKiZ8) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY) | [Pinda Vichon Pind \(Folk Recreation\)](https://open.spotify.com/album/5yFJPxffYbmIqmSdybpk1A) | 2:17 | 2021-11-03 | 2023-10-11 |
 | [Punjabi Folk Boliyan](https://open.spotify.com/track/4KVJYdubRM0owXUyZabLTR) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/6tTzfqYgGphqYBAu1y3ijP) | 3:05 | 2022-09-15 | 2025-04-19 |
 | [Punjabi Folk Boliyan](https://open.spotify.com/track/76ZQane540KveAtPYr8g3O) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/3ktqMoWRoAxzCXvuH76B4A) | 3:05 | 2023-12-21 | 2024-04-19 |
-| [Punjabi Wedding Boliyan](https://open.spotify.com/track/7napdOdfCC2xlqoOUlRz7j) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Mehndi \(Punjabi Wedding Songs\)](https://open.spotify.com/album/3uqDkiSkf0KaM4ViZevq1S) | 4:21 | 2025-07-03 |  |
+| [Punjabi Wedding Boliyan](https://open.spotify.com/track/7napdOdfCC2xlqoOUlRz7j) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Mehndi \(Punjabi Wedding Songs\)](https://open.spotify.com/album/3uqDkiSkf0KaM4ViZevq1S) | 4:21 | 2025-07-03 | 2025-11-11 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-06-06 |
 | [Raanjhan Aaya](https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Raanjhan Aaya](https://open.spotify.com/album/1D42KMvs4ntxc04oXyY7cJ) | 2:43 | 2025-02-04 |  |
 | [Ranjhana](https://open.spotify.com/track/1upV3GcdtYBdoDwOzUjo60) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ranjhana](https://open.spotify.com/album/5Nt2hF22SqOBga62QCh5bI) | 2:37 | 2021-11-03 | 2024-11-09 |
@@ -135,6 +135,7 @@
 | [Tere Jeya Hor Disda](https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Tere Jeya Hor Disda](https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc) | 4:35 | 2021-11-03 | 2025-09-04 |
 | [Tu Chann Main Chakor](https://open.spotify.com/track/1U5byvCuDxdweNRQE3e7dh) | [Tanvi Sharma](https://open.spotify.com/artist/3n8g62X5MiJLU2PTUuknN2) | [Folk Colours](https://open.spotify.com/album/42W7F6dBaitbVuHzHmk1dF) | 3:21 | 2024-12-02 | 2025-04-19 |
 | [Vally](https://open.spotify.com/track/4MaLITvCIHu3SMWYD8FmNI) | [Balkar Ankhila](https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be), [Manjinder Gulshan](https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw) | [Vally](https://open.spotify.com/album/7L3RncjV67wG8IEUa9IIPL) | 3:15 | 2024-09-30 | 2025-07-04 |
+| [Ve Gurdit Deya Lalaa](https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 2:30 | 2025-08-14 |  |
 | [Wanga Satrangiyan](https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Wanga Satrangiyan](https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI) | 3:26 | 2022-05-18 |  |
 | [Yaar Da Deedar](https://open.spotify.com/track/4O80V1njTN0UR7zOoAPcMz) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Yaar Da Deedar](https://open.spotify.com/album/1kmdcWwbSifyKdDBHPLu2O) | 2:43 | 2024-10-10 | 2025-07-04 |
 

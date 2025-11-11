@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-778 songs - 1 day 14 hr 28 min
+779 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/7BPFEggYyxdKc33fjXFCxy) | 2:45 | 2024-05-23 | 2024-06-01 |
 | [Get Down](https://open.spotify.com/track/4eIimnSW4vhd4Mljoqbaqx) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Down / Shake That](https://open.spotify.com/album/6EniPCrOLspq3Y5lVdvNFC) | 3:30 | 2025-10-10 |  |
 | [Get Freaky \(feat\. Ricky Jay\)](https://open.spotify.com/track/2JpSWTnrYoyUjtt6QtjoWQ) | [Cosmo & Skoro](https://open.spotify.com/artist/5cF3C7YV5UCwODmFDcVhOz), [Crasca](https://open.spotify.com/artist/6UsHiXVzlUH4azQvCcHAQx), [Ricky Jay](https://open.spotify.com/artist/3qKOCBvBzuqroDAIptpfi1) | [Get Freaky \(feat\. Ricky Jay\)](https://open.spotify.com/album/6Y0MrvXNJP8sWi1im54I7J) | 2:49 | 2024-10-31 | 2024-11-15 |
+| [Get Loose](https://open.spotify.com/track/4lKXJV5Nl03kIeedbkwCZU) | [Andre Palms](https://open.spotify.com/artist/2Fak88tOMUumSFzP2PbhKj) | [Get Loose](https://open.spotify.com/album/2V38WVItF6VxSb8LpKCiYc) | 2:30 | 2025-11-10 |  |
 | [Get Naughty](https://open.spotify.com/track/7MpGvAMPPNOWyRQhtb2B9n) | [DJ Phiil](https://open.spotify.com/artist/35znlAHDErseuKLFWNbM0E) | [Get Naughty](https://open.spotify.com/album/078Yv8kYGcwLwuOKufsViS) | 3:27 | 2025-09-12 |  |
 | [Get Shaky \(GRMR Remix\)](https://open.spotify.com/track/5FmSxAhREfhJVRx9NzZk4i) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [GRMR](https://open.spotify.com/artist/6Qba7aqFkMOpKo8HMysGcG) | [Get Shaky \(GRMR Remix\)](https://open.spotify.com/album/0mwsye0vtpQbheFUC8Nnsk) | 2:30 | 2025-05-30 | 2025-06-13 |
 | [Get Silly](https://open.spotify.com/track/7que6KGImzpzFfW6jWARLF) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Get Silly](https://open.spotify.com/album/342ESIqWtB7Mi8CpW1WcyN) | 2:57 | 2024-05-16 | 2024-05-24 |

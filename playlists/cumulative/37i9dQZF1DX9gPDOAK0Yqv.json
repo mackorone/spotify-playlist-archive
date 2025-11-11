@@ -9251,6 +9251,32 @@
     },
     {
       "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "JONOS",
+          "url": "https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d"
+    },
+    {
+      "album": {
         "name": "Meia Lua",
         "url": "https://open.spotify.com/album/3lBx3M2hpoB1JOx4a8U5fT"
       },
@@ -10644,7 +10670,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 139090,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/37kpEfqDWJnyDDqYRj63km"
@@ -15298,6 +15324,10 @@
         {
           "name": "Solomun",
           "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
         }
       ],
       "date_added": "2025-11-07",

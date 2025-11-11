@@ -4,7 +4,7 @@
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: ITZY\)
 
-1,353 songs - 3 day 4 hr 36 min
+1,355 songs - 3 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Fluttering Spring \(Feat\. Z.NU\)](https://open.spotify.com/track/7tKrrt7BxwDV1Rzsgih3ml) | [YEN](https://open.spotify.com/artist/2IhtAFwyLFcLh6MXMK1o2x), [Z.NU](https://open.spotify.com/artist/7wQXZB8BvYtrubcBFhmr0r) | [Eccentric chef moon \(Original Television Soundtrack\) Part.9](https://open.spotify.com/album/24Gk7RZzRDCeVLochxuxjM) | 3:37 | 2023-05-02 | 2023-06-07 |
 | [fly far away, above the clouds](https://open.spotify.com/track/6xuAQb2nbDRHkf37e4Ji9G) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:15 | 2022-05-04 | 2022-06-01 |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-11-04 |  |
+| [Focus](https://open.spotify.com/track/6TGc4ONEDJzd5872yDDIYz) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 1:28 | 2025-11-10 |  |
 | [Foggy](https://open.spotify.com/track/3IEl9Hb4Wx1gtVF6op4LUc) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:33 | 2024-04-02 | 2024-06-05 |
 | [Food](https://open.spotify.com/track/0EWLgmRBMewUqhiLFRJxME) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 3:14 | 2023-10-04 | 2023-11-30 |
 | [Fool to love](https://open.spotify.com/track/7aooyCtNQQ2X7NPgjfQrzd) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [How can I repay you?](https://open.spotify.com/album/681Tp8nUOeLgiqOemcEchL) | 2:44 | 2022-09-06 | 2022-10-05 |
@@ -427,7 +428,7 @@
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2023-10-04 | 2023-11-30 |
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/53Wa5dwbGUT8Jcg08FYfV5) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/1iUER80rxyH3QyicErLpVh) | 3:35 | 2025-03-04 | 2025-05-13 |
 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-06-04 | 2025-02-05 |
-| [Girls Will Be Girls](https://open.spotify.com/track/4YxbIKcZR2EnDLVvC0ztNW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/6TA0VcPiUH1a3tPRp3SjbC) | 2:48 | 2025-11-04 |  |
+| [Girls Will Be Girls](https://open.spotify.com/track/4YxbIKcZR2EnDLVvC0ztNW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/6TA0VcPiUH1a3tPRp3SjbC) | 2:48 | 2025-11-04 | 2025-11-11 |
 | [Glass Heart](https://open.spotify.com/track/64qEmwM6GdzfcCt5ykKu2d) | [SUNYE](https://open.spotify.com/artist/5Vf5VWKvTmzz4tW3JvUcGX) | [\[Genuine\]](https://open.spotify.com/album/2HBxRQqGizwA9UveoLz3QP) | 3:28 | 2022-08-02 | 2022-09-07 |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-05 | 2022-05-05 |
 | [Glow Up](https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Glow Up](https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0) | 2:28 | 2025-06-04 |  |
@@ -614,7 +615,7 @@
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2022-01-04 | 2023-01-04 |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-02 | 2022-09-07 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-06 | 2022-10-05 |
-| [Kiss & Tell](https://open.spotify.com/track/6cS2LXKE1gsLi9V1JvwKUQ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/6TA0VcPiUH1a3tPRp3SjbC) | 2:46 | 2025-11-04 |  |
+| [Kiss & Tell](https://open.spotify.com/track/6cS2LXKE1gsLi9V1JvwKUQ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/6TA0VcPiUH1a3tPRp3SjbC) | 2:46 | 2025-11-04 | 2025-11-11 |
 | [Kissing](https://open.spotify.com/track/0BfAFC7ybwMb5562S39OI0) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:56 | 2022-03-07 | 2022-04-06 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-04-04 | 2023-04-14 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-04 | 2024-02-07 |
@@ -1193,6 +1194,7 @@
 | [Trouble](https://open.spotify.com/track/71IxXvEt2HWbLQ590hyWo3) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY) | [TROUBLE](https://open.spotify.com/album/3IYrL8FzKrX5DOlxvqXOlZ) | 2:42 | 2023-04-04 | 2023-05-03 |
 | [Trying to say good\-bye](https://open.spotify.com/track/1h0bZ8hfhmGM7AYT5M1zGA) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Trying to say good\-bye](https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817) | 3:58 | 2022-04-05 | 2022-05-05 |
 | [Trying too hard](https://open.spotify.com/track/3BNSZOeVDkxVfawEaMqj5l) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Delivery Man, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1zDIqmrLYyO5HK7hEzcITV) | 4:02 | 2023-04-04 | 2024-02-07 |
+| [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 |  |
 | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO) | [SWAN](https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g) | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq) | 3:39 | 2023-07-04 | 2023-08-04 |
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-04 | 2022-06-01 |
 | [Unbearable Pain](https://open.spotify.com/track/41LundrJaKNT2kLlfG1ufe) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Unbearable Pain](https://open.spotify.com/album/0nBw2E2j7OlAXHh1959DW8) | 4:03 | 2022-10-04 | 2022-11-11 |

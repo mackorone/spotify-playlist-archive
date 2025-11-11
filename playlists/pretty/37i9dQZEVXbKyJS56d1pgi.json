@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Portugal.",
-  "num_followers": 219776,
+  "num_followers": 219782,
   "original_name": "Top 50 - Portugal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MKQIUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MKVXeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4ukpy7Q6QmrB7ttNMSAcG2"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "SEQU\u00caNCIA FEITICEIRA",
         "url": "https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/4Lwm0XFseZ09OBdmUJlcYp"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "duration_ms": 160625,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -117,75 +133,7 @@
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA"
-      },
-      "artists": [
-        {
-          "name": "Vizinhos",
-          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
-        }
-      ],
-      "duration_ms": 160625,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Reliquia",
-      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Sexo, Violencia y Llantas",
-      "url": "https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -201,7 +149,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "FAMOSINHA",
         "url": "https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26"
@@ -225,7 +173,59 @@
       "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "Reliquia",
+      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Sexo, Violencia y Llantas",
+      "url": "https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -257,71 +257,31 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+        "name": "Tu na Tua",
+        "url": "https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 243240,
-      "name": "Divinize",
-      "url": "https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "Magnolias",
-      "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Buba Espinho",
+          "url": "https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R"
         }
       ],
-      "duration_ms": 248093,
-      "name": "Porcelana",
-      "url": "https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs"
+      "duration_ms": 168047,
+      "name": "Tu na Tua",
+      "url": "https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 269680,
-      "name": "Mio Cristo Piange Diamanti",
-      "url": "https://open.spotify.com/track/0hVZnH3f3xmudcfCFLdw1V"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "Eu Venci o Mundo",
         "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
@@ -341,7 +301,71 @@
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Carta de Alforria",
+        "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 188593,
+      "name": "Interestelar",
+      "url": "https://open.spotify.com/track/12j1Mq9Of1xfONYvGzhayD"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "Divinize",
+      "url": "https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "Magnolias",
+      "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Porcelana",
+      "url": "https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
         "url": "https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn"
@@ -369,127 +393,7 @@
       "url": "https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "Tu na Tua",
-        "url": "https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO"
-      },
-      "artists": [
-        {
-          "name": "\u00c1TOA",
-          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
-        },
-        {
-          "name": "Lu\u00eds Trigacheiro",
-          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
-        },
-        {
-          "name": "Buba Espinho",
-          "url": "https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R"
-        }
-      ],
-      "duration_ms": 168047,
-      "name": "Tu na Tua",
-      "url": "https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "Carta de Alforria",
-        "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 188593,
-      "name": "Interestelar",
-      "url": "https://open.spotify.com/track/12j1Mq9Of1xfONYvGzhayD"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Dios Es Un Stalker",
-      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 258613,
-      "name": "La Yugular",
-      "url": "https://open.spotify.com/track/7JKpS5rKsKWeVPZ0ojBqv9"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 140373,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 104400,
-      "name": "De Madrug\u00e1",
-      "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "Pobre Ex-Namorado",
         "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
@@ -505,7 +409,187 @@
       "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Reservado",
+        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 263767,
+      "name": "\u00c1lcool & Prazer",
+      "url": "https://open.spotify.com/track/6qAwPDEkGruLmGooPRL1Gb"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 269680,
+      "name": "Mio Cristo Piange Diamanti",
+      "url": "https://open.spotify.com/track/0hVZnH3f3xmudcfCFLdw1V"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 258613,
+      "name": "La Yugular",
+      "url": "https://open.spotify.com/track/7JKpS5rKsKWeVPZ0ojBqv9"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Dios Es Un Stalker",
+      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "De Madrug\u00e1",
+      "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Voyage (Part III)",
+        "url": "https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 186922,
+      "name": "Amar Pela Metade",
+      "url": "https://open.spotify.com/track/1UQvRmRhbX3WxSLW3NbUIU"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Casar \u00c9 pra Esquecer",
+        "url": "https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Casar \u00c9 pra Esquecer",
+      "url": "https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 140373,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -529,75 +613,7 @@
       "url": "https://open.spotify.com/track/7o76sIawH9bRWsltcWfQfd"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "Reservado",
-        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 263767,
-      "name": "\u00c1lcool & Prazer",
-      "url": "https://open.spotify.com/track/6qAwPDEkGruLmGooPRL1Gb"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "Casar \u00c9 pra Esquecer",
-        "url": "https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or"
-      },
-      "artists": [
-        {
-          "name": "Vizinhos",
-          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Casar \u00c9 pra Esquecer",
-      "url": "https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -613,23 +629,171 @@
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
-        "name": "Voyage (Part III)",
-        "url": "https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 186922,
-      "name": "Amar Pela Metade",
-      "url": "https://open.spotify.com/track/1UQvRmRhbX3WxSLW3NbUIU"
+      "duration_ms": 237679,
+      "name": "Somos Iguais",
+      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z"
+      },
+      "artists": [
+        {
+          "name": "ZARKO",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
+        },
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y"
+        }
+      ],
+      "duration_ms": 154177,
+      "name": "1,2,3",
+      "url": "https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Que O Amor Te Salve Nesta Noite Escura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/574cH2qROG1ctLk83a1kuq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Abrunhosa",
+          "url": "https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR"
+        },
+        {
+          "name": "Sara Correia",
+          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Que O Amor Te Salve Nesta Noite Escura - Ao Vivo",
+      "url": "https://open.spotify.com/track/79JW4tqG3AigegX3sKRxgi"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
+        "url": "https://open.spotify.com/album/1Lh4oXo6rrA1u97IUS2IWh"
+      },
+      "artists": [
+        {
+          "name": "DJ Zig\u00e3o",
+          "url": "https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy"
+        },
+        {
+          "name": "MC Roger",
+          "url": "https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
+      "url": "https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Devia Ir",
+        "url": "https://open.spotify.com/album/1Tpc5QlSXkYW30RsLIQhoL"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 293748,
+      "name": "Devia Ir",
+      "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "\u00daltima Dan\u00e7a",
+        "url": "https://open.spotify.com/album/5SFdJagxex7pu7jQiUt1hH"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "Lucas Maia",
+          "url": "https://open.spotify.com/artist/38DMFcRvqwBt7yWsQmNZOr"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "\u00daltima Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5mKzzTh3y4KsGpDT9h8EmS"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "teletubbies (feat. Wet Bed Gang)",
+        "url": "https://open.spotify.com/album/7ykDqjbu0EIVs6RVJ7bUzK"
+      },
+      "artists": [
+        {
+          "name": "YeezYuri",
+          "url": "https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 248598,
+      "name": "teletubbies (feat. Wet Bed Gang)",
+      "url": "https://open.spotify.com/track/3Zf4sVsmsFMSMiq6EcLuCz"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -653,27 +817,39 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
-        "name": "Que O Amor Te Salve Nesta Noite Escura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/574cH2qROG1ctLk83a1kuq"
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
       "artists": [
         {
-          "name": "Pedro Abrunhosa",
-          "url": "https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR"
-        },
-        {
-          "name": "Sara Correia",
-          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Que O Amor Te Salve Nesta Noite Escura - Ao Vivo",
-      "url": "https://open.spotify.com/track/79JW4tqG3AigegX3sKRxgi"
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Deslocado",
+        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        }
+      ],
+      "duration_ms": 179996,
+      "name": "Deslocado",
+      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
@@ -693,59 +869,7 @@
       "url": "https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
-        "url": "https://open.spotify.com/album/1Lh4oXo6rrA1u97IUS2IWh"
-      },
-      "artists": [
-        {
-          "name": "DJ Zig\u00e3o",
-          "url": "https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy"
-        },
-        {
-          "name": "MC Roger",
-          "url": "https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
-      "url": "https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "Somos Iguais",
-      "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "Leva Tudo",
         "url": "https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN"
@@ -765,79 +889,7 @@
       "url": "https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "1,2,3",
-        "url": "https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z"
-      },
-      "artists": [
-        {
-          "name": "ZARKO",
-          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
-        },
-        {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y"
-        }
-      ],
-      "duration_ms": 154177,
-      "name": "1,2,3",
-      "url": "https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "\u00daltima Dan\u00e7a",
-        "url": "https://open.spotify.com/album/5SFdJagxex7pu7jQiUt1hH"
-      },
-      "artists": [
-        {
-          "name": "Chico da Tina",
-          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
-        },
-        {
-          "name": "Lucas Maia",
-          "url": "https://open.spotify.com/artist/38DMFcRvqwBt7yWsQmNZOr"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "\u00daltima Dan\u00e7a",
-      "url": "https://open.spotify.com/track/5mKzzTh3y4KsGpDT9h8EmS"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
@@ -865,7 +917,47 @@
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
     },
     {
-      "added_at": "2025-11-09 13:30:52",
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "Carta de Alforria",
+        "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 245461,
+      "name": "Pa\u00eds das Maravilhas",
+      "url": "https://open.spotify.com/track/0qGRWcPOMkkt7edm4wMVRf"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 161082,
+      "name": "Champions League (feat. Slow J & Gson)",
+      "url": "https://open.spotify.com/track/1kJml4AvYDxIMcJVt7nYlL"
+    },
+    {
+      "added_at": "2025-11-10 13:57:36",
       "album": {
         "name": "Fui Mlk",
         "url": "https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r"
@@ -895,90 +987,6 @@
       "duration_ms": 174110,
       "name": "Fui Mlk",
       "url": "https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "Carta de Alforria",
-        "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 245461,
-      "name": "Pa\u00eds das Maravilhas",
-      "url": "https://open.spotify.com/track/0qGRWcPOMkkt7edm4wMVRf"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "Deslocado",
-        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        }
-      ],
-      "duration_ms": 179996,
-      "name": "Deslocado",
-      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "teletubbies (feat. Wet Bed Gang)",
-        "url": "https://open.spotify.com/album/7ykDqjbu0EIVs6RVJ7bUzK"
-      },
-      "artists": [
-        {
-          "name": "YeezYuri",
-          "url": "https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo"
-        },
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 248598,
-      "name": "teletubbies (feat. Wet Bed Gang)",
-      "url": "https://open.spotify.com/track/3Zf4sVsmsFMSMiq6EcLuCz"
-    },
-    {
-      "added_at": "2025-11-09 13:30:52",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     }
   ],
   "unique_name": "Top 50 - Portugal",

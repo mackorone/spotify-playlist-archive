@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Melodies of the movement. Cover: D'Angelo",
+  "description": "Melodies of the movement. Cover: Outkast",
   "name": "Power To The People",
   "tracks": [
     {
@@ -1406,6 +1406,24 @@
       "duration_ms": 388200,
       "name": "Revolutionary Culture",
       "url": "https://open.spotify.com/track/1HxcfKjWfe3oZGwJy82cs8"
+    },
+    {
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/2hSdT1p785kAMR4LDIicFC"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247266,
+      "name": "Rosa Parks - Radio Version",
+      "url": "https://open.spotify.com/track/4olIhlVymheWWFZmanLc84"
     },
     {
       "album": {

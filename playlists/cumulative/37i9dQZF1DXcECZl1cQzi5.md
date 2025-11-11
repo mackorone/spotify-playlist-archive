@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-194 songs - 9 hr 17 min
+195 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 | 2023-10-23 |  |
 | [Rila](https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Rila](https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun) | 3:16 | 2023-10-23 | 2025-11-05 |
 | [Rolling Seas](https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Rolling Seas](https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0) | 3:09 | 2023-10-23 | 2025-06-01 |
+| [Sacred River](https://open.spotify.com/track/73HdFwja6Y7FSd3V9YLq6p) | [Anapanasati](https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M) | [Sacred River](https://open.spotify.com/album/2ZphFIGSmqtvEirnq059bb) | 3:05 | 2025-10-02 |  |
 | [Sand Mountain](https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Sand Mountain](https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq) | 2:18 | 2023-10-23 |  |
 | [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 | 2023-10-23 |  |
 | [Scenery](https://open.spotify.com/track/7pbqUZV3IVADNfLD4pa0tc) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Scenery](https://open.spotify.com/album/5I4EmI8sSubdnIiei3i154) | 2:45 | 2024-11-22 | 2024-12-02 |
@@ -181,7 +182,7 @@
 | [The Cove](https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [The Cove](https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr) | 2:01 | 2024-06-03 |  |
 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-03-01 |  |
 | [The North Sea](https://open.spotify.com/track/5kR1w0nEgRVJi28Y3v445V) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [The North Sea](https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09) | 1:54 | 2023-10-23 | 2024-09-05 |
-| [The Oread](https://open.spotify.com/track/6xSWr0jRvuzwy6hbwKbw0z) | [Agrafa](https://open.spotify.com/artist/1ksaI0pL8HAyzS6KZqVDWu) | [The Oread](https://open.spotify.com/album/2UcL3gsKoZWbEVgJmc3T0L) | 2:40 | 2025-10-02 |  |
+| [The Oread](https://open.spotify.com/track/6xSWr0jRvuzwy6hbwKbw0z) | [Agrafa](https://open.spotify.com/artist/1ksaI0pL8HAyzS6KZqVDWu) | [The Oread](https://open.spotify.com/album/2UcL3gsKoZWbEVgJmc3T0L) | 2:40 | 2025-10-02 | 2025-11-11 |
 | [The Shining Sea](https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 3:10 | 2023-10-26 | 2025-06-29 |
 | [The Tower of Embellion](https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [The Tower of Embellion](https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8) | 3:08 | 2023-10-23 | 2025-10-14 |
 | [Trearddur Bay](https://open.spotify.com/track/0QLK0YU0s1NEdwdguhih0p) | [Lawrence Libert](https://open.spotify.com/artist/4bdis3Cw3TaQPyW8pps6vE), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [A Place To Call Home](https://open.spotify.com/album/6CDFfPGj11bEgFeQ8CMUPg) | 3:35 | 2024-09-04 |  |

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>CAMO\)
 
-1,680 songs - 3 day 17 hr 50 min
+1,681 songs - 3 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [APPA \(Feat\. Verbal Jint\)](https://open.spotify.com/track/47DiAyYJ2t4tEWdGevWE6f) | [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [\#NAERYEOGAZA : Naysayer](https://open.spotify.com/album/4YAm9exEgUp3kGztvBqp0W) | 3:22 | 2024-11-20 | 2025-01-31 |
 | [Arcrobat2 \(feat\. Mc Sniper, Sikboy, Hash Swan, Mommy Son, TAKEWON, Koonta & 2FAITH\) \- Remix Version](https://open.spotify.com/track/7vQMB6rcpFYIDwVTa7OOs9) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74), [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [2FAITH](https://open.spotify.com/artist/2Bp4ppu4YwE9BW1KnMLCA3) | [Arcrobat2](https://open.spotify.com/album/34AjGiZFVd1BKbCuKop7gA) | 6:50 | 2023-06-22 | 2023-11-04 |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 | 2022-12-20 |
+| [Art of Boxing](https://open.spotify.com/track/7pGoNNuWvhCF6PY1BnPAJp) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a), [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep) | [I AM BOXER \(Original Television Soundtrack\)](https://open.spotify.com/album/4z5mukKomUPg05QdkWjfqw) | 4:03 | 2025-11-10 |  |
 | [Art of War](https://open.spotify.com/track/70N8CykcMmvGpcGQenrIXW) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Lake of Fire II](https://open.spotify.com/album/75JefiZbeuPESs9WoduwDW) | 2:00 | 2024-02-08 | 2024-05-03 |
 | [Asics](https://open.spotify.com/track/3k9hlFyDtb3ed5fuQcZU4Y) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j) | [Asics](https://open.spotify.com/album/1La2LjFsArbL2gScJZ2UHF) | 2:40 | 2024-11-20 | 2025-03-13 |
 | [Asphalt \(feat\. pH\-1\)](https://open.spotify.com/track/58mChQUTpqCnaGYC6CCSD0) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Asphalt \(feat\. pH\-1\)](https://open.spotify.com/album/6opRDXGetgN7pAaReSCb1N) | 2:56 | 2023-03-12 | 2023-11-16 |

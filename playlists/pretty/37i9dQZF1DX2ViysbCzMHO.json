@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175036,
+  "num_followers": 175039,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -444,7 +444,7 @@
           "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
         }
       ],
-      "duration_ms": 150186,
+      "duration_ms": 150182,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
     },
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "Friends Like That (feat. Jason Aldean - Stripped)",
         "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 180800,
       "name": "Friends Like That - feat. Jason Aldean - Stripped",
       "url": "https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -763,38 +763,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Secret (Gravel Drive Sounds)",
-        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Secret - Gravel Drive Sounds",
-      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Burn It Down (Live Acoustic)",
-        "url": "https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "Burn It Down - Live Acoustic",
-      "url": "https://open.spotify.com/track/1zOFqMnCN7DUpwJmuc7GV1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "This City Remix (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
@@ -815,6 +783,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Burn It Down (Live Acoustic)",
+        "url": "https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Burn It Down - Live Acoustic",
+      "url": "https://open.spotify.com/track/1zOFqMnCN7DUpwJmuc7GV1"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "5 Foot 9 (Acoustic)",
         "url": "https://open.spotify.com/album/5gJ69NdMNUqbxOBruy5IGy"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 194285,
       "name": "5 Foot 9 - Acoustic",
       "url": "https://open.spotify.com/track/4tObgOBsBUpICU6mT4F3Uk"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Secret (Gravel Drive Sounds)",
+        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Secret - Gravel Drive Sounds",
+      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "Bluebird (Acoustic)",
         "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 177772,
       "name": "That's Why (Acoustic Version)",
       "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
-      },
-      "artists": [
-        {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
-        }
-      ],
-      "duration_ms": 175783,
-      "name": "Drinking Alone - Sunset Session",
-      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Can't Nobody (Acoustic)",
-        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 204358,
-      "name": "Can't Nobody - Acoustic",
-      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "As You Are",
         "url": "https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 246398,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "She Had Me At Heads Carolina (Acoustic)",
+        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "She Had Me at Heads Carolina - Acoustic",
+      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "You, Me, And Whiskey (Acoustic)",
         "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 187361,
       "name": "You, Me, And Whiskey - Acoustic",
       "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "She Had Me At Heads Carolina (Acoustic)",
-        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "She Had Me at Heads Carolina - Acoustic",
-      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "I Should Probably Go To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "I Should Probably Go To Bed - Acoustic",
-      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 211662,
       "name": "All On Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "I Should Probably Go To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "I Should Probably Go To Bed - Acoustic",
+      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Put It in Drive",
-        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
-      },
-      "artists": [
-        {
-          "name": "Tommy Karlas",
-          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Lessons (Acoustic)",
-      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Can't Have Mine (Find You A Girl) [Acoustic]",
         "url": "https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 154173,
       "name": "Breakin' in Boots - Stripped",
       "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Put It in Drive",
+        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
+      },
+      "artists": [
+        {
+          "name": "Tommy Karlas",
+          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Lessons (Acoustic)",
+      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
     },
     {
       "added_at": "2025-10-10 04:00:37",

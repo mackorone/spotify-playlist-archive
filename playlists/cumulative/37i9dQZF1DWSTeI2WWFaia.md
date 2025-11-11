@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-874 songs - 1 day 22 hr 48 min
+875 songs - 1 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn) | 4:40 | 2023-06-30 | 2023-08-09 |
 | [Landgrab](https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Landgrab](https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq) | 1:28 | 2025-05-30 |  |
 | [Laps Around the Sun](https://open.spotify.com/track/4zS1GPmECl7sac60w9ntFm) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Laps Around the Sun](https://open.spotify.com/album/7C1pWGjpYTmFBcQ2fp0mWw) | 2:02 | 2021-09-03 | 2022-06-22 |
+| [Laraaji](https://open.spotify.com/track/16FAYkEsOXF3RXJWhkSrx0) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Mercy](https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi) | 2:23 | 2025-11-07 |  |
 | [Latex Gloves](https://open.spotify.com/track/74sE79ReizotiesesgUm90) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Latex Gloves](https://open.spotify.com/album/4KSSTRoBSZNdEFeVHUZpMB) | 3:18 | 2023-08-25 | 2023-09-23 |
 | [Latin Grammys](https://open.spotify.com/track/0PCjdStfS6Ezq5zekdlpLb) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Latin Grammys](https://open.spotify.com/album/7kLL9GB9GdIpG20fxxDPtA) | 2:49 | 2022-02-04 | 2022-07-21 |
 | [LAW OF AVERAGES](https://open.spotify.com/track/5H9dz6nY2JtAvtSkX8Xj5K) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [LAW OF AVERAGES](https://open.spotify.com/album/138cEdPW5rqGndgVYmYwet) | 2:19 | 2021-09-03 | 2022-07-29 |
@@ -837,7 +838,7 @@
 | [Unreal](https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Unreal](https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc) | 2:08 | 2024-10-18 | 2024-10-26 |
 | [Ups & Downs](https://open.spotify.com/track/6wbcWUz7Ro8PMNsAyJnD9e) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Ups & Downs](https://open.spotify.com/album/6NV5eCfuSxaC1pEvJ73BCJ) | 3:15 | 2022-04-15 | 2022-07-27 |
 | [UPSNDOWNS](https://open.spotify.com/track/1JbhPEYyFSGDtvGVWPnFVC) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [HOMECOURT ADVANTAGE, Vol\. 2](https://open.spotify.com/album/17QB4idq8wi0Hu0eXBKwrs) | 1:48 | 2023-08-04 | 2023-09-11 |
-| [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 | 2025-06-27 |  |
+| [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 | 2025-06-27 | 2025-11-11 |
 | [Vertigo \(feat\. Action Bronson\)](https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Flying High, Part 2](https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz) | 2:57 | 2023-11-03 | 2024-02-02 |
 | [Vertino](https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Vertino](https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R) | 5:33 | 2024-02-16 | 2024-06-22 |
 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 | 2023-10-06 | 2024-11-23 |

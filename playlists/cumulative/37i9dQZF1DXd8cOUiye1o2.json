@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 257826,
       "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k"
@@ -5969,6 +5969,32 @@
     },
     {
       "album": {
+        "name": "Baramulla (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5iK6menZn9hMLcmthV48dD"
+      },
+      "artists": [
+        {
+          "name": "Shor Police",
+          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Neend Ke Shikaare - From \"Baramulla\"",
+      "url": "https://open.spotify.com/track/1uNAu3bpVy8pnAFuCTpFcE"
+    },
+    {
+      "album": {
         "name": "O Mahiya",
         "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
       },
@@ -6684,6 +6710,10 @@
         {
           "name": "Naresh Sharma",
           "url": "https://open.spotify.com/artist/3nFgnEel499wKuPnnSlPs3"
+        },
+        {
+          "name": "Prince Dubey",
+          "url": "https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq"
         }
       ],
       "date_added": "2025-11-04",

@@ -1,6 +1,6 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 73791,
+  "num_followers": 73807,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,26 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "Oleku (feat. Brymo)",
+        "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Brymo",
+          "url": "https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u"
+        }
+      ],
+      "duration_ms": 291363,
+      "name": "Oleku (feat. Brymo)",
+      "url": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "Sensima",
         "url": "https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI"
       },
@@ -435,22 +455,6 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Least Expected",
-        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Yori Yori",
-      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
@@ -467,22 +471,18 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Oleku (feat. Brymo)",
-        "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
+        "name": "Least Expected",
+        "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
       },
       "artists": [
         {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Brymo",
-          "url": "https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u"
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
         }
       ],
-      "duration_ms": 291363,
-      "name": "Oleku (feat. Brymo)",
-      "url": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
+      "duration_ms": 218426,
+      "name": "Yori Yori",
+      "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
     },
     {
       "added_at": "2025-08-26 11:12:59",

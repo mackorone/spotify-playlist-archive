@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,056 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,095 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 | 45 | [The Lord Bless You and Keep You](https://open.spotify.com/track/1cp9IGUG4RGqwNCH05d4ei) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [The Choirboys](https://open.spotify.com/artist/3ZtRtJV4yZOmdWjywEjNND) | [The Choir Boys](https://open.spotify.com/album/1gh41SX9mUnUI9jvUD9D3Y) | 2:40 |
 | 46 | [Carol of the Drum \(The Little Drummer Boy\)](https://open.spotify.com/track/07x4MTbxPPTitSNO3njOwW) | [Katherine K\. Davis](https://open.spotify.com/artist/7pYf536wgFIHDtkS1mrKsG), [José Carreras](https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW), [Katherine Davis](https://open.spotify.com/artist/46V53G0dgL8TOX9NldaiJv), [Steven Mercurio](https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD), [Gumpoldskirchner Spatzen](https://open.spotify.com/artist/3dIOUJ3IOOCFxtgmOLIKr5), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O) | [The Three Tenors Christmas \(international version\)](https://open.spotify.com/album/7pkTj0umD5oxILNyxaDB4m) | 3:01 |
 
-Snapshot ID: `AAAAAGq1+Sc/gaSizPo6KGV0/qxC6urY`
+Snapshot ID: `AAAAAEGn/S7P41dz3w/wWwhzRWglsC1w`

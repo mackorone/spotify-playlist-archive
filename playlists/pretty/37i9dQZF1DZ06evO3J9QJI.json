@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAiSROn5/S9ndfrZex4jebH",
+  "snapshot_id": "aQ/ZgAAAAADA1r2TdhZby2FWTDpVc7rP",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
-      },
-      "artists": [
-        {
-          "name": "Grafh",
-          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 270419,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Informal Introduction: Classic Edition",
         "url": "https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 280649,
       "name": "All I Know (feat. Irv Gotti)",
       "url": "https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
+      },
+      "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 270419,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
     },
     {
       "added_at": null,

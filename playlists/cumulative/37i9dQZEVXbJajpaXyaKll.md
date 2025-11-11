@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,840 songs - 4 day 0 hr 49 min
+1,841 songs - 4 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [Creo en Ti](https://open.spotify.com/track/6hWO2I9dnIFPtM076zQAfW) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Creo en Ti](https://open.spotify.com/album/30xEbvEfbOvidCufcbfQtc) | 2:34 | 2024-12-17 | 2025-01-01 |
 | [CRUZ](https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CRUZ](https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq) | 3:03 | 2025-02-18 | 2025-02-27 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-18 | 2025-02-21 |
-| [Cuando El Agua Hirviendo](https://open.spotify.com/track/1EGahoey0DylpaNtGk3Mae) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:56 | 2025-10-14 |  |
+| [Cuando El Agua Hirviendo](https://open.spotify.com/track/1EGahoey0DylpaNtGk3Mae) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:56 | 2025-10-14 | 2025-11-11 |
 | [Cuando Es \- AfterMix](https://open.spotify.com/track/6WuTfiFquvFktgUFRORMq0) | [Le Juarez](https://open.spotify.com/artist/4Hmff7mODzAeVfX05oDnNH) | [Cuando Es \(AfterMix\)](https://open.spotify.com/album/0HxRdocWsEn7sZW4jsNAQK) | 2:30 | 2025-09-10 | 2025-10-01 |
 | [CUANDO HABLES CON ÉL](https://open.spotify.com/track/3HwOh611McmotNJOLEb66y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:05 | 2025-06-17 | 2025-06-25 |
 | [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 | 2025-10-03 |  |
@@ -1267,6 +1267,7 @@
 | [Perna Bamba](https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ) | [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Diferentão](https://open.spotify.com/album/4GEKE1p87kk2tSgMAvubVl) | 2:07 | 2024-02-14 | 2024-02-21 |
 | [Perreando Sola](https://open.spotify.com/track/4Mj7m2CEZojrkHQmzihuJ3) | [2mileros](https://open.spotify.com/artist/3OAj7vUyUxSDUO0vSzNNlI), [KEV](https://open.spotify.com/artist/1LyzBzKx2WkyZryRXUf9F2), [Nuno.w](https://open.spotify.com/artist/3w2J3VDmUanaq2U1hO1p33), [Ezelinn](https://open.spotify.com/artist/7t40e6QgPXtjz49hmwy85U), [Chris LA](https://open.spotify.com/artist/7b7CyP9FGowIqxtxPTO4B1) | [Perreando Sola](https://open.spotify.com/album/4zb8FgRRGk74SFTUJ81vCJ) | 2:29 | 2024-04-01 | 2024-04-09 |
 | [PERREO TH 7](https://open.spotify.com/track/1xVC7ab21v6dK03j0f9bgU) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [mamiyosoyelth](https://open.spotify.com/artist/0WeYfeSY8u5DBuDSu1f7s5) | [PERREO TH 7](https://open.spotify.com/album/26401Ef0GUqPRcQI07uqpG) | 2:10 | 2025-10-07 |  |
+| [Perreo VVS \- Version Caserio](https://open.spotify.com/track/0AGDMqWQUK9NQFmSIN9meb) | [El Shura](https://open.spotify.com/artist/1gZ6xwOquuRStUr4TKeQxp) | [PERREO EN EL CASERIO](https://open.spotify.com/album/38BKXoPJUpPN9AL6hc09yb) | 2:33 | 2025-11-10 |  |
 | [Perry Mason](https://open.spotify.com/track/5yckiSASyeQLPgpBZkXIbu) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ozzmosis \(Expanded Edition\)](https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9) | 5:53 | 2025-07-25 | 2025-08-01 |
 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-07-01 | 2024-07-07 |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-02-20 | 2024-05-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 2002898,
+  "num_followers": 2002671,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "Thirties",
-        "url": "https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Sorry Now",
-      "url": "https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 272214,
       "name": "Confession",
       "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
+        "name": "Thirties",
+        "url": "https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "Wait It Out",
-        "url": "https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Wait It Out",
-      "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+        "name": "Wait It Out",
+        "url": "https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
         }
       ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
+      "duration_ms": 165768,
+      "name": "Wait It Out",
+      "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -627,6 +611,22 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -659,18 +675,18 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -695,22 +711,6 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "Song For The Thankful",
-        "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
-      },
-      "artists": [
-        {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "Song For The Thankful",
-      "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 241200,
       "name": "jordan",
       "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
+        "name": "Song For The Thankful",
+        "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
+      },
+      "artists": [
+        {
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "Song For The Thankful",
+      "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
         "name": "How It Was It Will Never Be Again",
         "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 136980,
       "name": "How It Was It Will Never Be Again",
       "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
+        "name": "Same Sun EP",
+        "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 159010,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
         "name": "Room On Your Shoulder",
         "url": "https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 206146,
       "name": "Room On Your Shoulder",
       "url": "https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
-        "name": "Same Sun EP",
-        "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 159010,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
+      },
+      "artists": [
+        {
+          "name": "Traveller",
+          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
+        }
+      ],
+      "duration_ms": 192743,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
-      },
-      "artists": [
-        {
-          "name": "Traveller",
-          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
-        }
-      ],
-      "duration_ms": 192743,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
         "name": "Big Heart Manners",
         "url": "https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 221289,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
-        "name": "Ellen",
-        "url": "https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Could\u2019ve Been",
-      "url": "https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -1467,6 +1451,22 @@
       "duration_ms": 163403,
       "name": "On Wrong Side (with Bon Iver)",
       "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
+        "name": "Ellen",
+        "url": "https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Could\u2019ve Been",
+      "url": "https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "Lie to Me",
-        "url": "https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 205603,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
         "name": "I Fall in Love Too Easily",
         "url": "https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 220676,
       "name": "I Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 205603,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP"
     },
     {
       "added_at": "2025-06-02 16:26:40",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-06-02 16:26:40",
       "album": {
-        "name": "When I Say That I Love You",
-        "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
-      },
-      "artists": [
-        {
-          "name": "Gabe Goodman",
-          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
-        }
-      ],
-      "duration_ms": 177674,
-      "name": "When I Say That I Love You",
-      "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
-    },
-    {
-      "added_at": "2025-06-02 16:26:40",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 207533,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG"
+    },
+    {
+      "added_at": "2025-06-02 16:26:40",
+      "album": {
+        "name": "When I Say That I Love You",
+        "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "duration_ms": 177674,
+      "name": "When I Say That I Love You",
+      "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
     },
     {
       "added_at": "2025-06-02 16:26:40",

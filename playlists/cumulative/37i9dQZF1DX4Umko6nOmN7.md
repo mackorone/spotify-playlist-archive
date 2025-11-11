@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-174 songs - 9 hr 20 min
+175 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Second Chances](https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Under Different Skies](https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL) | 3:31 | 2025-06-12 | 2025-07-17 |
 | [Show Me Something](https://open.spotify.com/track/2iRwKG094cE0wbj3PA94Xz) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Show Me Something](https://open.spotify.com/album/09iQb3DZanbhp8afJVzwN5) | 3:35 | 2025-08-21 |  |
 | [Slott av luft](https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Slott av luft](https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n) | 2:41 | 2025-06-26 | 2025-11-01 |
-| [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 | 2024-06-27 |  |
+| [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 | 2024-06-27 | 2025-11-11 |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2024-06-27 |  |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-27 | 2024-07-20 |
 | [Stockholm](https://open.spotify.com/track/6ehSWpWjyuwbTx4yS1nUf7) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Nyanser av liv](https://open.spotify.com/album/5uyC93S9gBbzFQTcFdvnNz) | 1:58 | 2024-06-27 | 2024-10-25 |
@@ -171,6 +171,7 @@
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2024-06-27 |  |
 | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI) | 3:24 | 2024-06-27 |  |
 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 | 2024-06-27 |  |
+| [We Fall in Love Sometimes](https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:53 | 2025-11-06 |  |
 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-03-06 | 2025-06-20 |
 | [We Were in Love](https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [We Were in Love](https://open.spotify.com/album/7hzMAGNOGBoQHuv8IJKmN6) | 2:39 | 2024-06-27 | 2025-08-22 |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-02-06 | 2025-07-30 |

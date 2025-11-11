@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 234344,
+  "num_followers": 234374,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAhM8jfXw+0PT+IPQb+yKnQ",
+  "snapshot_id": "aQ/ZgAAAAABXoL7jSIdfIlv4lvxbNW9+",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cari\u00f1ito (Mexican Institute of Sound Mix)",
+        "url": "https://open.spotify.com/album/6pvQhpi3DJpo6OBf1QootJ"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Cari\u00f1ito - Mexican Institute of Sound Mix",
+      "url": "https://open.spotify.com/track/2wwGmqiQTfr92XB7Lkx5i8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -475,22 +495,6 @@
       "duration_ms": 227520,
       "name": "Borracho Drunk Steady Beer",
       "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "El Lado Oscuro",
-      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cari\u00f1ito (Mexican Institute of Sound Mix)",
-        "url": "https://open.spotify.com/album/6pvQhpi3DJpo6OBf1QootJ"
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
       "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Cari\u00f1ito - Mexican Institute of Sound Mix",
-      "url": "https://open.spotify.com/track/2wwGmqiQTfr92XB7Lkx5i8"
+      "duration_ms": 179160,
+      "name": "El Lado Oscuro",
+      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
     },
     {
       "added_at": null,
@@ -551,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 322533,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA"
+      "duration_ms": 219106,
+      "name": "Estrella Roja - En Vivo",
+      "url": "https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby"
     },
     {
       "added_at": null,
@@ -587,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 219106,
-      "name": "Estrella Roja - En Vivo",
-      "url": "https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby"
+      "duration_ms": 322533,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA"
     },
     {
       "added_at": null,
@@ -615,6 +615,38 @@
       "duration_ms": 293247,
       "name": "Infiernos",
       "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "Hostilidades - En Vivo",
+      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Paria",
+      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
     },
     {
       "added_at": null,
@@ -639,38 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Paria",
-      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "Hostilidades - En Vivo",
-      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Una Vez",
         "url": "https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0"
       },
@@ -683,38 +683,6 @@
       "duration_ms": 228360,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rigo Es Amor",
-        "url": "https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "Desastre",
-      "url": "https://open.spotify.com/track/35a2xvnA1A0F9T84uM0Z9p"
     },
     {
       "added_at": null,
@@ -735,6 +703,38 @@
       "duration_ms": 222746,
       "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
       "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "Desastre",
+      "url": "https://open.spotify.com/track/35a2xvnA1A0F9T84uM0Z9p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rigo Es Amor",
+        "url": "https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L"
     },
     {
       "added_at": null,

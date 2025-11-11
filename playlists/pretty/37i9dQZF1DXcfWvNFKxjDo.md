@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: CERES, Vansessy
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,618 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,636 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 2 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 |
 | 3 | [Spellbound](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Spellbound](https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX) | 2:17 |
 | 4 | [Stay A Little Longer](https://open.spotify.com/track/07rPGAMTFCeRrpJjQXyrQ7) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Stay A Little Longer](https://open.spotify.com/album/79u6HQ838dC9MxAUkXHvS6) | 2:27 |
-| 5 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
+| 5 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 6 | [Hold On \(feat\. EVIE\)](https://open.spotify.com/track/2RvQ3rzIbzN3OOwefRothl) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [EVIE](https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo) | [Hold On \(feat\. EVIE\)](https://open.spotify.com/album/4cf08XQ3LKfQcjBq6YSUj4) | 3:22 |
 | 7 | [Louder For The People](https://open.spotify.com/track/17WMOvV72qNwwEIHxE1Kio) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Bassment Sessions Vol\. 1](https://open.spotify.com/album/5KtqixaETmnEiyG1Pyzp42) | 2:44 |
 | 8 | [Hypnotized](https://open.spotify.com/track/0rDQ8iz6ORhJ5cjFpW15EM) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [Hypnotized](https://open.spotify.com/album/7GvMFHeq5WMZrnebC7W3EQ) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89hRlpkshEt.md) - [plain]
 
 > Entdecke deinen neuen Lieblings\-Podcast! Diese Folgen von Creator\*innen gehören definitiv auf dein RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 10 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 10 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

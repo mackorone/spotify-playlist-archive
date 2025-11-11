@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Parasakthi",
-  "num_followers": 727316,
+  "num_followers": 727459,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK8nbp1DxuCM34RIGHHgyffNOSsU",
+  "snapshot_id": "AAAAAJs6JDP9C2FLB3Kt0yJY7sLNsor0",
   "tracks": [
     {
       "added_at": "2025-11-06 12:18:33",
@@ -671,6 +671,30 @@
       "duration_ms": 201921,
       "name": "AFRO TAPANG (From \"45\") [Tamil Version]",
       "url": "https://open.spotify.com/track/1A9HwDN3bLHOAqBoOhHtou"
+    },
+    {
+      "added_at": "2025-11-10 09:48:23",
+      "album": {
+        "name": "Idhu Enna Maayam (From \"Chimera\") - Tamil",
+        "url": "https://open.spotify.com/album/5gPZd3oEPRS2PE50RFp1fx"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Vignesh Raja",
+          "url": "https://open.spotify.com/artist/4PdoILzfYKtrIvlgXGzanS"
+        },
+        {
+          "name": "Kavi Karrkko",
+          "url": "https://open.spotify.com/artist/6P22abX3CxiN6hQaIbhRw3"
+        }
+      ],
+      "duration_ms": 177941,
+      "name": "Idhu Enna Maayam (From \"Chimera\")",
+      "url": "https://open.spotify.com/track/1VdgRKZm65fRgKOTH1AfFa"
     },
     {
       "added_at": "2025-11-04 09:54:34",
@@ -1709,26 +1733,6 @@
       "url": "https://open.spotify.com/track/60rFducKmBbMPC8R6D3DE3"
     },
     {
-      "added_at": "2025-09-15 11:02:40",
-      "album": {
-        "name": "Blackmail",
-        "url": "https://open.spotify.com/album/4WXaSJH9IEeupV4mtFWbmf"
-      },
-      "artists": [
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Chillana Sirukki",
-      "url": "https://open.spotify.com/track/2RS9byTYJnNjXTuxvxGNLn"
-    },
-    {
       "added_at": "2025-09-18 12:54:22",
       "album": {
         "name": "Thandakaaranyam (Original Motion Picture Soundtrack)",
@@ -1827,34 +1831,6 @@
       "duration_ms": 215036,
       "name": "Tharana - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/6cyet3dduffZ3CxIFgjHKY"
-    },
-    {
-      "added_at": "2025-08-13 05:41:34",
-      "album": {
-        "name": "Firestorm [From \"They Call Him OG (Tamil)\"]",
-        "url": "https://open.spotify.com/album/2mhMfPqzAXtt9VIqGDj9N8"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Silambarasan TR",
-          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
-        },
-        {
-          "name": "Raja Kumari",
-          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        }
-      ],
-      "duration_ms": 240309,
-      "name": "Firestorm (From \"They Call Him OG (Tamil)\")",
-      "url": "https://open.spotify.com/track/2tUKbpKAzK35sZqJ2CljUv"
     }
   ],
   "unique_name": "Latest Tamil",

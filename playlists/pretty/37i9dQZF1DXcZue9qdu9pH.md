@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,778 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,782 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 47 | [Playing With Fire](https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Playing With Fire](https://open.spotify.com/album/1tNjqUWWiP4BCd6JotQMEo) | 3:51 |
 | 48 | [find a way \(dusk\)](https://open.spotify.com/track/3uziTtMALrYxzKUUs09ezj) | [SHLM](https://open.spotify.com/artist/7zG9V7FPRowfauISu9Dy2U), [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB) | [Find A Way](https://open.spotify.com/album/15qqTdTiUNccxMQNoXDlvs) | 3:56 |
 | 49 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 |
-| 50 | [what about us](https://open.spotify.com/track/2fNDML0aFVVowxSRcEv7FV) | [Donado Stone](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 2:37 |
+| 50 | [what about us](https://open.spotify.com/track/2fNDML0aFVVowxSRcEv7FV) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 2:37 |
 
 Snapshot ID: `AAAAALVl3AxSBPDJlglPUGBl75YLHVVv`

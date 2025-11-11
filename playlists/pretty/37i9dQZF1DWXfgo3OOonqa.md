@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,023 likes - 151 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,006 likes - 151 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CASANOVA](https://open.spotify.com/track/00N0RDX7n9W2LcgYQuECL3) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [CASANOVA](https://open.spotify.com/album/0K3uzlRETlEk0B3Q8Bql7p) | 2:08 |
-| 2 | [Kraft](https://open.spotify.com/track/0vj31m7sRV5bw7qpKqnCAd) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Kraft](https://open.spotify.com/album/7xlM8p9pPRFMgtS6npr3G2) | 3:00 |
-| 3 | [Älvsjö Macken](https://open.spotify.com/track/2XqUjJ0wYTDENHanyngt5T) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Älvsjö Macken](https://open.spotify.com/album/6tO48qyabUnpR3FFJEz3sR) | 2:05 |
+| 2 | [Älvsjö Macken](https://open.spotify.com/track/2XqUjJ0wYTDENHanyngt5T) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Älvsjö Macken](https://open.spotify.com/album/6tO48qyabUnpR3FFJEz3sR) | 2:05 |
+| 3 | [Hur ska jag må](https://open.spotify.com/track/2F55MZek0xwxjGXxoHp9DR) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Hur ska jag må](https://open.spotify.com/album/6COuEsBGNEGML0kG3WLJfX) | 2:27 |
 | 4 | [Pick & Pack](https://open.spotify.com/track/5ZZvA49i9O0Eta3bD8vWCu) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Pick & Pack](https://open.spotify.com/album/24ToNpIDjjMPT5YEVo86IL) | 2:29 |
-| 5 | [Hur ska jag må](https://open.spotify.com/track/2F55MZek0xwxjGXxoHp9DR) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Hur ska jag må](https://open.spotify.com/album/6COuEsBGNEGML0kG3WLJfX) | 2:27 |
+| 5 | [Kraft](https://open.spotify.com/track/0vj31m7sRV5bw7qpKqnCAd) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Kraft](https://open.spotify.com/album/7xlM8p9pPRFMgtS6npr3G2) | 3:00 |
 | 6 | [FÖR EVIGT](https://open.spotify.com/track/7gdDgeh1Zq36pRmKqj3P8r) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [FÖR EVIGT](https://open.spotify.com/album/4RVYj3LuBvgJ6JS4mAhZMT) | 2:03 |
 | 7 | [Ett Glas](https://open.spotify.com/track/7gwuSvvrzy6icRYDg8tWwh) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ett Glas](https://open.spotify.com/album/4gsuOvu33iLBs2VzMRkIJo) | 1:50 |
 | 8 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 12 | [Offline](https://open.spotify.com/track/6LQSHYiDKmkehXiDELsyE1) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Offline](https://open.spotify.com/album/6lnTWUT8fc608HdV66fpBl) | 2:02 |
 | 13 | [TÄNK](https://open.spotify.com/track/22WDvHFpaNLAND708pdRUI) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [TÄNK](https://open.spotify.com/album/3yofOf4yccca2QnqYNQcjY) | 2:00 |
 | 14 | [INGEN VARNING](https://open.spotify.com/track/2QA2D3koTkPELwqgUqaFww) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [SKITZOFRENIA](https://open.spotify.com/album/2oE0Zzk4NFiuQZT8Vsqybo) | 2:45 |
-| 15 | [HOLLOW TIP](https://open.spotify.com/track/4x3rU75CtZ45mZMYyxYb2Y) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [EP 1](https://open.spotify.com/album/20JDe00PfANWrnIiQkVGkD) | 2:09 |
-| 16 | [25](https://open.spotify.com/track/1QdUmwck1w9lK503YJErFy) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:32 |
-| 17 | [Milano](https://open.spotify.com/track/67kvIYRLOC3kmzErX2fG4l) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Milano](https://open.spotify.com/album/76eLdS9euVE0CZJlVNKeSh) | 2:48 |
-| 18 | [SAMMA SAK](https://open.spotify.com/track/1rZ8yLijuXqreaDNwlvfpI) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Femme Fatale Selection](https://open.spotify.com/artist/4AScgQYszH5PHyB5rGTZh9) | [SAMMA SAK](https://open.spotify.com/album/4hKLWOQCfUnMrQxhl67qNd) | 2:14 |
+| 15 | [SAMMA SAK](https://open.spotify.com/track/1rZ8yLijuXqreaDNwlvfpI) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Femme Fatale Selection](https://open.spotify.com/artist/4AScgQYszH5PHyB5rGTZh9) | [SAMMA SAK](https://open.spotify.com/album/4hKLWOQCfUnMrQxhl67qNd) | 2:14 |
+| 16 | [HOLLOW TIP](https://open.spotify.com/track/4x3rU75CtZ45mZMYyxYb2Y) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [EP 1](https://open.spotify.com/album/20JDe00PfANWrnIiQkVGkD) | 2:09 |
+| 17 | [25](https://open.spotify.com/track/1QdUmwck1w9lK503YJErFy) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:32 |
+| 18 | [Milano](https://open.spotify.com/track/67kvIYRLOC3kmzErX2fG4l) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Milano](https://open.spotify.com/album/76eLdS9euVE0CZJlVNKeSh) | 2:48 |
 | 19 | [AMBITIÖS](https://open.spotify.com/track/4ae6l0JTvIFz3Oxm4Y4hhO) | [Treeze](https://open.spotify.com/artist/7hZDZfokZxVjYsydfPvC3K) | [AMBITIÖS](https://open.spotify.com/album/3mKT9c12Oim4SEGuFo1cS2) | 2:38 |
 | 20 | [Content](https://open.spotify.com/track/1vXsEIE4S8wsRGm2V8YO1L) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Content](https://open.spotify.com/album/37Kh4LJdPQl3gwqk3V5klw) | 2:20 |
 | 21 | [BUTTERFLY](https://open.spotify.com/track/0MfcTOcQOTa1tUI3smyIEj) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [BUTTERFLY](https://open.spotify.com/album/0ofC36PU3f4axX9kIsm7Tj) | 2:12 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 150 | [Saknar dig](https://open.spotify.com/track/01K09DenrI93KSReYQ3Ker) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Saknar dig](https://open.spotify.com/album/5so730AUFfHSIhzRZikFXj) | 2:08 |
 | 151 | [12TRE](https://open.spotify.com/track/4fWLZG09La6mqWwuScH598) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [4njuice](https://open.spotify.com/artist/6NJC1YOi1btzoj3IhCD6NP) | [12TRE](https://open.spotify.com/album/3jA6Md3gWoa6Fo54YCFIPW) | 1:58 |
 
-Snapshot ID: `AAAAAEygNC4KjeHOP52VOq2DJAJlAm1/`
+Snapshot ID: `AAAAACiIaTj5SMBYjyScpG7xKqKti1hg`

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-533 songs - 1 day 7 hr 12 min
+535 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Better Days](https://open.spotify.com/track/5tarIM9VB3BpdIkNrZ3rt1) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Better Days](https://open.spotify.com/album/69pEA76PQuoWNb3GQyixD9) | 4:19 | 2022-04-22 | 2025-06-04 |
 | [Beyond](https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Beyond](https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5) | 4:17 | 2023-05-19 | 2025-06-04 |
 | [Big Legged Woman](https://open.spotify.com/track/6Z56jgvXSif8xOjqsSdlaR) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black to Blues, Vol\. 2](https://open.spotify.com/album/20b2c8edlkYwXezzTl96Vn) | 4:39 | 2020-10-10\* | 2021-02-25 |
+| [BIG MACHINE](https://open.spotify.com/track/1nMIgMOFK9c5xNFm4OuRLM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIG MACHINE](https://open.spotify.com/album/1ObhvbWzD8dAHfm9Go4DZw) | 3:17 | 2025-11-11 |  |
 | [Big Youth \(feat\. El\-P\)](https://open.spotify.com/track/7FssY58XwtD4CRhOT9N8Md) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [Goodnight, God Bless, I Love U, Delete.](https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn) | 3:03 | 2023-10-12 | 2025-06-04 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 | 2025-06-03 |  |
 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 | 2025-06-03 |  |
@@ -263,6 +264,7 @@
 | [Like Lightning](https://open.spotify.com/track/7bDztTav6TQByZmDJmUT5Y) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Part 2 Everything Not Saved Will Be Lost](https://open.spotify.com/album/2gA6WSERaJVOWwuB0hegvp) | 3:34 | 2020-10-10\* | 2021-02-25 |
 | [Like This Or Like That](https://open.spotify.com/track/0HYOLtDo659YqZLDVXGp2f) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Like This Or Like That](https://open.spotify.com/album/6DlzkqJQEBnmIfnvrepi4Y) | 3:57 | 2022-04-08 | 2025-06-04 |
 | [Lil House](https://open.spotify.com/track/3zmEBp16H3HmL3NVWEDlAZ) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 3:29 | 2020-10-10\* | 2022-03-18 |
+| [Limbo](https://open.spotify.com/track/7HH6i9ogvRx1dV8rdkQ40q) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo](https://open.spotify.com/album/1SbLznptLEYrOcvzEPJOTT) | 4:35 | 2025-11-11 |  |
 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 | 2021-03-26 | 2022-03-18 |
 | [Little Demons](https://open.spotify.com/track/68GgyKHv3CTtdYgKxKTkdu) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Little Demons](https://open.spotify.com/album/5lsG2cfL2jOjRVpEVosSvB) | 4:01 | 2021-07-31 | 2025-05-28 |
 | [Living Less](https://open.spotify.com/track/3pJ49gTiEDhoOCOHsJuICg) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Living Less](https://open.spotify.com/album/3rVXlK56UyRhBP042AdMrw) | 2:43 | 2024-09-20 | 2025-06-04 |

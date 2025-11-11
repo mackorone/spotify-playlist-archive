@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,088 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,106 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Simple Life](https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE) | 1:33 |
+| 1 | [Either Way](https://open.spotify.com/track/4pyg7pmXXbG10fv10rBGE9) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Either Way](https://open.spotify.com/album/3BI21PVblsUMdyNPvfjxiv) | 3:47 |
 | 2 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 |
 | 3 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
 | 4 | [Please Don't Make Me Choose](https://open.spotify.com/track/1kSqmbVfI2mmHNmX5K0W7R) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Please Don't Make Me Choose](https://open.spotify.com/album/0u3g9YGZBCgEbQg3HJfDSA) | 3:48 |
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 | 6 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
 | 7 | [Butter](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [The Weight](https://open.spotify.com/album/3A7TG46Q74ib0eWPPh3rpj) | 3:13 |
 | 8 | [How We Lose](https://open.spotify.com/track/3MbuIuzbqNMbnp4itDM1Nt) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Low Tides](https://open.spotify.com/album/1R5xikPLRUDxHlBX8bl1k9) | 3:47 |
-| 9 | [Miracle](https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Miracle](https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe) | 3:49 |
+| 9 | [Simple Life](https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE) | 1:33 |
 | 10 | [A Way With My Heart](https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc), [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [A Way With My Heart](https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk) | 3:15 |
-| 11 | [Either Way](https://open.spotify.com/track/4pyg7pmXXbG10fv10rBGE9) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Either Way](https://open.spotify.com/album/3BI21PVblsUMdyNPvfjxiv) | 3:47 |
-| 12 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
-| 13 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 |
-| 14 | [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 |
-| 15 | [The Weatherman](https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Weatherman](https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm) | 3:30 |
-| 16 | [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Chance Encounter](https://open.spotify.com/album/3ySvgHcZ8wqWDy6QbYskim) | 3:27 |
-| 17 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 |
-| 18 | [Remedy](https://open.spotify.com/track/5f8l9ldrzFoxYwkgq3G6S9) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/6FmGwYkTYZmcmSi7YMvkvs) | 2:44 |
-| 19 | [Weightless](https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Bloom](https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH) | 4:06 |
-| 20 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
-| 21 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
-| 22 | [Better Than Ever](https://open.spotify.com/track/2dm8fMEai4Q3CeTy46Wc8c) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Better Than Ever](https://open.spotify.com/album/3BiU05A1UuTOkcbIxltOPZ) | 3:06 |
+| 11 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
+| 12 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 |
+| 13 | [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 |
+| 14 | [The Weatherman](https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Weatherman](https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm) | 3:30 |
+| 15 | [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Chance Encounter](https://open.spotify.com/album/3ySvgHcZ8wqWDy6QbYskim) | 3:27 |
+| 16 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 |
+| 17 | [Remedy](https://open.spotify.com/track/5f8l9ldrzFoxYwkgq3G6S9) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/6FmGwYkTYZmcmSi7YMvkvs) | 2:44 |
+| 18 | [Weightless](https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Bloom](https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH) | 4:06 |
+| 19 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
+| 20 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
+| 21 | [Better Than Ever](https://open.spotify.com/track/2dm8fMEai4Q3CeTy46Wc8c) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Better Than Ever](https://open.spotify.com/album/3BiU05A1UuTOkcbIxltOPZ) | 3:06 |
+| 22 | [Miracle](https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Miracle](https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe) | 3:49 |
 | 23 | [Mountain Top](https://open.spotify.com/track/26vyvsOehrRVdXCWmEdLLi) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Mountain Top](https://open.spotify.com/album/4UANTMEu5UccPUnJbbkkD5) | 4:03 |
 | 24 | [End Of Me](https://open.spotify.com/track/2n6LotLcjjyG9NjNiypuxA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [End Of Me](https://open.spotify.com/album/48HxShceUcdOOEWzX1uQBy) | 3:52 |
 | 25 | [DØN'T WANNA FALL](https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [DØN'T WANNA FALL](https://open.spotify.com/album/1osD1Kt3ka13mjTN7auXBg) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 | 99 | [Changes](https://open.spotify.com/track/70Im6ch9dNGzxoGG6vpxcd) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Changes](https://open.spotify.com/album/4aldFjPokcR0SvHQ5KCP8c) | 5:19 |
 | 100 | [Nearness of You](https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Nearness of You](https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X) | 4:14 |
 
-Snapshot ID: `AAAAAF7J1vf7XzIGEu2XPT293ntb/PhZ`
+Snapshot ID: `AAAAANfjaB0M6c4qm5/TBhzX7zzBWPhx`

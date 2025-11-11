@@ -2,7 +2,7 @@
 
 ### [K\-OST Music Video](https://open.spotify.com/playlist/37i9dQZF1DWXarsGtGJHPf)
 
-> Enjoy the iconic K\-OSTs with the music videos \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
+> Enjoy the iconic K\-OSTs with the music videos! \(Cover: 이강에는 달이 흐른다 \(Moon River\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
 24 songs - 1 hr 27 min
 

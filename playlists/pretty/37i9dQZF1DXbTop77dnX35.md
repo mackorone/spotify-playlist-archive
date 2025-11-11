@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Showdemcamp, Lil Baby, Victony, Ko\-Jo Cue, Rosalia and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,246 likes - 69 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,284 likes - 69 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uYXu9L0vzo1lcJk7SjgCT">Brittany "Chi" Coney</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,401 likes - 112 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 112 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 26 | [Rose In Harlem](https://open.spotify.com/track/38HcgcQC4suvti0Sa0e5yc) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 3:42 |
 | 27 | [NICE](https://open.spotify.com/track/44lusH2vzc4sRAwsooRhPh) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 3:53 |
 | 28 | [No Candle No Light \(feat\. Nicki Minaj\)](https://open.spotify.com/track/5tH8UbEHc3seBxOlnzvoAs) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Icarus Falls](https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh) | 3:15 |
-| 29 | [FRIENDS](https://open.spotify.com/track/0gu5B9dUOiLezdDjrLPCCV) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:44 |
-| 30 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
+| 29 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
+| 30 | [FRIENDS](https://open.spotify.com/track/0gu5B9dUOiLezdDjrLPCCV) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:44 |
 | 31 | [Mood Swings \(feat\. Lil Tjay & Summer Walker\) \- Remix](https://open.spotify.com/track/5JYsU2yRoQ6utiLW7Owvjc) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Mood Swings \(Remix\)](https://open.spotify.com/album/0Puv2Bu8uDHyVTOYBWNUE3) | 4:15 |
 | 32 | [LOVEHAPPY](https://open.spotify.com/track/7szhY56rkD20Ai9AxJaicE) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 3:49 |
 | 33 | [NILE](https://open.spotify.com/track/0lboDHM9hSR5j5CFlWDR9k) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 1:47 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 111 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 | 112 | [Luv Hug](https://open.spotify.com/track/7AfipMJ54S6m004iJ3DvM9) | [Shunda K](https://open.spotify.com/artist/25EMx35978LX76CR9xPBhH), [Brittany Coney](https://open.spotify.com/artist/0jxdssOxFO2Z612ZOMbN1T) | [The Most Wanted](https://open.spotify.com/album/1T5GaDlXrcvs3UP1KBkQ0Q) | 3:44 |
 
-Snapshot ID: `AcBKJgAAAAAv6757k9yj5mpA5tOPO2HO`
+Snapshot ID: `AcBPxgAAAACFVhwyVjhu0jgk5c9odGsl`

@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Schlotte, laurin
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,359 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,324 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [lange nicht geweint](https://open.spotify.com/track/5BFQ5cZ6k4MEAwrkr8EMpt) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [lange nicht geweint](https://open.spotify.com/album/086OT2CDkuGfYfuXOlO0t6) | 3:17 |
-| 2 | [der Himmel brennt in Europa](https://open.spotify.com/track/2RM2M3AkjvIe0izpUtr9Nu) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [der Himmel brennt in Europa](https://open.spotify.com/album/2dgUHjDyAfMJwCguOmg74X) | 3:25 |
-| 3 | [Wann trennt ihr euch](https://open.spotify.com/track/4SIWTBspOcTt71kRYA87td) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wann trennt ihr euch](https://open.spotify.com/album/3DgfEGL7UW6cJZEwYZV2Qc) | 3:06 |
-| 4 | [Marlboro Mann](https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Marlboro Mann](https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB) | 2:56 |
-| 5 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 |
-| 6 | [Cigarettes After Sex](https://open.spotify.com/track/77emqNpzZjN7R2rDHT04Qf) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Cigarettes After Sex](https://open.spotify.com/album/6xNC69d9Vo45sCiUjHg6yH) | 3:14 |
-| 7 | [Ich fühl...](https://open.spotify.com/track/2FCLmJXQMQF3lEix03sfuz) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Ich fühl...](https://open.spotify.com/album/7MNNmS70SCJNDZUBAyPl2z) | 3:10 |
-| 8 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
-| 9 | [anthony](https://open.spotify.com/track/74U5rV0btSqg1JlzmbNOvP) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [anthony](https://open.spotify.com/album/6Lk11INxCG0HqbesLdyy1G) | 2:51 |
-| 10 | [Die Hälfte von Nichts](https://open.spotify.com/track/47u568kIrGNx00Wmp2YBS0) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [DAS GLÜCK GEHÖRT VERSAGERN](https://open.spotify.com/album/5Qvx0ZaOYT4WTpvPW4SrV2) | 3:17 |
-| 11 | [Athena.](https://open.spotify.com/track/3KmZ2jOha2rVbY4UbVNYdr) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Athena.](https://open.spotify.com/album/2nr4cjZQ6hIxaAL8nnT249) | 4:32 |
-| 12 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
-| 13 | [oktober](https://open.spotify.com/track/28PQchsQ78scEeJoFCEZRv) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [zwei songs aus unserem album kids](https://open.spotify.com/album/01VlZbiMzETZdwYhwcGp9k) | 2:26 |
-| 14 | [Erinner Dich](https://open.spotify.com/track/4ot4QnRbaPJ3CeWypaTHc0) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Erinner Dich](https://open.spotify.com/album/6tPbhlbGK1fZcUajsIVQTg) | 2:12 |
+| 1 | [Marlboro Mann](https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Marlboro Mann](https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB) | 2:56 |
+| 2 | [Wann trennt ihr euch](https://open.spotify.com/track/4SIWTBspOcTt71kRYA87td) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wann trennt ihr euch](https://open.spotify.com/album/3DgfEGL7UW6cJZEwYZV2Qc) | 3:06 |
+| 3 | [lange nicht geweint](https://open.spotify.com/track/5BFQ5cZ6k4MEAwrkr8EMpt) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [lange nicht geweint](https://open.spotify.com/album/086OT2CDkuGfYfuXOlO0t6) | 3:17 |
+| 4 | [der Himmel brennt in Europa](https://open.spotify.com/track/2RM2M3AkjvIe0izpUtr9Nu) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [der Himmel brennt in Europa](https://open.spotify.com/album/2dgUHjDyAfMJwCguOmg74X) | 3:25 |
+| 5 | [Cigarettes After Sex](https://open.spotify.com/track/77emqNpzZjN7R2rDHT04Qf) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Cigarettes After Sex](https://open.spotify.com/album/6xNC69d9Vo45sCiUjHg6yH) | 3:14 |
+| 6 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 |
+| 7 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
+| 8 | [Die Hälfte von Nichts](https://open.spotify.com/track/47u568kIrGNx00Wmp2YBS0) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [DAS GLÜCK GEHÖRT VERSAGERN](https://open.spotify.com/album/5Qvx0ZaOYT4WTpvPW4SrV2) | 3:17 |
+| 9 | [Ich fühl...](https://open.spotify.com/track/2FCLmJXQMQF3lEix03sfuz) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Ich fühl...](https://open.spotify.com/album/7MNNmS70SCJNDZUBAyPl2z) | 3:10 |
+| 10 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
+| 11 | [Erinner Dich](https://open.spotify.com/track/4ot4QnRbaPJ3CeWypaTHc0) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Erinner Dich](https://open.spotify.com/album/6tPbhlbGK1fZcUajsIVQTg) | 2:12 |
+| 12 | [anthony](https://open.spotify.com/track/74U5rV0btSqg1JlzmbNOvP) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [anthony](https://open.spotify.com/album/6Lk11INxCG0HqbesLdyy1G) | 2:51 |
+| 13 | [Athena.](https://open.spotify.com/track/3KmZ2jOha2rVbY4UbVNYdr) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Athena.](https://open.spotify.com/album/2nr4cjZQ6hIxaAL8nnT249) | 4:32 |
+| 14 | [oktober](https://open.spotify.com/track/28PQchsQ78scEeJoFCEZRv) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [zwei songs aus unserem album kids](https://open.spotify.com/album/01VlZbiMzETZdwYhwcGp9k) | 2:26 |
 | 15 | [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 |
 | 16 | [Leeres Zimmer](https://open.spotify.com/track/4D7x8tMTokiJ1uKI08xfC3) | [Jaq](https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV) | [Leeres Zimmer](https://open.spotify.com/album/1QHatVk9awZv8HhrR3uyCP) | 3:32 |
 | 17 | [Hellwach](https://open.spotify.com/track/1CIoxcTZUAIyMY1auIyL6A) | [Hænsen](https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66) | [Hellwach](https://open.spotify.com/album/30T6qOz7vydXafpeSbXXBb) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Benz](https://open.spotify.com/track/2myW2Gi0RmNBQ1nEUmgzDL) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Benz](https://open.spotify.com/album/0NTquXrtnzUP8poB33iDsh) | 2:36 |
 | 75 | [was ich mein](https://open.spotify.com/track/6rxlL4CHHekAwsJjse4etO) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [was ich mein](https://open.spotify.com/album/2ia1OgNwgN3iOOEOiC7SaU) | 2:17 |
 
-Snapshot ID: `AAAAALs1g2Bu6aCGKIH8ulUuDkBiyoYk`
+Snapshot ID: `AAAAAGCrAzNGw9hJ0ITFRJxYnf9LkRLE`

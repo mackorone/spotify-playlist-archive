@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 63964,
+  "num_followers": 63996,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Charlie, Last Name Wilson",
+        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Charlie, Last Name Wilson",
+      "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "SoulFly (Deluxe Version)",
         "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 212063,
       "name": "Already Won (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Charlie, Last Name Wilson",
-        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
-      },
-      "artists": [
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Charlie, Last Name Wilson",
-      "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
     },
     {
       "added_at": "2022-10-01 16:00:00",

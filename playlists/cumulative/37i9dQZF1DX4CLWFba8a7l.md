@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Thelma Plum, The 046, Hatchie, Paul Kelly, Dom Dolla, Ninajirachi
 
-493 songs - 1 day 3 hr 25 min
+494 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [\[REDACTED\]](https://open.spotify.com/track/6BNaYgSwdHidtDzOuVH5qS) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\[REDACTED\]](https://open.spotify.com/album/1G9pxhwLN4hLvoTh470a2E) | 2:24 | 2025-06-19 | 2025-06-27 |
 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-04 |  |
 | [A Country Heart Can](https://open.spotify.com/track/7HYok2NXE23LtYygubuvIO) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [A Country Heart Can](https://open.spotify.com/album/18ly6QslPPTJFkE5XBwjmS) | 3:43 | 2025-05-29 | 2025-06-06 |
+| [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 | 2025-11-06 |  |
 | [A Telephone Rings](https://open.spotify.com/track/4YOHjkwl6Jn6sZSx7eeIn4) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [The Accident](https://open.spotify.com/album/0c0q3cA2sEB4EsNa2m55rw) | 2:46 | 2024-11-28 | 2025-01-26 |
 | [A.A.](https://open.spotify.com/track/0tnvYx9kZElB3wWkpSmDTp) | [Teenager](https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [A.A.](https://open.spotify.com/album/14aC9p7pJbgaJFTfsyiwIf) | 3:31 | 2025-05-29 | 2025-06-06 |
 | [Adore Me](https://open.spotify.com/track/3i3BPNx2LZtNK7thr7nYPk) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Adore Me](https://open.spotify.com/album/7MU0A0HftyZLKZlExr8iAX) | 2:50 | 2025-07-10 | 2025-07-18 |
@@ -42,7 +43,7 @@
 | [Atmosphere](https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU) | 3:02 | 2024-05-31 | 2025-04-04 |
 | [Australia](https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:49 | 2024-05-31 | 2024-10-18 |
 | [BACK IN THE DAY](https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BACK IN THE DAY](https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP) | 2:48 | 2025-05-22 | 2025-07-07 |
-| [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-09 |  |
+| [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-09 | 2025-11-11 |
 | [Bad Dreams](https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL) | 3:28 | 2025-04-17 | 2025-05-02 |
 | [BALCONY](https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BALCONY](https://open.spotify.com/album/0OwTqwcUlQbjVMKe7FvLof) | 3:25 | 2025-04-24 | 2025-05-09 |
 | [Bangalang](https://open.spotify.com/track/27lrXtK8mDFsmQrcatZ71E) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Bangalang](https://open.spotify.com/album/30C5X5Vvltbe6Wt1DAawEi) | 2:45 | 2025-06-05 | 2025-09-05 |

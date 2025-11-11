@@ -8150,7 +8150,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 100920,
       "name": "first date",
       "url": "https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL"
@@ -17328,6 +17328,24 @@
       "duration_ms": 183694,
       "name": "Off By Heart",
       "url": "https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY"
+    },
+    {
+      "album": {
+        "name": "Off My Head",
+        "url": "https://open.spotify.com/album/0hYxX3wg3Lyf34Lw4jnAJh"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Off My Head",
+      "url": "https://open.spotify.com/track/5428HTy2dqDLwQ7iDth6Lc"
     },
     {
       "album": {

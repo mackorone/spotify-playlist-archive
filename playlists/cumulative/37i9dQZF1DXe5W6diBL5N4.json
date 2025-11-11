@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: Kang Seung Yoon(\uac15\uc2b9\uc724)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: PLAVE (\ud50c\ub808\uc774\ube0c)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -15657,6 +15657,32 @@
     },
     {
       "album": {
+        "name": "I AM BOXER (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4z5mukKomUPg05QdkWjfqw"
+      },
+      "artists": [
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        },
+        {
+          "name": "yankie",
+          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+        },
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Art of Boxing",
+      "url": "https://open.spotify.com/track/7pGoNNuWvhCF6PY1BnPAJp"
+    },
+    {
+      "album": {
         "name": "Artistic Love",
         "url": "https://open.spotify.com/album/3gD0GPgMaFPcooIkgij9MP"
       },
@@ -16784,7 +16810,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 169000,
       "name": "At Winter's Door (feat. Dongbin Hyun)",
       "url": "https://open.spotify.com/track/7JldGtTDUcVPFmVU7DWUuo"
@@ -20666,6 +20692,24 @@
       "duration_ms": 149022,
       "name": "Bbuck",
       "url": "https://open.spotify.com/track/48PnKlIU8aqzc8F3WfoBpU"
+    },
+    {
+      "album": {
+        "name": "PLBBUU",
+        "url": "https://open.spotify.com/album/1GhUgiGQRteSFrdB8DvXDJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "BBUU!",
+      "url": "https://open.spotify.com/track/6WCEA1cWcv3jfsVXpWdeXR"
     },
     {
       "album": {
@@ -39576,7 +39620,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 139285,
       "name": "Chocolate, candy, bread, love and dreams!",
       "url": "https://open.spotify.com/track/0Jj5gPHhsrk4m6VQVuhKpU"
@@ -46687,6 +46731,28 @@
     },
     {
       "album": {
+        "name": "Five Hearts Under One Roof 2 OST",
+        "url": "https://open.spotify.com/album/0e6bdlyj1QKXqUCSOqEE3q"
+      },
+      "artists": [
+        {
+          "name": "Yunamong",
+          "url": "https://open.spotify.com/artist/7gJFNDYb4Y2TYozpciQ9ta"
+        },
+        {
+          "name": "Bbanggyul",
+          "url": "https://open.spotify.com/artist/3MUZbOVWHxXcvkfp4MufGd"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186683,
+      "name": "Cupid\u2019s Trick",
+      "url": "https://open.spotify.com/track/6JNWdcHPtem5c1ncXtbOU4"
+    },
+    {
+      "album": {
         "name": "Curiosity",
         "url": "https://open.spotify.com/album/3DKezdDevdEAMi3gT3czOt"
       },
@@ -47996,6 +48062,24 @@
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
+    },
+    {
+      "album": {
+        "name": "Dancing Bird",
+        "url": "https://open.spotify.com/album/5nPvmaTmt7l6XHd1SJWYGA"
+      },
+      "artists": [
+        {
+          "name": "The Poles",
+          "url": "https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Dancing Bird",
+      "url": "https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN"
     },
     {
       "album": {
@@ -63642,7 +63726,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 190000,
       "name": "error",
       "url": "https://open.spotify.com/track/1SzinFXFmMYWedGwGZjK2Z"
@@ -82058,7 +82142,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 124714,
       "name": "GO!",
       "url": "https://open.spotify.com/track/14ismrL0TYHbsX0BFoWZkA"
@@ -86280,6 +86364,24 @@
       "duration_ms": 223569,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/3E5DCUUTf7M7sh8TOrT5Yr"
+    },
+    {
+      "album": {
+        "name": "PINK NOTE",
+        "url": "https://open.spotify.com/album/169Xc0DtUg1XLTA82hTT8i"
+      },
+      "artists": [
+        {
+          "name": "SM Jazz Trio",
+          "url": "https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197384,
+      "name": "Growl - Jazz Version",
+      "url": "https://open.spotify.com/track/1wOlDvbVzBpKQaKcQgSI7w"
     },
     {
       "album": {
@@ -98357,6 +98459,24 @@
     },
     {
       "album": {
+        "name": "I am",
+        "url": "https://open.spotify.com/album/1SWC7utZl9UrFcInjcxEDS"
+      },
+      "artists": [
+        {
+          "name": "Moonbit",
+          "url": "https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "I am",
+      "url": "https://open.spotify.com/track/4AHhXbooNnHULGK8F38xt1"
+    },
+    {
+      "album": {
         "name": "All the Liquors (Original Web Drama Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/4yy1f7akDBPxWIur4xk33O"
       },
@@ -102453,6 +102573,24 @@
     },
     {
       "album": {
+        "name": "I mean, you know",
+        "url": "https://open.spotify.com/album/71o4N9YmIAbRpP4H2Dbp3j"
+      },
+      "artists": [
+        {
+          "name": "Kang Seonghee",
+          "url": "https://open.spotify.com/artist/01Xc2B7E1xvYiLyNxaTj7g"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "I mean, you know",
+      "url": "https://open.spotify.com/track/24qYOZ2IfhqmoYkigQ4eyg"
+    },
+    {
+      "album": {
         "name": "I meet you who are infinitely beautiful",
         "url": "https://open.spotify.com/album/4tO82fvns6ThsiQvZ1AKNO"
       },
@@ -103244,7 +103382,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 299000,
       "name": "I Regret It",
       "url": "https://open.spotify.com/track/41zOdDjsAiTzAdFZupq7JS"
@@ -123917,6 +124055,24 @@
     },
     {
       "album": {
+        "name": "Dare to Crave : Epilogue",
+        "url": "https://open.spotify.com/album/6CyRMWkmfleo7DES8WhNAM"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Lemonade Fever",
+      "url": "https://open.spotify.com/track/6tywjVskwCOlog3bRWus42"
+    },
+    {
+      "album": {
         "name": "Fly Again",
         "url": "https://open.spotify.com/album/77zmrTi35NrLJ6zzLdtOi9"
       },
@@ -143495,6 +143651,28 @@
     },
     {
       "album": {
+        "name": "Message (with Gist)",
+        "url": "https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW"
+      },
+      "artists": [
+        {
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Message (with Gist)",
+      "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
+    },
+    {
+      "album": {
         "name": "Met You In The Distant Future",
         "url": "https://open.spotify.com/album/2OcZhjLxk4n3yjXOgG2Nzn"
       },
@@ -153238,6 +153416,24 @@
       "duration_ms": 161766,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
+    },
+    {
+      "album": {
+        "name": "Nice to Not Meet You (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/1TjcsrIAxuyo3AJQO6KjX7"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hyeon",
+          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Nasty Man",
+      "url": "https://open.spotify.com/track/7IotqBQzQsY9eGPkC3FkVe"
     },
     {
       "album": {
@@ -174450,7 +174646,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 226000,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/6sgQEjL4Ii2ycEFoTWI5NQ"
@@ -176536,6 +176732,24 @@
       "duration_ms": 172335,
       "name": "Push Up (feat. Swings)",
       "url": "https://open.spotify.com/track/3qwcpsYXE3rAzfnLlLgOhJ"
+    },
+    {
+      "album": {
+        "name": "UNBROKEN",
+        "url": "https://open.spotify.com/album/6yD33RyTJLyUPrz4gto6zV"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Put It Back",
+      "url": "https://open.spotify.com/track/5KW3MHVuikZqVrsB0wsFpv"
     },
     {
       "album": {
@@ -179766,6 +179980,28 @@
       "duration_ms": 225640,
       "name": "RED ROCKET (Feat. MINTAKHA)",
       "url": "https://open.spotify.com/track/4TC0yFH4ryF1rIZYBBzOOo"
+    },
+    {
+      "album": {
+        "name": "MANTA BIPOLAR pt.3",
+        "url": "https://open.spotify.com/album/1EZEtEb9f4ogmLalUVMArg"
+      },
+      "artists": [
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        },
+        {
+          "name": "Yescoba",
+          "url": "https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166056,
+      "name": "RED STRING (Feat. Yescoba)",
+      "url": "https://open.spotify.com/track/12KgGv1fmOevABPl2T1a5Z"
     },
     {
       "album": {
@@ -185808,7 +186044,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 151000,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/0AxyEbZcMxTqGSWcTL3hpr"
@@ -224540,7 +224776,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 295000,
       "name": "Though I Knew",
       "url": "https://open.spotify.com/track/3rWVakuf3mL1uKN9X2Mydl"
@@ -231502,6 +231738,24 @@
       "duration_ms": 205493,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/2rgjOD5RmUh3V6rmx3eLkm"
+    },
+    {
+      "album": {
+        "name": "TUNNEL VISION",
+        "url": "https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1"
     },
     {
       "album": {

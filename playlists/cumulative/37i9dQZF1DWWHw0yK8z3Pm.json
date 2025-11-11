@@ -3785,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Five and Ten",
+        "url": "https://open.spotify.com/album/2j13SC2Ho59cn3kIBJSOxc"
+      },
+      "artists": [
+        {
+          "name": "Old Man Luedecke",
+          "url": "https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211813,
+      "name": "Five and Ten",
+      "url": "https://open.spotify.com/track/4R9F8FgETaeTfazujTfnQA"
+    },
+    {
+      "album": {
         "name": "Fix on the Tailwind",
         "url": "https://open.spotify.com/album/0uFKlO7rBufrhgW5pomf1V"
       },
@@ -4528,7 +4546,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 177201,
       "name": "Heart of Mine",
       "url": "https://open.spotify.com/track/5LnOx4rfyihZXY59zY103J"

@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Nov 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Nov 23:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWBQtofoY5fKjBzqM2TDvVaB8GYiwW",
+  "snapshot_id": "AAAWC9h0Kb6WPf8Va+ss5yfSqPbPLtMY",
   "tracks": [
+    {
+      "added_at": "2025-11-10 14:04:55",
+      "album": {
+        "name": "D.I.S.",
+        "url": "https://open.spotify.com/album/3GKiNeF8efgPVOIijAeCZn"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "D.I.S.",
+      "url": "https://open.spotify.com/track/3az9Ir2Qd2JBHxT9wfGLoV"
+    },
     {
       "added_at": "2025-11-09 19:04:11",
       "album": {
@@ -119,6 +135,22 @@
       "duration_ms": 160645,
       "name": "BREAKUP",
       "url": "https://open.spotify.com/track/1z5IgJwq78uRL7l9AZ0qpN"
+    },
+    {
+      "added_at": "2025-11-10 19:05:32",
+      "album": {
+        "name": "The Hand",
+        "url": "https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "The Hand",
+      "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
     },
     {
       "added_at": "2025-11-08 19:04:32",
@@ -315,6 +347,26 @@
       "duration_ms": 143996,
       "name": "Try To Love",
       "url": "https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2"
+    },
+    {
+      "added_at": "2025-11-10 23:04:55",
+      "album": {
+        "name": "ATTENTION! (SMASH FEATURES)",
+        "url": "https://open.spotify.com/album/4zCwjsoDCnzEdfRfo1thw3"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "Sizzy Rocket",
+          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
+        }
+      ],
+      "duration_ms": 147980,
+      "name": "ATTENTION! (feat. Sizzy Rocket)",
+      "url": "https://open.spotify.com/track/4dToYNMQBJwoTVplQ025IJ"
     },
     {
       "added_at": "2025-11-06 04:04:02",
@@ -771,58 +823,6 @@
       "duration_ms": 215999,
       "name": "Salting the Earth",
       "url": "https://open.spotify.com/track/0EnlIsOJ9Or1wiERcyr5AX"
-    },
-    {
-      "added_at": "2025-11-02 09:04:30",
-      "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/0BOQ2Ph9xHOIC02Ebzqqka"
-      },
-      "artists": [
-        {
-          "name": "schafter",
-          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
-        },
-        {
-          "name": "Sergiusz",
-          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/49u38L99ThT3VZz7Gg2D8f"
-    },
-    {
-      "added_at": "2025-11-03 19:05:42",
-      "album": {
-        "name": "132 TECHNO",
-        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 334584,
-      "name": "132 TECHNO",
-      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
-    },
-    {
-      "added_at": "2025-10-31 04:04:21",
-      "album": {
-        "name": "DEATH CULT ZOMBIE",
-        "url": "https://open.spotify.com/album/4jeNB0UKUljys3WNSWC4Je"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "DEATH CULT ZOMBIE",
-      "url": "https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd"
     }
   ],
   "unique_name": "New Singles Now",

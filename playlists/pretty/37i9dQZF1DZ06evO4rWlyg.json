@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 149367,
+  "num_followers": 149410,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAAxZJmUZjV9MlRJgfo+MukS",
+  "snapshot_id": "aQ/ZgAAAAAAkSTGdCg8KLnWuGTpq34SI",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Army Of Me",
-      "url": "https://open.spotify.com/track/4UFQBhIOgANiBG44USIgsf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oral",
         "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Army Of Me",
+      "url": "https://open.spotify.com/track/4UFQBhIOgANiBG44USIgsf"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 255266,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz"
+      "duration_ms": 312666,
+      "name": "Bachelorette",
+      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 312666,
-      "name": "Bachelorette",
-      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
+      "duration_ms": 255266,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz"
     },
     {
       "added_at": null,
@@ -587,38 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Oceania",
-      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cornucopia Live",
-        "url": "https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "Utopia - Live",
-      "url": "https://open.spotify.com/track/5FHy9kZIdf2QVUHMFBH3Tb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fossora",
         "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
@@ -639,6 +607,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cornucopia Live",
+        "url": "https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 226893,
+      "name": "Utopia - Live",
+      "url": "https://open.spotify.com/track/5FHy9kZIdf2QVUHMFBH3Tb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Oceania",
+      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vulnicura",
         "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 244213,
-      "name": "Triumph Of A Heart",
-      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 146200,
-      "name": "Batabid",
-      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+      "duration_ms": 244213,
+      "name": "Triumph Of A Heart",
+      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
     },
     {
       "added_at": null,

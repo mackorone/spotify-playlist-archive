@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-233 songs - 11 hr 50 min
+234 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [8 Vaje](https://open.spotify.com/track/4jRTapBEzN0Fzjwyhtbn3R) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8) | [8 Vaje](https://open.spotify.com/album/7dLHtuLGm3wX84rRKrQRt4) | 2:54 | 2024-09-13 |  |
 | [Aadat](https://open.spotify.com/track/5OU0FrRy5ayPf2B0SPa0Mg) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Aadat](https://open.spotify.com/album/2p1NTIbbZU1qTBCyXcKcsm) | 4:16 | 2024-10-03 | 2024-11-06 |
 | [Affair](https://open.spotify.com/track/21SBUUtRtPK2x2OLmZCKTP) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Affair](https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy) | 3:08 | 2023-03-18 | 2024-10-05 |
-| [Ain't Like Me](https://open.spotify.com/track/0cyNBS2zNhVijDM6WDsbPp) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Ain't Like Me](https://open.spotify.com/album/2AS8Kzr2SyuFqxSndz615Y) | 3:44 | 2025-02-14 |  |
+| [Ain't Like Me](https://open.spotify.com/track/0cyNBS2zNhVijDM6WDsbPp) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Ain't Like Me](https://open.spotify.com/album/2AS8Kzr2SyuFqxSndz615Y) | 3:44 | 2025-02-14 | 2025-11-11 |
 | [AKH](https://open.spotify.com/track/2XQK4hKhcSsloYMteu9RbZ) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [AKH](https://open.spotify.com/album/6B3afVYGezFl6PPl2qJXqB) | 3:35 | 2024-09-09 | 2024-10-23 |
 | [All About Me](https://open.spotify.com/track/5z0TMApul2gljzU7D5wdSe) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc) | [All About Me](https://open.spotify.com/album/7b0LyWJWBL5logHL9J00hL) | 2:16 | 2025-10-15 |  |
 | [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2023-03-18 | 2023-11-21 |
@@ -52,6 +52,7 @@
 | [Dhola](https://open.spotify.com/track/3mG2vx5a7GJAI8hJo5vqP4) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Dhola](https://open.spotify.com/album/2870WWZANLoQX7blYvBluB) | 2:22 | 2025-01-06 | 2025-07-26 |
 | [Dil Te](https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Dil Te](https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco) | 2:51 | 2023-03-18 | 2024-08-28 |
 | [Dil Tutteya](https://open.spotify.com/track/48IF4LGpBuSitHqaiPua95) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Dil Tutteya](https://open.spotify.com/album/0VT9ERykGHCBKSn2eqbFAg) | 3:47 | 2023-03-18 | 2023-11-22 |
+| [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 | 2025-11-10 |  |
 | [Diwaane](https://open.spotify.com/track/63rDH882LRDY1HEGNDkW42) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Diwaane](https://open.spotify.com/album/2vvJYR6gsRnHTJMSF5oHT1) | 3:25 | 2024-11-25 |  |
 | [Do Hissey](https://open.spotify.com/track/0Sln5XlPBiMxKFQklKhx4I) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Do Hissey](https://open.spotify.com/album/26lBkvxDZX1zjFpY3i68sv) | 2:48 | 2025-03-20 |  |
 | [Doonghe Nain](https://open.spotify.com/track/7ugbFVZe9heX2YO7rV7DKz) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Doonghe Nain](https://open.spotify.com/album/7l6KRIi6nYbdgcB3kRq5lO) | 3:08 | 2024-12-11 | 2025-01-15 |

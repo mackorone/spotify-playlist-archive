@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398 likes - 268 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399 likes - 268 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 113 | [Exploding](https://open.spotify.com/track/48P6rlUfiTmc49z3G8Ow6Z) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:01 |
 | 114 | [Wouldn't Be Love](https://open.spotify.com/track/6x7Q6sYuLRRlF3hkoGBQUO) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 3:45 |
 | 115 | [Crossed The Line](https://open.spotify.com/track/10SMOXYK3PsNXxozFMeGNT) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Surrender](https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2) | 3:15 |
-| 116 | [Bomba](https://open.spotify.com/track/1foglYjabYgq2PnG1IlMsz) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Back 2 Life](https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH) | 3:39 |
-| 117 | [Diamonds](https://open.spotify.com/track/6LfVWHL4FujWJhCDafODEZ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
+| 116 | [Diamonds](https://open.spotify.com/track/6LfVWHL4FujWJhCDafODEZ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
+| 117 | [Bomba](https://open.spotify.com/track/1foglYjabYgq2PnG1IlMsz) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Back 2 Life](https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH) | 3:39 |
 | 118 | [5000 Miles](https://open.spotify.com/track/23DIKne9C2VXKhMQTFd4VW) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:31 |
 | 119 | [Smile](https://open.spotify.com/track/6YJZ2uD1DwRUx2inm8g9kr) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Smile](https://open.spotify.com/album/4mKGz8LpzNFzhXHxeadZfi) | 2:56 |
 | 120 | [Lie To Me](https://open.spotify.com/track/4KRdv66BiKGL4wNEhKmGYW) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Open Up Your Head](https://open.spotify.com/album/65YsNAuX9dJ7fVIKicT0d1) | 3:19 |
@@ -174,9 +174,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 164 | [Ferrari](https://open.spotify.com/track/4ReNjPY2hVS5AutX2wJeDw) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Clare Dunn](https://open.spotify.com/album/4Xwds3CwPNqNxV7GT877Se) | 3:34 |
 | 165 | [Love In Real Life](https://open.spotify.com/track/0aBiz5baCyZbJApDikehjL) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:03 |
 | 166 | [Pressure](https://open.spotify.com/track/7i7cqLZ2CAZxW47WhfIov8) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Pressure](https://open.spotify.com/album/5OMQvLlSiHTCnTuXBPKvmA) | 3:42 |
-| 167 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 |
+| 167 | [Would You Still Love Me?](https://open.spotify.com/track/1rO90Ogf0uN8o9HiCsZmhf) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 5:05 |
 | 168 | [Not in Love](https://open.spotify.com/track/62wfiBkeh02qOZN3i7qbEU) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Not in Love](https://open.spotify.com/album/1SDjOoB4FfCLznhzB4GeI6) | 3:17 |
-| 169 | [Would You Still Love Me?](https://open.spotify.com/track/1rO90Ogf0uN8o9HiCsZmhf) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 5:05 |
+| 169 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 |
 | 170 | [All of the Women](https://open.spotify.com/track/1MsR0dhoK2w86YLp6jhhb1) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:53 |
 | 171 | [Mother Nature](https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:59 |
 | 172 | [Do You Want Me To](https://open.spotify.com/track/6ygZkBHLbm0MkgDSgFED2i) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:07 |
@@ -209,8 +209,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 199 | [fever](https://open.spotify.com/track/3HjOcLYE63CNxrV9xnjB3V) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:30 |
 | 200 | [Silhouette](https://open.spotify.com/track/4wcorOXxuMhJsOk91rhyRn) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:55 |
 | 201 | [Save Me](https://open.spotify.com/track/2MqSIyClHdLr3qCpttt5Re) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 3:43 |
-| 202 | [Taken](https://open.spotify.com/track/6GyAI9p6xUZ3b3JUDjoaqd) | [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Taken](https://open.spotify.com/album/7J0gNnx4AEarVNCYbFmHXl) | 3:25 |
-| 203 | [Hit It Again](https://open.spotify.com/track/40aA9N1KJVaQigqU4tp8VF) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:56 |
+| 202 | [Hit It Again](https://open.spotify.com/track/40aA9N1KJVaQigqU4tp8VF) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:56 |
+| 203 | [Taken](https://open.spotify.com/track/6GyAI9p6xUZ3b3JUDjoaqd) | [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Taken](https://open.spotify.com/album/7J0gNnx4AEarVNCYbFmHXl) | 3:25 |
 | 204 | [Real Thing](https://open.spotify.com/track/1r4YhgOx3OYHsjRF8NgF5e) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [REAL THING](https://open.spotify.com/album/2uigbDgEe5WhlYbPID5Aqe) | 3:40 |
 | 205 | [Good Times to Come](https://open.spotify.com/track/6Ax3UATQ5dvCE0OMeY8f3c) | [DanDlion](https://open.spotify.com/artist/6dLGrJfOwF5gdyI8Ga7b76) | [FRUITION](https://open.spotify.com/album/1mfewN8zutQBuDzvHfB70U) | 3:04 |
 | 206 | [Rose Garden](https://open.spotify.com/track/3iDx3DfuNqVmhlpgd6gY7N) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Someone Out There](https://open.spotify.com/album/3h30Uo7ctjnKADgYzcUj40) | 3:56 |
@@ -221,8 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 211 | [The Hard Way](https://open.spotify.com/track/1z9bo6t4Cml4e4SN7yYSMZ) | [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [The Hard Way](https://open.spotify.com/album/5pASbfhqQxkXzdtOvJaA3R) | 3:11 |
 | 212 | [4 Letter Word](https://open.spotify.com/track/58uR3kZLQecc31yol8Ryqq) | [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Dedicated To:](https://open.spotify.com/album/25VjYN3RwJfVIfF9r83tuZ) | 3:23 |
 | 213 | [Changes](https://open.spotify.com/track/2GM6Ru5A11mm9hS8mXPWCS) | [Sam Johnson](https://open.spotify.com/artist/4FePLXv9OD4k0vOfZLBn43) | [Changes](https://open.spotify.com/album/4XUzTI1B64yofW2gjB8mAW) | 3:23 |
-| 214 | [roses in the rain](https://open.spotify.com/track/2MStHylyE3Vk4vMHVfmNtt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 2:35 |
-| 215 | [Ignorance is Bliss](https://open.spotify.com/track/7mhAJ0N6VuAxgzksFWa0Om) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Ignorance is Bliss](https://open.spotify.com/album/75N2h7ZeDnaFRbIlja8LgJ) | 3:34 |
+| 214 | [Ignorance is Bliss](https://open.spotify.com/track/7mhAJ0N6VuAxgzksFWa0Om) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Ignorance is Bliss](https://open.spotify.com/album/75N2h7ZeDnaFRbIlja8LgJ) | 3:34 |
+| 215 | [roses in the rain](https://open.spotify.com/track/2MStHylyE3Vk4vMHVfmNtt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 2:35 |
 | 216 | [Big Machine](https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:57 |
 | 217 | [Part of Me](https://open.spotify.com/track/5MeJdfZ0TTyTHR9TkKawTU) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:41 |
 | 218 | [Friends](https://open.spotify.com/track/3nY9b9eUYtu9gftZAuqiro) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Friends](https://open.spotify.com/album/1u5T8uIGTvUmgVe2OrGZJ8) | 3:14 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 267 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 268 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
 
-Snapshot ID: `AcBKJgAAAAAAHCyVbC+ipJMWku/Fe3M2`
+Snapshot ID: `AcBPxgAAAAC7jUBNKBxw5asres7oOUpY`

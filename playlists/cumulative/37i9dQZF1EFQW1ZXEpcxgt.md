@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 9 hr 26 min
+175 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Much](https://open.spotify.com/track/3cTSmRqgtfE96w1jsfQGrs) | [Paul Hankinson Covers](https://open.spotify.com/artist/3TxNDlIgawf5BySboSDcXB) | [2 Much](https://open.spotify.com/album/1fRNHWSg40RqT07UhiJvFj) | 3:20 | 2025-11-01 |  |
+| [2 Much](https://open.spotify.com/track/0oaY19dUwZimIgzn3ZZLZO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:32 | 2025-11-10 |  |
+| [2 Much](https://open.spotify.com/track/3cTSmRqgtfE96w1jsfQGrs) | [Paul Hankinson Covers](https://open.spotify.com/artist/3TxNDlIgawf5BySboSDcXB) | [2 Much](https://open.spotify.com/album/1fRNHWSg40RqT07UhiJvFj) | 3:20 | 2025-11-01 | 2025-11-11 |
 | [2001](https://open.spotify.com/track/346UdgVc5V68r9yWA1efqg) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 2:10 | 2025-06-30 |  |
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2024-06-29 |  |
 | [Again](https://open.spotify.com/track/3uqwJF9yjcOrzY3weJqxU3) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:22 | 2022-06-04 |  |
@@ -29,6 +30,7 @@
 | [BITTA](https://open.spotify.com/track/5FZ1HZ9ke8CVbim5fVTXsm) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [BITTA](https://open.spotify.com/album/5sVuH0zhKKgPz21oKaCOeY) | 3:13 | 2022-06-04 |  |
 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-06-04 |  |
 | [Bones and Blood](https://open.spotify.com/track/4qGIpT6nFagsxOqjGCgY1M) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [John The Blind](https://open.spotify.com/album/09cDd1zwcdM8q0rKmgRzi7) | 2:50 | 2022-06-04 |  |
+| [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7qTaDOcld0VmBWXnkbUj45) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [7220 \(Reloaded\)](https://open.spotify.com/album/1ImQBMrMvxZZqwTnFSRvhT) | 3:05 | 2025-11-10 |  |
 | [Burn \(feat\. Big Sean\)](https://open.spotify.com/track/1tv6IvWoOilhj0XbBoVVMo) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:36 | 2022-06-04 |  |
 | [Celebrate](https://open.spotify.com/track/6bszzvS1tbQq3syTmSQo8x) | [Rise Up Children's Choir](https://open.spotify.com/artist/4ubm9Rvg1vip1AhBNvnEcy) | [Celebrate](https://open.spotify.com/album/0T7lSwMT9mPT8CoSxmDP5h) | 2:30 | 2025-05-26 | 2025-05-28 |
 | [Celebrate!](https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:06 | 2025-05-27 |  |
@@ -116,6 +118,7 @@
 | [Never Learned](https://open.spotify.com/track/0ZtKwDyYr6npua2fzfWia2) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Never Learned](https://open.spotify.com/album/3RlzBv7Az9FPUyEgQzXvlm) | 3:26 | 2022-06-04 |  |
 | [Never Love Again](https://open.spotify.com/track/5IPE706f5GnhM06ZNrTYnh) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:14 | 2022-06-04 |  |
 | [No Chance](https://open.spotify.com/track/0pZ2vkhWBEWWOwuAB8OlgE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [No Chance](https://open.spotify.com/album/3zY5iu6GBWO927JdIu8OQT) | 3:40 | 2022-06-04 |  |
+| [No Help](https://open.spotify.com/track/3X4oYHoEhwoR8oCmQFMy1E) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [No Help](https://open.spotify.com/album/7KaecE3th2EoJMsrIJ6zVL) | 3:02 | 2025-11-10 |  |
 | [No Judgement](https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:56 | 2022-06-04 |  |
 | [No Judgement](https://open.spotify.com/track/5fQkJEFHAUKzDG7QrDJKQP) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [No Judgement](https://open.spotify.com/album/48XX4ck7OJDXA8lTF7sbyB) | 3:07 | 2023-12-17 | 2024-02-01 |
 | [No Love Allowed](https://open.spotify.com/track/2fv47VVvysXZPpT7xsdg7b) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:09 | 2022-06-04 |  |
@@ -159,6 +162,7 @@
 | [Tan Lines](https://open.spotify.com/track/6TFZEwGYziB85bWesoRys7) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Tan Lines](https://open.spotify.com/album/3sLKF2otEz4Z26bX79jUKz) | 3:25 | 2025-11-09 |  |
 | [Ted Talk](https://open.spotify.com/track/0a4GWgv00qYm63fSWTau0N) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:50 | 2022-06-04 |  |
 | [Testify](https://open.spotify.com/track/3kafzvowAyLtjs6TRFaRdj) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:51 | 2025-05-26 |  |
+| [The Plan](https://open.spotify.com/track/2ZifRK22Toszq5qHW2s864) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/3ak5dFCP9hgqrHttkH4d7o) | 2:47 | 2025-11-10 |  |
 | [The Sleaze](https://open.spotify.com/track/3Tpi6mmiB6uhN3IArXSVxj) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Blacc Hollywood \(Deluxe\)](https://open.spotify.com/album/2pl9PVgr8QFKRGY0HY69GI) | 4:25 | 2022-06-04 |  |
 | [They Mad](https://open.spotify.com/track/6UEcPVCX9NpbsKaARZ2jtB) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:27 | 2022-06-04 |  |
 | [Tick Tick Boom \(feat\. BygTwo3\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/5nKdxWYQJTzJrHXWOSO9tO) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [BygTwo3](https://open.spotify.com/artist/1r9zcYlwfxbxtA5AhNBI4G) | [Tick Tick Boom \(feat\. BygTwo3\)](https://open.spotify.com/album/5EXdYCUAu8MXygJaYn9TR4) | 2:10 | 2022-06-04 |  |
@@ -176,7 +180,8 @@
 | [Who's with Me](https://open.spotify.com/track/5u6Yl2Z6E2NLQ7hx9Y0Vfq) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/01q5k781PdqqKUWFizFjjh) | 3:30 | 2022-06-04 |  |
 | [Work from Home](https://open.spotify.com/track/2NWyr0AZP2YFx2A6FKHsvg) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Work from Home \(Official Video\)](https://open.spotify.com/album/4OWtkOOopCC7s5LSmDOhpW) | 3:39 | 2023-12-14 | 2024-02-02 |
 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 | 2022-06-04 |  |
-| [Worship You](https://open.spotify.com/track/04xUYZJwtcT6B9dQZm24b5) | [Jovon Newman](https://open.spotify.com/artist/1dJ8OsGwwfFr47I12W3MdO) | [Worship You](https://open.spotify.com/album/3qyanKR5P6sjYJx12KRZl4) | 2:49 | 2025-11-07 |  |
+| [Worship You](https://open.spotify.com/track/04xUYZJwtcT6B9dQZm24b5) | [Jovon Newman](https://open.spotify.com/artist/1dJ8OsGwwfFr47I12W3MdO) | [Worship You](https://open.spotify.com/album/3qyanKR5P6sjYJx12KRZl4) | 2:49 | 2025-11-07 | 2025-11-11 |
+| [Worship You](https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worship You](https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt) | 3:25 | 2025-11-10 |  |
 | [Yikes \- From 'SCOOB!' The Album](https://open.spotify.com/track/4cVGYn2wNj8KNS0VyZ3cb3) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Yikes](https://open.spotify.com/album/0Hj7q0gpsJ1SRZpOFxAeHf) | 2:09 | 2022-06-04 |  |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

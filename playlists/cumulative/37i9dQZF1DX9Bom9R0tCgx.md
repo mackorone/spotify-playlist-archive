@@ -4,7 +4,7 @@
 
 > All the stuff that will blow your speakers!
 
-533 songs - 1 day 1 hr 15 min
+534 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Better Off \(Alone, Pt\. III\) \[feat\. Vikkstar\] \[D\-Block & S\-te\-Fan Remix\]](https://open.spotify.com/track/4hHPr9rqt7NiHi0hcCMuRK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Better Off \(Alone, Pt\. III\) \[feat\. Vikkstar\] \[D\-Block & S\-te\-Fan Remix\]](https://open.spotify.com/album/6wGHfkwyWX3QlgK5Tn1WQ2) | 2:58 | 2023-10-26 | 2023-10-30 |
 | [Better Off Alone \- Hardstyle](https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y), [LEOJ](https://open.spotify.com/artist/4vzXQptcUvoCnbPkQveKcB) | [Better Off Alone \(Hardstyle\)](https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW) | 2:41 | 2023-08-31 | 2024-02-22 |
 | [Better Than Gold](https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Andrew Hellier](https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8) | [Better Than Gold](https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh) | 5:20 | 2023-08-31 | 2025-01-31 |
+| [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 | 2025-06-26 |  |
 | [BIG BOOTY BITCHES](https://open.spotify.com/track/5we5HgtW1s5pgQ0OHB4wwM) | [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj) | [BIG BOOTY BITCHES](https://open.spotify.com/album/4wo6cZuTR5POtxQwQUwory) | 2:18 | 2024-06-06 | 2024-09-06 |
 | [Bim Boom Bam \- Yub & Old Jim's Techno Mix](https://open.spotify.com/track/3IYffgmnYRdxv002TzqNSu) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [YuB](https://open.spotify.com/artist/4jebwGrnlyNNecjXMuIxqi), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu) | [Bim Boom Bam \(YuB & Old Jim's Techno Mix\)](https://open.spotify.com/album/7iGSAP52YfRxG9Eb9CLcde) | 2:21 | 2024-02-15 | 2024-05-09 |
 | [Bla Bla Bla](https://open.spotify.com/track/4d8rAz6gWPJ5Vq516k2kac) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Bla Bla Bla](https://open.spotify.com/album/7kz5woUkpA7yvGvax0EvaF) | 1:58 | 2024-12-05 |  |
@@ -483,7 +484,7 @@
 | [Techno Dream](https://open.spotify.com/track/7At9gHq8Gi66Cch4nnBipm) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [David White](https://open.spotify.com/artist/4sQ7XS59ZQebv14J404ZSn) | [Techno Dream](https://open.spotify.com/album/1PvjVmVZFQqFsiS1RGkMVU) | 1:56 | 2025-04-03 | 2025-04-25 |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-31 | 2024-04-05 |
 | [Tekno](https://open.spotify.com/track/6Ac6OAu0NTuJ6uVAiEr9LK) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Antoine Delvig](https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Tekno](https://open.spotify.com/album/3QiiysW5CAxLkwmRKZYNHp) | 2:31 | 2024-08-29 | 2025-02-21 |
-| [Tell Me](https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Tell Me](https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL) | 2:04 | 2024-02-22 |  |
+| [Tell Me](https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Tell Me](https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL) | 2:04 | 2024-02-22 | 2025-11-11 |
 | [Tell Me Secrets](https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Joker Bra](https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM) | [Tell Me Secrets](https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW) | 2:16 | 2023-08-31 | 2024-02-04 |
 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2023-08-31 |  |
 | [Tequila](https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Tequila](https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL) | 2:46 | 2024-06-20 | 2024-07-27 |

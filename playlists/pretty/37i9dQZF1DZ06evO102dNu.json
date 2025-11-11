@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1220086,
+  "num_followers": 1220177,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAD/TgDy/mVMfTeWL4MiEL1V",
+  "snapshot_id": "aQ/ZgAAAAADsglIB8KoYzD4yXV2MBcDL",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "That's Life",
-      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 202160,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Nice 'n' Easy - Remastered 1999",
-      "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Wee Small Hours",
         "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 180933,
       "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
       "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Nice 'n' Easy - Remastered 1999",
+      "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highlights From Duets",
         "url": "https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 163186,
       "name": "Change Partners",
       "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/0IU7UJ9nknVKWlHCECHVQw"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/0IU7UJ9nknVKWlHCECHVQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 165213,
       "name": "Quiet Nights of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 181906,
       "name": "Learnin' The Blues",
       "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinatra \u201965",
+        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "My Kind Of Town",
+      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 155440,
       "name": "Drinking Water (Aqua de Beber)",
       "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinatra \u201965",
-        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "My Kind Of Town",
-      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "Come Dance With Me - 1998 Remastered",
+      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 199733,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Dance With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Come Dance With Me - 1998 Remastered",
-      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
     },
     {
       "added_at": null,

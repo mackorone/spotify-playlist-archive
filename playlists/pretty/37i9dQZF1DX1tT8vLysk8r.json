@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the best-loved works of Russian composer Sergei Prokofiev.",
-  "num_followers": 46289,
+  "num_followers": 46310,
   "original_name": "This Is Prokofiev",
   "owner": {
     "name": "Spotify",
@@ -415,30 +415,6 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
-        "name": "Prokofiev: Symphony No. 6",
-        "url": "https://open.spotify.com/album/1Aj2xsKujM7LMdJ4N23CKm"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Gianandrea Noseda",
-          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 871346,
-      "name": "Symphony No. 6 in E-Flat Minor, Op. 111: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/1UBJDfcfuhkePRusLKth2l"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
         "name": "Prokofiev: Romeo and Juliet",
         "url": "https://open.spotify.com/album/63jpiok5Vr3InKw0a1mPbE"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 154466,
       "name": "Prokofiev: Romeo and Juliet, Op. 64, Act 1, Scene 1: The Fight",
       "url": "https://open.spotify.com/track/0ERKeNTkXbSGrxB0jGbJZ6"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
+        "name": "Prokofiev: Symphony No. 6",
+        "url": "https://open.spotify.com/album/1Aj2xsKujM7LMdJ4N23CKm"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 871346,
+      "name": "Symphony No. 6 in E-Flat Minor, Op. 111: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/1UBJDfcfuhkePRusLKth2l"
     },
     {
       "added_at": "2025-09-15 14:00:15",

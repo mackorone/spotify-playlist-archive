@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Grace Power
 
-525 songs - 1 day 4 hr 29 min
+526 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [American High](https://open.spotify.com/track/0dfBhD0Cp8PvrScwz7DqNa) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [American High](https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV) | 2:58 | 2024-03-29 | 2024-04-27 |
 | [Amnesia Was Her Name](https://open.spotify.com/track/0ww8jZZtGU70QvYUFmDbqZ) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 4:03 | 2022-05-17 | 2022-08-06 |
 | [anarchy](https://open.spotify.com/track/7cxcMgTHKSZ25C0q1i50Dk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [anarchy](https://open.spotify.com/album/1DCgCD9gO2Z2t2gDS3Inxi) | 2:47 | 2023-05-26 | 2024-01-27 |
+| [Andrew in Drag](https://open.spotify.com/track/4hGc42qyzkBMoHGddyX565) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/0CfSd8lAcnddr939k6hle1) | 2:12 | 2025-11-10 |  |
 | [Anti\-Superstar](https://open.spotify.com/track/17o7CTsb658mfoL0ENdaCe) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Anti\-Superstar](https://open.spotify.com/album/3oP6MjWlLEU5YTWRSAUsd7) | 2:33 | 2024-11-25 | 2025-02-15 |
 | [anymore](https://open.spotify.com/track/3jf8u2tg0RXdBfgVwA4zoB) | [Abby Izzy](https://open.spotify.com/artist/5VIF6Dh11VwoMYHmR7KA38) | [anymore](https://open.spotify.com/album/3nRGHSO0Oq5cdrzlzPGQD9) | 2:32 | 2023-01-06 | 2023-01-21 |
 | [ANYTHING 4 U](https://open.spotify.com/track/3bfqtvnae2MjD6ONvLIH5H) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [ANYTHING 4 U](https://open.spotify.com/album/6pSyEQrFZCPYlmlHI8VP6o) | 2:41 | 2024-02-09 | 2024-07-23 |
@@ -239,7 +240,7 @@
 | [I Hear a Symphony](https://open.spotify.com/track/3KfTWH9HcFZtOnZXaMT0Rt) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/0ipYqwFFvSHdNU6CcbQEsZ) | 3:05 | 2022-05-17 | 2024-09-07 |
 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2022-08-05 | 2024-04-19 |
 | [I Love To Dance](https://open.spotify.com/track/3IbT4cFEQYLz1P9MFnRmYu) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Beep Beep Repeat](https://open.spotify.com/album/5UpFCX4FXDQ6WhKIVRYBVY) | 1:59 | 2024-04-26 | 2024-05-25 |
-| [I Might Be The Problem](https://open.spotify.com/track/6xwzEcxLH5O3guCY5opAmV) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good Grief!](https://open.spotify.com/album/16MOkD1vWiHfWBTbkkMbBU) | 2:55 | 2025-07-18 |  |
+| [I Might Be The Problem](https://open.spotify.com/track/6xwzEcxLH5O3guCY5opAmV) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good Grief!](https://open.spotify.com/album/16MOkD1vWiHfWBTbkkMbBU) | 2:55 | 2025-07-18 | 2025-11-11 |
 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 | 2024-02-10 |
 | [I Wanna Be In Love Again](https://open.spotify.com/track/3SoskoFsarFxM4xiGN2VvQ) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [I Wanna Be In Love Again](https://open.spotify.com/album/0jiEtrM5SHUJ2lAqDBlgdY) | 4:37 | 2022-12-02 | 2023-01-14 |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2022-05-17 | 2022-12-10 |

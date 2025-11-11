@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 113000,
       "name": "4h44",
       "url": "https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1"
@@ -7266,7 +7266,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "BTRD",
       "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
@@ -12544,7 +12544,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 208133,
       "name": "Dans quelques mois",
       "url": "https://open.spotify.com/track/14ydh3o2eees2HuGCTdDXa"
@@ -15100,7 +15100,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 246053,
       "name": "En boucle",
       "url": "https://open.spotify.com/track/4frYOVaMfQ7iyvKLehnARi"
@@ -15494,7 +15494,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 267512,
       "name": "Epiphanie",
       "url": "https://open.spotify.com/track/4S8FqW3vfSJYrOZOSQaXsL"
@@ -17088,6 +17088,28 @@
       "duration_ms": 160000,
       "name": "Flying Blue",
       "url": "https://open.spotify.com/track/6EDZsWmhRHux8ZoqISJ2Ka"
+    },
+    {
+      "album": {
+        "name": "CAPITALE DU CRIME RADIO, vol. 2",
+        "url": "https://open.spotify.com/album/4UTgrzD7uH5Sk9Hm2tCvQy"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Flying Blue",
+      "url": "https://open.spotify.com/track/6QQGjrXpBQjVTdSGaOUyRt"
     },
     {
       "album": {
@@ -21152,7 +21174,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 101447,
       "name": "Internet",
       "url": "https://open.spotify.com/track/6ms7em2ybhDI4xvB5qkv7M"
@@ -30799,6 +30821,28 @@
     },
     {
       "album": {
+        "name": "Hybride",
+        "url": "https://open.spotify.com/album/7q5fx0xWcizvmfI9IHHdFQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144010,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/5gY0AGD5Yrc25nt58VhGY4"
+    },
+    {
+      "album": {
         "name": "Mode avion",
         "url": "https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc"
       },
@@ -34092,7 +34136,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 162569,
       "name": "Oulalalala (feat. FIFTY FIFTY)",
       "url": "https://open.spotify.com/track/06UNYnQ1t74WJD2zW3Uh7K"
@@ -40708,7 +40752,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/1bofHa2E6mPWgILo9SmDTG"
@@ -40744,7 +40788,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/6zum0WbkyrPO7C548rhn8G"
@@ -49488,7 +49532,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 198809,
       "name": "Yoro\u00ef (with Thomas Bangalter)",
       "url": "https://open.spotify.com/track/2euXk5ofsxsaajuRn6DawH"

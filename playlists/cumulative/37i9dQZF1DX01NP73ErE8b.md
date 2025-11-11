@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Giorgia in cover
 
-429 songs - 21 hr 54 min
+431 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,9 +194,10 @@
 | [L'amore eternit](https://open.spotify.com/track/2vAzyP21f777MdZNcyt6yt) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Pop\-hoolista](https://open.spotify.com/album/3MJfMtxaK8aHRFQk1Aqzcl) | 4:18 | 2025-02-03 | 2025-03-21 |
 | [L'ultima canzone](https://open.spotify.com/track/51wk2kBRxfiYIskpqYxk0N) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:34 | 2025-03-20 | 2025-04-01 |
 | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-07-01 | 2024-11-08 |
-| [L'UNICA](https://open.spotify.com/track/1ailkFmIM9eWlfqFd6OpuJ) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [L'UNICA](https://open.spotify.com/album/5w5CJYu0u2tWWsZXzPe3s8) | 3:10 | 2025-06-19 |  |
+| [L'UNICA](https://open.spotify.com/track/1ailkFmIM9eWlfqFd6OpuJ) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [L'UNICA](https://open.spotify.com/album/5w5CJYu0u2tWWsZXzPe3s8) | 3:10 | 2025-06-19 | 2025-11-11 |
 | [La Città Addosso](https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [La Città Addosso](https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ) | 3:26 | 2024-09-26 | 2024-10-11 |
 | [LA CURA PER ME](https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [LA CURA PER ME](https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw) | 3:35 | 2025-02-12 | 2025-06-13 |
+| [LA CURA PER ME \(feat\. BLANCO\)](https://open.spotify.com/track/3TkSWRxnvQX6uKGA709Ohb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:35 | 2025-11-10 |  |
 | [LA GELOSIA](https://open.spotify.com/track/4zqzwofYeyScZ7ix0KmclN) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [LA GELOSIA](https://open.spotify.com/album/3bLkZuCcgJ2YzaUGwMXMbg) | 3:11 | 2025-05-22 | 2025-06-04 |
 | [La ghigliottina](https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [La ghigliottina](https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at) | 3:42 | 2024-09-19 | 2024-10-18 |
 | [LA MIA STORIA TRA LE DITA](https://open.spotify.com/track/31eAijCejvmhSeou6L40Su) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [LA MIA STORIA TRA LE DITA / All Versions](https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN) | 5:15 | 2025-09-11 | 2025-10-17 |
@@ -389,7 +390,8 @@
 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 | 2024-07-01 | 2024-07-19 |
 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 | 2024-10-03 | 2025-02-04 |
 | [TAKI](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TAKI](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 | 2025-05-22 | 2025-08-29 |
-| [TELEPATICAMENTE](https://open.spotify.com/track/2mIUdUGgBX58poEIN8lrJr) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/2N8g6dAH7YvaEaMKWfbEdF) | 2:45 | 2025-10-30 |  |
+| [TELEPATICAMENTE](https://open.spotify.com/track/2mIUdUGgBX58poEIN8lrJr) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/2N8g6dAH7YvaEaMKWfbEdF) | 2:45 | 2025-10-30 | 2025-11-11 |
+| [TELEPATICAMENTE](https://open.spotify.com/track/33rr9A7hPaptunOGHdbicj) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/4NU5YOkmMzAwPkYFGasK7A) | 2:45 | 2025-11-10 |  |
 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 | 2025-02-20 | 2025-03-28 |
 | [Ti Fidavi \(feat\. Capo Plaza\)](https://open.spotify.com/track/4FdRVbXlQTdmfDCQPNZYVp) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [rosa dei venti](https://open.spotify.com/album/1hrC8WmoDqNoIm9wY7vTYj) | 2:11 | 2025-03-20 | 2025-05-23 |
 | [Ti manca l’aria](https://open.spotify.com/track/2x1AF8mR82VKEci1bSZ5gI) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Ti manca l’aria](https://open.spotify.com/album/56b0zsCOziJ9ujXcqs93Jy) | 3:12 | 2025-04-03 | 2025-10-25 |

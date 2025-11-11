@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 49376,
+  "num_followers": 49384,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 162581,
       "name": "Vampiro Sabanero",
       "url": "https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Yo Bailo Sola",
         "url": "https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 317375,
       "name": "Yo Bailo Sola",
       "url": "https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Yellow Laces - Another Life",
-        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 197645,
-      "name": "Yellow Laces",
-      "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Onda tropical (Cumbia Version)",
         "url": "https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204000,
       "name": "Onda tropical - Cumbia Version",
       "url": "https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Yellow Laces - Another Life",
+        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 197645,
+      "name": "Yellow Laces",
+      "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Dos Santos",
-        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Legado: Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 156366,
       "name": "El Pinochito Saltarin",
       "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Dos Santos",
+        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia del Metr\u00f3nomo",
-        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
+        "name": "Dale Mel\u00f3n",
+        "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
       },
       "artists": [
         {
-          "name": "Las Muiscas",
-          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Cumbia del Metr\u00f3nomo",
-      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
+      "duration_ms": 260678,
+      "name": "Dale Mel\u00f3n",
+      "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Dale Mel\u00f3n",
-        "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
+        "name": "Cumbia del Metr\u00f3nomo",
+        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
       },
       "artists": [
         {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+          "name": "Las Muiscas",
+          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
         }
       ],
-      "duration_ms": 260678,
-      "name": "Dale Mel\u00f3n",
-      "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
+      "duration_ms": 304000,
+      "name": "Cumbia del Metr\u00f3nomo",
+      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia Espectro",
-        "url": "https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Cumbia Espectro",
-      "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Para todo mal",
         "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 240871,
       "name": "Para todo mal",
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cumbia Espectro",
+        "url": "https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Cumbia Espectro",
+      "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Churro Vs. Crow",
-        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "Churro Vs. Crow",
-      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Dios",
         "url": "https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Churro Vs. Crow",
+        "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Churro Vs. Crow",
+      "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
         "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 216826,
       "name": "Lamento en la Selva - Remix",
       "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Que Tumba",
+        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Que Tumba",
+      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Que Tumba",
-        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Que Tumba",
-      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 198469,
       "name": "Por Ah\u00ed",
       "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Chica Psy",
-        "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
       },
       "artists": [
         {
-          "name": "Cadereira",
-          "url": "https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO"
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
         }
       ],
-      "duration_ms": 202302,
-      "name": "Chica Psy",
-      "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1471,22 +1455,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Luna Villera",
-        "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
+        "name": "Chica Psy",
+        "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Cadereira",
+          "url": "https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO"
         }
       ],
-      "duration_ms": 237524,
-      "name": "Luna Villera",
-      "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
+      "duration_ms": 202302,
+      "name": "Chica Psy",
+      "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1507,22 +1487,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Con Otros Ojos",
-        "url": "https://open.spotify.com/album/6Kh8aI3eYi6mqHdVg4HXf7"
+        "name": "Luna Villera",
+        "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
       },
       "artists": [
         {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
         },
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 220382,
-      "name": "Con Otros Ojos",
-      "url": "https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5"
+      "duration_ms": 237524,
+      "name": "Luna Villera",
+      "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1547,18 +1527,38 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+        "name": "Con Otros Ojos",
+        "url": "https://open.spotify.com/album/6Kh8aI3eYi6mqHdVg4HXf7"
       },
       "artists": [
         {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+      "duration_ms": 220382,
+      "name": "Con Otros Ojos",
+      "url": "https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Capricornio: Ven a mi amor",
+        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+      },
+      "artists": [
+        {
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Capricornio: Ven a mi amor",
+      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1583,34 +1583,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Capricornio: Ven a mi amor",
-        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
       },
       "artists": [
         {
-          "name": "Sonido Desconocido 2",
-          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Capricornio: Ven a mi amor",
-      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1627,6 +1611,22 @@
       "duration_ms": 234231,
       "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
       "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Amaru Tribe",
-        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
-      },
-      "artists": [
-        {
-          "name": "Amaru Tribe",
-          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
-        }
-      ],
-      "duration_ms": 401937,
-      "name": "Cumbia Ocea\u00cc\u0081nica",
-      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Porrov\u00eda",
         "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 207000,
       "name": "Porrov\u00eda",
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Amaru Tribe",
+        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
+      },
+      "artists": [
+        {
+          "name": "Amaru Tribe",
+          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
+        }
+      ],
+      "duration_ms": 401937,
+      "name": "Cumbia Ocea\u00cc\u0081nica",
+      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
     },
     {
       "added_at": "2025-05-19 17:05:09",

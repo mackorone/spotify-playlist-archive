@@ -4,7 +4,7 @@
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-114 songs - 8 hr 8 min
+116 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Asbesto](https://open.spotify.com/track/3xwKqqLDlLdyDS1GO5ofgL) | [Dark Tempest](https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE) | [Asbesto](https://open.spotify.com/album/0abRMS7VjgDDOuhdVxOs9A) | 2:57 | 2023-09-15 |  |
 | [Ashes](https://open.spotify.com/track/1yav5A5ABFQ9ywEyvnLyB8) | [L\-Wiz](https://open.spotify.com/artist/0nGg1te3vliCXlKbYHLF9B) | [The Orange Tree](https://open.spotify.com/album/774FnnGNgn7cC9eweO8oLw) | 3:41 | 2022-12-08 |  |
 | [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 | 2024-03-27 |  |
+| [Azitro](https://open.spotify.com/track/6KYU9od314qQakIhXLToXh) | [Syglit](https://open.spotify.com/artist/5V1mjqgy5lgF6OBfImOhja), [Shenji](https://open.spotify.com/artist/3Y67P0ohMVPs3klMIzEiol) | [SEO Friendly Name](https://open.spotify.com/album/7nLFQ8XPzSKs43M0U5h4hy) | 5:48 | 2025-11-10 |  |
 | [Background Check](https://open.spotify.com/track/3darGlrXU4wwSsbHYZODsB) | [0079](https://open.spotify.com/artist/00K5zIIE3FS8YDdZoOntsY) | [Background Check](https://open.spotify.com/album/6ljKLZKOb81aAd241ikUEe) | 4:22 | 2023-09-28 | 2025-07-29 |
 | [Bad Boi](https://open.spotify.com/track/5NtihQEpwnrUvSBaA2tJEa) | [Ganyaman](https://open.spotify.com/artist/67ay2OgHoJ9fy8wo5eD20c) | [Bad Boi](https://open.spotify.com/album/3rocuCUfEp8otpdwkfwF4S) | 2:17 | 2024-05-07 |  |
 | [Beauty Beyond A Web Of Confusion](https://open.spotify.com/track/6vBFjWQiTOY1TAdVq6xSzA) | [Thought Process](https://open.spotify.com/artist/3proICVogPsl2OeB7S2ZUC) | [all:Lo compilation vol:1](https://open.spotify.com/album/6e9JKZFv7kj0WJy0Lb4p0l) | 3:00 | 2022-11-30 |  |
@@ -27,7 +28,8 @@
 | [Cracks](https://open.spotify.com/track/7x5wz6mUoNVMUqXJHRYtiN) | [Dark Tempest](https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE) | [Cracks](https://open.spotify.com/album/7zmaglQ71xvOxs8FRWHr0E) | 3:28 | 2023-08-25 |  |
 | [Cryptic](https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi) | [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Congi Selection](https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n) | 5:52 | 2023-06-08 |  |
 | [Cursed Zoo](https://open.spotify.com/track/0eCYDg7VkmlyQSywoU6P4x) | [No Man In Sight](https://open.spotify.com/artist/2KhyX2WaqJ4hsyymTFKbcL) | [Cursed Zoo](https://open.spotify.com/album/67V08qIndl5PXTLWV2zeRB) | 2:40 | 2024-05-07 |  |
-| [Deliverance](https://open.spotify.com/track/6OFgrj8vpbvGpGWa6IDpv2) | [Bukkha](https://open.spotify.com/artist/7ADHSBDZKBUoay9s2qXfBA) | [IMRV037](https://open.spotify.com/album/7CmJOJ1mzqgUkfQkvh35RR) | 4:39 | 2023-09-28 |  |
+| [Dark & Heavy \- Dub Mix](https://open.spotify.com/track/1SFr0NDVFdXzkoazpv60AM) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Rider Shafique](https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq) | [Dark & Heavy](https://open.spotify.com/album/7M6OJYgpaMFubuXOeESdZR) | 5:24 | 2025-11-10 |  |
+| [Deliverance](https://open.spotify.com/track/6OFgrj8vpbvGpGWa6IDpv2) | [Bukkha](https://open.spotify.com/artist/7ADHSBDZKBUoay9s2qXfBA) | [IMRV037](https://open.spotify.com/album/7CmJOJ1mzqgUkfQkvh35RR) | 4:39 | 2023-09-28 | 2025-11-11 |
 | [Departure](https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Captivate](https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo) | [Fade Into Dust / Departure](https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8) | 4:36 | 2023-06-08 | 2023-08-12 |
 | [Desert Land](https://open.spotify.com/track/1LKG343Y1MEC2v594oQGgc) | [Duriel](https://open.spotify.com/artist/2iJiFr5Y6LJ6neuEyOha1M) | [Desert Land](https://open.spotify.com/album/7hoVqpHYZXnbv3zf1Mzol8) | 2:33 | 2024-01-10 |  |
 | [Do It Jah](https://open.spotify.com/track/46SQW0OrXmXaO41Aa3LcCz) | [Tubby Isiah](https://open.spotify.com/artist/26Tc8d2xASJ8okDwxRFNzu) | [Rising High LP](https://open.spotify.com/album/0vPyyzADg89DBctsSGHh09) | 3:41 | 2022-11-30 |  |
@@ -84,7 +86,7 @@
 | [Pedra](https://open.spotify.com/track/58y8HE4cDwELFOZCwNM3kj) | [WDDS](https://open.spotify.com/artist/7qihZwyPmlxAwAp7SrcRAm) | [Pedra](https://open.spotify.com/album/3N47W2CRnLrHgrPxt2Xo51) | 6:00 | 2023-05-24 |  |
 | [Phoam](https://open.spotify.com/track/5nSjgKq5pZvTSLGlMtjDBv) | [Jafu](https://open.spotify.com/artist/1SJSnoggDVPSbOqpIn2yAg) | [Deep Heads, Vol\. 11](https://open.spotify.com/album/4iKGddxjeHkOttjRjfo2yb) | 4:09 | 2022-11-30 |  |
 | [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 | 2024-03-27 |  |
-| [Pon na' Dub](https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN) | [Elefant Doc](https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP) | [Pressed Records \- Dub Compilation EP Vol 1](https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn) | 4:51 | 2022-11-30 |  |
+| [Pon na' Dub](https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN) | [Elefant Doc](https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP) | [Pressed Records \- Dub Compilation EP Vol 1](https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn) | 4:51 | 2022-11-30 | 2025-11-11 |
 | [Propaganda](https://open.spotify.com/track/5FMmxM4xiDCQ5nfcvYdSuY) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Sabab](https://open.spotify.com/artist/2F5eYjt1JbzHU3goBgDRV4) | [Propaganda](https://open.spotify.com/album/5llVlsG7rECWsWnSTut8XZ) | 4:17 | 2022-12-08 |  |
 | [Qawwali](https://open.spotify.com/track/1Mjh2PRRpbUEhQhei6GkcH) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [10 Tons Heavy](https://open.spotify.com/album/2KijsPxVLWeObtHjipd80R) | 5:19 | 2022-11-30 | 2024-04-19 |
 | [Qawwali](https://open.spotify.com/track/5TyinkpuFzpSNDAJRYpNay) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [10 Tons Heavy](https://open.spotify.com/album/4c8z8N2B9MCE90BR3fH9sf) | 5:19 | 2022-11-30 |  |

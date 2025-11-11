@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hottest 50 tracks in Algeria. Cover: GIMS",
-  "name": "Hot Hits Algeria",
+  "description": "Les hits du moment en Alg\u00e9rie.",
+  "name": "Hot Hit Algeria",
   "tracks": [
     {
       "album": {
@@ -4102,6 +4102,28 @@
       "duration_ms": 190099,
       "name": "Prblms",
       "url": "https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging"
+    },
+    {
+      "album": {
+        "name": "Qololo",
+        "url": "https://open.spotify.com/album/5fm5FsSPsB0G5VwxYV6TGJ"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Mc Artisan",
+          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Qololo",
+      "url": "https://open.spotify.com/track/5F7BK2CwSasvKaxD3278W0"
     },
     {
       "album": {

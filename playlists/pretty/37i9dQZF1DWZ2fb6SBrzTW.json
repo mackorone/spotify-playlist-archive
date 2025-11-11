@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 81988,
+  "num_followers": 82012,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2025-10-10 01:19:53",
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "added_at": "2025-10-10 01:19:53",
+      "album": {
         "name": "HAUSAPIANO (Remix)",
         "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 137844,
       "name": "HAUSAPIANO - Remix",
       "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
-    },
-    {
-      "added_at": "2025-10-10 01:19:53",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
       "added_at": "2025-10-10 01:19:53",
@@ -535,34 +535,6 @@
     {
       "added_at": "2025-10-10 01:19:53",
       "album": {
-        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
-        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        }
-      ],
-      "duration_ms": 217718,
-      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
-      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
-    },
-    {
-      "added_at": "2025-10-10 01:19:53",
-      "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
@@ -619,6 +591,34 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
+    },
+    {
+      "added_at": "2025-10-10 01:19:53",
+      "album": {
+        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
+        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        }
+      ],
+      "duration_ms": 217718,
+      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
+      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
     },
     {
       "added_at": "2025-10-10 01:19:53",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-10-10 01:19:53",
       "album": {
+        "name": "Otilo (Izz Gone)",
+        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Otilo (Izz Gone)",
+      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
+    },
+    {
+      "added_at": "2025-10-10 01:19:53",
+      "album": {
         "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
-    },
-    {
-      "added_at": "2025-10-10 01:19:53",
-      "album": {
-        "name": "Otilo (Izz Gone)",
-        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Otilo (Izz Gone)",
-      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     },
     {
       "added_at": "2025-10-10 01:19:53",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-10-10 01:19:53",
       "album": {
+        "name": "Orobo",
+        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 133285,
+      "name": "Orobo",
+      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
+    },
+    {
+      "added_at": "2025-10-10 01:19:53",
+      "album": {
         "name": "Viva Lavida",
         "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 168103,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2025-10-10 01:19:53",
-      "album": {
-        "name": "Orobo",
-        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "Orobo",
-      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
     },
     {
       "added_at": "2025-10-10 01:19:53",

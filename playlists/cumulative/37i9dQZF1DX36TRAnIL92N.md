@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-283 songs - 23 hr 28 min
+284 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Dark Market \- Original Mix](https://open.spotify.com/track/3VeVNC1XuZrReIJymrbAU6) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Dark Market](https://open.spotify.com/album/0pb8z2YTrIML56C2nzDlng) | 7:12 | 2022-07-05 | 2022-07-27 |
 | [Dark Room](https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Dark Room](https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi) | 4:03 | 2024-03-20 | 2024-06-29 |
 | [Dark Sun](https://open.spotify.com/track/1N3ZXedV7bYmNLnZ5toPaS) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX) | [Dark Sun](https://open.spotify.com/album/01u976hEIH1nzhd386t1hO) | 6:46 | 2022-09-09 | 2022-10-01 |
-| [Darkness](https://open.spotify.com/track/78CcHDIIw093COMGylrkXj) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Darkness](https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g) | 3:42 | 2025-07-18 |  |
+| [Darkness](https://open.spotify.com/track/78CcHDIIw093COMGylrkXj) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Darkness](https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g) | 3:42 | 2025-07-18 | 2025-11-11 |
 | [Darkness Falls](https://open.spotify.com/track/3ba0mZUI7Hg1B7G2qUy9eJ) | [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo), [Markus Weigelt](https://open.spotify.com/artist/2rMiCAbbUX2ywySQCSZRbI) | [Darkness Falls](https://open.spotify.com/album/0jKYzvWcpUZErGjZCcQPHL) | 6:29 | 2022-07-05 | 2022-07-27 |
 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 | 2023-06-02 | 2024-04-13 |
 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 | 2022-08-26 | 2023-07-02 |
@@ -107,6 +107,7 @@
 | [Hercules](https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Hercules](https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV) | 6:32 | 2022-07-05 | 2023-10-09 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-25 |  |
 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 | 2025-05-14 |  |
+| [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 | 2025-11-07 |  |
 | [How It Makes You Feel](https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [How It Makes You Feel](https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM) | 8:46 | 2022-07-05 | 2022-08-08 |
 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 | 2024-06-21 | 2025-04-26 |
 | [Human Race](https://open.spotify.com/track/06qNp9ttPgJB6PH7wbBZ73) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX), [Maurice Mino](https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB) | [Human Race](https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD) | 6:09 | 2022-10-01 | 2022-10-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Lokah
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,802 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,253 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Mada Trance](https://open.spotify.com/track/7vdBLnzBdestP0UMaGTjP9) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Fathima Jahaan](https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6), [Sarah Rose Joseph](https://open.spotify.com/artist/3nk99ryTzWBnm6mD3cHqmG) | [Mada Trance](https://open.spotify.com/album/6XdYhfN9MzeybUMKhASWGR) | 3:48 |
 | 50 | [Kuthanthram](https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Manjummel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML) | 4:00 |
 
-Snapshot ID: `AAAAAKXgw7tMs3PcuIvWjGBWMJ72AGlx`
+Snapshot ID: `AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT`

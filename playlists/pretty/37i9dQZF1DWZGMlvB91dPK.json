@@ -196,7 +196,7 @@
           "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
         }
       ],
-      "duration_ms": 277106,
+      "duration_ms": 278120,
       "name": "West",
       "url": "https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX"
     },
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "M'enfer",
+      "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "Disquette #1 Roots",
         "url": "https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Bienvenue Au Pays",
-        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
-      },
-      "artists": [
-        {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "M'enfer",
-      "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Angoisse",
         "url": "https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 222094,
       "name": "Angoisse",
       "url": "https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ"
+    },
+    {
+      "added_at": "2024-01-15 17:31:32",
+      "album": {
+        "name": "528Hz",
+        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "Don't Waste My Time",
+      "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -393,20 +409,20 @@
       "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
-      "added_at": "2024-01-15 17:31:32",
+      "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "528Hz",
-        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
       },
       "artists": [
         {
-          "name": "\u00c9NA\u00c9",
-          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
         }
       ],
-      "duration_ms": 165833,
-      "name": "Don't Waste My Time",
-      "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
+      "duration_ms": 196746,
+      "name": "Alex",
+      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -431,22 +447,6 @@
       "duration_ms": 143281,
       "name": "Massage Gun",
       "url": "https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Bienvenue Au Pays",
-        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
-      },
-      "artists": [
-        {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Alex",
-      "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -524,7 +524,7 @@
           "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
         }
       ],
-      "duration_ms": 267293,
+      "duration_ms": 268786,
       "name": "Noise",
       "url": "https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5"
     },

@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -7202,7 +7202,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 193440,
       "name": "Da Si Plashtal",
       "url": "https://open.spotify.com/track/1u8eHkUmd6VCRTVZQ7JKX1"
@@ -7238,7 +7238,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "Dai Mi Vsichko",
       "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
@@ -8510,7 +8510,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 151111,
       "name": "Discoteka",
       "url": "https://open.spotify.com/track/5NsyTXFybW50VUJGiH3vYG"
@@ -16244,7 +16244,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 207760,
       "name": "Imame li vrazka",
       "url": "https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD"
@@ -17534,7 +17534,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 245840,
       "name": "Kato Tebe Vtori Nyama",
       "url": "https://open.spotify.com/track/3LzpgBBMv6aFmUYu7dfdhg"
@@ -21104,7 +21104,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 198000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
@@ -21376,7 +21376,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 206917,
       "name": "Ministarat Na Veselieto",
       "url": "https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo"
@@ -22856,6 +22856,24 @@
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "album": {
+        "name": "Na tebe ne otkazvam",
+        "url": "https://open.spotify.com/album/1VOE6RJfjJI0zdIIXQmOec"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Na tebe ne otkazvam",
+      "url": "https://open.spotify.com/track/64L5XOgEqF75OFgMTutdyQ"
     },
     {
       "album": {
@@ -32466,7 +32484,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 185379,
       "name": "S\u2018Agapao",
       "url": "https://open.spotify.com/track/78STrusGDYuWx92lZW4yHi"
@@ -39982,7 +40000,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 168750,
       "name": "\u0414\u0430\u043b\u0435 \u0434\u0430\u043b\u0435",
       "url": "https://open.spotify.com/track/0n0EI2pBX3dtF6MICMM6TC"
@@ -43738,7 +43756,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 201351,
       "name": "\u041f\u043e\u0440\u0435\u0434\u043d\u0430\u0442\u0430 \u0446\u0438\u0433\u0430\u0440\u0430",
       "url": "https://open.spotify.com/track/3zF91nuE7bEP6POLHdYF3k"

@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: thatboykwame
 
-704 songs - 1 day 10 hr 13 min
+705 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [For You \(feat\. TaTa\)](https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [For You \(feat\. TaTa\)](https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6) | 1:59 | 2023-09-22 | 2023-09-29 |
 | [Forever G's](https://open.spotify.com/track/2ljjHs5pt6XVzhHaFoBAPH) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Forever G's](https://open.spotify.com/album/4hJr5d86Uqdg6MgAIettq5) | 3:19 | 2025-05-22 | 2025-09-26 |
 | [FRANCE](https://open.spotify.com/track/4rqOmzys0vD2To6XSz2I22) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [FRANCE](https://open.spotify.com/album/0SixzSORHukZctQXQ3QfHl) | 2:00 | 2024-10-17 | 2024-12-13 |
-| [FREE \(feat\. Vory\)](https://open.spotify.com/track/2ejtHkOYKyi2qE8eGSIfo5) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Red Clay \(Official Motion Picture Soundtrack\)](https://open.spotify.com/album/7AzI6QadypH58VqkyUEEzm) | 3:10 | 2025-08-21 |  |
+| [FREE \(feat\. Vory\)](https://open.spotify.com/track/2ejtHkOYKyi2qE8eGSIfo5) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Red Clay \(Official Motion Picture Soundtrack\)](https://open.spotify.com/album/7AzI6QadypH58VqkyUEEzm) | 3:10 | 2025-08-21 | 2025-11-11 |
 | [Freedom Of Speech](https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Freedom Of Speech](https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8) | 2:49 | 2023-12-19 | 2024-06-01 |
 | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/track/69I5rRxwBNBODyFbTZJBqX) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/album/0S4Q6d6NRA6RubFH05Nz0R) | 3:15 | 2025-04-10 | 2025-05-16 |
 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 | 2024-01-24 | 2024-06-07 |
@@ -542,6 +542,7 @@
 | [Selena](https://open.spotify.com/track/37SR66nUcBynhOqSmZx3Xt) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Selena](https://open.spotify.com/album/5685DJYcwsH01tMwSkxsYh) | 2:11 | 2025-01-09 | 2025-05-23 |
 | [Self\-Inflicted](https://open.spotify.com/track/3nG2tQJ7wFJ72mfrYifTLP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Self\-Inflicted](https://open.spotify.com/album/3tDWZZXcpKIKzX35WsqbVT) | 1:27 | 2025-06-05 | 2025-09-05 |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-05-01 |  |
+| [She Will \(with Day1\)](https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [She Will \(with Day1\)](https://open.spotify.com/album/4s3oBsSVqaIkNLvSrts2Ob) | 3:44 | 2025-11-11 |  |
 | [Shoot It Off](https://open.spotify.com/track/0yfOjGzOXq6N0PzS3J2YwD) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Shoot It Off](https://open.spotify.com/album/3dTBL1AUSSGAA9r73yf9Oy) | 2:08 | 2025-09-11 |  |
 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 | 2023-12-07 | 2024-03-01 |
 | [Show of Hands](https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:33 | 2024-04-12 | 2024-05-03 |

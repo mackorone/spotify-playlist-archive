@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,570 songs - 4 day 10 hr 7 min
+1,571 songs - 4 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -954,6 +954,7 @@
 | [N.Y.C.A.W\. \- "the lonely summer" mix by JDBRADFIELD](https://open.spotify.com/track/3rZI3Y7DQZwxYvdf7NSeHN) | [Gwenno](https://open.spotify.com/artist/44mRrrRjaV8iu1VLIKuwty), [James Dean Bradfield](https://open.spotify.com/artist/1arQYOWtxuQW27WR299gT3) | [N.Y.C.A.W\. \(the lonely summer mix by JDBRADFIELD\)](https://open.spotify.com/album/5khMcLhY8wg5Jozv5fXfC5) | 3:58 | 2022-09-28 | 2022-10-27 |
 | [Namopi](https://open.spotify.com/track/4DjlcHfLa9dq7tptq2kq9Z) | [merope](https://open.spotify.com/artist/57w65jYxX2Oyq1kMqSNPOL), [Bert Cools](https://open.spotify.com/artist/508Hx1Z1U3Y5v7wNUZ7lWe), [Indrė Jurgelevičiūtė](https://open.spotify.com/artist/4ueTPIC5hiz2ZENZXVy8Nz), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Vėjula](https://open.spotify.com/album/2LKw7LkkG093P5AapPKSEj) | 5:28 | 2024-12-11 | 2025-02-13 |
 | [Narcissist](https://open.spotify.com/track/1hBBnrAp6AcjSJteObP0dE) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Narcissist](https://open.spotify.com/album/3U6bENZLazbC3OBqtUfdri) | 3:57 | 2025-02-05 | 2025-02-27 |
+| [Narrow View](https://open.spotify.com/track/46yDCfLxon683Ln6W44UXo) | [Jaime Rosso](https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ) | [Away](https://open.spotify.com/album/3t4OfWaZxVoVB2cDUhNJ0U) | 4:34 | 2025-11-10 |  |
 | [Nation Shall Speak Unto Nation](https://open.spotify.com/track/7FusyvtvBVLXRlvgWBl4CE) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Nation Shall Speak Unto Nation](https://open.spotify.com/album/2N1pnqJwLvRNjyer5OJv7G) | 3:17 | 2025-03-19 | 2025-05-01 |
 | [Nattens Sista Strimma Ljus](https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Nattens Sista Strimma Ljus](https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5) | 4:28 | 2022-07-06 | 2022-08-18 |
 | [Natural One](https://open.spotify.com/track/4GJqOznH6ocrP5j2kI0PrU) | [Folk Implosion](https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU) | [Natural One](https://open.spotify.com/album/6FYBYfXfovEfEdmqH0vk1F) | 3:09 | 2023-06-28 | 2023-08-03 |

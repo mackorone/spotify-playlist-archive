@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 85371,
+  "num_followers": 85385,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAACQO6K9i0RAUfEO7wknVJsd",
+  "snapshot_id": "aQ/ZgAAAAAC52Kjk3m8eX7kcDCFTH3I3",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Ya que voy a estar sin ti",
-      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones II",
         "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 218840,
       "name": "Frente a Frente",
       "url": "https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Ya que voy a estar sin ti",
+      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pasiones de Cabaret",
-        "url": "https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 238030,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Amor y Sentimiento",
         "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 218920,
       "name": "El primero, el \u00fanico, el \u00faltimo",
       "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pasiones de Cabaret",
+        "url": "https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 238030,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY"
     },
     {
       "added_at": null,

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSWyJydK4fTU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSWyJydK4fTU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWyJydK4fTU)
 
-### [Top of the Morning](https://open.spotify.com/playlist/37i9dQZF1DWSWyJydK4fTU)
+### [morning glow](https://open.spotify.com/playlist/37i9dQZF1DWSWyJydK4fTU)
 
-> Für einen tollen Start in den Tag\. Oder einfach so.
+> für deinen soft morning \- oder eine kleine Auszeit zwischendurch.
 
 268 songs - 13 hr 37 min
 

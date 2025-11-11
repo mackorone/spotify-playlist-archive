@@ -679,6 +679,22 @@
     {
       "added_at": "2025-10-12 00:00:28",
       "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "added_at": "2025-10-12 00:00:28",
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 293428,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
-    },
-    {
-      "added_at": "2025-10-12 00:00:28",
-      "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2025-10-12 00:00:28",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-10-12 00:00:28",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 254176,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9"
-    },
-    {
-      "added_at": "2025-10-12 00:00:28",
-      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 240920,
       "name": "Searching",
       "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
+    },
+    {
+      "added_at": "2025-10-12 00:00:28",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 254176,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9"
     },
     {
       "added_at": "2025-10-12 00:00:28",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-10-12 00:00:28",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
-    },
-    {
-      "added_at": "2025-10-12 00:00:28",
-      "album": {
         "name": "I Get The Sweetest Feeling",
         "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2025-10-12 00:00:28",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2025-10-12 00:00:28",
@@ -951,26 +951,6 @@
     {
       "added_at": "2025-10-12 00:00:28",
       "album": {
-        "name": "Why Not More? (MORE!)",
-        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 192852,
-      "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
-      "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
-    },
-    {
-      "added_at": "2025-10-12 00:00:28",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
+    },
+    {
+      "added_at": "2025-10-12 00:00:28",
+      "album": {
+        "name": "Why Not More? (MORE!)",
+        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 192852,
+      "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
+      "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
     },
     {
       "added_at": "2025-10-12 00:00:28",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-10-12 00:00:28",
       "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2025-10-12 00:00:28",
+      "album": {
         "name": "Friends & Family",
         "url": "https://open.spotify.com/album/1nUIe59HS9voX4GS2W77tX"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 218566,
       "name": "ICU (with Justin Timberlake) - Remix",
       "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
-    },
-    {
-      "added_at": "2025-10-12 00:00:28",
-      "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2025-10-12 00:00:28",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-10-12 00:00:28",
       "album": {
-        "name": "HDYK",
-        "url": "https://open.spotify.com/album/5lAWjLJ5Lp1jNc3UXWKFPD"
-      },
-      "artists": [
-        {
-          "name": "FACESOUL",
-          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "HDYK",
-      "url": "https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s"
-    },
-    {
-      "added_at": "2025-10-12 00:00:28",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/7Gz1S0Pnz6FrH80PZNWpoI"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 228366,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/51YSHFD4wFUjUkafKlPuuV"
+    },
+    {
+      "added_at": "2025-10-12 00:00:28",
+      "album": {
+        "name": "HDYK",
+        "url": "https://open.spotify.com/album/5lAWjLJ5Lp1jNc3UXWKFPD"
+      },
+      "artists": [
+        {
+          "name": "FACESOUL",
+          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "HDYK",
+      "url": "https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s"
     },
     {
       "added_at": "2025-10-12 00:00:28",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-10-12 00:00:28",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        },
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 214254,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg"
-    },
-    {
-      "added_at": "2025-10-12 00:00:28",
-      "album": {
         "name": "Renascence",
         "url": "https://open.spotify.com/album/0jHsTZnD9lsOWvZBkVtNDY"
       },
@@ -1371,6 +1351,22 @@
       "duration_ms": 291664,
       "name": "Coltrane",
       "url": "https://open.spotify.com/track/5bkI4gJhfKheZ5WwgjvN5c"
+    },
+    {
+      "added_at": "2025-10-12 00:00:28",
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     }
   ],
   "unique_name": "Sweet Soul Sunday",

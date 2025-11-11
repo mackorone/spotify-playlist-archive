@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159252,
+  "num_followers": 159254,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -55,34 +55,6 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Madrugada \u00e9 Solid\u00e3o",
-      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
         "name": "Me Pede",
         "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
       },
@@ -107,6 +79,34 @@
       "duration_ms": 156090,
       "name": "Me Pede",
       "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Madrugada \u00e9 Solid\u00e3o",
+      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -223,30 +223,6 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
       },
@@ -271,6 +247,30 @@
       "duration_ms": 144682,
       "name": "At\u00e9 o Final",
       "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
         "name": "Modo Foco (Studio Rec #4)",
         "url": "https://open.spotify.com/album/7EeTxr7ArueH6YrQsbG9xw"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 179495,
       "name": "Modo Foco (Studio Rec #4)",
       "url": "https://open.spotify.com/track/1HtbqR0nEMB2tHvGweP8Nl"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -799,6 +799,26 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
         "name": "Modo Avi\u00e3o",
         "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -915,6 +915,30 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
-        "name": "Ato 3: TODAMANH\u00c3",
-        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "N\u00e3o Quero Mais Nada",
-        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
-      },
-      "artists": [
-        {
-          "name": "S7lermo",
-          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
-        },
-        {
-          "name": "L\u00edvia Neves",
-          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
-        }
-      ],
-      "duration_ms": 213587,
-      "name": "N\u00e3o Quero Mais Nada",
-      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
         "name": "Jam #2",
         "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 214509,
       "name": "Jam #02 - Tudo do Melhor/Prosperidade",
       "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
+        "name": "N\u00e3o Quero Mais Nada",
+        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "L\u00edvia Neves",
+          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "N\u00e3o Quero Mais Nada",
+      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2025-10-24 18:44:56",
+      "album": {
         "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
         "url": "https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
-    },
-    {
-      "added_at": "2025-10-24 18:44:56",
-      "album": {
         "name": "Mist\u00e9rio",
         "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
+        "name": "Sem Modera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0yYitJaSJ1B1M4F6BxOzbZ"
       },
       "artists": [
         {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        },
-        {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+          "name": "Meia1",
+          "url": "https://open.spotify.com/artist/74GqSjWiHrUEYWkBhUdaiK"
         }
       ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+      "duration_ms": 133124,
+      "name": "Sem Modera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1BkZMa8sgeJVQcSK3fDkVO"
     },
     {
       "added_at": "2025-10-24 18:44:56",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2025-10-24 18:44:56",
       "album": {
-        "name": "Sem Modera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0yYitJaSJ1B1M4F6BxOzbZ"
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
       "artists": [
         {
-          "name": "Meia1",
-          "url": "https://open.spotify.com/artist/74GqSjWiHrUEYWkBhUdaiK"
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        },
+        {
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
         }
       ],
-      "duration_ms": 133124,
-      "name": "Sem Modera\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1BkZMa8sgeJVQcSK3fDkVO"
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     }
   ],
   "unique_name": "Resenha na Praia",

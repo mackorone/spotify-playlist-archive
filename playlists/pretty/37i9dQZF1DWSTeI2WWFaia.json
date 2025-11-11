@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1578005,
+  "num_followers": 1577942,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-11-07 05:11:49",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 236759,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
+    },
+    {
+      "added_at": "2025-11-07 05:11:49",
+      "album": {
         "name": "Business Merger",
         "url": "https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 217947,
       "name": "Business Merger",
       "url": "https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8"
-    },
-    {
-      "added_at": "2025-11-07 05:11:49",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 236759,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
     },
     {
       "added_at": "2025-11-07 05:11:49",
@@ -743,30 +743,6 @@
     {
       "added_at": "2025-11-07 05:11:49",
       "album": {
-        "name": "GOLDFISH",
-        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "Mick & Cooley (feat. Conway The Machine)",
-      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
-    },
-    {
-      "added_at": "2025-11-07 05:11:49",
-      "album": {
         "name": "Super Nintendo",
         "url": "https://open.spotify.com/album/2c6MHhmMRcERljTRj1rUuG"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 161927,
       "name": "Super Nintendo",
       "url": "https://open.spotify.com/track/4Gjn7HN8TCr8p3g6YAemiO"
+    },
+    {
+      "added_at": "2025-11-07 05:11:49",
+      "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "Mick & Cooley (feat. Conway The Machine)",
+      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
     },
     {
       "added_at": "2025-11-07 05:11:49",
@@ -867,28 +867,8 @@
     {
       "added_at": "2025-11-07 05:11:49",
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        },
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 193883,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
-    },
-    {
-      "added_at": "2025-11-07 05:11:49",
-      "album": {
-        "name": "Calypso Gene (feat. Silka & Cleo Reed)",
-        "url": "https://open.spotify.com/album/3JCf4qFpLr1KoNdFRIIIRx"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi"
       },
       "artists": [
         {
@@ -906,19 +886,31 @@
         {
           "name": "E L U C I D",
           "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
-        },
-        {
-          "name": "Silka",
-          "url": "https://open.spotify.com/artist/6aPchfng6G3oGVrjig4pDp"
-        },
-        {
-          "name": "Cleo Reed",
-          "url": "https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi"
         }
       ],
-      "duration_ms": 177122,
-      "name": "Calypso Gene (feat. Silka & Cleo Reed)",
-      "url": "https://open.spotify.com/track/5BcOXyysw5W8bUdXQvxdso"
+      "duration_ms": 143458,
+      "name": "Laraaji",
+      "url": "https://open.spotify.com/track/16FAYkEsOXF3RXJWhkSrx0"
+    },
+    {
+      "added_at": "2025-11-07 05:11:49",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 193883,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
     },
     {
       "added_at": "2025-11-07 05:11:49",
@@ -987,22 +979,38 @@
     {
       "added_at": "2025-11-07 05:11:49",
       "album": {
-        "name": "Amazing Graces",
-        "url": "https://open.spotify.com/album/43JRM16cHzdQGBzBa4CdMS"
+        "name": "Calypso Gene (feat. Silka & Cleo Reed)",
+        "url": "https://open.spotify.com/album/3JCf4qFpLr1KoNdFRIIIRx"
       },
       "artists": [
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
         },
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "Silka",
+          "url": "https://open.spotify.com/artist/6aPchfng6G3oGVrjig4pDp"
+        },
+        {
+          "name": "Cleo Reed",
+          "url": "https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi"
         }
       ],
-      "duration_ms": 156027,
-      "name": "Amazing Graces",
-      "url": "https://open.spotify.com/track/2GYwp8YJd4Ofd0o1Hvjhll"
+      "duration_ms": 177122,
+      "name": "Calypso Gene (feat. Silka & Cleo Reed)",
+      "url": "https://open.spotify.com/track/5BcOXyysw5W8bUdXQvxdso"
     },
     {
       "added_at": "2025-11-07 05:11:49",
@@ -1019,6 +1027,26 @@
       "duration_ms": 194489,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
+    },
+    {
+      "added_at": "2025-11-07 05:11:49",
+      "album": {
+        "name": "Amazing Graces",
+        "url": "https://open.spotify.com/album/43JRM16cHzdQGBzBa4CdMS"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "Amazing Graces",
+      "url": "https://open.spotify.com/track/2GYwp8YJd4Ofd0o1Hvjhll"
     },
     {
       "added_at": "2025-11-07 05:11:49",
@@ -1043,22 +1071,6 @@
       "duration_ms": 234128,
       "name": "Paralyzed_BLUE",
       "url": "https://open.spotify.com/track/7FaJOmmlZxfdmuqPqPoOV9"
-    },
-    {
-      "added_at": "2025-11-07 05:11:49",
-      "album": {
-        "name": "W!LD",
-        "url": "https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 121127,
-      "name": "User Guide",
-      "url": "https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq"
     }
   ],
   "unique_name": "Spilled Ink",

@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with Chris Stussy
 
-864 songs - 2 day 14 hr 38 min
+865 songs - 2 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Dangerous](https://open.spotify.com/track/0Dj1blRTLl6v8cJddRpx6M) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL), [Carvalho\(BR\)](https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c) | [Dangerous](https://open.spotify.com/album/2JMA4A9DfW0F9zRxgXuf5T) | 5:38 | 2025-01-31 | 2025-05-17 |
 | [Dangerous \- Bailey Ibbs Remix](https://open.spotify.com/track/4LocLlqHWsmiS9GqaevYF0) | [Michael Dangerous](https://open.spotify.com/artist/4HSRGJTvC1MxEQTVeqTiti), [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Dangerous](https://open.spotify.com/album/5bIb9T2gF7fRJlKjGKj2w5) | 5:31 | 2022-06-17 | 2022-07-23 |
 | [Danse de L'amour](https://open.spotify.com/track/49Foa82Q9yDwD1vzs6vaia) | [Soraya](https://open.spotify.com/artist/3FOgzF7M25ZYbsEb7FpWxR) | [Danse de L'amour](https://open.spotify.com/album/3TggkzuAusUdHQUr9Q4r73) | 3:08 | 2025-08-22 | 2025-11-01 |
+| [DECEIVER](https://open.spotify.com/track/6TG0jFBiEnDlJMb4wbkYD5) | [M3RCH](https://open.spotify.com/artist/6skWnmhNXBlEywqd1PHGC8) | [DECEIVER](https://open.spotify.com/album/2nDEXGi3FyFJzuEXn2JWMV) | 4:55 | 2025-11-11 |  |
 | [Dedication \(feat\. Dub Princess\)](https://open.spotify.com/track/14iVg2g7m1esAQ7qZfexBI) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX), [Isaac Chambers](https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP), [Dub Princess](https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ) | [Dedication \(feat\. Dub Princess\)](https://open.spotify.com/album/00I0M1VEeKh21nHyBrSKBB) | 2:31 | 2025-01-24 | 2025-05-17 |
 | [Delighful Funk \- Edit](https://open.spotify.com/track/6Etd6C7NbfWIivVIbXprzw) | [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Spiritually Tessellate](https://open.spotify.com/album/5ZxjjfaZJf0fW1aOmxtMmp) | 4:30 | 2025-01-17 | 2025-01-25 |
 | [Demon Time](https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Demon Time](https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg) | 3:21 | 2025-01-31 | 2025-05-17 |
@@ -326,7 +327,7 @@
 | [HAVE TO SAY](https://open.spotify.com/track/489FhtqpM5uHbVc1vs4f3X) | [Ryan Resso](https://open.spotify.com/artist/5kgvSiEt7OdyYrM0xLHXO9), [Chopper \(UK\)](https://open.spotify.com/artist/3gjul6vtKTcNHsTwr87dIK) | [GIVE ME PHONK EP](https://open.spotify.com/album/7mA7cakr79gJEpt3oXaid0) | 3:43 | 2024-08-30 | 2024-11-14 |
 | [Heart Of Jazz](https://open.spotify.com/track/1BbKe9iPRe5ZNFKdhzv82N) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Heart Of Jazz](https://open.spotify.com/album/70DEmkfKbQq971gDSdXo3r) | 6:00 | 2022-07-08 | 2022-07-26 |
 | [Heartbreaker \- Original Mix](https://open.spotify.com/track/2bQX4uvdWdEI3leqLNavLp) | [Nacho Scoppa](https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA) | [Deeperfect Summer Stuff](https://open.spotify.com/album/1QoLYjaCi6Yt4TnnDg1jH9) | 3:36 | 2024-11-06 | 2025-05-31 |
-| [HEAT](https://open.spotify.com/track/4tWt2sJ6HsJeM29DaTYFxl) | [House Of Molly](https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh) | [HEAT](https://open.spotify.com/album/3uqSqm590wMSngT2PSYz3T) | 2:15 | 2025-10-03 |  |
+| [HEAT](https://open.spotify.com/track/4tWt2sJ6HsJeM29DaTYFxl) | [House Of Molly](https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh) | [HEAT](https://open.spotify.com/album/3uqSqm590wMSngT2PSYz3T) | 2:15 | 2025-10-03 | 2025-11-11 |
 | [Hey Baby](https://open.spotify.com/track/1tXc3MKP0xGeKCN2RD3ryF) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn), [Mattia Scolaro](https://open.spotify.com/artist/76v943xhTKzJCZuFT4QU1x) | [Hey Baby](https://open.spotify.com/album/4zplw0xNTYIa6AWSNtEmC7) | 3:25 | 2024-11-22 | 2025-06-14 |
 | [High For You](https://open.spotify.com/track/7E2gGp4LHfH99X0LhTnU6j) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [High For You](https://open.spotify.com/album/3fu36fH3ZLGbo6kzSL6VXD) | 3:14 | 2025-09-12 |  |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-20 | 2025-10-04 |

@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ege Balkiz
 
-424 songs - 21 hr 9 min
+425 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Defoluyorum](https://open.spotify.com/track/7EDxgVcaD1RaIygbWlW6or) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Defoluyorum](https://open.spotify.com/album/5dRa7IoW7J5AOlF91Jd1ob) | 2:43 | 2024-08-22 | 2024-09-17 |
 | [Defterli](https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Defterli](https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz) | 3:56 | 2024-06-27 | 2024-11-01 |
 | [Deli Gibi Seviyorum](https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Deli Gibi Seviyorum](https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r) | 2:12 | 2024-10-24 | 2024-12-22 |
-| [Deli Yangınım](https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Deli Yangınım](https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm) | 3:45 | 2024-12-19 |  |
+| [Deli Yangınım](https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Deli Yangınım](https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm) | 3:45 | 2024-12-19 | 2025-11-11 |
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 | 2024-08-05 |
 | [Denizler Derya](https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Denizler Derya](https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX) | 4:10 | 2024-08-08 | 2024-08-23 |
 | [Derbeder](https://open.spotify.com/track/6OATjzm4jOcPr2JaTELCUQ) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Derbeder](https://open.spotify.com/album/2ZDnY4BVepv4dT3AuZmDBk) | 2:23 | 2024-09-05 | 2024-09-13 |
@@ -323,8 +323,9 @@
 | [Sesini Duymadan](https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB) | [Sesini Duymadan](https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN) | 2:53 | 2025-08-15 |  |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 | 2024-08-20 |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 | 2025-10-24 |
-| [Sevda Treni](https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevda Treni](https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4) | 2:32 | 2025-07-17 |  |
+| [Sevda Treni](https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevda Treni](https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4) | 2:32 | 2025-07-17 | 2025-11-11 |
 | [Sevdam](https://open.spotify.com/track/1kxyTI6tIkozvTlLXaa4ER) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Zehra](https://open.spotify.com/artist/2kdaYJfJVIGBaNcMmrg13p) | [Sevdam](https://open.spotify.com/album/1dz1wwRN1kFoxNCimPiDm6) | 3:11 | 2024-06-27 | 2025-02-07 |
+| [Sevilmeye Doy Diye](https://open.spotify.com/track/47gwZxbkrZ4ko9nKheRsTH) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:52 | 2025-11-06 |  |
 | [Seviyore Mi](https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Seviyore Mi](https://open.spotify.com/album/4wZIEKXg8VAFfFtgkH9MOw) | 2:22 | 2024-07-11 | 2024-07-24 |
 | [sevmedin mi?](https://open.spotify.com/track/3kJO0DXiNoKSKmCPLXqGpU) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [sevmedin mi?](https://open.spotify.com/album/1HLm6LRxuUDmDB2tAR90je) | 4:07 | 2024-07-31 | 2024-11-18 |
 | [Sevmek Değil](https://open.spotify.com/track/682SkNDZsp9QvfqK7PM9FQ) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Sevmek Değil](https://open.spotify.com/album/47TmV0OJmizaoPU4Wdobq9) | 3:16 | 2024-07-18 | 2024-09-07 |
@@ -336,7 +337,7 @@
 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 | 2025-05-29 | 2025-10-10 |
 | [Sokağından Geçmezdim](https://open.spotify.com/track/0cfSvO87qn9LtYRpkxSfq4) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sokağından Geçmezdim](https://open.spotify.com/album/4HgYFr8tGOZ2oZ7RGGpJlK) | 3:58 | 2025-07-17 | 2025-10-09 |
 | [Sonbahar](https://open.spotify.com/track/7G2I1NgAdOFGVM2e6x2P15) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Sonbahar](https://open.spotify.com/album/1SBVjvWr5bVfEAokA9TrLs) | 3:55 | 2024-07-25 | 2024-12-04 |
-| [Sonralar Bizim Değil](https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Sonralar Bizim Değil](https://open.spotify.com/album/4urqNeWISQJem6JjSPrD7U) | 3:25 | 2025-07-24 | 2025-10-24 |
+| [Sonralar Bizim Değil](https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Sonralar Bizim Değil](https://open.spotify.com/album/4urqNeWISQJem6JjSPrD7U) | 3:25 | 2025-07-24 |  |
 | [SONUNDA KAYBOLMUŞ](https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 3:19 | 2025-05-22 | 2025-06-06 |
 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 | 2025-09-25 | 2025-10-10 |
 | [Sur](https://open.spotify.com/track/5o8AA7rdZceZFV3hK1s5zT) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Sur](https://open.spotify.com/album/7iepaVJHrulbWXaXnuSxNt) | 3:04 | 2025-02-13 | 2025-02-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118351,
+  "num_followers": 118345,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAD4cv3H73VTZs4OZ37hzEHr",
+  "snapshot_id": "aQ/ZgAAAAADgt+FR6P2P35nC5Honpsvy",
   "tracks": [
     {
       "added_at": null,
@@ -1171,6 +1171,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me D\u00e1 Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Me D\u00e1 Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 159000,
       "name": "Abre O Quarto",
       "url": "https://open.spotify.com/track/4uPDEgzF8xqGS6T1KJ8ohY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me D\u00e1 Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "Me D\u00e1 Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
     },
     {
       "added_at": null,

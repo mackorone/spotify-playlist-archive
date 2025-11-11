@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 114541,
+  "num_followers": 114565,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAACxdOzosuosnvjHuUKJe/Iy",
+  "snapshot_id": "aQ/ZgAAAAACgEhW0mzWEmVnu6QHVZLyE",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Anos",
-        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 284238,
-      "name": "30 Anos",
-      "url": "https://open.spotify.com/track/0hSmN6ZwUx9wU7WBW0QAyz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recordando A El Shaka",
         "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 164106,
       "name": "Las Parcelas de Mendoza",
       "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Anos",
+        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 284238,
+      "name": "30 Anos",
+      "url": "https://open.spotify.com/track/0hSmN6ZwUx9wU7WBW0QAyz"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 15647,
+  "num_followers": 15651,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAABsGr9zC8x8y6SskxkbxxMZ",
+  "snapshot_id": "aQ/ZgAAAAABUoSXU2+gW+rAiwodGSYuO",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oracle",
-        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 332200,
-      "name": "In Winter",
-      "url": "https://open.spotify.com/track/3meQtXNdUBDx2ksYS1mXiV"
+      "duration_ms": 128586,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
     },
     {
       "added_at": null,
@@ -395,38 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 128586,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 204004,
-      "name": "Funeral For Yesterday",
-      "url": "https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oracle",
         "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
       },
@@ -436,41 +404,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 134573,
-      "name": "No Name",
-      "url": "https://open.spotify.com/track/0pYBl7g2AJtXmVPgEk8KiA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 198185,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN"
+      "duration_ms": 332200,
+      "name": "In Winter",
+      "url": "https://open.spotify.com/track/3meQtXNdUBDx2ksYS1mXiV"
     },
     {
       "added_at": null,
@@ -491,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
       "artists": [
         {
@@ -500,9 +436,41 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 131853,
-      "name": "I've Failed You",
-      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
+      "duration_ms": 253400,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 198185,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 134573,
+      "name": "No Name",
+      "url": "https://open.spotify.com/track/0pYBl7g2AJtXmVPgEk8KiA"
     },
     {
       "added_at": null,
@@ -516,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 191024,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec"
+      "duration_ms": 204004,
+      "name": "Funeral For Yesterday",
+      "url": "https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv"
     },
     {
       "added_at": null,
@@ -571,6 +539,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 191024,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 329506,
+      "name": "Look So Pretty",
+      "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "I've Failed You",
+      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brackish (Live)",
         "url": "https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92"
       },
@@ -596,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 329506,
-      "name": "Look So Pretty",
-      "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
+      "duration_ms": 228026,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/35g2e5sApkB9XOocNgdizm"
     },
     {
       "added_at": null,
@@ -631,38 +663,6 @@
       "duration_ms": 194027,
       "name": "Will To Live",
       "url": "https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/35g2e5sApkB9XOocNgdizm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,

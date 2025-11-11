@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from ROSALÍA, Gorillaz, Digga D and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,814 likes - 123 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,752 likes - 123 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -250,10 +250,32 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 244029,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3XoCQ7X59RxqXg3F93DV6T"
+    },
+    {
+      "album": {
+        "name": "Butterfly (feat. Dolly Parton)",
+        "url": "https://open.spotify.com/album/76gBsiqpVZFxfpXkfrm1LQ"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244029,
+      "name": "Butterfly (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/12O9XNeFb0Eu67faSZK3bj"
     },
     {
       "album": {

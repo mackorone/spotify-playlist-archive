@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 548827,
+  "num_followers": 548770,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
-      },
-      "artists": [
-        {
-          "name": "Will Joseph Cook",
-          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "A Boy from Colorado",
         "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 138136,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
+      },
+      "artists": [
+        {
+          "name": "Will Joseph Cook",
+          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Your Power",
-        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "I'm Sure",
-        "url": "https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 321438,
-      "name": "Swing Lynn",
-      "url": "https://open.spotify.com/track/6hIOunhsLUT66KQgZV5dMD"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Morning Blue",
         "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "I'm Sure",
+        "url": "https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 321438,
+      "name": "Swing Lynn",
+      "url": "https://open.spotify.com/track/6hIOunhsLUT66KQgZV5dMD"
     },
     {
       "added_at": "2024-07-11 01:17:45",

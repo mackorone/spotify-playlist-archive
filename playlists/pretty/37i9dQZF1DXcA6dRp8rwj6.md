@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Baby\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,761 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,788 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 15 | [Proceed](https://open.spotify.com/track/0ma5mRIb5TWm0XxArzbpEd) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Proceed](https://open.spotify.com/album/6fD8n0MvgLHCa2w8cMYoyc) | 2:00 |
 | 16 | [Girls Gone Wild](https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Girls Gone Wild](https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF) | 3:27 |
 | 17 | [lone star](https://open.spotify.com/track/3ovwgZbdXzgEs8vCxpdKWC) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Carolyn Malachi](https://open.spotify.com/artist/38UcHZORGYFCCfMD1p4S39) | [lone star](https://open.spotify.com/album/2vJD8rDqB5D7IuGoznq4c4) | 2:56 |
-| 18 | [Pink Slip](https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [Caught Up In The Game : Disc 2](https://open.spotify.com/album/1ELfggHpYAqOnNLttTFBqU) | 4:01 |
+| 18 | [Pink Slip](https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [Caught Up In The Game: Disc 2](https://open.spotify.com/album/1ELfggHpYAqOnNLttTFBqU) | 4:01 |
 | 19 | [Who You Seeing Tonight \(feat\. Don Toliver\)](https://open.spotify.com/track/02hwmwDf2tWe6sM9Ms9Hlr) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 3:49 |
 | 20 | [Mother](https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA +](https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1) | 4:40 |
 | 21 | [KO](https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [KO](https://open.spotify.com/album/3xgTFQpbgsnyHRaL1JXs9F) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Khalil Harrison, LeeMcKrazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,471 likes - 66 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,831 likes - 66 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

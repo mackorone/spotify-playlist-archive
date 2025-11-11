@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-658 songs - 2 day 6 hr 24 min
+659 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [All The Way](https://open.spotify.com/track/5xoTK2L3G7eLbUdHo4TnpU) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8), [Tite Tunez](https://open.spotify.com/artist/4kkaELRqmzjvexnCIKPyBT) | [All The Way](https://open.spotify.com/album/6UkFSOzDVAsJkXjmOG3iwB) | 3:07 | 2025-06-06 | 2025-06-27 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-09-15 | 2024-03-12 |
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 | 2025-06-06 |
-| [All Yours](https://open.spotify.com/track/0yZpq2QPTsVqs6sSbOhtpe) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [All Yours](https://open.spotify.com/album/6xcVt9czkLqIzlEpelhoPv) | 5:09 | 2025-09-12 |  |
+| [All Yours](https://open.spotify.com/track/0yZpq2QPTsVqs6sSbOhtpe) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [All Yours](https://open.spotify.com/album/6xcVt9czkLqIzlEpelhoPv) | 5:09 | 2025-09-12 | 2025-11-11 |
 | [Almighty God](https://open.spotify.com/track/58NEx1sxFYC4wb3Y4LL0oW) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [Almighty God](https://open.spotify.com/album/3I0COoh7CIZsnFvyOuql4j) | 4:40 | 2025-09-26 | 2025-10-28 |
 | [Alpha Omega \(Radio Edit\)](https://open.spotify.com/track/1cjnRNR7aKHrSsVDKFYFnz) | [Helen Yawson](https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0) | [Alpha Omega \(Radio Edit\)](https://open.spotify.com/album/5FqdpJR39kJBWzmPTrIzHD) | 5:24 | 2025-06-13 | 2025-07-17 |
 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 | 2024-01-26 | 2024-07-12 |
@@ -408,6 +408,7 @@
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2023-09-15 | 2024-03-16 |
 | [My Future and Hope](https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:41 | 2024-03-01 | 2025-06-20 |
 | [My God Is Good](https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [My God Is Good](https://open.spotify.com/album/0osF0CnAck1ZFYh9taWJtW) | 9:58 | 2025-08-08 | 2025-10-31 |
+| [My Helper Lives](https://open.spotify.com/track/4letjvenLtMvXJtm1GlPVp) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp) | [Living Waters](https://open.spotify.com/album/63gbFwamxhdqShYTMZ97KI) | 4:53 | 2025-10-31 |  |
 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 | 2024-09-27 | 2024-11-11 |
 | [My Jesus](https://open.spotify.com/track/0R2bqTjc4TVrfHYoNCyvhy) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [My Jesus](https://open.spotify.com/album/16DoeZYOE3g1CSUyFcM0jp) | 4:41 | 2025-06-27 | 2025-07-30 |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-09-15 | 2023-11-28 |

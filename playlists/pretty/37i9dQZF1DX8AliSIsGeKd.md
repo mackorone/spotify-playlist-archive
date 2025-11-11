@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,926 likes - 90 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,039 likes - 90 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 |
-| 2 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
+| 2 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 3 | [Dead Inside](https://open.spotify.com/track/2KrLRrpvywf5KTeP9lDcXY) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Dead Inside](https://open.spotify.com/album/4iB8TLqZyLBeYEx1N3GHW0) | 3:27 |
 | 4 | [Rude Boy](https://open.spotify.com/track/3B5QlLmaWqznmEHnZF63n9) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Rude Boy](https://open.spotify.com/album/792sED43IyBxqL5mF2I044) | 3:56 |
 | 5 | [Control Your Mind](https://open.spotify.com/track/7jmDKUD9sJRzbSetZKl6Km) | [Franco Smith](https://open.spotify.com/artist/2uDxGjpjAlx0drkaBZnHs7) | [Control Your Mind](https://open.spotify.com/album/4ksEpNcSbla5CxoFs6svMr) | 3:42 |

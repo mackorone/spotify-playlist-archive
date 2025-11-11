@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 39542,
+  "num_followers": 39545,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAAD1whTT3e0Sbha4x9k9S6K1",
+  "snapshot_id": "aQ/ZgAAAAABSV8DXCqRedPZOw4HgyR09",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 193700,
-      "name": "Quiero Cambiar - Remastered 2000",
-      "url": "https://open.spotify.com/track/1sO2DqYJGiX5Gy6Jl4bCnx"
+      "duration_ms": 418795,
+      "name": "Barco Azul - Remastered 2000",
+      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 418795,
-      "name": "Barco Azul - Remastered 2000",
-      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
+      "duration_ms": 193700,
+      "name": "Quiero Cambiar - Remastered 2000",
+      "url": "https://open.spotify.com/track/1sO2DqYJGiX5Gy6Jl4bCnx"
     },
     {
       "added_at": null,
@@ -543,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estoy Perdiendo La Raz\u00f3n",
-        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
       },
       "artists": [
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 202556,
-      "name": "Estoy Perdiendo La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
+      "duration_ms": 258438,
+      "name": "No Puedo So\u00f1ar",
+      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
       },
       "artists": [
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 258438,
-      "name": "No Puedo So\u00f1ar",
-      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
     },
     {
       "added_at": null,

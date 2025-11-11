@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-667 songs - 1 day 22 hr 12 min
+668 songs - 1 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [Just Like Jesse James](https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:05 | 2023-12-30 |  |
 | [Just the Thought of You](https://open.spotify.com/track/2EbRYotlbA3ZDKIk300jAS) | [Tony Hadley](https://open.spotify.com/artist/0wHrpPuQ3Qea6UXAc06ocM) | [The State of Play](https://open.spotify.com/album/1BrylrchcrwAWtTqM8ZJ7x) | 3:44 | 2023-12-30 |  |
 | [Just to Hear You Say That You Love Me \(with Tim McGraw\)](https://open.spotify.com/track/7m7V3K1yHLfJB2Sx9FKinU) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 4:28 | 2023-12-30 |  |
-| [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 | 2023-12-30 |  |
+| [Kiss The Tears Away](https://open.spotify.com/track/0ogyomcr5zAsvjKaWCVX5u) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Stevie B](https://open.spotify.com/album/3NhJCcIiVInOOcmIAE2RAm) | 4:00 | 2025-11-10 |  |
+| [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 | 2023-12-30 | 2025-11-11 |
 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 | 2023-12-30 |  |
 | [Language Of Love](https://open.spotify.com/track/5kkwOqclBO8CHyryiEvYBn) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:15 | 2023-12-30 |  |
 | [Last Kiss](https://open.spotify.com/track/4D0l7NpJuwNSkxbneDRsvT) | [Anita Cochran](https://open.spotify.com/artist/5LDnSV99gbDSsMX3Dcer2b) | [Anita](https://open.spotify.com/album/2FKzhcXcjWQoo94d7E6QwT) | 3:47 | 2023-12-30 |  |

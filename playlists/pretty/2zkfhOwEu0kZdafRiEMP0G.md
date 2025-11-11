@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 41 songs - 2 hr 51 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,6 +48,5 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 38 | [Something To Believe In](https://open.spotify.com/track/4kin4clo4ALSnwb33SYsdE) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2eeKB2KD7VwbWtcovqLzpS) | 3:31 |
 | 39 | [In a Crowd of Thousands](https://open.spotify.com/track/5cdvyKY2z1kySEnUKI0VuO) | [Derek Klena](https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw), [Christy Altomare](https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 3:45 |
 | 40 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 |
-| 41 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 
-Snapshot ID: `AAAGVo0ZdQ1LoOZj3ORTVIxZJ8MMHMU6`
+Snapshot ID: `AAAGV+Uch03cuaMwhqOnzsWg4jhkGP4c`

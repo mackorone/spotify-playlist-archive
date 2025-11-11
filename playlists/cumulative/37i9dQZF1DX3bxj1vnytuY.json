@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 428956,
       "name": "Fomalah",
       "url": "https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD"
@@ -4386,7 +4386,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 421027,
       "name": "Two Zulu Men In Ibiza",
       "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
@@ -6194,7 +6194,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 328000,
       "name": "Waves & Wavs",
       "url": "https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv"
@@ -6580,6 +6580,32 @@
       "duration_ms": 442200,
       "name": "Y\u0131ld\u0131zlar\u0131n Alt\u0131nda - Valeron Remix",
       "url": "https://open.spotify.com/track/3qqrgZGeiFu1uLnAJFNXnG"
+    },
+    {
+      "album": {
+        "name": "ZiD LMal",
+        "url": "https://open.spotify.com/album/5Yr3tVX9IGkbg6GVjBBrsv"
+      },
+      "artists": [
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Youssef Ouhssaine",
+          "url": "https://open.spotify.com/artist/3kHx8h01GUXAtbFbwK4wK0"
+        },
+        {
+          "name": "Ksser Essou\u0642",
+          "url": "https://open.spotify.com/artist/7FKQdUHsaz9Gu5vcyL452S"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317458,
+      "name": "ZiD LMal",
+      "url": "https://open.spotify.com/track/2rJwUjyFDFPkJxhRJn1CqP"
     },
     {
       "album": {

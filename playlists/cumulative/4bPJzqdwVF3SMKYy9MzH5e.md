@@ -4,7 +4,7 @@
 
 > 
 
-2,281 songs - 5 day 2 hr 35 min
+2,283 songs - 5 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Calm Your Fears](https://open.spotify.com/track/17Eoc1g0HaieE1xwZ1tGfD) | [Imbroco](https://open.spotify.com/artist/0HFEfCCOPwDSc5aCm7IMW9) | [Are You My Lionkiller?](https://open.spotify.com/album/5kCw6P05LFARfcXXaoAHz3) | 5:21 | 2023-06-25 | 2023-07-01 |
 | [cambridge](https://open.spotify.com/track/1XX0ITPAP64hzV5DrioXdC) | [swimcoach](https://open.spotify.com/artist/55kM6YHZNtzPFa6veTc2Zf) | [Swimbot](https://open.spotify.com/album/2wY6mKS39Go29qYvN9WyDr) | 2:05 | 2021-08-05 |  |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 | 2021-08-05 |  |
+| [Canary Wharf drift](https://open.spotify.com/track/64yioT39hYUlNyQMqEyUE6) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Oatmilkandcodeine](https://open.spotify.com/artist/0j3PryakINdSkE4zVocQY3) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 2:25 | 2025-11-10 |  |
 | [Candy](https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:27 | 2025-06-14 |  |
 | [Capable of love](https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 3:43 | 2023-11-16 |  |
 | [Caraphernelia](https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:28 | 2023-02-22 |  |
@@ -831,6 +832,7 @@
 | [Greaze \- Machine Girl Mix](https://open.spotify.com/track/3RBQn0pp9J7jFpd5DSA4v8) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 2:53 | 2022-11-23 |  |
 | [Groan](https://open.spotify.com/track/31o1KS0x48HWW8aJ0SuKGQ) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 3:00 | 2022-04-26 |  |
 | [Gronlandic Edit](https://open.spotify.com/track/3X8gOyVXP93Tslnz9Bxw24) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/6EHyUWhxAzolO2lQBvuxTH) | 3:24 | 2022-02-18 |  |
+| [Groove Street](https://open.spotify.com/track/504OahIMlkY7CemnS8TWv0) | [JXXXO](https://open.spotify.com/artist/3zKx7GjoCdfCUuR3a63XkI) | [TXXLS2](https://open.spotify.com/album/55PbuKicNsOgP2t5AliIYc) | 5:05 | 2025-11-11 |  |
 | [Groupie Love \(feat\. A$AP Rocky\)](https://open.spotify.com/track/03hqMhmCZiNKMSPmVabPLP) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:24 | 2021-08-05 |  |
 | [Grow](https://open.spotify.com/track/2wlirYWbzmZzbtN9vVhjmR) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/7akj4ATnCnOCL1GwKVSy5z) | 2:08 | 2021-08-05 |  |
 | [Grow Old With Me \- Remastered](https://open.spotify.com/track/2isaeBEYSya3UAaeaGInNO) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 2:30 | 2022-02-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,758 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,809 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 8 | [AGAR](https://open.spotify.com/track/3oJrOmQi8pmLKPbI5NiWPh) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Nimit Music Project](https://open.spotify.com/artist/4unntZnKf9o5luzeYkrg3o) | [AGAR](https://open.spotify.com/album/1VJFdL736uuogCAcw79TJS) | 3:16 |
 | 9 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
 | 10 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 |
-| 11 | [Saanson Ki Mala \- Live Loop Version](https://open.spotify.com/track/0H2LYJrPFMEr5JmdNBSwUd) | [Bhuwin](https://open.spotify.com/artist/6vsLn0UxL3GhtYP7ghpF3t) | [Saanson Ki Mala \(Live Loop Version\)](https://open.spotify.com/album/1o90SCXyYBya1VybapCgjS) | 3:36 |
-| 12 | [Fikhar](https://open.spotify.com/track/7mUHIGHf5T9b8sUhhF2viD) | [Nandhagopan V](https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y) | [Fikhar](https://open.spotify.com/album/3kNZbWLbx6SJ0E2ENLE5wE) | 5:10 |
-| 13 | [Door](https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Door](https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM) | 3:09 |
-| 14 | [Dekha Hi Nahi](https://open.spotify.com/track/5GcVuKV12CryRih9BDiXBk) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Dekha Hi Nahi](https://open.spotify.com/album/2kTV9Zqt7jn65GRaE6nX6K) | 3:56 |
-| 15 | [123 Song](https://open.spotify.com/track/2w4f45J58TnUpssWFkZIv8) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s) | [123 Song](https://open.spotify.com/album/2KczjoF1GdeaCnKPg1O21l) | 3:02 |
+| 11 | [tu hai ya hai nahi \(raw live\)](https://open.spotify.com/track/24cxugZnxzy2fWmZhleFLN) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [tu hai ya hai nahi \(raw live\)](https://open.spotify.com/album/7t0BwFWpB2HKBNREWIO19b) | 3:49 |
+| 12 | [Saanson Ki Mala \- Live Loop Version](https://open.spotify.com/track/0H2LYJrPFMEr5JmdNBSwUd) | [Bhuwin](https://open.spotify.com/artist/6vsLn0UxL3GhtYP7ghpF3t) | [Saanson Ki Mala \(Live Loop Version\)](https://open.spotify.com/album/1o90SCXyYBya1VybapCgjS) | 3:36 |
+| 13 | [Fikhar](https://open.spotify.com/track/7mUHIGHf5T9b8sUhhF2viD) | [Nandhagopan V](https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y) | [Fikhar](https://open.spotify.com/album/3kNZbWLbx6SJ0E2ENLE5wE) | 5:10 |
+| 14 | [Door](https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Door](https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM) | 3:09 |
+| 15 | [Dekha Hi Nahi](https://open.spotify.com/track/5GcVuKV12CryRih9BDiXBk) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Dekha Hi Nahi](https://open.spotify.com/album/2kTV9Zqt7jn65GRaE6nX6K) | 3:56 |
 | 16 | [rukne ki](https://open.spotify.com/track/3HMroRm92lzNVGAOQFY04N) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 2:28 |
 | 17 | [Ruk Ja](https://open.spotify.com/track/2XuqqA62np8iBUAxIzDUCB) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 3:27 |
 | 18 | [Dil Na Lage](https://open.spotify.com/track/48gCcasMHX3AtrDO8HmHFl) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96) | [Jaana](https://open.spotify.com/album/2VNjjiOf1WNiYJcjuk88it) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 |
 | 75 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 
-Snapshot ID: `AAAAAN/XoVGmDUwdtZttA8Tywg79qH0W`
+Snapshot ID: `AAAAAG52StJgJmqSg/icGXTAScge7Q5W`

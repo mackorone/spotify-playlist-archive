@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: FIFTY FIFTY
 
-1,605 songs - 3 day 13 hr 8 min
+1,606 songs - 3 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,7 +521,7 @@
 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2025-03-06 | 2025-04-15 |
 | [Girls Never Die \-Japanese Version\-](https://open.spotify.com/track/4cVNX1p1e4HxWesDafvBbB) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Girls Never Die \-Japanese Version\-](https://open.spotify.com/album/3jyP94l9uBU0zYby4B6NND) | 3:28 | 2025-04-14 | 2025-05-12 |
 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-25 | 2024-04-10 |
-| [Girls Will Be Girls](https://open.spotify.com/track/6hcT29EF7UYuwu76eqlys9) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/7tf7oSJn5ANhnk6ebP2iFp) | 2:48 | 2025-06-09 |  |
+| [Girls Will Be Girls](https://open.spotify.com/track/6hcT29EF7UYuwu76eqlys9) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/7tf7oSJn5ANhnk6ebP2iFp) | 2:48 | 2025-06-09 | 2025-11-11 |
 | [Girls’ Capitalism](https://open.spotify.com/track/2ivVS2ageitCQqnmmMaWoH) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [LOVElution <ↀ>](https://open.spotify.com/album/4hXAHIWkBpmSskQ8MccyZf) | 3:38 | 2023-08-18 | 2023-10-28 |
 | [Give Me That \- Korean Version](https://open.spotify.com/track/4Ta60nUTt3W1JU0AxctPyG) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Give Me That \- The 5th Mini Album](https://open.spotify.com/album/3umJyIQq0mjtg4eMnOlLbv) | 2:56 | 2024-06-04 | 2024-07-10 |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 | 2022-06-17 |
@@ -1397,6 +1397,7 @@
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-29 | 2023-10-18 |
 | [Tsuki \(Lunatic\)](https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Tsuki \(Lunatic\)](https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc) | 3:16 | 2024-08-06 | 2024-09-20 |
 | [TTYL](https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [TTYL](https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg) | 3:03 | 2024-10-11 | 2025-01-09 |
+| [TUNNEL VISION](https://open.spotify.com/track/1XkuFmRm3H4G4nTxsC9inD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1NFtkNZ4KqDZ2kd8HqJjhA) | 3:05 | 2025-11-10 |  |
 | [Twenty](https://open.spotify.com/track/3itibY53OwV21OP7m6VHbX) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:08 | 2024-07-01 | 2024-08-07 |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-02-25 | 2025-03-07 |
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-01-09 | 2023-03-15 |

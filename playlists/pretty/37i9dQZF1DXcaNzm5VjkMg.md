@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,941 likes - 93 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,954 likes - 93 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 64 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 |
 | 65 | [Pilihanku](https://open.spotify.com/track/3puYuuZ7lmlTjIgXBOT01k) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Mata Hati Telinga](https://open.spotify.com/album/1DynZXJq0QLlWT4LYLBDxC) | 3:26 |
 | 66 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 |
-| 67 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas \(Original Soundtrack\)](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 |
+| 67 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 |
 | 68 | [Adu Rayu](https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA) | 3:27 |
 | 69 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 70 | [Hari Bersamanya](https://open.spotify.com/track/1nfOP7xNHeFSPOlziXswJc) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Berlayar](https://open.spotify.com/album/2yDNCNEbfaE2GnCSkY7yba) | 3:52 |

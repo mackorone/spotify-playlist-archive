@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,531 likes - 83 songs - 4 hr 44 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,531 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 81 | [Sex Magik](https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:26 |
 | 82 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 |
 | 83 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 |
+| 84 | [BIG MACHINE](https://open.spotify.com/track/1nMIgMOFK9c5xNFm4OuRLM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIG MACHINE](https://open.spotify.com/album/1ObhvbWzD8dAHfm9Go4DZw) | 3:17 |
+| 85 | [Limbo](https://open.spotify.com/track/7HH6i9ogvRx1dV8rdkQ40q) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo](https://open.spotify.com/album/1SbLznptLEYrOcvzEPJOTT) | 4:35 |
 
-Snapshot ID: `AAAHiChtSXysuwP32WiPwfgcv2jPQ0HX`
+Snapshot ID: `AAAHitaTs9Xhhawq0OPCH5nBr/00gyyl`

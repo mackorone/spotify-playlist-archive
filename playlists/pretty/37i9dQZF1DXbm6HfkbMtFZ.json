@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 828449,
+  "num_followers": 828491,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -719,6 +719,26 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Water Your Garden",
+        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
+      },
+      "artists": [
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Water Your Garden",
+      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -759,26 +779,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Water Your Garden",
-        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
-      },
-      "artists": [
-        {
-          "name": "Magic City Hippies",
-          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Water Your Garden",
-      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Sings Love",
         "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
-        "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
-      },
-      "artists": [
-        {
-          "name": "Salinas",
-          "url": "https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk"
-        }
-      ],
-      "duration_ms": 156537,
-      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
-      "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Anne, If",
         "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 191451,
       "name": "The End of a Gun",
       "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
+        "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
+      },
+      "artists": [
+        {
+          "name": "Salinas",
+          "url": "https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk"
+        }
+      ],
+      "duration_ms": 156537,
+      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
+      "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Thrill Seekers",
-        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
-      },
-      "artists": [
-        {
-          "name": "Petite League",
-          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
-        }
-      ],
-      "duration_ms": 170075,
-      "name": "Pantone Karaoke",
-      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 174257,
       "name": "Take What's Given",
       "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Thrill Seekers",
+        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
+      },
+      "artists": [
+        {
+          "name": "Petite League",
+          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+        }
+      ],
+      "duration_ms": 170075,
+      "name": "Pantone Karaoke",
+      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "My Conversation",
+        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "My Conversation",
-        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Strange World",
         "url": "https://open.spotify.com/album/61C4duC2M6Nav2cg6QkIzv"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 187185,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "I Just Want To Talk To You",
         "url": "https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 191039,
       "name": "I Just Want To Talk To You",
       "url": "https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Tincture",
-        "url": "https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6"
-      },
-      "artists": [
-        {
-          "name": "Perfect Binding",
-          "url": "https://open.spotify.com/artist/7guexKHSspsfD9QBco76EY"
-        }
-      ],
-      "duration_ms": 211279,
-      "name": "Tincture",
-      "url": "https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Grapetooth",
         "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
+        "name": "Tincture",
+        "url": "https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6"
       },
       "artists": [
         {
-          "name": "Yenkee",
-          "url": "https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd"
+          "name": "Perfect Binding",
+          "url": "https://open.spotify.com/artist/7guexKHSspsfD9QBco76EY"
         }
       ],
-      "duration_ms": 226162,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
+      "duration_ms": 211279,
+      "name": "Tincture",
+      "url": "https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1547,6 +1531,22 @@
       "duration_ms": 184776,
       "name": "Favorite Kind of People",
       "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
+      },
+      "artists": [
+        {
+          "name": "Yenkee",
+          "url": "https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd"
+        }
+      ],
+      "duration_ms": 226162,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Choose Your Own Adventure",
-        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "The Conservation of Energy",
-      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Lucha",
         "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 262184,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "The Midst of Things",
+        "url": "https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ"
+      },
+      "artists": [
+        {
+          "name": "MMYYKK",
+          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
+        }
+      ],
+      "duration_ms": 206344,
+      "name": "U Got Me",
+      "url": "https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Laurence",
         "url": "https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5"
       },
@@ -1759,22 +1775,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "The Midst of Things",
-        "url": "https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ"
-      },
-      "artists": [
-        {
-          "name": "MMYYKK",
-          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
-        }
-      ],
-      "duration_ms": 206344,
-      "name": "U Got Me",
-      "url": "https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Picture Frame",
         "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
       },
@@ -1787,26 +1787,6 @@
       "duration_ms": 195276,
       "name": "Picture Frame",
       "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1863,22 +1843,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Light Speaks the Quilt",
-        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
-      },
-      "artists": [
-        {
-          "name": "Jonny Kosmo",
-          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
-        }
-      ],
-      "duration_ms": 176032,
-      "name": "Rolodex",
-      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/0fWTjBxLoIvd6EHGGnsBhH"
       },
@@ -1907,6 +1871,42 @@
       "duration_ms": 185542,
       "name": "Love Is A Place",
       "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Light Speaks the Quilt",
+        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
+      },
+      "artists": [
+        {
+          "name": "Jonny Kosmo",
+          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
+        }
+      ],
+      "duration_ms": 176032,
+      "name": "Rolodex",
+      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Dark Days [Feat. Sylvan Esso]",
+        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Dark Days [Feat. Sylvan Esso]",
+      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
     },
     {
       "added_at": "2025-10-24 22:16:10",

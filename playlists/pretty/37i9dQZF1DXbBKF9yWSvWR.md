@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: TJE
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,163 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,164 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 89 | [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 |
 | 90 | [waste a life](https://open.spotify.com/track/2SOgQx7AcVmBDyQxx9zN6B) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the truth of living in reality](https://open.spotify.com/album/1BDn9PF9UTstr1CNDLk1WL) | 3:15 |
 
-Snapshot ID: `AAAAAExfrGJpIW8C9NiT0FnOr0o7Oo3a`
+Snapshot ID: `AAAAAMx7z3KOx5vyVsM8BclPwrYpFvI4`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 195500,
+  "num_followers": 195527,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -847,8 +847,8 @@
     {
       "added_at": "2025-05-15 19:43:12",
       "album": {
-        "name": "Por Tu Amor",
-        "url": "https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa"
+        "name": "Unidos Por El Rock, Vol. 1",
+        "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
         }
       ],
-      "duration_ms": 200388,
-      "name": "Por Tu Amor",
-      "url": "https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS"
+      "duration_ms": 310706,
+      "name": "Peque\u00f1a y Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe"
     },
     {
       "added_at": "2025-05-15 19:43:12",
@@ -927,8 +927,8 @@
     {
       "added_at": "2025-05-15 19:43:12",
       "album": {
-        "name": "Unidos Por El Rock, Vol. 1",
-        "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
+        "name": "Por Tu Amor",
+        "url": "https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
         }
       ],
-      "duration_ms": 310706,
-      "name": "Peque\u00f1a y Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/5G0ZQTIQ0LEANKZQ5YUjCe"
+      "duration_ms": 200388,
+      "name": "Por Tu Amor",
+      "url": "https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS"
     },
     {
       "added_at": "2025-05-15 19:43:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-05-15 19:43:12",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 183613,
-      "name": "Mi Terrible Soledad",
-      "url": "https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO"
-    },
-    {
-      "added_at": "2025-05-15 19:43:12",
-      "album": {
         "name": "Ella Ya Muri\u00f3",
         "url": "https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 301680,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
+    },
+    {
+      "added_at": "2025-05-15 19:43:12",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 183613,
+      "name": "Mi Terrible Soledad",
+      "url": "https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO"
     }
   ],
   "unique_name": "Rock Urbano",

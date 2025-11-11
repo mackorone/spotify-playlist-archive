@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-349 songs - 22 hr 24 min
+350 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [ILYSMIH](https://open.spotify.com/track/4MJpGGIDRwHuWoZCddIOgM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:33 | 2025-05-21 |  |
 | [Immortal](https://open.spotify.com/track/4fHRUyNTNVD0HRe4YPYA4m) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Indicud](https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ) | 5:01 | 2021-07-28 |  |
 | [In My Dreams](https://open.spotify.com/track/2dDzrUEDCKXaLViMPa1jo5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:21 | 2022-02-18 |  |
+| [in the pool](https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 4:05 | 2025-11-10 |  |
 | [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 3:59 | 2023-05-22 |  |
 | [Insomnia](https://open.spotify.com/track/6m0CSjQPgyTAzG7sin3eg3) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Any Port In A Storm \(Special Edition\)](https://open.spotify.com/album/5sfADrGjV3NsjweKZzriPX) | 3:46 | 2019-11-26 |  |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2019-09-16 |  |

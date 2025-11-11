@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342153,
+  "num_followers": 342139,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Ride Ride Ride",
+        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kern",
+          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
+        },
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Ride Ride Ride",
+      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 166816,
       "name": "Raindrops (feat. Jessica Chertock)",
       "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Ride Ride Ride",
-        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
-      },
-      "artists": [
-        {
-          "name": "Victoria Kern",
-          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
-        },
-        {
-          "name": "Anna Grey",
-          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Ride Ride Ride",
-      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
     }
   ],
   "unique_name": "SLAP!",

@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 774,
+  "num_followers": 775,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ6IAAAAAADVMGio0Z/z95sqSx9MHXM7",
+  "snapshot_id": "aQ/ZgAAAAAC9AcT+mIiIlTxtmCeFCuyO",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 127615,
       "name": "Beth's Story",
       "url": "https://open.spotify.com/track/2hMmh9DiAcBjSw59vmYkTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "Thirty Horses",
-      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
     },
     {
       "added_at": null,
@@ -67,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Thirty Horses",
+      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
       },
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 60983,
-      "name": "Science",
-      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
+      "duration_ms": 108178,
+      "name": "Supper at Six",
+      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 108178,
-      "name": "Supper at Six",
-      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
+      "duration_ms": 60983,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 135493,
-      "name": "Welcome To LaBelle",
-      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
+      "duration_ms": 81493,
+      "name": "Mary Agnes & Callie",
+      "url": "https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

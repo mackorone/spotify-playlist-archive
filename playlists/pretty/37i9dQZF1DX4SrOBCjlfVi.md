@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring G Herbo, Lil Baby, Sexyy Red and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,405 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,472 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 36 | [Califa \(feat\. Mike & Keys\)](https://open.spotify.com/track/3eGlCVsVpwNRztPmGr7tMQ) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [pfacebabyyy](https://open.spotify.com/artist/4nY2E5U6yR1PRFhluG3gjO), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [I Told You So](https://open.spotify.com/album/1gAPSFy7GrbdaLNlwRVZwe) | 3:21 |
 | 37 | [ILY XL \(feat\. Lil Yachty\)](https://open.spotify.com/track/190DugBzRijZXnPwU2EizV) | [Jorjiana](https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [ILY XL \(feat\. Lil Yachty\)](https://open.spotify.com/album/666GtYsMxoXv1G2LFaq1UJ) | 2:28 |
 | 38 | [Twice](https://open.spotify.com/track/1U3yhXFRHwA26jOsjFT6s3) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [Still Goin the Ep](https://open.spotify.com/album/5813mvSLIjJy3Edczrxe6O) | 2:14 |
-| 39 | [Southside Love Story \(Follow Me\)](https://open.spotify.com/track/2ZhgjVD9CI8D8batOxUZZF) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Troy](https://open.spotify.com/album/6C9UX6H6CIHHa26CmUOcIf) | 2:58 |
+| 39 | [Soufside Love Story \(Follow Me\)](https://open.spotify.com/track/2ZhgjVD9CI8D8batOxUZZF) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Troy](https://open.spotify.com/album/6C9UX6H6CIHHa26CmUOcIf) | 2:58 |
 | 40 | [Come With Me](https://open.spotify.com/track/1p2c2lBXVLVdfEa0hVqgJX) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [Come With Me](https://open.spotify.com/album/5JEYeZReoVcLJrxamWlOMh) | 2:30 |
 | 41 | [All Over Tha Flo](https://open.spotify.com/track/47t3htmQDxEQbdG1vucIBp) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Smokin Texas 2](https://open.spotify.com/album/7FxFgatD5uwsqYQ8zlacN0) | 2:19 |
 | 42 | [Chopstix! ft\. Jace!](https://open.spotify.com/track/5FL4IXVW1K8dxmWP7vsVkg) | [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [RentDue!](https://open.spotify.com/album/5fGM2XZgCCBHRabTi29syw) | 2:14 |
 | 43 | [Crashout](https://open.spotify.com/track/2TLFOFaWm3ggYxqkZAnVER) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Crashout](https://open.spotify.com/album/3trcKTJXG4SdjpsqbNiItS) | 2:20 |
-| 44 | [Pink Slip](https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [Caught Up In The Game : Disc 2](https://open.spotify.com/album/1ELfggHpYAqOnNLttTFBqU) | 4:01 |
+| 44 | [Pink Slip](https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [Caught Up In The Game: Disc 2](https://open.spotify.com/album/1ELfggHpYAqOnNLttTFBqU) | 4:01 |
 | 45 | [Excuses For Me](https://open.spotify.com/track/3ytxqAsPjPsCk0w0wkJDmf) | [The Underachievers](https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N), [Issa Gold](https://open.spotify.com/artist/4AQPiL37xjPAgBfEEYQrg9), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Excuses For Me](https://open.spotify.com/album/1FsTSfVUFXfymkNkssS2k9) | 2:52 |
 | 46 | [you'll be ok \(feat\. Nino Paid\)](https://open.spotify.com/track/0SRRldIZ0wL8cTJ2z4v4Ul) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [How To Move](https://open.spotify.com/album/15ItojI38UCdUY8q5CgO2U) | 2:08 |
 | 47 | [Hardbody](https://open.spotify.com/track/3aSXM6sJ0j3v4KRnYzVZTR) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Hardbody](https://open.spotify.com/album/30j2xK3PnoImNGYPDVVn9B) | 2:28 |

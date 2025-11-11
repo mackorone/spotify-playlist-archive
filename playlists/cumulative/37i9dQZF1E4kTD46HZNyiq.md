@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, Laureline, The Wild Wind and more
+> With Rhineland, The Wild Wind, Laureline and more
 
 1,432 songs - 3 day 19 hr 51 min
 
@@ -381,7 +381,7 @@
 | [Entangled](https://open.spotify.com/track/1Bj6VnLV4KSnzkRGMtMGI9) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [A Door Still Open](https://open.spotify.com/album/62u0It9nWjahOdUCGyE9CG) | 3:45 | 2024-08-21 | 2025-10-07 |
 | [entertainment](https://open.spotify.com/track/4kCuaybS1cpawD2W90fsfN) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Overcast](https://open.spotify.com/album/6Rqe0nO33Bhr2DKq0lwk0V) | 3:04 | 2022-10-14 | 2022-10-17 |
 | [entertainment](https://open.spotify.com/track/5fJTHWEbUDf8Opo7k90GrA) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Overcast](https://open.spotify.com/album/1vQrQytWt8nQphl8vG9vFp) | 3:04 | 2022-10-08 | 2022-10-10 |
-| [Entertainment](https://open.spotify.com/track/7iw9cLtkxLkZgHghAIp33A) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Entertainment](https://open.spotify.com/album/4M1aekfaXqqSG3TC11R0Nq) | 2:47 | 2024-10-07 | 2025-11-07 |
+| [Entertainment](https://open.spotify.com/track/7iw9cLtkxLkZgHghAIp33A) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Entertainment](https://open.spotify.com/album/4M1aekfaXqqSG3TC11R0Nq) | 2:47 | 2024-10-07 |  |
 | [Escape](https://open.spotify.com/track/5vcXZBMm0gbMMLPnzfQA4A) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 4:11 | 2022-03-13 |  |
 | [Even Still](https://open.spotify.com/track/3ga7tHm7G1w5SWDf13MWeM) | [Mark William Campbell](https://open.spotify.com/artist/5VNnMFR3dQ2RTUmCWIj3ca) | [Morningfires](https://open.spotify.com/album/0IMyed8DsM68OVKU35yQUD) | 3:14 | 2022-11-03 | 2022-11-11 |
 | [Evergreen](https://open.spotify.com/track/6Ixzd3HI21Ld7KzmIYQ6NW) | [Bootstraps](https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz) | [Demo Love](https://open.spotify.com/album/4cMLFycGikguo9tIh6fWUa) | 3:26 | 2022-03-13 | 2023-06-08 |
@@ -761,7 +761,7 @@
 | [Looking For Love](https://open.spotify.com/track/16f5E3dIfXjeprDyIt1cjq) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Looking For Love](https://open.spotify.com/album/5gtiEqlLHdxt8PVP5nxqw6) | 4:58 | 2021-12-01\* | 2022-05-09 |
 | [Looking for Love](https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:58 | 2022-11-09 |  |
 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 | 2022-07-31 | 2024-06-16 |
-| [Los Angeles](https://open.spotify.com/track/5MPLeS9KdZlA04OOCUb5Bt) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/4W76YA2i0qSPFKIGG6rA6a) | 6:29 | 2025-11-10 |  |
+| [Los Angeles](https://open.spotify.com/track/5MPLeS9KdZlA04OOCUb5Bt) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/4W76YA2i0qSPFKIGG6rA6a) | 6:29 | 2025-11-10 | 2025-11-11 |
 | [Lose Ourselves](https://open.spotify.com/track/1QsxTZXP6ea8N6u2baMJza) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ruminations](https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P) | 3:25 | 2024-04-02 | 2024-04-19 |
 | [Lose Ourselves](https://open.spotify.com/track/2IFZTQe05IUYNoik6yLPwJ) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Lose Ourselves](https://open.spotify.com/album/5ApBHIYdpwvF3sRlAuE343) | 3:25 | 2022-02-06 | 2022-10-16 |
 | [Loser Baby](https://open.spotify.com/track/6RNz5iOe7SzpAq4JV3Yn4w) | [La Bouquet](https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs) | [Sad People Dancing](https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb) | 4:12 | 2021-12-01\* | 2022-03-09 |

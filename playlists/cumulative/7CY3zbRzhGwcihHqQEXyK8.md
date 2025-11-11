@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-718 songs - 1 day 12 hr 45 min
+719 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Open Arms](https://open.spotify.com/track/7derOqMZWsr5PcCGvO8784) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Steven Dookie](https://open.spotify.com/artist/6rLqxfVk0nnbaIgAbuQRHa), [EPIC Ensemble](https://open.spotify.com/artist/35Xs1OZ4WgpeqUTkjkX7lf) | [EPIC: The Troy Saga \(Original Concept Album\)](https://open.spotify.com/album/2j94jmFiOvCwS8Oj6br91A) | 3:19 | 2024-12-15 |  |
 | [Opportunites](https://open.spotify.com/track/11Hc1IDnXMPGruRoiaYpn1) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 4:06 | 2024-12-29 |  |
 | [Opportunities V2](https://open.spotify.com/track/0GIE29Rq8WAnhoLptPHNQ2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [always.](https://open.spotify.com/album/2VfmCzOIeLrDTYveq1O4u4) | 4:06 | 2024-12-15 |  |
+| [ORIGINAL VOCALOID SONG](https://open.spotify.com/track/3R2NLh2kn3tyIOwJxAE4Mo) | [ShortKing](https://open.spotify.com/artist/4NQzBMvrgy8WjjHEhr4CBd) | [ORIGINAL VOCALOID SONG](https://open.spotify.com/album/4jN66sN8Bro5qGodl5ldem) | 3:36 | 2025-11-11 |  |
 | [Out Of Drugs](https://open.spotify.com/track/5PEXqW4nv24bjWpBdXUdcw) | [icryduringsex](https://open.spotify.com/artist/5dpFvg3GgOk9bZgG4FN4Fw) | [Music4U](https://open.spotify.com/album/4QCbvrKt9LgKvksRWzjcDO) | 2:32 | 2024-12-15 |  |
 | [Out of Your League \(For the Chisholm Invitational League of Legends Mic Drop Challenge\)](https://open.spotify.com/track/3f92NWAFa82vB9uJFAeUM2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Out of Your League \(For the Chisholm Invitational League of Legends Mic Drop Challenge\)](https://open.spotify.com/album/3nGspQ1SfkvOSaSXZ6P423) | 2:37 | 2024-12-15 |  |
 | [Outro\-Haley Found Dead](https://open.spotify.com/track/7GGYGzKBBGeqQ8ZfZrnnWV) | [Chill Aqua](https://open.spotify.com/artist/4sgWFzT0ptklnjTpTlQUk0) | [Mr\. Diddle](https://open.spotify.com/album/5zO7TMFzvJLEtBPAFIrSOB) | 1:20 | 2024-12-15 |  |

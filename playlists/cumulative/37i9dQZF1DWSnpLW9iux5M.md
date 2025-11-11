@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
 
-176 songs - 11 hr 44 min
+177 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Joy to the World](https://open.spotify.com/track/2Xarvk1Y1pX0PgQEk4jMZU) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [Joy to the World](https://open.spotify.com/album/2ei11H4CTrurq6KYKfPwlg) | 3:34 | 2022-11-26 | 2022-12-11 |
 | [Joy To The World \(feat\. Alex Isley\)](https://open.spotify.com/track/59MIBKUD1FSQvettQGHpSz) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [In December](https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op) | 5:27 | 2024-11-17 |  |
 | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY) | 5:26 | 2021-12-24 |  |
+| [Joy To The World \(Joyful, Joyful\) \- Live](https://open.spotify.com/track/4qZjVjExSGSlOIeOZaj03i) | [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [Christmas, Vol\. 3 \(Live\)](https://open.spotify.com/album/1KthDJFWWfpeTJikiGEWx1) | 4:05 | 2025-11-08 |  |
 | [Joy to the World \(Radio Edit\)](https://open.spotify.com/track/28zVzwOtEnpp7OtD9KPpy4) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Joy to the World \(Radio Edit\)](https://open.spotify.com/album/6TzzQ8mccRfn5JD4v5IXMe) | 3:21 | 2024-12-13 |  |
 | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv) | 3:57 | 2023-12-02 |  |
 | [Joy To The World / Joyful, Joyful](https://open.spotify.com/track/64AQwAGYH1DhgeopzyJGMB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 3:40 | 2021-12-24 |  |
@@ -174,7 +175,7 @@
 | [What Child Is This?](https://open.spotify.com/track/76DWigqwydczFqlnEPB7Bf) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Holiday Love: The Rebirth](https://open.spotify.com/album/6ZrPBCoj4N9621iaZ4tuOI) | 2:52 | 2021-12-24 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-11-26 |  |
 | [What Christmas Really Means](https://open.spotify.com/track/0ADx1ssYtTWJODfaTAfL8O) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Christmas Really Means](https://open.spotify.com/album/4ZNkaeKVTxeVewNBM9fLLw) | 4:07 | 2021-12-24 |  |
-| [When Was Jesus Born?](https://open.spotify.com/track/5z0XBkinFlgjmpbKou7pjc) | [Liz McComb](https://open.spotify.com/artist/1GlVll15lXMHTvvJiUQaAB) | [Merry Christmas](https://open.spotify.com/album/24IoAKBtORiFhOt6Po1B2n) | 1:58 | 2021-12-24 |  |
+| [When Was Jesus Born?](https://open.spotify.com/track/5z0XBkinFlgjmpbKou7pjc) | [Liz McComb](https://open.spotify.com/artist/1GlVll15lXMHTvvJiUQaAB) | [Merry Christmas](https://open.spotify.com/album/24IoAKBtORiFhOt6Po1B2n) | 1:58 | 2021-12-24 | 2025-11-11 |
 | [Winter Wonderland](https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [White Christmas](https://open.spotify.com/album/1Bep3JEfFFmVL8EA2Fugvz) | 3:01 | 2021-12-24 |  |
 | [With Us \(Oh Emmanuel\)](https://open.spotify.com/track/3xizrkWnSm5XHZ9HAatpbq) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 3:55 | 2021-12-24 | 2025-05-08 |
 | [With You](https://open.spotify.com/track/4BznHfap3hfVeO0IFrL7hP) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [With You](https://open.spotify.com/album/2tqCyigpNgCWJYJsFcukyY) | 2:39 | 2024-11-17 |  |

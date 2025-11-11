@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Adoración IBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,917 likes - 129 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,949 likes - 129 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

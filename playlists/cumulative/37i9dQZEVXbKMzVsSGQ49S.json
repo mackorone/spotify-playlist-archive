@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
@@ -14862,7 +14862,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -23406,7 +23406,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 146853,
       "name": "Hvar ertu n\u00fa?",
       "url": "https://open.spotify.com/track/3gbwej4Slibs1NbvP08BEZ"
@@ -29668,7 +29668,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 209558,
       "name": "Lj\u00f3sin Kvikna",
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
@@ -38120,7 +38120,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -40948,7 +40948,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -41576,7 +41576,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -54331,6 +54331,28 @@
     },
     {
       "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/3jRkebAcwz1gkCPg9bkAVN"
+      },
+      "artists": [
+        {
+          "name": "Jordi Sans",
+          "url": "https://open.spotify.com/artist/2aIdkBxgg1fhkWPiEXGqP0"
+        },
+        {
+          "name": "Xadrian",
+          "url": "https://open.spotify.com/artist/4KGOwYv784OldunzHAMct6"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/7AV0y3aS3rBoZXFCsrdnYA"
+    },
+    {
+      "album": {
         "name": "Undefined 2 : The Double Back",
         "url": "https://open.spotify.com/album/6WwiWnkMsK1NS89eZ6OsQG"
       },
@@ -58694,7 +58716,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "\u00deegar Vetur",
       "url": "https://open.spotify.com/track/2oBgo1udjEp72pDo4u5O3P"
@@ -59030,7 +59052,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 192143,
       "name": "\u00de\u00da ERT H\u00c9R",
       "url": "https://open.spotify.com/track/0TbjheMOqpbTXuUWcL3bBt"

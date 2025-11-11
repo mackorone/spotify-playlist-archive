@@ -4,7 +4,7 @@
 
 > Giorgia in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,254 songs - 4 day 19 hr 39 min
+2,256 songs - 4 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1052,6 +1052,7 @@
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-08-01 | 2025-09-12 |
 | [La Città Addosso](https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [La Città Addosso](https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ) | 3:26 | 2024-09-26 | 2024-10-18 |
 | [LA CURA PER ME](https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [LA CURA PER ME](https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw) | 3:35 | 2025-02-12 | 2025-03-07 |
+| [LA CURA PER ME \(feat\. BLANCO\)](https://open.spotify.com/track/3TkSWRxnvQX6uKGA709Ohb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:35 | 2025-11-10 |  |
 | [LA GELOSIA](https://open.spotify.com/track/4zqzwofYeyScZ7ix0KmclN) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [LA GELOSIA](https://open.spotify.com/album/3bLkZuCcgJ2YzaUGwMXMbg) | 3:11 | 2025-05-22 | 2025-06-20 |
 | [La ghigliottina](https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [La ghigliottina](https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at) | 3:42 | 2024-09-19 | 2024-10-11 |
 | [La grande città \(feat\. Willie Peyote\)](https://open.spotify.com/track/4LBB8W61nVd5m983tTBG6h) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [La grande città \(feat\. Willie Peyote\)](https://open.spotify.com/album/7htd9ewI1uMq44rgIlEM0n) | 3:24 | 2025-10-09 | 2025-10-31 |
@@ -1931,7 +1932,8 @@
 | [Tears on the dancefloor](https://open.spotify.com/track/0OXC7IGzv3OmxZBXhtC522) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Tears on the dancefloor](https://open.spotify.com/album/7eiXcxepPal5LmfLfX2hqj) | 2:53 | 2024-08-22 | 2024-09-20 |
 | [TEEN ANGST](https://open.spotify.com/track/2wVxFUGTFbN1WYNdba8mLj) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [SUPERLAME](https://open.spotify.com/album/30Xx1oiQTcXCTx2uGOZJ4e) | 2:42 | 2025-10-23 |  |
 | [Telegram](https://open.spotify.com/track/3ekhnTLGCtiw5QWSJJNc4T) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Telegram](https://open.spotify.com/album/34tecBlN2ojCGf45D5ONya) | 2:33 | 2025-04-03 | 2025-04-25 |
-| [TELEPATICAMENTE](https://open.spotify.com/track/2mIUdUGgBX58poEIN8lrJr) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/2N8g6dAH7YvaEaMKWfbEdF) | 2:45 | 2025-10-30 |  |
+| [TELEPATICAMENTE](https://open.spotify.com/track/2mIUdUGgBX58poEIN8lrJr) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/2N8g6dAH7YvaEaMKWfbEdF) | 2:45 | 2025-10-30 | 2025-11-11 |
+| [TELEPATICAMENTE](https://open.spotify.com/track/33rr9A7hPaptunOGHdbicj) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/4NU5YOkmMzAwPkYFGasK7A) | 2:45 | 2025-11-10 |  |
 | [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 | 2025-10-23 |  |
 | [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 | 2025-10-16 | 2025-11-07 |
 | [Telephone Tango](https://open.spotify.com/track/00JmBr4rYb4Iq0cXNHBgK9) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Telephone Tango](https://open.spotify.com/album/3VKZZmGmlbKvRa6Jn0XLZK) | 3:04 | 2025-11-06 |  |

@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of BRÍET, Katy Perry, Gorillaz og mörgum fleiri!
 
-8,604 songs - 19 day 7 hr 1 min
+8,605 songs - 19 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4098,7 +4098,7 @@
 | [KENNDU MÉR AÐ DANSA](https://open.spotify.com/track/4LPooBAljkqF8YOHotUIin) | [GULLI](https://open.spotify.com/artist/10bshrd1SLA04nOdL7ZfVu) | [KENNDU MÉR AÐ DANSA](https://open.spotify.com/album/0pkbtUVI9AVl2ev0G1E6Tk) | 3:22 | 2025-05-02 | 2025-05-09 |
 | [Kensington](https://open.spotify.com/track/3F9G0gY3LFkHhUSnHTmidi) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Kensington](https://open.spotify.com/album/2aWaeRcrVIT3M4oeEYbzpH) | 1:50 | 2025-10-17 | 2025-10-25 |
 | [Kerosene Dreams](https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [A Guilty Heart Can Never Rest](https://open.spotify.com/album/7kUEQbqX1Kaf6oL2x046d6) | 3:05 | 2024-05-10 | 2024-05-17 |
-| [Kex & Kakómalt](https://open.spotify.com/track/3KfyZDIX4mjBBbw6LdHPRl) | [Haukur Páll](https://open.spotify.com/artist/5hW6wzxKHLZczvpg8PBTnA) | [Kex & Kakómalt](https://open.spotify.com/album/6xvMWP2lMDTMx1eWZUiiGK) | 2:14 | 2025-11-07 |  |
+| [Kex & Kakómalt](https://open.spotify.com/track/3KfyZDIX4mjBBbw6LdHPRl) | [Haukur Páll](https://open.spotify.com/artist/5hW6wzxKHLZczvpg8PBTnA) | [Kex & Kakómalt](https://open.spotify.com/album/6xvMWP2lMDTMx1eWZUiiGK) | 2:14 | 2025-11-07 | 2025-11-11 |
 | [Keyrum Útaf](https://open.spotify.com/track/66NnScOSqDA9hTIGZGtKEv) | [DayBright](https://open.spotify.com/artist/5toWJygrt17XWfXefvQQQf), [Jóna Margrét](https://open.spotify.com/artist/1MSz9BHcS1bejsDhDYFhJo) | [Keyrum Útaf](https://open.spotify.com/album/36Eh6bS1cGQuvhwzPkJIyN) | 3:20 | 2025-03-14 | 2025-03-21 |
 | [Khanya](https://open.spotify.com/track/7IrgLdwrCGhPpyIhFNRHYo) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [ANT Mifsud](https://open.spotify.com/artist/0tGJS1NGJcqnLi1s72nkiZ), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [Khanya](https://open.spotify.com/album/5w3PDQzGpykvVKBDDyi29j) | 3:11 | 2025-11-07 |  |
 | [KHEDAM](https://open.spotify.com/track/5ww3fDOJuBNpouzdYPeNIP) | [Z4STA](https://open.spotify.com/artist/0BhMbXAhSO9fLLhjLdWxE5), [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [KHEDAM](https://open.spotify.com/album/4wZyK6bNdJbGEyHFEfs12j) | 2:17 | 2025-09-05 | 2025-09-12 |
@@ -5584,6 +5584,7 @@
 | [onyx eyes](https://open.spotify.com/track/3Mf1wSMEN3yz0s8qRYUXxq) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [onyx eyes](https://open.spotify.com/album/5q11onRG8I1NZGABWhLhls) | 2:31 | 2025-07-04 | 2025-07-11 |
 | [OOH](https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:31 | 2025-06-20 | 2025-06-27 |
 | [Ooh La La](https://open.spotify.com/track/5SuFAL1gLHPoyz4IPTwslW) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Ooh La La](https://open.spotify.com/album/5I6ZuUp68J0vUDSQYEFdPT) | 2:08 | 2024-06-14 | 2024-06-21 |
+| [Ooh lala](https://open.spotify.com/track/5btTy5gnnibVOGR3Qw1j8H) | [Ahelia](https://open.spotify.com/artist/4HdTpdHUS4iXofnXQthBn4) | [Ooh lala](https://open.spotify.com/album/1jxYUPNdr4zbdzFEEnlPYL) | 2:43 | 2025-11-07 |  |
 | [Ooh Lover \- from “Little Disasters”](https://open.spotify.com/track/6xLVPJBo1GzSnbv5eANcuH) | [Ragnar Ólafsson Composer](https://open.spotify.com/artist/4f4f9goebHKTGnoi2hrLYC), [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [Ooh Lover \- from “Little Disasters”](https://open.spotify.com/album/7CMhgYaQM20BoRzkZZBhUO) | 2:05 | 2025-05-23 | 2025-05-25 |
 | [ooo](https://open.spotify.com/track/5ZMvVmNZepJxqf2Cui2aeu) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [ooo](https://open.spotify.com/album/299nAiPsiRFHImwmxZ0HRq) | 2:19 | 2025-01-10 | 2025-01-17 |
 | [Op Til Os](https://open.spotify.com/track/43e6dffnZEesLDpMcp9e7v) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Hovedløs](https://open.spotify.com/album/5e25hvHNpRzDRxtYnTnHdo) | 3:37 | 2025-11-07 |  |

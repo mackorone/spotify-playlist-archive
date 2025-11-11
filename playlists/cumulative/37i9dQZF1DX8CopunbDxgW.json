@@ -7839,6 +7839,28 @@
     },
     {
       "album": {
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5Gcp9tzpJvXtG0E55i4ZQq"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208594,
+      "name": "Dance Machine",
+      "url": "https://open.spotify.com/track/3GvWBH9g9FNW1rAmvFFDzR"
+    },
+    {
+      "album": {
         "name": "Dance on the World",
         "url": "https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d"
       },
@@ -11486,6 +11508,24 @@
       "duration_ms": 250291,
       "name": "Faisal (Envelops Me)",
       "url": "https://open.spotify.com/track/0J8dISXAmgPIOvOtYy64AT"
+    },
+    {
+      "album": {
+        "name": "fake it",
+        "url": "https://open.spotify.com/album/3bozuqCf6u8SNLFwes2UQr"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193241,
+      "name": "fake it",
+      "url": "https://open.spotify.com/track/78yPzqR2Gyg9IcjRcdVLkz"
     },
     {
       "album": {
@@ -18922,7 +18962,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 205952,
       "name": "into flames",
       "url": "https://open.spotify.com/track/3oX9siBJ6QNG4zQc4XgUzr"
@@ -21738,7 +21778,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 215051,
       "name": "Lonyo!",
       "url": "https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP"
@@ -23523,6 +23563,24 @@
     },
     {
       "album": {
+        "name": "Max / Red",
+        "url": "https://open.spotify.com/album/2ZPAqZnH2uiX1PWc16dKkd"
+      },
+      "artists": [
+        {
+          "name": "Kenton Slash Demon",
+          "url": "https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251196,
+      "name": "Max",
+      "url": "https://open.spotify.com/track/4jwkjvItLoztfQ9F7Wy7nt"
+    },
+    {
+      "album": {
         "name": "Maximum",
         "url": "https://open.spotify.com/album/0HljOn1QoHyjlZHqjPHgm0"
       },
@@ -24986,7 +25044,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-11",
       "duration_ms": 180956,
       "name": "Naive",
       "url": "https://open.spotify.com/track/0XYjFOhn4vchGIuDkQdk4D"

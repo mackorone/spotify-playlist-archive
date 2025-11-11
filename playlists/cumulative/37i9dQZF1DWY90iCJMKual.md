@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Jason Dhakal
 
-416 songs - 22 hr 45 min
+420 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [bum 2 me](https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bum 2 me](https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM) | 2:18 | 2023-05-02 | 2023-10-03 |
 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 | 2023-06-13 | 2023-09-07 |
 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-09-21 | 2024-03-30 |
+| [Bye 3x](https://open.spotify.com/track/7q2fWxTVz2g6ZERBlfs5ow) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx) | [Bye 3x](https://open.spotify.com/album/17UjsMHzFxuETWRC7mkpon) | 2:56 | 2025-11-10 |  |
 | [C ME](https://open.spotify.com/track/3X9J1saYVPtalU43vsKi3k) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw), [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [C ME](https://open.spotify.com/album/7eo3w0YoVNSadKJ9S95Gns) | 3:03 | 2025-04-16 |  |
 | [C.T.S.A.L.I.](https://open.spotify.com/track/61GEyhcXYyzAb9CU1MbsWH) | [rk jlln](https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC) | [C.T.S.A.L.I.](https://open.spotify.com/album/0E3hPda4vy2ygZLLSleC5C) | 3:00 | 2025-08-08 |  |
 | [C2 NA RED!](https://open.spotify.com/track/57hFIk6c7OnW1QS21vIO78) | [zaniel](https://open.spotify.com/artist/3PUcGRqlIhzjm82abj6FSh) | [C2 NA RED!](https://open.spotify.com/album/5W6C9jHi47Xl290fWbTZ3e) | 1:46 | 2025-02-27 |  |
@@ -67,6 +68,7 @@
 | [Chemistry](https://open.spotify.com/track/529drn8X80TyoPS3GdL3Le) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Chemistry](https://open.spotify.com/album/2hjrQmqKGiD2S69mTkNVR8) | 3:17 | 2025-10-24 |  |
 | [cherry soda](https://open.spotify.com/track/3Ge1rIdxXfPqnC6AzJlHsz) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg) | 3:35 | 2022-12-14 | 2023-07-29 |
 | [cherry soda](https://open.spotify.com/track/6wLYxlMsuGoARoRhDy52y3) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/5uW4MpBBGO9yYeBTcBFdjx) | 3:35 | 2022-10-12 | 2023-01-08 |
+| [Clue](https://open.spotify.com/track/0R0xWFl985bNVIaiClLdL1) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Clue](https://open.spotify.com/album/4lMySm4UlZmdnawXJCC2AO) | 2:27 | 2025-11-10 |  |
 | [Co\-Pilot](https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [JOLO](https://open.spotify.com/artist/1r5cXPqjg3R4Q1FpKG1UJs), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [Flight School Era](https://open.spotify.com/album/0DL6JoUUC5rYlexcZFACeN) | 4:10 | 2022-12-14 | 2023-12-02 |
 | [Come Over](https://open.spotify.com/track/5mjdijavrwpnBLM0qSIDog) | [POP MONEY WORLDWIDE](https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj), [Carrot Mayor](https://open.spotify.com/artist/5s7aEasAPVKh5b7kwRiykk), [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO), [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Come Over](https://open.spotify.com/album/3lE006tQNLhwRF8aVwabTH) | 3:15 | 2024-03-29 | 2025-01-17 |
 | [Comfort Zone](https://open.spotify.com/track/2KKyzmlAJFq3WvOHvuTMt1) | [Ayip](https://open.spotify.com/artist/5hvJjbF0h7vQRvZ47Ll1zP) | [Comfort Zone](https://open.spotify.com/album/6OpBQt9Ui1f92EUbNAgIhr) | 2:55 | 2023-04-06 | 2023-09-07 |
@@ -164,6 +166,7 @@
 | [I NEED YAH](https://open.spotify.com/track/686gseRGIq0VHF3O22EmWU) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [YNGVIE](https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK) | [I NEED YAH](https://open.spotify.com/album/4gNPs4qrKEZy26lOrhfoG5) | 2:37 | 2024-06-21 | 2024-10-12 |
 | [I Want More](https://open.spotify.com/track/3CY53c9o3IXVxiycPCGI7V) | [Jenn Clemena](https://open.spotify.com/artist/54mfqclCKJS9aFM7i48SjZ) | [I Want More](https://open.spotify.com/album/6uMceDuLr77hlTowaHPD6x) | 3:03 | 2022-10-12 | 2023-07-29 |
 | [I WANT YOU](https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:43 | 2023-06-13 | 2023-10-14 |
+| [IDONTKNOW](https://open.spotify.com/track/7cdCFgg9Bas4TKQj8ZPyUY) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [IDONTKNOW](https://open.spotify.com/album/7gBKC4DZACdv0RllYjrdMm) | 3:29 | 2025-11-10 |  |
 | [IDWTEXTUBABY](https://open.spotify.com/track/5qCBvYAAU36yMNlWocpWsJ) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1) | [IDWTEXTUBABY](https://open.spotify.com/album/2KRM2qkoin6x6INQsC3k16) | 6:46 | 2023-10-13 | 2024-02-29 |
 | [If you know](https://open.spotify.com/track/4VTcx7SL7OyJkPdgM9UxKg) | [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [Crakky](https://open.spotify.com/artist/3t80c7XZFuKcSUVyvpI6d3) | [If you know](https://open.spotify.com/album/5rYEDfD05wXsm6CAfemsCh) | 2:42 | 2025-09-12 |  |
 | [igotyou](https://open.spotify.com/track/4axeZkPYK38pCXZELyCXll) | [Kyl Aries](https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S) | [igotyou](https://open.spotify.com/album/0iAYpL3xGoiRFVXo2R7WA9) | 3:40 | 2022-10-12 | 2023-07-29 |
@@ -241,6 +244,7 @@
 | [Mainam / Mabisa](https://open.spotify.com/track/0Q1879QRVps63osVcYPAYu) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [Mainam / Mabisa](https://open.spotify.com/album/0AJA9EgDJ3qqCnFqTmqrgR) | 2:28 | 2025-10-31 |  |
 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 | 2024-01-15 | 2024-07-19 |
 | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4) | 2:01 | 2024-03-12 | 2025-01-17 |
+| [Make A Wish](https://open.spotify.com/track/6M3hRDcVEBDgaAaI5aaPKm) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [Make A Wish](https://open.spotify.com/album/5mTZ1SFxywhYf5nPJBXHYO) | 4:27 | 2025-11-10 |  |
 | [Malasakit](https://open.spotify.com/track/33xcB3dLE5haF3LxwvtQzy) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [Malasakit](https://open.spotify.com/album/42DvCYjjDO5d5yAUgf4y92) | 3:06 | 2025-05-02 |  |
 | [Malisya](https://open.spotify.com/track/2o5NkN4nNpmAx3QscFfTS2) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Malisya](https://open.spotify.com/album/5wD0SPahKQqN9NKCZPtZ6H) | 3:09 | 2024-05-03 | 2025-01-17 |
 | [Mamahalin](https://open.spotify.com/track/67v7TkHTordNkMm1MIHpIa) | [Frank Blanco](https://open.spotify.com/artist/7KuJ9VFYkvO2a5ZXz14EO4), [Symbless](https://open.spotify.com/artist/5O7HqVQDYpLFCATOO0fzZn) | [Mamahalin](https://open.spotify.com/album/7j3v49PmtIOprZ4HzNt0vZ) | 3:00 | 2025-06-06 |  |

@@ -4,11 +4,11 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-605 songs - 1 day 9 hr 50 min
+606 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [123 Song](https://open.spotify.com/track/2w4f45J58TnUpssWFkZIv8) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s) | [123 Song](https://open.spotify.com/album/2KczjoF1GdeaCnKPg1O21l) | 3:02 | 2025-09-30 |  |
+| [123 Song](https://open.spotify.com/track/2w4f45J58TnUpssWFkZIv8) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s) | [123 Song](https://open.spotify.com/album/2KczjoF1GdeaCnKPg1O21l) | 3:02 | 2025-09-30 | 2025-11-11 |
 | [90's Kid](https://open.spotify.com/track/267GHnAzfVj04A6ErbCOSD) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [90's Kid](https://open.spotify.com/album/2TeDSPSdj1UC36nj3G4nam) | 1:58 | 2024-08-14 | 2024-08-24 |
 | [Aa Bhi Jaa](https://open.spotify.com/track/2UhGH6QOvugViwXNTLEN2L) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:24 | 2024-04-15 | 2024-06-29 |
 | [Aa Gaye](https://open.spotify.com/track/2Y0dIYsDmjVUiLkBmxsu6Q) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T) | [Aa Gaye](https://open.spotify.com/album/4GJ93ilT4VvRNC0LNx9NYg) | 2:36 | 2025-05-15 | 2025-06-03 |
@@ -537,6 +537,7 @@
 | [Tu Hai Pari](https://open.spotify.com/track/3CmrGupyMWv8nPmvi82l29) | [Jobin Johny](https://open.spotify.com/artist/5fGhoGW4lgdZdQrQ8DWB4x) | [Tu Hai Pari](https://open.spotify.com/album/674vfQyjaaQ6DuvZ8p3oJA) | 2:48 | 2025-02-17 | 2025-03-14 |
 | [Tu Hai Sab Hai](https://open.spotify.com/track/14g8GrtXyIyHUdi37SxvtW) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Tu Hai Sab Hai](https://open.spotify.com/album/14H4tiC2cHjLNZ2lwz0lvx) | 3:57 | 2024-07-04 | 2024-07-27 |
 | [Tu Hai Toh Main Hu](https://open.spotify.com/track/3JeGnCva6aZgmG8uUlSdqe) | [Mohammed Izhar](https://open.spotify.com/artist/0wefMWpIqzVQ5v5nCehJ6k) | [Tu Hai Toh Main Hu](https://open.spotify.com/album/5antflRPPfVvqj1856YjAj) | 3:54 | 2023-10-26 | 2023-12-13 |
+| [tu hai ya hai nahi \(raw live\)](https://open.spotify.com/track/24cxugZnxzy2fWmZhleFLN) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [tu hai ya hai nahi \(raw live\)](https://open.spotify.com/album/7t0BwFWpB2HKBNREWIO19b) | 3:49 | 2025-11-10 |  |
 | [Tu Hai Yaari](https://open.spotify.com/track/67fBkM5CywtT9TD89iONW8) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O) | [Tu Hai Yaari](https://open.spotify.com/album/0xGRQ51ajqJv5l4MX2C2AJ) | 2:41 | 2023-05-17 | 2023-12-20 |
 | [Tu Hain](https://open.spotify.com/track/0N3Z2AgLRFHbXXPWtJW372) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 2:43 | 2023-08-03 | 2023-08-29 |
 | [Tu Hi](https://open.spotify.com/track/0G9h3LDKCk6Z3pLBFENznY) | [Akash Chopra](https://open.spotify.com/artist/2opKS25hOaAFziQ5PWNAWT) | [Tu Hi](https://open.spotify.com/album/39qaePyWjejpzWL4Yvy2l3) | 3:27 | 2023-05-17 | 2023-06-17 |

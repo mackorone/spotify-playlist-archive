@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Digital Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,660 likes - 103 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,716 likes - 103 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 4 | [Fade Away](https://open.spotify.com/track/7vAec0KrkSxT5Qt6Kkoy95) | [Digital Madness](https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl) | [Fade Away](https://open.spotify.com/album/1KZQSmB7On6dGlOjulEfpm) | 2:57 |
 | 5 | [Beyond Oblivion](https://open.spotify.com/track/5eQp2oQ0v1x3BPPn5W4B68) | [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv) | [Beyond Oblivion](https://open.spotify.com/album/2hHPMlHeI0u7DCMQIRAq3c) | 4:00 |
 | 6 | [Outro](https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Outro](https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA) | 2:24 |
-| 7 | [Only One](https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Only One](https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA) | 3:11 |
-| 8 | [Monster](https://open.spotify.com/track/7kKiWkG6ywrAG9G0j1eU1g) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Monster](https://open.spotify.com/album/35xQ0NtciFJUkNa71dIGBl) | 3:23 |
-| 9 | [ON A MISSION](https://open.spotify.com/track/5G7DSIeNna8og1AtQvACdN) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [ON A MISSION](https://open.spotify.com/album/5S5cjnfzyAJLVncgqJ2ySB) | 3:01 |
-| 10 | [Fall Behind](https://open.spotify.com/track/7AGPMTRjFukMBaejYmPsj1) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ) | [Fall Behind](https://open.spotify.com/album/7AAFWNc30rvWtEFn5JGpJd) | 2:23 |
-| 11 | [Onkruid](https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Onkruid](https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev) | 2:51 |
+| 7 | [Onkruid](https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Onkruid](https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev) | 2:51 |
+| 8 | [Only One](https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Only One](https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA) | 3:11 |
+| 9 | [Monster](https://open.spotify.com/track/7kKiWkG6ywrAG9G0j1eU1g) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Monster](https://open.spotify.com/album/35xQ0NtciFJUkNa71dIGBl) | 3:23 |
+| 10 | [ON A MISSION](https://open.spotify.com/track/5G7DSIeNna8og1AtQvACdN) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [ON A MISSION](https://open.spotify.com/album/5S5cjnfzyAJLVncgqJ2ySB) | 3:01 |
+| 11 | [Fall Behind](https://open.spotify.com/track/7AGPMTRjFukMBaejYmPsj1) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ) | [Fall Behind](https://open.spotify.com/album/7AAFWNc30rvWtEFn5JGpJd) | 2:23 |
 | 12 | [Hardcore Junky \(One With The Bass\)](https://open.spotify.com/track/71zqC71ELEnE5Byl25FzTj) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [DJ E\-Maxx](https://open.spotify.com/artist/4LrX3f6sIkAGgT15T2QT1G) | [Hardcore Junky \(One With The Bass\)](https://open.spotify.com/album/06U5ViOnS9ZeVT4tZQFq8q) | 2:26 |
 | 13 | [Cosmic Journey](https://open.spotify.com/track/3AoY1OfZqIf3YsiuWVskKq) | [Horyzon](https://open.spotify.com/artist/4dt1zguktrZlBRP7zuEQDX), [Michelle Issa](https://open.spotify.com/artist/6wDs99xW9y3M5JDAtaMb53) | [Cosmic Journey](https://open.spotify.com/album/5fiUPgeHLx8OSfNgrt2NhX) | 3:42 |
 | 14 | [Out Of Body Experience](https://open.spotify.com/track/68RrAbnV0ddG4P2qUG1xM8) | [Jesse Jax](https://open.spotify.com/artist/1PYQj2h0huAOD01p2Bhn1O) | [Out Of Body Experience](https://open.spotify.com/album/1AulOKyyz4OBnpqG1SNoOD) | 3:15 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 102 | [CHAOS](https://open.spotify.com/track/3OS6AGUpWX2z5NQhKVnBHf) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [CHAOS](https://open.spotify.com/album/3jftWMxRJPCZDk14US1H2b) | 3:14 |
 | 103 | [PATIENT ZERO](https://open.spotify.com/track/789rdb2uJ6BmrO73upVDGP) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [PATIENT ZERO](https://open.spotify.com/album/15pDRuSHVMkCkZvoplbzc7) | 2:58 |
 
-Snapshot ID: `AAAAADcByQH1bv/gHABRr0Vw45Od/Xor`
+Snapshot ID: `AAAAAO181/N/Nfufpf0lYenODiQ0uNhg`

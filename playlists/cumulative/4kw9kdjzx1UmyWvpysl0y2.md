@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,111 songs - 2 day 14 hr 6 min
+1,112 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
 | [HOT SHOT](https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [HOT SHOT](https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ) | 3:47 | 2024-05-17 | 2024-08-14 |
 | [how to feel alive](https://open.spotify.com/track/5FzcVssNKfmCF7WvJFUx2U) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [how to feel alive](https://open.spotify.com/album/64CuCT2IKWYddwO9KkZDlK) | 2:37 | 2025-09-15 |  |
+| [Hybrid](https://open.spotify.com/track/7wEyBeHHjMIxrhTEnNDcsR) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Hybrid / Future](https://open.spotify.com/album/3LakW6mS1r4E2eoIsY39AW) | 3:33 | 2025-11-10 |  |
 | [Hyperfocus](https://open.spotify.com/track/4LvnF1Iw4HcQ2rCm07mYjc) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Hyperfocus](https://open.spotify.com/album/5I5UOahbD9vGY8CqM2sGZc) | 3:13 | 2025-08-28 |  |
 | [Hyperstrike](https://open.spotify.com/track/0UKAhAIlMCi61n7Q8Q0hmR) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [Hyperstrike](https://open.spotify.com/album/4OQXloIuW9Z0PTpPqIfF2d) | 3:19 | 2025-04-14 | 2025-07-09 |
 | [Hypnosis](https://open.spotify.com/track/2Gcufl4PVGv384tmFpi6QS) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Hypnosis](https://open.spotify.com/album/0i4UodNeG7dNTr0QfjoDPE) | 3:18 | 2024-02-14 | 2024-05-07 |

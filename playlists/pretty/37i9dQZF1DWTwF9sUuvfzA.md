@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwF9sUuvfzA.md) - [plain]
 
 > La playlist ufficiale della nuova stagione! Guarda Skam Italia 6, solo su Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,425 likes - 41 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,424 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

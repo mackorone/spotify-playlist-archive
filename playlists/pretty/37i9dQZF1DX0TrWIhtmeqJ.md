@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Ledbyher
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,448 likes - 70 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,449 likes - 70 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 64 | [16 Eden](https://open.spotify.com/track/2FqnCosayR6UTyRyVHhymb) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [16 Eden](https://open.spotify.com/album/5EUbD8c1aaQPPyaREQXRwB) | 2:30 |
 | 65 | [GQ](https://open.spotify.com/track/0iFU7cBlLYJdLLfLxmYhOd) | [kissin’ teef](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw) | [impatiently waiting](https://open.spotify.com/album/6rCJMO4MKHDmRFhlErEr2t) | 2:43 |
 | 66 | [What I Need](https://open.spotify.com/track/08G9Y4M8omdMuULBRhCU6G) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [SENGI](https://open.spotify.com/artist/1q4pwq0du7Go6pDCHk2kva) | [LONG RIDE HOME](https://open.spotify.com/album/0KGV4vvwZRqMtZ5gmTSzR8) | 2:13 |
-| 67 | [Suya](https://open.spotify.com/track/0HCrelYt8aGjCtcyvCuNl9) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft), [Namani](https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj) | [Suya](https://open.spotify.com/album/58nHkbTjq9i0Cnn33webIK) | 2:25 |
+| 67 | [Suya](https://open.spotify.com/track/0HCrelYt8aGjCtcyvCuNl9) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft), [Namani](https://open.spotify.com/artist/7BLMBJsKXvkqHLusvSWftd) | [Suya](https://open.spotify.com/album/58nHkbTjq9i0Cnn33webIK) | 2:25 |
 | 68 | [40 Doors](https://open.spotify.com/track/03CBYseqfLSqzUXhRuJZqR) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [40 Doors](https://open.spotify.com/album/50mql4nHa72ylubgL32the) | 3:02 |
 | 69 | [One More](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
 | 70 | [WORK](https://open.spotify.com/track/3aIdKjlx606TM4p0DwhVph) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm), [Micofcourse](https://open.spotify.com/artist/3VVZ5V4wWkw5iO4bWo0N9g) | [WORK](https://open.spotify.com/album/3kwbPkURG4fc4tOQyL6Qm4) | 2:40 |

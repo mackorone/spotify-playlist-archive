@@ -2,7 +2,7 @@
 
 ### [2025 金音獎精選](https://open.spotify.com/playlist/37i9dQZF1DX0rfzJZ1SihB)
 
-> 金音獎進入第 16 年了！Spotify 當然全力支持！火速呈獻這些最令人驚喜與回味的好作品 ！
+> 金音獎進入第 16 年了！Spotify 當然全力支持！立即欣賞這些最令人驚喜與回味的好作品 ！
 
 456 songs - 1 day 6 hr 34 min
 

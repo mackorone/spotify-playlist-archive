@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHiChtSXysuwP32WiPwfgcv2jPQ0HX",
+  "snapshot_id": "AAAHitaTs9Xhhawq0OPCH5nBr/00gyyl",
   "tracks": [
     {
       "added_at": "2025-11-05 23:30:36",
@@ -1343,6 +1343,38 @@
       "duration_ms": 228000,
       "name": "The Contract",
       "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
+    },
+    {
+      "added_at": "2025-11-11 03:36:17",
+      "album": {
+        "name": "BIG MACHINE",
+        "url": "https://open.spotify.com/album/1ObhvbWzD8dAHfm9Go4DZw"
+      },
+      "artists": [
+        {
+          "name": "These New South Whales",
+          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "BIG MACHINE",
+      "url": "https://open.spotify.com/track/1nMIgMOFK9c5xNFm4OuRLM"
+    },
+    {
+      "added_at": "2025-11-11 03:37:12",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1SbLznptLEYrOcvzEPJOTT"
+      },
+      "artists": [
+        {
+          "name": "Crocodylus",
+          "url": "https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw"
+        }
+      ],
+      "duration_ms": 275984,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/7HH6i9ogvRx1dV8rdkQ40q"
     }
   ],
   "unique_name": "Plugged In",

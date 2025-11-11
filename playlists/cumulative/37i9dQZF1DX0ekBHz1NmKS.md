@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,047 songs - 4 day 10 hr 8 min
+2,049 songs - 4 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Begrava dig](https://open.spotify.com/track/75w415l2DWr3SwGMEreFpS) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Begrava dig](https://open.spotify.com/album/3QnFcFuPqIdEq8xA9RK4yD) | 3:12 | 2023-10-12 | 2024-01-26 |
 | [Behöver dig](https://open.spotify.com/track/4HjdRLcohBkBchtEtBGXgv) | [Sebbe Hauta](https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z) | [Behöver dig](https://open.spotify.com/album/4f5lmGgYEpwtLCi4AD3eMb) | 3:20 | 2024-04-26 | 2024-05-24 |
 | [Behöver inte dig](https://open.spotify.com/track/5RSiyTwpksCU6D6l68Nwd8) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Behöver inte dig](https://open.spotify.com/album/0vkWo7jXOSLoYJYePkUpVm) | 2:46 | 2023-10-19 | 2023-11-13 |
-| [Bella Notte](https://open.spotify.com/track/7otGQbrdl9RGn9MEyfxE3M) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bella Notte](https://open.spotify.com/album/2cr5JLkfWtOGPbbf7sUkyR) | 2:20 | 2025-05-15 |  |
+| [Bella Notte](https://open.spotify.com/track/7otGQbrdl9RGn9MEyfxE3M) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bella Notte](https://open.spotify.com/album/2cr5JLkfWtOGPbbf7sUkyR) | 2:20 | 2025-05-15 | 2025-11-11 |
 | [Belly Shots](https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU) | 2:35 | 2023-03-30 | 2023-10-06 |
 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 | 2022-05-26 | 2023-03-18 |
 | [Bellyaches](https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY) | 2:45 | 2024-09-12 | 2024-10-03 |
@@ -344,7 +344,7 @@
 | [December](https://open.spotify.com/track/0OJsfvkWxhqWDPyjWSyrI7) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [December](https://open.spotify.com/album/2eGlooZiq4CPXAgbnkP4O0) | 2:30 | 2024-11-21 | 2025-02-13 |
 | [Deep Down \- From the Film ‘Avgrunden’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘Avgrunden’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 | 2023-09-14 | 2024-01-19 |
 | [Del av dig](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-05 | 2024-10-17 |
-| [Den enda du har](https://open.spotify.com/track/4qhTYbdnPbpZr2SQgStJrP) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Den enda du har](https://open.spotify.com/album/1gwhFxLUwG7QFmKiibz01j) | 4:46 | 2025-09-18 |  |
+| [Den enda du har](https://open.spotify.com/track/4qhTYbdnPbpZr2SQgStJrP) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Den enda du har](https://open.spotify.com/album/1gwhFxLUwG7QFmKiibz01j) | 4:46 | 2025-09-18 | 2025-11-11 |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1bYVmrLMimVUcFa1dzeZE4) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:16 | 2023-09-08 | 2023-10-06 |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Den här gången är det på riktigt](https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw) | 4:16 | 2023-02-23 | 2023-08-26 |
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-05 | 2025-03-14 |
@@ -1139,6 +1139,7 @@
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-09 | 2023-04-26 |
 | [Maraton \(feat\. Eah Jé\)](https://open.spotify.com/track/0FAWHFKFtk9eUQK6gLxBkw) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Maraton \(feat\. Eah Jé\)](https://open.spotify.com/album/4bUMq7yTcmgilNweyJ6Z4t) | 2:19 | 2024-04-11 | 2024-05-17 |
+| [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 | 2025-11-06 |  |
 | [Maria Magdalena](https://open.spotify.com/track/3SzkjtUKRbFwtCW6Hv1IWH) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [David Björkén](https://open.spotify.com/artist/29ORyt6ysJYet2hev2Hb7s), [Värmlands Fria Kör](https://open.spotify.com/artist/4zi70YxOB3MHfSj4unlNOT) | [Maria Magdalena](https://open.spotify.com/album/0oipNzN6TMnk2JLydkSw3e) | 5:33 | 2023-12-08 | 2024-02-23 |
 | [Masken av](https://open.spotify.com/track/58ATiWksUkCYPVqgFCX6TX) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Masken Av](https://open.spotify.com/album/5zxtkIde8OHqOfBmlqEQoH) | 2:49 | 2024-08-29 | 2024-09-20 |
 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 | 2024-06-27 | 2024-12-31 |
@@ -1420,6 +1421,7 @@
 | [RADIO INTERRUPTION ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 | 2024-10-10 | 2024-11-12 |
 | [Ramla](https://open.spotify.com/track/5L8ZRVUZOgQMlz5jsKjCTE) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Ramla](https://open.spotify.com/album/39OJYOVxta0JzTODnefED9) | 2:34 | 2025-06-26 |  |
 | [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-12 | 2025-01-10 |
+| [RANSOMS](https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [RANSOMS](https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7) | 3:03 | 2025-11-06 |  |
 | [Rasar](https://open.spotify.com/track/6XsbS58qJE2iJlSCFMiFME) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Rasar](https://open.spotify.com/album/57riTGSkCE0lFqZZigg96O) | 2:28 | 2024-05-09 | 2024-06-07 |
 | [Real Life](https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Real Life](https://open.spotify.com/album/6fdhAWKpjpfdcte2aAswfc) | 3:19 | 2022-02-20 | 2022-05-09 |
 | [Real Love](https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Real Love](https://open.spotify.com/album/6QMFqBz7exj0lJEAM56HRB) | 3:42 | 2021-12-16 | 2022-01-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,620 likes - 139 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,671 likes - 139 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 61 | [Dawn Birds](https://open.spotify.com/track/4lTdrXBSG7Si26QIhYzLrZ) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Dawn Birds](https://open.spotify.com/album/4WuREe2T9AyU6NdVm2cqd0) | 2:46 |
 | 62 | [Swimming](https://open.spotify.com/track/4Wgiac3MHUw63N3PaIsCLM) | [Monika](https://open.spotify.com/artist/38BFYN3khru2n281KjI4Nd) | [Corsair Bay & Other Stories](https://open.spotify.com/album/3IZ9uXR9hr3BdTWQChexmO) | 7:48 |
 | 63 | [Sunfloating](https://open.spotify.com/track/3P6VlV6UjMr5qg78tzzU9P) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Southeast Limits](https://open.spotify.com/album/12EWdR1T4nbITFaL5pmXUe) | 5:55 |
-| 64 | [Morning Energy](https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Morning Energy](https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH) | 2:00 |
+| 64 | [Morning Energy](https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL) | [The Hermit](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Morning Energy](https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH) | 2:00 |
 | 65 | [SECAI](https://open.spotify.com/track/5UQxbUqQX4AaZFHibVIit8) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Jatinder Singh Durhailay](https://open.spotify.com/artist/61FiO41HGvzvRpwwYIoGPG) | [SECAI](https://open.spotify.com/album/1cIL5hxKUTT0qgjejNIPqc) | 2:19 |
 | 66 | [El Esperado Desenlace](https://open.spotify.com/track/4dbIBvGvVqYVd6lizMB55O) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [El Refugio Efímero](https://open.spotify.com/album/7iMEnrd9YEnP7LmZ4ZFP5d) | 2:44 |
 | 67 | [Ratiljóst](https://open.spotify.com/track/133rBUTl1xHOTRcNL0f8zP) | [The Last Archiver](https://open.spotify.com/artist/3VK6ZVyhIhVAl16oshWApm) | [Ratiljóst](https://open.spotify.com/album/1I4DkvpyCwYH8769vtSSaP) | 5:32 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 70 | [On Art and Time](https://open.spotify.com/track/0vrvN4KCUtKCZd6ml5Rdop) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [On Art and Time](https://open.spotify.com/album/79mHKfqBtubVqOG9yG5NZw) | 4:43 |
 | 71 | [Elegance of Nature](https://open.spotify.com/track/0ZnL1YP4Bc6BOGSqSNst1G) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Elegance of Nature](https://open.spotify.com/album/6z6JDeMbGyvNgBegDyb3wv) | 5:44 |
 | 72 | [Birds of Paradise](https://open.spotify.com/track/5Qm47coZ5Eph0roKaCml85) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 5:24 |
-| 73 | [Water Ambience](https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Water Ambience](https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc) | 2:37 |
+| 73 | [Water Ambience](https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP) | [The Hermit](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Water Ambience](https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc) | 2:37 |
 | 74 | [In the Mirror](https://open.spotify.com/track/5Hb4ibFJyxsQeA7zlVvbCH) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ), [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Summer Chronicles](https://open.spotify.com/album/3kXTpQS86OJ2U5yt1GP2y3) | 2:47 |
 | 75 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 |
 | 76 | [Gaia](https://open.spotify.com/track/4zcTEi6s5rZqTMHZlhhZqg) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Gaia Sagrada Vol\. 2](https://open.spotify.com/album/3eDW4ODhGd09Pg8QTPzBlV) | 3:01 |

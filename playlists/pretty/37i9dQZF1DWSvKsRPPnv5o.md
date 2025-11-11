@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Compton Av
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,857 likes - 101 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,864 likes - 101 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 19 | [In Vain](https://open.spotify.com/track/4iJGnqlN4leUbViuIdtQlm) | [DW FLAME](https://open.spotify.com/artist/1aQRe18EFgH0nxSm9bmo4v) | [Blueflame](https://open.spotify.com/album/0H28U6YUtVgZuG2Rg4LP1V) | 2:46 |
 | 20 | [The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4) | 2:14 |
 | 21 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 |
-| 22 | [Pink Slip](https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [Caught Up In The Game : Disc 2](https://open.spotify.com/album/1ELfggHpYAqOnNLttTFBqU) | 4:01 |
+| 22 | [Pink Slip](https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [AP x FOCUS](https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5) | [Caught Up In The Game: Disc 2](https://open.spotify.com/album/1ELfggHpYAqOnNLttTFBqU) | 4:01 |
 | 23 | [E.14TH](https://open.spotify.com/track/3zcDbwkuNy4P4b4Z1ufNQC) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [SAM'S CLUB](https://open.spotify.com/album/50OBECtPBbwI9OGlg7vCHh) | 2:35 |
 | 24 | [Menace II Society](https://open.spotify.com/track/2n9BdoIul6domqB7Qmdeyl) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH) | [Menace II Society](https://open.spotify.com/album/0NswV420FYfFA8SFt4oPyg) | 2:21 |
 | 25 | [KLOWN dance \(feat\. Jay Rock\)](https://open.spotify.com/track/38tT9H9JYKXjUDs4kqaE4e) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 3:19 |

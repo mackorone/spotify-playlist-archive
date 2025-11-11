@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain](/playlists/plain/37i9dQZF1DWSWyJydK4fTU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWyJydK4fTU)
 
-### [Top of the Morning](https://open.spotify.com/playlist/37i9dQZF1DWSWyJydK4fTU)
+### [morning glow](https://open.spotify.com/playlist/37i9dQZF1DWSWyJydK4fTU)
 
-> Für einen tollen Start in den Tag\. Oder einfach so.
+> für deinen soft morning \- oder eine kleine Auszeit zwischendurch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,245 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,186 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 69 | [Salz in der Luft](https://open.spotify.com/track/15Tomd4tzOjVC59grLLvv1) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Du bist nicht allein](https://open.spotify.com/album/1HW3kFNlTFo6RfIlVxDZcQ) | 2:33 |
 | 70 | [Brother \(with Post Malone & YoungBoy Never Broke Again\)](https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Brother](https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ) | 3:37 |
 
-Snapshot ID: `AAAAAHbr2Y7OScKwlICN+lbG2oxd3dJw`
+Snapshot ID: `AAAAAGzat27q+hF/AR45W0nUCd+j+Lbr`

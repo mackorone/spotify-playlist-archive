@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30BEsx.md) - [plain]
 
 > This is Gautier Capuçon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30BEsx.md) - [plain]
 | 49 | [Chi mai](https://open.spotify.com/track/4NyVobuooQ1CGec0vSGE5K) | [Ennio Moriconne](https://open.spotify.com/artist/2yndP9zpcSeLDIDV2ZYotM), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I), [Lionel Bringuier](https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB) | [Destination Paris](https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq) | 3:26 |
 | 50 | [Saint\-Saëns: Le carnaval des animaux, R 125: XII\. Fossiles](https://open.spotify.com/track/6twvqDY7lfbPn3FUD1VlDX) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Béatrice Muthelet](https://open.spotify.com/artist/1g2WdTd3cGeJBqaRPd337j), [Esther Hoppe](https://open.spotify.com/artist/5P6R1Fp5iLgZHZ090XVs7F), [Florent Jodelet](https://open.spotify.com/artist/6bRfALDm1P7NjYk9eIiRiE), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Michel Dalberto](https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ), [Paul Meyer](https://open.spotify.com/artist/31rALqMKxBY8SoTJhNwJhn) | [Saint\-Saëns: Le carnaval des animaux, Septuor & Fantaisie](https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1) | 1:16 |
 
-Snapshot ID: `aQ6IAAAAAADkb6sURyutCFgI31XDCfoH`
+Snapshot ID: `aQ/ZgAAAAAAAoUkL9DvQklVvkysIZDBx`

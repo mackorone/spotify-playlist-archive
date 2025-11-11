@@ -2,9 +2,9 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: D'Angelo
+> Melodies of the movement\. Cover: Outkast
 
-117 songs - 9 hr 42 min
+118 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Revolution](https://open.spotify.com/track/1wwJMpyOQrxiUAXQgF5tVB) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Greatest Hits](https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm) | 4:46 | 2024-02-01 |  |
 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 | 2024-02-01 |  |
 | [Revolutionary Culture](https://open.spotify.com/track/1HxcfKjWfe3oZGwJy82cs8) | [Huey P\. Newton](https://open.spotify.com/artist/2SMi8AArIjUwlhY9TVxkZ7) | [Huey Newton Speaks](https://open.spotify.com/album/4yOtfYeRNDMJ3RRTWZAQnN) | 6:28 | 2021-04-16 | 2024-02-02 |
+| [Rosa Parks \- Radio Version](https://open.spotify.com/track/4olIhlVymheWWFZmanLc84) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/2hSdT1p785kAMR4LDIicFC) | 4:07 | 2025-11-10 |  |
 | [Say It Loud \- I'm Black And I'm Proud \- Pt\. 1](https://open.spotify.com/track/5h8ve1B7Gr3k4W0WXAgLxE) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The 50th Anniversary Collection](https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl) | 2:47 | 2024-02-01 |  |
 | [Shirley Chisholm \- 1972](https://open.spotify.com/track/55qA5UVl8rEK4TMFjC6rQ1) | [Shirley Chisholm](https://open.spotify.com/artist/44FpwpMLdOjnZhrfNPELar) | [Inspirational Speeches Vol\. 4](https://open.spotify.com/album/6DO6wVMYFIFiG6gVH2OpJ4) | 0:35 | 2021-04-16 | 2024-02-02 |
 | [Sign O' The Times \- 2020 Remaster](https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 4:56 | 2024-02-01 |  |

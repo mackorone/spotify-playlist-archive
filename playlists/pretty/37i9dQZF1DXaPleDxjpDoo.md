@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,786 likes - 150 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,859 likes - 150 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 142 | [Grounded](https://open.spotify.com/track/7nfHmWeBJ3ATMUmjA1ZrIS) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Grounded](https://open.spotify.com/album/4hWKZH2YvQZgixKHJ6TOUI) | 2:21 |
 | 143 | [Rainforest Bliss](https://open.spotify.com/track/3gNmRr9fH0FxDThHCqGLmN) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Rainforest Bliss](https://open.spotify.com/album/0uqojhyuqsK5SDtgXGCInO) | 2:28 |
 | 144 | [With the Flow](https://open.spotify.com/track/25ZH9ibNeaF3U5rK02Y2Up) | [Park Leaf](https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ) | [With the Flow](https://open.spotify.com/album/1yKVBgjfkVmAPPsRhGEBmi) | 3:02 |
-| 145 | [Ethereal Waves](https://open.spotify.com/track/2yeN8GlhSig74nUe3KFKOx) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Ethereal Waves](https://open.spotify.com/album/5fwzhmDCKPrdkDDQgidmqY) | 2:18 |
+| 145 | [Ethereal Waves](https://open.spotify.com/track/2yeN8GlhSig74nUe3KFKOx) | [The Hermit](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Ethereal Waves](https://open.spotify.com/album/5fwzhmDCKPrdkDDQgidmqY) | 2:18 |
 | 146 | [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 |
 | 147 | [Inner Retreat](https://open.spotify.com/track/6vkgNVCmM2i7ntU3WtUAJ8) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Inner Retreat](https://open.spotify.com/album/39d1Geo2YjAZTd2Du6iuEt) | 2:57 |
 | 148 | [Retreat](https://open.spotify.com/track/03g6bBo4AQ77eNtc2YwUV6) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Retreat](https://open.spotify.com/album/7yh6lCq7TltDkcrxkHk6Ym) | 2:38 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-120 songs - 5 hr 51 min
+121 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-11-04 |  |
 | [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-10-27 | 2025-10-29 |
 | [Rather Be In Oakland](https://open.spotify.com/track/0tnFrxqw6UPLxbO7ao9Bfe) | [Ecchi.mp4](https://open.spotify.com/artist/43rijQ3n85cBIp2xHJgXBI), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Rather Be In Oakland](https://open.spotify.com/album/3RPzNZYlz1XHGkaE4wzhfv) | 2:37 | 2025-11-06 |  |
+| [Re\-Bokk Robot \- Hannah Holland Remix](https://open.spotify.com/track/0YvLDpBKBoqUc0ntufZtqn) | [POSH! The Prince](https://open.spotify.com/artist/4rNGolATKxQcFM59djG041), [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Batty Bass Presents: Return to Planet Batty, Rise of the Artists](https://open.spotify.com/album/16KMZ0OAyjeIgK8CWB3EQi) | 6:20 | 2025-11-10 |  |
 | [Rottweiler](https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:36 | 2025-10-27 |  |
 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 | 2025-10-28 | 2025-11-01 |
 | [Slow down](https://open.spotify.com/track/3XYM6xFXJYSs0tquRM6RTy) | [Assiyah](https://open.spotify.com/artist/0Q8LA4p8dIHxbg5eeVhGZA) | [Slow down](https://open.spotify.com/album/65MPZraYAYcTsBSuz5Y5EG) | 2:25 | 2025-10-28 |  |
@@ -105,7 +106,7 @@
 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 | 2025-10-27 | 2025-10-30 |
 | [The Devil I Know](https://open.spotify.com/track/7k75y6b7WkIZOFzS2wYx4m) | [Mae Hill](https://open.spotify.com/artist/51mpNR9ivpZEWp50hXyltm) | [The Devil I Know](https://open.spotify.com/album/6qMAsM2FKIfM5LatGMVrvm) | 2:42 | 2025-10-28 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-27 |  |
-| [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-28 |  |
+| [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-28 | 2025-11-11 |
 | [The Purple People Eater](https://open.spotify.com/track/0WkZQPNC0c7yrsMX1arVAd) | [Sheb Wooley](https://open.spotify.com/artist/2dOTS74R4yPISc7AVU9QzD) | [The Purple People Eater](https://open.spotify.com/album/6aNbS6LXGqL1XVwU1bSzDu) | 2:17 | 2025-11-01 | 2025-11-05 |
 | [The Simpsons Treehouse of Horror \- Halloween Special Theme](https://open.spotify.com/track/1UGa7FRgtQGyBQIVz26Nrz) | [Cinematixx](https://open.spotify.com/artist/1ovRaYr6kUUCZ9p02D1sC7) | [Halloween Themes](https://open.spotify.com/album/47YUW14CrZJUgRn5V146NP) | 0:45 | 2025-11-01 | 2025-11-06 |
 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 | 2025-10-27 | 2025-10-30 |

@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Panter Bélico en portada.
 
-260 songs - 13 hr 33 min
+261 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [El 40 \(Durango\)](https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles Vol.II](https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz) | 3:43 | 2024-10-18 | 2025-07-05 |
 | [El 602](https://open.spotify.com/track/01v0johTl8Ul7Czv3HShgU) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Grado 33](https://open.spotify.com/artist/0t2KfN3tEKfqVQA9SHguAO) | [El 602](https://open.spotify.com/album/2bsJcfaIJcA7DemqKPQttl) | 4:34 | 2024-05-24 |  |
 | [El 7 Tito Beltrán](https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El 7 Tito Beltrán](https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg) | 4:07 | 2024-02-23 |  |
-| [El 90 Menor](https://open.spotify.com/track/397Y4fmU5NK4nKPgtX5Hun) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Puras Selecciones](https://open.spotify.com/album/1yWwirbJDCSoI6gNDbOAAH) | 3:08 | 2025-11-07 |  |
+| [El 90 Menor](https://open.spotify.com/track/397Y4fmU5NK4nKPgtX5Hun) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Puras Selecciones](https://open.spotify.com/album/1yWwirbJDCSoI6gNDbOAAH) | 3:08 | 2025-11-07 | 2025-11-11 |
 | [El Abueloco](https://open.spotify.com/track/5UALMeemGdfMO12oO4B0dI) | [Otro Nivel](https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp), [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [El Abueloco](https://open.spotify.com/album/2SUhkYTy3AW6gKLMZ36Hp2) | 2:39 | 2024-07-19 | 2024-08-24 |
 | [EL AGUACATE](https://open.spotify.com/track/55mYirvdiqvqyqqyoN2u5s) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v) | [DINERAL](https://open.spotify.com/album/68mbDIj6DitHfWWAQnleWK) | 3:42 | 2025-08-15 |  |
 | [El Aguacatero](https://open.spotify.com/track/4h8lQ9ZedhxWw4nEbEBUrt) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Aguacatero](https://open.spotify.com/album/5VWbudLsrwBZotVG0BdesN) | 3:09 | 2024-01-26 | 2024-05-25 |
@@ -170,6 +170,7 @@
 | [La Casa De Balta](https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Leyendas](https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO) | 2:48 | 2024-03-01 | 2024-11-02 |
 | [La Cheyenne con Camper](https://open.spotify.com/track/3ivXbe3k31PtZtjumCDeH9) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Cheyenne con Camper](https://open.spotify.com/album/6Yw8AbcXq8u76x3QrHHDkg) | 3:00 | 2024-04-12 | 2024-05-25 |
 | [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 | 2024-01-26 | 2024-05-25 |
+| [La Gente De Durango](https://open.spotify.com/track/5SoFa549wQYFrsj7fxyyFh) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [La Gente De Durango](https://open.spotify.com/album/2DHIwHFhWk5OP97yrkTCMn) | 2:24 | 2025-11-07 |  |
 | [La Gente Del M](https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW) | [Grupo Definitivo](https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [La Gente Del M](https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO) | 2:50 | 2024-09-13 | 2025-02-22 |
 | [La Güera y La Morena](https://open.spotify.com/track/28c2DNs7tghpQuVZLbaRyb) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Güera y La Morena](https://open.spotify.com/album/3iUNVJ2MkizmsYYeTBxSTx) | 3:22 | 2025-03-28 | 2025-11-08 |
 | [La Letra Muda](https://open.spotify.com/track/21SjBArMTAwBFUtWmFlpAO) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [La Letra Muda](https://open.spotify.com/album/5VM6PVwdQRTbTfxtWLMW0U) | 4:43 | 2024-02-09 | 2024-02-24 |

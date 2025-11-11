@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-516 songs - 1 day 17 hr 20 min
+517 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2023-04-01 |
 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 | 2021-10-06 | 2025-06-07 |
 | [CV／Gate](https://open.spotify.com/track/77VMqdtUogf2xrCGrZkGdZ) | [Long Island Sound](https://open.spotify.com/artist/3pjD8ZnuS0MDfx5nVGDDws) | [CV／Gate](https://open.spotify.com/album/0gU1TsXv072udsyYjZ4n8V) | 4:17 | 2025-09-19 |  |
+| [D.I.S.](https://open.spotify.com/track/3az9Ir2Qd2JBHxT9wfGLoV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [D.I.S.](https://open.spotify.com/album/3GKiNeF8efgPVOIijAeCZn) | 3:32 | 2025-11-10 |  |
 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 | 2024-04-19 |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-06 | 2025-06-10 |
 | [denon](https://open.spotify.com/track/0l2azF8wxLAcJIQq5ZwgAr) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV) | [denon](https://open.spotify.com/album/0EzTFUj1ERlNOhZFELTc8N) | 5:45 | 2025-09-19 |  |
@@ -372,7 +373,7 @@
 | [Sage](https://open.spotify.com/track/1IXmU0CSRnnH8BLxZD7kVK) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Mantra](https://open.spotify.com/artist/0pURdJtqEp2EZz5L1LIYhy), [Decibella](https://open.spotify.com/artist/7dgq4diTXTqfB2DhGsO69L) | [Sage \- EP](https://open.spotify.com/album/0OmdGJIRwiqi650UkLFiPW) | 6:17 | 2025-10-17 |  |
 | [Satellite](https://open.spotify.com/track/1ZujYf9faGjNWfb5kChIYY) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF), [Trans Voices](https://open.spotify.com/artist/5gKkDU3PBlwJF3KXTfgplH) | [Satellite](https://open.spotify.com/album/340HOvCalhkakUkfdtZohg) | 4:24 | 2025-05-30 |  |
 | [Scanners](https://open.spotify.com/track/5p9JMOuMlYLDtfWtzW23v6) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Scanners](https://open.spotify.com/album/6UoOcnOdy6hnb6p63inGC0) | 5:37 | 2025-04-16 |  |
-| [Schwarm](https://open.spotify.com/track/30UUETsGGeu6hosEjWw6pC) | [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Off Key & Time](https://open.spotify.com/album/2mAUdJBGZhaL21dimNZggf) | 5:41 | 2025-06-06 |  |
+| [Schwarm](https://open.spotify.com/track/30UUETsGGeu6hosEjWw6pC) | [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Off Key & Time](https://open.spotify.com/album/2mAUdJBGZhaL21dimNZggf) | 5:41 | 2025-06-06 | 2025-11-11 |
 | [Seca](https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u) | 2:18 | 2021-10-06 | 2024-04-19 |
 | [Seca](https://open.spotify.com/track/4URZmx8vA3tRRb0FFkbMHJ) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/4geSagGdLzudTyR6SW2mTo) | 2:18 | 2021-10-06 | 2025-07-17 |
 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 | 2022-08-03 | 2025-06-14 |

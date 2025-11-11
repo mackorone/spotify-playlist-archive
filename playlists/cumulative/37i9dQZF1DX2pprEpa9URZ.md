@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-510 songs - 2 day 2 hr 37 min
+511 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Flores Blancas](https://open.spotify.com/track/4eCDvHu3fUH35yIiajE8wX) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [4Rain](https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME), [Anlly Marín](https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr) | [Flores Blancas](https://open.spotify.com/album/1uSNpU4aKLg7nyOAr3ylS6) | 3:12 | 2025-07-25 |  |
 | [Flou](https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy) | [Planet Caravan](https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5) | [Mirage](https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h) | 6:25 | 2019-08-02\* | 2023-02-01 |
 | [Flowers in Mind](https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz) | [Agawe](https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn) | [Solstice Vibes III](https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF) | 6:43 | 2020-09-26 |  |
-| [For Your Love](https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [BL SUEDE](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j) | [For Your Love](https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5) | 3:54 | 2025-06-23 |  |
+| [For Your Love](https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [BL SUEDE](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j) | [For Your Love](https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5) | 3:54 | 2025-06-23 | 2025-11-11 |
 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 | 2024-09-20 | 2025-07-26 |
 | [Forever \(feat\. Malou & Yuna\) \- MEDUZA Remix](https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\) \[MEDUZA Remix\]](https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp) | 2:41 | 2025-01-10 |  |
 | [Forlorn Hope](https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Forlorn Hope](https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx) | 8:40 | 2020-09-26 |  |
@@ -243,6 +243,7 @@
 | [Kyra](https://open.spotify.com/track/5mVsfYRumGlHONrZVx8hbe) | [Danito & Athina](https://open.spotify.com/artist/4Sa0Izacj6A61uSlU6jp4o) | [Kyra](https://open.spotify.com/album/6hEUUxnpFB82Lttumtep24) | 7:37 | 2019-08-02\* | 2021-05-26 |
 | [La China](https://open.spotify.com/track/6bWqpA7ytZzTdPZcmJmYzn) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [La China](https://open.spotify.com/album/4EfOTvFqlQGRrr2Th2rGc2) | 4:23 | 2025-07-25 | 2025-09-20 |
 | [La Isla \- Radio Version](https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro) | [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [Eribertho Cruz](https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb) | [La Isla](https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0) | 3:13 | 2022-09-09 |  |
+| [La Luna](https://open.spotify.com/track/5TDK3w44CEqc1xObHB0YcX) | [NODUS](https://open.spotify.com/artist/1Z9YnRJkDgL44LM2ErTd9O) | [La Luna](https://open.spotify.com/album/7drHI4mBhbdNXkFuBZloY8) | 2:59 | 2025-09-15 |  |
 | [La Sombra Del Viento](https://open.spotify.com/track/5FPfXjdeNVD7HxyDnszG3K) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [La Sombra Del Viento](https://open.spotify.com/album/2dUvFMlr8HfWMxxwFCFJfe) | 7:14 | 2022-04-04 | 2022-04-21 |
 | [Last Night \(Korolova Remix\)](https://open.spotify.com/track/6cg1PezjpVSRsRa7f9SnIP) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Last Night \(Korolova Remix\)](https://open.spotify.com/album/1xcEl66LnB3qYVJrkIf4Mf) | 2:57 | 2025-01-10 |  |
 | [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 | 2023-04-20 | 2023-09-06 |

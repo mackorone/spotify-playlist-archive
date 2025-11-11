@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/4J7RnCQEJNeM4wxdjV76tM.md) - cumulative - [plain](/playlists/plain/4J7RnCQEJNeM4wxdjV76tM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4J7RnCQEJNeM4wxdjV76tM)
 
-### [$](https://open.spotify.com/playlist/4J7RnCQEJNeM4wxdjV76tM)
+### [aight ](https://open.spotify.com/playlist/4J7RnCQEJNeM4wxdjV76tM)
 
-> ⋆.
+> teen years in a playlist
 
 643 songs - 1 day 11 hr 16 min
 

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-834 songs - 1 day 11 hr 31 min
+836 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [River crossing](https://open.spotify.com/track/1oaGPO8tK1VnTc6zBWzNkL) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [River crossing](https://open.spotify.com/album/2pj3W209MgHfvHu5bPclaQ) | 2:35 | 2024-05-24 | 2025-04-03 |
 | [River of Regisfield](https://open.spotify.com/track/02p0tuBNxqqaiveKZOXgDn) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [River of Regisfield](https://open.spotify.com/album/4ULQ5eDNyE3acU66R9YnqP) | 1:52 | 2023-04-21 | 2023-08-26 |
 | [River's Edge](https://open.spotify.com/track/7lcpqrRdvs8komIL2UI1e6) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [River's Edge](https://open.spotify.com/album/0nqR7HIHANllfef8LZt8NZ) | 3:02 | 2025-01-27 |  |
+| [Road to Maine](https://open.spotify.com/track/6vLsqujwDzrEgZec3IIJ3H) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Road to Maine](https://open.spotify.com/album/2KTm6OEUp6KGp3gVHOg2XW) | 2:45 | 2025-11-10 |  |
 | [Rolling Hills](https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Rolling Hills](https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8) | 1:57 | 2023-04-21 | 2023-08-26 |
 | [Romance Castellano](https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Romance Castellano](https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm) | 2:15 | 2022-10-07 | 2023-04-22 |
 | [Rome Tivoli](https://open.spotify.com/track/5cjoEk6N6psm1BO9Qdd4ML) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Rome Tivoli](https://open.spotify.com/album/2PqlKRq3A5LJlV7G8NBkom) | 1:51 | 2022-09-16 | 2023-04-22 |
@@ -771,6 +772,7 @@
 | [Tromsø](https://open.spotify.com/track/5ULUonFYFa7qJ4Umftu0vP) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Tromsø](https://open.spotify.com/album/4ClsAjgzSXK2faHsFnwZrC) | 2:17 | 2023-04-21 | 2024-10-02 |
 | [Tropea](https://open.spotify.com/track/2KjlaQdk4M6h7WPHCCOsjk) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Tropea](https://open.spotify.com/album/61us2aGdGHCB7SOlJe7Qsj) | 1:57 | 2023-04-21 | 2023-08-26 |
 | [Tulum](https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Tulum](https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp) | 2:56 | 2022-11-18 | 2023-04-22 |
+| [Two on The Aisle](https://open.spotify.com/track/7dIdBLlE297mJZHjnfpI5i) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Two on The Aisle](https://open.spotify.com/album/58oYLdrSUZgDyMjOcu2dMu) | 2:42 | 2025-11-10 |  |
 | [Un Dia de Novembre](https://open.spotify.com/track/2JuotGupvzrnGSYSx31N1o) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Clara Jansen](https://open.spotify.com/artist/36naeGyvAeqzuXPIVtAY6C) | [Romance d'amour](https://open.spotify.com/album/20eQWEKfXxNTeFl34aKtmr) | 2:11 | 2022-07-15 | 2022-09-23 |
 | [Unbound](https://open.spotify.com/track/45o2hX8j0DBnSBOUW07z3d) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Unbound](https://open.spotify.com/album/4fCVgwzgbeGvQXiBUrMzpH) | 1:54 | 2023-10-27 | 2024-02-23 |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 | 2023-04-22 |
